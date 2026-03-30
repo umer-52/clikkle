@@ -1,0 +1,80 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[78443,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],""]
+d:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+f:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/images/docs/tutorials/dark/idea-tracker-table.png","image"]
+:HL["/images/docs/tutorials/idea-tracker-table.png","image"]
+:HL["/images/docs/tutorials/dark/idea-tracker-permissions.png","image"]
+:HL["/images/docs/tutorials/idea-tracker-permissions.png","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build an ideas tracker with React Native","href":"/docs/tutorials/react-native/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/react-native/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/react-native/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/react-native/step-4"},{"step":5,"title":"Add routing","href":"/docs/tutorials/react-native/step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/react-native/step-6"},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/react-native/step-7"},{"step":8,"title":"Next steps","href":"/docs/tutorials/react-native/step-8"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Add database"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Connect a database to your React Native application using Appwrite Web SDK."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["In this step, you'll set up a database to store ideas in Appwrite, configure permissions, then create a"," ","context to manage ideas in your React Native app."]}],["$","h1",null,{"id":"create-table","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Create table "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["In Appwrite, data is stored as a table of rows. Create a table in the ",["$","$L3",null,{"href":"https://cloud.appwrite.io/","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"Appwrite Console"}]," to store our ideas."]}],["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/dark/idea-tracker-table.png","alt":"Create project screen"}]}]}],["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/idea-tracker-table.png","alt":"Create project screen"}]}]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Create a new table with the following columns:"}],["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Field"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"userId"}],["$","td",null,{"children":"Varchar"}],["$","td",null,{"children":"Yes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"title"}],["$","td",null,{"children":"Varchar"}],["$","td",null,{"children":"Yes"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"description"}],["$","td",null,{"children":"Text"}],["$","td",null,{"children":"No"}]]}]]}]]}],["$","h2",null,{"id":"configure-permissions","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Configure permissions "}],["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/dark/idea-tracker-permissions.png","alt":"Table permissions screen"}]}]}],["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/idea-tracker-permissions.png","alt":"Table permissions screen"}]}]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Navigate to the ",["$","strong",null,{"children":"Settings"}]," tab of your table, add the role ",["$","strong",null,{"children":"Any"}]," and check the ",["$","strong",null,{"children":"Read"}]," box."," ","Next, add a ",["$","strong",null,{"children":"Users"}]," role and give them access to ",["$","strong",null,{"children":"Create"}]," by checking those boxes."," ","These permissions apply to all rows in your new table."]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La"]}]}]]}],["$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+4:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Finally, enable ",["$","strong",null,{"children":"Row security"}]," to allow further permissions to be set at the row level."," ","Remember to click the ",["$","strong",null,{"children":"Update"}]," button to apply your changes."]}]
+5:["$","h2",null,{"id":"ideas-context","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Ideas context "}]
+6:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Now that you have a table to hold ideas, we can read and write to it from our app."," ","Like you did with the user data, we will create a React context to hold our ideas."," ","Create a new file ",["$","code",null,{"children":"contexts/IdeasContext.jsx"}]," and add the following code to it."]}]
+e:T67a,import { ID, Permission, Role, Query } from "react-native-appwrite";
+import { createContext, useContext, useEffect, useState } from "react";
+import { tablesDB } from "../lib/appwrite";
+import { toast } from "../lib/toast";
+
+export const IDEAS_DATABASE_ID = "default"; // Replace with your database ID
+export const IDEAS_TABLE_ID = "ideas-tracker"; // Replace with your table ID
+
+const IdeasContext = createContext();
+
+export function useIdeas() {
+  return useContext(IdeasContext);
+}
+
+export function IdeasProvider(props) {
+  const [ideas, setIdeas] = useState([]);
+
+  async function add(idea) {
+    const response = await tablesDB.createRow({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      rowId: ID.unique(),
+      data: idea,
+      permissions: [Permission.write(Role.user(idea.userId))]
+    });
+    toast('Ideas added');
+    setIdeas((ideas) => [response, ...ideas].slice(0, 10));
+  }
+
+  async function remove(id) {
+    await tablesDB.deleteRow({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      rowId: id
+    });
+    toast('Idea removed');
+    setIdeas((ideas) => ideas.filter((idea) => idea.$id !== id));
+    await init(); // Refetch ideas to ensure we have 10 items
+  }
+
+  async function init() {
+    const response = await tablesDB.listRows({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      queries: [Query.orderDesc("$createdAt"), Query.limit(10)]
+    });
+    setIdeas(response.rows);
+  }
+
+  useEffect(() => {
+    init();
+  }, []);
+
+  return (
+    <IdeasContext.Provider value={{ current: ideas, add, remove }}>
+      {props.children}
+    </IdeasContext.Provider>
+  );
+}
+7:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-react-native"}],["$","div",null,{"children":[["$","$Ld",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$e"}]]}]
+8:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Notice that new ideas have the added permission ",["$","code",null,{"children":"Permission.write(Role.user(idea.userId))"}],"."," ","This permission ensures that only the user who created the idea can modify it."]}]
+9:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Remeber to add the ",["$","code",null,{"children":"IdeasProvider"}]," to your ",["$","code",null,{"children":"App.js"}]," file."]}]
+a:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-react-native"}],["$","div",null,{"children":[["$","$Ld",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"\nimport { StyleSheet, Text, View } from 'react-native';\nimport { UserProvider } from './contexts/UserContext';\nimport { IdeasProvider } from './contexts/IdeasContext'; // Add import\nimport { Router } from './lib/Router';\n\nexport default function App() {\n  return (\n    <UserProvider>\n      <!-- Add the Ideas Provider -->\n      <IdeasProvider>\n        <Router />\n      </IdeasProvider>\n    </UserProvider >\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#fff',\n    alignItems: 'center',\n    justifyContent: 'center',\n  },\n});\n"}]]}]
+b:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

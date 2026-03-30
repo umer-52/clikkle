@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+f:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex w-full flex-row xl:gap-14 2xl:gap-24 overflow-visible","children":[["$","div",null,{"className":"flex-1 min-w-0 max-w-[800px] pt-12 pb-24 px-6 md:px-10 lg:pl-[4rem]","children":[[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Queries"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Filter realtime events using queries. Use familiar SDK query methods to receive only the updates that match your conditions."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["You can filter realtime events by passing queries as a third parameter when subscribing. Events are filtered server-side based on your queries, so your callback only receives updates that match your conditions. This allows you to use familiar SDK queries like ",["$","code",null,{"children":"Query.equal"}]," to automatically filter events instead of filtering manually in your callback."]}],["$","div",null,{"className":"p-4 border border-dashed border-white/20 rounded-xl my-4","children":[["$","div",null,{"className":"text-xs text-white/50 mb-2 font-mono","children":["[","MultiCode","]"]}],[["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-web"}],["$","div",null,{"children":[["$","$L2",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import { Client, Realtime, Channel, Query } from \"appwrite\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst realtime = new Realtime(client);\n\n// Subscribe to all updates\nconst allVotes = await realtime.subscribe(\n    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row(),\n    response => {\n        console.log(response.payload);\n    }\n);\n\n// Subscribe to updates where person equals 'person1'\nconst person1Votes = await realtime.subscribe(\n    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row(),\n    response => {\n        console.log(response.payload);\n    },\n    [Query.equal('person', ['person1'])]\n);\n\n// Subscribe to updates where person is not 'person1'\nconst otherVotes = await realtime.subscribe(\n    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row(),\n    response => {\n        console.log(response.payload);\n    },\n    [Query.notEqual('person', 'person1')]\n);\n"}]]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-flutter"}],["$","div",null,{"children":[["$","$L2",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import 'package:appwrite/appwrite.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal realtime = Realtime(client);\n\n// Subscribe to all updates\nfinal allVotes = realtime.subscribe(\n    [Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row()]\n);\n\nallVotes.stream.listen((response) {\n    print(response.payload);\n});\n\n// Subscribe to updates where person equals 'person1'\nfinal person1Votes = realtime.subscribe(\n    [Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row()],\n    queries: [Query.equal('person', ['person1'])]\n);\n\nperson1Votes.stream.listen((response) {\n    print(response.payload);\n});\n\n// Subscribe to updates where person is not 'person1'\nfinal otherVotes = realtime.subscribe(\n    [Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row()],\n    queries: [Query.notEqual('person', 'person1')]\n);\n\notherVotes.stream.listen((response) {\n    print(response.payload);\n});\n"}]]}],"$L3","$L4","$L5"]]}],"$L6","$L7","$L8"]}]}]],"$L9"]}],"$La"]}],["$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+3:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-apple"}],["$","div",null,{"children":[["$","$L2",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import Appwrite\nimport AppwriteModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.appwrite.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet realtime = Realtime(client)\n\n// Subscribe to all updates\nlet allVotes = realtime.subscribe(\n    channels: [Channel.tablesdb(\"<DATABASE_ID>\").table(\"<TABLE_ID>\").row()]\n) { response in\n    print(String(describing: response.payload))\n}\n\n// Subscribe to updates where person equals 'person1'\nlet person1Votes = realtime.subscribe(\n    channels: [Channel.tablesdb(\"<DATABASE_ID>\").table(\"<TABLE_ID>\").row()],\n    callback: { response in\n        print(String(describing: response.payload))\n    },\n    queries: [Query.equal(\"person\", value: [\"person1\"])]\n)\n\n// Subscribe to updates where person is not 'person1'\nlet otherVotes = realtime.subscribe(\n    channels: [Channel.tablesdb(\"<DATABASE_ID>\").table(\"<TABLE_ID>\").row()],\n    callback: { response in\n        print(String(describing: response.payload))\n    },\n    queries: [Query.notEqual(\"person\", value: \"person1\")]\n)\n"}]]}]
+d:T405,import io.appwrite.Client
+import io.appwrite.Query
+import io.appwrite.services.Realtime
+import io.appwrite.extensions.Channel
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val realtime = Realtime(client)
+
+// Subscribe to all updates
+val allVotes = realtime.subscribe(
+    Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row()
+) {
+    print(it.payload.toString())
+}
+
+// Subscribe to updates where person equals 'person1'
+val person1Votes = realtime.subscribe(
+    Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row(),
+    payloadType = Any::class.java,
+    queries = setOf(Query.equal("person", listOf("person1")))
+) {
+    print(it.payload.toString())
+}
+
+// Subscribe to updates where person is not 'person1'
+val otherVotes = realtime.subscribe(
+    Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row(),
+    payloadType = Any::class.java,
+    queries = setOf(Query.notEqual("person", "person1"))
+) {
+    print(it.payload.toString())
+}
+4:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-android-kotlin"}],["$","div",null,{"children":[["$","$L2",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$d"}]]}]
+e:T609,import io.appwrite.Client;
+import io.appwrite.Query;
+import io.appwrite.models.RealtimeResponseEvent;
+import io.appwrite.models.RealtimeSubscription;
+import io.appwrite.services.Realtime;
+import java.util.Arrays;
+import java.util.HashSet;
+import kotlin.Unit;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setProject("<PROJECT_ID>");
+
+Realtime realtime = new Realtime(client);
+
+// Subscribe to all updates
+RealtimeSubscription allVotes = realtime.subscribe(
+    new String[] {"tablesdb.<DATABASE_ID>.tables.<TABLE_ID>.rows"},
+    (RealtimeResponseEvent<Object> response) -> {
+        System.out.println(response.getPayload());
+        return Unit.INSTANCE;
+    }
+);
+
+// Subscribe to updates where person equals 'person1'
+RealtimeSubscription person1Votes = realtime.subscribe(
+    new String[] {"tablesdb.<DATABASE_ID>.tables.<TABLE_ID>.rows"},
+    Object.class,
+    new HashSet<>(Arrays.asList(Query.equal("person", Arrays.asList("person1")))),
+    (RealtimeResponseEvent<Object> response) -> {
+        System.out.println(response.getPayload());
+        return Unit.INSTANCE;
+    }
+);
+
+// Subscribe to updates where person is not 'person1'
+RealtimeSubscription otherVotes = realtime.subscribe(
+    new String[] {"tablesdb.<DATABASE_ID>.tables.<TABLE_ID>.rows"},
+    Object.class,
+    new HashSet<>(Arrays.asList(Query.notEqual("person", "person1"))),
+    (RealtimeResponseEvent<Object> response) -> {
+        System.out.println(response.getPayload());
+        return Unit.INSTANCE;
+    }
+);
+5:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-android-java"}],["$","div",null,{"children":[["$","$L2",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$e"}]]}]
+6:["$","h1",null,{"id":"supported-queries","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Supported queries "}]
+7:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"The following query methods are supported for realtime filtering:"}]
+8:["$","div",null,{"className":"overflow-x-auto my-6","children":["$","table",null,{"className":"text-left border-collapse w-full","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Category"}],["$","th",null,{"children":"Queries"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Comparison"}],["$","td",null,{"children":[["$","code",null,{"children":"Query.equal()"}],", ",["$","code",null,{"children":"Query.notEqual()"}],", ",["$","code",null,{"children":"Query.greaterThan()"}],", ",["$","code",null,{"children":"Query.greaterThanEqual()"}],", ",["$","code",null,{"children":"Query.lessThan()"}],", ",["$","code",null,{"children":"Query.lessThanEqual()"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Null checks"}],["$","td",null,{"children":[["$","code",null,{"children":"Query.isNull()"}],", ",["$","code",null,{"children":"Query.isNotNull()"}]]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Logical"}],["$","td",null,{"children":[["$","code",null,{"children":"Query.and()"}],", ",["$","code",null,{"children":"Query.or()"}]]}]]}]]}]]}]}]}]
+9:["$","div",null,{"className":"mt-16 pt-8 border-t border-white/10 flex justify-between items-center text-sm","children":["$","span",null,{"className":"text-white/40","children":"Appwrite Documentation Clone"}]}]
+a:["$","aside",null,{"className":"hidden w-[240px] shrink-0 xl:block relative z-0 pl-1","children":["$","div",null,{"className":"sticky top-[64px] max-h-[calc(100vh-64px)] overflow-y-auto pt-16 pb-8 pr-4 hide-scrollbar","children":false}]}]
+b:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

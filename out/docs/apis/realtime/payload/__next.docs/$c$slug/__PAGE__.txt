@@ -1,0 +1,64 @@
+1:"$Sreact.fragment"
+2:I[78443,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],""]
+3:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+9:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T6ee,{
+  "events": [
+    "tablesdb.default.tables.sample.rows.63c98b9baea0938e1206.update",
+    "tablesdb.*.tables.*.rows.*.update",
+    "tablesdb.default.tables.*.rows.63c98b9baea0938e1206.update",
+    "tablesdb.*.tables.*.rows.63c98b9baea0938e1206.update",
+    "tablesdb.*.tables.sample.rows.63c98b9baea0938e1206.update",
+    "tablesdb.default.tables.sample.rows.*.update",
+    "tablesdb.*.tables.sample.rows.*.update",
+    "tablesdb.default.tables.*.rows.*.update",
+    "tablesdb.default.tables.sample.rows.63c98b9baea0938e1206",
+    "tablesdb.*.tables.*.rows.*",
+    "tablesdb.default.tables.*.rows.63c98b9baea0938e1206",
+    "tablesdb.*.tables.*.rows.63c98b9baea0938e1206",
+    "tablesdb.*.tables.sample.rows.63c98b9baea0938e1206",
+    "tablesdb.default.tables.sample.rows.*",
+    "tablesdb.*.tables.sample.rows.*",
+    "tablesdb.default.tables.*.rows.*",
+    "tablesdb.default.tables.sample",
+    "tablesdb.*.tables.*",
+    "tablesdb.default.tables.*",
+    "tablesdb.*.tables.sample",
+    "tablesdb.default",
+    "tablesdb.*"
+  ],
+  "channels": [
+    "rows",
+    "tablesdb.default.tables.sample.rows",
+    "tablesdb.default.tables.sample.rows.63c98b9baea0938e1206"
+  ],
+  "timestamp": "2023-01-19T18:30:04.051+00:00",
+  "payload": {
+    "ip": "127.0.0.1",
+    "stringArray": [
+      "sss"
+    ],
+    "email": "joe@example.com",
+    "stringRequired": "req",
+    "float": 3.3,
+    "boolean": false,
+    "integer": 3,
+    "enum": "apple",
+    "stringDefault": "default",
+    "datetime": "2023-01-19T10:27:09.428+00:00",
+    "url": "https://appwrite.io",
+    "$id": "63c98b9baea0938e1206",
+    "$createdAt": "2023-01-19T18:27:39.715+00:00",
+    "$updatedAt": "2023-01-19T18:30:04.040+00:00",
+    "$permissions": [],
+    "$tableId": "sample",
+    "$databaseId": "default"
+  }
+}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex w-full flex-row xl:gap-14 2xl:gap-24 overflow-visible","children":[["$","div",null,{"className":"flex-1 min-w-0 max-w-[800px] pt-12 pb-24 px-6 md:px-10 lg:pl-[4rem]","children":[[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Payload"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Understand the structure of Appwrite Realtime subscription payloads and learn how to work with the response data."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"When you receive an update from a Realtime subscription, the payload contains information about the event and the affected resource. Understanding this structure helps you handle updates effectively in your application."}],["$","h1",null,{"id":"response-structure","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Response structure "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"The payload from the subscription will contain the following properties:"}],["$","div",null,{"className":"overflow-x-auto my-6","children":["$","table",null,{"className":"text-left border-collapse w-full","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Name"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"events"}],["$","td",null,{"children":"string[]"}],["$","td",null,{"children":["The ",["$","$L2",null,{"href":"/docs/advanced/platform/events","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"Appwrite events"}]," that triggered this update."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"channels"}],["$","td",null,{"children":"string[]"}],["$","td",null,{"children":["An array of ",["$","$L2",null,{"href":"/docs/apis/realtime/channels","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"channels"}]," that can receive this message."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"timestamp"}],["$","td",null,{"children":"string"}],["$","td",null,{"children":["The ",["$","$L2",null,{"href":"https://en.wikipedia.org/wiki/ISO_8601","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"ISO 8601 timestamp"}]," in UTC timezone from the server"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"payload"}],["$","td",null,{"children":"object"}],["$","td",null,{"children":"Payload contains the data equal to the response model."}]]}]]}]]}]}]}],["$","h1",null,{"id":"example","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Example "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["If you subscribe to the ",["$","code",null,{"children":"rows"}]," channel and a row the user is allowed to read is updated, you will receive an object containing information about the event and the updated row."]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"The response will look like this:"}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"json"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4"}]]}]]}]}]],"$L5"]}],"$L6"]}],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+5:["$","div",null,{"className":"mt-16 pt-8 border-t border-white/10 flex justify-between items-center text-sm","children":["$","span",null,{"className":"text-white/40","children":"Appwrite Documentation Clone"}]}]
+6:["$","aside",null,{"className":"hidden w-[240px] shrink-0 xl:block relative z-0 pl-1","children":["$","div",null,{"className":"sticky top-[64px] max-h-[calc(100vh-64px)] overflow-y-auto pt-16 pb-8 pr-4 hide-scrollbar","children":false}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

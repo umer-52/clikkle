@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[78443,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],""]
+d:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+f:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/images/docs/tutorials/dark/idea-tracker-table.png","image"]
+:HL["/images/docs/tutorials/idea-tracker-table.png","image"]
+:HL["/images/docs/tutorials/dark/idea-tracker-permissions.png","image"]
+:HL["/images/docs/tutorials/idea-tracker-permissions.png","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build an idea tracker with Next.js","href":"/docs/tutorials/nextjs/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/nextjs/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/nextjs/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/nextjs/step-4"},{"step":5,"title":"Add navigation","href":"/docs/tutorials/nextjs/step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/nextjs/step-6"},{"step":7,"title":"Ideas page","href":"/docs/tutorials/nextjs/step-7"},{"step":8,"title":"Next steps","href":"/docs/tutorials/nextjs/step-8"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Add database"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add databases and queries for ideas in your Next.js project."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["In Appwrite, data is stored as a table of rows."," ","Create a new database and table in the ",["$","$L3",null,{"href":"https://cloud.appwrite.io/","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"Appwrite Console"}]," to store the ideas."]}],["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/dark/idea-tracker-table.png","alt":"Create table screen"}]}]}],["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/idea-tracker-table.png","alt":"Create table screen"}]}]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Create a new table with the following columns:"}],["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Field"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Size"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"userId"}],["$","td",null,{"children":"Varchar"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"200"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"title"}],["$","td",null,{"children":"Varchar"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"200"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"description"}],["$","td",null,{"children":"Text"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"-"}]]}]]}]]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Change the table's permissions in the settings to give access."}],["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/dark/idea-tracker-permissions.png","alt":"Table permissions screen"}]}]}],["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/idea-tracker-permissions.png","alt":"Table permissions screen"}]}]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Navigate to the ",["$","strong",null,{"children":"Settings"}]," tab of your table, add the role ",["$","strong",null,{"children":"Any"}]," and check the ",["$","strong",null,{"children":"Read"}]," box."," ","Next, add a ",["$","strong",null,{"children":"Users"}]," role and give them access to ",["$","strong",null,{"children":"Create"}]," by checking that box."]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["For security, we won't grant table-level ",["$","strong",null,{"children":"Update"}]," and ",["$","strong",null,{"children":"Delete"}]," permissions to all users. Instead, we'll implement row-level permissions so that only the creator of each idea can update or delete their own ideas."]}],["$","h2",null,{"id":"environment-variables","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Environment variables "}],"$L4","$L5","$L6","$L7","$L8","$L9","$La"]}]}]]}],["$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+4:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Just like when we set up the connection to Appwrite in ",["$","$L3",null,{"href":"/docs/tutorials/nextjs/step-3","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"step 3"}],", we need to keep the variables with the table id secret."," ","Open the ",["$","code",null,{"children":".env.local"}]," file and add your database id and your table id to it."]}]
+5:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"code"}],["$","div",null,{"children":[["$","$Ld",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"NEXT_PUBLIC_DATABASE_ID=\"YOUR_DATABASE_ID\"\nNEXT_PUBLIC_TABLE_ID=\"YOUR_TABLE_ID\"\n"}]]}]
+6:["$","h2",null,{"id":"query-methods","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Query methods "}]
+7:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Now that we have a table in the database to hold ideas, we can connect to it from our app."," ","Our users should be able to read, add and remove ideas."," ","We will add a new hook, ",["$","code",null,{"children":"useIdeas"}],", to handle this functionality."]}]
+8:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a new file ",["$","code",null,{"children":"hooks/useIdeas.ts"}]," and add the following code."]}]
+e:T8c5,// hooks/useIdeas.ts
+
+import { useState, useEffect } from 'react';
+import { ID, Query, Permission, type Models } from 'appwrite';
+import { tablesDB } from '../lib/appwrite';
+
+const databaseId = process.env.NEXT_PUBLIC_DATABASE_ID!;
+const tableId = process.env.NEXT_PUBLIC_TABLE_ID!;
+const queryLimit = 10;
+
+interface Idea extends Models.Row {
+    title: string;
+    description: string;
+    userId: string;
+}
+
+export function useIdeas() {
+    const [current, setCurrent] = useState<Idea[]>([]);
+    const [loading, setLoading] = useState(true);
+
+    // Fetch the 10 most recent ideas from the database
+    const fetch = async (): Promise<void> => {
+        try {
+            const response = await tablesDB.listRows(
+                databaseId,
+                tableId,
+                [Query.orderDesc('$createdAt'), Query.limit(queryLimit)]
+            );
+            setCurrent(response.rows as Idea[]);
+        } catch (error) {
+            console.error('Error fetching ideas:', error);
+        } finally {
+            setLoading(false);
+        }
+    };
+
+    // Add new idea to the database
+    const add = async (idea: Omit<Idea, '$id' | '$createdAt' | '$updatedAt' | '$permissions'>): Promise<void> => {
+        try {
+            const response = await tablesDB.createRow(
+                databaseId,
+                tableId,
+                ID.unique(),
+                idea,
+                [
+                    Permission.read('any'),
+                    Permission.update(`user:${idea.userId}`),
+                    Permission.delete(`user:${idea.userId}`)
+                ]
+            );
+            setCurrent(prev => [response as Idea, ...prev].slice(0, queryLimit));
+        } catch (error) {
+            console.error('Error adding idea:', error);
+        }
+    };
+
+    const remove = async (id: string): Promise<void> => {
+        try {
+            await tablesDB.deleteRow(databaseId, tableId, id);
+            await fetch(); // Refetch ideas to ensure we have 10 items
+        } catch (error) {
+            console.error('Error removing idea:', error);
+        }
+    };
+
+    useEffect(() => {
+        fetch();
+    }, []);
+
+    return {
+        current,
+        loading,
+        add,
+        fetch,
+        remove,
+    };
+}
+9:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ts"}],["$","div",null,{"children":[["$","$Ld",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$e"}]]}]
+a:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Now we can call the ",["$","code",null,{"children":"useIdeas()"}]," hook from the home page."]}]
+b:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,645 @@
+1:"$Sreact.fragment"
+2:I[78443,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],""]
+1c:I[45676,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"Tabs"]
+1d:I[45676,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TabsItem"]
+23:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+3f:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+40:"$Sreact.suspense"
+:HL["/images/docs/messaging/messages/dark/messages-overview.png","image"]
+:HL["/images/docs/messaging/messages/messages-overview.png","image"]
+:HL["/images/docs/messaging/dark/message-status.png","image"]
+:HL["/images/docs/messaging/message-status.png","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex w-full flex-row xl:gap-14 2xl:gap-24 overflow-visible","children":[["$","div",null,{"className":"flex-1 min-w-0 max-w-[800px] pt-12 pb-24 px-6 md:px-10 lg:pl-[4rem]","children":[[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":[["$","$L2",null,{"href":"/docs","className":"mt-1 flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-white/10 bg-[#1C1C1E] text-white transition-colors hover:bg-white/10","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-5 w-5 pr-0.5","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}]}],["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Messages"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Learn about Appwrite messages, the different types of messages, what can be sent in different message types."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Each time you send or schedule a push notification, email, or SMS text, it's recorded in Appwrite"," ","as a ",["$","strong",null,{"children":"message"}]," is displayed in the ",["$","strong",null,{"children":"Messages"}]," tab."]}],["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/messaging/messages/dark/messages-overview.png","alt":"Add a target"}]}]}],["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/messaging/messages/messages-overview.png","alt":"Add a target"}]}]}],["$","h1",null,{"id":"messages","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Messages "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Each message displays with the following information."}],["$","div",null,{"className":"overflow-x-auto my-6","children":["$","table",null,{"className":"text-left border-collapse w-full","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"width":200,"children":"Column "}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Message ID"}],["$","td",null,{"children":"The unique ID of the message."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Description"}],["$","td",null,{"children":"The developer defined description of the message. End users do not see this description."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Message"}],["$","td",null,{"children":"The message delivered to end users."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Type"}],["$","td",null,{"children":["Type of message, either ",["$","code",null,{"children":"Push"}],", ",["$","code",null,{"children":"Email"}],", and ",["$","code",null,{"children":"SMS"}],"."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Status"}],["$","td",null,{"children":["Indicates the status of the message, can be one of ",["$","code",null,{"children":"draft"}],", ",["$","code",null,{"children":"scheduled"}],", ",["$","code",null,{"children":"processing"}],", ",["$","code",null,{"children":"failed"}],", ",["$","code",null,{"children":"success"}],"."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Scheduled at"}],["$","td",null,{"children":"Indicates the scheduled delivery time of the message."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Delivered at"}],["$","td",null,{"children":"Indicates the time at which the message was successfully delivered."}]]}]]}]]}]}]}],["$","h1",null,{"id":"messages-types","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Messages types "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"There are three types of messages"}],["$","div",null,{"className":"overflow-x-auto my-6","children":"$L3"}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17"]}]}]],"$L18"]}],"$L19"]}],["$L1a"],"$L1b"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+3:["$","table",null,{"className":"text-left border-collapse w-full","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"width":200,"children":"Message type "}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Push notifications"}],["$","td",null,{"children":["Push notifications are alerts that show up on a user device's notification center."," ","This can be used to deliver messages to the user whether their application is open or not."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Emails"}],["$","td",null,{"children":["Emails let you deliver rich content to a users' inbox."," ","Appwrite allows you to send customized HTML email messages so you can include links, styling, and more."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"SMS"}],["$","td",null,{"children":["SMS messages let you deliver text messages to your user's phone."," ","This helps you reach your user, even when their device do not have internet access."]}]]}]]}]]}]}]
+4:["$","h1",null,{"id":"messages-lifecycle","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Messages lifecycle "}]
+5:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Messages can begin as a ",["$","code",null,{"children":"draft"}],", or proceed directly to ",["$","code",null,{"children":"processing"}]," if it's sent immediately."," ","If the message is scheduled to be sent later, its status is set to ",["$","code",null,{"children":"scheduled"}],", then to ",["$","code",null,{"children":"processing"}]," at schedule time."," ","After attempted delivery, it is marked as ",["$","code",null,{"children":"sent"}]," or ",["$","code",null,{"children":"failed"}]," depending on if the message was successfully delivered."]}]
+6:["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/messaging/dark/message-status.png","alt":"Message lifecycle"}]}]}]
+7:["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/messaging/message-status.png","alt":"Message lifecycle"}]}]}]
+8:["$","h1",null,{"id":"choosing-a-message-type","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Choosing a message type "}]
+9:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Choosing the right type of notification to reach your audience is important for your app's success."," ","Here are some common factors to consider when deciding what type of message should be sent."]}]
+a:["$","div",null,{"className":"overflow-x-auto my-6","children":["$","table",null,{"className":"text-left border-collapse w-full","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"width":200,"children":"Message type "}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Time-sensitive messages"}],["$","td",null,{"children":"Push notifications or SMS messages are ideal for time-sensitive messages, as they are typically checked frequently and opened within minutes, ensuring prompt attention."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Guaranteed delivery"}],["$","td",null,{"children":"Emails and SMS messages are more reliable for guaranteed delivery of important messages like invoices and order confirmations, as push notifications can be easily missed."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Content-rich messages"}],["$","td",null,{"children":"Emails are best suited for delivering content-rich messages like promotional letters, detailed updates, and newsletters, thanks to support for HTML, allowing for rich text, links, and styling."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Increasing engagement"}],["$","td",null,{"children":"Push notifications are effective for increasing engagement with users, as they can be clicked on to link directly to your app, promoting immediate interaction."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Accessibility and reach"}],["$","td",null,{"children":"Emails and SMS messages allow you to reach users even before they have installed your app, making them suitable for announcement-type messages that require broad accessibility."}]]}]]}]]}]}]}]
+b:["$","h1",null,{"id":"composing-messages","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Composing messages "}]
+c:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Different types of messages have different content and configurable options."," ","Here are the different components that make up a message."]}]
+d:["$","$L1c",null,{"children":[["$","$L1d",null,{"id":"push-notification","title":"Push notifications","children":["$","div",null,{"className":"overflow-x-auto my-6","children":["$","table",null,{"className":"text-left border-collapse w-full","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"width":100,"children":"Parameter "}],["$","th",null,{"width":100,"children":"Required  "}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"messageId"}]}],["$","td",null,{"children":"required"}],["$","td",null,{"children":"The title of the push notification. This is the headline text that recipients see first."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"title"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"The title of the push notification. This is the headline text that recipients see first. Can be omitted for background notifications."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"body"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"The main content or body of the push notification. Provides the details or message you want to convey. Can be omitted for background notifications."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"data"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"Extra key-value pairs that apps can use to handle the notification more effectively, such as directing users to a specific part of the app."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"action"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"Specifies which activity or view controller to open within the app when the notification is tapped."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"icon"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"Sets the icon of the notification, used only for Android devices. This can help in branding the notification."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"sound"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":["Sets the sound to use for the notification. For Android, the sound file must be located in ",["$","code",null,{"children":"/res/raw"}],"; for Apple devices, it must be in the app's main bundle or the ",["$","code",null,{"children":"Library/Sounds"}]," folder of the app container."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"color"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"Specifies a color tint for the notification icon, used only for Android devices. This can be used to align with brand colors."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"tag"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"Can be used to replace an existing notification with the same tag, used only for Android devices. Useful for updating or canceling notifications."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"badge"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"Sets the number to display next to the app's icon, indicating the number of notifications or updates. Setting to 0 removes any existing badge. Must be an integer. For Apple devices only."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"contentAvailable"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":["For iOS devices only. When set, wakes up the app in the background without showing a notification. Used to update app data remotely. Requires priority to be set to normal. ",["$","strong",null,{"children":"Note:"}]," APNS may throttle if sending more than 2-3 background notifications per hour. For Android, similar functionality can be achieved by sending a data-only notification without title and body."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"critical"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"For iOS devices only. Marks the notification as critical to bypass silent and do not disturb settings. Requires the app to have the critical notification entitlement from Apple."}]]}],"$L1e","$L1f","$L20"]}]]}]}]}]}],"$L21","$L22"]}]
+e:["$","h1",null,{"id":"create-a-message","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Sending a message "}]
+f:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"You can create a message with a Server SDK. You can send a push notification like this."}]
+24:T66d,const sdk = require('node-appwrite');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createPush(
+        '<MESSAGE_ID>',                          // messageId
+        '<TITLE>',                               // title
+        '<BODY>',                                // body
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        {},                                      // data (optional)
+        '<ACTION>',                              // action (optional)
+        '<ICON>',                                // icon (optional)
+        '<SOUND>',                               // sound (optional)
+        '<COLOR>',                               // color (optional)
+        '<TAG>',                                 // tag (optional)
+        1,                                       // badge (optional)
+        false,                                   // contentAvailable (optional)
+        false,                                   // critical (optional)
+        'normal',                                // priority (optional)
+        true,                                    // draft (optional)
+        ''                                       // scheduledAt (optional)
+    );
+25:T66d,import * as sdk from "npm:node-appwrite";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createPush(
+        '<MESSAGE_ID>',                          // messageId
+        '<TITLE>',                               // title
+        '<BODY>',                                // body
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        {},                                      // data (optional)
+        '<ACTION>',                              // action (optional)
+        '<ICON>',                                // icon (optional)
+        '<SOUND>',                               // sound (optional)
+        '<COLOR>',                               // color (optional)
+        '<TAG>',                                 // tag (optional)
+        1,                                       // badge (optional)
+        false,                                   // contentAvailable (optional)
+        false,                                   // critical (optional)
+        'normal',                                // priority (optional)
+        true,                                    // draft (optional)
+        ''                                       // scheduledAt (optional)
+    );
+10:["$","div",null,{"className":"p-4 border border-dashed border-white/20 rounded-xl my-4","children":[["$","div",null,{"className":"text-xs text-white/50 mb-2 font-mono","children":["[","MultiCode","]"]}],[["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"server-nodejs"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$24"}]]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"deno"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$25"}]]}],"$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d"]]}]
+11:["$","$L2",null,{"href":"/docs/products/messaging/send-push-notifications","className":"group mt-6 inline-flex items-center justify-between rounded-full border border-white/20 bg-transparent px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-white/5 hover:border-white/30","children":[["$","span",null,{"className":"underline decoration-white/30 underline-offset-4 group-hover:decoration-white/60 transition-colors","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Learn more about sending a push notification"}]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-4 w-4 ml-4 transition-transform group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]
+12:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"You can send an email like this."}]
+2e:T47c,const sdk = require('node-appwrite');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message - await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        true,                                    // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+2f:T47c,import * as sdk from "npm:node-appwrite";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message - await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        true,                                    // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+13:["$","div",null,{"className":"p-4 border border-dashed border-white/20 rounded-xl my-4","children":[["$","div",null,{"className":"text-xs text-white/50 mb-2 font-mono","children":["[","MultiCode","]"]}],[["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"server-nodejs"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$2e"}]]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"deno"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$2f"}]]}],"$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37"]]}]
+14:["$","$L2",null,{"href":"/docs/products/messaging/send-email-messages","className":"group mt-6 inline-flex items-center justify-between rounded-full border border-white/20 bg-transparent px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-white/5 hover:border-white/30","children":[["$","span",null,{"className":"underline decoration-white/30 underline-offset-4 group-hover:decoration-white/60 transition-colors","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Learn more about sending an email"}]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-4 w-4 ml-4 transition-transform group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]
+15:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"You can send an SMS message like this."}]
+16:["$","div",null,{"className":"p-4 border border-dashed border-white/20 rounded-xl my-4","children":[["$","div",null,{"className":"text-xs text-white/50 mb-2 font-mono","children":["[","MultiCode","]"]}],[["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"server-nodejs"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"const sdk = require('node-appwrite');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst message = await messaging.createSms(\n        '<MESSAGE_ID>',                          // messageId\n        '<CONTENT>',                             // content\n        [],                                      // topics (optional)\n        [],                                      // users (optional)\n        [],                                      // targets (optional)\n        true,                                    // draft (optional)\n        ''                                       // scheduledAt (optional)\n    );\n"}]]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"deno"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import * as sdk from \"npm:node-appwrite\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst message = await messaging.createSms(\n        '<MESSAGE_ID>',                          // messageId\n        '<CONTENT>',                             // content\n        [],                                      // topics (optional)\n        [],                                      // users (optional)\n        [],                                      // targets (optional)\n        true,                                    // draft (optional)\n        ''                                       // scheduledAt (optional)\n    );\n"}]]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"php"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"<?php\n\nuse Appwrite\\Client;\nuse Appwrite\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                 // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createSms(\n    messageId: '<MESSAGE_ID>',\n    content: '<CONTENT>',\n    topics: [],                                   // optional\n    users: [],                                    // optional\n    targets: [],                                  // optional\n    draft: true,                                  // optional\n    scheduledAt: ''                               // optional\n);\n"}]]}],"$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e"]]}]
+17:["$","$L2",null,{"href":"/docs/products/messaging/send-sms-messages","className":"group mt-6 inline-flex items-center justify-between rounded-full border border-white/20 bg-transparent px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-white/5 hover:border-white/30","children":[["$","span",null,{"className":"underline decoration-white/30 underline-offset-4 group-hover:decoration-white/60 transition-colors","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Learn more about sending a SMS message"}]}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right h-4 w-4 ml-4 transition-transform group-hover:translate-x-1","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]
+18:["$","div",null,{"className":"mt-16 pt-8 border-t border-white/10 flex justify-between items-center text-sm","children":["$","span",null,{"className":"text-white/40","children":"Appwrite Documentation Clone"}]}]
+19:["$","aside",null,{"className":"hidden w-[240px] shrink-0 xl:block relative z-0 pl-1","children":["$","div",null,{"className":"sticky top-[64px] max-h-[calc(100vh-64px)] overflow-y-auto pt-16 pb-8 pr-4 hide-scrollbar","children":false}]}]
+1a:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+1b:["$","$L3f",null,{"children":["$","$40",null,{"name":"Next.MetadataOutlet","children":"$@41"}]}]
+1e:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"priority"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"Sets notification priority to normal or high. Normal priority delivers at the most convenient time based on battery life and may group notifications. High priority delivers immediately."}]]}]
+1f:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":["If the message is a draft, can be ",["$","code",null,{"children":"true"}]," or ",["$","code",null,{"children":"false"}],"."]}]]}]
+20:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scheduledAt"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"An ISO date time string specifying when the push notification should be sent."}]]}]
+21:["$","$L1d",null,{"id":"emails","title":"Emails","children":["$","div",null,{"className":"overflow-x-auto my-6","children":["$","table",null,{"className":"text-left border-collapse w-full","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"width":100,"children":"Parameter "}],["$","th",null,{"width":100,"children":"Required  "}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"subject"}]}],["$","td",null,{"children":"required"}],["$","td",null,{"children":"The subject line of the email. This is what recipients see first in their inbox."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"required"}],["$","td",null,{"children":["The main content of the email. This can be plain text or HTML, depending on the ",["$","code",null,{"children":"html"}]," flag."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"cc"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"An array of target IDs to be included in the carbon copy (CC) field. These recipients can see each other's email addresses."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"bcc"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"An array of target IDs to be included in the blind carbon copy (BCC) field. These recipients cannot see each other's email addresses."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"html"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":["A boolean indicating whether the ",["$","code",null,{"children":"content"}]," is in HTML format. This allows for rich text, links, and styling in the email content."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":["If the message is a draft, can be ",["$","code",null,{"children":"true"}]," or ",["$","code",null,{"children":"false"}],"."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scheduledAt"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"An ISO date time string specifying when the email should be sent."}]]}]]}]]}]}]}]}]
+22:["$","$L1d",null,{"id":"sms","title":"SMS","children":["$","div",null,{"className":"overflow-x-auto my-6","children":["$","table",null,{"className":"text-left border-collapse w-full","children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"width":100,"children":"Parameter "}],["$","th",null,{"width":100,"children":"Required  "}],["$","th",null,{"children":"Description"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"content"}]}],["$","td",null,{"children":"required"}],["$","td",null,{"children":"The main content of the SMS. This should be concise and clear, as SMS messages have character limits."}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"draft"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":["If the message is a draft, can be ",["$","code",null,{"children":"true"}]," or ",["$","code",null,{"children":"false"}],"."]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"scheduledAt"}]}],["$","td",null,{"children":"optional"}],["$","td",null,{"children":"An ISO date time string specifying when the SMS should be sent."}]]}]]}]]}]}]}]}]
+42:T575,<?php
+
+use Appwrite\Client;
+use Appwrite\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                 // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createPush(
+    messageId: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],                                   // optional
+    users: [],                                    // optional
+    targets: [],                                  // optional
+    data: [],                                     // optional
+    action: '<ACTION>',                           // optional
+    icon: '<ICON>',                               // optional
+    sound: '<SOUND>',                             // optional
+    color: '<COLOR>',                             // optional
+    tag: '<TAG>',                                 // optional
+    badge: 1,                                     // optional
+    contentAvailable: false,                      // optional
+    critical: false,                              // optional
+    priority: 'normal',                           // optional
+    draft: true,                                  // optional
+    scheduledAt: ''                               // optional
+);
+26:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"php"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$42"}]]}]
+43:T54b,from appwrite.client import Client
+from appwrite.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_push(
+    message_id = '<MESSAGE_ID>',
+    title = '<TITLE>',
+    body = '<BODY>',
+    topics = [],                                # optional
+    users = [],                                 # optional
+    targets = [],                               # optional
+    data = {},                                  # optional
+    action = '<ACTION>',                        # optional
+    icon = '<ICON>',                            # optional
+    sound = '<SOUND>',                          # optional
+    color = '<COLOR>',                          # optional
+    tag = '<TAG>',                              # optional
+    badge = 1,                                  # optional
+    content_available = False,                  # optional
+    critical = False,                           # optional
+    priority = 'normal',                        # optional
+    draft = True,                               # optional
+    scheduled_at = ''                           # optional
+)
+27:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"python"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$43"}]]}]
+44:T550,require 'appwrite'
+
+include Appwrite
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                 # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_push(
+    message_id: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],                                   # optional
+    users: [],                                    # optional
+    targets: [],                                  # optional
+    data: {},                                     # optional
+    action: '<ACTION>',                           # optional
+    icon: '<ICON>',                               # optional
+    sound: '<SOUND>',                             # optional
+    color: '<COLOR>',                             # optional
+    tag: '<TAG>',                                 # optional
+    badge: '<BADGE>',                             # optional
+    content_available: false,                     # optional
+    critical: false,                              # optional
+    priority: 'normal',                           # optional
+    draft: true,                                  # optional
+    scheduled_at: ''                              # optional
+)
+
+puts response.inspect
+28:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ruby"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$44"}]]}]
+45:T589,using Appwrite;
+using Appwrite.Services;
+using Appwrite.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var messaging = new Messaging(client);
+
+Message result = await messaging.CreatePush(
+    messageId: "<MESSAGE_ID>",
+    title: "<TITLE>",
+    body: "<BODY>"
+    topics: new List<string> {},                   // optional
+    users: new List<string> {},                    // optional
+    targets: new List<string> {},                  // optional
+    data: [object]                                 // optional
+    action: "<ACTION>",                            // optional
+    icon: "<ICON>",                                // optional
+    sound: "<SOUND>",                              // optional
+    color: "<COLOR>",                              // optional
+    tag: "<TAG>",                                  // optional
+    badge: 1,                                      // optional
+    contentAvailable: false,                       // optional
+    critical: false,                               // optional
+    priority: "normal",                            // optional
+    draft: true,                                   // optional
+    scheduledAt: ""                                // optional
+);
+29:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"csharp"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$45"}]]}]
+46:T681,import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_appwrite/enums.dart';
+import 'package:dart_appwrite/models.dart';
+
+void main() async {                               // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = await messaging.createPush(
+    messageId: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],                                  // optional
+    users: [],                                   // optional
+    targets: [],                                 // optional
+    data: {},                                    // optional
+    action: '<ACTION>',                          // optional
+    icon: '<ICON>',                              // optional
+    sound: '<SOUND>',                            // optional
+    color: '<COLOR>',                            // optional
+    tag: '<TAG>',                                // optional
+    badge: 1,                                    // optional
+    content_available: false,                    // optional
+    critical: false,                             // optional
+    priority: 'normal',                          // optional
+    draft: true,                                 // optional
+    scheduledAt: '',                             // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+2a:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"dart"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$46"}]]}]
+47:T674,import io.appwrite.Client;
+import io.appwrite.coroutines.CoroutineCallback;
+import io.appwrite.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createPush(
+    "<MESSAGE_ID>",                               // messageId
+    "<TITLE>",                                    // title
+    "<BODY>",                                     // body
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    mapOf( "a" to "b" ),                          // data (optional)
+    "<ACTION>",                                   // action (optional)
+    "<ICON>",                                     // icon (optional)
+    "<SOUND>",                                    // sound (optional)
+    "<COLOR>",                                    // color (optional)
+    "<TAG>",                                      // tag (optional)
+    1,                                            // badge (optional)
+    true,                                         // draft (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+2b:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"kotlin"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$47"}]]}]
+48:T674,import io.appwrite.Client;
+import io.appwrite.coroutines.CoroutineCallback;
+import io.appwrite.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createPush(
+    "<MESSAGE_ID>",                               // messageId
+    "<TITLE>",                                    // title
+    "<BODY>",                                     // body
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    mapOf( "a" to "b" ),                          // data (optional)
+    "<ACTION>",                                   // action (optional)
+    "<ICON>",                                     // icon (optional)
+    "<SOUND>",                                    // sound (optional)
+    "<COLOR>",                                    // color (optional)
+    "<TAG>",                                      // tag (optional)
+    1,                                            // badge (optional)
+    true,                                         // draft (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+2c:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"java"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$48"}]]}]
+49:T52b,import Appwrite
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let messaging = Messaging(client)
+
+let message = try await messaging.createPush(
+  messageId: "<MESSAGE_ID>",
+  title: "<TITLE>",
+  body: "<BODY>",
+  topics: [],                                    // optional
+  users: [],                                     // optional
+  targets: [],                                   // optional
+  data: [:],                                     // optional
+  action: "<ACTION>",                            // optional
+  icon: "<ICON>",                                // optional
+  sound: "<SOUND>",                              // optional
+  color: "<COLOR>",                              // optional
+  tag: "<TAG>",                                  // optional
+  badge: 1,                                      // optional
+  content_available: false,                      // optional
+  critical: false,                               // optional
+  priority: "normal",                            // optional
+  draft: true,                                   // optional
+  scheduledAt: ""                                // optional
+)
+2d:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"swift"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$49"}]]}]
+30:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"php"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"<?php\n\nuse Appwrite\\Client;\nuse Appwrite\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                 // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createEmail(\n    messageId: '<MESSAGE_ID>',\n    subject: '<SUBJECT>',\n    content: '<CONTENT>',\n    topics: [],                                   // optional\n    users: [],                                    // optional\n    targets: [],                                  // optional\n    cc: [],                                       // optional\n    bcc: [],                                      // optional\n    draft: true,                                  // optional\n    html: false,                                  // optional\n    scheduledAt: ''                               // optional\n);\n"}]]}]
+31:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"python"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"from appwrite.client import Client\nfrom appwrite.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_email(\n    message_id = '<MESSAGE_ID>',\n    subject = '<SUBJECT>',\n    content = '<CONTENT>',\n    topics = [],                                # optional\n    users = [],                                 # optional\n    targets = [],                               # optional\n    cc = [],                                    # optional\n    bcc = [],                                   # optional\n    draft = True,                               # optional\n    html = False,                               # optional\n    scheduled_at = ''                           # optional\n)\n"}]]}]
+32:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ruby"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"require 'appwrite'\n\ninclude Appwrite\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                 # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_email(\n    message_id: '<MESSAGE_ID>',\n    subject: '<SUBJECT>',\n    content: '<CONTENT>',\n    topics: [],                                   # optional\n    users: [],                                    # optional\n    targets: [],                                  # optional\n    cc: [],                                       # optional\n    bcc: [],                                      # optional\n    draft: true,                                  # optional\n    html: false,                                  # optional\n    scheduled_at: ''                              # optional\n)\n\nputs response.inspect\n"}]]}]
+33:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"csharp"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"using Appwrite;\nusing Appwrite.Services;\nusing Appwrite.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.appwrite.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar messaging = new Messaging(client);\n\nMessage result = await messaging.CreateEmail(\n    messageId: \"<MESSAGE_ID>\",\n    subject: \"<SUBJECT>\",\n    content: \"<CONTENT>\"\n    topics: new List<string> {}                   // optional\n    users: new List<string> {}                    // optional\n    targets: new List<string> {}                  // optional\n    cc: new List<string> {}                       // optional\n    bcc: new List<string> {}                      // optional\n    draft: true                                   // optional\n    html: false                                   // optional\n    scheduledAt: \"\");                             // optional\n"}]]}]
+4a:T4da,import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_appwrite/enums.dart';
+import 'package:dart_appwrite/models.dart';
+
+void main() {                                    // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                  // optional
+    users: [],                                   // optional
+    targets: [],                                 // optional
+    cc: [],                                      // optional
+    bcc: [],                                     // optional
+    draft: true,                                 // optional
+    html: false,                                 // optional
+    scheduledAt: '',                             // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+34:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"dart"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4a"}]]}]
+4b:T55f,import io.appwrite.Client;
+import io.appwrite.coroutines.CoroutineCallback;
+import io.appwrite.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",                               // messageId
+    "<SUBJECT>",                                  // subject
+    "<CONTENT>",                                  // content
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    listOf(),                                     // cc (optional)
+    listOf(),                                     // bcc (optional)
+    true,                                         // draft (optional)
+    false,                                        // html (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+35:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"kotlin"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4b"}]]}]
+4c:T55f,import io.appwrite.Client;
+import io.appwrite.coroutines.CoroutineCallback;
+import io.appwrite.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",                               // messageId
+    "<SUBJECT>",                                  // subject
+    "<CONTENT>",                                  // content
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    listOf(),                                     // cc (optional)
+    listOf(),                                     // bcc (optional)
+    true,                                         // draft (optional)
+    false,                                        // html (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+36:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"java"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4c"}]]}]
+37:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"swift"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import Appwrite\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.appwrite.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet message = try await messaging.createEmail(\n  messageId: \"<MESSAGE_ID>\",\n  subject: \"<SUBJECT>\",\n  content: \"<CONTENT>\",\n  topics: [],                                    // optional\n  users: [],                                     // optional\n  targets: [],                                   // optional\n  cc: [],                                        // optional\n  bcc: [],                                       // optional\n  draft: true,                                   // optional\n  html: xfalse,                                  // optional\n  scheduledAt: \"\"                                // optional\n)\n"}]]}]
+38:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"python"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"from appwrite.client import Client\nfrom appwrite.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_sms(\n    message_id = '<MESSAGE_ID>',\n    content = '<CONTENT>',\n    topics = [],                                # optional\n    users = [],                                 # optional\n    targets = [],                               # optional\n    draft = True,                               # optional\n    scheduled_at = ''                           # optional\n)\n"}]]}]
+39:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ruby"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"require 'appwrite'\n\ninclude Appwrite\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                 # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_sms(\n    message_id: '<MESSAGE_ID>',\n    content: '<CONTENT>',\n    topics: [],                                   # optional\n    users: [],                                    # optional\n    targets: [],                                  # optional\n    draft: true,                                  # optional\n    scheduled_at: ''                              # optional\n)\n\nputs response.inspect\n"}]]}]
+3a:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"csharp"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"using Appwrite;\nusing Appwrite.Services;\nusing Appwrite.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.appwrite.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar messaging = new Messaging(client);\n\nMessage result = await messaging.CreateSMS(\n    messageId: \"<MESSAGE_ID>\",\n    content: \"<CONTENT>\"\n    topics: new List<string> {}                   // optional\n    users: new List<string> {}                    // optional\n    targets: new List<string> {}                  // optional\n    draft: true                                   // optional\n    scheduledAt: \"\");                             // optional\n"}]]}]
+4d:T407,import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_appwrite/enums.dart';
+import 'package:dart_appwrite/models.dart';
+
+void main() {                                    // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createSms(
+    messageId: '<MESSAGE_ID>',
+    content: '<CONTENT>',
+    topics: [],                                  // optional
+    users: [],                                   // optional
+    targets: [],                                 // optional
+    draft: true,                                 // optional
+    scheduledAt: '',                             // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+3b:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"dart"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4d"}]]}]
+4e:T454,import io.appwrite.Client;
+import io.appwrite.coroutines.CoroutineCallback;
+import io.appwrite.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createSms(
+    "<MESSAGE_ID>",                               // messageId
+    "<CONTENT>",                                  // content
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    true,                                         // draft (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+3c:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"kotlin"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4e"}]]}]
+4f:T454,import io.appwrite.Client;
+import io.appwrite.coroutines.CoroutineCallback;
+import io.appwrite.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createSms(
+    "<MESSAGE_ID>",                               // messageId
+    "<CONTENT>",                                  // content
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    true,                                         // draft (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+3d:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"java"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4f"}]]}]
+3e:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"swift"}],["$","div",null,{"children":[["$","$L23",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import Appwrite\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.appwrite.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet message = try await messaging.createSms(\n  messageId: \"<MESSAGE_ID>\",\n  content: \"<CONTENT>\",\n  topics: [],                                    // optional\n  users: [],                                     // optional\n  targets: [],                                   // optional\n  draft: true,                                   // optional\n  scheduledAt: \"\"                                // optional\n)\n"}]]}]
+41:null

@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+9:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+4:T812,package <YOUR_ROOT_PACKAGE_HERE>
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.compose.runtime.*
+import androidx.compose.foundation.layout.*
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Person
+import androidx.compose.material3.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import io.appwrite.models.User
+import <YOUR_ROOT_PACKAGE_HERE>.services.Appwrite
+import <YOUR_ROOT_PACKAGE_HERE>.ui.screens.UserScreen
+import <YOUR_ROOT_PACKAGE_HERE>.services.AccountService
+
+enum class Screen {
+    User
+}
+
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        Appwrite.init(applicationContext)
+
+        setContent {
+            AppContent(Appwrite.account)
+        }
+    }
+}
+
+@Composable
+private fun AppBottomBar(screen: MutableState<Screen>) {
+    BottomAppBar {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.Center
+        ) {
+            IconButton(onClick = { screen.value = Screen.User }) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Icon(Icons.Default.Person, contentDescription = "User")
+                    Text("User")
+                }
+            }
+        }
+    }
+}
+
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+private fun AppContent(accountService: AccountService) {
+    val user = remember { mutableStateOf<User<Map<String, Any>>?>(null) }
+    val screen = remember { mutableStateOf(Screen.User) }
+
+    LaunchedEffect(screen) {
+        user.value = accountService.getLoggedIn()
+    }
+
+    Scaffold(bottomBar = { AppBottomBar(screen) }) { padding ->
+        Column(modifier = Modifier.padding(padding)) {
+            when (screen.value) {
+                Screen.User -> UserScreen(user, accountService)
+                else -> Text("Ideas screen")
+            }
+        }
+    }
+}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build an ideas tracker with Android","href":"/docs/tutorials/android/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/android/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/android/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/android/step-4"},{"step":5,"title":"Add MainActivity","href":"/docs/tutorials/android/step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/android/step-6"},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/android/step-7"},{"step":8,"title":"Next steps","href":"/docs/tutorials/android/step-8"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Add MainActivity"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add navigation to your Android application."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","h2",null,{"id":"creating-the-mainactivity","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Creating the MainActivity "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["To show the new screen, we need to set up our ",["$","code",null,{"children":"MainActivity"}]," class. Open ",["$","code",null,{"children":"MainActivity.kt"}]," and update it with following code."," ","This code sets up our ",["$","code",null,{"children":"MainActivity"}]," with a bottom navigation bar, including a ",["$","strong",null,{"children":"User"}]," screen."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"kotlin"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4"}]]}],"$L5","$L6"]}]}]]}],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+5:["$","h2",null,{"id":"test-the-mainactivity","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Test the MainActivity "}]
+6:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Launch the app and you should be able to use the Login screen to register, login, and logout. Confirm your email address is displayed once you are logged in."}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+8:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T4e2,<!-- src/routes/login/+page.svelte -->
+<script>
+	import { invalidateAll } from '$app/navigation';
+	import { appwrite } from '$lib/appwrite';
+
+	/** @type {string|null} */
+	let formError = null;
+
+	/**
+	 * @param {Event} event
+	 */
+	async function handleSubmit(event) {
+		event.preventDefault();
+		formError = null;
+
+		const form = /** @type {HTMLFormElement} */ (event.target);
+		const formData = /** @type Record<string, string | undefined> */ (
+			Object.fromEntries(new FormData(form).entries())
+		);
+
+		const { email, password } = formData;
+		if (!email || !password) {
+			formError = 'Please fill out all fields';
+			return;
+		}
+
+		try {
+			await appwrite.account.createEmailPasswordSession({
+				email,
+				password
+			});
+			await invalidateAll();
+		} catch (e) {
+			formError = /** @type {import('appwrite').AppwriteException} */ (e).message;
+		}
+	}
+</script>
+
+<form on:submit={handleSubmit}>
+	<label  for="email">Email</label>
+	<input type="email" id="email" name="email" required />
+	<label  for="password">Password</label>
+	<input
+		type="password"
+		id="password"
+		name="password"
+		placeholder="SuperSecretPassword"
+		required
+		minlength="8"
+	/>
+	<button type="submit">Login</button>
+	{#if formError}
+		<p>{formError}</p>
+	{/if}
+</form>
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Authentication with SvelteKit","href":"/docs/tutorials/sveltekit-csr-auth/step-1"},{"step":2,"title":"Create project","href":"/docs/tutorials/sveltekit-csr-auth/step-2"},{"step":3,"title":"Initialize SDK","href":"/docs/tutorials/sveltekit-csr-auth/step-3"},{"step":4,"title":"Check if logged in","href":"/docs/tutorials/sveltekit-csr-auth/step-4"},{"step":5,"title":"Create login page","href":"/docs/tutorials/sveltekit-csr-auth/step-5"},{"step":6,"title":"Create signup page","href":"/docs/tutorials/sveltekit-csr-auth/step-6"},{"step":7,"title":"All set","href":"/docs/tutorials/sveltekit-csr-auth/step-7"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Create login page"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add Authentication to a SvelteKit project using Appwrite."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["We can now implement our login page. Create a ",["$","code",null,{"children":"+page.js"}]," file in the ",["$","code",null,{"children":"src/routes/login"}]," directory:"]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"js"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"// src/routes/login/+page.js\nimport { redirect } from \"@sveltejs/kit\";\n\nexport const load = async ({ parent }) => {\n  // Gets the data returned from the root layout\n  const { account } = await parent();\n  if (account) {\n    redirect(303, \"/\");\n  }\n};\n"}]]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"You can see that we added a redirect in the login page to check if the user's already logged in, in which case we redirect them to the homepage."}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Now we just need to create a form to let the user input sign in data."}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"svelte"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4"}]]}],"$L5"]}]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+5:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["And that's it. When the user successfully logs in, we use ",["$","code",null,{"children":"invalidateAll"}]," to re-run the relevant ",["$","code",null,{"children":"load"}]," functions. In this case, the functions inside ",["$","code",null,{"children":"src/routes/login/+page.js"}]," and ",["$","code",null,{"children":"src/routes/+layout.js"}],"."," ","This means that the ",["$","code",null,{"children":"account"}]," data will be updated, no longer being ",["$","code",null,{"children":"null"}],", and so the login ",["$","code",null,{"children":"load"}]," function will redirect the user to the home page."]}]
+6:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

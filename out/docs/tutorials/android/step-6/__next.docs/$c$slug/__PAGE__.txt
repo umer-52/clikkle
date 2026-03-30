@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[78443,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],""]
+d:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+f:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/images/docs/tutorials/dark/idea-tracker-table.png","image"]
+:HL["/images/docs/tutorials/idea-tracker-table.png","image"]
+:HL["/images/docs/tutorials/dark/idea-tracker-permissions.png","image"]
+:HL["/images/docs/tutorials/idea-tracker-permissions.png","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build an ideas tracker with Android","href":"/docs/tutorials/android/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/android/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/android/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/android/step-4"},{"step":5,"title":"Add MainActivity","href":"/docs/tutorials/android/step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/android/step-6"},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/android/step-7"},{"step":8,"title":"Next steps","href":"/docs/tutorials/android/step-8"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Add database"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add databases and queries to store user data in you Android application."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","h1",null,{"id":"create-table","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Create table "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["In Appwrite, data is stored as a table of rows. Create a table in the ",["$","$L3",null,{"href":"https://cloud.appwrite.io/","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"Appwrite Console"}]," to store our ideas."]}],["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/dark/idea-tracker-table.png","alt":"Create project screen"}]}]}],["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/idea-tracker-table.png","alt":"Create project screen"}]}]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Create a new table with the following columns:"}],["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"Column"}],["$","th",null,{"children":"Type"}],["$","th",null,{"children":"Required"}],["$","th",null,{"children":"Size"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"userId"}],["$","td",null,{"children":"Varchar"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"200"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"title"}],["$","td",null,{"children":"Varchar"}],["$","td",null,{"children":"Yes"}],["$","td",null,{"children":"200"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"description"}],["$","td",null,{"children":"Text"}],["$","td",null,{"children":"No"}],["$","td",null,{"children":"-"}]]}]]}]]}],["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/dark/idea-tracker-permissions.png","alt":"Table permissions screen"}]}]}],["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/tutorials/idea-tracker-permissions.png","alt":"Table permissions screen"}]}]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Navigate to the ",["$","strong",null,{"children":"Settings"}]," tab of your table, add the role ",["$","strong",null,{"children":"Any"}]," and check the ",["$","strong",null,{"children":"Read"}]," box."," ","Next, add a ",["$","strong",null,{"children":"Users"}]," role and give them access to ",["$","strong",null,{"children":"Create"}],", ",["$","strong",null,{"children":"Update"}]," and ",["$","strong",null,{"children":"Delete"}]," by checking those boxes."]}],["$","h2",null,{"id":"add-add-remove-methods","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Add and remove methods "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Now that you have a table to hold ideas, we can read and write to it from our app."," ","Create a new file ","$L4"," and add the following code to it. Replace the values for ","$L5"," and ","$L6"," with the IDs of the database and table you created in the previous step."]}],"$L7","$L8","$L9","$La"]}]}]]}],["$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+4:["$","code",null,{"children":"services/IdeasService.kt"}]
+5:["$","code",null,{"children":"ideaDatabaseId"}]
+6:["$","code",null,{"children":"ideaTableId"}]
+e:T4c9,package <YOUR_ROOT_PACKAGE_HERE>.services
+
+import io.appwrite.Client
+import io.appwrite.ID
+import io.appwrite.Query
+import io.appwrite.models.Row
+import io.appwrite.services.TablesDB
+
+class IdeaService(client: Client) {
+    companion object {
+        private const val ideaDatabaseId = "<YOUR_IDEA_DATABASE_ID_HERE>"
+        private const val ideaTableId = "<YOUR_IDEA_TABLE_ID_HERE>"
+    }
+
+    private val tablesDB = TablesDB(client)
+
+    suspend fun fetch(): List<Row<Map<String, Any>>> {
+        return tablesDB.listRows(
+            ideaDatabaseId,
+            ideaTableId,
+            listOf(Query.orderDesc("\$createdAt"), Query.limit(10))
+        ).rows
+    }
+
+    suspend fun add(
+        userId: String,
+        title: String,
+        description: String
+    ): Row<Map<String, Any>> {
+        return tablesDB.createRow(
+            ideaDatabaseId,
+            ideaTableId,
+            ID.unique(),
+            mapOf(
+                "userId" to userId,
+                "title" to title,
+                "description" to description
+            )
+        )
+    }
+
+    suspend fun remove(id: String) {
+        tablesDB.deleteRow(
+            ideaDatabaseId,
+            ideaTableId,
+            id
+        )
+    }
+}
+7:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"kotlin"}],["$","div",null,{"children":[["$","$Ld",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$e"}]]}]
+8:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Update the ",["$","code",null,{"children":"services/Appwrite.kt"}]," file to add a new property for the ",["$","code",null,{"children":"IdeaService"}]," class."]}]
+9:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Look for ",["$","code",null,{"children":"// Add this line 👇"}]," to find where the changes made here."]}]
+a:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"kotlin"}],["$","div",null,{"children":[["$","$Ld",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"package io.appwrite.tutorialforandroid.services\n\nimport android.content.Context\nimport io.appwrite.Client\n\nobject Appwrite {\n    private const val ENDPOINT = \"https://<REGION>.cloud.appwrite.io/v1\"\n    private const val PROJECT_ID = \"<PROJECT_ID>\"\n\n    private lateinit var client: Client\n\n    // Add this line 👇\n    internal lateinit var ideas: IdeaService\n    internal lateinit var account: AccountService\n\n    fun init(context: Context) {\n        client = Client(context)\n            .setEndpoint(ENDPOINT)\n            .setProject(PROJECT_ID)\n\n        // Add this line 👇\n        ideas = IdeaService(client)\n        account = AccountService(client)\n    }\n}\n"}]]}]
+b:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+c:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+16:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+4:T53a,<!-- components/IdeasForm.vue -->
+<script setup>
+const ideas = useIdeas();
+const user = useUserSession();
+
+const handleAddIdea = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  // Extract the values from the FormData object and add userId
+  const postIdeaData = {
+    userId: user.current.value.userId,
+    title: formData.get('title'),
+    description: formData.get('description'),
+  };
+
+  await ideas.add(postIdeaData);
+
+  form.reset(); // Clear the form
+};
+</script>
+
+<template>
+  <div>
+    <article class="container padding-0">
+      <h4 class="heading-level-4">Submit Idea</h4>
+      <form @submit.prevent="handleAddIdea" class="u-margin-block-start-16">
+        <ul class="form-list">
+          <li class="form-item">
+            <label class="label">Title</label>
+            <input
+              type="text"
+              placeholder="Title"
+              name="title"
+            />
+          </li>
+          <li class="form-item">
+            <label class="label">Description</label>
+            <textarea
+              placeholder="Description"
+              name="description"
+            />
+          </li>
+          <button class="button" aria-label="Submit idea" type="submit">
+            Submit
+          </button>
+        </ul>
+      </form>
+    </article>
+  </div>
+</template>
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build an ideas tracker with Nuxt","href":"/docs/tutorials/nuxt/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/nuxt/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/nuxt/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/nuxt/step-4"},{"step":5,"title":"Add navigation","href":"/docs/tutorials/nuxt/step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/nuxt/step-6"},{"step":7,"title":"Ideas page","href":"/docs/tutorials/nuxt/step-7"},{"step":8,"title":"Next steps","href":"/docs/tutorials/nuxt/step-8"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Ideas page"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add ideas from Appwrite database in your app."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["With the methods in the ",["$","code",null,{"children":"useIdeas"}]," composable we can get some ideas to the home page for the users to interact with."," ","We will use it in a form component so the logged in users can add their ideas, and in a list component to render the ten most recent ideas."," ","We start with building the form."]}],["$","h2",null,{"id":"idea-form","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Idea form "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["On the home page, the logged in users should be able to add their ideas to the Appwrite database."," ","The form need a text field for filling in the title, a textarea for the description and a submit button."]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["From the ",["$","code",null,{"children":"components"}]," directory, add the file ",["$","code",null,{"children":"IdeasForm.vue"}]," and add the following code."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"vue"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4"}]]}],"$L5","$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12"]}]}]]}],["$L13"],"$L14"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+5:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Next, add the component to the page ",["$","code",null,{"children":"pages/index.vue"}]," by auto-importing it in the ",["$","code",null,{"children":"<template>"}]," tag."," ","In doing that, we need to take a moment to think about how we want to display the form to the users."]}]
+6:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Since it should only be shown to logged in user, we need to wrap it in a ",["$","code",null,{"children":"<section>"}]," that renders conditionally when the ",["$","code",null,{"children":"isLoggedIn"}]," reference in the ",["$","code",null,{"children":"useUserSession"}]," is true."," ","If the requirement is not met, we show a paragraph with some information to the user instead."]}]
+7:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Add the following code to the ",["$","code",null,{"children":"index.vue"}]," page to conditionally render the form and information paragraph."]}]
+8:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Overwrite the contents of ",["$","code",null,{"children":"pages/index.vue"}]," with the following code."]}]
+9:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"vue"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"<!-- pages/index.vue -->\n<script setup>\nconst user = useUserSession();\n</script>\n\n<template>\n  <div class=\"u-max-width-650\" style=\"margin-inline: auto;\">\n    <!-- Idea form component for logged in users -->\n    <section v-if=\"user.current.value\" class=\"card u-margin-32\">\n      <IdeasForm />\n    </section>\n\n    <section v-else class=\"card u-margin-32\">\n      <div class=\"container\">\n        <p class=\"body-text-1\" style=\"width: 100%;\">\n          Please login to submit an idea.\n        </p>\n      </div>\n    </section>\n    <IdeasList />\n  </div>\n</template>\n<style>\narticle.box {\n  background-color: hsl(var(--color-neutral-0));\n}\n</style>\n"}]]}]
+a:["$","h2",null,{"id":"ideas-list","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Ideas list "}]
+b:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Now that we can get some ideas to show, we go on to build the component for the list of ideas."}]
+c:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Once again, we need to take a moment to think about how this component should work."," ","First of all, the ideas should be visible for the users before any interaction has taken place on the page."," ","To catch that moment in time when the page loads, we call our ",["$","code",null,{"children":"fetch"}]," function, that fetches the ideas in Appwrite, from the built-in ",["$","code",null,{"children":"onMounted"}]," function."]}]
+d:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Second, it's likely that a user will want to delete one of their ideas from the database."," ","We help them do that by adding a delete button in the top right corner of the idea list item, but only on the ideas added by the user itself."]}]
+e:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Add the file ",["$","code",null,{"children":"IdeasList"}]," from the ",["$","code",null,{"children":"components"}]," directory and insert the following code:"]}]
+15:T50d,<!-- components/IdeasList.vue -->
+<script setup>
+import { onMounted } from 'vue';
+
+const ideas = useIdeas();
+const user = useUserSession();
+</script>
+
+<template>
+    <section class="u-margin-32">
+      <article class="card">
+        <h4 class="heading-level-4">Latest Ideas</h4>
+        <ul class="u-margin-block-start-8">
+          <template v-if="ideas.current.value && ideas.current.value.length">
+            <li v-for="idea in ideas.current.value">
+              <div class="box">
+                <h5 class="heading-level-6">{{ idea.title }}</h5>
+                <p class="body-text-2">{{ idea.description }}</p>
+                <div class="u-position-absolute u-inset-inline-end-8 u-inset-block-start-8">
+                  <button class="button is-small is-text is-only-icon" aria-label="Remove item" v-if="user.current.value &&
+                    idea.userId === user.current.value.userId
+                    " type="button" @click="ideas.remove(idea.$id)">
+                    <span class="icon-row-remove" aria-hidden="true" />
+                  </button>
+                </div>
+              </div>
+            </li>
+          </template>
+          <template v-else>
+            <p>No ideas yet.</p>
+          </template>
+        </ul>
+      </article>
+    </section>
+  </template>
+f:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"vue"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$15"}]]}]
+10:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Return to the file ",["$","code",null,{"children":"pages/index.vue"}]," once more to import the list of ideas."," ","This component should be visible to all users, so no conditional rendering neeeds to be handled."]}]
+11:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"vue"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"<!-- pages/index.vue -->\n\n<template>\n  <div class=\"u-max-width-650\" style=\"margin: 0 auto;\">\n    <!-- ... Some skipped code -->\n    <IdeasList />\n  </div>\n</template>\n\n<!-- ... Some skipped code -->\n"}]]}]
+12:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Congratulations!"," ","You now have an ideas tracker built with Nuxt and Appwrite to use locally."]}]
+13:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+14:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+18:null

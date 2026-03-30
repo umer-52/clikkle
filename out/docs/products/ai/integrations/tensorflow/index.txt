@@ -1,0 +1,218 @@
+1:"$Sreact.fragment"
+2:I[37252,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"AnnouncementBar"]
+3:I[34427,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"SiteHeader"]
+4:I[17833,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"default"]
+5:I[20389,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"default"]
+6:I[78443,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],""]
+7:I[81319,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js"],"DocsHeader"]
+8:I[46363,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js"],"SidebarSwitcher"]
+e:I[64469,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/0nyqz~zv0c6a5.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","ai","integrations","tensorflow",""],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/ai/integrations/tensorflow","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0nyqz~zv0c6a5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/097ug2gjiiwgy.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0wptlyy233jee.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0z8la50me8s~9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable dark","children":["$","body",null,{"className":"antialiased font-body","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"Skip to content"}],["$","$L2",null,{}],["$","$L3",null,{}],["$","div",null,{"id":"main-content","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(254,_149,_103,_0.2)_0%,_rgba(254,_149,_103,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(253,_54,_110,_0.08)_0%,_rgba(253,_54,_110,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(253,_54,_110,_0.08)_0%,_rgba(253,_54,_110,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#f8a1ba] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}],["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}],["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L6",null,{"href":"/","className":"web-button w-full sm:w-fit group flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/01.-es5qk_0se.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0x_9wfau77y44.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","async":true,"nonce":"$undefined"}]],["$","div",null,{"className":"min-h-screen bg-[#19191c]","children":[["$","$L7",null,{}],["$","div",null,{"className":"mx-auto flex max-w-[1400px]","children":[["$","$L8",null,{}],["$","main",null,{"className":"min-w-0 flex-1 overflow-x-hidden px-6 py-12 lg:pl-12 lg:pr-8","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L9","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf","$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"dnV_WiS_EpzHsFAQtF9aJ"}
+12:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"ViewportBoundary"]
+18:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"MetadataBoundary"]
+9:["$","$L5",null,{}]
+a:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+15:[]
+c:"$W15"
+d:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0nyqz~zv0c6a5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+:HL["/images/docs/functions/dark/template.png","image"]
+:HL["/images/docs/functions/template.png","image"]
+11:["$","div",null,{"className":"flex w-full flex-row xl:gap-14 2xl:gap-24 overflow-visible","children":[["$","div",null,{"className":"flex-1 min-w-0 max-w-[800px] pt-12 pb-24 px-6 md:px-10 lg:pl-[4rem]","children":[[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":[["$","div",null,{"className":"mb-3 flex items-center gap-2 text-[11px] font-bold uppercase tracking-wider text-white/40","children":["intermediate",["$","span",null,{"className":"text-white/20","children":"•"}],["$","span",null,{"children":[15," min"]}]]}],["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Integrating TensorFlow with Appwrite"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Learn how to integrate TensorFlow into your Appwrite project."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"The TensorFlow API allows you to create powerful machine learning models for various tasks. This tutorial will guide you through the process of setting up a TensorFlow-based text generation model and integrating it into your Appwrite project."}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"We'll create a function that uses TensorFlow to generate text completions based on a given prompt. Using Appwrite functions, we'll build a user interface that allows users to input text and see the generated completion."}],["$","h1",null,{"id":"prerequisites","className":"text-3xl font-aeonik-pro font-bold text-white mt-12 mb-6","children":"Prerequisites "}],["$","ul",null,{"children":[["$","li",null,{"children":"An Appwrite Project"}],["$","li",null,{"children":"Basic knowledge of Python and TensorFlow"}]]}],["$","section",null,{"className":"my-12","children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Head to the ",["$","$L6",null,{"href":"https://cloud.appwrite.io/console","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"Appwrite Console"}],", click on ",["$","strong",null,{"children":"Functions"}]," in the left sidebar, and then click on the ",["$","strong",null,{"children":"Create Function"}]," button."]}],["$","div",null,{"className":"block","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/functions/dark/template.png","alt":"Create function screen"}]}]}],["$","div",null,{"className":"hidden","aria-hidden":"true","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["$","img",null,{"src":"/images/docs/functions/template.png","alt":"Create function screen"}]}]}],["$","ol",null,{"children":[["$","li",null,{"children":["In the Appwrite Console's sidebar, click ",["$","strong",null,{"children":"Functions"}],"."]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Create function"}],"."]}],["$","li",null,{"children":["Under ",["$","strong",null,{"children":"Connect Git repository"}],", select your provider."]}],["$","li",null,{"children":["After connecting to GitHub, under ",["$","strong",null,{"children":"Quick start"}],", select the ",["$","strong",null,{"children":"Python ML"}]," starter template."]}],["$","li",null,{"children":["In the ",["$","strong",null,{"children":"Variables"}]," step, add any necessary variables like ",["$","code",null,{"children":"APPWRITE_API_KEY"}],", ",["$","code",null,{"children":"APPWRITE_ENDPOINT"}],", and ",["$","code",null,{"children":"APPWRITE_FUNCTION_PROJECT_ID"}],"."]}],["$","li",null,{"children":"Follow the step-by-step wizard to create the function."}]]}]]}],["$","section",null,{"className":"my-12","children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Once the function is created, navigate to the freshly created repository and clone it to your local machine."}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Add the necessary dependencies in the ","$L1a"," file:"]}],"$L1b","$L1c","$L1d"]}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]],"$L26"]}],"$L27"]}]
+28:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+1a:["$","code",null,{"children":"requirements.txt"}]
+1b:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"code"}],["$","div",null,{"children":[["$","$L28",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"tensorflow\nnumpy\n"}]]}]
+1c:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Install these packages by running:"}]
+1d:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"bash"}],["$","div",null,{"children":[["$","$L28",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"pip install -r requirements.txt\n"}]]}]
+29:T875,import tensorflow as tf
+import numpy as np
+import os
+
+def main():
+    path_to_file = tf.keras.utils.get_file(
+        "shakespeare.txt",
+        "https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt",
+    )
+    text = open(path_to_file, "rb").read().decode(encoding="utf-8")
+    vocab = sorted(set(text))
+    char2idx = {u: i for i, u in enumerate(vocab)}
+    idx2char = np.array(vocab)
+
+    text_as_int = np.array([char2idx[c] for c in text])
+    seq_length = 100
+    char_dataset = tf.data.Dataset.from_tensor_slices(text_as_int)
+    sequences = char_dataset.batch(seq_length + 1, drop_remainder=True)
+
+    def split_input_target(chunk):
+        input_text = chunk[:-1]
+        target_text = chunk[1:]
+        return input_text, target_text
+
+    dataset = sequences.map(split_input_target)
+    BATCH_SIZE = 64
+    BUFFER_SIZE = 10000
+    dataset = dataset.shuffle(BUFFER_SIZE).batch(BATCH_SIZE, drop_remainder=True)
+
+    vocab_size = len(vocab)
+    embedding_dim = 256
+    rnn_units = 1024
+
+    model = tf.keras.Sequential(
+        [
+            tf.keras.layers.Embedding(
+                vocab_size, embedding_dim, batch_input_shape=[BATCH_SIZE, None]
+            ),
+            tf.keras.layers.GRU(
+                rnn_units,
+                return_sequences=True,
+                stateful=True,
+                recurrent_initializer="glorot_uniform",
+            ),
+            tf.keras.layers.Dense(vocab_size),
+        ]
+    )
+
+    def loss(labels, logits):
+        return tf.keras.losses.sparse_categorical_crossentropy(
+            labels, logits, from_logits=True
+        )
+
+    model.compile(optimizer="adam", loss=loss)
+
+    EPOCHS = 10
+    checkpoint_dir = "./training_checkpoints"
+    checkpoint_prefix = f"{checkpoint_dir}/ckpt_{{epoch}}"
+
+    checkpoint_callback = tf.keras.callbacks.ModelCheckpoint(
+        filepath=checkpoint_prefix, save_weights_only=True
+    )
+
+    model.fit(dataset, epochs=EPOCHS, callbacks=[checkpoint_callback])
+
+    model.save("text_generation_model.h5")
+    np.save("char2idx.npy", char2idx)
+    np.save("idx2char.npy", idx2char)
+
+    os.remove(path_to_file)
+
+if __name__ == "__main__":
+    main()
+1e:["$","section",null,{"className":"my-12","children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a ",["$","code",null,{"children":"src/train.py"}]," file to train your TensorFlow model. This script will download a dataset, preprocess it, and train a model."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"python"}],["$","div",null,{"children":[["$","$L28",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$29"}]]}]]}]
+1f:["$","section",null,{"className":"my-12","children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a ",["$","code",null,{"children":"src/utils.py"}]," file with utility functions to handle file retrieval and error handling."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"python"}],["$","div",null,{"children":[["$","$L28",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import os\n\n__dirname = os.path.dirname(os.path.abspath(__file__))\nstatic_folder = os.path.join(__dirname, \"../static\")\n\ndef get_static_file(file_name: str) -> str:\n    file_path = os.path.join(static_folder, file_name)\n    with open(file_path, \"r\") as file:\n        return file.read()\n\ndef throw_if_missing(obj: object, keys: list[str]) -> None:\n    missing = [key for key in keys if key not in obj or not obj[key]]\n    if missing:\n        raise ValueError(f\"Missing required fields: {', '.join(missing)}\")\n"}]]}]]}]
+20:["$","section",null,{"className":"my-12","children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Write the ",["$","code",null,{"children":"GET"}]," request handler in the ",["$","code",null,{"children":"src/main.py"}]," file. This handler will return a static HTML page."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"python"}],["$","div",null,{"children":[["$","$L28",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import tensorflow as tf\nimport numpy as np\nfrom .utils import get_static_file, throw_if_missing\n\ndef main(context):\n    if context.req.method == \"GET\":\n        return context.res.text(\n            get_static_file(\"index.html\"),\n            200,\n            {\"content-type\": \"text/html; charset=utf-8\"},\n        )\n"}]]}]]}]
+21:["$","section",null,{"className":"my-12","children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Add the methods necessary to integrate with the TensorFlow model. For now, call a placeholder function ",["$","code",null,{"children":"generate_text"}]," that returns the prompt as is."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"python"}],["$","div",null,{"children":[["$","$L28",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"def main(context):\n    if context.req.method == \"GET\":\n        return context.res.text(\n            get_static_file(\"index.html\"),\n            200,\n            {\"content-type\": \"text/html; charset=utf-8\"},\n        )\n\n    try:\n        throw_if_missing(context.req.body, [\"prompt\"])\n    except ValueError as err:\n        return context.res.json({\"ok\": False, \"error\": err.message}, 400)\n\n    prompt = context.req.body[\"prompt\"]\n    generated_text = generate_text(prompt)\n    return context.res.json({\"ok\": True, \"completion\": generated_text}, 200)\n"}]]}]]}]
+22:["$","section",null,{"className":"my-12","children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create the ",["$","code",null,{"children":"generate_text"}]," function in the ",["$","code",null,{"children":"src/main.py"}]," file to generate text completions using the TensorFlow model."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"python"}],["$","div",null,{"children":[["$","$L28",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"model = tf.keras.models.load_model(\"text_generation_model.h5\")\nchar2idx = np.load(\"char2idx.npy\", allow_pickle=True).item()\nidx2char = np.load(\"idx2char.npy\", allow_pickle=True)\n\ndef generate_text(prompt):\n    input_eval = [char2idx[s] for s in prompt]\n    input_eval = tf.expand_dims(input_eval, 0)\n\n    text_generated = []\n    temperature = 1.0\n\n    model.reset_states()\n    for _ in range(1000):\n        predictions = model(input_eval)\n        predictions = tf.squeeze(predictions, 0)\n        predictions = predictions / temperature\n        predicted_id = tf.random.categorical(predictions, num_samples=1)[-1, 0].numpy()\n\n        input_eval = tf.expand_dims([predicted_id], 0)\n        text_generated.append(idx2char[predicted_id])\n\n    return prompt + \"\".join(text_generated)\n"}]]}]]}]
+2a:Tc10,<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generate with TensorFlow demo</title>
+
+    <script>
+      async function onSubmit(prompt) {
+        const response = await fetch("/", {
+          method: "POST",
+          body: JSON.stringify({ prompt }),
+          headers: {
+            "Content-Type": "application/json",
+          },
+        });
+
+        const json = await response.json();
+
+        if (!json.ok || json.error) {
+          alert(json.error);
+        }
+
+        return json.completion;
+      }
+    </script>
+
+    <script src="//unpkg.com/alpinejs" defer></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink" />
+    <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink-icons" />
+  </head>
+  <body class="theme-dark">
+    <main class="main-content">
+      <div class="top-cover u-padding-block-end-56">
+        <div class="container">
+          <div
+            class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+          >
+            <h1 class="heading-level-1">Generate with TensorFlow demo</h1>
+            <code class="u-un-break-text"></code>
+          </div>
+          <p
+            class="body-text-1 u-normal u-margin-block-start-8"
+            style="max-width: 50rem"
+          >
+            Use this page to test your implementation with TensorFlow. Enter
+            text and receive the model output as a response.
+          </p>
+        </div>
+      </div>
+      <div
+        class="container u-margin-block-start-negative-56"
+        x-data="{ prompt: '', answer: '', loading: false }"
+      >
+        <div class="card u-flex u-gap-24 u-flex-vertical">
+          <div class="u-flex u-cross-center u-gap-8">
+            <div
+              class="input-text-wrapper is-with-end-button u-width-full-line"
+            >
+              <input x-model="prompt" type="search" placeholder="Question" />
+              <div class="icon-search" aria-hidden="true"></div>
+            </div>
+
+            <button
+              class="button"
+              x-bind:disabled="loading"
+              x-on:click="async () => { loading = true; answer = ''; try { answer = await onSubmit(prompt) } catch(err) { console.error(err); } finally { loading = false; } }"
+            >
+              <span class="text">Submit</span>
+            </button>
+          </div>
+          <template x-if="answer">
+            <div class="u-flex u-flex-vertical u-gap-12">
+              <div class="u-flex u-flex-vertical u-gap-12 card">
+                <div class="u-flex u-gap-12">
+                  <h5 class="eyebrow-heading-2">TensorFlow Model:</h5>
+                </div>
+
+                <div style="overflow-x: hidden; line-break: anywhere">
+                  <p class="u-color-text-gray" x-text="answer"></p>
+                </div>
+              </div>
+            </div>
+          </template>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
+23:["$","section",null,{"className":"my-12","children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a HTML web page that the function will serve. Create a new file at ",["$","code",null,{"children":"static/index.html"}]," with some HTML boilerplate:"]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"html"}],["$","div",null,{"children":[["$","$L28",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$2a"}]]}],"$L2b"]}]
+24:["$","section",null,{"className":"my-12","children":["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Now that the function is deployed, test it by visiting the function URL in your browser."," ","This should show the UI created earlier. To test it, write a prompt and click the submit button. After a brief moment, you should see the generated text from the TensorFlow model."]}]}]
+25:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"This concludes the tutorial on integrating TensorFlow with Appwrite. You now have a working example of a text generation model integrated with Appwrite functions!"}]
+26:["$","div",null,{"className":"mt-16 pt-8 border-t border-white/10 flex justify-between items-center text-sm","children":["$","span",null,{"className":"text-white/40","children":"Appwrite Documentation Clone"}]}]
+27:["$","aside",null,{"className":"hidden w-[240px] shrink-0 xl:block relative z-0 pl-1","children":["$","div",null,{"className":"sticky top-[64px] max-h-[calc(100vh-64px)] overflow-y-auto pt-16 pb-8 pr-4 hide-scrollbar","children":false}]}]
+2b:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"The form will allow users to submit their text to the Appwrite function through a POST request. The Appwrite function will call the TensorFlow model and return the generated text to the user."}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+2c:I[18090,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"IconMark"]
+14:null
+19:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L2c","13",{}]]

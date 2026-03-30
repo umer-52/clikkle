@@ -1,0 +1,198 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+17:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+4:T4ef,import { IResourceComponentsProps } from "@refinedev/core";
+import {
+  List,
+  useTable,
+  EditButton,
+  ShowButton,
+  getDefaultSortOrder,
+  DeleteButton,
+} from "@refinedev/antd";
+import { Table, Space } from "antd";
+import { IPost } from "../../interfaces";
+
+export const PostList: React.FC<IResourceComponentsProps> = () => {
+  const { tableProps, sorters } = useTable<IPost>({
+    initialSorter: [
+      {
+        field: "$id",
+        order: "asc",
+      },
+    ],
+  });
+
+  return (
+    <List>
+      <Table {...tableProps} rowKey="id">
+        <Table.Column
+          dataIndex="id"
+          title="ID"
+          sorter
+          width={100}
+          defaultSortOrder={getDefaultSortOrder("id", sorters)}
+        />
+        <Table.Column dataIndex="title" title="Title" sorter />
+
+        <Table.Column<IPost>
+          title="Actions"
+          dataIndex="actions"
+          fixed="right"
+          render={(_, record) => (
+            <Space>
+              <EditButton hideText size="small" recordItemId={record.id} />
+              <ShowButton hideText size="small" recordItemId={record.id} />
+              <DeleteButton hideText size="small" recordItemId={record.id} />
+            </Space>
+          )}
+        />
+      </Table>
+    </List>
+  );
+};
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build a blog admin panel with Refine","href":"/docs/tutorials/refine/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/refine/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/refine/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/refine/step-4"},{"step":5,"title":"Add database","href":"/docs/tutorials/refine/step-5"},{"step":6,"title":"Create CRUD pages","href":"/docs/tutorials/refine/step-6"},{"step":7,"title":"Next steps","href":"/docs/tutorials/refine/step-7"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Create CRUD pages"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add database queries and CRUD pages using Appwrite in your Refine application."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"We're going to add CRUD pages to our admin panel so you can list, create, and view blog posts records."}],["$","h2",null,{"id":"list-page","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"List page "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["First, create a listing page to show Appwrite API data in a table by copying the code below into ",["$","code",null,{"children":"src/pages/posts"}]," and saving it as ",["$","code",null,{"children":"list.tsx"}],"."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ts"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4"}]]}],["$","h2",null,{"id":"create-page","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Create page "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a new record page for the Appwrite API by copying the following code and saving it as ","$L5","."]}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]]}],["$L14"],"$L15"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+5:["$","code",null,{"children":"create.tsx"}]
+6:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ts"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import { HttpError, IResourceComponentsProps } from \"@refinedev/core\";\nimport { Create, useForm } from \"@refinedev/antd\";\nimport { Form, Input } from \"antd\";\nimport { IPost, IPostVariables } from \"../../interfaces\";\n\nexport const PostCreate: React.FC<IResourceComponentsProps> = () => {\n  const { formProps, saveButtonProps } = useForm<\n    IPost,\n    HttpError,\n    IPostVariables\n  >();\n\n  return (\n    <Create saveButtonProps={saveButtonProps}>\n      <Form {...formProps} layout=\"vertical\">\n        <Form.Item\n          label=\"Title\"\n          name=\"title\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input />\n        </Form.Item>\n\n        <Form.Item\n          label=\"Content\"\n          name=\"content\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input.TextArea rows={5} />\n        </Form.Item>\n      </Form>\n    </Create>\n  );\n};\n"}]]}]
+7:["$","h2",null,{"id":"edit-page","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Edit page "}]
+8:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a page for editing a records with the following code and saving it as ",["$","code",null,{"children":"edit.tsx"}],"."]}]
+9:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ts"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import React from \"react\";\nimport { HttpError, IResourceComponentsProps } from \"@refinedev/core\";\nimport { Edit, useForm } from \"@refinedev/antd\";\nimport { Form, Input } from \"antd\";\nimport { IPost, IPostVariables } from \"../../interfaces\";\n\nexport const PostEdit: React.FC<IResourceComponentsProps> = () => {\n  const { formProps, saveButtonProps } = useForm<\n    IPost,\n    HttpError,\n    IPostVariables\n  >();\n\n  return (\n    <Edit saveButtonProps={saveButtonProps}>\n      <Form {...formProps} layout=\"vertical\">\n        <Form.Item\n          label=\"Title\"\n          name=\"title\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input />\n        </Form.Item>\n        <Form.Item\n          label=\"Content\"\n          name=\"content\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input.TextArea rows={5} />\n        </Form.Item>\n      </Form>\n    </Edit>\n  );\n};\n"}]]}]
+a:["$","h2",null,{"id":"show-page","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Show page "}]
+b:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a page for showig the records with the following code and saving it as ",["$","code",null,{"children":"edit.tsx"}],"."]}]
+c:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ts"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import { useShow, IResourceComponentsProps } from \"@refinedev/core\";\n\nimport { Show, MarkdownField } from \"@refinedev/antd\";\nimport { Typography } from \"antd\";\nimport { IPost } from \"../../interfaces\";\n\nconst { Title, Text } = Typography;\n\nexport const PostShow: React.FC<IResourceComponentsProps> = () => {\n  const { queryResult } = useShow<IPost>();\n  const { data, isLoading } = queryResult;\n  const record = data?.data;\n\n  return (\n    <Show isLoading={isLoading}>\n      <Title level={5}>Id</Title>\n      <Text>{record?.id}</Text>\n\n      <Title level={5}>Title</Title>\n      <Text>{record?.title}</Text>\n\n      <Title level={5}>Content</Title>\n      <MarkdownField value={record?.content} />\n    </Show>\n  );\n};\n"}]]}]
+d:["$","h2",null,{"id":"interfaces","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Interfaces "}]
+e:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["We need to add interfaces to ",["$","code",null,{"children":"src/interfaces/index.d.ts"}]," file."]}]
+f:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ts"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"export interface IFile {\n  name: string;\n  percent: number;\n  size: number;\n  status: \"error\" | \"success\" | \"done\" | \"uploading\" | \"removed\";\n  type: string;\n  uid: string;\n  url: string;\n}\n\nexport interface IPost {\n  id: string;\n  title: string;\n  content: string;\n}\n\nexport interface IPostVariables {\n  id: string;\n  title: string;\n  content: string;\n}\n"}]]}]
+10:["$","h2",null,{"className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Connect pages to the App"}]
+11:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Finally, import the pages into ",["$","code",null,{"children":"App.tsx"}]," and define them in the ",["$","code",null,{"children":"<Route>"}]," components."]}]
+12:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Simply, paste the following into ",["$","code",null,{"children":"App.tsx"}],"."]}]
+16:Te4d,import { Authenticated, Refine } from "@refinedev/core";
+import { dataProvider, liveProvider } from "@refinedev/appwrite";
+import {
+  AuthPage,
+  ErrorComponent,
+  RefineThemes,
+  ThemedLayoutV2,
+  useNotificationProvider,
+} from "@refinedev/antd";
+import routerProvider, {
+  CatchAllNavigate,
+  DocumentTitleHandler,
+  NavigateToResource,
+  UnsavedChangesNotifier,
+} from "@refinedev/react-router-v6";
+import "@refinedev/antd/dist/reset.css";
+
+import { App as AntdApp, ConfigProvider } from "antd";
+import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
+
+import { appwriteClient } from "./utility";
+import { authProvider } from "./authProvider";
+import { PostCreate, PostEdit, PostList, PostShow } from "./pages/posts";
+
+const App: React.FC = () => (
+  <BrowserRouter>
+    <ConfigProvider theme={RefineThemes.Blue}>
+      <AntdApp>
+        <Refine
+          dataProvider={dataProvider(appwriteClient, {
+            databaseId: "<APPWRITE_DATABASE_ID>",
+          })}
+          liveProvider={liveProvider(appwriteClient, {
+            databaseId: "<APPWRITE_DATABASE_ID>",
+          })}
+          authProvider={authProvider}
+          routerProvider={routerProvider}
+          resources={[
+            {
+              name: "<APPWRITE_TABLE_ID>",
+              list: "/posts",
+              create: "/posts/create",
+              edit: "/posts/edit/:id",
+              show: "/posts/show/:id",
+              meta: {
+                label: "Posts",
+              },
+            },
+          ]}
+          notificationProvider={useNotificationProvider}
+          options={{
+            liveMode: "auto",
+            syncWithLocation: true,
+            warnWhenUnsavedChanges: true,
+          }}
+        >
+          <Routes>
+            <Route
+              element={
+                <Authenticated 
+                  fallback={<CatchAllNavigate to="/login" />}
+                >
+                  <ThemedLayoutV2>
+                    <Outlet />
+                  </ThemedLayoutV2>
+                </Authenticated>
+              }
+            >
+              <Route
+                index
+                element={
+                  <NavigateToResource 
+                    resource="<APPWRITE_TABLE_ID>" 
+                  />
+                }
+              />
+
+              <Route path="/posts">
+                <Route index element={<PostList />} />
+                <Route path="create" element={<PostCreate />} />
+                <Route path="edit/:id" element={<PostEdit />} />
+                <Route path="show/:id" element={<PostShow />} />
+              </Route>
+            </Route>
+
+            <Route
+              element={
+                <Authenticated fallback={<Outlet />}>
+                  <NavigateToResource
+                    resource="<APPWRITE_TABLE_ID>" 
+                  />
+                </Authenticated>
+              }
+            >
+              <Route
+                path="/login"
+                element={<AuthPage forgotPasswordLink={false} />}
+              />
+              <Route path="/register" 
+                element={<AuthPage type="register" />} 
+              />
+            </Route>
+
+            <Route
+              element={
+                <Authenticated>
+                  <ThemedLayoutV2>
+                    <Outlet />
+                  </ThemedLayoutV2>
+                </Authenticated>
+              }
+            >
+              <Route path="*" element={<ErrorComponent />} />
+            </Route>
+          </Routes>
+          <UnsavedChangesNotifier />
+          <DocumentTitleHandler />
+        </Refine>
+      </AntdApp>
+    </ConfigProvider>
+  </BrowserRouter>
+);
+
+export default App;
+13:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"ts"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$16"}]]}]
+14:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+15:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+19:null

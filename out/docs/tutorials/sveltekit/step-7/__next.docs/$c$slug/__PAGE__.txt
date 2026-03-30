@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+8:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+4:T6a2,<script>
+	import { invalidateAll } from '$app/navigation';
+	import { addIdea, deleteIdea } from '$lib/ideas.js';
+	import { user } from '$lib/user.js';
+
+	export let data;
+
+	const add = async (e) => {
+		e.preventDefault();
+		const formEl = e.target;
+		const formData = new FormData(formEl);
+		await addIdea($user.$id, formData.get('title'), formData.get('description'));
+		invalidateAll();
+
+		// Reset form
+		formEl.reset();
+	};
+
+	const remove = async (id) => {
+		await deleteIdea(id);
+		invalidateAll();
+	};
+</script>
+
+{#if $user}
+	<section>
+		<h2>Submit Idea</h2>
+		<form on:submit={add}>
+			<label>
+				Title
+				<input type="text" placeholder="Title" name="title" required />
+			</label>
+			<label>
+				Description
+				<textarea placeholder="Description" name="description" />
+			</label>
+			<button type="submit">Submit</button>
+		</form>
+	</section>
+{:else}
+	<section><p>Please login to submit an idea.</p></section>
+{/if}
+
+<section>
+	<h2>Latest Ideas</h2>
+	{#if data.ideas.total === 0}
+		<p>No ideas yet.</p>
+	{:else}
+		<p>{data.ideas.total} ideas found</p>
+	{/if}
+	<ul>
+		{#each data.ideas.rows as idea}
+			<li>
+				<strong>{idea.title}</strong>
+				{#if idea.description}
+					<p>{idea.description}</p>
+				{/if}
+				{#if $user && idea.userId === $user.$id}
+					<button type="button" on:click={() => remove(idea.$id)}>Remove</button>
+				{/if}
+			</li>
+		{/each}
+	</ul>
+</section>
+
+<style>
+	section {
+		margin-bottom: 3rem;
+	}
+	form {
+		display: grid;
+		gap: 0.75rem;
+	}
+
+	label {
+		display: grid;
+		gap: 0.25rem;
+	}
+
+	ul {
+		list-style: none;
+		padding: 0;
+	}
+
+	li {
+		border-radius: 0.5rem;
+		border: 2px dashed pink;
+		min-width: 20%;
+		padding: 1rem;
+		margin-bottom: 1rem;
+	}
+</style>
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build an ideas tracker with SvelteKit","href":"/docs/tutorials/sveltekit/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/sveltekit/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/sveltekit/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/sveltekit/step-4"},{"step":5,"title":"Add navigation","href":"/docs/tutorials/sveltekit/step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/sveltekit/step-6"},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/sveltekit/step-7"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Create ideas page"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add pagining and ordering to you SvelteKit application powered by Appwrite Databases."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Using our created methods, we can build a page to submit and view ideas."}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"First, let's create a load function for our ideas page. This will load the latest ideas from the database."}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["To do so, create a file called ",["$","code",null,{"children":"src/routes/+page.js"}]," with the following content:"]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-web"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"import { getIdeas } from '$lib/ideas';\n\nexport async function load() {\n\treturn {\n\t\tideas: await getIdeas()\n\t};\n}\n"}]]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Simple as that! Now, let's create the page itself. Replace the contents in ",["$","code",null,{"children":"src/routes/+page.svelte"}]," with the following:"]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"html"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4"}]]}],"$L5"]}]}]]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+5:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"With this you have successfully created an Ideas Tracker! You can now submit ideas and view them."}]
+6:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

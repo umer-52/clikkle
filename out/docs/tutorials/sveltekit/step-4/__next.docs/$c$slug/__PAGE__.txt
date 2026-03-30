@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[78443,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],""]
+4:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+b:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+5:T497,import { writable } from 'svelte/store';
+import { ID } from 'appwrite';
+import { goto } from '$app/navigation';
+import { account } from '$lib/appwrite';
+
+// Avoid auth calls in server-side, so that a user is not shared between requests
+const isBrowser = typeof window !== 'undefined';
+
+const createUser = () => {
+	const store = writable(null);
+
+	async function init() {
+		if (!isBrowser) return;
+		try {
+			store.set(await account.get());
+		} catch (e) {
+			store.set(null);
+		}
+	}
+
+	init();
+
+	async function register(email, password, name) {
+		if (!isBrowser) return;
+		await account.create({
+			userId: ID.unique(),
+			email,
+			password,
+			name
+		});
+		await login(email, password);
+	}
+
+	async function login(email, password) {
+		if (!isBrowser) return;
+		await account.createEmailPasswordSession({
+			email,
+			password
+		});
+		await init();
+		goto('/'); // Redirect to home page after login
+	}
+
+	async function logout() {
+		await account.deleteSession({
+			sessionId: 'current'
+		});
+		store.set(null);
+	}
+
+	return {
+		// Exposes the store's value with $user
+		subscribe: store.subscribe,
+		register,
+		login,
+		logout,
+		init
+	};
+};
+
+export const user = createUser();
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build an ideas tracker with SvelteKit","href":"/docs/tutorials/sveltekit/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/sveltekit/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/sveltekit/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/sveltekit/step-4"},{"step":5,"title":"Add navigation","href":"/docs/tutorials/sveltekit/step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/sveltekit/step-6"},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/sveltekit/step-7"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Add authentication"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add Appwrite authentication to you Svelte app using your Svelte store."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","h2",null,{"id":"using-stores","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Using stores "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Svelte ",["$","$L3",null,{"href":"https://svelte.dev/docs/svelte-store","className":"text-blue-500 hover:text-blue-400 underline decoration-blue-500/30 underline-offset-2","children":"stores"}]," provide an easy way to manage state throughout your application."," ","We'll use a store to keep track of our user's data."]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a new file ",["$","code",null,{"children":"src/lib/user.js"}]," and add the following code to it."]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-web"}],["$","div",null,{"children":[["$","$L4",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$5"}]]}],["$","h2",null,{"id":"login-page","className":"text-2xl font-aeonik-pro font-bold text-white mt-10 mb-4","children":"Login page "}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":"Using this store, we can build a login page."}],"$L6","$L7"]}]}]]}],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+6:["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Create a new file ",["$","code",null,{"children":"src/routes/login/+page.svelte"}]," and add the following code to it."]}]
+a:T4e4,<script>
+	import { user } from '$lib/user';
+
+	const login = async (e) => {
+		e.preventDefault();
+		const formData = new FormData(e.target);
+		await user.login(formData.get('email'), formData.get('password'));
+	};
+
+	const register = async (e) => {
+		e.preventDefault();
+		const formData = new FormData(e.target);
+		await user.register(formData.get('email'), formData.get('password'), formData.get('name'));
+	};
+</script>
+
+<h1>Login or register</h1>
+
+<form on:submit={login}>
+	<label>
+		Email
+		<input type="email" placeholder="Email" name="email" required />
+	</label>
+	<label>
+		Password:
+		<input type="password" placeholder="Password" name="password" required />
+	</label>
+	<button type="submit"> Login </button>
+</form>
+
+<form on:submit={register}>
+	<label>
+		Name:
+		<input type="text" placeholder="Name" name="name" required />
+	</label>
+	<label>
+		Email:
+		<input type="email" placeholder="Email" name="email" required />
+	</label>
+	<label>
+		Password:
+		<input type="password" placeholder="Password" name="password" required minlength="8" />
+	</label>
+	<button type="submit"> Register </button>
+</form>
+
+<style>
+	form {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 0.25rem;
+
+		margin-block-end: 2rem;
+	}
+</style>
+7:["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"html"}],["$","div",null,{"children":[["$","$L4",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$a"}]]}]
+8:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+9:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[43,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"TutorialLayout"]
+3:I[48392,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js","/clikkle/_next/static/chunks/01.-es5qk_0se.js","/clikkle/_next/static/chunks/0x_9wfau77y44.js","/clikkle/_next/static/chunks/09q0sxe3jt9_c.js","/clikkle/_next/static/chunks/08k3wlidi639h.js"],"CopyButton"]
+7:I[2898,["/clikkle/_next/static/chunks/097ug2gjiiwgy.js","/clikkle/_next/static/chunks/0wptlyy233jee.js","/clikkle/_next/static/chunks/0z8la50me8s~9.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+4:Te25,import React, { useState } from 'react';
+import { View, Text, TextInput, Button, StyleSheet, ScrollView } from 'react-native';
+import { useUser } from '../contexts/UserContext';
+import { useIdeas } from '../contexts/IdeasContext';
+
+
+export default function HomeScreen() {
+    const user = useUser();
+    const ideas = useIdeas();
+
+    const [title, setTitle] = useState("");
+    const [description, setDescription] = useState("");
+    return (
+        <ScrollView>
+            {user.current ? (
+                <View style={styles.section}>
+                    <Text style={styles.header}>Submit Idea</Text>
+                    <View>
+                        <TextInput
+                            style={styles.input}
+                            placeholder="Title"
+                            value={title}
+                            onChangeText={(text) => setTitle(text)}
+                        />
+                        <TextInput
+                            style={styles.input}
+                            placeholder="Description"
+                            value={description}
+                            onChangeText={(text) => setDescription(text)}
+                        />
+                        <Button
+                            title="Submit"
+                            onPress={() =>
+                                ideas.add({ userId: user.current.$id, title, description })
+                            }
+                        />
+                    </View>
+                </View>
+            ) : (
+                <View style={styles.section}>
+                    <Text>Please login to submit an idea.</Text>
+                </View>
+            )}
+            <View style={styles.section}>
+                <Text style={styles.header}>Latest Ideas</Text>
+                <View>
+                    {ideas.current.map((idea) => (
+                        <View key={idea.$id} style={styles.card}>
+                            <Text style={styles.cardTitle}>{idea.title}</Text>
+                            <Text style={styles.cardDescription}>{idea.description}</Text>
+                            {/* Show the remove button to idea owner. */}
+                            {user.current && user.current.$id === idea.userId && (
+                                <Button
+                                    title="Remove"
+                                    onPress={() => ideas.remove(idea.$id)}
+                                />
+                            )}
+                        </View>
+                    ))}
+                </View>
+            </View>
+        </ScrollView>
+    );
+}
+
+const styles = StyleSheet.create({
+    section: {
+        marginBottom: 20,
+        padding: 16,
+    },
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        padding: 16,
+    },
+    header: {
+        fontSize: 24,
+        marginBottom: 20,
+    },
+    input: {
+        height: 40,
+        borderColor: 'gray',
+        borderWidth: 1,
+        marginBottom: 10,
+        paddingLeft: 8,
+    },
+    buttonContainer: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+    },
+    card: {
+        backgroundColor: 'white',
+        padding: 16,
+        marginBottom: 16,
+        borderRadius: 8,
+        shadowColor: '#000',
+        shadowOffset: {
+            width: 0,
+            height: 2,
+        },
+        shadowOpacity: 0.25,
+        shadowRadius: 3.84,
+        elevation: 5,
+    },
+    cardTitle: {
+        fontSize: 18,
+        fontWeight: 'bold',
+        marginBottom: 8,
+    },
+    cardDescription: {
+        fontSize: 14,
+        marginBottom: 8,
+    },
+});
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"steps":[{"step":1,"title":"Build an ideas tracker with React Native","href":"/docs/tutorials/react-native/step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/react-native/step-2"},{"step":3,"title":"Set up Appwrite","href":"/docs/tutorials/react-native/step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/react-native/step-4"},{"step":5,"title":"Add routing","href":"/docs/tutorials/react-native/step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/react-native/step-6"},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/react-native/step-7"},{"step":8,"title":"Next steps","href":"/docs/tutorials/react-native/step-8"}],"children":[["$","div",null,{"className":"mb-8 flex items-start gap-6","children":["$undefined",["$","div",null,{"children":["$undefined",["$","h1",null,{"className":"text-4xl font-aeonik-pro font-bold tracking-tight text-white m-0","children":"Create ideas page"}]]}]]}],["$","p",null,{"className":"text-lg text-white/50 max-w-[700px]","children":"Add database queries and pagination using Appwrite in your React Native application."}],false,["$","article",null,{"className":"prose prose-invert prose-blue max-w-none mt-10","children":["$","article",null,{"children":[["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Using the ",["$","code",null,{"children":"useIdeas"}]," hook you can now display the ideas on the page and create a form to submit new ideas."]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["If an idea is submitted by the logged-in user, a remove button will be displayed to remove the idea."," ","While this check uses the user ID to determine the render logic, permissions set in step 6 will be used to enforce"," ","that only the owner of the idea can remove it."]}],["$","p",null,{"className":"leading-7 text-white/70 mb-4","children":["Overwrite the contents of ",["$","code",null,{"children":"views/Home.jsx"}]," with the following:"]}],["$","div",null,{"className":"my-6 overflow-hidden rounded-xl border border-white/10 bg-[#0e0e11] shadow-xl","children":[["$","div",null,{"className":"flex items-center justify-between border-b border-white/5 bg-white/[0.02] px-4 py-2","children":[["$","div",null,{"className":"text-xs font-mono font-medium tracking-wider uppercase text-white/40","children":"client-react-native"}],["$","div",null,{"children":[["$","$L3",null,{"text":""}]," "]}]]}],["$","div",null,{"className":"p-4 overflow-x-auto text-[13px] leading-relaxed custom-scrollbar bg-[#0e0e11]","children":"$4"}]]}]]}]}]]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"dnV_WiS_EpzHsFAQtF9aJ"}
+5:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/08k3wlidi639h.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
