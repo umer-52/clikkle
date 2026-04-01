@@ -1,0 +1,118 @@
+<script lang="ts">
+    import { browser } from '$app/environment';
+    import { cn } from '$lib/utils/cn';
+
+    type Props = {
+        title?: string;
+        class?: string;
+    };
+
+    const { title = 'Loved by startups and world leaders', class: className }: Props = $props();
+
+    const logos = [
+        {
+            src: '/images/logos/trusted-by/apple.svg',
+            alt: 'Apple',
+            width: 42,
+            height: 48
+        },
+        {
+            src: '/images/logos/trusted-by/oracle.svg',
+            alt: 'ORACLE',
+            width: 136,
+            height: 17
+        },
+        {
+            src: '/images/logos/trusted-by/tiktok.svg',
+            alt: 'TikTok',
+            width: 133,
+            height: 32
+        },
+        {
+            src: '/images/logos/trusted-by/intel.svg',
+            alt: 'intel',
+            width: 76,
+            height: 30
+        },
+        {
+            src: '/images/logos/trusted-by/ibm.svg',
+            alt: 'IBM',
+            width: 74,
+            height: 30
+        },
+        {
+            src: '/images/logos/trusted-by/american-airlines.svg',
+            alt: 'American Airlines',
+            width: 147,
+            height: 24
+        },
+        {
+            src: '/images/logos/trusted-by/deloitte.svg',
+            alt: 'Deloitte.',
+            width: 103,
+            height: 20
+        },
+        {
+            src: '/images/logos/trusted-by/gm.svg',
+            alt: 'GM',
+            width: 48,
+            height: 48
+        },
+        {
+            src: '/images/logos/trusted-by/ey.svg',
+            alt: 'EY',
+            width: 46,
+            height: 48
+        },
+        {
+            src: '/images/logos/trusted-by/nestle.svg',
+            alt: 'Nestle',
+            width: 150,
+            height: 34
+        },
+        {
+            src: '/images/logos/trusted-by/bosch.svg',
+            alt: 'BOSCH',
+            width: 110,
+            height: 37
+        },
+        {
+            src: '/images/logos/trusted-by/decathlon.svg',
+            alt: 'DECATHLON',
+            width: 127,
+            height: 32
+        }
+    ];
+</script>
+
+<div class={cn('py-12', className)}>
+    <div class="mx-auto max-w-6xl px-4 md:px-8">
+        <h2
+            class="font-aeonik-pro text-greyscale-100 text-description mx-auto max-w-[312px] text-center text-pretty"
+        >
+            {title}
+        </h2>
+        <div class="relative grid grid-cols-3 gap-6 py-10 md:grid-cols-6 md:gap-8">
+            {#each logos as { src, alt, width, height } (src)}
+                <div class="flex items-center justify-center">
+                    <img
+                        loading="lazy"
+                        {src}
+                        {alt}
+                        {width}
+                        {height}
+                        class="max-w-[80px] md:max-w-none"
+                    />
+                </div>
+            {/each}
+        </div>
+        <div class="text-center">
+            <a
+                href="/blog/category/customer-stories"
+                class="text-primary text-sm font-medium hover:underline"
+            >
+                Read our case studies →
+            </a>
+        </div>
+    </div>
+</div>
