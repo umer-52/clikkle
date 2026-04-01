@@ -60,17 +60,7 @@ const config = {
                 throw new Error(message);
             }
         },
-        experimental: {
-            tracing: {
-                server: true
-            },
-
-            instrumentation: {
-                server: true
-            },
-
-            remoteFunctions: true
-        }
+        experimental: {}
     }
 };
 
