@@ -17,29 +17,46 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Public env vars required by SvelteKit at build time
+      PUBLIC_APPWRITE_ENDPOINT: "https://cloud.appwrite.io/v1"
+      PUBLIC_APPWRITE_DASHBOARD: "https://cloud.appwrite.io"
+      PUBLIC_APPWRITE_PROJECT_ID: "placeholder"
+      PUBLIC_APPWRITE_DB_MAIN_ID: "placeholder"
+      PUBLIC_APPWRITE_COL_THREADS_ID: "placeholder"
+      PUBLIC_APPWRITE_COL_MESSAGES_ID: "placeholder"
+      PUBLIC_APPWRITE_FN_TLDR_ID: "placeholder"
+      PUBLIC_APPWRITE_PROJECT_INIT_ID: "placeholder"
+      PUBLIC_GROWTH_ENDPOINT: "https://growth.appwrite.io"
+      PUBLIC_ARENA_ENDPOINT: "https://arena.appwrite.io"
+      PUBLIC_POSTHOG_API_KEY: "placeholder"
+      # Private env vars required by server files at build time
+      APPWRITE_DB_INIT_ID: "placeholder"
+      APPWRITE_COL_INIT_ID: "placeholder"
+      APPWRITE_API_KEY_INIT: "placeholder"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-      
+
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
-      
+
       - name: Install dependencies
         run: bun install
-        
+
       - name: Build SvelteKit output
         run: bun run build
-        
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
-        
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
