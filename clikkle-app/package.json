@@ -2,6 +2,9 @@
   "name": "clikkle",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
   "scripts": {
     "predev": "node scripts/sync-docs-font-assets.mjs",
     "dev": "next dev",
