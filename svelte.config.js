@@ -56,7 +56,10 @@ const config = {
             handleMissingId: 'warn',
             handleHttpError: 'warn'
         },
-        experimental: {}
+        experimental: {
+            // Required for `$lib/remote/*.remote` (e.g. markdown.remote) — vite-plugin-sveltekit-guard errors if off
+            remoteFunctions: true
+        }
     }
 };
 
