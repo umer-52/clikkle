@@ -14,7 +14,7 @@
     &:nth-child(n + 2) { border-block-start:solid pxToRem(1) rgba(255, 255, 255, 0.12); }
     &:last-child { padding-block-end:0; }
     &-wrapper {
-      display:flex; justify-content:space-between; align-items:end; gap:pxToRem(48);
+      display:flex; justify-content:space-between; align-items:center; gap:pxToRem(48);
     }
   }
   &-plan {
@@ -25,14 +25,19 @@
     .info  { white-space:nowrap; color:rgb(255 255 255 / 0.64); }
   }
   &-info { flex:2.5; flex-basis:pxToRem(230); color:rgb(255 255 255 / 0.64); }
-  .#{$p}-button { flex:1;  white-space:nowrap; }
+  /* Hug content like appwrite.io — do not stretch CTA across remaining row width */
+  .#{$p}-button { flex:0 0 auto; white-space:nowrap; }
 
   /* responsive according container size */
   @container strip-plans (max-inline-size: #{pxToRem(500)}) {
     &-header-wrapper { flex-direction:column; align-items:start; }
     &-item-wrapper {
-      flex-direction:column; align-items:revert; gap:pxToRem(16);
-      .#{$p}-button {margin-block-start:pxToRem(4); }
+      flex-direction:column; align-items:stretch; gap:pxToRem(16);
+      .#{$p}-button {
+        margin-block-start:pxToRem(4);
+        align-self:stretch;
+        text-align:center;
+      }
     }
     &-plan,
     &-info { flex:initial; flex-basis:0; }

@@ -24,6 +24,9 @@ terraform/**/**/*.tfstate*
 /.cache
 /test-results
 
+# Leftover nested clone (do not commit)
+clikkle-app.__innerrepo/
+
 # # Build-time generated data
 # src/lib/generated/
 

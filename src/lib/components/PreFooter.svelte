@@ -93,39 +93,43 @@
 
         <ul class="web-strip-plans -mt-8">
             {#each visiblePlans as plan}
-                <li class="web-strip-plans-item web-strip-plans-container-query">
-                    <div class="place-item-end grid grid-cols-1 gap-6 md:grid-cols-3">
-                        <div class="flex flex-col">
-                            <div class="flex gap-3">
-                                <h4 class="title text-description">{plan.name}</h4>
-                                {#if plan.tag}<div class="web-inline-tag is-pink text-sub-body">
-                                        Most popular
-                                    </div>{/if}
+                <li class="web-strip-plans-item">
+                    <div class="web-strip-plans-item-wrapper">
+                        <div class="web-strip-plans-plan">
+                            <div class="flex flex-wrap items-center gap-3">
+                                <h4 class="title text-description font-aeonik-pro">{plan.name}</h4>
+                                {#if plan.tag}
+                                    <span class="web-inline-tag is-pink text-sub-body">{plan.tag}</span>
+                                {/if}
                             </div>
-
-                            <div class="mt-4 flex flex-col">
-                                {#if plan.variable}<span>From</span>{/if}
-                                <div class="flex items-end gap-2">
-                                    <div class="text-title font-aeonik-pro text-primary">
+                            <div class="flex flex-col gap-1">
+                                {#if plan.variable}
+                                    <span class="from-label text-caption font-medium">From</span>
+                                {:else}
+                                    <span class="from-label text-caption font-medium" aria-hidden="true"
+                                        >&nbsp;</span
+                                    >
+                                {/if}
+                                <div class="flex flex-wrap items-baseline gap-2">
+                                    <span class="price text-display font-aeonik-pro text-primary">
                                         {plan.price}
-                                    </div>
+                                    </span>
                                     {#if plan.variable}
-                                        <div class="info text-caption font-medium">/month</div>
+                                        <span class="info text-caption font-medium">/month</span>
                                     {/if}
                                 </div>
                             </div>
                         </div>
-                        <p class="web-strip-plans-info text-caption self-end font-medium">
+                        <p class="web-strip-plans-info text-main-body font-medium">
                             {plan.description}
                         </p>
                         <Button
                             href={plan.buttonLink}
                             event={plan.eventName}
                             variant={plan.buttonVariant}
-                            class="w-full! flex-3 self-end md:w-fit"
+                            class="shrink-0"
                         >
-                            <span class="text" style:padding-inline="0.5rem">{plan.buttonText}</span
-                            >
+                            <span class="text" style:padding-inline="0.5rem">{plan.buttonText}</span>
                         </Button>
                     </div>
                 </li>
@@ -135,20 +139,9 @@
 </div>
 
 <style lang="scss">
-    .web-strip-plans-info {
-        flex-basis: 5rem !important;
-    }
-
-    @media (min-width: 1024px) and (max-width: 1224px) {
-        .web-strip-plans-info {
-            flex-basis: 1rem !important;
-        }
-    }
-
-    @media (max-width: 1024px) {
-        .web-strip-plans-info {
-            flex-basis: 3rem !important;
-        }
+    /* Keep price column aligned when only some rows have "From" (matches appwrite.io strip layout) */
+    .web-strip-plans-plan .from-label {
+        min-block-size: 1lh;
     }
 
     .web-pre-footer-bg {
