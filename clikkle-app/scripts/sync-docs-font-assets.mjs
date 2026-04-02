@@ -11,11 +11,15 @@ const clikkleRoot = path.resolve(__dirname, "..");
 const repoRoot = path.resolve(clikkleRoot, "..");
 const dest = path.join(clikkleRoot, "public", "fonts", "docs");
 
+const pinkDistCandidates = [
+  path.join(clikkleRoot, "node_modules", "@appwrite.io", "pink-icons", "dist"),
+  path.join(repoRoot, "node_modules", "@appwrite.io", "pink-icons", "dist"),
+];
+const pinkDist = pinkDistCandidates.find((p) => fs.existsSync(path.join(p, "icon.woff2")))
+  ?? pinkDistCandidates[0];
+
 const copies = [
-  [
-    path.join(repoRoot, "node_modules", "@appwrite.io", "pink-icons", "dist"),
-    ["icon.eot", "icon.woff2", "icon.woff", "icon.ttf"],
-  ],
+  [pinkDist, ["icon.eot", "icon.woff2", "icon.woff", "icon.ttf"]],
   [
     path.join(repoRoot, "src", "icons", "output"),
     ["web-icon.eot", "web-icon.woff2", "web-icon.woff", "web-icon.ttf"],

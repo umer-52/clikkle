@@ -3,13 +3,24 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const repoRoot = path.resolve(__dirname, "../..");
+const clikkleRoot = path.resolve(__dirname, "..");
+const repoRoot = path.resolve(clikkleRoot, "..");
 
-const pinkPath = path.join(
-  repoRoot,
-  "node_modules/@appwrite.io/pink-icons/dist/icon.css"
-);
-const webPath = path.join(repoRoot, "src/icons/output/web-icon.css");
+function firstExisting(paths) {
+  for (const p of paths) {
+    if (fs.existsSync(p)) return p;
+  }
+  return paths[0];
+}
+
+const pinkPath = firstExisting([
+  path.join(clikkleRoot, "node_modules/@appwrite.io/pink-icons/dist/icon.css"),
+  path.join(repoRoot, "node_modules/@appwrite.io/pink-icons/dist/icon.css"),
+]);
+const webPath = firstExisting([
+  path.join(repoRoot, "src/icons/output/web-icon.css"),
+  path.join(clikkleRoot, "public/fonts/docs/web-icon.css"),
+]);
 const outPath = path.join(__dirname, "../app/docs/docs-fonts.css");
 
 /** @font-face is served from public/fonts/docs/font-face.css (relative URLs). */
