@@ -13,6 +13,7 @@ node_modules
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 package-lock.json
+!clikkle-app/package-lock.json
 .tool-versions
 .vscode
 # Sentry Config File
