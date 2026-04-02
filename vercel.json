@@ -1,0 +1,24 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "sveltekit",
+  "installCommand": "npm install --legacy-peer-deps",
+  "buildCommand": "npm run build",
+  "build": {
+    "env": {
+      "PUBLIC_APPWRITE_ENDPOINT": "https://cloud.appwrite.io/v1",
+      "PUBLIC_APPWRITE_DASHBOARD": "https://cloud.appwrite.io",
+      "PUBLIC_APPWRITE_PROJECT_ID": "placeholder",
+      "PUBLIC_APPWRITE_DB_MAIN_ID": "placeholder",
+      "PUBLIC_APPWRITE_COL_THREADS_ID": "placeholder",
+      "PUBLIC_APPWRITE_COL_MESSAGES_ID": "placeholder",
+      "PUBLIC_APPWRITE_FN_TLDR_ID": "placeholder",
+      "PUBLIC_APPWRITE_PROJECT_INIT_ID": "placeholder",
+      "PUBLIC_GROWTH_ENDPOINT": "https://growth.appwrite.io",
+      "PUBLIC_ARENA_ENDPOINT": "https://arena.appwrite.io",
+      "PUBLIC_POSTHOG_API_KEY": "placeholder",
+      "APPWRITE_DB_INIT_ID": "placeholder",
+      "APPWRITE_COL_INIT_ID": "placeholder",
+      "APPWRITE_API_KEY_INIT": "placeholder"
+    }
+  }
+}
