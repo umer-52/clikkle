@@ -10,7 +10,7 @@ export const changelogEntries: ChangelogEntry[] = [
   {
     title: 'Introducing Clikkle Skills',
     date: '2026-03-09',
-    cover: '/clikkle/images/blog/introducing-Clikkle-skills/cover.png',
+    cover: '/clikkle/images/blog/introducing-appwrite-skills/cover.png',
     slug: '2026-03-09',
     body: `Clikkle Skills are open-source Markdown files that give AI coding agents deep, language-specific knowledge of Clikkle SDKs. Install skills into your project, and your AI tools generate correct Clikkle code automatically, no more pasting docs into prompts.
 
@@ -137,7 +137,7 @@ Now live on Clikkle Cloud.`,
   {
     title: 'Generate a type-safe SDK from your schema with the Clikkle CLI',
     date: '2026-02-09',
-    cover: '/clikkle/images/blog/Clikkle-generate/cover.png',
+    cover: '/clikkle/images/blog/appwrite-generate/cover.png',
     slug: '2026-02-09',
     body: `The Clikkle CLI now includes a \`generate\` command that creates a type-safe, project-aware SDK directly from your database schema. The generated SDK includes typed helpers with autocomplete for querying and mutating rows, eliminating boilerplate and turning schema-related runtime bugs into type errors.
 

@@ -6,9 +6,9 @@
     "node": ">=22.0.0"
   },
   "scripts": {
-    "predev": "node scripts/sync-docs-font-assets.mjs",
+    "predev": "node scripts/sync-docs-font-assets.mjs && node scripts/sync-static-images.mjs",
     "dev": "next dev",
-    "prebuild": "node scripts/sync-docs-font-assets.mjs && node scripts/build-docs-fonts-css.mjs",
+    "prebuild": "node scripts/sync-docs-font-assets.mjs && node scripts/build-docs-fonts-css.mjs && node scripts/sync-static-images.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
