@@ -1,0 +1,54 @@
+# Optional CLI deploy for clikkle-app. Does not run on push (avoids failed runs before secrets exist,
+# and avoids double deploys if you use Vercel’s built-in GitHub integration).
+#
+# Recommended: Vercel Dashboard → Add New → Project → Import https://github.com/umer-52/clikkle
+#   → Root Directory: clikkle-app → Deploy.
+#
+# To use this workflow instead: add repo secrets VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID
+# (from Vercel → Project Settings → General, and vercel.com/account/tokens), then run manually.
+
+name: Deploy clikkle-app to Vercel
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: vercel-clikkle-app
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Vercel CLI
+        run: npm install --global vercel@latest
+
+      - name: Pull Vercel project settings
+        working-directory: clikkle-app
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: vercel pull --yes --environment=production
+
+      - name: Build (production)
+        working-directory: clikkle-app
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: vercel build --prod
+
+      - name: Deploy prebuilt to production
+        working-directory: clikkle-app
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: vercel deploy --prebuilt --prod
