@@ -283,10 +283,10 @@
         display: flex;
         align-items: center;
         gap: 2rem;
-        inline-size: min(100%, 1280px);
+        inline-size: min(100%, calc(var(--container-max-width) + (var(--container-padding-inline) * 2)));
         block-size: 100%;
         margin-inline: auto;
-        padding-inline: 24px;
+        padding-inline: var(--container-padding-inline, 24px);
     }
 
     .aw-header-spacer {
@@ -559,20 +559,12 @@
     }
 
     @media (min-width: 768px) {
-        .aw-header-shell {
-            padding-inline: 48px;
-        }
-
         .aw-mobile-panel {
             padding: 32px;
         }
     }
 
     @media (min-width: 1024px) {
-        .aw-header-shell {
-            padding-inline: 64px;
-        }
-
         .aw-header-nav {
             display: flex;
         }

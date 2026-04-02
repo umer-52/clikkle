@@ -127,49 +127,49 @@
                 },
                 {
                     title: '.NET',
-                    icon: 'icon-dotnet',
+                    icon: 'web-icon-dotnet',
                     image: '/images/blog/placeholder.png',
                     href: 'dotnet'
                 },
                 {
                     title: 'PHP',
-                    icon: 'icon-php',
+                    icon: 'web-icon-php',
                     image: '/images/blog/placeholder.png',
                     href: 'php'
                 },
                 {
                     title: 'Dart',
-                    icon: 'icon-dart',
+                    icon: 'web-icon-dart',
                     image: '/images/blog/placeholder.png',
                     href: 'dart'
                 },
                 {
                     title: 'Ruby',
-                    icon: 'icon-ruby',
+                    icon: 'web-icon-ruby',
                     image: '/images/blog/placeholder.png',
                     href: 'ruby'
                 },
                 {
                     title: 'Deno',
-                    icon: 'icon-deno',
+                    icon: 'web-icon-deno',
                     image: '/images/blog/placeholder.png',
                     href: 'deno'
                 },
                 {
                     title: 'Go',
-                    icon: 'icon-go',
+                    icon: 'web-icon-go',
                     image: '/images/blog/placeholder.png',
                     href: 'go'
                 },
                 {
                     title: 'Swift',
-                    icon: 'icon-swift',
+                    icon: 'web-icon-swift',
                     image: '/images/blog/placeholder.png',
                     href: 'swift'
                 },
                 {
                     title: 'Kotlin',
-                    icon: 'icon-kotlin',
+                    icon: 'web-icon-kotlin',
                     image: '/images/blog/placeholder.png',
                     href: 'kotlin'
                 }
@@ -221,12 +221,12 @@
                                     href={`/docs/quick-starts/${quickStart.href}`}
                                     class="web-card is-normal"
                                 >
-                                    <header class="flex items-baseline gap-1">
+                                    <header>
                                         <span
-                                            class="{quickStart.icon} web-u-font-size-24"
+                                            class="{quickStart.icon}"
                                             aria-hidden="true"
                                         ></span>
-                                        <h4 class="text-sub-body text-primary font-medium">
+                                        <h4>
                                             {quickStart.title}
                                         </h4>
                                     </header>

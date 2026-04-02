@@ -80,12 +80,12 @@
                                         aria-disabled="true"
                                         tabindex="-1"
                                     >
-                                        <header class="flex items-baseline gap-1">
+                                        <header>
                                             <span
-                                                class="{getIcon(tutorial)} web-u-font-size-24"
+                                                class="{getIcon(tutorial)}"
                                                 aria-hidden="true"
                                             ></span>
-                                            <h3 class="text-sub-body text-primary font-medium">
+                                            <h3>
                                                 {tutorial.framework}
                                             </h3>
                                             <span class="badge text-caption">Coming Soon</span>
@@ -93,12 +93,12 @@
                                     </a>
                                 {:else}
                                     <a href={tutorial.href} class="web-card is-normal">
-                                        <header class="flex items-baseline gap-1">
+                                        <header>
                                             <span
-                                                class="{getIcon(tutorial)} web-u-font-size-24"
+                                                class="{getIcon(tutorial)}"
                                                 aria-hidden="true"
                                             ></span>
-                                            <h3 class="text-sub-body text-primary font-medium">
+                                            <h3>
                                                 {tutorial.framework}
                                             </h3>
                                         </header>

@@ -49,16 +49,8 @@ const config = {
         },
         prerender: {
             concurrency: 32,
-            /**
-             * @type {import('@sveltejs/kit').PrerenderMissingIdHandler}
-             */
-            handleMissingId: ({ path, message }) => {
-                if (path.startsWith('/docs/references/')) {
-                    console.warn(message);
-                    return;
-                }
-                throw new Error(message);
-            }
+            handleMissingId: 'warn',
+            handleHttpError: 'warn'
         },
         experimental: {}
     }

@@ -32,11 +32,12 @@
     padding-block: var(--section-padding-y);
 }
 
-.appwrite-container {
+.appwrite-container,
+.container {
     width: min(100%, calc(var(--container-max-width) + (var(--container-padding-inline) * 2)));
-    max-width: calc(var(--container-max-width) + (var(--container-padding-inline) * 2));
+    max-width: calc(var(--container-max-width) + (var(--container-padding-inline) * 2)) !important;
     margin-inline: auto;
-    padding-inline: var(--container-padding-inline);
+    padding-inline: var(--container-padding-inline) !important;
 }
 
 .m-xs { margin: var(--space-xs); }

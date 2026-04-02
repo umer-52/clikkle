@@ -35,10 +35,10 @@
     ></div>
 
     <div
-        class="relative container mx-auto grid h-full grid-cols-1 place-items-center gap-24 md:grid-cols-2"
+        class="relative appwrite-container grid h-full grid-cols-1 items-center gap-24 md:grid-cols-2"
     >
         <div
-            class="animate-blur-in flex flex-col gap-4 [animation-delay:150ms] [animation-duration:1000ms] md:ml-12 lg:ml-0"
+            class="animate-blur-in flex flex-col gap-4 [animation-delay:150ms] [animation-duration:1000ms]"
         >
             {#if showPromoBanner}
                 <HeroBanner

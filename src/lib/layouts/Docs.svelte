@@ -57,7 +57,7 @@
     let { variant = 'default', isReferences = false, children }: Props = $props();
 
     const variantClasses: Record<DocsLayoutVariant, string> = {
-        default: 'web-grid-side-nav max-w-[90rem] mx-auto',
+        default: 'web-grid-side-nav',
         expanded: 'web-grid-huge-navs',
         'two-side-navs': 'web-grid-two-side-navs'
     };

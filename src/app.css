@@ -497,7 +497,60 @@
     --color-subtle: var(--color-greyscale-50);
 }
 
+/* Hide scrollbar for side nav but allow scrolling */
+.web-side-nav-scroll::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    background: transparent;
+}
+.web-side-nav-scroll {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
 
+/* Force left-alignment for docs content to match Appwrite layout */
+.web-grid-side-nav .web-main-section {
+    margin-inline: 0 !important;
+    padding-inline: var(--space-6) !important;
+}
 
+.web-grid-side-nav .web-article {
+    margin-inline: 0 !important;
+}
 
+/* Perfect Clone for Docs Native Cards */
+.web-grid-side-nav .web-card.is-normal {
+    padding: var(--space-4) !important; /* 16px all sides */
+    background-color: transparent !important;
+    border-radius: var(--radius-lg) !important; /* closer to 1rem or 0.75rem depending on pink */
+    border: 1px solid var(--color-offset) !important;
+    transition: all 0.2s ease !important;
+}
 
+.web-grid-side-nav .web-card.is-normal:hover {
+    border-color: var(--color-subtle) !important;
+    background-color: var(--color-smooth) !important;
+}
+
+.web-grid-side-nav .web-card.is-normal header {
+    display: flex !important;
+    align-items: center !important;
+    gap: var(--space-3) !important; /* 12px gap */
+}
+
+/* Fix Sizing */
+.web-grid-side-nav .web-card.is-normal h3,
+.web-grid-side-nav .web-card.is-normal h4 {
+    font-size: var(--font-size-sub-body) !important; /* ~14px */
+    color: var(--color-primary) !important;
+    font-weight: 500 !important;
+    line-height: 1.2 !important;
+    margin-top: 0 !important; 
+    margin-bottom: 0 !important;
+}
+
+.web-grid-side-nav .web-card.is-normal [class*="icon-"],
+.web-grid-side-nav .web-card.is-normal [class*="web-icon-"] {
+    color: var(--color-primary) !important;
+    font-size: var(--space-6) !important; /* 24px icon */
+}
