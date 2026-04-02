@@ -1,0 +1,74 @@
+:root,
+.light,
+body.light,
+body[data-theme="light"],
+[data-theme="light"] {
+    --radius-sm: 0.5rem;
+    --radius-md: 0.75rem;
+    --radius-lg: 1rem;
+    --radius-xl: 1.5rem;
+    --radius-full: 9999px;
+
+    --elevation-1: 0 1px 2px rgba(0, 0, 0, 0.05);
+    --elevation-2: 0 4px 8px rgba(0, 0, 0, 0.08);
+    --elevation-3: 0 8px 16px rgba(0, 0, 0, 0.12);
+    --elevation-4: 0 16px 32px rgba(0, 0, 0, 0.16);
+    --elevation-5: 0 24px 48px rgba(0, 0, 0, 0.2);
+}
+
+.dark,
+body.dark,
+body[data-theme="dark"],
+[data-theme="dark"] {
+    --radius-sm: 0.5rem;
+    --radius-md: 0.75rem;
+    --radius-lg: 1rem;
+    --radius-xl: 1.5rem;
+    --radius-full: 9999px;
+
+    --elevation-1: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --elevation-2: 0 4px 8px rgba(0, 0, 0, 0.45);
+    --elevation-3: 0 8px 16px rgba(0, 0, 0, 0.5);
+    --elevation-4: 0 16px 32px rgba(0, 0, 0, 0.55);
+    --elevation-5: 0 24px 48px rgba(0, 0, 0, 0.6);
+}
+
+.rounded-sm {
+    border-radius: var(--radius-sm);
+}
+
+.rounded-md {
+    border-radius: var(--radius-md);
+}
+
+.rounded-lg {
+    border-radius: var(--radius-lg);
+}
+
+.rounded-xl {
+    border-radius: var(--radius-xl);
+}
+
+.rounded-full {
+    border-radius: var(--radius-full);
+}
+
+.shadow-1 {
+    box-shadow: var(--elevation-1);
+}
+
+.shadow-2 {
+    box-shadow: var(--elevation-2);
+}
+
+.shadow-3 {
+    box-shadow: var(--elevation-3);
+}
+
+.shadow-4 {
+    box-shadow: var(--elevation-4);
+}
+
+.shadow-5 {
+    box-shadow: var(--elevation-5);
+}

@@ -1,0 +1,122 @@
+﻿[
+    {
+        "Date":  "2026-03-20",
+        "Cover":  "/clikkle/images/blog/open-source-regulated-environments/cover.png",
+        "Desc":  "How to evaluate open-source backend tools for regulated industries like healthcare and finance, covering maintenance cadence, licensing, and compliance fit.",
+        "Slug":  "open-source-regulated-environments"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Cover":  "/clikkle/images/blog/backend-platform-security-responsibilities/cover.png",
+        "Desc":  "Understanding the shared responsibility model for security when building on backend-as-a-service platforms, and what that means for your application.",
+        "Slug":  "backend-platform-security-responsibilities"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Cover":  "/clikkle/images/blog/firebase-vs-open-source-tradeoffs/cover.png",
+        "Desc":  "An honest look at the trade-offs developers make when choosing Firebase: vendor lock-in, pricing at scale, and data ownership versus open-source alternatives.",
+        "Slug":  "firebase-vs-open-source-tradeoffs"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Cover":  "/clikkle/images/blog/client-dashboards-internal-tools/cover.png",
+        "Desc":  "How to ship admin panels, dashboards, and internal tools quickly for clients without rebuilding the same backend infrastructure from scratch each time.",
+        "Slug":  "client-dashboards-internal-tools"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Cover":  "/clikkle/images/blog/clikkle-vs-cloudinary/cover.png",
+        "Desc":  "A technical comparison of Cloudinary and Clikkle Storage, covering image transformation capabilities, pricing models, and data ownership implications.",
+        "Slug":  "clikkle-vs-cloudinary"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Cover":  "/clikkle/images/blog/clikkle-vs-vercel-vs-netlify/cover.png",
+        "Desc":  "What Vercel and Netlify actually provide versus Clikkle\u0027s full-stack platform, and how to decide between consolidating your stack or mixing services.",
+        "Slug":  "clikkle-vs-vercel-vs-netlify"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Cover":  "/clikkle/images/blog/the-fastest-way-to-launch-your-next-side-project/cover.png",
+        "Desc":  "Ship your side project faster by skipping backend setup. Build your MVP in days with authentication, databases, and APIs ready out of the box.",
+        "Slug":  "the-fastest-way-to-launch-your-next-side-project"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Cover":  "/clikkle/images/blog/open-source-backend-vs-managed-saas/cover.png",
+        "Desc":  "The real trade-offs between self-hosted open-source backends and managed SaaS platforms, and how to decide which approach fits your team\u0027s situation.",
+        "Slug":  "open-source-backend-vs-managed-saas"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Cover":  "/clikkle/images/blog/building-a-production-ready-backend-with-clikkle/cover.png",
+        "Desc":  "Discover how to build a scalable, secure, and production-ready backend with Clikkle using the tools modern teams need from day one. This guide walks through the core services, best practices, and setup choices that help you launch confidently and grow without backend chaos.",
+        "Slug":  "building-a-production-ready-backend-with-clikkle"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Cover":  "/clikkle/images/blog/baa-explained/cover.png",
+        "Desc":  "A practical guide to Business Associate Agreements for developers building healthcare apps, covering what they include, when they apply, and how to get them.",
+        "Slug":  "baa-explained"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Cover":  "/clikkle/images/blog/self-hosted-vs-managed-backends-a-practical-comparison/cover.png",
+        "Desc":  "Compare self-hosted and managed backends to understand tradeoffs in control, cost, and speed, and choose the right approach with Clikkle.",
+        "Slug":  "self-hosted-vs-managed-backends-a-practical-comparison"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Cover":  "/clikkle/images/blog/how-developer-tools-are-evolving-in-2026/cover.png",
+        "Desc":  "The developer tools landscape is shifting toward cohesive, integrated backends. See what",
+        "Slug":  "how-developer-tools-are-evolving-in-2026"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Cover":  "/clikkle/images/blog/evaluate-backend-tools-no-lock-in/cover.png",
+        "Desc":  "A practical framework for evaluating backend platforms and services in a way that minimizes lock-in and preserves your team\u0027s ability to change direction.",
+        "Slug":  "evaluate-backend-tools-no-lock-in"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Cover":  "/clikkle/images/blog/build-internal-tools-quickly/cover.png",
+        "Desc":  "A practical guide to building admin panels and operations dashboards quickly using Clikkle as the backend, without sacrificing security or reliability.",
+        "Slug":  "build-internal-tools-quickly"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Cover":  "/clikkle/images/blog/avoid-backend-overengineering/cover.png",
+        "Desc":  "The patterns that lead early-stage teams to overengineer their backend and the decisions that keep systems simple while still being production-ready.",
+        "Slug":  "avoid-backend-overengineering"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Cover":  "/clikkle/images/blog/when-custom-backend-stops-being-worth-it/cover.png",
+        "Desc":  "The real costs of maintaining a custom backend and how to decide when switching to a managed backend platform makes more business sense for your team.",
+        "Slug":  "when-custom-backend-stops-being-worth-it"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Cover":  "/clikkle/images/blog/open-source-baas-alternatives/cover.png",
+        "Desc":  "A look at the open-source BaaS landscape, what to evaluate when choosing a platform, and why open-source matters for backend ownership and cost control.",
+        "Slug":  "open-source-baas-alternatives"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Cover":  "/clikkle/images/blog/easiest-file-uploads/cover.png",
+        "Desc":  "A practical guide to implementing file uploads in your application using Clikkle Storage, covering setup, upload, access control, and image transformations.",
+        "Slug":  "easiest-file-uploads"
+    },
+    {
+        "Date":  "2026-03-17",
+        "Cover":  "/clikkle/images/blog/indie-hackers-shipping-faster/cover.png",
+        "Desc":  "The tools, habits, and shipping decisions that let solo developers and small teams get production-ready applications in front of users in days, not months.",
+        "Slug":  "indie-hackers-shipping-faster"
+    },
+    {
+        "Date":  "2026-03-17",
+        "Cover":  "/clikkle/images/blog/developer-compliance-thinking/cover.png",
+        "Desc":  "A developer-first guide to understanding compliance requirements, identifying what applies to your application, and making informed architecture decisions.",
+        "Slug":  "developer-compliance-thinking"
+    }
+]

@@ -1,0 +1,30 @@
+
+> clikkle@0.1.0 prebuild
+> node scripts/sync-docs-font-assets.mjs && node scripts/build-docs-fonts-css.mjs
+
+sync-docs-font-assets: missing source /home/runner/work/Landing-Pages-core/node_modules/@appwrite.io/pink-icons/dist/icon.eot
+sync-docs-font-assets: missing source /home/runner/work/Landing-Pages-core/node_modules/@appwrite.io/pink-icons/dist/icon.woff2
+sync-docs-font-assets: missing source /home/runner/work/Landing-Pages-core/node_modules/@appwrite.io/pink-icons/dist/icon.woff
+sync-docs-font-assets: missing source /home/runner/work/Landing-Pages-core/node_modules/@appwrite.io/pink-icons/dist/icon.ttf
+sync-docs-font-assets: missing source /home/runner/work/Landing-Pages-core/src/icons/output/web-icon.eot
+sync-docs-font-assets: missing source /home/runner/work/Landing-Pages-core/src/icons/output/web-icon.woff2
+sync-docs-font-assets: missing source /home/runner/work/Landing-Pages-core/src/icons/output/web-icon.woff
+sync-docs-font-assets: missing source /home/runner/work/Landing-Pages-core/src/icons/output/web-icon.ttf
+sync-docs-font-assets: some sources were missing but required binaries may already exist.
+node:fs:448
+    return binding.readFileUtf8(path, stringToFlags(options.flag));
+                   ^
+
+Error: ENOENT: no such file or directory, open '/home/runner/work/Landing-Pages-core/node_modules/@appwrite.io/pink-icons/dist/icon.css'
+    at Object.readFileSync (node:fs:448:20)
+    at file:///home/runner/work/Landing-Pages-core/Landing-Pages-core/scripts/build-docs-fonts-css.mjs:20:30
+    at ModuleJob.run (node:internal/modules/esm/module_job:325:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:606:24)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/runner/work/Landing-Pages-core/node_modules/@appwrite.io/pink-icons/dist/icon.css'
+}
+
+Node.js v20.20.1

@@ -1,0 +1,182 @@
+﻿[
+    {
+        "Date":  "2026-03-20",
+        "Title":  "Open-source backends in regulated industries: what to check",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "security",
+        "Featured":  "false",
+        "Slug":  "open-source-regulated-environments"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Title":  "Security responsibilities when using backend platforms",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "security",
+        "Featured":  "false",
+        "Slug":  "backend-platform-security-responsibilities"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Title":  "Firebase vs open source: the trade-offs developers miss",
+        "TTR":  "7",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "firebase-vs-open-source-tradeoffs"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Title":  "Building client dashboards and internal tools faster",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "client-dashboards-internal-tools"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Title":  "Cloudinary vs Clikkle Storage: trade-offs in image handling",
+        "TTR":  "7",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "clikkle-vs-cloudinary"
+    },
+    {
+        "Date":  "2026-03-20",
+        "Title":  "Clikkle vs Vercel vs Netlify: where does your stack live?",
+        "TTR":  "7",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "clikkle-vs-vercel-vs-netlify"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Title":  "The fastest way to launch your next side project",
+        "TTR":  "5",
+        "Author":  "aishwari",
+        "Category":  "startup",
+        "Featured":  "false",
+        "Slug":  "the-fastest-way-to-launch-your-next-side-project"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Title":  "When open-source backend beats managed SaaS",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "open-source-backend-vs-managed-saas"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Title":  "Building a production-ready backend with Clikkle",
+        "TTR":  "5",
+        "Author":  "atharva",
+        "Category":  "tutorial",
+        "Featured":  "false",
+        "Slug":  "building-a-production-ready-backend-with-clikkle"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Title":  "BAA explained: what it is and when you need one",
+        "TTR":  "7",
+        "Author":  "aditya-oberai",
+        "Category":  "security",
+        "Featured":  "false",
+        "Slug":  "baa-explained"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Title":  "Self-hosted vs managed backends: a practical comparison",
+        "TTR":  "5",
+        "Author":  "aishwari",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "self-hosted-vs-managed-backends-a-practical-comparison"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Title":  "How developer tools are evolving in 2026",
+        "TTR":  "5",
+        "Author":  "aishwari",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "how-developer-tools-are-evolving-in-2026"
+    },
+    {
+        "Date":  "2026-03-19",
+        "Title":  "How to evaluate backend tools without locking yourself in",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "evaluate-backend-tools-no-lock-in"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Title":  "How to build internal tools quickly: Admin panels",
+        "TTR":  "7",
+        "Author":  "aditya-oberai",
+        "Category":  "tutorial",
+        "Featured":  "false",
+        "Slug":  "build-internal-tools-quickly"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Title":  "How to avoid backend overengineering in early-stage products",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "avoid-backend-overengineering"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Title":  "When ",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "when-custom-backend-stops-being-worth-it"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Title":  "Open-source alternatives to proprietary BaaS tools",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "open-source-baas-alternatives"
+    },
+    {
+        "Date":  "2026-03-18",
+        "Title":  "The easiest way to add file uploads to your app",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "tutorial",
+        "Featured":  "false",
+        "Slug":  "easiest-file-uploads"
+    },
+    {
+        "Date":  "2026-03-17",
+        "Title":  "How indie hackers are shipping apps faster than ever",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "product",
+        "Featured":  "false",
+        "Slug":  "indie-hackers-shipping-faster"
+    },
+    {
+        "Date":  "2026-03-17",
+        "Title":  "Developer-first thinking about compliance requirements",
+        "TTR":  "6",
+        "Author":  "aditya-oberai",
+        "Category":  "security",
+        "Featured":  "false",
+        "Slug":  "developer-compliance-thinking"
+    }
+]

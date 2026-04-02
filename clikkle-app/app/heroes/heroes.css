@@ -1,0 +1,186 @@
+.heroes-pg-hero {
+    display: grid;
+    grid-template-columns: 30.0625rem minmax(0, 1fr);
+    gap: 5vw;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.heroes-pg-hero > :nth-child(2) {
+    transform-origin: left center;
+    scale: 2;
+    transform: translateY(2rem);
+}
+@media (max-width: 1023px) {
+    .heroes-pg-hero {
+        display: block;
+        overflow: hidden;
+        gap: 2rem;
+    }
+    .heroes-pg-hero > :first-child {
+        max-width: 40rem;
+        margin-inline: auto;
+    }
+    .heroes-pg-hero > :nth-child(2) {
+        scale: 1;
+        width: 100%;
+        height: 24rem;
+        position: relative;
+    }
+    .heroes-pg-hero > :nth-child(2) img {
+        position: absolute;
+        display: block;
+        width: 40rem;
+        left: 50%;
+        top: 50%;
+        transform: translate(-30%, -50%);
+        max-block-size: unset;
+        max-inline-size: unset;
+    }
+}
+
+.heroes-pg-about {
+    position: relative;
+}
+.heroes-pg-about .avatar-1 {
+    position: absolute;
+    bottom: -5rem;
+    right: -20rem;
+}
+.heroes-pg-about .avatar-2 {
+    position: absolute;
+    top: -5rem;
+    left: -7.5rem;
+}
+.heroes-pg-about .avatar-3 {
+    position: absolute;
+    bottom: -7rem;
+    left: -15rem;
+}
+.heroes-pg-about .teal-blur {
+    position: absolute;
+    max-inline-size: none;
+    max-block-size: none;
+    left: -60rem;
+    bottom: -45rem;
+    z-index: -1;
+}
+@media (max-width: 1023px) {
+    .heroes-pg-about [class*='avatar-'] {
+        display: none;
+    }
+    .heroes-pg-about .teal-blur {
+        left: -45rem;
+    }
+}
+
+@keyframes scrollAnimation {
+    to {
+        transform: translate(calc(-50% - 1rem));
+    }
+}
+
+.heroes-pg-scroll-carousel {
+    display: flex;
+    width: 100%;
+    overflow: auto;
+}
+.heroes-pg-scroll-carousel .inner {
+    padding-inline: 4rem;
+    display: flex;
+    gap: 2rem;
+    flex-shrink: 0;
+}
+.heroes-pg-scroll-carousel .inner > * {
+    flex-shrink: 0;
+    scroll-snap-align: start;
+}
+.heroes-pg-scroll-carousel .carousel-img {
+    background: linear-gradient(
+        155deg,
+        rgba(255, 255, 255, 0.35) 1.16%,
+        rgba(255, 255, 255, 0.35) 84.17%
+    );
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.heroes-pg-scroll-carousel[data-animated="true"] {
+    overflow: hidden;
+}
+.heroes-pg-scroll-carousel[data-animated="true"] .inner {
+    padding-inline: 0;
+    animation: scrollAnimation 40s linear infinite;
+}
+
+.heroes-pg-footer-wrapper {
+    overflow: hidden;
+}
+@media (max-width: 1024px) {
+    .heroes-pg-footer-wrapper .web-hero {
+        padding-block-start: 5rem;
+    }
+}
+@media (min-width: 1024px) {
+    .heroes-pg-footer-wrapper .web-big-padding-section-level-2 {
+        margin-block-end: 0;
+    }
+}
+.heroes-pg-footer-wrapper .web-hero {
+    gap: 0;
+}
+.heroes-pg-footer-wrapper .web-hero .text-description {
+    margin-block-start: 1.25rem;
+}
+
+/* FloatingHead styling */
+.heroes-pg-head-wrapper {
+    border-radius: 50%;
+    display: inline-block;
+    position: var(--position, absolute);
+    top: var(--top);
+    left: var(--left);
+    bottom: var(--bottom);
+    right: var(--right);
+    background: linear-gradient(
+        132.35deg,
+        rgba(255, 255, 255, 0.08) 12.05%,
+        rgba(255, 255, 255, 0) 161.63%
+    );
+    box-shadow: 0px 5.35px 10.7px 0px rgba(0, 0, 0, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.heroes-pg-head-wrapper.isRelative {
+    position: relative;
+}
+.heroes-pg-head-wrapper img {
+    border-radius: 50%;
+    padding: 10%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+/* HeroCard inline fix */
+.heroes-pg-social-item {
+    display: flex;
+    flex-direction: column;
+}
+.heroes-pg-social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: var(--color-neutral-10);
+    color: var(--color-neutral-600);
+    transition: all 0.2s ease-in-out;
+}
+.heroes-pg-social-icon:hover {
+    background-color: var(--color-neutral-30);
+    color: var(--color-primary);
+}

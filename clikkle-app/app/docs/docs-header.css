@@ -1,0 +1,4 @@
+/* Docs logo: "Docs" turns blue on hover (Svelte / reference parity; Tailwind group-hover can miss here) */
+.docs-header-logo:hover .docs-header-logo__suffix {
+  color: #2d63ff;
+}

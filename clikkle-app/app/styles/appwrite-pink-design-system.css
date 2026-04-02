@@ -1,0 +1,134 @@
+/* ============================================================
+   Clikkle Design System — Color Tokens
+   Maps to Appwrite's Svelte SCSS design token structure.
+
+   KEY RULE: --color-primary is the PRIMARY TEXT color
+   (not the brand color). This matches the Svelte repo where
+   --web-color-primary = greyscale text (dark in light mode,
+   near-white in dark mode).
+
+   Brand / accent colors live under --color-brand-primary.
+   ============================================================ */
+
+:root,
+.light,
+body.light,
+body[data-theme="light"],
+[data-theme="light"] {
+    /* Brand — Clikkle blue (equiv. to Appwrite's pink accent) */
+    --color-brand-primary: #2d63ff;
+    --color-primary-dark: #1e3a8a;
+    --color-brand-secondary: #1e3a8a;
+    --color-cta: var(--color-brand-primary);
+    --color-secondary-accent: var(--color-brand-secondary);
+
+    /* Grayscale — same scale as Appwrite */
+    --color-gray-50: #f8f8fb;
+    --color-gray-100: #f2f2f5;
+    --color-gray-200: #e5e5e8;
+    --color-gray-300: #c3c3c6;
+    --color-gray-400: #9b9ba7;
+    --color-gray-500: #7e7e8a;
+    --color-gray-600: #61616e;
+    --color-gray-700: #44444f;
+    --color-gray-800: #26262b;
+    --color-gray-900: #19191c;
+
+    /* Semantic */
+    --color-success: #17c964;
+    --color-warning: #f5a524;
+    --color-danger: #f31260;
+    --color-info: #006fee;
+
+    /* Backgrounds */
+    --bg-primary: #ffffff;
+    --bg-secondary: #f8f8fb;
+    --bg-dark: #19191c;
+
+    /* Supporting surfaces */
+    --bg-elevated: #ffffff;
+    --bg-muted: var(--color-gray-100);
+    --bg-accent-soft: color-mix(in srgb, var(--color-brand-primary) 10%, white);
+    --bg-secondary-accent-soft: color-mix(in srgb, var(--color-brand-secondary) 12%, white);
+
+    /* Text — light mode: dark text on light background
+       Matches Svelte: --web-color-primary = greyscale-900 in light */
+    --color-text-primary: var(--color-gray-900);
+    --color-text-secondary: var(--color-gray-700);
+    --color-text-muted: var(--color-gray-500);
+    --color-text-inverse: #ffffff;
+
+    /* Borders */
+    --color-border-subtle: var(--color-gray-200);
+    --color-border-default: var(--color-gray-300);
+    --color-border-strong: var(--color-gray-500);
+
+    /* Focus and states */
+    --color-focus-ring: color-mix(in srgb, var(--color-brand-primary) 35%, transparent);
+    --color-selection: color-mix(in srgb, var(--color-brand-primary) 18%, white);
+
+    /* Badge tokens */
+    --color-badge-bg-light: color-mix(in srgb, var(--color-brand-primary) 8%, white);
+    --color-badge-border-light: color-mix(in srgb, var(--color-brand-primary) 25%, transparent);
+}
+
+.dark,
+body.dark,
+body[data-theme="dark"],
+[data-theme="dark"] {
+    /* Brand */
+    --color-brand-primary: #2d63ff;
+    --color-primary-dark: #1e3a8a;
+    --color-brand-secondary: #1e3a8a;
+    --color-cta: var(--color-brand-primary);
+    --color-secondary-accent: #3b82f6;
+
+    /* Grayscale */
+    --color-gray-50: #f8f8fb;
+    --color-gray-100: #f2f2f5;
+    --color-gray-200: #e5e5e8;
+    --color-gray-300: #c3c3c6;
+    --color-gray-400: #9b9ba7;
+    --color-gray-500: #7e7e8a;
+    --color-gray-600: #61616e;
+    --color-gray-700: #44444f;
+    --color-gray-800: #26262b;
+    --color-gray-900: #19191c;
+
+    /* Semantic */
+    --color-success: #17c964;
+    --color-warning: #f5a524;
+    --color-danger: #f31260;
+    --color-info: #006fee;
+
+    /* Backgrounds */
+    --bg-primary: #19191c;
+    --bg-secondary: #26262b;
+    --bg-dark: #19191c;
+
+    /* Supporting surfaces */
+    --bg-elevated: #26262b;
+    --bg-muted: #1f1f23;
+    --bg-accent-soft: color-mix(in srgb, var(--color-brand-primary) 18%, #19191c);
+    --bg-secondary-accent-soft: color-mix(in srgb, var(--color-brand-secondary) 22%, #19191c);
+
+    /* Text — dark mode: light text on dark background
+       Matches Svelte: --web-color-primary = greyscale-100 in dark */
+    --color-text-primary: var(--color-gray-50);
+    --color-text-secondary: var(--color-gray-200);
+    --color-text-muted: var(--color-gray-400);
+    --color-text-inverse: #19191c;
+
+    /* Borders */
+    --color-border-subtle: #2f2f35;
+    --color-border-default: var(--color-gray-700);
+    --color-border-strong: var(--color-gray-600);
+
+    /* Focus and states */
+    --color-focus-ring: color-mix(in srgb, var(--color-brand-primary) 45%, transparent);
+    --color-selection: color-mix(in srgb, var(--color-brand-primary) 28%, #19191c);
+
+    /* Badge tokens */
+    --color-badge-bg-light: color-mix(in srgb, var(--color-brand-primary) 14%, #26262b);
+    --color-badge-border-light: color-mix(in srgb, var(--color-brand-primary) 35%, transparent);
+}

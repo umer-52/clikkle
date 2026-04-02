@@ -1,0 +1,243 @@
+/* Clone of src/lib/components/PreFooter.svelte (+ strip-plans tokens). Used on pricing, changelog, etc. */
+
+.pre-footer {
+  position: relative;
+  overflow: hidden;
+  background-color: #19191c;
+  padding-block: 0 2.5rem;
+}
+
+.pre-footer-bg {
+  position: absolute;
+  top: clamp(300px, 50vw, 50%);
+  left: clamp(300px, 50vw, 50%);
+  transform: translate(-58%, -72%);
+  width: clamp(1200px, 200vw, 3000px);
+  aspect-ratio: 1;
+  max-inline-size: unset;
+  max-block-size: unset;
+  filter: blur(100px);
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.32;
+  background: radial-gradient(ellipse at 45% 40%, rgba(45, 99, 255, 0.18) 0%, transparent 55%),
+    radial-gradient(ellipse at 60% 55%, rgba(30, 58, 138, 0.14) 0%, transparent 50%);
+}
+
+.pre-footer-wrap {
+  position: relative;
+  z-index: 1;
+  max-width: calc(1100px + 3rem);
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
+
+.pre-footer-grid {
+  position: relative;
+  display: grid;
+  gap: 2rem;
+  row-gap: 5rem;
+}
+
+@media (min-width: 768px) {
+  .pre-footer-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.pre-footer-hero {
+  max-inline-size: 53.4375rem;
+  margin-inline: auto;
+}
+
+.pre-footer-hero h2 {
+  margin: 0;
+}
+
+.pre-footer-hero .web-btn.web-btn-secondary {
+  background: rgba(237, 237, 240, 0.16);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.pre-footer-hero .web-btn.web-btn-secondary:hover {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.06) 0%,
+    rgba(255, 255, 255, 0.1) 54.74%,
+    rgba(255, 255, 255, 0.06) 100%
+  );
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.pre-footer-card {
+  position: relative;
+  border-radius: 1rem;
+  border: none;
+  padding-block: 1.25rem 1.5rem;
+  padding-inline: 1.5rem;
+  container-name: strip-plans;
+  container-type: inline-size;
+  background: linear-gradient(
+    136deg,
+    rgba(255, 255, 255, 0.04) 0%,
+    rgba(255, 255, 255, 0.04) 30.91%,
+    rgba(255, 255, 255, 0) 100%,
+    rgba(255, 255, 255, 0.01) 100%
+  );
+  -webkit-backdrop-filter: blur(100px);
+  backdrop-filter: blur(100px);
+}
+
+.pre-footer-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 1rem;
+  border: 1px solid transparent;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.16) 0%, rgba(255, 255, 255, 0) 100%) border-box;
+  mask:
+    linear-gradient(#fff 0 0) padding-box,
+    linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+@media (max-width: 767px) {
+  .pre-footer-card {
+    max-inline-size: 36.5rem;
+    margin-inline: auto;
+    inline-size: 100%;
+  }
+}
+
+.pre-footer-strip-header {
+  margin-block-end: 1.25rem;
+}
+
+.pre-footer-strip-header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.pre-footer-strip-header h3 {
+  margin: 0;
+  font-size: clamp(1.125rem, 1.02rem + 0.35vw, 1.375rem);
+  line-height: 1.3;
+  letter-spacing: var(--tracking-tighter, -0.018em);
+  font-weight: 500;
+}
+
+.pre-footer-strip-plans {
+  list-style: none;
+  padding: 0;
+  margin: -1.25rem 0 0 0;
+}
+
+.pre-footer-strip-item {
+  padding-block: 1.5rem;
+}
+
+.pre-footer-strip-item:first-child {
+  padding-block-start: 1.125rem;
+}
+
+.pre-footer-strip-item:nth-child(n + 2) {
+  border-block-start: solid 1px rgba(255, 255, 255, 0.12);
+}
+
+.pre-footer-strip-item:last-child {
+  padding-block-end: 0;
+}
+
+.pre-footer-strip-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  align-items: end;
+}
+
+@media (min-width: 768px) {
+  .pre-footer-strip-row {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.pre-footer-strip-name {
+  margin: 0;
+  font-size: var(--text-description);
+  line-height: var(--text-description--line-height);
+  letter-spacing: var(--text-description--letter-spacing);
+  font-weight: 500;
+  color: rgb(255 255 255 / 0.64);
+}
+
+.pre-footer-strip-price-block {
+  margin-block-start: 0.75rem;
+}
+
+.pre-footer-strip-row .text-title {
+  font-size: clamp(1.625rem, 1.35rem + 0.85vw, 2.125rem);
+  line-height: 1.12;
+  letter-spacing: var(--tracking-compressed, -0.022em);
+}
+
+.pre-footer-strip-tag {
+  display: grid;
+  place-items: center;
+  padding-block: 0.1875rem;
+  padding-inline: 0.25rem;
+  border-radius: 0.25rem;
+  line-height: 1;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: #93c5fd;
+  background-color: rgba(45, 99, 255, 0.14);
+  border: 1px solid rgba(45, 99, 255, 0.35);
+  white-space: nowrap;
+}
+
+.pre-footer-strip-from {
+  font-size: var(--text-caption-size, 0.75rem);
+  line-height: 1.4;
+  color: rgb(255 255 255 / 0.64);
+}
+
+.pre-footer-strip-month {
+  white-space: nowrap;
+  font-size: var(--text-caption-size, 0.75rem);
+  line-height: 1.4;
+  font-weight: 500;
+  color: rgb(255 255 255 / 0.64);
+}
+
+.pre-footer-strip-info {
+  margin: 0;
+  min-width: 0;
+  color: rgb(255 255 255 / 0.64);
+}
+
+@media (min-width: 768px) {
+  .pre-footer-strip-row .web-btn {
+    justify-self: end;
+  }
+}
+
+@container strip-plans (max-width: 31.25rem) {
+  .pre-footer-strip-header-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .pre-footer-strip-row {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+  }
+
+  .pre-footer-strip-row .web-btn {
+    justify-self: stretch;
+    inline-size: 100%;
+    margin-block-start: 0.25rem;
+  }
+}

@@ -1,0 +1,83 @@
+import type { NavTree } from "@/lib/docs/nav-tree";
+import { isNewUntil } from "@/lib/docs/is-new-until";
+
+/** Appwrite `src/routes/docs/Sidebar.svelte` `navigation` */
+export const MAIN_DOCS_NAVIGATION: NavTree = [
+  {
+    items: [
+      { label: "Home", href: "/docs", icon: "icon-home" },
+      { label: "Quick start", href: "/docs/quick-starts", icon: "icon-play" },
+      { label: "Tutorials", href: "/docs/tutorials", icon: "icon-book-open" },
+      { label: "SDKs", href: "/docs/sdks", icon: "icon-cog" },
+      { label: "Changelog", href: "/changelog", icon: "icon-clock", openInNewTab: true },
+      { label: "Integrations", href: "/integrations", icon: "icon-puzzle", openInNewTab: true },
+      { label: "API references", href: "/docs/references", icon: "icon-document", isParent: true },
+    ],
+  },
+  {
+    label: "Products",
+    items: [
+      { label: "Auth", href: "/docs/products/auth", icon: "icon-user-group", isParent: true },
+      { label: "Databases", href: "/docs/products/databases", icon: "icon-database", isParent: true },
+      { label: "Storage", href: "/docs/products/storage", icon: "icon-folder", isParent: true },
+      { label: "Functions", href: "/docs/products/functions", icon: "icon-lightning-bolt", isParent: true },
+      { label: "Messaging", href: "/docs/products/messaging", icon: "icon-send", isParent: true },
+      {
+        label: "Sites",
+        href: "/docs/products/sites",
+        icon: "icon-globe-alt",
+        isParent: true,
+        new: isNewUntil("19 Jul 2025"),
+      },
+    ],
+  },
+  {
+    label: "Utilities",
+    collapsible: true,
+    initiallyCollapsed: true,
+    items: [
+      {
+        label: "Avatars",
+        href: "/docs/products/avatars",
+        icon: "icon-user-circle",
+        isParent: true,
+        new: isNewUntil("1 Jan 2026"),
+      },
+    ],
+  },
+  {
+    label: "APIS",
+    items: [
+      { label: "Realtime", href: "/docs/apis/realtime", icon: "icon-clock", isParent: true },
+      { label: "REST", href: "/docs/apis/rest", icon: "web-icon-rest" },
+      { label: "GraphQL", href: "/docs/apis/graphql", icon: "icon-graphql" },
+    ],
+  },
+  {
+    label: "Tooling",
+    items: [
+      {
+        label: "CLI",
+        href: "/docs/tooling/command-line/installation",
+        icon: "icon-terminal",
+        isParent: true,
+      },
+      { label: "Command Center", href: "/docs/tooling/command-center", icon: "web-icon-command" },
+      { label: "Assistant", href: "/docs/tooling/assistant", icon: "icon-sparkles" },
+      { label: "MCP Server", href: "/docs/tooling/mcp", icon: "web-icon-mcp" },
+      { label: "Skills", href: "/docs/tooling/skills", icon: "web-icon-skills" },
+      { label: "Arena", href: "/docs/tooling/arena", icon: "web-icon-arena" },
+      { label: "The Appwriter", href: "/docs/tooling/appwriter", icon: "icon-text" },
+    ],
+  },
+  {
+    label: "Advanced",
+    items: [
+      { label: "Platform", href: "/docs/advanced/platform", icon: "web-icon-platform", isParent: true },
+      { label: "Network", href: "/docs/products/network", icon: "icon-share", isParent: true },
+      { label: "Migrations", href: "/docs/advanced/migrations", icon: "icon-refresh", isParent: true },
+      { label: "Security", href: "/docs/advanced/security", icon: "icon-shield-check", isParent: true },
+      { label: "Self-hosting", href: "/docs/advanced/self-hosting", icon: "icon-server", isParent: true },
+    ],
+  },
+];

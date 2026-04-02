@@ -1,0 +1,34 @@
+﻿
+> clikkle@0.1.0 build
+> next build
+
+ΓÜá No build cache found. Please configure build caching for faster rebuilds. Read more: https://nextjs.org/docs/messages/no-cache
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+Γû▓ Next.js 16.2.1 (Turbopack)
+
+  Creating an optimized production build ...
+
+> Build error occurred
+Error: Turbopack build failed with 1 errors:
+./app/products/auth/page.tsx:8:1
+Module not found: Can't resolve '@/old_marketing_utf8'
+  [90m 6 |[0m [36mimport[0m { [33mSSRCodeShowcase[0m } [36mfrom[0m [32m'@/components/products/auth/ssr-code-showcase'[0m;
+  [90m 7 |[0m [36mimport[0m { [33mUseCasesOpenSource[0m } [36mfrom[0m [32m'@/components/products/auth/use-cases-open-source'[0m;
+[31m[1m>[0m [90m 8 |[0m [36mimport[0m { [33mCTASection[0m } [36mfrom[0m [32m'@/old_marketing_utf8'[0m; [90m// Re-use the existing marketing component[0m
+  [90m   |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m 9 |[0m
+  [90m10 |[0m [36mexport[0m [36mconst[0m metadata: [33mMetadata[0m = {
+  [90m11 |[0m     title: [32m'Auth | Clikkle'[0m,
+
+Import map: aliased to relative './old_marketing_utf8' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+    at <unknown> (./app/products/auth/page.tsx:8:1)
+    at <unknown> (https://nextjs.org/docs/messages/module-not-found)

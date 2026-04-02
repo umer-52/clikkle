@@ -1,0 +1,107 @@
+﻿[
+    {
+        "File":  "2026-03-09.markdoc",
+        "Title":  "Introducing Clikkle Skills",
+        "Date":  "2026-03-09",
+        "Cover":  "/clikkle/images/blog/introducing-clikkle-skills/cover.png",
+        "Body":  "Clikkle Skills are open-source Markdown files that give AI coding agents deep, language-specific knowledge of Clikkle SDKs. Install skills into your project, and your AI tools generate correct Clikkle code automatically, no more pasting docs into prompts.\r\n\r\nSkills are available for the Clikkle CLI and all major SDKs, including TypeScript, Dart, .NET, Go, Kotlin, PHP, Python, Ruby, and Swift. They work with Claude Code, Cursor, Windsurf, and other compatible agents.\r\n\r\nGet started with one command:\r\n\r\n```bash\r\nnpx skills add clikkle/agent-skills\r\n```\r\n\r\n{% arrow_link href=\"/blog/post/announcing-clikkle-skills\" %}\r\nRead the announcement to learn more\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-03-05.markdoc",
+        "Title":  "CNAME flattening support for Clikkle Sites",
+        "Date":  "2026-03-06",
+        "Cover":  "/clikkle/images/blog/announcing-cname-flattening/cover.png",
+        "Body":  "You can now connect a custom domain to Clikkle Sites without changing your nameservers. Clikkle Sites now supports CNAME flattening and similar apex-domain features provided by modern DNS providers.\r\n\r\nInstead of migrating nameservers to Clikkle, you can add a DNS record with your existing provider, verify the domain in the Console, and go live. This works with CNAME flattening (Cloudflare), ALIAS records (Route 53), and ANAME records, depending on your provider.\r\n\r\n{% arrow_link href=\"/blog/post/announcing-cname-flattening\" %}\r\nRead the announcement\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-03-02.markdoc",
+        "Title":  "",
+        "Date":  "2026-03-02",
+        "Cover":  "",
+        "Body":  "We\u0027ve rolled out infrastructure improvements to strengthen runtime stability across regions, including NYC, after identifying DNS-related instability under load.\r\n\r\nWhat\u0027s improved:\r\n\r\n- DNS resilience under network partitions\r\n- More powerful instance types and tuning of runtime resource allocations improve performance alongside noisy neighbours\r\n- Improvements to runtime monitoring and alerting\r\n\r\nThese changes reduce DNS-related latency, improve cold start reliability, and minimize blast radius during node-level issues."
+    },
+    {
+        "File":  "2026-02-22.markdoc",
+        "Title":  "SMS rates updated to match upstream providers",
+        "Date":  "2026-02-22",
+        "Cover":  "",
+        "Body":  "SMS pricing for Phone OTP has been updated to reflect current rates from our upstream providers. We continuously work with our vendors to ensure the best availability and local delivery for OTP messages worldwide. Per-country rates have been adjusted across the board so that our documentation and billing stay in sync with carrier and provider changesâ€”some destinations saw rate decreases, others increases, and the pricing table has been reorganized for clarity.\r\n\r\nSee the [Phone OTP documentation](/docs/advanced/platform/phone-otp) for the full per-country SMS pricing table."
+    },
+    {
+        "File":  "2026-02-20-1.markdoc",
+        "Title":  "Free plan update: Automatic pausing of inactive projects",
+        "Date":  "2026-02-20",
+        "Cover":  "",
+        "Body":  "To reduce idle infrastructure costs and keep the Free plan sustainable at scale, projects on the Free plan with no development activity for 7 consecutive days will be automatically paused.\r\n\r\n**What \"paused\" means**  \r\n\r\n- Data is not deleted\r\n- The project is not accessible to users while paused\r\n- No background processes run (backups, cron jobs, scheduled functions)\r\n- Projects can be reactivated anytime from the Clikkle Console and become active immediately\r\n\r\n**Why this change**  \r\nRunning cloud infrastructure incurs ongoing costs, even for inactive projects. Automatically pausing idle projects ensures resources are prioritized for developers actively building, while keeping the Free plan sustainable long term.\r\n\r\n**Important**  \r\nProjects that require continuous availability should be on a paid plan. Free plan projects remain active as long as they show development activity in the Console.\r\nWe will continue evolving the Free plan to keep it generous, sustainable, and aligned with active builders."
+    },
+    {
+        "File":  "2026-02-20.markdoc",
+        "Title":  "DNS: TXT record encoding and truncation handling",
+        "Date":  "2026-02-20",
+        "Cover":  "",
+        "Body":  "Two fixes are now live for DNS used by custom domains and network features.\r\n\r\n**TXT records:** TXT records now support payloads longer than 255 bytes by using chunked encoding (splitting into 255-byte chunks per RFC 1035), and empty TXT rdata is encoded as a single zero-length character-string so encoding and decoding stay correct.\r\n\r\n**Response truncation:** When a response is truncated and the authority section is dropped to fit size limits, NODATA (NOERROR with no answers) and NXDOMAIN responses are now marked non-authoritative so they remain valid and pass validation.\r\n\r\nNow live on Clikkle Cloud."
+    },
+    {
+        "File":  "2026-02-17.markdoc",
+        "Title":  "Advanced filtering across the Console",
+        "Date":  "2026-02-17",
+        "Cover":  "/clikkle/images/changelog/2026-02-17.png",
+        "Body":  "Debugging and monitoring just got easier. The Clikkle Console now supports advanced filtering for function executions, site logs, and deployments.\r\n\r\nFilter by status, trigger type, HTTP method, response status code, duration, request path, or time range, and combine multiple filters to quickly find exactly what you need.\r\n\r\nFor example, surface all failed function executions from the last hour, or find slow site requests exceeding 5 seconds. \r\n\r\nNow live on Clikkle Cloud."
+    },
+    {
+        "File":  "2026-02-16.markdoc",
+        "Title":  "Realtime queries: Server-side event filtering for subscriptions",
+        "Date":  "2026-02-16",
+        "Cover":  "/clikkle/images/blog/announcing-realtime-queries/cover.png",
+        "Body":  "Clikkle Realtime now supports passing SDK queries when subscribing to channels. Events are filtered server-side based on your queries, so your callbacks only receive updates that match your conditions.\r\n\r\nYou can use queries like `Query.equal()`, `Query.notEqual()`, `Query.greaterThan()`, and more, and combine them with `Query.and()` and `Query.or()` for precise filtering. You can also subscribe to the same channel multiple times with different filters to handle different subsets of events independently.\r\n\r\nAvailable across all Clikkle client SDKs: Web, Flutter, Apple, and Android.\r\n\r\nNow live on Clikkle Cloud.\r\n\r\n{% arrow_link href=\"/blog/post/announcing-realtime-queries\" %}\r\nRead the announcement to learn more\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-02-13.markdoc",
+        "Title":  "Realtime Channel helpers: Type-safe subscriptions made simple",
+        "Date":  "2026-02-13",
+        "Cover":  "/clikkle/images/blog/announcing-realtime-channel-helpers/cover.png",
+        "Body":  "Clikkle Realtime now includes Channel helpers, a fluent, type-safe API for building channel subscriptions. Instead of manually writing channel strings, you use the `Channel` class with IDE autocomplete and compile-time validation.\r\n\r\nChannel helpers support all available channels, event type filtering with `.create()`, `.update()`, and `.delete()`, and flexible wildcards by omitting IDs. Existing string-based subscriptions continue to work.\r\n\r\nAvailable across all Clikkle client SDKs: Web, Flutter, Apple, and Android.\r\n\r\nNow live on Clikkle Cloud.\r\n\r\n{% arrow_link href=\"/blog/post/announcing-realtime-channel-helpers\" %}\r\nRead the announcement to learn more\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-02-12.markdoc",
+        "Title":  "New string column types for Clikkle Databases",
+        "Date":  "2026-02-12",
+        "Cover":  "/clikkle/images/blog/new-string-types/cover.png",
+        "Body":  "Clikkle Databases now supports four explicit string column types - `varchar`, `text`, `mediumtext`, and `longtext` - giving you transparent control over storage behavior and indexing.\r\n\r\nEach type has defined limits and indexing strategies suited to different use cases, from short identifiers to large content. The legacy `string` type remains supported for backward compatibility.\r\n\r\nNow live on Clikkle Cloud.\r\n\r\n{% arrow_link href=\"/blog/post/new-string-types\" %}\r\nRead the announcement to learn more\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-02-09.markdoc",
+        "Title":  "Generate a type-safe SDK from your schema with the Clikkle CLI",
+        "Date":  "2026-02-09",
+        "Cover":  "/clikkle/images/blog/clikkle-generate/cover.png",
+        "Body":  "The Clikkle CLI now includes a `generate` command that creates a type-safe, project-aware SDK directly from your database schema. The generated SDK includes typed helpers with autocomplete for querying and mutating rows, eliminating boilerplate and turning schema-related runtime bugs into type errors.\r\n\r\nRun `clikkle generate` in your project directory to get started.\r\n\r\nNow live on Clikkle Cloud.\r\n\r\n{% arrow_link href=\"/blog/post/clikkle-generate\" %}\r\nRead the announcement to learn more\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-02-06.markdoc",
+        "Title":  "Relationship queries and up to 18x faster relationship performance",
+        "Date":  "2026-02-06",
+        "Cover":  "/clikkle/images/blog/announcing-relationship-queries/cover.png",
+        "Body":  "Clikkle Databases now supports filter queries directly on relationship columns using dot notation. Query across related data with operators like `equal`, `notEqual`, `greaterThan`, `lessThan`, `between`, and more, without needing to fetch and filter application-side.\r\n\r\nAdditionally, all relationship operations are now 12-18x faster across the board, with no configuration changes needed.\r\n\r\nNow live on Clikkle Cloud.\r\n\r\n{% arrow_link href=\"/blog/post/announcing-relationship-queries\" %}\r\nRead the announcement to learn more\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-02-04.markdoc",
+        "Title":  "Announcing CSV exports: Effortless data extraction, right from your Console",
+        "Date":  "2026-02-04",
+        "Cover":  "/clikkle/images/blog/announcing-csv-export/cover.png",
+        "Body":  "Clikkle now supports exporting data to CSV directly from the Console. This feature simplifies data extraction and reporting without requiring SDKs or custom scripts.\r\n\r\n**What\u0027s new**\r\n\r\nCSV export introduces a new option in the Clikkle Console for downloading CSV files from your database tables.\r\n\r\nThat means, you can:\r\n\r\n- Apply filters or queries before export.\r\n- Choose specific attributes (columns) to include.\r\n- Set a custom delimiter and optional header row.\r\n- Run exports asynchronously in the background.\r\n- Receive email notifications with a short-lived download link once the export completes.\r\n- Export relationship fields as IDs by default.\r\n\r\n**Immediate benefits:**\r\n\r\n- Enables data export without SDKs or scripts.\r\n- Customizable exports with query filters and column selection.\r\n- Non-blocking execution via background jobs.\r\n- Secure: Exports respect Clikkle\u0027s document permissions.\r\n- Supports standard CSV formatting options (delimiter, headers, filenames).\r\n\r\nNow live on Clikkle Cloud.\r\n\r\n{% arrow_link href=\"/blog/post/announcing-csv-export\" %}\r\nRead the announcement to learn more\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-02-02.markdoc",
+        "Title":  "GraphQL schema is now public",
+        "Date":  "2026-02-02",
+        "Cover":  "",
+        "Body":  "You can now run introspection queries on Clikkle\u0027s GraphQL API. With introspection enabled, you get:\r\n\r\n- **IDE autocomplete** for queries, mutations, and fields\r\n- **Schema exploration** using tools like GraphQL Playground, Insomnia, or Postman\r\n- **Type generation** for strongly-typed clients in your preferred language\r\n\r\nHere\u0027s how to fetch the schema using the Clikkle SDK:\r\n\r\n```client-web\r\nimport { Client, Graphql } from \"clikkle\";\r\n\r\nconst client = new Client()\r\n    .setEndpoint(\u0027https://\u003cREGION\u003e.cloud.clikkle.io/v1\u0027)\r\n    .setProject(\u0027\u003cPROJECT_ID\u003e\u0027);\r\n\r\nconst graphql = new Graphql(client);\r\n\r\nconst schema = await graphql.query({\r\n    query: `{\r\n        __schema {\r\n            types { name }\r\n            queryType { fields { name } }\r\n            mutationType { fields { name } }\r\n        }\r\n    }`\r\n});\r\n\r\nconsole.log(schema.data);\r\n```\r\n\r\n{% arrow_link href=\"/docs/apis/graphql\" %}\r\nLearn more about Clikkle\u0027s GraphQL API\r\n{% /arrow_link %}"
+    },
+    {
+        "File":  "2026-01-20.markdoc",
+        "Title":  "Announcing Screenshots API: Generate pixel-perfect webpage screenshots on demand",
+        "Date":  "2026-01-21",
+        "Cover":  "/clikkle/images/blog/announcing-screenshots-api/cover.png",
+        "Body":  "We\u0027re excited to announce the **Screenshots API**, a new addition to Clikkle Avatars that lets you generate fully customizable webpage screenshots with a single API call.\r\n\r\nNo more headless browser infrastructure to maintain. No more environment-specific workarounds. Just simple, reliable screenshot generation.\r\n\r\n# What you can do\r\n\r\n- Capture any public webpage as an image\r\n- Simulate an authenticated experience via custom request headers\r\n- Control browser viewport size and device scale\r\n- Render in light or dark theme\r\n- Simulate different locales, timezones, and geolocation\r\n- Pre-grant browser permissions\r\n- Generate full-page or viewport-only screenshots\r\n- Customize output format, dimensions, and quality\r\n\r\nThe Screenshots API is available today as part of Clikkle Avatars and is already being used in production by [Imagine](https://imagine.dev).\r\n\r\n{% arrow_link href=\"/docs/products/avatars/screenshots\" %}\r\nGet started with Screenshots API\r\n{% /arrow_link %}"
+    }
+]

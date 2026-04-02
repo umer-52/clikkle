@@ -1,0 +1,140 @@
+﻿
+> clikkle@0.1.0 build
+> next build
+
+Γû▓ Next.js 16.2.1 (Turbopack)
+
+  Creating an optimized production build ...
+node.exe : 
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" 
+"C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpeci 
+   fied: (:String) [], RemoteExceptio  
+  n
+    + FullyQualifiedErrorId : NativeCo 
+   mmandError
+ 
+> Build error occurred
+Error: Turbopack build failed with 4 
+errors:
+./app/globals.css:2:169077
+Module not found: Can't resolve '&#x27;
+/clikkle/images/bgs/auth-hero.png&'
+  [90m1 |[0m ...
+[31m[1m>[0m [90m2 |[0m ...[35muth
+-hero\.png\&\#x27\;\)\]{background-imag
+e:url(&#x27;/clikkle[0m/images/bgs/aut
+h-hero.png&...
+  [90m  |[0m                         
+                       [31m[1m^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+
+
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client 
+Component Browser]
+    ./app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module
+-not-found
+
+
+./app/globals.css:2:137945
+Module not found: Can't resolve '&#x27;
+/clikkle/images/bgs/checker-bg.png&'
+  [90m1 |[0m ...
+[31m[1m>[0m [90m2 |[0m ...{content
+:[36mvar[0m(--tw-content);background-
+image:url(&#x27;[35m/clikkle/images[0
+m/bgs/checker-bg.png...
+  [90m  |[0m                         
+                       [31m[1m^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+
+
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client 
+Component Browser]
+    ./app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module
+-not-found
+
+
+./app/globals.css:2:66898
+Module not found: Can't resolve '&#x27;
+/clikkle/images/bgs/mobile-auth-hero.pn
+g&'
+  [90m1 |[0m ...
+[31m[1m>[0m [90m2 |[0m ...[35muth
+-hero\.png\&\#x27\;\)\]{background-imag
+e:url(&#x27;/clikkle[0m/images/bgs/mob
+ile-auth-he...
+  [90m  |[0m                         
+                       [31m[1m^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+
+
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client 
+Component Browser]
+    ./app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module
+-not-found
+
+
+./app/globals.css:2:67056
+Module not found: Can't resolve '&#x27;
+/clikkle/images/pages/storage/pattern-1
+.png&'
+  [90m1 |[0m ...
+[31m[1m>[0m [90m2 |[0m ...[35matt
+ern-1\.png\&\#x27\;\)\]{background-imag
+e:url(&#x27;/clikkle[0m/images/pages/s
+torage/patt...
+  [90m  |[0m                         
+                       [31m[1m^[0m
+  [90m3 |[0m ...
+  [90m4 |[0m ...
+
+
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client 
+Component Browser]
+    ./app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module
+-not-found
+
+
+    at <unknown> 
+(./app/globals.css:2:169077)
+    at <unknown> (https://nextjs.org/do
+cs/messages/module-not-found)
+    at <unknown> 
+(./app/globals.css:2:137945)
+    at <unknown> (https://nextjs.org/do
+cs/messages/module-not-found)
+    at <unknown> 
+(./app/globals.css:2:66898)
+    at <unknown> (https://nextjs.org/do
+cs/messages/module-not-found)
+    at <unknown> 
+(./app/globals.css:2:67056)
+    at <unknown> (https://nextjs.org/do
+cs/messages/module-not-found)

@@ -1,0 +1,123 @@
+/*!
+  Theme: a11y-dark (Appwrite `src/scss/hljs.css`)
+*/
+.hljs {
+  background: #2b2b2b;
+  color: #f8f8f2;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #d4d0ab;
+}
+
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+  color: #ffa07a;
+}
+
+.hljs-number,
+.hljs-built_in,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+  color: #f5ab35;
+}
+
+.hljs-attribute {
+  color: #ffd700;
+}
+
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+  color: #abe338;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #00e0e0;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #dcc6e0;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+pre {
+  color: #e4e4e7;
+}
+
+code.line-numbers .line {
+  counter-increment: line;
+}
+
+code.line-numbers .line:before {
+  content: counter(line);
+  display: inline-block;
+  text-align: right;
+  padding-right: 1rem;
+  color: #6c6c71;
+  width: 2.5rem;
+}
+
+.hljs-doctag,
+.hljs-keyword,
+.hljs-meta .hljs-keyword,
+.hljs-template-tag,
+.hljs-template-variable,
+.hljs-type,
+.hljs-variable.language_ {
+  color: #fe86a8;
+}
+
+.hljs-title,
+.hljs-title.class_,
+.hljs-title.class_.inherited__,
+.hljs-title.function_,
+.hljs-symbol {
+  color: #68a3fe;
+}
+
+.hljs-attr,
+.hljs-attribute,
+.hljs-literal,
+.hljs-meta,
+.hljs-number,
+.hljs-operator,
+.hljs-built_in,
+.hljs-variable,
+.hljs-selector-attr,
+.hljs-selector-class,
+.hljs-selector-id {
+  color: #fe9567;
+}
+
+.hljs-regexp,
+.hljs-string,
+.hljs-meta .hljs-string {
+  color: #85dbd8;
+}
+
+.hljs-comment,
+.hljs-code,
+.hljs-formula {
+  color: #adadb0;
+}

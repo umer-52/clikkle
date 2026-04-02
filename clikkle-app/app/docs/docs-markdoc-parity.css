@@ -1,0 +1,291 @@
+/* Appwrite-aligned utilities + components for Markdoc (see src/scss 6-elements, 7-components). */
+@import "./docs-hljs.css";
+
+:root {
+  --web-color-border: var(--color-border-subtle);
+}
+
+/* only light / only dark — `src/scss/_10-utilities.scss` */
+.web-u-only-light,
+.web-u-only-dark {
+  display: none;
+}
+
+.dark .web-u-only-dark {
+  display: block;
+}
+
+.dark .web-u-only-light {
+  display: none;
+}
+
+.light .web-u-only-dark {
+  display: none;
+}
+
+.light .web-u-only-light {
+  display: block;
+}
+
+/* Code snippet — `7-components/_code-snippet.scss` */
+.web-code-snippet-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem;
+  background-color: var(--color-greyscale-800);
+  border: solid 1px var(--color-border-strong);
+  border-start-start-radius: 0.75rem;
+  border-start-end-radius: 0.75rem;
+}
+
+.web-code-snippet-header-start,
+.web-code-snippet-header-end {
+  display: flex;
+  align-items: center;
+}
+
+.web-code-snippet-content {
+  padding: 0.9375rem;
+  background-color: var(--color-greyscale-850);
+  border: solid 1px var(--color-border-strong);
+  border-block-start-width: 0;
+  border-end-start-radius: 0.75rem;
+  border-end-end-radius: 0.75rem;
+  overflow-x: auto;
+}
+
+.web-code-snippet-content code {
+  white-space: pre;
+}
+
+.web-code-snippet--tutorial {
+  margin-top: unset !important;
+}
+
+/* Appwrite `Fence.svelte` */
+.no-top-margin {
+  margin-top: unset !important;
+}
+
+.buttons-list-item:nth-child(n + 2)::before {
+  background-color: var(--color-greyscale-750);
+}
+
+.web-tag {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 0.375rem;
+  padding: 0.125rem 0.5rem;
+  background: color-mix(in srgb, var(--color-gray-700) 40%, transparent);
+  font-size: 0.75rem;
+}
+
+.web-tag .text {
+  color: var(--color-text-secondary);
+}
+
+.web-icon-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.375rem;
+  border: 1px solid var(--color-border-default);
+  background: var(--bg-secondary);
+  color: var(--color-text-primary);
+  cursor: pointer;
+}
+
+.web-icon-button:hover {
+  background: var(--color-smooth);
+}
+
+/* Appwrite-style copy tooltip — lightweight (no tooltip library) */
+.code-copy-tooltip {
+  background-color: var(--color-greyscale-800);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border-strong);
+}
+
+/* Article section line — `7-components/_article.scss` */
+.web-article-content-section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .web-article-content-section.is-with-line::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 1.5rem;
+    left: -1.875rem;
+    width: 2px;
+    height: calc(100% + 0.5rem);
+    background-color: rgb(255 255 255 / 0.1);
+  }
+
+  .light .web-article-content-section.is-with-line::before {
+    background-color: color-mix(in srgb, var(--color-gray-900) 12%, transparent);
+  }
+}
+
+.web-article-content-header {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+@media (min-width: 1024px) {
+  .web-article-content-header .web-numeric-badge {
+    position: absolute;
+    top: 0.125rem;
+    left: 0;
+    transform: translateX(calc(-100% - 1rem));
+  }
+}
+
+.web-article-content-sub-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+/* Lists — `6-elements/_lists.scss` (simplified) */
+.web-numeric-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  color: var(--color-text-secondary);
+  counter-reset: numeric-list;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+
+.web-numeric-list > li {
+  display: flex;
+  line-height: 1.5;
+}
+
+.web-numeric-list > li::before {
+  counter-increment: numeric-list;
+  content: counter(numeric-list);
+  align-self: start;
+  padding-inline-end: 0.75rem;
+  color: var(--color-brand-primary);
+}
+
+.web-pink-dots {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  list-style: disc;
+  padding-inline-start: 1.5rem;
+  margin: 0 0 1.5rem;
+  color: var(--color-text-secondary);
+}
+
+.web-pink-dots > li::marker {
+  color: hsl(343 51% 59%);
+}
+
+/* Table */
+.web-table-wrapper {
+  overflow-x: auto;
+}
+
+.web-table-scroll {
+  min-width: 100%;
+}
+
+.web-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.web-table th,
+.web-table td {
+  border: 1px solid var(--color-border-subtle);
+  padding: 0.5rem 0.75rem;
+}
+
+/* Inline info — `7-components/_inline-info.scss` (simplified) */
+.web-inline-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-border-default);
+  background: color-mix(in srgb, var(--bg-secondary) 90%, var(--color-gray-900));
+}
+
+.web-inline-info [class*="icon"]:first-child {
+  color: var(--color-brand-primary);
+  font-size: 1.5rem !important;
+  line-height: 1.5rem !important;
+}
+
+/* Accordion */
+.collapsible {
+  padding-block-start: 0;
+  padding-block-end: 2rem;
+  list-style: none;
+  margin: 0;
+  padding-inline-start: 0;
+}
+
+.collapsible-item {
+  border-block-end: 0.0625rem solid color-mix(in srgb, var(--color-gray-900) 8%, transparent);
+}
+
+.collapsible-button {
+  padding-block: 1rem;
+}
+
+.collapsible-content {
+  margin-block-start: 0;
+  padding-block-end: 0;
+  gap: 4px;
+}
+
+/* Card utilities (Appwrite tokens) */
+.bg-card {
+  background-color: var(--color-card);
+}
+
+.border-smooth {
+  border-color: var(--color-smooth);
+}
+
+.hover\:bg-smooth:hover {
+  background-color: var(--color-smooth);
+}
+
+.text-primary {
+  color: var(--color-text-primary);
+}
+
+.text-secondary {
+  color: var(--color-text-secondary);
+}
+
+.text-sub-body {
+  font-size: var(--text-sub-body);
+  line-height: var(--text-sub-body--line-height);
+  letter-spacing: var(--text-sub-body--letter-spacing);
+}
+
+.border-smooth {
+  border-width: 1px;
+  border-style: solid;
+}

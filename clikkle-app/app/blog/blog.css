@@ -1,0 +1,273 @@
+/* Blog page styles - matching Clikkle's blog layout */
+
+/* Featured Article Layout */
+.blog-feature-article {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.blog-feature-article-image {
+  display: block;
+}
+
+.blog-feature-article-image img {
+  border-radius: 0.5rem;
+}
+
+.blog-feature-article-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+/* Author block */
+.blog-author {
+  display: flex;
+  align-items: center;
+}
+
+.blog-author-image {
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+
+.blog-author-info {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Metadata list */
+.web-metadata {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem;
+  color: var(--color-secondary);
+}
+
+/* Mobile-only / Desktop-only helpers */
+.blog-is-only-mobile {
+  display: none;
+}
+
+.blog-is-not-mobile {
+  display: flex;
+}
+
+@media (max-width: 768px) {
+  .blog-is-only-mobile {
+    display: flex;
+  }
+  .blog-is-not-mobile {
+    display: none;
+  }
+  .blog-feature-article {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Search + Categories bar */
+.blog-search-and-categories {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.blog-categories-wrapper {
+  position: relative;
+  min-width: 0;
+  flex: 1 0 auto;
+  max-width: 66%;
+}
+
+.blog-categories-wrapper::before,
+.blog-categories-wrapper::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 60px;
+  height: 100%;
+  transition: ease 250ms;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.blog-categories-wrapper::before {
+  left: 0;
+  background: linear-gradient(to right, #19191c, transparent);
+}
+
+.blog-categories-wrapper[data-state='start']::before {
+  opacity: 0;
+}
+
+.blog-categories-wrapper::after {
+  right: 0;
+  background: linear-gradient(to left, #19191c, transparent);
+}
+
+.blog-categories-wrapper[data-state='end']::after {
+  opacity: 0;
+}
+
+.blog-categories {
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  scrollbar-width: none;
+  margin-inline-end: 6px;
+}
+
+.blog-categories::-webkit-scrollbar {
+  display: none;
+}
+
+.blog-interactive-tag {
+  white-space: nowrap;
+  padding: 0.375rem 0.75rem;
+  border-radius: 100px;
+  font-size: 0.875rem;
+  line-height: 1.4;
+  color: var(--color-secondary);
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  cursor: pointer;
+  transition: all 200ms ease;
+}
+
+.blog-interactive-tag:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.blog-interactive-tag.is-selected {
+  color: #19191c;
+  background: #fff;
+  border-color: #fff;
+}
+
+/* Category nav arrows */
+.blog-category-nav-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 250ms ease, background-color 250ms ease;
+  z-index: 200;
+  color: var(--color-primary);
+}
+
+.blog-category-nav-arrow:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.blog-category-nav-arrow.visible {
+  opacity: 1;
+}
+
+.blog-category-nav-arrow.left {
+  left: -12px;
+}
+
+.blog-category-nav-arrow.right {
+  right: -12px;
+}
+
+/* Search bar */
+.blog-search-bar {
+  position: relative;
+  min-width: 0;
+  flex: 1 1 auto;
+  max-width: 33%;
+}
+
+.blog-search-input {
+  width: 100%;
+  max-height: 40px;
+  padding: 0.5rem 0.75rem 0.5rem 2.5rem;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 0.5rem;
+  color: var(--color-primary);
+  font-size: 0.875rem;
+  outline: none;
+  transition: border-color 200ms ease;
+}
+
+.blog-search-input:focus {
+  border-color: rgba(255, 255, 255, 0.24);
+}
+
+.blog-search-input::placeholder {
+  color: var(--color-secondary);
+}
+
+/* Articles Grid */
+.blog-grid-articles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media (max-width: 945px) {
+  .blog-categories-wrapper,
+  .blog-search-bar {
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .blog-search-and-categories {
+    display: flex;
+    flex-wrap: wrap;
+    padding-block-start: 2rem;
+    flex-direction: column-reverse;
+  }
+
+  .blog-categories-wrapper {
+    max-width: 99%;
+  }
+
+  .blog-search-bar {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .blog-grid-articles {
+    grid-template-columns: 1fr;
+  }
+
+  .blog-category-nav-arrow {
+    display: none;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .blog-grid-articles {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* pt-30 utility */
+.pt-30 {
+  padding-top: 7.5rem;
+}

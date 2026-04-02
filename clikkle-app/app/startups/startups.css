@@ -1,0 +1,120 @@
+/* src/routes/startups/startups.css mapped from Svelte styles */
+
+@media (max-width: 1023px) {
+    .web-hero .text-description {
+        margin-block-start: 0;
+    }
+    .e-u-padding-block-start-48-mobile {
+        padding-block-start: 3rem;
+    }
+    .e-u-gap-64-mobile {
+        gap: 4rem;
+    }
+    .e-u-margin-block-end-80-mobile {
+        margin-block-end: 5rem;
+    }
+    .e-u-row-gap-0 {
+        row-gap: 0;
+    }
+    .e-bg-left-mobile {
+        width: 300px;
+        height: auto;
+        inset-inline-start: 0;
+        inset-block-start: 50px;
+        opacity: 0.4;
+    }
+    .e-bg-right-mobile {
+        width: 300px;
+        height: auto;
+        inset-inline-end: 0;
+        inset-block-start: 100px;
+        opacity: 0.4;
+    }
+}
+
+/* from 1024px and bigger */
+@media (min-width: 1024px) {
+    .e-u-padding-block-start-80-desktop {
+        padding-block-start: 5rem;
+    }
+    .e-u-margin-block-128-desktop {
+        margin-block: 8rem;
+    }
+    .e-u-padding-inline-32-desktop {
+        padding-inline: 2rem;
+    }
+}
+
+/* Custom adjustments to map appwrite globals where missing */
+.web-hero {
+    max-inline-size: var(--hero-max-inline-size);
+    gap: var(--hero-gap);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.web-big-padding-section {
+    position: relative;
+}
+
+.web-white-section {
+    background-color: var(--background, #EDEDF0);
+}
+
+.web-form-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.web-input-text {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 0.75rem;
+    color: #19191C;
+    font-weight: 500;
+}
+.web-input-text:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(45, 99, 255, 0.22);
+}
+
+.text-sub-body {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.bg-smooth {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.collapsible {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.collapsible-item {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+.icon-cheveron-down {
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="none" stroke="%23EDEDF0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><polyline points="6 9 12 15 18 9"></polyline></svg>');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.rotate-180 .icon-cheveron-down {
+    transform: rotate(180deg);
+}
+
+.animate-fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
