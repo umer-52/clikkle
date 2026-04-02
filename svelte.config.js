@@ -41,6 +41,10 @@ const config = {
         version: {
             pollInterval: 60 * 1000
         },
+        paths: {
+            // GitHub project Pages: https://<user>.github.io/<repo>/  → base is /<repo>
+            base: process.env.BASE_PATH || ''
+        },
         alias: {
             $routes: './src/routes',
             $scss: './src/scss',

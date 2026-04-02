@@ -4,27 +4,27 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="twitter:site" content="@appwrite" />
-        <link rel="icon" type="image/svg+xml" href="/images/logos/logo.svg" />
+        <link rel="icon" type="image/svg+xml" href="%sveltekit.base%/images/logos/logo.svg" />
 
         <!-- apple touch icons -->
         <link
             rel="apple-touch-icon"
-            href="/images/logos/icons/apple-touch-icon-180x180.png"
+            href="%sveltekit.base%/images/logos/icons/apple-touch-icon-180x180.png"
             sizes="180x180"
         />
         <link
             rel="apple-touch-icon"
-            href="/images/logos/icons/apple-touch-icon-167x167.png"
+            href="%sveltekit.base%/images/logos/icons/apple-touch-icon-167x167.png"
             sizes="167x167"
         />
         <link
             rel="apple-touch-icon"
-            href="/images/logos/icons/apple-touch-icon-152x152.png"
+            href="%sveltekit.base%/images/logos/icons/apple-touch-icon-152x152.png"
             sizes="152x152"
         />
         <link
             rel="apple-touch-icon"
-            href="/images/logos/icons/apple-touch-icon-120x120.png"
+            href="%sveltekit.base%/images/logos/icons/apple-touch-icon-120x120.png"
             sizes="120x120"
         />
 
@@ -35,7 +35,7 @@
         <!-- preload font for headlines -->
         <link
             rel="preload"
-            href="/fonts/aeonik-pro/AeonikPro-Regular.woff2"
+            href="%sveltekit.base%/fonts/aeonik-pro/AeonikPro-Regular.woff2"
             as="font"
             type="font/woff2"
             crossorigin
@@ -45,7 +45,10 @@
     <body class="dark group/body antialiased" data-sveltekit-preload-data="hover">
         <script>
             // Theme
-            const isDocs = window.location.pathname.startsWith('/docs');
+            const base = '%sveltekit.base%';
+            const isDocs =
+                window.location.pathname.startsWith(base + '/docs') ||
+                window.location.pathname === base + '/docs';
             if (isDocs) {
                 const theme = localStorage.getItem('theme');
                 if (theme) {

@@ -47,6 +47,8 @@ jobs:
         run: npm install --legacy-peer-deps
 
       - name: Build SvelteKit output
+        env:
+          BASE_PATH: /clikkle
         run: npm run build
 
       - name: Setup Pages
