@@ -1,44 +1,44 @@
 <svg width="584" height="450" viewBox="0 0 584 450" fill="none" xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <g clip-path="url(#clip0_50_1207)">
-        <rect width="381" height="380" transform="translate(102 40)" fill="#FD366E"
+        <rect width="381" height="380" transform="translate(102 40)" fill="#2D63FF"
             fill-opacity="0.08" />
-        <path d="M441.704 -340L974.201 192.497" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M420.491 -318.787L952.988 213.71" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M399.277 -297.574L931.774 234.923" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M378.064 -276.36L910.561 256.136" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M356.852 -255.147L889.348 277.35" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M335.638 -233.934L868.135 298.563" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M314.425 -212.721L846.922 319.776" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M293.212 -191.508L825.709 340.989" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M271.998 -170.294L804.495 362.202" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M250.785 -149.081L783.282 383.416" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M229.572 -127.868L762.069 404.629" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M208.358 -106.655L740.855 425.842" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M187.146 -85.4416L719.642 447.055" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M165.933 -64.2283L698.429 468.269" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M144.72 -43.0151L677.217 489.482" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M123.506 -21.8019L656.003 510.695" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M102.293 -0.588745L634.79 531.908" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M81.0801 20.6245L613.577 553.121" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M59.8662 41.8376L592.363 574.335" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M38.6533 63.0508L571.15 595.548" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M17.4404 84.264L549.937 616.761" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-3.77344 105.477L528.723 637.974" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-24.9863 126.69L507.511 659.187" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-46.1992 147.904L486.298 680.401" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-67.4131 169.117L465.084 701.614" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-88.626 190.33L443.871 722.827" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-109.839 211.543L422.658 744.04" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-131.053 232.756L401.444 765.253" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-152.266 253.97L380.231 786.467" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-173.479 275.183L359.018 807.68" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-194.692 296.396L337.804 828.893" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-215.905 317.609L316.592 850.106" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-237.118 338.823L295.379 871.319" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-258.332 360.036L274.165 892.533" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-279.545 381.249L252.952 913.746" stroke="#FD366E" stroke-dasharray="10 10" />
-        <path d="M-300.758 402.462L231.739 934.959" stroke="#FD366E" stroke-dasharray="10 10" />
+        <path d="M441.704 -340L974.201 192.497" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M420.491 -318.787L952.988 213.71" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M399.277 -297.574L931.774 234.923" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M378.064 -276.36L910.561 256.136" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M356.852 -255.147L889.348 277.35" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M335.638 -233.934L868.135 298.563" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M314.425 -212.721L846.922 319.776" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M293.212 -191.508L825.709 340.989" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M271.998 -170.294L804.495 362.202" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M250.785 -149.081L783.282 383.416" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M229.572 -127.868L762.069 404.629" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M208.358 -106.655L740.855 425.842" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M187.146 -85.4416L719.642 447.055" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M165.933 -64.2283L698.429 468.269" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M144.72 -43.0151L677.217 489.482" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M123.506 -21.8019L656.003 510.695" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M102.293 -0.588745L634.79 531.908" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M81.0801 20.6245L613.577 553.121" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M59.8662 41.8376L592.363 574.335" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M38.6533 63.0508L571.15 595.548" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M17.4404 84.264L549.937 616.761" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-3.77344 105.477L528.723 637.974" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-24.9863 126.69L507.511 659.187" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-46.1992 147.904L486.298 680.401" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-67.4131 169.117L465.084 701.614" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-88.626 190.33L443.871 722.827" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-109.839 211.543L422.658 744.04" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-131.053 232.756L401.444 765.253" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-152.266 253.97L380.231 786.467" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-173.479 275.183L359.018 807.68" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-194.692 296.396L337.804 828.893" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-215.905 317.609L316.592 850.106" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-237.118 338.823L295.379 871.319" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-258.332 360.036L274.165 892.533" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-279.545 381.249L252.952 913.746" stroke="#2D63FF" stroke-dasharray="10 10" />
+        <path d="M-300.758 402.462L231.739 934.959" stroke="#2D63FF" stroke-dasharray="10 10" />
     </g>
     <rect width="190" height="190" transform="translate(293 230)" fill="white" />
     <rect width="190" height="190" transform="translate(293 230)" fill="url(#paint0_linear_50_1207)"
@@ -49,16 +49,16 @@
         fill-opacity="0.04" />
     <path
         d="M242.149 154.932V174.91H192.215C177.667 174.91 164.965 166.875 158.169 154.932C157.181 153.196 156.316 151.374 155.591 149.484C154.167 145.779 153.272 141.803 153 137.655V132.254C153.059 131.33 153.152 130.413 153.273 129.506C153.522 127.647 153.897 125.827 154.39 124.058C159.055 107.288 174.222 95 192.215 95C210.207 95 225.373 107.288 230.038 124.058H208.687C205.182 118.591 199.115 114.977 192.215 114.977C185.315 114.977 179.248 118.591 175.743 124.058C174.674 125.72 173.846 127.552 173.302 129.506C172.82 131.239 172.563 133.066 172.563 134.955C172.563 140.681 174.932 145.842 178.73 149.484C182.249 152.864 186.995 154.932 192.215 154.932H242.149Z"
-        fill="#FD366E" />
+        fill="#2D63FF" />
     <path
         d="M242.149 129.506V149.484H205.7C209.498 145.842 211.867 140.681 211.867 134.955C211.867 133.066 211.61 131.239 211.128 129.506H242.149Z"
-        fill="#FD366E" />
-    <path d="M102 450L102 2" stroke="#FD366E" stroke-dasharray="10 10" />
-    <path d="M292 420L292 40" stroke="#FD366E" stroke-dasharray="10 10" />
-    <path d="M483 450L483 2" stroke="#FD366E" stroke-dasharray="10 10" />
-    <path d="M1.03712e-05 39.9999L584 40" stroke="#FD366E" stroke-dasharray="10 10" />
-    <path d="M1.03712e-05 230L584 230" stroke="#FD366E" stroke-dasharray="10 10" />
-    <path d="M1.03712e-05 420L584 420" stroke="#FD366E" stroke-dasharray="10 10" />
+        fill="#2D63FF" />
+    <path d="M102 450L102 2" stroke="#2D63FF" stroke-dasharray="10 10" />
+    <path d="M292 420L292 40" stroke="#2D63FF" stroke-dasharray="10 10" />
+    <path d="M483 450L483 2" stroke="#2D63FF" stroke-dasharray="10 10" />
+    <path d="M1.03712e-05 39.9999L584 40" stroke="#2D63FF" stroke-dasharray="10 10" />
+    <path d="M1.03712e-05 230L584 230" stroke="#2D63FF" stroke-dasharray="10 10" />
+    <path d="M1.03712e-05 420L584 420" stroke="#2D63FF" stroke-dasharray="10 10" />
     <defs>
         <pattern id="pattern0_50_1207" patternContentUnits="objectBoundingBox" width="1" height="1">
             <use xlink:href="#image0_50_1207"
@@ -66,13 +66,13 @@
         </pattern>
         <linearGradient id="paint0_linear_50_1207" x1="95" y1="190" x2="95" y2="0"
             gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FD366E" />
-            <stop offset="1" stop-color="#FD366E" stop-opacity="0" />
+            <stop stop-color="#2D63FF" />
+            <stop offset="1" stop-color="#2D63FF" stop-opacity="0" />
         </linearGradient>
         <linearGradient id="paint1_linear_50_1207" x1="95" y1="190" x2="95" y2="0"
             gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FD366E" />
-            <stop offset="1" stop-color="#FD366E" stop-opacity="0" />
+            <stop stop-color="#2D63FF" />
+            <stop offset="1" stop-color="#2D63FF" stop-opacity="0" />
         </linearGradient>
         <clipPath id="clip0_50_1207">
             <rect width="381" height="380" fill="white" transform="translate(102 40)" />

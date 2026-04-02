@@ -26,8 +26,8 @@ const Benefits = ({ theme = 'light', description = "You don't need to have a tea
                 <section className="flex flex-col items-start gap-x-30 md:flex-row">
                     <h2 className={cn("text-display font-aeonik-pro max-w-[700px] leading-12 text-pretty", theme === 'light' ? "text-[#19191C]" : "text-white")}>
                         Benefits of Clikkle<br />for
-                        <span className="relative ml-2">startups<span className="absolute bottom-0 left-0 h-1 w-full bg-[#FD366E]"></span></span>
-                        <span className="text-[#FD366E]">_</span>
+                        <span className="relative ml-2">startups<span className="absolute bottom-0 left-0 h-1 w-full bg-[#2D63FF]"></span></span>
+                        <span className="text-[#2D63FF]">_</span>
                     </h2>
                     <p className={cn("mt-4 max-w-xl font-medium text-lg", theme === 'light' ? "text-[#434347]" : "text-white/60")}>
                         {description}
@@ -194,7 +194,7 @@ const StartupPartnerCTA = () => (
         <div className="container px-4 md:px-6 relative z-10">
             <div className="mx-auto flex flex-col items-center justify-center text-center">
                 <h2 className="font-aeonik-pro text-display md:text-5xl lg:text-6xl mb-4 px-2 text-white">
-                    Become a startup partner<span className="text-[#FD366E]">_</span>
+                    Become a startup partner<span className="text-[#2D63FF]">_</span>
                 </h2>
                 <p className="text-lg md:text-xl text-white/60 mb-8 max-w-[572px] leading-relaxed">
                     Clikkle partners with venture capital firms and startup accelerators to provide

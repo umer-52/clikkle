@@ -11,18 +11,18 @@
     <path d="M1455.82 0L1455.82 1080" stroke="url(#paint9_linear_429_5695)" />
     <path d="M1612.91 0L1612.91 1080" stroke="url(#paint10_linear_429_5695)" />
     <path d="M1770 0L1770 1080" stroke="url(#paint11_linear_429_5695)" />
-    <path opacity="0.48" d="M1387 0L1387 1080" stroke="#FD366E" />
+    <path opacity="0.48" d="M1387 0L1387 1080" stroke="#2D63FF" />
     <g filter="url(#filter0_b_429_5695)">
         <rect x="12" y="144" width="187" height="64" rx="8" fill="url(#paint12_linear_429_5695)" fill-opacity="0.12" />
         <rect x="12.5" y="144.5" width="186" height="63" rx="7.5" stroke="url(#paint13_linear_429_5695)" />
     </g>
     <g filter="url(#filter1_b_429_5695)">
-        <rect x="231" y="144" width="282" height="64" rx="8" fill="#FD366E" fill-opacity="0.04" />
+        <rect x="231" y="144" width="282" height="64" rx="8" fill="#2D63FF" fill-opacity="0.04" />
         <rect x="231.5" y="144.5" width="281" height="63" rx="7.5" stroke="url(#paint14_linear_429_5695)"
             stroke-opacity="0.16" />
     </g>
     <g filter="url(#filter2_b_429_5695)">
-        <rect x="1534" y="144" width="282" height="64" rx="8" fill="#FD366E" fill-opacity="0.04" />
+        <rect x="1534" y="144" width="282" height="64" rx="8" fill="#2D63FF" fill-opacity="0.04" />
         <rect x="1534.5" y="144.5" width="281" height="63" rx="7.5" stroke="url(#paint15_linear_429_5695)"
             stroke-opacity="0.16" />
     </g>
@@ -54,7 +54,7 @@
         <rect x="1645.5" y="528.5" width="279" height="63" rx="7.5" stroke="url(#paint27_linear_429_5695)" />
     </g>
     <g filter="url(#filter9_b_429_5695)">
-        <rect x="12" y="432" width="501" height="64" rx="8" fill="#FD366E" fill-opacity="0.04" />
+        <rect x="12" y="432" width="501" height="64" rx="8" fill="#2D63FF" fill-opacity="0.04" />
         <rect x="12.5" y="432.5" width="500" height="63" rx="7.5" stroke="url(#paint28_linear_429_5695)"
             stroke-opacity="0.16" />
     </g>
@@ -214,13 +214,13 @@
         </linearGradient>
         <linearGradient id="paint14_linear_429_5695" x1="372" y1="144" x2="372" y2="248.381"
             gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FD366E" />
-            <stop offset="1" stop-color="#FD366E" stop-opacity="0" />
+            <stop stop-color="#2D63FF" />
+            <stop offset="1" stop-color="#2D63FF" stop-opacity="0" />
         </linearGradient>
         <linearGradient id="paint15_linear_429_5695" x1="1675" y1="144" x2="1675" y2="248.381"
             gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FD366E" />
-            <stop offset="1" stop-color="#FD366E" stop-opacity="0" />
+            <stop stop-color="#2D63FF" />
+            <stop offset="1" stop-color="#2D63FF" stop-opacity="0" />
         </linearGradient>
         <linearGradient id="paint16_linear_429_5695" x1="244.347" y1="340.434" x2="262.219" y2="453.349"
             gradientUnits="userSpaceOnUse">
@@ -284,8 +284,8 @@
         </linearGradient>
         <linearGradient id="paint28_linear_429_5695" x1="262.5" y1="432" x2="262.5" y2="536.381"
             gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FD366E" />
-            <stop offset="1" stop-color="#FD366E" stop-opacity="0" />
+            <stop stop-color="#2D63FF" />
+            <stop offset="1" stop-color="#2D63FF" stop-opacity="0" />
         </linearGradient>
         <linearGradient id="paint29_linear_429_5695" x1="1361.66" y1="232.434" x2="1374.55" y2="346.725"
             gradientUnits="userSpaceOnUse">

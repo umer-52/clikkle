@@ -107,7 +107,7 @@ export function UseCasesOpenSource() {
 
                             <div className="-mr-2 h-px w-24 flex-1 bg-gradient-to-r from-black/10 to-[#2D63FF] z-0"></div>
 
-                            <div className="flex size-14 items-center justify-center rounded-lg border border-[#2D63FF] bg-white shadow-[0px_0px_8px_rgba(253,_54,_110,_0.24)] z-10 backdrop-blur-md">
+                            <div className="flex size-14 items-center justify-center rounded-lg border border-[#2D63FF] bg-white shadow-[0px_0px_8px_rgba(45,_99,_255,_0.24)] z-10 backdrop-blur-md">
                                 <Image
                                     src="/clikkle/images/logos/logo.svg"
                                     alt="Clikkle Logo"

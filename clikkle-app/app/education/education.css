@@ -28,8 +28,8 @@
     height: var(--height);
     background: linear-gradient(
         to right,
-        var(--color-accent, #FD366E),
-        var(--color-accent, #FD366E) 50%,
+        var(--color-accent, #2D63FF),
+        var(--color-accent, #2D63FF) 50%,
         transparent 0,
         transparent
     );
@@ -51,8 +51,8 @@
     top: calc(var(--y-offset) / 2 * -1);
     background: linear-gradient(
         to bottom,
-        var(--color-accent, #FD366E),
-        var(--color-accent, #FD366E) 50%,
+        var(--color-accent, #2D63FF),
+        var(--color-accent, #2D63FF) 50%,
         transparent 0,
         transparent
     );

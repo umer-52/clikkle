@@ -201,7 +201,7 @@ const FAQ = () => {
                     {items.map((item, i) => (
                         <li key={i} className="w-full">
                             <button className="flex w-full items-center justify-between gap-4 py-6 md:py-8 text-left group" onClick={() => setOpenIndex(openIndex === i ? null : i)}>
-                                <span className="text-lg md:text-xl font-aeonik-pro text-[#19191C] transition-colors group-hover:text-[#FD366E]">
+                                <span className="text-lg md:text-xl font-aeonik-pro text-[#19191C] transition-colors group-hover:text-[#2D63FF]">
                                     {item.question}
                                 </span>
                                 <div className={cn("text-[#19191C] transform transition-transform duration-300", openIndex === i ? 'rotate-180' : '')}>

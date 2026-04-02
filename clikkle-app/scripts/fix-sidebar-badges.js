@@ -17,7 +17,7 @@ files.forEach(f => {
   // Replace the item label rendering to include New badge
   content = content.replace(
     '                      {item.label}\n',
-    '                      {item.label}\n                      {item.new ? <span className="ml-1.5 rounded-full bg-[#FD366E]/10 px-1.5 py-0.5 text-[10px] font-semibold text-[#FD366E]">New</span> : null}\n'
+    '                      {item.label}\n                      {item.new ? <span className="ml-1.5 rounded-full bg-[#2D63FF]/10 px-1.5 py-0.5 text-[10px] font-semibold text-[#2D63FF]">New</span> : null}\n'
   );
 
   fs.writeFileSync(fp, content);

@@ -78,11 +78,11 @@ const Hero = () => (
             <div className="flex max-w-lg flex-col gap-8 text-center md:text-left">
                 <div className="flex items-center justify-center md:justify-start gap-2">
                     <span className="font-aeonik-fono tracking-loose text-sm font-bold uppercase text-white">
-                        Partners Program<span className="text-[#FD366E]">_</span>
+                        Partners Program<span className="text-[#2D63FF]">_</span>
                     </span>
                 </div>
                 <h1 className="font-aeonik-pro text-display md:text-5xl lg:text-6xl text-white text-pretty leading-tight">
-                    Boost businesses with Clikkle<span className="text-[#FD366E]">_</span>
+                    Boost businesses with Clikkle<span className="text-[#2D63FF]">_</span>
                 </h1>
                 <p className="text-white/60 text-lg md:text-xl font-medium text-pretty leading-relaxed">
                     Join the Clikkle Partners program and grow your business. Deliver powerful
@@ -128,7 +128,7 @@ const Ways = () => {
             <div className="grid grid-cols-1 gap-8 md:grid-cols-2 max-w-6xl mx-auto">
                 {items.map((item, idx) => (
                     <div key={idx} className="flex flex-col gap-5 p-8 md:p-10 rounded-3xl bg-white shadow-sm border border-black/5 relative overflow-hidden group hover:shadow-md transition-shadow">
-                        <div className="absolute -top-40 -left-40 w-80 h-80 bg-[#FD366E]/5 rounded-full blur-3xl group-hover:bg-[#FD366E]/10 transition-colors pointer-events-none" />
+                        <div className="absolute -top-40 -left-40 w-80 h-80 bg-[#2D63FF]/5 rounded-full blur-3xl group-hover:bg-[#2D63FF]/10 transition-colors pointer-events-none" />
                         <h2 className="text-[#19191C] font-aeonik-pro text-2xl font-medium relative z-10">{item.title}</h2>
                         <p className="text-[#434347] text-lg font-medium leading-relaxed mb-4 relative z-10">{item.description}</p>
                         <Button variant="outline" className="mt-auto w-fit relative z-10">
@@ -161,7 +161,7 @@ const Benefits = () => {
         <div className="bg-[#19191C] text-white">
             <div className="flex flex-col items-center border-b border-dashed border-white/10 py-16 md:py-24">
                 <div className="mb-16 flex flex-col gap-3 text-center px-4">
-                    <span className="font-aeonik-fono text-sm font-bold uppercase tracking-widest text-[#FD366E]">
+                    <span className="font-aeonik-fono text-sm font-bold uppercase tracking-widest text-[#2D63FF]">
                         Benefits<span className="text-white">_</span>
                     </span>
                     <h2 className="font-aeonik-pro text-display md:text-5xl lg:text-[40px]">Growing together</h2>
@@ -322,7 +322,7 @@ const SubmissionForm = () => {
                         <ul className="space-y-4 mt-4 mx-auto md:mx-0 text-left">
                             {list.map((item, i) => (
                                 <li key={i} className="flex items-start gap-4 text-white text-lg font-medium">
-                                    <span className="mt-1 flex items-center justify-center size-6 rounded-full bg-[#FD366E]/20 text-[#FD366E]">
+                                    <span className="mt-1 flex items-center justify-center size-6 rounded-full bg-[#2D63FF]/20 text-[#2D63FF]">
                                         <Check className="w-4 h-4" />
                                     </span>
                                     {item}
@@ -335,27 +335,27 @@ const SubmissionForm = () => {
                         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-medium text-[#19191C]">Full name</label>
-                                <input required className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#FD366E] focus:ring-1 focus:ring-[#FD366E] outline-none transition-all" 
+                                <input required className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#2D63FF] focus:ring-1 focus:ring-[#2D63FF] outline-none transition-all" 
                                     type="text" placeholder="Walter O'Brien" value={name} onChange={e => setName(e.target.value)} />
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-medium text-[#19191C]">Email address</label>
-                                <input required className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#FD366E] focus:ring-1 focus:ring-[#FD366E] outline-none transition-all" 
+                                <input required className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#2D63FF] focus:ring-1 focus:ring-[#2D63FF] outline-none transition-all" 
                                     type="email" placeholder="walter@company.com" value={email} onChange={e => setEmail(e.target.value)} />
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-medium text-[#19191C]">Company name</label>
-                                <input required className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#FD366E] focus:ring-1 focus:ring-[#FD366E] outline-none transition-all" 
+                                <input required className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#2D63FF] focus:ring-1 focus:ring-[#2D63FF] outline-none transition-all" 
                                     type="text" placeholder="Acme Inc." value={companyName} onChange={e => setCompanyName(e.target.value)} />
                             </div>
                             <div className="flex flex-col gap-2">
                                 <label className="text-sm font-medium text-[#19191C]">Company URL</label>
-                                <input className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#FD366E] focus:ring-1 focus:ring-[#FD366E] outline-none transition-all" 
+                                <input className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#2D63FF] focus:ring-1 focus:ring-[#2D63FF] outline-none transition-all" 
                                     type="url" placeholder="https://" value={companyUrl} onChange={e => setCompanyUrl(e.target.value)} />
                             </div>
                             <div className="flex flex-col gap-2 sm:col-span-2">
                                 <label className="text-sm font-medium text-[#19191C]">Any other details you'd like to share?</label>
-                                <textarea required className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#FD366E] focus:ring-1 focus:ring-[#FD366E] outline-none transition-all min-h-[120px] resize-none" 
+                                <textarea required className="w-full px-4 py-3 rounded-xl border border-black/10 focus:border-[#2D63FF] focus:ring-1 focus:ring-[#2D63FF] outline-none transition-all min-h-[120px] resize-none" 
                                     placeholder="Your message..." value={message} onChange={e => setMessage(e.target.value)} />
                             </div>
                         </div>
