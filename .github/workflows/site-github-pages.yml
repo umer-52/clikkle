@@ -1,10 +1,14 @@
-# Publishes the SvelteKit static site (repo root) to GitHub Pages at /<repo>/ (BASE_PATH=/clikkle).
+# Builds the SvelteKit static site and pushes it to the `gh-pages` branch.
+# Works even if GitHub Pages was previously unpublished (no GitHub Actions "Pages" artifact deploy).
 #
-# Repo settings required (one-time):
-#   Settings → Pages → Build and deployment → Source: GitHub Actions
-# If Source is still "Deploy from a branch", Actions uploads are ignored and the site stays old.
+# After the first successful run:
+#   Settings → Pages → Build and deployment → Source: Deploy from a branch
+#   Branch: gh-pages  /  Folder: / (root)
+#
+# Repo → Settings → Actions → General → Workflow permissions:
+#   enable "Read and write permissions" (required for GITHUB_TOKEN to push gh-pages).
 
-name: Publish to GitHub Pages
+name: Site — build and publish to gh-pages
 
 on:
   push:
@@ -12,18 +16,18 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
-  group: pages-clikkle
+  group: site-gh-pages
   cancel-in-progress: true
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
+    env:
+      NODE_OPTIONS: --max-old-space-size=8192
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -56,23 +60,18 @@ jobs:
       - name: Build static site
         env:
           BASE_PATH: /clikkle
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run build
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Publish to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: build/
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          publish_branch: gh-pages
+          force_orphan: true
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Live URL hint
+        run: |
+          echo "If Pages source is set to branch gh-pages (folder /), site:"
+          echo "  https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"

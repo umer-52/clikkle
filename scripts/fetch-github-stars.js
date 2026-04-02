@@ -4,8 +4,12 @@ const outFile = 'src/lib/generated/github-stars.json';
 
 async function run() {
     try {
+        const headers = { Accept: 'application/vnd.github+json' };
+        if (process.env.GITHUB_TOKEN) {
+            headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+        }
         const res = await fetch('https://api.github.com/repos/appwrite/appwrite', {
-            headers: { Accept: 'application/vnd.github+json' }
+            headers
         });
         if (!res.ok) {
             throw new Error(`GitHub API request failed: ${res.status} ${res.statusText}`);
