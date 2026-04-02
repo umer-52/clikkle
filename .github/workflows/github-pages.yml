@@ -1,8 +1,14 @@
-name: Deploy to GitHub Pages
+# Publishes the SvelteKit static site (repo root) to GitHub Pages at /<repo>/ (BASE_PATH=/clikkle).
+#
+# Repo settings required (one-time):
+#   Settings → Pages → Build and deployment → Source: GitHub Actions
+# If Source is still "Deploy from a branch", Actions uploads are ignored and the site stays old.
+
+name: Publish to GitHub Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -11,22 +17,23 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: pages-clikkle
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          
-      - name: Create .env
+
+      - name: Create .env for CI build
         run: |
           echo "PUBLIC_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1" > .env
           echo "PUBLIC_APPWRITE_DASHBOARD=https://cloud.appwrite.io" >> .env
@@ -46,25 +53,25 @@ jobs:
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Build SvelteKit output
+      - name: Build static site
         env:
           BASE_PATH: /clikkle
         run: npm run build
 
-      - name: Setup Pages
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: build/
 
   deploy:
+    needs: build
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
