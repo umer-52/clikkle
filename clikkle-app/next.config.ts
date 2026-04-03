@@ -16,6 +16,12 @@ const nextConfig: NextConfig = {
         basePath: false,
         permanent: false,
       },
+      /* Appwrite `logo-list.svelte` href; site uses `/customers` instead of blog category */
+      {
+        source: "/blog/category/customer-stories",
+        destination: "/customers",
+        permanent: false,
+      },
     ];
   },
 };

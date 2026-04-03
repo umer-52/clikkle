@@ -26,7 +26,7 @@ export function BentoDatabases() {
       <div className="space-y-3 px-3 pt-2 pb-4">
         <div className="flex items-center gap-2">
           <img loading="lazy" src="/clikkle/images/icons/illustrated/dark/databases.png" alt="Databases icon" width={28} height={28} className="size-7" />
-          <h3 className="font-aeonik-pro text-label text-primary scroll-mt-20">Databases</h3>
+          <h3 className="font-aeonik-pro text-label text-primary">Databases</h3>
         </div>
         <p className="text-sub-body text-primary max-w-lg font-medium">
           Scalable and robust databases <span className="text-secondary">backed by your favorite technologies.</span>

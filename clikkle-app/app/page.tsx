@@ -4,7 +4,6 @@ import { LogosBar } from "@/components/logos-bar";
 import { ProductShowcase } from "@/components/product-showcase";
 import { Pullquote } from "@/components/pullquote";
 import { AIWorkflows } from "@/components/ai-workflows";
-import { CustomerStories } from "@/components/customer-stories";
 import { SecurityFeatures } from "@/components/security-features";
 import { NetworkMap } from "@/components/network-map";
 import { ScaleSection } from "@/components/scale-section";
@@ -17,7 +16,7 @@ export default function Home() {
     <main>
       {/* 1. Hero — matches hero.svelte */}
       <HeroSection
-        title="Built for the first soloClikk_"
+        title="Built for the first soloClikk"
         subtitle="All-in-one, open-source infrastructure. Build in minutes, bring any framework, and scale affordably. Auth, Database, Storage, Functions, Realtime, Messaging & Hosting included."
       />
 
@@ -46,25 +45,20 @@ export default function Home() {
       {/* 6. AI — matches ai.svelte */}
       <AIWorkflows />
 
-      {/* Customer Stories */}
-      <CustomerStories />
-
-      {/* 7. Security Features — matches features.svelte */}
+      {/* 7–8. Light band — features.svelte + network-map.svelte (live marketing parity) */}
       <SecurityFeatures />
-
-      {/* 8. Network Map — matches network-map.svelte */}
       <NetworkMap />
 
-      {/* 9. Scale Metrics — matches scale.svelte */}
+      {/* 9. Scale / stats — scale.svelte (staggered KPIs + testimonial) */}
       <ScaleSection />
 
       {/* 10. Pricing — matches pricing.svelte */}
       <PricingSection />
 
-      {/* 8. Bottom CTA — matches marketing-bottom-cta.svelte */}
+      {/* 11. Bottom CTA — matches marketing-bottom-cta.svelte */}
       <MarketingBottomCta />
 
-      {/* 9. Footer — matches FooterNav + MainFooter */}
+      {/* 12. Footer — matches FooterNav + MainFooter */}
       <SiteFooter />
     </main>
   );

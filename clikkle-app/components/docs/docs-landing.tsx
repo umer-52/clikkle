@@ -418,43 +418,32 @@ export function DocsLandingContent() {
 
       <section className="mt-12 flex flex-wrap gap-4">
         {platforms.map((p) => {
-          const light = "lightFile" in p ? p.lightFile : undefined;
+          const light = "lightFile" in p ? p.lightFile : p.file;
           return (
             <Link
               key={p.href}
               href={p.href}
-              className="flex h-10 w-10 items-center justify-center rounded-lg border border-[var(--color-border-subtle)] bg-[var(--bg-secondary)] text-tertiary transition-colors hover:border-[var(--color-border-strong)]"
+              className="group flex h-10 w-10 items-center justify-center rounded-lg border border-[var(--color-border-subtle)] bg-[var(--bg-secondary)] text-tertiary transition-colors hover:border-[var(--color-border-strong)]"
               title={p.name}
             >
-              {light ? (
-                <>
-                  <img
-                    src={`/clikkle/images/platforms/dark/${p.file}.svg`}
-                    alt=""
-                    width={24}
-                    height={24}
-                    loading="lazy"
-                    className="web-u-only-dark opacity-50"
-                  />
-                  <img
-                    src={`/clikkle/images/platforms/light/${light}.svg`}
-                    alt=""
-                    width={24}
-                    height={24}
-                    loading="lazy"
-                    className="web-u-only-light opacity-50"
-                  />
-                </>
-              ) : (
+              <>
                 <img
                   src={`/clikkle/images/platforms/dark/${p.file}.svg`}
                   alt=""
                   width={24}
                   height={24}
                   loading="lazy"
-                  className="opacity-50"
+                  className="web-u-only-dark grayscale transition-all duration-300 group-hover:grayscale-0"
                 />
-              )}
+                <img
+                  src={`/clikkle/images/platforms/light/${light}.svg`}
+                  alt=""
+                  width={24}
+                  height={24}
+                  loading="lazy"
+                  className="web-u-only-light grayscale transition-all duration-300 group-hover:grayscale-0"
+                />
+              </>
             </Link>
           );
         })}

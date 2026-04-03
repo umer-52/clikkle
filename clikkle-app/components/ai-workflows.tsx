@@ -1,6 +1,7 @@
 "use client";
 
 import { cn } from "@/lib/utils";
+import React from "react";
 import { McpAnimation } from "./ai-animations/mcp";
 import { SkillsAnimation } from "./ai-animations/skills";
 import { AiTable } from "./ai-table";
@@ -15,6 +16,19 @@ const tools = [
 ];
 
 export function AIWorkflows() {
+  const [activeMobileIndex, setActiveMobileIndex] = React.useState<number>(-1);
+  const mobileStripRef = React.useRef<HTMLDivElement>(null);
+
+  React.useEffect(() => {
+    const onDocumentClick = (e: MouseEvent) => {
+      if (!mobileStripRef.current?.contains(e.target as Node)) {
+        setActiveMobileIndex(-1);
+      }
+    };
+    document.addEventListener("click", onDocumentClick);
+    return () => document.removeEventListener("click", onDocumentClick);
+  }, []);
+
   return (
     <div className="border-smooth border-t pb-16">
       <div className="container pt-20 pb-0">
@@ -50,33 +64,90 @@ export function AIWorkflows() {
       {/* Ecosystem strip */}
       <div className="border-smooth border-y border-dashed">
         <div className="container">
-          <div className="flex overflow-clip">
-            {tools.map((tool, i) => (
-              <div
-                key={tool.name}
-                className={cn(
-                  "border-smooth group relative flex h-16 w-full items-center justify-center border-r border-dashed",
-                  { "border-l": i === 0 }
-                )}
-                style={{ "--primary-color": tool.primary } as React.CSSProperties}
-                title={tool.name}
-              >
-                <div 
-                  className="z-10 h-9 w-9 bg-white/40 transition-colors duration-500 group-hover:bg-[var(--primary-color)]"
-                  style={{
-                    maskImage: `url('${tool.src}')`,
-                    WebkitMaskImage: `url('${tool.src}')`,
-                    maskSize: "contain",
-                    WebkitMaskSize: "contain",
-                    maskRepeat: "no-repeat",
-                    WebkitMaskRepeat: "no-repeat",
-                    maskPosition: "center",
-                    WebkitMaskPosition: "center"
-                  }}
-                ></div>
-                <div className="absolute inset-0 bg-gradient-to-tl from-[var(--primary-color)]/5 to-transparent opacity-0 transition-opacity group-hover:opacity-100"></div>
-              </div>
-            ))}
+          <div className="hidden sm:block">
+            <div className="flex overflow-clip">
+              {tools.map((tool, i) => (
+                <div
+                  key={tool.name}
+                  className={cn(
+                    "border-smooth group relative flex h-16 w-full items-center justify-center border-r border-dashed",
+                    { "border-l": i === 0 }
+                  )}
+                  style={{ "--primary-color": tool.primary } as React.CSSProperties}
+                >
+                  <div
+                    className="z-10 h-9 w-9 bg-white/40 transition-colors duration-500 group-hover:bg-[var(--primary-color)]"
+                    style={{
+                      maskImage: `url('${tool.src}')`,
+                      WebkitMaskImage: `url('${tool.src}')`,
+                      maskSize: "contain",
+                      WebkitMaskSize: "contain",
+                      maskRepeat: "no-repeat",
+                      WebkitMaskRepeat: "no-repeat",
+                      maskPosition: "center",
+                      WebkitMaskPosition: "center",
+                    }}
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-tl from-[var(--primary-color)]/5 to-transparent opacity-0 transition-opacity group-hover:opacity-100" />
+                  <span
+                    className="text-primary pointer-events-none absolute top-full z-10 mt-2 hidden whitespace-nowrap rounded-md bg-[#EDEDF0] px-2.5 py-1 text-sm md:block dark:bg-[var(--color-greyscale-900)]"
+                    role="tooltip"
+                  >
+                    {tool.name}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div ref={mobileStripRef} className="sm:hidden">
+            <div className="flex">
+              {tools.map((tool, i) => {
+                const isActive = activeMobileIndex === i;
+                return (
+                  <button
+                    key={tool.name}
+                    type="button"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setActiveMobileIndex((current) => (current === i ? -1 : i));
+                    }}
+                    className={cn(
+                      "border-smooth relative flex h-16 w-full items-center justify-center border-r border-dashed",
+                      { "border-l": i === 0 }
+                    )}
+                    style={{ "--primary-color": tool.primary } as React.CSSProperties}
+                  >
+                    <div
+                      className={cn("h-9 w-9 transition-colors duration-500", isActive ? "bg-[var(--primary-color)]" : "bg-white/40")}
+                      style={{
+                        maskImage: `url('${tool.src}')`,
+                        WebkitMaskImage: `url('${tool.src}')`,
+                        maskSize: "contain",
+                        WebkitMaskSize: "contain",
+                        maskRepeat: "no-repeat",
+                        WebkitMaskRepeat: "no-repeat",
+                        maskPosition: "center",
+                        WebkitMaskPosition: "center",
+                      }}
+                    />
+                    {isActive ? (
+                      <>
+                        <div className="absolute inset-0 bg-gradient-to-tl from-[var(--primary-color)]/5 to-transparent" />
+                        <span
+                          className={cn(
+                            "text-primary absolute top-full z-10 mt-2 whitespace-nowrap rounded-md bg-[#EDEDF0] px-2.5 py-1 text-sm dark:bg-[var(--color-greyscale-900)]",
+                            i === tools.length - 1 ? "right-0" : "left-1/2 -translate-x-1/2"
+                          )}
+                        >
+                          {tool.name}
+                        </span>
+                      </>
+                    ) : null}
+                  </button>
+                );
+              })}
+            </div>
           </div>
         </div>
       </div>

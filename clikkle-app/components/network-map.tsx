@@ -1,113 +1,21 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
+import Link from "next/link";
 import { cn } from "@/lib/utils";
+import { pins, type PinSegment } from "@/components/appwrite-network/data/pins";
 
-/* ─── Pin data (ported from Appwrite source) ─── */
-const pins = {
-  "pop-locations": [
-    { lat: 39.04, lng: -77.49, city: "Ashburn", code: "ASH" },
-    { lat: 33.75, lng: -84.39, city: "Atlanta", code: "ATL" },
-    { lat: 42.36, lng: -71.06, city: "Boston", code: "BOS" },
-    { lat: 51.05, lng: -114.07, city: "Calgary", code: "CAL" },
-    { lat: 41.88, lng: -87.63, city: "Chicago", code: "CHI" },
-    { lat: 39.96, lng: -82.99, city: "Columbus", code: "COL" },
-    { lat: 32.78, lng: -96.8, city: "Dallas", code: "DAL" },
-    { lat: 39.74, lng: -104.99, city: "Denver", code: "DEN" },
-    { lat: 42.33, lng: -83.05, city: "Detroit", code: "DET" },
-    { lat: 29.76, lng: -95.37, city: "Houston", code: "HOU" },
-    { lat: 30.33, lng: -81.66, city: "Jacksonville", code: "JAX" },
-    { lat: 39.1, lng: -94.58, city: "Kansas City", code: "KC" },
-    { lat: 34.05, lng: -118.24, city: "Los Angeles", code: "LA" },
-    { lat: 25.77, lng: -80.19, city: "Miami", code: "MIA" },
-    { lat: 44.98, lng: -93.27, city: "Minneapolis", code: "MIN" },
-    { lat: 45.5, lng: -73.57, city: "Montreal", code: "MTL" },
-    { lat: 40.71, lng: -74.01, city: "New York", code: "NYC" },
-    { lat: 33.45, lng: -112.07, city: "Phoenix", code: "PHX" },
-    { lat: 45.52, lng: -122.68, city: "Portland", code: "PDX" },
-    { lat: 37.34, lng: -121.89, city: "San Jose", code: "SJ" },
-    { lat: 47.61, lng: -122.33, city: "Seattle", code: "SEA" },
-    { lat: 38.63, lng: -90.2, city: "St Louis", code: "STL" },
-    { lat: 43.65, lng: -79.38, city: "Toronto", code: "TOR" },
-    { lat: 49.28, lng: -123.12, city: "Vancouver", code: "VAN" },
-    { lat: 4.71, lng: -74.07, city: "Bogota", code: "BOG" },
-    { lat: -34.61, lng: -58.38, city: "Buenos Aires", code: "BUE" },
-    { lat: -25.43, lng: -49.27, city: "Curitiba", code: "CUR" },
-    { lat: -8.73, lng: -38.52, city: "Fortaleza", code: "FOR" },
-    { lat: -12.05, lng: -77.04, city: "Lima", code: "LIM" },
-    { lat: -23.55, lng: -46.63, city: "São Paulo", code: "SAO" },
-    { lat: -33.45, lng: -70.67, city: "Santiago", code: "SCL" },
-    { lat: -22.91, lng: -43.17, city: "Rio de Janeiro", code: "RIO" },
-    { lat: 52.37, lng: 4.89, city: "Amsterdam", code: "AMS" },
-    { lat: 55.68, lng: 12.57, city: "Copenhagen", code: "CPH" },
-    { lat: 50.85, lng: 4.35, city: "Brussels", code: "BRU" },
-    { lat: 55.35, lng: -10.26, city: "Dublin", code: "DUB" },
-    { lat: 50.11, lng: 8.68, city: "Frankfurt", code: "FRA" },
-    { lat: 60.17, lng: 24.94, city: "Helsinki", code: "HEL" },
-    { lat: 40.72, lng: -12.14, city: "Lisbon", code: "LIS" },
-    { lat: 51.51, lng: -0.13, city: "London", code: "LON" },
-    { lat: 46.42, lng: -3.7, city: "Madrid", code: "MAD" },
-    { lat: 53.48, lng: -2.24, city: "Manchester", code: "MAN" },
-    { lat: 43.3, lng: 5.37, city: "Marseille", code: "MRS" },
-    { lat: 45.46, lng: 9.19, city: "Milan", code: "MIL" },
-    { lat: 48.14, lng: 11.58, city: "Munich", code: "MUN" },
-    { lat: 62.91, lng: 8.75, city: "Oslo", code: "OSL" },
-    { lat: 38.12, lng: 13.36, city: "Palermo", code: "PAL" },
-    { lat: 48.86, lng: 2.35, city: "Paris", code: "PAR" },
-    { lat: 41.9, lng: 12.5, city: "Rome", code: "ROM" },
-    { lat: 42.7, lng: 23.32, city: "Sofia", code: "SOF" },
-    { lat: 59.33, lng: 18.07, city: "Stockholm", code: "STO" },
-    { lat: 48.21, lng: 16.37, city: "Vienna", code: "VIE" },
-    { lat: 5.56, lng: -0.2, city: "Accra", code: "ACC" },
-    { lat: -33.93, lng: 18.42, city: "Cape Town", code: "CPT" },
-    { lat: -26.2, lng: 28.05, city: "Johannesburg", code: "JHB" },
-    { lat: 13.75, lng: 100.5, city: "Bangkok", code: "BKK" },
-    { lat: 13.08, lng: 80.28, city: "Chennai", code: "CHE" },
-    { lat: 25.27, lng: 55.3, city: "Dubai", code: "DXB" },
-    { lat: 25.12, lng: 56.33, city: "Fujairah", code: "FUJ" },
-    { lat: 22.32, lng: 114.17, city: "Hong Kong", code: "HK" },
-    { lat: 17.38, lng: 78.48, city: "Hyderabad", code: "HYD" },
-    { lat: 22.57, lng: 88.36, city: "Kolkata", code: "KOL" },
-    { lat: 3.14, lng: 101.69, city: "Kuala Lumpur", code: "KL" },
-    { lat: 14.6, lng: 120.98, city: "Manila", code: "MNL" },
-    { lat: 19.08, lng: 72.88, city: "Mumbai", code: "MUM" },
-    { lat: 28.61, lng: 77.21, city: "New Delhi", code: "DEL" },
-    { lat: 34.69, lng: 135.5, city: "Osaka", code: "OSA" },
-    { lat: 37.57, lng: 126.98, city: "Seoul", code: "SEL" },
-    { lat: 1.35, lng: 103.82, city: "Singapore", code: "SGP" },
-    { lat: 35.69, lng: 139.69, city: "Tokyo", code: "TYO" },
-    { lat: -34.93, lng: 138.6, city: "Adelaide", code: "ADL" },
-    { lat: -39.85, lng: 174.76, city: "Auckland", code: "AKL" },
-    { lat: -27.47, lng: 153.03, city: "Brisbane", code: "BNE" },
-    { lat: -37.81, lng: 144.96, city: "Melbourne", code: "MEL" },
-    { lat: -31.95, lng: 115.85, city: "Perth", code: "PER" },
-    { lat: -33.87, lng: 151.21, city: "Sydney", code: "SYD" },
-  ],
-  edges: [
-    { lat: 40.71, lng: -74.01, city: "New York", code: "NYC" },
-    { lat: 50.11, lng: 8.68, city: "Frankfurt", code: "FRA" },
-    { lat: -33.87, lng: 151.21, city: "Sydney", code: "AUS" },
-    { lat: 1.35, lng: 103.82, city: "Singapore", code: "SGP" },
-    { lat: 37.77, lng: -122.42, city: "San Francisco", code: "SFO" },
-    { lat: 12.97, lng: 77.59, city: "Bangalore", code: "BLR" },
-    { lat: 52.37, lng: 4.9, city: "Amsterdam", code: "AMS" },
-    { lat: 51.51, lng: -0.13, city: "London", code: "LON" },
-    { lat: 43.65, lng: -79.38, city: "Toronto", code: "TOR" },
-  ],
-  regions: [
-    { lat: 40.71, lng: -74.01, city: "New York", code: "NYC" },
-    { lat: 50.11, lng: 8.68, city: "Frankfurt", code: "FRA" },
-    { lat: -33.87, lng: 151.21, city: "Sydney", code: "AUS" },
-    { lat: 1.35, lng: 103.82, city: "Singapore", code: "SGP" },
-    { lat: 37.77, lng: -122.42, city: "San Francisco", code: "SFO" },
-    { lat: 12.97, lng: 77.59, city: "Bangalore", code: "BLR" },
-    { lat: 52.37, lng: 4.9, city: "Amsterdam", code: "AMS" },
-    { lat: 51.51, lng: -0.13, city: "London", code: "LON" },
-    { lat: 43.65, lng: -79.38, city: "Toronto", code: "TOR" },
-  ],
-} as const;
+const MAP_W = 150;
+const MAP_H = 75;
+const RADIUS = 0.4;
 
-type PinSegment = keyof typeof pins;
+function latLngToXY(lat: number, lng: number, w: number, h: number) {
+  const x = ((lng + 180) / 360) * w;
+  const latRad = (lat * Math.PI) / 180;
+  const mercN = Math.log(Math.tan(Math.PI / 4 + latRad / 2));
+  const y = h / 2 - (mercN / Math.PI) * (h / 2);
+  return { x, y };
+}
 
 const tabItems: { label: string; value: PinSegment; icon: React.ReactNode }[] = [
   {
@@ -160,20 +68,6 @@ const tabItems: { label: string; value: PinSegment; icon: React.ReactNode }[] = 
     ),
   },
 ];
-
-/* ─── Mercator projection ─── */
-function latLngToXY(lat: number, lng: number, w: number, h: number) {
-  const x = ((lng + 180) / 360) * w;
-  const latRad = (lat * Math.PI) / 180;
-  const mercN = Math.log(Math.tan(Math.PI / 4 + latRad / 2));
-  const y = h / 2 - (mercN / Math.PI) * (h / 2);
-  return { x, y };
-}
-
-/* ─── SVG Dotted Map using the actual library ─── */
-const MAP_W = 150;
-const MAP_H = 75;
-const RADIUS = 0.4;
 
 function DottedMapSVG({
   activeMarkers,
@@ -319,22 +213,22 @@ export function NetworkMap() {
   }, [activeTab]);
 
   return (
-    <div className="flex min-h-[100vh] flex-col items-center justify-center gap-12 bg-[#EDEDF0] py-20">
-      {/* Header */}
+    <div className="light flex min-h-[100vh] flex-col items-center justify-center gap-12 bg-[#EDEDF0] py-20">
+      {/* Header — parity with network-map.svelte */}
       <div className="flex flex-col items-center gap-4 px-4">
-        <h2 className="text-title font-aeonik-pro text-center text-[#19191c]">
-          The Clikkle Network<span className="text-[#2D63FF]">_</span>
-        </h2>
-        <p className="text-description max-w-xl text-center font-medium text-[#56565c]">
+        <h1 className="text-title font-aeonik-pro text-primary text-center">
+          The Clikkle Network<span className="text-accent">_</span>
+        </h1>
+        <p className="text-description text-secondary max-w-xl text-center font-medium">
           Pick one of our many cloud regions or edges to meet your project's
           needs and reduce latency.
         </p>
-        <a
+        <Link
           href="/the-clikkle-network"
-          className="mt-2 flex items-center justify-center rounded-lg border border-[#CDCDCF] bg-white px-6 py-2.5 text-sm font-semibold text-[#19191c] shadow-[inset_0_1px_0_rgba(255,255,255,0.9),0_2px_8px_rgba(0,0,0,0.06)] transition-colors hover:bg-[#f5f5f5]"
+          className="web-btn mt-2 rounded-lg border border-[color-mix(in_srgb,var(--color-brand-primary)_32%,transparent)] bg-[color-mix(in_srgb,var(--color-brand-primary)_9%,white)] px-6 py-2.5 text-sm font-semibold text-[var(--color-brand-primary)] shadow-none hover:bg-[color-mix(in_srgb,var(--color-brand-primary)_14%,white)]"
         >
           More about the Clikkle Network
-        </a>
+        </Link>
       </div>
 
       {/* Map */}
@@ -354,19 +248,8 @@ export function NetworkMap() {
         </div>
       </div>
 
-      {/* Bottom caption */}
-      <p className="text-center text-sm font-medium text-[#56565c] px-4">
-        Points of presence ensure &lt;50ms ping around the globe.{" "}
-        <a
-          href="/docs/products/network/cdn"
-          className="text-[#2D63FF] hover:underline"
-        >
-          Learn more about PoP Locations
-        </a>
-      </p>
-
       {/* Tabs */}
-      <div className="grid w-full max-w-xl grid-cols-3 place-content-center gap-3 rounded-lg bg-white/90 p-1 drop-shadow-md mx-4">
+      <div className="mx-4 grid w-full max-w-xl grid-cols-3 place-content-center gap-3 rounded-full bg-white/90 p-1 drop-shadow-md">
         {tabItems.map((tab) => {
           const isActive = activeTab === tab.value;
           return (
@@ -374,8 +257,8 @@ export function NetworkMap() {
               key={tab.value}
               onClick={() => setActiveTab(tab.value)}
               className={cn(
-                "text-caption flex h-8 items-center justify-center gap-1 rounded-lg border border-[#EBEBEB] font-medium transition-colors text-[#19191c]",
-                isActive && "bg-[#2D63FF]/5 border-[#2D63FF] text-[#2D63FF]"
+                "text-caption text-primary bg-smooth flex h-8 items-center justify-center gap-1 rounded-full border border-[#EBEBEB] font-medium transition-colors",
+                isActive && "border-accent bg-accent/5 text-accent"
               )}
             >
               {tab.icon}

@@ -39,7 +39,7 @@ export function LogosBar({ className, title = 'Loved by startups and world leade
         </div>
         <div className="text-center">
           <Link
-            href="/customers"
+            href="/blog/category/customer-stories"
             className="text-primary text-sm font-medium hover:underline"
           >
             Read our case studies →

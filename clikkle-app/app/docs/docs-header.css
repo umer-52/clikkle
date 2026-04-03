@@ -11,3 +11,36 @@
 .web-main-header-nav-item {
   margin: 0;
 }
+
+/* Docs header GitHub CTA should follow light/dark tokens (Appwrite parity). */
+.web-main-header .aw-github-button {
+  border-color: color-mix(in srgb, white 12%, transparent);
+  background: color-mix(in srgb, white 6%, transparent);
+  color: color-mix(in srgb, white 92%, transparent);
+}
+
+.web-main-header .aw-github-button:hover {
+  border-color: color-mix(in srgb, white 20%, transparent);
+  background: color-mix(in srgb, white 10%, transparent);
+}
+
+.web-main-header .aw-github-button .aw-github-count {
+  background: color-mix(in srgb, white 10%, transparent);
+  color: color-mix(in srgb, white 65%, transparent);
+}
+
+.light .web-main-header .aw-github-button {
+  border-color: color-mix(in srgb, var(--color-gray-900) 10%, transparent);
+  background: transparent;
+  color: var(--color-text-primary);
+}
+
+.light .web-main-header .aw-github-button:hover {
+  border-color: color-mix(in srgb, var(--color-gray-900) 16%, transparent);
+  background: color-mix(in srgb, var(--color-gray-900) 4%, transparent);
+}
+
+.light .web-main-header .aw-github-button .aw-github-count {
+  background: color-mix(in srgb, var(--color-gray-900) 8%, transparent);
+  color: color-mix(in srgb, var(--color-gray-900) 58%, transparent);
+}

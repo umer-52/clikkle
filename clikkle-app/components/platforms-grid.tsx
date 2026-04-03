@@ -5,80 +5,80 @@ import Link from "next/link";
 
 const platforms = [
   // Web Frameworks (by popularity)
-  { name: 'Next.js', dark: '/clikkle/images/icons/gradients/nextjs.svg', href: '/docs/quick-starts/nextjs', primary: '#fff' },
-  { name: 'React', dark: '/clikkle/images/icons/gradients/react.svg', href: '/docs/quick-starts/react', primary: '#53C1DE' },
-  { name: 'Vue', dark: '/clikkle/images/icons/gradients/vue.svg', href: '/docs/quick-starts/vue', primary: '#4FC08D' },
-  { name: 'Angular', dark: '/clikkle/images/icons/gradients/angular.svg', href: '/docs/quick-starts/angular', primary: '#DD0031' },
-  { name: 'Svelte', dark: '/clikkle/images/icons/gradients/svelte.svg', href: '/docs/quick-starts/sveltekit', primary: '#FF3E00' },
+  { name: 'Next.js', file: 'nextjs', href: '/docs/quick-starts/nextjs', primary: '#fff' },
+  { name: 'React', file: 'react', href: '/docs/quick-starts/react', primary: '#53C1DE' },
+  { name: 'Vue', file: 'vue', href: '/docs/quick-starts/vue', primary: '#4FC08D' },
+  { name: 'Angular', file: 'angular', href: '/docs/quick-starts/angular', primary: '#DD0031' },
+  { name: 'Svelte', file: 'svelte', href: '/docs/quick-starts/sveltekit', primary: '#FF3E00' },
   {
       name: 'TanStack Start',
-      dark: '/clikkle/images/icons/gradients/tanstack.svg',
+      file: 'tanstack',
       href: '/docs/quick-starts/tanstack-start',
       primary: '#fff'
   },
   // Mobile Frameworks
   {
       name: 'React Native',
-      dark: '/clikkle/images/icons/gradients/react-native.svg',
+      file: 'react-native',
       href: '/docs/quick-starts/react-native',
       primary: '#61DAFB'
   },
   {
       name: 'Flutter',
-      dark: '/clikkle/images/icons/gradients/flutter.svg',
+      file: 'flutter',
       href: '/docs/quick-starts/flutter',
       primary: '#00569E',
       secondary: '#47C5FB'
   },
   {
       name: 'iOS',
-      dark: '/clikkle/images/icons/gradients/apple.svg',
+      file: 'apple',
       href: '/docs/quick-starts/apple',
       primary: '#fff'
   },
-  { name: 'Android', dark: '/clikkle/images/icons/gradients/android.svg', href: '/docs/quick-starts/android', primary: '#3DDC84' },
+  { name: 'Android', file: 'android', href: '/docs/quick-starts/android', primary: '#3DDC84' },
   {
       name: 'Kotlin',
-      dark: '/clikkle/images/icons/gradients/kotlin.svg',
+      file: 'kotlin',
       href: '/docs/quick-starts/kotlin',
       primary: '#6D74E1',
       secondary: '#E1725C'
   },
   {
       name: 'Swift',
-      dark: '/clikkle/images/icons/gradients/swift.svg',
+      file: 'swift',
       href: '/docs/quick-starts/swift',
       primary: '#F88A36',
       secondary: '#FD2020'
   },
   // Backend Languages & Runtimes
-  { name: 'Node.js', dark: '/clikkle/images/icons/gradients/node.svg', href: '/docs/quick-starts/node', primary: '#8CC84B' },
+  { name: 'Node.js', file: 'nodejs', href: '/docs/quick-starts/node', primary: '#8CC84B' },
   {
       name: 'Python',
-      dark: '/clikkle/images/icons/gradients/python.svg',
+      file: 'python',
       href: '/docs/quick-starts/python',
       primary: '#F9C600',
       secondary: '#327EBD'
   },
-  { name: 'PHP', dark: '/clikkle/images/icons/gradients/php.svg', href: '/docs/quick-starts/php', primary: '#8892BF' },
+  { name: 'PHP', file: 'php', href: '/docs/quick-starts/php', primary: '#8892BF' },
   {
       name: 'Ruby',
-      dark: '/clikkle/images/icons/gradients/ruby.svg',
+      file: 'ruby',
       href: '/docs/quick-starts/ruby',
       primary: '#791C12',
       secondary: '#9E120B'
   },
-  { name: '.NET', dark: '/clikkle/images/icons/gradients/net.svg', href: '/docs/quick-starts/dotnet', primary: '#512BD4' },
-  { name: 'Go', dark: '/clikkle/images/icons/gradients/go.svg', href: '/docs/quick-starts/go', primary: '#fff' },
+  { name: '.NET', file: 'dotnet', href: '/docs/quick-starts/dotnet', primary: '#512BD4' },
+  { name: 'Go', file: 'go', href: '/docs/quick-starts/go', primary: '#fff' },
   {
       name: 'Deno',
-      dark: '/clikkle/images/icons/gradients/deno.svg',
+      file: 'deno',
       href: '/docs/quick-starts/deno',
       primary: '#fff'
   },
   {
       name: 'Dart',
-      dark: '/clikkle/images/icons/gradients/dart.svg',
+      file: 'dart',
       href: '/docs/quick-starts/dart',
       primary: '#01579B',
       secondary: '#29B6F6'
@@ -112,12 +112,13 @@ export function PlatformsGrid({ className, headline = "Designed for the tools yo
           )}
         >
           {/* Two rows for marquee on mobile; on md+ only first row (Appwrite platforms.svelte: md:hidden when i === 1) */}
+          {/* Svelte `platforms.svelte`: row i===0 is `md:hidden`, row i===1 is the desktop strip */}
           {[0, 1].map((groupIndex) => (
             <div
               key={groupIndex}
               className={cn(
                 "divide-smooth animate-scroll-x flex w-max flex-1 grow flex-nowrap divide-dashed md:w-full md:[animation:none] md:divide-x md:[animation-play-state:paused]",
-                groupIndex === 1 && "md:hidden"
+                groupIndex === 0 && "md:hidden"
               )}
             >
               {platforms.map((platform, i) => (
@@ -125,7 +126,8 @@ export function PlatformsGrid({ className, headline = "Designed for the tools yo
                   key={`${groupIndex}-${platform.name}`}
                   href={platform.href}
                   className={cn(
-                    "border-smooth animate-fade-in group relative mt-4 flex h-16 w-16 shrink-0 items-center justify-center border-dashed border-white/10 md:mt-0 md:w-full lg:border-r",
+                    /* No `shrink-0` at md+: with `md:w-full` it prevents shrinking and only the first cell fits (overflow clipped). */
+                    "border-smooth animate-fade-in group relative mt-4 flex h-16 w-16 max-md:shrink-0 items-center justify-center border-dashed border-white/10 md:mt-0 md:w-full md:shrink lg:border-r",
                     i === 0 && "lg:border-l"
                   )}
                   style={
@@ -137,7 +139,7 @@ export function PlatformsGrid({ className, headline = "Designed for the tools yo
                   }
                 >
                   <img
-                    src={platform.dark}
+                    src={`/clikkle/images/platforms/dark/${platform.file}.svg`}
                     alt={platform.name}
                     className="relative z-10 h-8 w-auto grayscale transition-all duration-500 group-hover:grayscale-0"
                     loading="lazy"

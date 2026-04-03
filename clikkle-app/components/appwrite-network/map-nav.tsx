@@ -36,29 +36,43 @@ export function MapNav({ activeSegment, onValueChange, theme = 'dark' }: MapNavP
     const activeItem = navItems.find((item) => item.value === activeSegment) || navItems[0];
 
     return (
-        <div className="flex flex-col gap-4 text-center mt-9 mb-10 w-full">
-            <div className="flex flex-col items-center justify-center gap-12 max-w-xl mx-auto w-full">
+        <div className="flex w-full flex-col gap-4 text-center md:mt-9">
+            <div className="mx-auto flex w-full max-w-xl flex-col items-center justify-center gap-12">
                 <div
                     className={cn(
-                        'relative grid w-[90%] md:w-full grid-cols-1 md:grid-cols-3 gap-3 md:gap-1 p-1 px-8 md:px-1 shadow-sm md:rounded-lg border md:border-black/5',
-                        theme === 'light' ? 'bg-white' : 'bg-[var(--bg-primary)] border-white/5'
+                        'border-smooth relative grid w-full max-w-xl grid-cols-1 place-content-center gap-3 overflow-hidden p-1 px-8 shadow-[0px_4px_8px_rgba(0,0,0,0.04)] md:grid-cols-3 md:rounded-full md:border md:px-1',
+                        theme === 'light' ? 'md:bg-white' : 'md:bg-card'
                     )}
+                    role="tablist"
+                    aria-label="Network map layers"
                 >
-                    {navItems.map((item) => {
+                    {navItems.map((item, index) => {
                         const Icon = item.icon;
                         const isActive = activeSegment === item.value;
                         return (
                             <button
                                 key={item.value}
+                                type="button"
+                                role="tab"
+                                aria-selected={isActive}
                                 onClick={() => onValueChange(item.value)}
                                 className={cn(
-                                    'flex h-10 cursor-pointer items-center justify-center gap-2 rounded-lg border border-transparent px-4 font-medium transition-colors text-sm',
-                                    isActive
-                                        ? (theme === 'light' ? 'bg-[#FE9567]/10 text-[#FE9567] border-[#FE9567]/30' : 'bg-[#FE9567]/20 text-[#FE9567] border-[#FE9567]/40')
-                                        : (theme === 'light' ? 'text-[#19191C] hover:bg-black/5' : 'text-white/70 hover:bg-white/5')
+                                    'text-caption animate-enter text-primary bg-smooth border-smooth flex h-8 cursor-pointer items-center justify-center gap-2 rounded-full border font-medium outline-0 transition-colors hover:border-white/12',
+                                    isActive &&
+                                        'border-[color-mix(in_srgb,var(--color-brand-primary)_36%,transparent)] bg-[color-mix(in_srgb,var(--color-brand-primary)_8%,transparent)] text-[var(--color-brand-primary)]',
+                                    !isActive &&
+                                        theme === 'light' &&
+                                        'text-[#19191c] hover:border-black/10'
                                 )}
+                                style={{ animationDelay: `${index * 75}ms` }}
                             >
-                                <Icon className="w-4 h-4" />
+                                <Icon
+                                    className={cn(
+                                        '-ml-2 size-4',
+                                        isActive && 'text-[var(--color-brand-primary)]',
+                                        theme === 'light' && !isActive && 'text-[#19191c]'
+                                    )}
+                                />
                                 {item.label}
                             </button>
                         );
@@ -66,15 +80,23 @@ export function MapNav({ activeSegment, onValueChange, theme = 'dark' }: MapNavP
                 </div>
             </div>
 
-            <p className={cn("px-4 text-sm font-medium mt-6 mb-2", theme === 'light' ? "text-[#434347]" : "text-white/60")}>
+            <p
+                className={cn(
+                    'text-caption text-secondary px-4',
+                    theme === 'dark' && 'text-white/70'
+                )}
+            >
                 {activeItem.description}
 
                 <Link
-                    className={cn("group mt-4 md:mt-2 mx-auto inline-flex items-center justify-center gap-1 font-semibold", theme === 'light' ? "text-[#19191C]" : "text-white")}
+                    className={cn(
+                        'text-primary group mt-2 flex items-center justify-center gap-0.5 md:hidden',
+                        theme === 'dark' && 'text-white'
+                    )}
                     href={activeItem.href}
                 >
                     Learn more about {activeItem.label}
-                    <ArrowRight className="-rotate-45 w-3 h-3 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+                    <ArrowRight className="size-4 -rotate-45 transition-all group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
                 </Link>
             </p>
         </div>

@@ -61,15 +61,15 @@ const features = [
 
 export function SecurityFeatures() {
   return (
-    <div className="bg-[#EDEDF0] pt-20 pb-12 md:pt-40">
+    <div className="light bg-[#EDEDF0] pt-20 pb-12 md:pt-40">
       <div className="container mx-auto">
         <section className="flex flex-col gap-4 lg:flex-row lg:items-baseline lg:gap-x-20">
-          <h2 className="text-title font-aeonik-pro max-w-[700px] text-3xl leading-12 text-pretty sm:text-4xl md:text-5xl text-[#19191c]">
+          <h2 className="text-title font-aeonik-pro text-primary max-w-[700px] text-3xl leading-12 text-pretty sm:text-4xl md:text-5xl">
             Safely scale with built-in
             <span className="whitespace-nowrap"> security and compliance</span>
-            <span className="text-[#2D63FF]">_</span>
+            <span className="text-accent">_</span>
           </h2>
-          <p className="text-description mt-4 max-w-full font-medium lg:max-w-xl text-[#56565c]">
+          <p className="text-description text-secondary mt-4 max-w-full font-medium lg:max-w-xl">
             With a security-first approach, we ensure your products and users
             are safe by default, making it easy for you to adhere to strict
             safety policies.
@@ -101,13 +101,13 @@ export function SecurityFeatures() {
                 width={40}
                 height={40}
                 alt="" />
-              <h3 className="mt-4 flex flex-wrap items-center gap-0.5 text-[#19191c]">
+              <h3 className="text-primary mt-4 flex flex-wrap items-center gap-0.5">
                 {box.label}
                 <ArrowRight
                   className="h-4 w-4 transition-all group-hover:translate-x-0.5 group-hover:opacity-100 group-focus:translate-x-0.5 group-focus:opacity-100 xl:opacity-0"
                 />
               </h3>
-              <p className="mt-1 text-[#56565c]">{box.description}</p>
+              <p className="text-secondary mt-1">{box.description}</p>
             </Link>
           ))}
         </div>

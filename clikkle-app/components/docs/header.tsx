@@ -69,7 +69,7 @@ export function DocsHeader({
               <li className="web-main-header-nav-item">
                 <Link
                   href="/docs"
-                  className="web-link text-[0.9375rem] font-medium text-[var(--color-text-primary)] no-underline transition-colors hover:text-[var(--color-text-secondary)] dark:text-white/90 dark:hover:text-white"
+                  className="web-link text-[0.9375rem] font-medium text-[var(--color-text-primary)] no-underline transition-colors hover:text-[var(--color-brand-primary)] focus-visible:text-[var(--color-brand-primary)] dark:text-white/90 dark:hover:text-[var(--color-brand-primary)] dark:focus-visible:text-[var(--color-brand-primary)]"
                 >
                   Docs
                 </Link>

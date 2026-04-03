@@ -17,6 +17,13 @@
   --container-max-width: 75rem;
 }
 
+/* Narrow desktop gutters for this route only, matching Appwrite pricing proportions. */
+@media (min-width: 1024px) {
+  .pricing-page-root {
+    --container-padding-inline: 2rem;
+  }
+}
+
 .web-big-padding-section.pricing-page-root {
   display: grid;
   grid-template-columns: minmax(0, 1fr);

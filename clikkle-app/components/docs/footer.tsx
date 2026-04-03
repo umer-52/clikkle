@@ -55,17 +55,17 @@ const THEME_OPTIONS: {
   {
     value: "dark",
     label: "Dark",
-    icon: <Moon size={14} className="text-white/90" strokeWidth={2} aria-hidden />,
+    icon: <Moon size={14} className="text-current" strokeWidth={2} aria-hidden />,
   },
   {
     value: "light",
     label: "Light",
-    icon: <Sun size={14} className="text-white/90" strokeWidth={2} aria-hidden />,
+    icon: <Sun size={14} className="text-current" strokeWidth={2} aria-hidden />,
   },
   {
     value: "system",
     label: "System",
-    icon: <Monitor size={14} className="text-white/90" strokeWidth={2} aria-hidden />,
+    icon: <Monitor size={14} className="text-current" strokeWidth={2} aria-hidden />,
   },
 ];
 
@@ -150,7 +150,7 @@ function DocsThemeSelect() {
       <ul
         ref={menuRef}
         role="listbox"
-        className="rounded-lg border border-white/15 bg-[#2a2a2e] py-1 shadow-2xl ring-1 ring-black/40"
+        className="docs-theme-select-menu rounded-lg border py-1 shadow-2xl ring-1"
         style={menuStyle}
       >
         {THEME_OPTIONS.map((opt) => (
@@ -158,8 +158,8 @@ function DocsThemeSelect() {
             <button
               type="button"
               className={cn(
-                "flex w-full items-center gap-2.5 px-3 py-2.5 text-left text-sm text-white/90 hover:bg-white/10",
-                theme === opt.value && "bg-white/[0.08] text-white"
+                "docs-theme-select-option flex w-full items-center gap-2.5 px-3 py-2.5 text-left text-sm",
+                theme === opt.value && "is-active"
               )}
               onClick={() => {
                 setTheme(opt.value);
@@ -186,13 +186,13 @@ function DocsThemeSelect() {
           e.stopPropagation();
           setOpen((o) => !o);
         }}
-        className="flex items-center gap-2 rounded-lg border-2 border-white/20 bg-[var(--bg-secondary)] px-3.5 py-2 text-sm font-medium text-white/90 transition-colors hover:border-white/30 hover:bg-[#252528]"
+        className="docs-theme-select-button flex items-center gap-2 rounded-lg border px-3.5 py-2 text-sm font-medium transition-colors"
       >
         {current.icon}
         <span>{current.label}</span>
         <ChevronDown
           size={16}
-          className={cn("shrink-0 text-white/50 transition-transform", open && "rotate-180")}
+          className={cn("shrink-0 transition-transform", open && "rotate-180")}
           aria-hidden
         />
       </button>

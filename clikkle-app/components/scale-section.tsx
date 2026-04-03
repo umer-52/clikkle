@@ -92,22 +92,22 @@ export function ScaleSection() {
   return (
     <div
       ref={sectionRef}
-      className="relative -mb-8 flex min-h-[700px] flex-col gap-4 bg-[#EDEDF0] pt-12 pb-20 md:pt-30 md:pb-0"
+      className="light relative -mb-8 flex min-h-[700px] flex-col gap-4 bg-[#EDEDF0] pt-12 pb-20 md:pt-30 md:pb-0"
     >
       {/* Text content */}
-      <div className="relative z-50 container w-fit md:w-full">
+      <div className="relative z-50 container mx-auto w-fit px-4 md:w-full">
         <div className="relative z-50 md:max-w-xl">
-          <h2 className="font-aeonik-pro text-title tracking-tighter text-pretty text-[#19191c]">
+          <h2 className="font-aeonik-pro text-title text-primary tracking-tighter text-pretty">
             Thousands of developers{" "}
-            <span className="text-[#56565c]">scale with Clikkle</span>
-            <span className="text-[#2D63FF]">_</span>
+            <span className="text-secondary">scale with Clikkle</span>
+            <span className="text-accent">_</span>
           </h2>
-          <p className="mt-5 border-l-2 border-[#2D63FF] pl-4 font-medium text-[#56565c] md:pr-28">
-            <span className="text-[#2D63FF]">&ldquo;</span>
+          <p className="text-secondary border-accent mt-5 border-l-2 pl-4 font-medium md:pr-28">
+            <span className="text-accent">&ldquo;</span>
             The switch to using Clikkle brought{" "}
-            <strong className="text-[#19191c]">infinite value</strong> that
-            I&apos;m still discovering today.
-            <span className="text-[#2D63FF]">&rdquo;</span>
+            <span className="text-accent font-semibold">infinite</span> value
+            that I&apos;m still discovering today.
+            <span className="text-accent">&rdquo;</span>
           </p>
 
           <div className="mt-4 ml-4 flex items-center gap-3">
@@ -118,10 +118,10 @@ export function ScaleSection() {
               width={24}
               height={24} />
             <div className="flex gap-1">
-              <span className="text-sub-body block font-medium text-[#19191c]">
+              <span className="text-sub-body text-primary block font-medium">
                 {testimonial.name},
               </span>
-              <span className="text-sub-body block font-medium text-[#56565c]">
+              <span className="text-sub-body text-secondary block font-medium">
                 {testimonial.title} at {testimonial.company}
               </span>
             </div>
@@ -134,11 +134,11 @@ export function ScaleSection() {
         {defaultStats.map((stat, i) => (
           <div key={stat.description} className="h-full pl-6">
             <div className="relative">
-              <span className="text-description relative -left-px z-10 border-l-2 border-[#2D63FF] pl-4 font-medium text-[#19191c]">
+              <span className="text-description text-primary border-accent relative -left-px z-10 border-l-2 pl-4 font-medium">
                 {animatedValues[i]}
                 {stat.suffix}
               </span>
-              <span className="text-body block pl-4 text-[#56565c]">
+              <span className="text-body text-secondary block pl-4">
                 {stat.description}
               </span>
             </div>
@@ -152,12 +152,12 @@ export function ScaleSection() {
           "animate-wipe-in": isVisible,
         })}
       >
-        <div className="relative container mx-auto h-full">
+        <div className="relative container mx-auto h-full px-4">
           <div className="absolute inset-0 z-10 grid grid-cols-4">
             {defaultStats.map((stat, i) => (
               <div
                 key={stat.description}
-                className="relative h-full border-l border-dashed border-[#CDCDCF]"
+                className="relative h-full border-l border-dashed border-greyscale-200"
               >
                 <div
                   className="absolute"
@@ -165,11 +165,11 @@ export function ScaleSection() {
                     bottom: `calc(50px + ${25 + (75 / 3) * (i / 2)}%)`,
                   }}
                 >
-                  <span className="text-description relative -left-px z-50 border-l-2 border-[#2D63FF] pl-4 font-medium text-[#19191c]">
+                  <span className="text-description text-primary border-accent relative -left-px z-50 border-l-2 pl-4 font-medium">
                     {animatedValues[i]}
                     {stat.suffix}
                   </span>
-                  <span className="text-body block pl-4 text-[#56565c]">
+                  <span className="text-body text-secondary block pl-4">
                     {stat.description}
                   </span>
                 </div>
@@ -178,16 +178,15 @@ export function ScaleSection() {
           </div>
         </div>
 
-        {/* Gradient triangle fill */}
+        {/* Gradient wedge + edge line — parity with scale.svelte */}
         <div
-          className="absolute inset-0 bg-gradient-to-tr from-[#2D63FF]/15 to-transparent"
+          className="from-accent/15 absolute inset-0 bg-gradient-to-tr to-transparent"
           style={{
             clipPath: "polygon(0 100%, 100% 25%, 100% 100%, 0 100%)",
           }}
         />
-        {/* Gradient line */}
         <div
-          className="absolute inset-0 bg-gradient-to-r from-[#2D63FF] to-transparent"
+          className="from-accent absolute inset-0 bg-gradient-to-r to-transparent"
           style={{
             clipPath: "polygon(0 100%, 100% 25%, 100% 25.1%, 0 100.1%)",
           }}

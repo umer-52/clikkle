@@ -11,6 +11,11 @@
       "source": "/pricing",
       "destination": "/clikkle/pricing",
       "permanent": false
+    },
+    {
+      "source": "/clikkle/blog/category/customer-stories",
+      "destination": "/clikkle/customers",
+      "permanent": false
     }
   ]
 }

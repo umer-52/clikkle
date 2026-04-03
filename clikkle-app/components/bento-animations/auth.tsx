@@ -12,7 +12,7 @@ export function BentoAuth() {
       <div className="space-y-3 px-3 pt-2 pb-4">
         <div className="flex items-center gap-2">
           <img loading="lazy" src="/clikkle/images/icons/illustrated/dark/auth.png" alt="Auth icon" width={28} height={28} className="size-7" />
-          <h3 className="font-aeonik-pro text-label text-primary scroll-mt-20">Auth</h3>
+          <h3 className="font-aeonik-pro text-label text-primary">Auth</h3>
         </div>
         <p className="text-sub-body text-primary max-w-lg font-medium">
           <span className="text-secondary">Authenticate users securely with multiple login methods like</span>{" "}

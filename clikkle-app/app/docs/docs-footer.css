@@ -78,3 +78,51 @@
     margin-inline-end: auto;
   }
 }
+
+/* Appwrite ThemeSelect parity in docs footer */
+.docs-theme-select-button {
+  color: var(--color-text-primary);
+  border-color: var(--color-border-default);
+  background: var(--bg-secondary);
+}
+
+.docs-theme-select-button:hover {
+  border-color: var(--color-border-strong);
+  background: var(--color-smooth);
+}
+
+.docs-theme-select-menu {
+  color: var(--color-text-primary);
+  background: var(--bg-secondary);
+  border-color: var(--web-color-border);
+}
+
+.docs-theme-select-option {
+  color: inherit;
+}
+
+.docs-theme-select-option:hover,
+.docs-theme-select-option:focus-visible,
+.docs-theme-select-option.is-active {
+  background: var(--color-smooth);
+}
+
+.dark .docs-theme-select-button {
+  border-color: color-mix(in srgb, white 10%, transparent);
+  background: color-mix(in srgb, white 8%, transparent);
+}
+
+.dark .docs-theme-select-button:hover {
+  background: color-mix(in srgb, white 12%, transparent);
+}
+
+.dark .docs-theme-select-menu {
+  background: var(--color-greyscale-850, #1c1c1e);
+  border-color: color-mix(in srgb, white 10%, transparent);
+}
+
+.dark .docs-theme-select-option:hover,
+.dark .docs-theme-select-option:focus-visible,
+.dark .docs-theme-select-option.is-active {
+  background: color-mix(in srgb, white 12%, transparent);
+}

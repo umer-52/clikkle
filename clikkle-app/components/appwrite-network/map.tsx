@@ -90,7 +90,12 @@ export function Map({ theme = 'dark', navigable = true, defaultSet = 'pop-locati
                                 onMouseOut={handleMouseOut}
                                 className="cursor-pointer"
                             >
-                                <circle cx={marker.x} cy={marker.y} r={radius * 1.25} className="fill-[#FE9567]" />
+                                <circle
+                                    cx={marker.x}
+                                    cy={marker.y}
+                                    r={radius * 1.25}
+                                    className="fill-[var(--color-brand-primary,#2d63ff)]"
+                                />
                                 <circle cx={marker.x} cy={marker.y} r={radius * 0.5} fill="white" />
                                 <circle cx={marker.x} cy={marker.y} r={radius * 4} className="fill-transparent" />
                             </g>

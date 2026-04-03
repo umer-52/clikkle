@@ -1,6 +1,7 @@
 "use client";
 
 import * as React from "react";
+import { usePathname } from "next/navigation";
 
 export type ThemeSetting = "dark" | "light" | "system";
 
@@ -61,22 +62,46 @@ function applyDom(theme: ThemeSetting) {
   applyColorScheme(theme);
 }
 
+function isDocsPathname(pathname: string): boolean {
+  return /(^|\/)docs(\/|$)/.test(pathname);
+}
+
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
+  const pathname = usePathname();
   const [theme, setThemeState] = React.useState<ThemeSetting>("dark");
   const [resolvedTheme, setResolvedTheme] = React.useState<"dark" | "light">("dark");
 
-  /* Run before paint so body matches html after init script (Svelte `applyTheme` parity). */
+  /* Read persisted preference once; route-scoped application happens below. */
   React.useLayoutEffect(() => {
     const initial = readStored();
     setThemeState(initial);
-    const resolved = initial === "system" ? getSystemTheme() : initial;
-    setResolvedTheme(resolved);
-    applyDom(initial);
   }, []);
+
+  /*
+   * Appwrite parity:
+   * - /docs routes use user-selected theme.
+   * - all non-doc routes are hard-forced to dark.
+   */
+  React.useLayoutEffect(() => {
+    const currentPath =
+      pathname ??
+      (typeof window !== "undefined" ? window.location.pathname : "/");
+    const docsRoute = isDocsPathname(currentPath);
+    const effectiveTheme: ThemeSetting = docsRoute ? theme : "dark";
+    const resolved = effectiveTheme === "system" ? getSystemTheme() : effectiveTheme;
+
+    setResolvedTheme(resolved);
+    applyDom(effectiveTheme);
+  }, [pathname, theme]);
 
   React.useEffect(() => {
     const mq = window.matchMedia("(prefers-color-scheme: dark)");
     const onChange = () => {
+      const currentPath =
+        pathname ??
+        (typeof window !== "undefined" ? window.location.pathname : "/");
+      if (!isDocsPathname(currentPath)) return;
+
       const t = readStored();
       if (t !== "system") return;
       const r = getSystemTheme();
@@ -85,7 +110,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     };
     mq.addEventListener("change", onChange);
     return () => mq.removeEventListener("change", onChange);
-  }, []);
+  }, [pathname]);
 
   const setTheme = React.useCallback((t: ThemeSetting) => {
     setThemeState(t);
@@ -96,7 +121,6 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     }
     const resolved = t === "system" ? getSystemTheme() : t;
     setResolvedTheme(resolved);
-    applyDom(t);
   }, []);
 
   const value = React.useMemo(
