@@ -1,5 +1,4 @@
 import React from 'react';
-import { Button } from '@/components/ui/button';
 import { ArrowRight } from 'lucide-react';
 import { Map } from '@/components/appwrite-network/map';
 import Link from 'next/link';
@@ -23,7 +22,7 @@ export function Network() {
 
                 <Link
                     href="/the-clikkle-network"
-                    className="group inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 py-2 bg-secondary text-secondary-foreground shadow-sm hover:bg-secondary/80"
+                    className="group box-border inline-flex min-h-9 shrink-0 items-center justify-center whitespace-nowrap rounded-[8px] px-4 py-2 text-sm font-medium leading-none transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-secondary text-secondary-foreground shadow-sm hover:bg-secondary/80 sm:px-6"
                 >
                     More about the Clikkle Network
                     <ArrowRight className="w-4 h-4 ml-2 transition-transform group-hover:translate-x-0.5" />

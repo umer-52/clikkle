@@ -225,7 +225,14 @@ export function NetworkMap() {
         </p>
         <Link
           href="/the-clikkle-network"
-          className="web-btn mt-2 rounded-lg border border-[color-mix(in_srgb,var(--color-brand-primary)_32%,transparent)] bg-[color-mix(in_srgb,var(--color-brand-primary)_9%,white)] px-6 py-2.5 text-sm font-semibold text-[var(--color-brand-primary)] shadow-none hover:bg-[color-mix(in_srgb,var(--color-brand-primary)_14%,white)]"
+          className={cn(
+            "mt-2 box-border inline-flex min-h-9 shrink-0 items-center justify-center rounded-[8px] border border-solid px-4 py-2 text-sm font-medium leading-none no-underline shadow-none transition-colors sm:px-6",
+            "border-[color-mix(in_srgb,var(--color-brand-primary)_32%,transparent)]",
+            "bg-[color-mix(in_srgb,var(--color-brand-primary)_9%,white)]",
+            "text-[var(--color-brand-primary)]",
+            "hover:bg-[color-mix(in_srgb,var(--color-brand-primary)_14%,white)]",
+            "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[color-mix(in_srgb,var(--color-brand-primary)_35%,transparent)] focus-visible:ring-offset-2 focus-visible:ring-offset-[#EDEDF0]"
+          )}
         >
           More about the Clikkle Network
         </Link>
