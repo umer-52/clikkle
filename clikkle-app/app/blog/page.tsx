@@ -139,10 +139,10 @@ export default function BlogPage() {
 
             {/* Featured article */}
             {featuredAuthor && (
-              <article className="blog-feature-article mt-12">
+              <article className="blog-feature-article mt-14 md:mt-16">
                 <Link
                   href={featuredPost.href}
-                  className="blog-feature-article-image h-fit overflow-hidden rounded-lg"
+                  className="blog-feature-article-image h-fit overflow-hidden rounded-3xl"
                 >
                   <img src={featuredPost.cover}
                     className="aspect-video transition-transform duration-250 hover:scale-102 w-full object-cover"
@@ -160,10 +160,10 @@ export default function BlogPage() {
                       </h2>
                     </Link>
                   </header>
-                  <p className="text-sub-body text-secondary mt-4">
+                  <p className="text-sub-body text-secondary">
                     {featuredPost.description}
                   </p>
-                  <div className="blog-author mt-6">
+                  <div className="blog-author">
                     <div className="flex items-center gap-2">
                       <img className="blog-author-image"
                         src={featuredAuthor.avatar}

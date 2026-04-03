@@ -8,6 +8,7 @@ import "./docs-web-layout.css";
 import "./docs-select.css";
 import "./docs-footer.css";
 import "./docs-references.css";
+import "./docs-tutorial.css";
 
 export const metadata = {
   title: "Docs - Clikkle",

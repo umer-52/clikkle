@@ -1,3 +1,4 @@
+import { stripBasePathFromPathname } from "@/lib/basepath";
 import { MAIN_DOCS_NAVIGATION } from "@/lib/docs/main-docs-navigation";
 import type { DocsLayoutVariant, NavParent, NavTree } from "@/lib/docs/nav-tree";
 import {
@@ -16,6 +17,12 @@ export type ResolvedDocsSidebar = {
   /** Appwrite `Docs` `isReferences` — main header `is-reference` */
   isReferences: boolean;
 };
+
+/** Server-side: same variant as `DocsShell` for a docs path (no basePath prefix). */
+export function resolveDocsVariantForSlug(slug: string[]): DocsLayoutVariant {
+  const pathname = slug.length ? `/docs/${slug.join("/")}` : "/docs";
+  return resolveDocsSidebar(pathname, null, Platform.ClientWeb).variant;
+}
 
 function parseReferencesSegments(pathname: string): {
   version: string;
@@ -42,10 +49,11 @@ export function resolveDocsSidebar(
   preferredVersion: string | null,
   preferredPlatform: string
 ): ResolvedDocsSidebar {
-  const expandable = isReferencesExpandablePath(pathname);
+  const pathnameNorm = stripBasePathFromPathname(pathname);
+  const expandable = isReferencesExpandablePath(pathnameNorm);
 
-  if (pathname.startsWith("/docs/references")) {
-    const fromUrl = parseReferencesSegments(pathname);
+  if (pathnameNorm.startsWith("/docs/references")) {
+    const fromUrl = parseReferencesSegments(pathnameNorm);
     const version = fromUrl?.version ?? preferredVersion ?? "cloud";
     const platform = normalizeReferencePlatform(fromUrl?.platform ?? preferredPlatform ?? Platform.ClientWeb);
     const navigation = buildReferenceNavigation(version, platform);
@@ -59,7 +67,7 @@ export function resolveDocsSidebar(
   }
 
   const section = SECTION_SIDEBAR_DEFS.find(
-    (s) => pathname === s.prefix || pathname.startsWith(`${s.prefix}/`)
+    (s) => pathnameNorm === s.prefix || pathnameNorm.startsWith(`${s.prefix}/`)
   );
   if (section) {
     return {
@@ -71,10 +79,11 @@ export function resolveDocsSidebar(
     };
   }
 
-  const isQuickStartIndex = pathname === "/docs/quick-starts" || pathname === "/docs/quick-starts/";
-  const isTutorialsIndex = pathname === "/docs/tutorials" || pathname === "/docs/tutorials/";
+  const isQuickStartIndex =
+    pathnameNorm === "/docs/quick-starts" || pathnameNorm === "/docs/quick-starts/";
+  const isTutorialsIndex = pathnameNorm === "/docs/tutorials" || pathnameNorm === "/docs/tutorials/";
 
-  if (pathname.startsWith("/docs/quick-starts/") && !isQuickStartIndex) {
+  if (pathnameNorm.startsWith("/docs/quick-starts/") && !isQuickStartIndex) {
     return {
       navigation: MAIN_DOCS_NAVIGATION,
       expandable: false,
@@ -82,7 +91,7 @@ export function resolveDocsSidebar(
       isReferences: false,
     };
   }
-  if (pathname.startsWith("/docs/tutorials/") && !isTutorialsIndex) {
+  if (pathnameNorm.startsWith("/docs/tutorials/") && !isTutorialsIndex) {
     return {
       navigation: MAIN_DOCS_NAVIGATION,
       expandable: false,
@@ -91,7 +100,7 @@ export function resolveDocsSidebar(
     };
   }
   // Appwrite sdks/+layout.svelte: Docs variant="two-side-navs" + main Sidebar.
-  if (pathname.startsWith("/docs/sdks")) {
+  if (pathnameNorm.startsWith("/docs/sdks")) {
     return {
       navigation: MAIN_DOCS_NAVIGATION,
       expandable: false,

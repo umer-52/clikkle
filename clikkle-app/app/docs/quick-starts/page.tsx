@@ -71,35 +71,35 @@ const quickStarts: QuickStartCategory[] = [
   },
 ];
 
+/** Appwrite `src/routes/docs/quick-starts/+page.svelte` */
 export default function QuickStartsPage() {
   return (
-    <article className="relative">
-      <header className="sticky top-0 z-[18] flex items-center justify-between gap-8 border-b border-offset bg-[var(--bg-primary)] pb-8 pt-10">
-        <div className="flex items-center gap-4">
-          <h1 className="text-title font-aeonik-pro text-primary">Quick start</h1>
+    <article className="web-article">
+      <header className="web-article-header">
+        <div className="web-article-header-start flex flex-col items-start">
+          <div className="relative flex items-center">
+            <h1 className="text-title m-0 font-aeonik-pro font-bold text-primary dark:text-white">
+              Quick start
+            </h1>
+          </div>
         </div>
+        <div className="web-article-header-end" />
       </header>
 
-      <div className="mt-6 flex flex-col gap-20">
+      <div className="web-article-content web-u-gap-80">
         {quickStarts.map((category) => (
           <section key={category.title} className="flex flex-col gap-6">
             <h2 className="text-eyebrow font-aeonik-fono uppercase tracking-loose text-tertiary">
               {category.title}
             </h2>
 
-            <ul className="grid grid-cols-2 gap-5 md:grid-cols-4">
+            <ul className="web-grid-row-4 web-grid-row-4-mobile-2">
               {category.quickStarts.map((qs) => (
-                <li key={qs.title} className="col-span-2 md:col-span-1">
-                  <Link
-                    href={qs.href}
-                    className="group flex min-h-full flex-col gap-1 rounded-2xl border border-offset bg-card p-5 transition-all hover:bg-smooth"
-                  >
+                <li key={qs.title} className="is-mobile-col-span-2">
+                  <Link href={qs.href} className="web-card is-normal no-underline">
                     <header className="flex items-center gap-3">
-                      <span
-                        className={`${qs.icon} docs-card-icon text-primary`}
-                        aria-hidden
-                      />
-                      <h4 className="text-[14px] font-medium leading-[1.2] text-primary">
+                      <span className={`${qs.icon} docs-card-icon text-primary`} aria-hidden />
+                      <h4 className="m-0 text-[0.875rem] font-medium leading-[1.2] text-primary dark:text-white">
                         {qs.title}
                       </h4>
                     </header>

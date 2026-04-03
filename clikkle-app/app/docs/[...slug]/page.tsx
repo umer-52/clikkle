@@ -1,4 +1,9 @@
-import { getDocBySlug, getAllDocSlugs, getTutorialSteps } from "@/lib/docs";
+import {
+  getDocBySlug,
+  getAllDocSlugs,
+  getTutorialSeriesTitle,
+  getTutorialStepsFull,
+} from "@/lib/docs";
 import { ReferenceServicePage } from "@/components/references/reference-service-page";
 import { loadReferenceServicePageData } from "@/lib/references/load-reference-service";
 import { isReferenceServiceSlug } from "@/lib/references/reference-slug";
@@ -11,9 +16,15 @@ import { ArrowRight, ChevronLeft } from "lucide-react";
 import { notFound, redirect } from "next/navigation";
 import { Tabs, TabsItem } from "@/components/docs/tabs";
 import { OnlyDark, OnlyLight, Section } from "@/components/docs/markdoc-ui";
-import { TutorialLayout } from "@/components/docs/tutorial-layout";
+import { DocsTutorialView } from "@/components/docs/docs-tutorial-view";
+import { TutorialHeadingsProvider } from "@/components/docs/tutorial-headings-context";
+import { TutorialCodeProvider } from "@/components/markdoc/tutorial-code-context";
 import { AiPromptBox } from "@/components/docs/ai-prompt-box";
+import { DocsOnThisPage } from "@/components/docs/docs-on-this-page";
 import { DocsProse } from "@/components/docs/docs-prose";
+import { getDocsProseSurfaceClasses } from "@/lib/docs-prose-surface-classes";
+import { resolveDocsVariantForSlug } from "@/lib/docs/resolve-docs-sidebar";
+import { cn } from "@/lib/utils";
 import { MultiCode } from "@/components/markdoc/multi-code";
 import { MarkdocFence } from "@/components/markdoc/markdoc-fence";
 import { DocsHeading } from "@/components/markdoc/docs-heading";
@@ -124,7 +135,9 @@ const components = {
   List: DocsList,
   DocsTable,
   Table: ({ children }: { children: React.ReactNode }) => <DocsTable>{children}</DocsTable>,
-  Width: ({ children }: { children: React.ReactNode }) => <div className="w-full">{children}</div>,
+  Width: ({ children }: { children: React.ReactNode }) => (
+    <span className="block w-full">{children}</span>
+  ),
   Heading: DocsHeading,
   Paragraph: ({ children }: any) => (
     <p className="mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70">{children}</p>
@@ -134,15 +147,22 @@ const components = {
   ),
   Image: ({ src, alt, width, height }: any) => {
     const prefixedSrc = src?.startsWith("/clikkle/") ? src : (src?.startsWith("/images/") ? `/clikkle${src}` : src);
+    const w = width != null && width !== "" ? Number(width) : undefined;
+    const h = height != null && height !== "" ? Number(height) : undefined;
+    // Use <span className="block"> not <div>: Markdoc often nests images inside <Paragraph> (<p>),
+    // and HTML forbids <div> inside <p> — browsers rewrite the DOM and break hydration.
     return (
-      <div className="my-8 overflow-hidden rounded-xl border border-[var(--color-border-subtle)] bg-[var(--bg-secondary)] dark:border-white/10 dark:bg-white/[0.02]">
-        <img src={prefixedSrc} 
-          alt={alt || ""} 
-          width={width} 
-          height={height} 
+      <span className="my-8 block overflow-hidden rounded-xl border border-[var(--color-border-subtle)] bg-[var(--bg-secondary)] dark:border-white/10 dark:bg-white/[0.02]">
+        <img
+          src={prefixedSrc}
+          alt={alt ?? ""}
+          {...(w != null && !Number.isNaN(w) ? { width: w } : {})}
+          {...(h != null && !Number.isNaN(h) ? { height: h } : {})}
           className="h-auto w-full object-contain"
-          loading="lazy" />
-      </div>
+          decoding="async"
+          loading="lazy"
+        />
+      </span>
     );
   },
 };
@@ -229,19 +249,101 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
   const content = Markdoc.renderers.react(doc.content, React, { components });
 
   const isTutorial = doc.frontmatter?.layout === "tutorial" || doc.slug.startsWith("tutorials/");
-  const isArticleLayout = doc.frontmatter?.layout === "article";
+  if (isTutorial) {
+    if (slug.length < 3) {
+      notFound();
+    }
+    const framework = slug[1];
+    const stepSlug = slug[2];
+    const stepsFull = getTutorialStepsFull(framework);
+    const currentStepItem =
+      stepsFull.find((s) => s.fileSlug === stepSlug) ?? stepsFull[0];
+    if (!stepsFull.length || !currentStepItem) {
+      notFound();
+    }
+    const seriesTitle = getTutorialSeriesTitle(framework);
+    const back = String(doc.frontmatter?.back ?? "/docs/tutorials");
 
-  const mainBody = (
-    <>
-      <header
-        className={
-          isArticleLayout
+    return (
+      <TutorialCodeProvider>
+        <TutorialHeadingsProvider>
+          <DocsTutorialView
+            seriesTitle={seriesTitle}
+            steps={stepsFull}
+            currentStep={currentStepItem.step}
+            currentStepItem={currentStepItem}
+            back={back}
+          >
+            <div className={cn(getDocsProseSurfaceClasses(true), "max-w-none")}>{content}</div>
+          </DocsTutorialView>
+        </TutorialHeadingsProvider>
+      </TutorialCodeProvider>
+    );
+  }
+
+  const isArticleLayout = doc.frontmatter?.layout === "article";
+  const layoutVariant = resolveDocsVariantForSlug(slug);
+  const useArticleContentsGrid = isArticleLayout && layoutVariant === "two-side-navs";
+
+  const metadataRow =
+    doc.frontmatter?.difficulty || doc.frontmatter?.readtime ? (
+      <ul className="mb-3 flex list-none flex-wrap items-center gap-2 p-0 text-[0.6875rem] font-bold uppercase tracking-wider text-[var(--color-text-muted)] dark:text-white/40">
+        {doc.frontmatter?.difficulty ? <li className="m-0">{doc.frontmatter.difficulty}</li> : null}
+        {doc.frontmatter?.difficulty && doc.frontmatter?.readtime ? (
+          <li className="m-0 text-[var(--color-border-strong)] dark:text-white/20" aria-hidden>
+            •
+          </li>
+        ) : null}
+        {doc.frontmatter?.readtime ? <li className="m-0">{doc.frontmatter.readtime} min</li> : null}
+      </ul>
+    ) : null;
+
+  const titleBlock = doc.frontmatter?.title ? (
+    <h1 className="text-title m-0 font-aeonik-pro font-bold tracking-tight text-primary dark:text-white">
+      {doc.frontmatter.title}
+    </h1>
+  ) : null;
+
+  const articleHeader = (
+    <header
+      className={
+        useArticleContentsGrid
+          ? "web-article-header flex items-start justify-between"
+          : isArticleLayout
             ? "sticky top-0 z-[17] -mx-6 mb-6 border-b border-[var(--color-border-subtle)] bg-[var(--bg-primary)]/95 pb-8 pt-2 backdrop-blur-sm dark:border-white/[0.08] dark:bg-[#19191c]/95 md:-mx-10 lg:pl-0"
             : "mb-8"
-        }
-      >
+      }
+    >
+      {useArticleContentsGrid ? (
+        <>
+          <div className="web-article-header-start flex flex-col items-start gap-0">
+            <div className="mb-2 flex w-full items-center lg:hidden">
+              {doc.frontmatter?.back ? (
+                <NextLink href={doc.frontmatter.back} className="web-icon-button" aria-label="Back">
+                  <ChevronLeft className="h-5 w-5 pr-0.5" />
+                </NextLink>
+              ) : null}
+            </div>
+            {metadataRow}
+            <div className="relative flex items-center">
+              {doc.frontmatter?.back ? (
+                <NextLink
+                  href={doc.frontmatter.back}
+                  className="web-icon-button absolute start-0 top-1/2 hidden size-10 -translate-y-1/2 md:flex"
+                  style={{ marginInlineStart: "-2.75rem" }}
+                  aria-label="Back"
+                >
+                  <ChevronLeft className="h-5 w-5 pr-0.5" />
+                </NextLink>
+              ) : null}
+              {titleBlock}
+            </div>
+          </div>
+          <div className="web-article-header-end" />
+        </>
+      ) : (
         <div className={`flex items-start gap-4 ${isArticleLayout ? "md:gap-6" : ""}`}>
-          {doc.frontmatter?.back && (
+          {doc.frontmatter?.back ? (
             <NextLink
               href={doc.frontmatter.back}
               className="mt-1 flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[var(--color-border-default)] bg-[var(--bg-secondary)] text-[var(--color-text-primary)] transition-colors hover:bg-[var(--color-smooth)] dark:border-white/10 dark:bg-[#1C1C1E] dark:text-white dark:hover:bg-white/10"
@@ -249,61 +351,78 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
             >
               <ChevronLeft className="h-5 w-5 pr-0.5" />
             </NextLink>
-          )}
-
+          ) : null}
           <div className="min-w-0 flex-1">
-            {(doc.frontmatter?.difficulty || doc.frontmatter?.readtime) && (
-              <ul className="mb-3 flex list-none flex-wrap items-center gap-2 p-0 text-[0.6875rem] font-bold uppercase tracking-wider text-[var(--color-text-muted)] dark:text-white/40">
-                {doc.frontmatter?.difficulty ? (
-                  <li className="m-0">{doc.frontmatter.difficulty}</li>
-                ) : null}
-                {doc.frontmatter?.difficulty && doc.frontmatter?.readtime ? (
-                  <li className="m-0 text-[var(--color-border-strong)] dark:text-white/20" aria-hidden>
-                    •
-                  </li>
-                ) : null}
-                {doc.frontmatter?.readtime ? (
-                  <li className="m-0">{doc.frontmatter.readtime} min</li>
-                ) : null}
-              </ul>
-            )}
-            {doc.frontmatter?.title ? (
-              <h1 className="text-title m-0 font-aeonik-pro font-bold tracking-tight text-[var(--color-text-primary)] dark:text-white">
-                {doc.frontmatter.title}
-              </h1>
-            ) : null}
+            {metadataRow}
+            {titleBlock}
           </div>
         </div>
-      </header>
+      )}
+    </header>
+  );
 
-      {doc.frontmatter?.description ? (
-        <p
-          className={
-            isArticleLayout
-              ? "text-description mb-6 max-w-none font-medium text-[var(--color-text-secondary)] dark:text-white/60"
-              : "mb-6 max-w-[700px] text-lg text-[var(--color-text-muted)] dark:text-white/50"
-          }
-        >
-          {doc.frontmatter.description}
-        </p>
-      ) : null}
+  const descriptionBlock = doc.frontmatter?.description ? (
+    <p
+      className={
+        isArticleLayout
+          ? "text-description mb-6 max-w-none font-medium text-[var(--color-text-secondary)] dark:text-white/60"
+          : "mb-6 max-w-[700px] text-lg text-[var(--color-text-muted)] dark:text-white/50"
+      }
+    >
+      {doc.frontmatter.description}
+    </p>
+  ) : null;
 
+  const proseBody = (
+    <DocsProse
+      isArticleLayout={isArticleLayout}
+      contentOnly={useArticleContentsGrid}
+    >
+      {content}
+    </DocsProse>
+  );
+
+  const tocAside =
+    doc.toc && doc.toc.length > 0 ? (
+      <aside className="web-references-menu ps-6">
+        <DocsOnThisPage items={doc.toc} />
+      </aside>
+    ) : null;
+
+  const mainBody = useArticleContentsGrid ? (
+    <>
+      {articleHeader}
+      <div
+        className={cn(
+          "web-article-content pb-24",
+          getDocsProseSurfaceClasses(isArticleLayout)
+        )}
+      >
+        {descriptionBlock}
+        {doc.slug.startsWith("quick-starts/") ? <AiPromptBox /> : null}
+        {proseBody}
+      </div>
+      {tocAside}
+    </>
+  ) : (
+    <>
+      {articleHeader}
+      {descriptionBlock}
       {doc.slug.startsWith("quick-starts/") ? <AiPromptBox /> : null}
-
-      <DocsProse isArticleLayout={isArticleLayout}>{content}</DocsProse>
+      {proseBody}
     </>
   );
 
-  if (isTutorial) {
-    // Use slug[1] because path is tutorials/react/step-1
-    const steps = getTutorialSteps(slug[1]);
-    return <TutorialLayout steps={steps}>{mainBody}</TutorialLayout>;
+  if (useArticleContentsGrid) {
+    return (
+      <main className="contents" id="main">
+        <article className="web-article contents">{mainBody}</article>
+      </main>
+    );
   }
 
   return (
-    <div className="flex w-full flex-row xl:gap-14 2xl:gap-24 overflow-visible">
-      
-      {/* Main Document Body */}
+    <div className="flex w-full flex-row overflow-visible xl:gap-14 2xl:gap-24">
       <div
         className={`min-w-0 flex-1 px-6 pb-24 pt-12 md:px-10 lg:pl-[4rem] ${
           isArticleLayout ? "max-w-[41.5rem]" : "max-w-[800px]"
@@ -312,10 +431,9 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
         {mainBody}
       </div>
 
-      {/* Right Table of Contents Sidebar */}
-      <aside className="hidden w-[240px] shrink-0 xl:block relative z-0 pl-1">
-        <div className="sticky top-[64px] max-h-[calc(100vh-64px)] overflow-y-auto pt-16 pb-8 pr-4 hide-scrollbar">
-          {doc.toc && doc.toc.length > 0 && (
+      <aside className="relative z-0 hidden w-[240px] shrink-0 pl-1 xl:block">
+        <div className="sticky top-16 max-h-[calc(100vh-4rem)] overflow-y-auto pb-8 pr-4 pt-16 hide-scrollbar">
+          {doc.toc && doc.toc.length > 0 ? (
             <div className="relative">
               <h4 className="mb-4 text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)] dark:text-white/50">
                 On this page
@@ -337,10 +455,9 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
                 ))}
               </nav>
             </div>
-          )}
+          ) : null}
         </div>
       </aside>
-
     </div>
   );
 }

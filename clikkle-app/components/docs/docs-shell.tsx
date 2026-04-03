@@ -11,14 +11,14 @@ import { cn } from "@/lib/utils";
 import { Menu, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { useDocsPathname } from "@/lib/docs/use-docs-pathname";
 import { useEffect, useMemo } from "react";
 
 const CTA_LINK = "https://cloud.clikkle.com/register";
 
 /** Appwrite `Docs.svelte` composition: mobile header, main header, grid (`variantClass` + `is-open`), slot. */
 export function DocsShell({ children }: { children: React.ReactNode }) {
-  const pathname = usePathname() || "";
+  const pathname = useDocsPathname();
   const { version } = usePreferredVersion();
   const { platform } = usePreferredPlatform();
   const { showSidenav, toggleSidenav, syncVariant, setLayoutState } = useDocsLayout();
@@ -99,7 +99,13 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
             <DocsFooter />
           </>
         ) : (
-          <div className="web-main-section min-w-0 flex-1 overflow-x-hidden px-6 py-12 lg:pl-12 lg:pr-8">
+          <div
+            className={cn(
+              "web-main-section min-w-0 flex-1 overflow-x-hidden",
+              resolved.variant === "two-side-navs" && "web-main-section--grid-contents",
+              resolved.variant !== "two-side-navs" && "px-6 py-12 lg:pl-12 lg:pr-8"
+            )}
+          >
             {children}
             <DocsFooter />
           </div>

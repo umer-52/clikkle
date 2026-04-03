@@ -1,40 +1,32 @@
 "use client";
 
 import type { ReactNode } from "react";
+import { getDocsProseSurfaceClasses } from "@/lib/docs-prose-surface-classes";
 import { cn } from "@/lib/utils";
-import { useTheme } from "@/components/theme-provider";
+
+export { getDocsProseSurfaceClasses } from "@/lib/docs-prose-surface-classes";
 
 export function DocsProse({
   isArticleLayout,
+  as = "article",
+  /** Fragment: parent must supply `.prose` (Appwrite `DocsArticle` `web-article-content prose`). */
+  contentOnly,
   children,
 }: {
   isArticleLayout: boolean;
+  as?: "article" | "div";
+  contentOnly?: boolean;
   children: ReactNode;
 }) {
-  const { resolvedTheme } = useTheme();
-  const isLight = resolvedTheme === "light";
-
-  return (
-    <article
-      className={cn(
-        "prose prose-blue max-w-none",
-        isLight
-          ? cn(
-              "prose-slate prose-headings:font-aeonik-pro prose-headings:text-[var(--color-text-primary)]",
-              "prose-p:text-[var(--color-text-secondary)] prose-strong:text-[var(--color-text-primary)]",
-              "prose-li:text-[var(--color-text-secondary)] prose-li:marker:text-[var(--color-text-muted)]",
-              "prose-blockquote:border-[var(--color-border-subtle)] prose-hr:border-[var(--color-border-subtle)]",
-              isArticleLayout ? "mt-2" : "mt-10"
-            )
-          : cn(
-              "prose-invert",
-              isArticleLayout
-                ? "mt-2 prose-headings:font-aeonik-pro prose-p:text-white/70 prose-strong:text-white/90 prose-li:marker:text-white/40"
-                : "mt-10"
-            )
-      )}
-    >
-      {children}
-    </article>
+  if (contentOnly) {
+    return <>{children}</>;
+  }
+  const cls = cn(
+    getDocsProseSurfaceClasses(isArticleLayout),
+    isArticleLayout ? "mt-2" : "mt-10"
   );
+  if (as === "div") {
+    return <div className={cls}>{children}</div>;
+  }
+  return <article className={cls}>{children}</article>;
 }

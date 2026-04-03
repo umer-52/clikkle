@@ -1,0 +1,75 @@
+/* Appwrite `DocsTutorial.svelte` <style> — tutorial rail + header (tokens only) */
+
+/* Use link-level indicator like Appwrite; hide global li bar from `docs-references.css`. */
+.docs-tutorial-rail .web-references-menu-item:has(.is-selected)::before,
+.docs-tutorial-rail .web-references-menu-item:has(.web-references-menu-list)::before {
+  display: none !important;
+}
+
+.docs-tutorial-article-header.web-article-header {
+  margin-block-end: 2rem;
+  padding-inline-start: unset;
+}
+
+/* Nested step list: keep rail alignment with numeric badges */
+.docs-tutorial-steps-ol.web-references-menu-list {
+  padding-inline-start: 0;
+  margin-inline-start: 0;
+}
+
+.web-references-menu-item:has(.docs-tutorial-nested-toc .is-selected) > .is-selected::before {
+  background-color: transparent !important;
+}
+
+.tutorial-heading h2 {
+  margin-bottom: 0;
+}
+
+.web-main-body-500 {
+  font-weight: 500;
+  color: var(--color-text-secondary);
+}
+
+.tutorial-coming-soon-badge {
+  margin-inline-start: 0.25rem;
+  border-radius: 0.25rem;
+  padding: 0.0625rem 0.375rem;
+  background: color-mix(in srgb, var(--color-brand-primary) 24%, transparent);
+  color: var(--color-text-primary);
+  font-size: 0.75rem;
+  line-height: 1.25;
+}
+
+/* Appwrite `DocsTutorial` selected step + rail line */
+.web-references-menu-item:has(.is-selected)::before {
+  inset-inline-start: -3.55rem;
+}
+
+.web-references-menu-list > .web-references-menu-item > .web-references-menu-link.is-selected::before {
+  content: " ";
+  position: absolute;
+  inset-block-start: 0;
+  block-size: 1.375rem;
+  inline-size: 0.0625rem;
+  inset-inline-start: -1.3125rem;
+  background-color: var(--p-references-menu-link-color-text);
+}
+
+.web-references-menu-list
+  > .web-references-menu-item:has(.web-references-menu-list .is-selected)
+  > .web-references-menu-link.is-selected::before {
+  background-color: transparent;
+}
+
+.web-references-menu-list
+  > .web-references-menu-item
+  > .web-references-menu-list
+  > .web-references-menu-item
+  > .web-references-menu-link.is-selected::before {
+  content: "";
+  background-color: transparent;
+}
+
+.web-references-menu-link.is-selected {
+  position: relative;
+}

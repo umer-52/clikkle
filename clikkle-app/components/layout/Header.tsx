@@ -85,21 +85,24 @@ export function Header() {
                   className="absolute top-[4rem] -left-12 w-[540px] glass-heavy rounded-2xl shadow-aw-xl overflow-hidden origin-top"
                 >
                   <div className="p-6 grid grid-cols-2 gap-4">
-                    {products.map((product) => (
-                      <Link 
-                        key={product.title} 
-                        href={product.href}
-                        className="group flex gap-3 p-3 rounded-xl hover:bg-white/5 transition-colors"
-                      >
-                        <div className="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-aw-text-muted group-hover:text-[#2D63FF] group-hover:bg-[#2D63FF]/10 transition-colors shrink-0">
-                          <product.icon className="w-5 h-5" />
-                        </div>
-                        <div>
-                          <div className="font-semibold text-white text-sm mb-0.5">{product.title}</div>
-                          <div className="text-xs text-aw-text-muted leading-relaxed">{product.description}</div>
-                        </div>
-                      </Link>
-                    ))}
+                    {products.map((product) => {
+                      const Icon = product.icon;
+                      return (
+                        <Link
+                          key={product.title}
+                          href={product.href}
+                          className="group flex gap-3 p-3 rounded-xl hover:bg-white/5 transition-colors"
+                        >
+                          <div className="w-10 h-10 rounded-lg bg-white/5 flex items-center justify-center text-aw-text-muted group-hover:text-[#2D63FF] group-hover:bg-[#2D63FF]/10 transition-colors shrink-0">
+                            <Icon className="w-5 h-5" />
+                          </div>
+                          <div>
+                            <div className="font-semibold text-white text-sm mb-0.5">{product.title}</div>
+                            <div className="text-xs text-aw-text-muted leading-relaxed">{product.description}</div>
+                          </div>
+                        </Link>
+                      );
+                    })}
                   </div>
                 </motion.div>
               )}

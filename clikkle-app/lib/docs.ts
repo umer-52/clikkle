@@ -19,6 +19,18 @@ function extractTocFromAst(ast: ReturnType<typeof Markdoc.parse>): Array<{
 }> {
   const toc: Array<{ id: string; title: string; level: number }> = [];
   for (const node of ast.walk()) {
+    if (node.type === "tag" && node.tag === "section") {
+      const title = node.attributes?.title;
+      const idRaw = node.attributes?.id;
+      if (typeof title === "string" && title.trim()) {
+        const id =
+          typeof idRaw === "string" && idRaw.trim()
+            ? slugify(idRaw.trim())
+            : slugify(title.trim());
+        toc.push({ id, title: title.trim(), level: 2 });
+      }
+      continue;
+    }
     if (node.type === "heading" && (node.attributes.level === 2 || node.attributes.level === 3)) {
       const title = node.children
         .filter((child: { type: string }) => child.type === "text" || child.type === "inline")
@@ -274,28 +286,77 @@ export type TutorialStepMeta = {
   href: string;
 };
 
+/** Appwrite `Tutorial` / `globToTutorial` — per-step metadata + shared difficulty/readtime from first step that defines them. */
+export type TutorialStepFull = TutorialStepMeta & {
+  fileSlug: string;
+  difficulty?: string;
+  readtime?: string | number;
+};
+
 export function getTutorialSteps(frameworkSlug: string): TutorialStepMeta[] {
+  return getTutorialStepsFull(frameworkSlug).map(({ step, title, href }) => ({
+    step,
+    title,
+    href,
+  }));
+}
+
+export function getTutorialStepsFull(frameworkSlug: string): TutorialStepFull[] {
   const tutorialDir = path.join(docsDirectory, "tutorials", frameworkSlug);
   if (!fs.existsSync(tutorialDir)) return [];
 
   const files = fs.readdirSync(tutorialDir);
-  const steps: TutorialStepMeta[] = [];
+  const steps: TutorialStepFull[] = [];
+  let sharedDifficulty: string | undefined;
+  let sharedReadtime: string | number | undefined;
 
   for (const file of files) {
-    if (file.endsWith(".markdoc")) {
-      const fullPath = path.join(tutorialDir, file);
-      const fileContents = fs.readFileSync(fullPath, "utf8");
-      const { data } = matter(fileContents);
-      
-      if (data.step) {
-        steps.push({
-          step: parseInt(data.step, 10),
-          title: data.title || `Step ${data.step}`,
-          href: `/docs/tutorials/${frameworkSlug}/${file.replace(/\.markdoc$/, "")}`,
-        });
-      }
+    if (!file.endsWith(".markdoc")) continue;
+    const fullPath = path.join(tutorialDir, file);
+    const fileContents = fs.readFileSync(fullPath, "utf8");
+    const { data } = matter(fileContents);
+    if (!data.step) continue;
+
+    const fileSlug = file.replace(/\.markdoc$/, "");
+    if (data.difficulty && sharedDifficulty === undefined) {
+      sharedDifficulty = String(data.difficulty);
     }
+    if (data.readtime !== undefined && sharedReadtime === undefined) {
+      sharedReadtime = data.readtime;
+    }
+
+    steps.push({
+      step: parseInt(String(data.step), 10),
+      title: (data.title as string) || `Step ${data.step}`,
+      href: `/docs/tutorials/${frameworkSlug}/${fileSlug}`,
+      fileSlug,
+      difficulty: data.difficulty ? String(data.difficulty) : undefined,
+      readtime: data.readtime,
+    });
   }
 
-  return steps.sort((a, b) => a.step - b.step);
+  steps.sort((a, b) => a.step - b.step);
+
+  const diff = sharedDifficulty ?? steps.find((s) => s.difficulty)?.difficulty;
+  const rt = sharedReadtime ?? steps.find((s) => s.readtime !== undefined)?.readtime;
+
+  return steps.map((s) => ({
+    ...s,
+    difficulty: s.difficulty ?? diff,
+    readtime: s.readtime ?? rt,
+  }));
+}
+
+/** Series title from `step-1` frontmatter (`DocsTutorial` h1). */
+export function getTutorialSeriesTitle(frameworkSlug: string): string {
+  const p = path.join(docsDirectory, "tutorials", frameworkSlug, "step-1.markdoc");
+  if (!fs.existsSync(p)) return frameworkSlug;
+  const raw = fs.readFileSync(p, "utf8");
+  const { data } = matter(raw);
+  return (data.title as string) || frameworkSlug;
+}
+
+export function parseTutorialStepNumber(stepFileSlug: string): number {
+  const m = stepFileSlug?.match(/^step-(\d+)$/);
+  return m ? parseInt(m[1], 10) : 1;
 }

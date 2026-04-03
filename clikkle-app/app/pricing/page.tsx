@@ -4,18 +4,27 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { SiteFooter } from '@/components/site-footer';
 import { PreFooter } from '@/components/pre-footer';
+import { withBasePath } from '@/lib/basepath';
 import './pricing.css';
 import { comparisonTables, faqItems, type CellValue, type LinkRow } from './pricing-data';
 
-/* ─── Feature list check (blue / slate, no pink) ─── */
+/* ─── Feature list check — geometry parity with Appwrite `checked-badge` (20×20, r=8 circle) ─── */
 function CheckCircle() {
   return (
-    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="10" cy="10" r="10" fill="rgba(45, 99, 255, 0.18)" />
-      <path
-        d="M6 10.5L8.5 13L14 7.5"
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden>
+      <circle
+        cx="10"
+        cy="10"
+        r="8"
+        fill="rgba(45, 99, 255, 0.08)"
         stroke="#2D63FF"
-        strokeWidth="1.6"
+        strokeOpacity={0.32}
+        strokeWidth={1.2}
+      />
+      <path
+        d="M6.25 11.5L8.75 13.5L13.75 7"
+        stroke="#E4E4E7"
+        strokeWidth={1.2}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
@@ -56,197 +65,301 @@ function ChevronDown() {
   );
 }
 
-/* ═══════════════════════════════════════════════
-   SECTION 1 — Hero
-   ═══════════════════════════════════════════════ */
-function PricingHero() {
-  return (
-    <section className="pricing-hero">
-      <div className="pricing-hero__glow" aria-hidden="true" />
-      <div className="pricing-hero__inner">
-        <h1 className="pricing-hero__title">
-          Everything your app needs,<br />one subscription
-        </h1>
-        <p className="pricing-hero__subtitle">
-          Build, deploy, and observe your app from one platform, all
-          under one subscription.
-        </p>
-      </div>
-    </section>
-  );
-}
+const CLOUD_REGISTER = 'https://cloud.clikkle.com/register';
+const CLOUD_PRO_CREATE = 'https://cloud.clikkle.com/console?type=create&plan=tier-1';
 
 /* ═══════════════════════════════════════════════
-   SECTION 2 — Pricing Cards
+   Pricing cards + bottom CTA row — matches src/routes/pricing/+page.svelte
    ═══════════════════════════════════════════════ */
-function PricingCardsSection() {
-  return (
-    <section className="pricing-cards-section">
-      <div className="pricing-cards-container">
-        <ul className="pricing-cards-grid">
-          {/* ── Free ── */}
-          <li>
-            <article className="pricing-card">
-              <div className="pricing-card__inner">
-                <header className="pricing-card__header pricing-section">
-                  <h2 className="pricing-card__name">Free</h2>
-                  <div className="pricing-card__price pricing-price">$0</div>
-                  <p className="pricing-card__desc pricing-description">
-                    A great fit for passion projects and small applications.
-                  </p>
-                  <Link href="/contact" className="web-btn web-btn-secondary">
-                    Start building
-                  </Link>
-                </header>
-                <div className="pricing-card__content pricing-section-content">
-                  <ul className="pricing-checked-list">
-                    <li><CheckCircle /><span>5GB bandwidth</span></li>
-                    <li><CheckCircle /><span>2GB storage</span></li>
-                    <li><CheckCircle /><span>750K executions</span></li>
-                    <li><CheckCircle /><span>75K monthly active users</span></li>
-                    <li><CheckCircle /><span>Community support</span></li>
-                    <li><CheckCircle /><span>1 Database, 1 Bucket, 2 Functions per project</span></li>
-                  </ul>
-                  <p className="pricing-card__note">
-                    Free projects are paused after 1 week of inactivity. Limit of 2 projects.
-                  </p>
-                </div>
-              </div>
-            </article>
-          </li>
+const PRICING_COLUMNS = 'repeat(3, 1fr)';
 
-          {/* ── Pro (highlighted) ── */}
-          <li>
-            <div className="pricing-card-pro-wrapper">
-              <article className="pricing-card pricing-card--pro">
-                <header className="pricing-card__header pricing-section">
-                  <div className="pricing-card__name-row">
-                    <h2 className="pricing-card__name">Pro</h2>
-                    <span className="pricing-inline-tag">Most popular</span>
+function PricingCardsGrid() {
+  return (
+    <>
+      {/* Svelte +page.svelte: --columns-template on .web-pricing-cards; list gap 1rem in page <style> */}
+      <div
+        className="web-pricing-cards pricing-web-pricing-cards"
+        style={{ ['--columns-template' as string]: PRICING_COLUMNS }}
+      >
+        <ul className="web-pricing-cards-list pricing-cards-grid">
+            {/* ── Free — article > .web-pricing-cards-item > header + content ── */}
+            <li>
+              <article className="pricing-card web-card-pricing">
+                <div className="pricing-card__item">
+                  <header className="web-pricing-cards-header pricing-card__header">
+                    <h2 id="starter" className="pricing-card__name">
+                      Free
+                    </h2>
+                    <div className="pricing-card__price-stack pricing-card__price-stack--simple">
+                      <div className="pricing-card__price pricing-price">$0</div>
+                      <div className="pricing-card__price-spacer" aria-hidden>
+                        &nbsp;
+                      </div>
+                    </div>
+                    <p className="pricing-card__desc pricing-description">
+                      A great fit for passion projects and small applications.
+                    </p>
+                    <a
+                      href={CLOUD_REGISTER}
+                      className="web-btn web-btn-secondary pricing-card__cta is-full-width"
+                    >
+                      <span className="pricing-card__btn-label">Start building</span>
+                    </a>
+                  </header>
+                  <div className="web-pricing-cards-content pricing-card__content">
+                    <ul className="pricing-checked-list web-checked-list-circle">
+                      <li>
+                        <CheckCircle />
+                        <span>5GB bandwidth</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>2GB storage</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>750K executions</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>75K monthly active users</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Community support</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>1 Database, 1 Bucket, 2 Functions per project</span>
+                      </li>
+                    </ul>
+                    <p className="pricing-card__note">
+                      Free projects are paused after 1 week of inactivity. Limit of 2 projects.
+                    </p>
                   </div>
-                  <span className="pricing-card__price-from">From</span>
-                  <div className="pricing-card__price-row">
-                    <span className="pricing-card__price pricing-price">$25</span>
-                    <span className="pricing-card__price-suffix">/month</span>
-                  </div>
-                  <p className="pricing-card__desc pricing-description">
-                    For production applications that need powerful functionality and resources to scale.
-                  </p>
-                  <Link href="/contact" className="web-btn web-btn-primary">
-                    Start building
-                  </Link>
-                </header>
-                <div className="pricing-card__content pricing-section-content">
-                  <p className="pricing-card__content-label">Dedicated resources per project:</p>
-                  <ul className="pricing-checked-list">
-                    <li><CheckCircle /><span>2TB bandwidth</span></li>
-                    <li><CheckCircle /><span>150GB storage</span></li>
-                    <li><CheckCircle /><span>3.5M executions</span></li>
-                    <li><CheckCircle /><span>200K monthly active users</span></li>
-                    <li><CheckCircle /><span>Organization roles</span></li>
-                    <li><CheckCircle /><span>Email support</span></li>
-                    <li><CheckCircle /><span>Daily backups stored for 7 days</span></li>
-                    <li><CheckCircle /><span>Add-ons</span></li>
-                    <li><CheckCircle /><span>Unlimited Databases, Buckets, and Functions</span></li>
-                  </ul>
                 </div>
               </article>
-            </div>
-          </li>
+            </li>
 
-          {/* ── Enterprise ── */}
-          <li>
-            <article className="pricing-card">
-              <div className="pricing-card__inner">
-                <header className="pricing-card__header pricing-section">
-                  <h2 className="pricing-card__name">Enterprise</h2>
-                  <div className="pricing-card__price pricing-price">Custom</div>
-                  <p className="pricing-card__desc pricing-description">
-                    For enterprises that need more power, premium support, and advanced security features.
-                  </p>
-                  <Link href="/contact-us" className="web-btn web-btn-secondary">
-                    Contact us
-                  </Link>
-                </header>
-                <div className="pricing-card__content pricing-section-content">
-                  <p className="pricing-card__content-label">Everything in Pro, plus:</p>
-                  <ul className="pricing-checked-list">
-                    <li><CheckCircle /><span>Uptime SLAs</span></li>
-                    <li><CheckCircle /><span>Designated Success Manager</span></li>
-                    <li><CheckCircle /><span>Up to 24/7 support</span></li>
-                    <li><CheckCircle /><span>Option for private Slack channel</span></li>
-                    <li><CheckCircle /><span>Volume discounts</span></li>
-                    <li><CheckCircle /><span>Log drains</span></li>
-                    <li><CheckCircle /><span>90-day log retention</span></li>
-                    <li><CheckCircle /><span>Advanced observability</span></li>
-                    <li><CheckCircle /><span>Bring your own Cloud</span></li>
-                    <li><CheckCircle /><span>SOC-2, HIPAA, and BAA</span></li>
-                    <li><CheckCircle /><span>Custom organization roles</span></li>
-                    <li><CheckCircle /><span>Single Sign-On (SSO)</span></li>
-                    <li><CheckCircle /><span>Activity logs</span></li>
-                    <li><CheckCircle /><span>Custom backup policies</span></li>
-                  </ul>
-                </div>
+            {/* ── Pro — outer gradient border; article has header + content only (no inner item) ── */}
+            <li>
+              <div className="pricing-card-pro-wrapper web-card-pro-outer pricing-card-pro-wrapper--svelte">
+                <article className="pricing-card pricing-card--pro web-card-pricing-inner">
+                  <header className="web-pricing-cards-header pricing-card__header">
+                    {/* Svelte: nested <header class="flex gap-3"> — title + tag inline, not space-between */}
+                    <div className="pricing-card-pro-heading-row flex flex-wrap items-center gap-3">
+                      <h2 id="pro" className="pricing-card__name">
+                        Pro
+                      </h2>
+                      <span className="pricing-inline-tag web-inline-tag is-pink">Most popular</span>
+                    </div>
+                    <div className="pricing-card__price-stack">
+                      <span className="pricing-card__price-from pricing-card__price-from--tight">
+                        From
+                      </span>
+                      <div className="pricing-card__price-row pricing-card__price-row--pro">
+                        <span className="pricing-card__price pricing-price">$25</span>
+                        <span className="pricing-card__price-suffix">/month</span>
+                      </div>
+                    </div>
+                    <p className="pricing-card__desc pricing-description">
+                      For production applications that need powerful functionality and resources to scale.
+                    </p>
+                    <a
+                      href={CLOUD_PRO_CREATE}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="web-btn web-btn-primary pricing-card__cta is-full-width pricing-card__cta--pro"
+                    >
+                      <span className="pricing-card__btn-label">Start building</span>
+                    </a>
+                  </header>
+                  <div className="web-pricing-cards-content pricing-card__content">
+                    <p className="pricing-card__content-lead">Dedicated resources per project:</p>
+                    <ul className="pricing-checked-list web-checked-list-circle">
+                      <li>
+                        <CheckCircle />
+                        <span>2TB bandwidth</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>150GB storage</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>3.5M executions</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>200K monthly active users</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Organization roles</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Email support</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Daily backups stored for 7 days</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Add-ons</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Unlimited Databases, Buckets, and Functions</span>
+                      </li>
+                    </ul>
+                  </div>
+                </article>
               </div>
-            </article>
-          </li>
-        </ul>
+            </li>
+
+            {/* ── Enterprise ── */}
+            <li>
+              <article className="pricing-card web-card-pricing">
+                <div className="pricing-card__item">
+                  <header className="web-pricing-cards-header pricing-card__header">
+                    <h2 id="enterprise" className="pricing-card__name">
+                      Enterprise
+                    </h2>
+                    <div className="pricing-card__price-stack pricing-card__price-stack--simple">
+                      <div className="pricing-card__price pricing-price">Custom</div>
+                      <div className="pricing-card__price-spacer" aria-hidden>
+                        &nbsp;
+                      </div>
+                    </div>
+                    <p className="pricing-card__desc pricing-description">
+                      For enterprises that need more power, premium support, and advanced security features.
+                    </p>
+                    <Link
+                      href="/contact-us/enterprise"
+                      className="web-btn web-btn-secondary pricing-card__cta is-full-width pricing-card__cta--enterprise"
+                    >
+                      <span className="pricing-card__btn-label">Contact us</span>
+                    </Link>
+                  </header>
+                  <div className="web-pricing-cards-content pricing-card__content">
+                    <p className="pricing-card__content-lead">Everything in Pro, plus:</p>
+                    <ul className="pricing-checked-list web-checked-list-circle">
+                      <li>
+                        <CheckCircle />
+                        <span>Uptime SLAs</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Designated Success Manager</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Up to 24/7 support</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Option for private Slack channel</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Volume discounts</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Log drains</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>90-day log retention</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Advanced observability</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Bring your own Cloud</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>SOC-2, HIPAA, and BAA</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Custom organization roles</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Single Sign-On (SSO)</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Activity logs</span>
+                      </li>
+                      <li>
+                        <CheckCircle />
+                        <span>Custom backup policies</span>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </article>
+            </li>
+          </ul>
       </div>
-    </section>
+    </>
   );
 }
 
-/* ═══════════════════════════════════════════════
-   SECTION 3 — One Platform Card
-   ═══════════════════════════════════════════════ */
-function ConsolidationCard() {
+/** “One platform. One subscription.” — matches https://appwrite.io/pricing (between tiers and compare). */
+function PricingStackSection() {
   return (
-    <section className="pricing-consolidation">
-      <div className="pricing-consolidation-container">
-        <article className="pricing-stack-card">
-          <div className="pricing-stack-header">
-            <h3 className="pricing-stack-title">One platform. One subscription.</h3>
-            <div className="pricing-stack-badge">1 vendor • 1 subscription • 1 bill</div>
+    <div className="pricing-stack-section">
+      <article className="pricing-stack-card">
+        <div className="pricing-stack-intro">
+          <h3 className="pricing-stack-title">One platform. One subscription.</h3>
+          <div className="pricing-stack-badge">1 vendor • 1 subscription • 1 bill</div>
+        </div>
+        <p className="pricing-stack-desc">
+          Replace fragmented backend, hosting, storage, and delivery tooling with a single platform
+          built for the full application lifecycle. Reduce integration surface area, simplify
+          procurement, and give your team one system to operate and scale.
+        </p>
+        <div className="pricing-stack-compare">
+          <div className="pricing-state-card">
+            <p className="pricing-state-card__label">Before</p>
+            <ul className="pricing-state-card__list">
+              <li>Multiple tools with overlapping responsibilities</li>
+              <li>Separate subscriptions, invoices, and renewal cycles</li>
+              <li>More integration, maintenance, and ownership overhead</li>
+            </ul>
           </div>
-          <p className="pricing-stack-desc">
-            Replace fragmented backend, hosting, storage, and delivery tooling with a single
-            platform built for the full application lifecycle. Reduce integration surface area,
-            simplify procurement, and give your team one system to operate and scale.
-          </p>
-          <div className="pricing-stack-compare">
-            <div className="pricing-state-card">
-              <p className="pricing-state-card__label">Before</p>
-              <ul className="pricing-state-card__list">
-                <li>Multiple tools with overlapping responsibilities</li>
-                <li>Separate subscriptions, invoices, and renewal cycles</li>
-                <li>More integration, maintenance, and ownership overhead</li>
-              </ul>
-            </div>
-            <div className="pricing-state-card pricing-state-card--after">
-              <p className="pricing-state-card__label">After</p>
-              <ul className="pricing-state-card__list">
-                <li>One platform across the app lifecycle</li>
-                <li>One subscription with simpler billing and procurement</li>
-                <li>Fewer systems to integrate, secure, and maintain</li>
-              </ul>
-            </div>
+          <div className="pricing-state-card pricing-state-card--after">
+            <p className="pricing-state-card__label">After</p>
+            <ul className="pricing-state-card__list">
+              <li>One platform across the app lifecycle</li>
+              <li>One subscription with simpler billing and procurement</li>
+              <li>Fewer systems to integrate, secure, and maintain</li>
+            </ul>
           </div>
-          <div className="pricing-stack-footer">
-            <a href="#compare-plans" className="pricing-stack-cta">
-              See what&apos;s included
-            </a>
-            <span className="pricing-stack-helper">
-              Compare plan limits, included capabilities, and scaling options.
-            </span>
-          </div>
-        </article>
-      </div>
-    </section>
+        </div>
+        <div className="pricing-stack-footer">
+          <a href="#compare-plans" className="pricing-stack-cta">
+            See what&apos;s included
+          </a>
+          <span className="pricing-stack-helper">
+            Compare plan limits, included capabilities, and scaling options.
+          </span>
+        </div>
+      </article>
+    </div>
   );
 }
 
 /* ═══════════════════════════════════════════════
-   SECTION 4 — Compare Plans Table
+   Compare Plans Table
    ═══════════════════════════════════════════════ */
 function CellContent({ value }: { value: CellValue }) {
   if (typeof value === 'boolean' && value) {
@@ -261,31 +374,41 @@ function CellContent({ value }: { value: CellValue }) {
 
 function ComparePlans() {
   return (
-    <section className="pricing-compare-section" id="compare-plans">
-      <div className="pricing-compare-container">
+      <div className="web-white-section light py-10 pricing-compare-shell">
+      <div className="web-big-padding-section-level-2 pricing-compare-level-2">
+        <div className="relative">
+          <article className="pricing-compare-article">
+          <section className="container pricing-compare-section" id="compare-plans">
         <header className="pricing-compare-header">
-          <h3>Compare plans</h3>
-          <p>Discover our plans and find the one that fits your project&apos;s needs.</p>
+          <h3 className="pricing-compare-title">Compare plans</h3>
+          <p className="pricing-compare-lead">
+            Discover our plans and find the one that fits your project&apos;s needs.
+          </p>
         </header>
 
-        {/* Sticky column headers */}
+        {/* Sticky column headers — compare-plans.svelte: Free/Ent secondary, Pro primary */}
         <div className="pricing-compare-sticky">
           <div className="pricing-compare-sticky__label" />
           <div className="pricing-compare-mini-card">
             <h4>Free</h4>
-            <Link href="/contact" className="web-btn web-btn-outline">
+            <a href={CLOUD_REGISTER} className="web-btn web-btn-secondary pricing-compare-mini-btn">
               Start building
-            </Link>
+            </a>
           </div>
           <div className="pricing-compare-mini-card">
             <h4>Pro</h4>
-            <Link href="/contact" className="web-btn web-btn-primary">
+            <a
+              href={CLOUD_PRO_CREATE}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="web-btn web-btn-primary pricing-compare-mini-btn"
+            >
               Start building
-            </Link>
+            </a>
           </div>
           <div className="pricing-compare-mini-card">
             <h4>Enterprise</h4>
-            <Link href="/contact-us" className="web-btn web-btn-outline">
+            <Link href="/contact-us/enterprise" className="web-btn web-btn-secondary pricing-compare-mini-btn">
               Contact
             </Link>
           </div>
@@ -317,14 +440,18 @@ function ComparePlans() {
             </tbody>
           </table>
         ))}
+          </section>
+          </article>
+        </div>
       </div>
-    </section>
+    </div>
   );
 }
 
 /* ═══════════════════════════════════════════════
-   SECTION 5 — FAQ Accordion
+   FAQ — Svelte: section.web-grid-4-6 inside .container
    ═══════════════════════════════════════════════ */
+/** Svelte faq.svelte — list only; parent +page.svelte wraps web-grid-4-6 + FAQ title */
 function FaqSection() {
   const [openIndex, setOpenIndex] = useState<number>(0);
 
@@ -333,53 +460,97 @@ function FaqSection() {
   };
 
   return (
-    <section className="pricing-faq-section">
-      <div className="pricing-faq-container">
-        <div className="pricing-faq-grid">
-          <header>
-            <div className="pricing-faq-title">FAQ</div>
-          </header>
-          <ul className="pricing-faq-list">
-            {faqItems.map((item, index) => (
-              <li className="pricing-faq-item" key={index}>
-                <button
-                  className="pricing-faq-trigger"
-                  onClick={() => toggle(index)}
-                  aria-expanded={openIndex === index}
-                >
-                  <span>{item.question}</span>
-                  <span className={`pricing-faq-chevron ${openIndex === index ? 'pricing-faq-chevron--open' : ''}`}>
-                    <ChevronDown />
-                  </span>
-                </button>
-                <div className={`pricing-faq-answer ${openIndex === index ? 'pricing-faq-answer--open' : ''}`}>
-                  <div
-                    className="pricing-faq-answer__inner"
-                    dangerouslySetInnerHTML={{ __html: item.answer }}
-                  />
-                </div>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </div>
-    </section>
+    <ul className="pricing-faq-list w-full">
+      {faqItems.map((item, index) => (
+        <li className="pricing-faq-item" key={index}>
+          <button
+            className="pricing-faq-trigger"
+            type="button"
+            onClick={() => toggle(index)}
+            aria-expanded={openIndex === index}
+          >
+            <span>{item.question}</span>
+            <span className={`pricing-faq-chevron ${openIndex === index ? 'pricing-faq-chevron--open' : ''}`}>
+              <ChevronDown />
+            </span>
+          </button>
+          <div className={`pricing-faq-answer ${openIndex === index ? 'pricing-faq-answer--open' : ''}`}>
+            <div
+              className="pricing-faq-answer__inner"
+              dangerouslySetInnerHTML={{ __html: item.answer }}
+            />
+          </div>
+        </li>
+      ))}
+    </ul>
   );
 }
 
 /* ═══════════════════════════════════════════════
-   MAIN PAGE
+   MAIN PAGE — mirrors src/routes/pricing/+page.svelte layout
    ═══════════════════════════════════════════════ */
 export default function PricingPage() {
   return (
-    <>
-      <PricingHero />
-      <PricingCardsSection />
-      <ConsolidationCard />
+    <div className="web-big-padding-section pricing-page-root relative mt-2">
+      <div
+        className="pricing-bg-decor web-location-for-mobile pointer-events-none absolute w-full overflow-hidden"
+        aria-hidden
+      >
+        <img
+          src={withBasePath('/pricing-bg.png')}
+          alt=""
+          width={1369}
+          className="pricing-bg-decor__img"
+        />
+      </div>
+
+      <div className="dark relative z-[1] pt-8">
+        <div className="web-big-padding-section-level-2">
+          <section className="container">
+            {/*
+              src/routes/pricing/+page.svelte:
+              text-display font-aeonik-pro web-u-max-width-900 …
+              text-description max-w-sm …
+            */}
+            <div className="web-hero pricing-web-hero">
+              <h1 className="pricing-svelte-h1 text-display font-aeonik-pro">
+                Pricing
+              </h1>
+              <p className="pricing-svelte-subtitle text-description max-w-sm">
+                Clikkle offers simple and transparent pricing plans with no surprises.
+              </p>
+            </div>
+          </section>
+        </div>
+
+        <div className="web-big-padding-section-level-2">
+          <section className="container">
+            <PricingCardsGrid />
+            <PricingStackSection />
+          </section>
+        </div>
+      </div>
+
       <ComparePlans />
-      <FaqSection />
-      <PreFooter headingId="pricing-pre-footer-heading" />
-      <SiteFooter />
-    </>
+
+      <div className="dark relative z-[1] overflow-hidden pt-10">
+        <div className="web-big-padding-section-level-2 relative">
+          <div className="container relative z-10">
+            <section className="web-grid-4-6 pricing-faq-grid">
+              <header>
+                <div className="pricing-faq-title text-display font-aeonik-pro text-primary">FAQ</div>
+              </header>
+              <FaqSection />
+            </section>
+          </div>
+        </div>
+        <div className="web-big-padding-section-level-2 pricing-level-2-footer relative !mb-0">
+          <div className="container">
+            <PreFooter headingId="pricing-pre-footer-heading" />
+            <SiteFooter />
+          </div>
+        </div>
+      </div>
+    </div>
   );
 }

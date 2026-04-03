@@ -8,8 +8,16 @@ const framework_order = [
   "Vue",
   "Nuxt",
   "SvelteKit",
-  "Stripe",
   "Refine",
+  "Android",
+  "React Native",
+  "Flutter",
+  "Apple",
+  "Astro",
+  "Next.js SSR",
+  "Nuxt SSR",
+  "SvelteKit SSR",
+  "Stripe",
 ];
 
 const category_order = [
@@ -20,12 +28,14 @@ const category_order = [
   "Databases",
   "Storage",
   "Functions",
+  "Other",
 ];
 
 export type TutorialListingItem = {
   title: string;
   framework: string;
   href: string;
+  draft?: boolean;
 };
 
 export type TutorialCategory = {
@@ -52,6 +62,7 @@ export function getTutorialCategories(): TutorialCategory[] {
     framework: string;
     category: string;
     slug: string;
+    draft?: boolean;
   }> = [];
 
   for (const ent of entries) {
@@ -63,13 +74,18 @@ export function getTutorialCategories(): TutorialCategory[] {
     const raw = fs.readFileSync(stepPath, "utf8");
     const { data } = matter(raw);
     const fm = data as TutorialFrontmatter;
-    if (fm.draft === true) continue;
 
     const title = fm.title ?? slug;
     const framework = fm.framework ?? slug;
     const category = fm.category ?? "Other";
 
-    allTutorials.push({ title, framework, category, slug });
+    allTutorials.push({
+      title,
+      framework,
+      category,
+      slug,
+      draft: fm.draft === true,
+    });
   }
 
   allTutorials.sort((a, b) => {
@@ -89,6 +105,7 @@ export function getTutorialCategories(): TutorialCategory[] {
         title: item.title,
         framework: item.framework,
         href: `/docs/tutorials/${item.slug}`,
+        draft: item.draft,
       });
       return acc;
     },

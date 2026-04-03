@@ -74,18 +74,18 @@ export function CodeCopyTooltip({
       onFocusCapture={() => setFocused(true)}
       onBlurCapture={() => setFocused(false)}
     >
-      {visible ? (
-        <span
-          role="tooltip"
-          className={cn(
-            "code-copy-tooltip pointer-events-none absolute z-[60] max-w-[12rem] whitespace-nowrap rounded-md px-2 py-1 text-center text-xs font-medium leading-tight shadow-md",
-            placement === "top" && "bottom-full left-1/2 mb-1.5 -translate-x-1/2",
-            placement === "bottom" && "top-full left-1/2 mt-1.5 -translate-x-1/2"
-          )}
-        >
-          {label}
-        </span>
-      ) : null}
+      <span
+        role="tooltip"
+        aria-hidden={!visible}
+        className={cn(
+          "code-copy-tooltip pointer-events-none absolute z-[60] max-w-[12rem] whitespace-nowrap rounded-md px-2 py-1 text-center text-xs font-medium leading-tight shadow-md transition-opacity",
+          placement === "top" && "bottom-full left-1/2 mb-1.5 -translate-x-1/2",
+          placement === "bottom" && "top-full left-1/2 mt-1.5 -translate-x-1/2",
+          visible ? "opacity-100" : "opacity-0"
+        )}
+      >
+        {label}
+      </span>
       {trigger}
     </span>
   );

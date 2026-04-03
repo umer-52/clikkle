@@ -15,15 +15,53 @@
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
 }
 
-/* Matches Appwrite `Main.svelte` marketing header shell */
+/* Matches Appwrite `Main.svelte` / ProductsSubmenu: header + products menu share max width */
 .aw-header-shell {
     display: flex;
     align-items: center;
     gap: 2rem;
-    inline-size: min(100%, 1280px);
+    /* 86.875rem = ProductsSubmenu.svelte [max-inline-size:86.875rem] (~1390px) */
+    inline-size: min(100%, 86.875rem);
     block-size: 100%;
     margin-inline: auto;
     padding-inline: 24px;
+}
+
+/*
+ * Products mega menu: full width between header gutters, card capped at Appwrite’s 86.875rem.
+ * Inset + flex (not translateX) so Framer Motion’s y transform does not break centering.
+ */
+.aw-products-mega-panel-host {
+    pointer-events: none;
+    position: fixed;
+    inset-inline: 24px;
+    top: 72px;
+    z-index: 1002;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    outline: none;
+}
+
+@media (min-width: 768px) {
+    .aw-products-mega-panel-host {
+        inset-inline: 48px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .aw-products-mega-panel-host {
+        inset-inline: 64px;
+    }
+}
+
+.aw-products-mega-panel-card {
+    pointer-events: auto;
+    margin-top: 1.5rem;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 86.875rem;
+    min-width: 0;
 }
 
 @media (min-width: 768px) {
