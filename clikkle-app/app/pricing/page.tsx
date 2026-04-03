@@ -54,23 +54,25 @@ const PRICING_COLUMNS = 'repeat(3, 1fr)';
 function PricingCardsGrid() {
   return (
     <>
-      {/* Svelte +page.svelte: --columns-template on .web-pricing-cards; list gap 1rem in page <style> */}
+      {/* Appwrite src/routes/pricing/+page.svelte + _pricing-cards.scss */}
       <div
         className="web-pricing-cards pricing-web-pricing-cards"
         style={{ ['--columns-template' as string]: PRICING_COLUMNS }}
       >
         <ul className="web-pricing-cards-list pricing-cards-grid">
-            {/* ── Free — article > .web-pricing-cards-item > header + content ── */}
-            <li>
-              <article className="pricing-card web-card-pricing">
-                <div className="pricing-card__item">
+            {/* Free — article > .web-pricing-cards-item > header + .web-pricing-cards-content */}
+            <li className="pricing-cards-grid__cell">
+              <article className="pricing-card web-card-pricing h-full">
+                <div className="pricing-card__item flex h-full min-h-0 flex-1 flex-col">
                   <header className="web-pricing-cards-header pricing-card__header">
-                    <h2 id="starter" className="pricing-card__name text-label text-primary">
+                    <h2 id="starter" className="pricing-card__name text-label text-primary font-aeonik-pro">
                       Free
                     </h2>
-                    <div className="pricing-card__price-stack pricing-card__price-stack--simple">
-                      <div className="pricing-card__price pricing-price text-title">$0</div>
-                      <div className="pricing-card__price-spacer" aria-hidden>
+                    <div className="pricing-card__price-stack pricing-card__price-stack--free">
+                      <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
+                        $0
+                      </div>
+                      <div className="pricing-card__price-spacer mt-1" aria-hidden>
                         &nbsp;
                       </div>
                     </div>
@@ -81,7 +83,9 @@ function PricingCardsGrid() {
                       href={CLOUD_REGISTER}
                       className="web-btn web-btn-secondary pricing-card__cta is-full-width"
                     >
-                      <span className="pricing-card__btn-label text-sub-body">Start building</span>
+                      <span className="pricing-card__btn-label text-sub-body font-medium">
+                        Start building
+                      </span>
                     </a>
                   </header>
                   <div className="web-pricing-cards-content pricing-card__content">
@@ -113,37 +117,38 @@ function PricingCardsGrid() {
               </article>
             </li>
 
-            {/* ── Pro — outer gradient border; article has header + content only (no inner item) ── */}
-            <li>
+            {/* Pro — Svelte: outer .web-card wrapper; article = header + content (no .web-pricing-cards-item) */}
+            <li className="pricing-cards-grid__cell">
               <div className="pricing-card-pro-wrapper web-card-pro-outer pricing-card-pro-wrapper--svelte">
-                <article className="pricing-card pricing-card--pro web-card-pricing-inner">
+                <article className="pricing-card pricing-card--pro web-card-pricing-inner flex h-full min-h-0 flex-col">
                   <header className="web-pricing-cards-header pricing-card__header">
-                    {/* Svelte: nested <header class="flex gap-3"> — title + tag inline, not space-between */}
-                    <div className="pricing-card-pro-heading-row flex flex-wrap items-center gap-3">
-                      <h2 id="pro" className="pricing-card__name text-label text-primary">
+                    <div className="pricing-card-pro-heading-row flex flex-wrap items-baseline gap-2">
+                      <h2 id="pro" className="pricing-card__name text-label text-primary font-aeonik-pro">
                         Pro
                       </h2>
                       <span className="pricing-inline-tag web-inline-tag is-pink">Most popular</span>
                     </div>
-                    <div className="pricing-card__price-stack">
-                      <span className="pricing-card__price-from pricing-card__price-from--tight">
-                        From
-                      </span>
-                      <div className="pricing-card__price-row pricing-card__price-row--pro">
-                        <span className="pricing-card__price pricing-price text-title">$25</span>
-                        <span className="pricing-card__price-suffix">/month</span>
+                    <div className="pricing-card__price-stack pricing-card__price-stack--pro">
+                      <span className="pricing-card__price-from">From</span>
+                      <div className="pricing-card__price-row">
+                        <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
+                          $25
+                        </div>
+                        <div className="pricing-card__price-suffix">/month</div>
                       </div>
                     </div>
-                    <p className="pricing-card__desc pricing-description">
+                    <p className="pricing-card__desc pricing-description text-main-body">
                       For production applications that need powerful functionality and resources to scale.
                     </p>
                     <a
                       href={CLOUD_PRO_CREATE}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="web-btn web-btn-primary pricing-card__cta is-full-width pricing-card__cta--pro"
+                      className="web-btn web-btn-primary pricing-card__cta is-full-width"
                     >
-                      <span className="pricing-card__btn-label">Start building</span>
+                      <span className="pricing-card__btn-label text-sub-body font-medium">
+                        Start building
+                      </span>
                     </a>
                   </header>
                   <div className="web-pricing-cards-content pricing-card__content">
@@ -182,17 +187,19 @@ function PricingCardsGrid() {
               </div>
             </li>
 
-            {/* ── Enterprise ── */}
-            <li>
-              <article className="pricing-card web-card-pricing">
-                <div className="pricing-card__item">
+            {/* Enterprise — same inner shell as Free */}
+            <li className="pricing-cards-grid__cell">
+              <article className="pricing-card web-card-pricing h-full">
+                <div className="pricing-card__item flex h-full min-h-0 flex-1 flex-col">
                   <header className="web-pricing-cards-header pricing-card__header">
-                    <h2 id="enterprise" className="pricing-card__name text-label text-primary">
+                    <h2 id="enterprise" className="pricing-card__name text-label text-primary font-aeonik-pro">
                       Enterprise
                     </h2>
-                    <div className="pricing-card__price-stack pricing-card__price-stack--simple pricing-card__price-stack--enterprise">
-                      <div className="pricing-card__price pricing-price text-title">Custom</div>
-                      <div className="pricing-card__price-spacer" aria-hidden>
+                    <div className="pricing-card__price-stack pricing-card__price-stack--enterprise">
+                      <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
+                        Custom
+                      </div>
+                      <div className="pricing-card__price-spacer mt-1" aria-hidden>
                         &nbsp;
                       </div>
                     </div>
@@ -201,9 +208,11 @@ function PricingCardsGrid() {
                     </p>
                     <Link
                       href="/contact-us/enterprise"
-                      className="web-btn web-btn-secondary pricing-card__cta is-full-width pricing-card__cta--enterprise"
+                      className="web-btn web-btn-secondary pricing-card__cta is-full-width"
                     >
-                      <span className="pricing-card__btn-label text-sub-body">Contact us</span>
+                      <span className="pricing-card__btn-label text-sub-body font-medium">
+                        Contact us
+                      </span>
                     </Link>
                   </header>
                   <div className="web-pricing-cards-content pricing-card__content">

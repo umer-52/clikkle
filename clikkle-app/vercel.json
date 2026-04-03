@@ -6,6 +6,11 @@
       "source": "/",
       "destination": "/clikkle",
       "permanent": false
+    },
+    {
+      "source": "/pricing",
+      "destination": "/clikkle/pricing",
+      "permanent": false
     }
   ]
 }
