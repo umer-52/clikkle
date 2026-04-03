@@ -5,7 +5,7 @@ import Link from "next/link";
 export function MarketingBottomCta() {
   return (
     <section
-      className="border-smooth border-t border-dashed border-white/10 bg-[#121215] py-20 md:py-28"
+      className="border-smooth border-t border-dashed border-white/10 bg-[var(--bg-primary)] py-20 md:py-28"
       aria-labelledby="marketing-bottom-cta-heading"
     >
       <div className="container mx-auto flex max-w-3xl flex-col items-center gap-8 px-4 text-center">

@@ -135,7 +135,7 @@
 
 .blog-categories-wrapper::before {
   left: 0;
-  background: linear-gradient(to right, #19191c, transparent);
+  background: linear-gradient(to right, var(--bg-primary), transparent);
 }
 
 .blog-categories-wrapper[data-state='start']::before {
@@ -144,7 +144,7 @@
 
 .blog-categories-wrapper::after {
   right: 0;
-  background: linear-gradient(to left, #19191c, transparent);
+  background: linear-gradient(to left, var(--bg-primary), transparent);
 }
 
 .blog-categories-wrapper[data-state='end']::after {

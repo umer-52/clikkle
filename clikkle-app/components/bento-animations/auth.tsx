@@ -22,18 +22,18 @@ export function BentoAuth() {
       <div className="relative mt-auto mb-0 flex h-85 items-center justify-between overflow-clip rounded-xl bg-black/24 px-8">
         <div className="flex h-full w-full items-center justify-center">
           <div className="border-smooth flex w-[264px] flex-col rounded-[40px] border bg-[#232325]/90">
-            <div className="pointer-events-none relative m-2 flex-1 rounded-4xl bg-[#19191C] p-4">
+            <div className="pointer-events-none relative m-2 flex-1 rounded-4xl bg-[var(--bg-primary)] p-4">
               <div className="flex flex-col gap-3">
                 <div className="flex flex-col gap-1">
                   <label htmlFor="email" className="leading-micro text-secondary text-[0.625rem] tracking-tighter">Email</label>
-                  <input type="text" name="email" className="border-smooth text-eyebrow w-full rounded-lg border bg-[#19191C] px-3 py-2 tracking-tighter text-white" defaultValue="walter@acme.dev" disabled />
+                  <input type="text" name="email" className="border-smooth text-eyebrow w-full rounded-lg border bg-[var(--bg-primary)] px-3 py-2 tracking-tighter text-white" defaultValue="walter@acme.dev" disabled />
                 </div>
                 <div className="flex flex-col gap-1">
                   <label htmlFor="password" className="leading-micro text-secondary text-[0.625rem] tracking-tighter">Create Password</label>
                   <input
                     type="text"
                     name="password"
-                    className={cn('text-eyebrow! w-full rounded-lg border border-white/24 bg-[#19191C] px-3 py-2 tracking-tighter text-white')}
+                    className={cn('text-eyebrow! w-full rounded-lg border border-white/24 bg-[var(--bg-primary)] px-3 py-2 tracking-tighter text-white')}
                     placeholder="Your Password"
                     defaultValue="•••••••••••••"
                     disabled

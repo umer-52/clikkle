@@ -16,7 +16,7 @@ export default function IntegrationsPage() {
     const featuredIntegrations = integrations.filter(i => i.featured);
 
     return (
-        <main className="flex flex-col bg-[#19191C] overflow-hidden min-h-screen">
+        <main className="flex flex-col bg-[var(--bg-primary)] overflow-hidden min-h-screen">
             {/* Hero Section */}
             <header className="relative pt-40 pb-20 overflow-hidden">
                 <div className="absolute top-0 right-[-10%] w-[800px] h-[800px] bg-[#2D63FF]/10 blur-[120px] rounded-full pointer-events-none" />
@@ -42,7 +42,7 @@ export default function IntegrationsPage() {
                 </div>
             </header>
 
-            <div className="py-20 bg-[#19191C] border-t border-white/10">
+            <div className="py-20 bg-[var(--bg-primary)] border-t border-white/10">
                 <div className="container mx-auto lg:grid lg:grid-cols-[240px_1fr] gap-16 items-start">
                     
                     {/* Sidebar / Filters */}
@@ -154,7 +154,7 @@ export default function IntegrationsPage() {
             </div>
 
             {/* Bottom CTA Block */}
-            <div className="bg-[#19191C] pt-24 pb-32 border-t border-white/5 relative z-10">
+            <div className="bg-[var(--bg-primary)] pt-24 pb-32 border-t border-white/5 relative z-10">
                 <div className="container mx-auto">
                     <div className="max-w-2xl text-center mx-auto flex flex-col gap-6 items-center">
                         <h2 className="text-display font-aeonik-pro text-white">Become a Technology Partner</h2>

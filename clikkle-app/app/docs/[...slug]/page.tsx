@@ -1,9 +1,12 @@
 import {
   getDocBySlug,
   getAllDocSlugs,
+  getDocRawMarkdown,
   getTutorialSeriesTitle,
   getTutorialStepsFull,
 } from "@/lib/docs";
+import { hasDocsRoutePrompt } from "@/lib/docs/route-prompts";
+import { DocsCopyPage } from "@/components/docs/docs-copy-page";
 import { ReferenceServicePage } from "@/components/references/reference-service-page";
 import { loadReferenceServicePageData } from "@/lib/references/load-reference-service";
 import { isReferenceServiceSlug } from "@/lib/references/reference-slug";
@@ -20,6 +23,8 @@ import { DocsTutorialView } from "@/components/docs/docs-tutorial-view";
 import { TutorialHeadingsProvider } from "@/components/docs/tutorial-headings-context";
 import { TutorialCodeProvider } from "@/components/markdoc/tutorial-code-context";
 import { AiPromptBox } from "@/components/docs/ai-prompt-box";
+import { DatabasesArticleBanner } from "@/components/docs/databases-article-banner";
+import { DocsArticleGridContent } from "@/components/docs/docs-article-grid-content";
 import { DocsOnThisPage } from "@/components/docs/docs-on-this-page";
 import { DocsProse } from "@/components/docs/docs-prose";
 import { getDocsProseSurfaceClasses } from "@/lib/docs-prose-surface-classes";
@@ -32,7 +37,14 @@ import { DocsInlineInfo } from "@/components/markdoc/docs-inline-info";
 import { DocsCards, DocsCardsItem, DocsCardsImageItem } from "@/components/markdoc/docs-cards";
 import { DocsAccordion, DocsAccordionItem } from "@/components/markdoc/docs-accordion";
 import { DocsList } from "@/components/markdoc/docs-list";
-import { DocsTable } from "@/components/markdoc/docs-table";
+import { DocsTable, TableTag } from "@/components/markdoc/docs-table";
+import {
+  DocsThead,
+  DocsTbody,
+  DocsTr,
+  DocsTh,
+  DocsTd,
+} from "@/components/markdoc/docs-table-parts";
 import { DocsIcon } from "@/components/markdoc/docs-icon";
 import { DocsIconImage } from "@/components/markdoc/docs-icon-image";
 
@@ -134,7 +146,12 @@ const components = {
   MarkdocFence,
   List: DocsList,
   DocsTable,
-  Table: ({ children }: { children: React.ReactNode }) => <DocsTable>{children}</DocsTable>,
+  Table: TableTag,
+  Thead: DocsThead,
+  Tbody: DocsTbody,
+  Tr: DocsTr,
+  Th: DocsTh,
+  Td: DocsTd,
   Width: ({ children }: { children: React.ReactNode }) => (
     <span className="block w-full">{children}</span>
   ),
@@ -245,6 +262,8 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
     notFound();
   }
 
+  const rawMarkdown = await getDocRawMarkdown(slug);
+
   // Render Markdoc AST to React elements
   const content = Markdoc.renderers.react(doc.content, React, { components });
 
@@ -263,6 +282,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
     }
     const seriesTitle = getTutorialSeriesTitle(framework);
     const back = String(doc.frontmatter?.back ?? "/docs/tutorials");
+    const showTutorialCopy = !hasDocsRoutePrompt(slug) && rawMarkdown != null;
 
     return (
       <TutorialCodeProvider>
@@ -273,6 +293,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
             currentStep={currentStepItem.step}
             currentStepItem={currentStepItem}
             back={back}
+            copyMarkdown={showTutorialCopy ? rawMarkdown : null}
           >
             <div className={cn(getDocsProseSurfaceClasses(true), "max-w-none")}>{content}</div>
           </DocsTutorialView>
@@ -284,6 +305,8 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
   const isArticleLayout = doc.frontmatter?.layout === "article";
   const layoutVariant = resolveDocsVariantForSlug(slug);
   const useArticleContentsGrid = isArticleLayout && layoutVariant === "two-side-navs";
+  const showArticleCopy =
+    isArticleLayout && !hasDocsRoutePrompt(slug) && rawMarkdown != null;
 
   const metadataRow =
     doc.frontmatter?.difficulty || doc.frontmatter?.readtime ? (
@@ -310,7 +333,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
         useArticleContentsGrid
           ? "web-article-header flex items-start justify-between"
           : isArticleLayout
-            ? "sticky top-0 z-[17] -mx-6 mb-6 border-b border-[var(--color-border-subtle)] bg-[var(--bg-primary)]/95 pb-8 pt-2 backdrop-blur-sm dark:border-white/[0.08] dark:bg-[#19191c]/95 md:-mx-10 lg:pl-0"
+            ? "sticky top-0 z-[17] -mx-6 mb-6 border-b border-[var(--color-border-subtle)] bg-[var(--bg-primary)]/95 pb-8 pt-2 backdrop-blur-sm dark:border-white/[0.08] dark:bg-[var(--bg-primary)]/95 md:-mx-10 lg:pl-0"
             : "mb-8"
       }
     >
@@ -322,6 +345,11 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
                 <NextLink href={doc.frontmatter.back} className="web-icon-button" aria-label="Back">
                   <ChevronLeft className="h-5 w-5 pr-0.5" />
                 </NextLink>
+              ) : null}
+              {showArticleCopy ? (
+                <div className="copy-button-wrapper-mobile ml-auto">
+                  <DocsCopyPage markdown={rawMarkdown!} className="ml-0" />
+                </div>
               ) : null}
             </div>
             {metadataRow}
@@ -339,17 +367,51 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
               {titleBlock}
             </div>
           </div>
-          <div
-            className="web-article-header-end copy-button-wrapper hidden self-center lg:block"
-            aria-hidden
-          />
+          {showArticleCopy ? (
+            <div className="web-article-header-end copy-button-wrapper hidden self-center lg:block">
+              <DocsCopyPage markdown={rawMarkdown!} className="ml-0" />
+            </div>
+          ) : null}
         </>
+      ) : isArticleLayout ? (
+        <div className="flex w-full flex-col gap-3 lg:flex-row lg:items-start lg:justify-between">
+          <div className="flex w-full items-center justify-between gap-3 lg:hidden">
+            <div className="flex items-center gap-2">
+              {doc.frontmatter?.back ? (
+                <NextLink href={doc.frontmatter.back} className="web-icon-button" aria-label="Back">
+                  <ChevronLeft className="h-5 w-5 pr-0.5" />
+                </NextLink>
+              ) : null}
+            </div>
+            {showArticleCopy ? <DocsCopyPage markdown={rawMarkdown!} /> : null}
+          </div>
+          <div className="flex min-w-0 flex-1 items-start gap-4 md:gap-6">
+            {doc.frontmatter?.back ? (
+              <NextLink
+                href={doc.frontmatter.back}
+                className="mt-1 hidden h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[var(--color-border-default)] bg-[var(--bg-secondary)] text-[var(--color-text-primary)] transition-colors hover:bg-[var(--color-smooth)] lg:flex dark:border-white/10 dark:bg-[var(--bg-secondary)] dark:text-white dark:hover:bg-white/10"
+                aria-label="Back"
+              >
+                <ChevronLeft className="h-5 w-5 pr-0.5" />
+              </NextLink>
+            ) : null}
+            <div className="min-w-0 flex-1">
+              {metadataRow}
+              {titleBlock}
+            </div>
+          </div>
+          {showArticleCopy ? (
+            <div className="copy-button-wrapper hidden shrink-0 self-center lg:block">
+              <DocsCopyPage markdown={rawMarkdown!} />
+            </div>
+          ) : null}
+        </div>
       ) : (
-        <div className={`flex items-start gap-4 ${isArticleLayout ? "md:gap-6" : ""}`}>
+        <div className="flex items-start gap-4">
           {doc.frontmatter?.back ? (
             <NextLink
               href={doc.frontmatter.back}
-              className="mt-1 flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[var(--color-border-default)] bg-[var(--bg-secondary)] text-[var(--color-text-primary)] transition-colors hover:bg-[var(--color-smooth)] dark:border-white/10 dark:bg-[#1C1C1E] dark:text-white dark:hover:bg-white/10"
+              className="mt-1 flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-[var(--color-border-default)] bg-[var(--bg-secondary)] text-[var(--color-text-primary)] transition-colors hover:bg-[var(--color-smooth)] dark:border-white/10 dark:bg-[var(--bg-secondary)] dark:text-white dark:hover:bg-white/10"
               aria-label="Back"
             >
               <ChevronLeft className="h-5 w-5 pr-0.5" />
@@ -376,6 +438,11 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
     </p>
   ) : null;
 
+  const databasesBanner =
+    isArticleLayout && doc.slug.startsWith("products/databases") ? (
+      <DatabasesArticleBanner slug={slug} />
+    ) : null;
+
   const proseBody = (
     <DocsProse
       isArticleLayout={isArticleLayout}
@@ -395,22 +462,21 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
   const mainBody = useArticleContentsGrid ? (
     <>
       {articleHeader}
-      <div
-        className={cn(
-          "web-article-content web-reduced-article-size pb-24",
-          getDocsProseSurfaceClasses(isArticleLayout)
-        )}
+      <DocsArticleGridContent
+        className={cn("pb-24", getDocsProseSurfaceClasses(isArticleLayout))}
       >
         {descriptionBlock}
+        {databasesBanner}
         {doc.slug.startsWith("quick-starts/") ? <AiPromptBox /> : null}
         {proseBody}
-      </div>
+      </DocsArticleGridContent>
       {tocAside}
     </>
   ) : (
     <>
       {articleHeader}
       {descriptionBlock}
+      {databasesBanner}
       {doc.slug.startsWith("quick-starts/") ? <AiPromptBox /> : null}
       {proseBody}
     </>

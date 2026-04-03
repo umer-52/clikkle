@@ -59,7 +59,7 @@ function getScoreColor(score: number) {
 
 export function LLMBenchmark() {
   return (
-    <section className="py-24 bg-[#19191C]">
+    <section className="py-24 bg-[var(--bg-primary)]">
       <div className="container mx-auto px-6">
         {/* Header */}
         <motion.div
@@ -76,10 +76,16 @@ export function LLMBenchmark() {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/docs/tooling/skills" className="bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 text-white font-semibold px-8 py-3 rounded-xl transition-all text-center">
+            <Link
+              href="/docs/tooling/skills"
+              className="web-btn web-btn-primary aw-cta-button aw-focus-ring w-full justify-center sm:w-auto"
+            >
               Install skill
             </Link>
-            <a href="#benchmark-table" className="border border-white/10 hover:border-white/20 text-white font-semibold px-8 py-3 rounded-xl transition-all text-center">
+            <a
+              href="#benchmark-table"
+              className="web-btn web-btn-secondary aw-focus-ring w-full justify-center sm:w-auto"
+            >
               View full benchmark
             </a>
           </div>

@@ -156,7 +156,16 @@
     border-inline-end: solid 1px var(--web-color-border);
   }
 
-  .web-grid-two-side-navs .web-article-header,
+  /* Appwrite `_grid-two-side-navs.scss` @media break2open: sticky article header breaks grid + TOC rail */
+  .web-grid-two-side-navs .web-article-header {
+    position: static;
+    z-index: auto;
+    inline-size: 100%;
+    max-inline-size: 43.5rem;
+    padding-inline: var(--p-grid-huge-navs-padding-inline);
+    margin-inline: auto;
+  }
+
   .web-grid-two-side-navs .web-article-content {
     inline-size: 100%;
     max-inline-size: 43.5rem;
@@ -171,10 +180,12 @@
   }
 
   /* Appwrite `DocsArticle` + `table-of-contents.svelte`: rail stays in view; list scrolls inside. */
+  /* `align-self: flex-start`: flex/sticky quirk — rail stays viewport-pinned like Appwrite `table-of-contents.svelte` `sticky top-32` */
   .web-grid-two-side-navs .web-references-menu-content,
   .web-references-menu-sticky-inner {
     position: sticky;
     inset-block-start: var(--p-grid-huge-navs-secondary-sticky-position);
+    align-self: flex-start;
     max-block-size: calc(100dvh - var(--p-grid-huge-navs-secondary-sticky-position) - 1.25rem);
     min-block-size: 0;
     box-sizing: border-box;
@@ -195,15 +206,21 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    flex: 1 1 auto;
+    /* `overflow: hidden` + `flex-basis: 0` — flex item must shrink so the inner list gets a real scrollport */
+    flex: 1 1 0;
     min-block-size: 0;
-    max-block-size: min(37.5rem, calc(100dvh - var(--p-grid-huge-navs-secondary-sticky-position) - 9rem));
+    overflow: hidden;
+    max-block-size: min(
+      37.5rem,
+      max(0px, calc(100dvh - var(--p-grid-huge-navs-secondary-sticky-position) - 9rem))
+    );
   }
 
   .web-grid-two-side-navs .web-references-menu-content > .docs-toc-body > .web-references-menu-list,
   .web-references-menu-sticky-inner > .docs-toc-body > .web-references-menu-list {
-    flex: 1 1 auto;
+    flex: 1 1 0;
     min-block-size: 0;
+    max-block-size: 100%;
     overflow-x: hidden;
     overflow-y: auto;
     overscroll-behavior: contain;

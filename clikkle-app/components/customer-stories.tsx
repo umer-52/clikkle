@@ -63,8 +63,8 @@ export function CustomerStories() {
                                 '[grid-template-areas:"stack"] md:max-h-[467px]',
                                 'group/card hover:bg-white/5',
                                 'outline-0 hover:shadow-[0px_0px_0px_4px_rgba(255,255,255,0.05)] focus:shadow-[0px_0px_0px_4px_rgba(255,255,255,0.05)]',
-                                'data-[state="off"]:basis-[15%] data-[state="off"]:bg-[#19191C]/50 data-[state="off"]:p-8',
-                                'data-[state="on"]:basis-[70%] data-[state="on"]:bg-[#19191C]/80 data-[state="on"]:p-8 data-[state="on"]:shadow-[0px_0px_0px_4px_rgba(255,255,255,0.05)] md:data-[state="on"]:p-12',
+                                'data-[state="off"]:basis-[15%] data-[state="off"]:bg-[var(--bg-primary)]/50 data-[state="off"]:p-8',
+                                'data-[state="on"]:basis-[70%] data-[state="on"]:bg-[var(--bg-primary)]/80 data-[state="on"]:p-8 data-[state="on"]:shadow-[0px_0px_0px_4px_rgba(255,255,255,0.05)] md:data-[state="on"]:p-12',
                                 'min-h-[100px]'
                             )}
                         >

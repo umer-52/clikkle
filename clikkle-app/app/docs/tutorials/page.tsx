@@ -3,9 +3,9 @@ import { getTutorialCategories } from "@/lib/tutorials-index";
 import { getTutorialIconClass } from "@/lib/docs-icons";
 
 export const metadata = {
-  title: "Tutorials - Docs - Clikkle",
+  title: "Tutorials - Docs - Appwrite",
   description:
-    "Follow a simple tutorial to get started with Clikkle in your preferred framework quickly and easily.",
+    "Follow a simple tutorial to get started with Appwrite in your preferred framework quickly and easily.",
 };
 
 /** Appwrite `src/routes/docs/tutorials/+page.svelte` */

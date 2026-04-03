@@ -45,7 +45,7 @@ export function PricingCards({ tiers }: { tiers?: PricingTier[] } = {}) {
               <article 
                 className={`flex flex-col h-full rounded-3xl p-8 transition-all duration-300 ${
                   tier.featured 
-                    ? "bg-[#19191c] border border-[var(--color-primary)]/50 shadow-[0_0_40px_rgba(240,46,101,0.1)] transform md:-translate-y-4" 
+                    ? "bg-[var(--bg-primary)] border border-[var(--color-primary)]/50 shadow-[0_0_40px_rgba(240,46,101,0.1)] transform md:-translate-y-4" 
                     : "bg-[var(--bg-secondary)] border border-[var(--border-color)] hover:border-[var(--color-primary)]/30 hover:shadow-[var(--shadow-4)]"
                 }`}
               >
@@ -83,7 +83,7 @@ export function PricingCards({ tiers }: { tiers?: PricingTier[] } = {}) {
                   href={tier.price === "Custom" ? "/contact" : "/register"}
                   className={`w-full py-3 px-6 rounded-lg text-center font-semibold text-sm transition-all outline-none focus-visible:ring-2 focus-visible:ring-offset-2 ${
                     tier.featured 
-                      ? "bg-[var(--color-primary)] text-white hover:bg-[var(--color-primary-hover)] focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-[#19191c]" 
+                      ? "bg-[var(--color-primary)] text-white hover:bg-[var(--color-primary-hover)] focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-[var(--bg-primary)]" 
                       : "bg-[var(--bg-primary)] text-[var(--text-primary)] border border-[var(--border-color)] hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] focus-visible:ring-[var(--color-primary)] focus-visible:ring-offset-[var(--bg-secondary)]"
                   }`}
                 >

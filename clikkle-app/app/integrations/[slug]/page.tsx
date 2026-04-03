@@ -32,7 +32,7 @@ export default async function IntegrationDetailPage({ params }: { params: Promis
     }
 
     return (
-        <main className="flex flex-col bg-[#19191C] overflow-hidden min-h-screen">
+        <main className="flex flex-col bg-[var(--bg-primary)] overflow-hidden min-h-screen">
             {/* Header / Hero */}
             <div className="bg-[#17171A] pt-40 pb-16 relative">
                 <div className="container mx-auto">
@@ -56,7 +56,7 @@ export default async function IntegrationDetailPage({ params }: { params: Promis
             </div>
 
             {/* Content Body */}
-            <div className="py-20 bg-[#19191C]">
+            <div className="py-20 bg-[var(--bg-primary)]">
                 <div className="container mx-auto">
                     <article className="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-16 lg:gap-24">
                         
@@ -109,7 +109,7 @@ export default async function IntegrationDetailPage({ params }: { params: Promis
             </div>
 
             {/* Bottom CTA Block */}
-            <div className="bg-[#19191C] pt-24 pb-32 border-t border-white/5 relative z-10">
+            <div className="bg-[var(--bg-primary)] pt-24 pb-32 border-t border-white/5 relative z-10">
                 <div className="container mx-auto text-center flex flex-col items-center gap-6 max-w-2xl">
                     <h2 className="text-display font-aeonik-pro text-white">Become a Technology Partner</h2>
                     <p className="text-main-body text-white/60 font-medium">

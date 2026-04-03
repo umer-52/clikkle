@@ -19,7 +19,7 @@ export function DashboardMockup() {
   });
 
   return (
-    <div className="w-full h-full bg-[#1e1e21] rounded-[2rem] border border-white/10 shadow-[0_0_80px_rgba(0,0,0,0.5)] overflow-hidden flex flex-col font-sans relative">
+    <div className="w-full h-full bg-[var(--bg-secondary)] rounded-[2rem] border border-white/10 shadow-[0_0_80px_rgba(0,0,0,0.5)] overflow-hidden flex flex-col font-sans relative">
       
       {/* Top Header */}
       <div className="h-14 border-b border-white/5 flex items-center px-6 gap-3 shrink-0 bg-[#2A2A2D]/30 backdrop-blur-sm relative z-10">
@@ -38,8 +38,8 @@ export function DashboardMockup() {
       <div className="flex flex-1 overflow-hidden">
         
         {/* Left Sidebar */}
-        <div className="w-56 border-r border-white/5 bg-[#19191C]/50 flex flex-col pt-6 px-3 shrink-0 hidden md:flex">
-          <div className="px-3 py-2 bg-[#2A2A2D]/80 text-white rounded-lg flex items-center gap-3 text-sm font-medium mb-6 transition-colors">
+        <div className="w-56 border-r border-white/5 bg-[var(--bg-muted)]/90 flex flex-col pt-6 px-3 shrink-0 hidden md:flex">
+          <div className="px-3 py-2 bg-[var(--bg-secondary)]/80 text-white rounded-lg flex items-center gap-3 text-sm font-medium mb-6 transition-colors">
             <MonitorPlay className="w-4 h-4 text-[#A1A1AA]" />
             Overview
           </div>
@@ -70,7 +70,7 @@ export function DashboardMockup() {
           </div>
 
           {/* Chart Card */}
-          <div className="bg-[#19191C]/50 border border-white/5 rounded-2xl p-6 shadow-sm mb-6 max-w-3xl">
+          <div className="bg-[var(--bg-primary)]/50 border border-white/5 rounded-2xl p-6 shadow-sm mb-6 max-w-3xl">
             <div className="mb-6">
               <div className="flex items-baseline gap-2">
                 <span className="text-2xl md:text-3xl font-bold font-mono text-white tracking-tighter">1.19</span>
@@ -80,7 +80,7 @@ export function DashboardMockup() {
             </div>
 
             {/* Fake Bar Chart */}
-            <div className="w-full h-40 flex items-end justify-between gap-0.5 md:gap-1 mt-8 border-b border-[#2A2A2D] pb-1">
+            <div className="w-full h-40 flex items-end justify-between gap-0.5 md:gap-1 mt-8 border-b border-[var(--color-border-subtle)] pb-1">
               {chartBars}
             </div>
             
@@ -98,13 +98,13 @@ export function DashboardMockup() {
 
           {/* Lower Cards Peek */}
           <div className="grid grid-cols-2 gap-6 max-w-3xl">
-             <div className="h-24 rounded-[1.5rem] bg-[#1E1E21] border border-[#2A2A2D] p-5 flex flex-col justify-end">
+             <div className="h-24 rounded-[1.5rem] bg-[var(--bg-secondary)] border border-[var(--color-border-subtle)] p-5 flex flex-col justify-end">
                 <div className="flex items-center justify-between text-[#A1A1AA] text-xs font-bold uppercase tracking-wider">
                   <span>Databases</span>
                   <Database className="w-4 h-4" />
                 </div>
              </div>
-             <div className="h-24 rounded-[1.5rem] bg-[#1E1E21] border border-[#2A2A2D] p-5 flex flex-col justify-end">
+             <div className="h-24 rounded-[1.5rem] bg-[var(--bg-secondary)] border border-[var(--color-border-subtle)] p-5 flex flex-col justify-end">
                 <div className="flex items-center justify-between text-[#A1A1AA] text-xs font-bold uppercase tracking-wider">
                   <span>Storage</span>
                   <FolderArchive className="w-4 h-4" />
@@ -121,7 +121,7 @@ export function DashboardMockup() {
 // NavItem Helper
 function NavItem({ icon: Icon, label }: { icon: React.ElementType, label: string }) {
   return (
-    <div className="px-3 py-2 text-[#A1A1AA] rounded-lg flex items-center gap-3 text-[13px] font-medium transition-colors hover:text-white hover:bg-[#232325] cursor-pointer">
+    <div className="px-3 py-2 text-[#A1A1AA] rounded-lg flex items-center gap-3 text-[13px] font-medium transition-colors hover:text-white hover:bg-[var(--bg-secondary)] cursor-pointer">
       <Icon className="w-4 h-4 opacity-70" />
       {label}
     </div>

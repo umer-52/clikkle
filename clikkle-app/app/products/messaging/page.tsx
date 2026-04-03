@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 
 export default function MessagingPage() {
     return (
-        <main className="flex flex-col bg-[#19191C]">
+        <main className="flex flex-col bg-[var(--bg-primary)]">
             {/* Custom Hero for Messaging */}
             <div className="relative overflow-hidden pt-32 pb-40 border-b border-white/8">
                 {/* Background Blurs */}
@@ -167,7 +167,7 @@ export default function MessagingPage() {
             </div>
 
             {/* SDKs Section */}
-            <div className="relative z-[1] bg-[#19191C] pt-10">
+            <div className="relative z-[1] bg-[var(--bg-primary)] pt-10">
                 <div className="container py-20">
                     <div className="flex flex-col items-start">
                         <span className="text-xs font-aeonik-fono px-3 py-1 bg-white/10 text-white uppercase rounded-full w-fit mb-4 tracking-widest">

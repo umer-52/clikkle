@@ -7,7 +7,7 @@
   position: relative;
   overflow: hidden;
   padding-block: 5rem 3rem;
-  background-color: #19191c;
+  background-color: var(--bg-primary);
 }
 
 .customers-hero__glow {
@@ -48,7 +48,7 @@
 
 /* ---------- Story Cards Grid ---------- */
 .customers-grid-section {
-  background-color: #19191c;
+  background-color: var(--bg-primary);
   padding-block: 0 4rem;
 }
 
@@ -220,7 +220,7 @@
 
 /* ---------- Bottom CTA + Footer ---------- */
 .customers-bottom-cta {
-  background: #19191c;
+  background: var(--bg-primary);
   padding-block: 2rem 0;
   border-top: 1px solid rgba(255, 255, 255, 0.05);
 }

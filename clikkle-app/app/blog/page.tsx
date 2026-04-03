@@ -308,7 +308,7 @@ export default function BlogPage() {
                           </h4>
                         </Link>
                         <div className="text-paragraph-md flex flex-wrap items-center gap-2">
-                          <img className="size-5 rounded-full ring-2 ring-[#19191c]"
+                          <img className="size-5 rounded-full ring-2 ring-[var(--bg-primary)]"
                             src={author.avatar}
                             alt={author.name}
                             loading="lazy" />

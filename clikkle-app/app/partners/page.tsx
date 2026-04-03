@@ -73,7 +73,7 @@ const Puzzle = () => {
 };
 
 const Hero = () => (
-    <div className="grid-bg border-dashed border-black/8 relative box-content flex items-center border-b px-4 py-12 md:py-20 lg:px-8 xl:px-16 bg-[#19191C]">
+    <div className="grid-bg border-dashed border-black/8 relative box-content flex items-center border-b px-4 py-12 md:py-20 lg:px-8 xl:px-16 bg-[var(--bg-primary)]">
         <div className="container mx-auto grid grid-cols-1 place-items-center gap-16 md:grid-cols-2 relative z-10">
             <div className="flex max-w-lg flex-col gap-8 text-center md:text-left">
                 <div className="flex items-center justify-center md:justify-start gap-2">
@@ -158,7 +158,7 @@ const Benefits = () => {
     ];
 
     return (
-        <div className="bg-[#19191C] text-white">
+        <div className="bg-[var(--bg-primary)] text-white">
             <div className="flex flex-col items-center border-b border-dashed border-white/10 py-16 md:py-24">
                 <div className="mb-16 flex flex-col gap-3 text-center px-4">
                     <span className="font-aeonik-fono text-sm font-bold uppercase tracking-widest text-[#2D63FF]">
@@ -170,7 +170,7 @@ const Benefits = () => {
                 <div className="container mx-auto max-w-6xl px-4 md:px-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 border border-dashed border-white/10 [&>div]:border-b [&>div]:border-dashed [&>div]:border-white/10 md:[&>div:nth-child(2n)]:border-l lg:[&>div:nth-child(2n)]:border-l-0 lg:[&>div:nth-child(n)]:border-l [&>div:nth-child(2n)]:border-l-0 lg:[&>div:nth-child(1)]:border-l-0 lg:[&>div:nth-child(4)]:border-l-0 lg:[&>div:nth-child(n+4)]:border-b-0 md:[&>div:nth-child(n+5)]:border-b-0">
                         {items.map((item, i) => (
-                            <div key={i} className="bg-[#19191C] flex flex-col gap-4 p-8 relative group hover:bg-white/5 transition-colors">
+                            <div key={i} className="bg-[var(--bg-primary)] flex flex-col gap-4 p-8 relative group hover:bg-white/5 transition-colors">
                                 <img src={item.icon} alt={item.title} className="w-12 h-12" />
                                 <h3 className="font-aeonik-pro text-2xl font-medium mt-2">{item.title}</h3>
                                 <p className="text-white/60 text-lg leading-relaxed">{item.description}</p>
@@ -193,7 +193,7 @@ const Benefits = () => {
                 <div className="container mx-auto max-w-6xl px-4 md:px-6">
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-0 border border-dashed border-white/10 [&>div]:border-b [&>div]:border-dashed [&>div]:border-white/10 md:[&>div]:border-b-0 md:[&>div:nth-child(n+2)]:border-l">
                         {whys.map((why, i) => (
-                            <div key={i} className="bg-[#19191C] flex flex-col items-center text-center gap-4 p-8 relative group hover:bg-white/5 transition-colors">
+                            <div key={i} className="bg-[var(--bg-primary)] flex flex-col items-center text-center gap-4 p-8 relative group hover:bg-white/5 transition-colors">
                                 <img src={why.icon} alt={why.title} className="w-12 h-12" />
                                 <h3 className="font-aeonik-pro text-2xl font-medium mt-2">{why.title}</h3>
                                 <p className="text-white/60 text-base leading-relaxed">{why.description}</p>
@@ -255,7 +255,7 @@ const Partners = () => {
 
                     <Button 
                         variant="outline"
-                        className="mt-4 w-full sm:w-auto mx-auto lg:mx-0 !border-transparent !bg-[#19191C] !text-white hover:!border-transparent hover:!bg-black hover:!text-white"
+                        className="mt-4 w-full sm:w-auto mx-auto lg:mx-0 !border-transparent !bg-[var(--bg-primary)] !text-white hover:!border-transparent hover:!bg-black hover:!text-white"
                         onClick={() => document.getElementById('become-a-partner')?.scrollIntoView({ behavior: 'smooth' })}>
                         Become a Partner
                     </Button>
@@ -308,7 +308,7 @@ const SubmissionForm = () => {
     ];
 
     return (
-        <div id="become-a-partner" className="relative -mb-[6rem] flex min-h-[75vh] flex-col items-center justify-center overflow-hidden bg-[#19191C] py-24 px-4 md:px-6">
+        <div id="become-a-partner" className="relative -mb-[6rem] flex min-h-[75vh] flex-col items-center justify-center overflow-hidden bg-[var(--bg-primary)] py-24 px-4 md:px-6">
             <div className="absolute inset-0 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at -15% -30%, hsla(343, 98%, 60%, 0.15) 0px, transparent 50%), radial-gradient(circle at 120% 125%, hsla(177, 53%, 69%, 0.15) 0px, transparent 50%)' }} />
 
             {!submitted ? (
@@ -364,7 +364,7 @@ const SubmissionForm = () => {
                             <p className="text-xs text-[#434347] font-medium leading-relaxed max-w-[280px] text-center sm:text-left">
                                 This form is protected by reCAPTCHA, and the Google Privacy Policy and Terms of Service apply.
                             </p>
-                            <Button type="submit" disabled={submitting} variant="outline" className="w-full sm:w-auto !border-transparent !bg-[#19191C] !text-white hover:!border-transparent hover:!bg-black hover:!text-white">
+                            <Button type="submit" disabled={submitting} variant="outline" className="w-full sm:w-auto !border-transparent !bg-[var(--bg-primary)] !text-white hover:!border-transparent hover:!bg-black hover:!text-white">
                                 {submitting ? 'Submitting...' : 'Submit application'}
                             </Button>
                         </div>
@@ -373,7 +373,7 @@ const SubmissionForm = () => {
             ) : (
                 <div className="relative z-10 container mx-auto flex max-w-sm flex-col gap-6 text-center bg-white p-12 rounded-[2rem] shadow-xl">
                     <div className="flex flex-col items-center gap-4">
-                        <div className="size-16 bg-[#19191C] text-white rounded-full flex items-center justify-center mb-2">
+                        <div className="size-16 bg-[var(--bg-primary)] text-white rounded-full flex items-center justify-center mb-2">
                             <Check className="w-8 h-8" />
                         </div>
                         <h2 className="text-3xl text-[#19191C] font-aeonik-pro">Thank you for applying</h2>

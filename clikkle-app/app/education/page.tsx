@@ -29,7 +29,7 @@ const Hero = () => {
         <div className="flex flex-col">
             <section className="gridLine horizontal relative mt-8 grid h-full min-h-[50vh] w-full place-items-center md:mt-32 md:grid-cols-[10%_1fr_10%] lg:grid-cols-[20%_1fr_20%] xl:grid-cols-3">
                 <div className="pattern relative hidden h-full w-full md:block opacity-20"></div>
-                <div className="gridLine vertical from-accent/5 relative flex h-full w-full flex-1 basis-[calc(100vw_/_3)] flex-col items-center justify-center gap-8 to-transparent px-4 md:px-8 py-10 text-center md:bg-gradient-to-t bg-[#19191C]">
+                <div className="gridLine vertical from-accent/5 relative flex h-full w-full flex-1 basis-[calc(100vw_/_3)] flex-col items-center justify-center gap-8 to-transparent px-4 md:px-8 py-10 text-center md:bg-gradient-to-t bg-[var(--bg-primary)]">
                     <Logos />
                     <h1 className="font-aeonik-pro text-display md:text-5xl lg:text-6xl text-white leading-tight">
                         Build your next project with Clikkle
@@ -222,7 +222,7 @@ const FAQ = () => {
 };
 
 const CallToAction = () => (
-    <div className="border-black/5 relative -mb-24 flex min-h-[600px] items-center justify-center border-y bg-[#19191C] overflow-hidden">
+    <div className="border-black/5 relative -mb-24 flex min-h-[600px] items-center justify-center border-y bg-[var(--bg-primary)] overflow-hidden">
         <div className="absolute inset-0 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at -15% -10%, hsla(343, 98%, 60%, 0.2) 0px, transparent 40%)' }} />
         <div className="absolute inset-0 pointer-events-none mt-auto" style={{ backgroundImage: 'radial-gradient(circle at 120% 125%, hsla(177, 53%, 69%, 0.2) 0px, transparent 40%)' }} />
         
@@ -245,7 +245,7 @@ const CallToAction = () => (
 
 export default function EducationPage() {
     return (
-        <main className="flex flex-col bg-[#19191C] min-h-screen">
+        <main className="flex flex-col bg-[var(--bg-primary)] min-h-screen">
             <Hero />
             <div className="light bg-[#EDEDF0] pb-32 -mx-4 md:mx-0 px-4 md:px-0">
                 <Kickstart />

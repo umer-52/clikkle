@@ -2,7 +2,7 @@ import { cn } from '@/lib/utils';
 
 export function AdvancedSecurity() {
     return (
-        <div className="flex flex-col gap-4 rounded-2xl bg-[#19191c]/90 p-2 lg:row-span-7 border border-white/10 shadow-lg shadow-black/50">
+        <div className="flex flex-col gap-4 rounded-2xl bg-[var(--bg-primary)]/90 p-2 lg:row-span-7 border border-white/10 shadow-lg shadow-black/50">
             <div className="flex flex-1 flex-col items-center justify-center rounded-lg bg-white/[0.02] p-6 border border-white/5 relative overflow-hidden">
                 <svg
                     width="263"

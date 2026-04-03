@@ -31,7 +31,7 @@ function MultiCodeInner({ children }: { children: React.ReactNode }) {
               </label>
               <select
                 id="multicode-lang"
-                className="markdoc-multicode-select rounded-md border border-[var(--color-border-default)] bg-[var(--bg-secondary)] px-2 py-1 text-sm text-[var(--color-text-primary)] dark:border-white/15 dark:bg-[#1C1C1E] dark:text-white"
+                className="markdoc-multicode-select rounded-md border border-[var(--color-border-default)] bg-[var(--bg-secondary)] px-2 py-1 text-sm text-[var(--color-text-primary)] dark:border-white/15 dark:bg-[var(--bg-secondary)] dark:text-white"
                 value={multi.selected ?? ""}
                 onChange={(e) => multi.setSelected(e.target.value || null)}
               >

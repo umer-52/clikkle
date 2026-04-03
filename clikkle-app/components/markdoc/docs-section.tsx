@@ -1,5 +1,8 @@
-import type { ReactNode } from "react";
+"use client";
+
+import { useEffect, type ReactNode } from "react";
 import { DocsHeading } from "@/components/markdoc/docs-heading";
+import { useDocsArticleNumericBadgeRegistration } from "@/components/docs/docs-article-grid-content";
 
 /** Appwrite `Section.svelte` */
 export function DocsSection({
@@ -14,6 +17,14 @@ export function DocsSection({
   children: ReactNode;
 }) {
   const stepVal = step !== undefined && step !== null && `${step}` !== "" ? step : null;
+  const badgeRegistry = useDocsArticleNumericBadgeRegistration();
+  const isNumericSection = stepVal !== null && Boolean(title);
+
+  useEffect(() => {
+    if (!isNumericSection || !badgeRegistry) return;
+    badgeRegistry.addBadge();
+    return () => badgeRegistry.removeBadge();
+  }, [isNumericSection, badgeRegistry]);
 
   if (stepVal === null || !title) {
     return <section className="web-article-content-section mt-8">{children}</section>;

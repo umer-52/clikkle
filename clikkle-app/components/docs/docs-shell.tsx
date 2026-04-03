@@ -14,7 +14,7 @@ import Link from "next/link";
 import { useDocsPathname } from "@/lib/docs/use-docs-pathname";
 import { useEffect, useMemo } from "react";
 
-const CTA_LINK = "https://cloud.clikkle.com/register";
+const DASHBOARD_HREF = "https://cloud.clikkle.com";
 
 /** Appwrite `Docs.svelte` composition: mobile header, main header, grid (`variantClass` + `is-open`), slot. */
 export function DocsShell({ children }: { children: React.ReactNode }) {
@@ -66,10 +66,11 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
         </div>
         <div className="flex items-center gap-2">
           <a
-            href={CTA_LINK}
-            className="hidden rounded-full bg-[var(--color-brand-primary)] px-3 py-1.5 text-sm font-medium text-white md:inline-flex"
+            href={DASHBOARD_HREF}
+            className="web-btn web-btn-primary aw-cta-button aw-focus-ring hidden md:inline-flex"
+            rel="noopener noreferrer"
           >
-            Start building
+            Go to Console
           </a>
           <button
             type="button"

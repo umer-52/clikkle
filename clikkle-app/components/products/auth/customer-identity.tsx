@@ -32,7 +32,7 @@ function EmailCard() {
 
     return (
         <div className="z-10 flex max-w-sm scale-95 flex-col gap-4 rounded-lg md:rounded-2xl border border-white/10 bg-white/5 bg-gradient-to-br from-white/10 to-transparent backdrop-blur-[32px] p-px">
-            <div className="flex flex-col gap-1 rounded-lg md:rounded-2xl bg-[#19191C]/80 divide-y divide-white/5">
+            <div className="flex flex-col gap-1 rounded-lg md:rounded-2xl bg-[var(--bg-primary)]/80 divide-y divide-white/5">
                 {emails.map((email, i) => (
                     <div key={i} className="flex items-center gap-3 p-3">
                         {email.open ? (
@@ -134,7 +134,7 @@ function MultiFactorCard() {
                     <div
                         key={i}
                         className={cn(
-                            'text-primary bg-[#19191c] pointer-events-none relative flex size-10 items-center justify-center space-x-4 rounded-lg border border-white/10 text-center text-lg shadow-lg shadow-black/5 transition-all duration-500 outline-none',
+                            'text-primary bg-[var(--bg-primary)] pointer-events-none relative flex size-10 items-center justify-center space-x-4 rounded-lg border border-white/10 text-center text-lg shadow-lg shadow-black/5 transition-all duration-500 outline-none',
                             {
                                 'border-[#2D63FF] shadow-[#2D63FF]/10 shadow-md': i === 3
                             }
@@ -177,8 +177,8 @@ export function CustomerIdentity() {
             <div
                 className={cn(
                     'relative mx-auto max-h-[50vh] lg:max-w-[85vw] xl:max-w-[75vw]',
-                    'before:to-[#19191c] before:absolute before:right-0 before:bottom-0 before:left-0 before:z-0 before:h-[350px] before:bg-gradient-to-b before:from-transparent',
-                    'after:to-[#19191c] after:absolute after:right-0 after:bottom-0 after:left-0 after:z-0 after:h-[350px] after:bg-gradient-to-b after:from-transparent'
+                    'before:to-[var(--bg-primary)] before:absolute before:right-0 before:bottom-0 before:left-0 before:z-0 before:h-[350px] before:bg-gradient-to-b before:from-transparent',
+                    'after:to-[var(--bg-primary)] after:absolute after:right-0 after:bottom-0 after:left-0 after:z-0 after:h-[350px] after:bg-gradient-to-b after:from-transparent'
                 )}
             >
                 <div className="max-h-[40vh] scale-90 md:max-h-[50vh] md:scale-100 relative w-full flex justify-center overflow-hidden">

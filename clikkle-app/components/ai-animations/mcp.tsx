@@ -80,7 +80,7 @@ export function McpAnimation() {
         </div>
 
         {/* Content: File tree + Code + Chat */}
-        <div className="flex flex-1 overflow-hidden rounded-2xl bg-[#19191C]">
+        <div className="flex flex-1 overflow-hidden rounded-2xl bg-[var(--bg-primary)]">
           {/* File tree hint */}
           <div className="flex w-14 shrink-0 flex-col gap-2 border-r border-white/[0.04] px-2 pt-3">
             <div className="flex items-center gap-1">

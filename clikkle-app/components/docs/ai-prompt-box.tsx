@@ -15,7 +15,7 @@ export function AiPromptBox() {
   };
 
   return (
-    <div className="my-10 flex items-center justify-between rounded-2xl border border-[var(--color-border-subtle)] bg-[var(--bg-elevated)] p-2 pr-4 shadow-sm transition-colors hover:bg-[var(--color-smooth)] dark:border-white/[0.08] dark:bg-[#18181b] dark:hover:bg-[#1f1f22]">
+    <div className="my-10 flex items-center justify-between rounded-2xl border border-[var(--color-border-subtle)] bg-[var(--bg-elevated)] p-2 pr-4 shadow-sm transition-colors hover:bg-[var(--color-smooth)] dark:border-white/[0.08] dark:bg-[var(--bg-secondary)] dark:hover:bg-[var(--bg-muted)]">
       <div className="flex items-center gap-4 px-2">
         {/* Sparkle Icon Box (Mimics the Official Clikkle AI box) */}
         <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-[#2D63FF]/20 bg-[#2D63FF]/5 text-[#2D63FF]">

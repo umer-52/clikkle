@@ -197,25 +197,75 @@
   color: hsl(343 51% 59%);
 }
 
-/* Table */
+/* Table — Appwrite `6-elements/_table.scss` (structure + spacing; colors stay on design tokens) */
 .web-table-wrapper {
-  overflow-x: auto;
+  margin-block-end: 2rem !important;
+  --p-table-border-color: var(--color-border-subtle);
+  --p-table-header-bg-color: var(--color-card);
+  --p-table-row-bg-odd-color: var(--bg-primary);
+  --p-table-row-bg-even-color: var(--bg-secondary);
+}
+
+.dark .web-table-wrapper {
+  --p-table-header-bg-color: color-mix(in srgb, var(--bg-secondary) 88%, #ffffff 4%);
+  --p-table-row-bg-odd-color: color-mix(in srgb, var(--bg-primary) 96%, #ffffff 2%);
+  --p-table-row-bg-even-color: color-mix(in srgb, var(--bg-secondary) 55%, var(--bg-primary));
 }
 
 .web-table-scroll {
+  overflow-x: auto;
   min-width: 100%;
+  border: 1px solid var(--p-table-border-color);
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 1023.98px) {
+  .web-table-scroll {
+    border-width: 0;
+  }
 }
 
 .web-table {
-  width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
+  border-style: hidden;
+  min-width: 100%;
+  font-size: 0.875rem;
   text-align: left;
 }
 
-.web-table th,
-.web-table td {
-  border: 1px solid var(--color-border-subtle);
-  padding: 0.5rem 0.75rem;
+.web-table-header {
+  background-color: var(--p-table-header-bg-color);
+  line-height: 1;
+}
+
+.web-table-body .web-table-row > * {
+  border-block-start: solid 1px var(--p-table-border-color);
+}
+
+.web-table-body .web-table-row:nth-child(odd) > td {
+  background-color: var(--p-table-row-bg-odd-color);
+}
+
+.web-table-body .web-table-row:nth-child(even) > td {
+  background-color: var(--p-table-row-bg-even-color);
+}
+
+/* Appwrite `_table.scss` body link treatment */
+.web-table-body a {
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-thickness: 0.75px;
+  text-decoration-color: color-mix(in srgb, var(--color-brand-primary) 50%, transparent);
+  text-underline-offset: 0.3125rem;
+  letter-spacing: -0.02em;
+  color: var(--color-brand-primary);
+  transition: color 100ms ease-in-out, text-decoration-color 100ms ease-in-out;
+}
+
+.web-table-body a:hover {
+  color: var(--color-text-primary);
+  text-decoration-color: var(--color-text-primary);
 }
 
 /* Inline info — `7-components/_inline-info.scss` (simplified) */

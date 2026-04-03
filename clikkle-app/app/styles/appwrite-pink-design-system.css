@@ -101,16 +101,16 @@ body[data-theme="dark"],
     --color-danger: #f31260;
     --color-info: #006fee;
 
-    /* Backgrounds */
-    --bg-primary: #19191c;
-    --bg-secondary: #26262b;
-    --bg-dark: #19191c;
+    /* Backgrounds — reference hero: canvas #0f0f13, cards #18181b, inset #141419 */
+    --bg-primary: #0f0f13;
+    --bg-secondary: #18181b;
+    --bg-dark: #0f0f13;
 
     /* Supporting surfaces */
-    --bg-elevated: #26262b;
-    --bg-muted: #1f1f23;
-    --bg-accent-soft: color-mix(in srgb, var(--color-brand-primary) 18%, #19191c);
-    --bg-secondary-accent-soft: color-mix(in srgb, var(--color-brand-secondary) 22%, #19191c);
+    --bg-elevated: #18181b;
+    --bg-muted: #141419;
+    --bg-accent-soft: color-mix(in srgb, var(--color-brand-primary) 18%, var(--bg-primary));
+    --bg-secondary-accent-soft: color-mix(in srgb, var(--color-brand-secondary) 22%, var(--bg-primary));
 
     /* Text — dark mode: light text on dark background
        Matches Svelte: --web-color-primary = greyscale-100 in dark */
@@ -120,15 +120,15 @@ body[data-theme="dark"],
     --color-text-inverse: #19191c;
 
     /* Borders */
-    --color-border-subtle: #2f2f35;
+    --color-border-subtle: #2a2a30;
     --color-border-default: var(--color-gray-700);
     --color-border-strong: var(--color-gray-600);
 
     /* Focus and states */
     --color-focus-ring: color-mix(in srgb, var(--color-brand-primary) 45%, transparent);
-    --color-selection: color-mix(in srgb, var(--color-brand-primary) 28%, #19191c);
+    --color-selection: color-mix(in srgb, var(--color-brand-primary) 28%, var(--bg-primary));
 
     /* Badge tokens */
-    --color-badge-bg-light: color-mix(in srgb, var(--color-brand-primary) 14%, #26262b);
+    --color-badge-bg-light: color-mix(in srgb, var(--color-brand-primary) 14%, var(--bg-elevated));
     --color-badge-border-light: color-mix(in srgb, var(--color-brand-primary) 35%, transparent);
 }

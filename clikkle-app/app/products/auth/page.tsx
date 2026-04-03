@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 
 export default function AuthPage() {
     return (
-        <main className="flex min-h-screen flex-col bg-[#19191C]">
+        <main className="flex min-h-screen flex-col bg-[var(--bg-primary)]">
             <AuthHero />
             <CustomerIdentity />
             <SecurityBento />

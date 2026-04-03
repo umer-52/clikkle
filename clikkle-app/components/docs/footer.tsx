@@ -186,7 +186,7 @@ function DocsThemeSelect() {
           e.stopPropagation();
           setOpen((o) => !o);
         }}
-        className="flex items-center gap-2 rounded-full border-2 border-white/20 bg-[#1c1c1e] px-3.5 py-2 text-sm font-medium text-white/90 transition-colors hover:border-white/30 hover:bg-[#252528]"
+        className="flex items-center gap-2 rounded-lg border-2 border-white/20 bg-[var(--bg-secondary)] px-3.5 py-2 text-sm font-medium text-white/90 transition-colors hover:border-white/30 hover:bg-[#252528]"
       >
         {current.icon}
         <span>{current.label}</span>

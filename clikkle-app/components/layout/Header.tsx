@@ -39,7 +39,7 @@ export function Header() {
     <header
       className={`sticky top-0 left-0 right-0 z-50 transition-colors duration-300 ${
         isScrolled
-          ? "bg-[#19191C]/80 backdrop-blur-xl border-b border-white/10"
+          ? "bg-[var(--bg-primary)]/80 backdrop-blur-xl border-b border-white/10"
           : "bg-transparent border-b border-transparent"
       }`}
     >
@@ -69,7 +69,7 @@ export function Header() {
             onMouseEnter={() => setIsProductsHovered(true)}
             onMouseLeave={() => setIsProductsHovered(false)}
           >
-            <button className="flex items-center gap-1 px-4 py-2 text-sm font-medium text-aw-text-secondary hover:text-white rounded-full transition-colors">
+            <button className="flex items-center gap-1 px-4 py-2 text-sm font-medium text-aw-text-secondary hover:text-white rounded-lg transition-colors">
               Products
               <ChevronDown className={`w-4 h-4 transition-transform duration-200 ${isProductsHovered ? "rotate-180" : ""}`} />
             </button>
@@ -112,10 +112,10 @@ export function Header() {
           <Link href="/docs" className="px-4 py-2 text-sm font-medium text-aw-text-secondary hover:text-white hover:bg-white/5 rounded-full transition-colors">
             Docs
           </Link>
-          <Link href="/pricing" className="px-4 py-2 text-sm font-medium text-aw-text-secondary hover:text-white hover:bg-white/5 rounded-full transition-colors tracking-wide">
+          <Link href="/pricing" className="px-4 py-2 text-sm font-medium text-aw-text-secondary hover:text-white hover:bg-white/5 rounded-lg transition-colors tracking-wide">
             Pricing
           </Link>
-          <Link href="/customers" className="px-4 py-2 text-sm font-medium text-aw-text-secondary hover:text-white hover:bg-white/5 rounded-full transition-colors tracking-wide">
+          <Link href="/customers" className="px-4 py-2 text-sm font-medium text-aw-text-secondary hover:text-white hover:bg-white/5 rounded-lg transition-colors tracking-wide">
             Customers
           </Link>
           <Link href="/enterprise" className="px-4 py-2 text-sm font-medium text-aw-text-secondary hover:text-white hover:bg-white/5 rounded-full transition-colors tracking-wide">
@@ -129,7 +129,7 @@ export function Header() {
             href="https://github.com/clikkle/clikkle"
             target="_blank"
             rel="noopener noreferrer"
-            className="group flex items-center h-9 px-3 text-sm font-medium text-aw-text-secondary hover:text-white transition-colors rounded-xl border border-white/10 hover:border-white/20 bg-white/5 hover:bg-white/10"
+            className="group flex items-center h-9 px-3 text-sm font-medium text-aw-text-secondary hover:text-white transition-colors rounded-lg border border-white/10 hover:border-white/20 bg-white/5 hover:bg-white/10"
           >
             <Github className="w-4 h-4 mr-2" />
             <span className="mr-2">Star on GitHub</span>
@@ -141,7 +141,7 @@ export function Header() {
             href="https://cloud.clikkle.com/register"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center h-9 px-4 text-sm font-semibold text-white bg-[#2D63FF] rounded-xl transition-all hover:bg-[#FF4D82]"
+            className="flex items-center h-9 px-4 text-sm font-semibold text-white bg-[#2D63FF] rounded-lg transition-all hover:bg-[#FF4D82]"
           >
             Start building for free
           </Link>
@@ -166,7 +166,7 @@ export function Header() {
             className="fixed inset-0 z-[100] lg:hidden"
           >
             <div 
-              className="absolute inset-0 bg-[#19191C]/90 backdrop-blur-md" 
+              className="absolute inset-0 bg-[var(--bg-primary)]/90 backdrop-blur-md" 
               onClick={() => setIsMobileMenuOpen(false)} 
             />
             <motion.nav
@@ -174,7 +174,7 @@ export function Header() {
               animate={{ x: 0 }}
               exit={{ x: "100%" }}
               transition={{ type: "spring", damping: 25, stiffness: 200 }}
-              className="absolute top-0 right-0 bottom-0 w-4/5 max-w-sm bg-[#1e1e21] shadow-2xl flex flex-col border-l border-white/10"
+              className="absolute top-0 right-0 bottom-0 w-4/5 max-w-sm bg-[var(--bg-secondary)] shadow-2xl flex flex-col border-l border-white/10"
             >
               <div className="h-16 px-6 flex items-center justify-between border-b border-white/10">
                 <span className="font-bold text-white tracking-wide">Menu</span>
@@ -202,7 +202,7 @@ export function Header() {
                 </a>
                 <Link
                   href="https://cloud.clikkle.com/"
-                  className="flex items-center justify-center h-12 rounded-full bg-white text-[#19191C] font-semibold"
+                  className="flex items-center justify-center h-12 rounded-lg bg-white text-[#19191C] font-semibold"
                 >
                   Sign Up
                 </Link>

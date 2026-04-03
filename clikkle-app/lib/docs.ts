@@ -12,12 +12,20 @@ import { slugify } from "@/lib/markdoc/slugify";
 
 const docsDirectory = path.join(process.cwd(), "content/docs");
 
+function markdocNodeStartLine(node: { lines?: number[]; location?: { start?: { line?: number } } }): number {
+  if (Array.isArray(node.lines) && typeof node.lines[0] === "number") {
+    return node.lines[0];
+  }
+  const line = node.location?.start?.line;
+  return typeof line === "number" ? line : 0;
+}
+
 function extractTocFromAst(ast: ReturnType<typeof Markdoc.parse>): Array<{
   id: string;
   title: string;
   level: number;
 }> {
-  const toc: Array<{ id: string; title: string; level: number }> = [];
+  const toc: Array<{ id: string; title: string; level: number; _line: number }> = [];
   for (const node of ast.walk()) {
     if (node.type === "tag" && node.tag === "section") {
       const title = node.attributes?.title;
@@ -27,11 +35,15 @@ function extractTocFromAst(ast: ReturnType<typeof Markdoc.parse>): Array<{
           typeof idRaw === "string" && idRaw.trim()
             ? slugify(idRaw.trim())
             : slugify(title.trim());
-        toc.push({ id, title: title.trim(), level: 2 });
+        toc.push({ id, title: title.trim(), level: 2, _line: markdocNodeStartLine(node) });
       }
       continue;
     }
-    if (node.type === "heading" && (node.attributes.level === 2 || node.attributes.level === 3)) {
+    // Markdoc uses markdown levels 1–6 (`#` … `######`). Appwrite Article layout registers
+    // every in-body heading for “On this page”; we must include `level: 1` (`# Section`) or
+    // security-style pages end up with an empty TOC and no right rail.
+    const hLevel = node.attributes.level;
+    if (node.type === "heading" && typeof hLevel === "number" && hLevel >= 1 && hLevel <= 6) {
       const title = node.children
         .filter((child: { type: string }) => child.type === "text" || child.type === "inline")
         .map(
@@ -54,12 +66,14 @@ function extractTocFromAst(ast: ReturnType<typeof Markdoc.parse>): Array<{
         toc.push({
           id,
           title: title.trim(),
-          level: node.attributes.level,
+          level: hLevel,
+          _line: markdocNodeStartLine(node),
         });
       }
     }
   }
-  return toc;
+  toc.sort((a, b) => a._line - b._line);
+  return toc.map(({ _line: _unused, ...rest }) => rest);
 }
 
 // The Markdoc configuration that maps custom {% tags %} to React components.
@@ -186,6 +200,21 @@ export const markdocConfig = {
     table: {
       render: "DocsTable",
     },
+    thead: {
+      render: "Thead",
+    },
+    tbody: {
+      render: "Tbody",
+    },
+    tr: {
+      render: "Tr",
+    },
+    th: {
+      render: "Th",
+    },
+    td: {
+      render: "Td",
+    },
     image: {
       render: "Image",
       attributes: {
@@ -233,6 +262,33 @@ export async function getAllDocSlugs(): Promise<string[][]> {
   const fromDisk = getFilesystemDocSlugs();
   const fromOpenApi = await getGeneratedReferenceSlugs();
   return [...fromDisk, ...fromOpenApi];
+}
+
+/**
+ * Raw Markdoc/Markdown source for “Copy page” / `.md` URLs — Appwrite `getMarkdownContent` +
+ * `processMarkdownWithPartials`.
+ */
+export async function getDocRawMarkdown(slugArray: string[]): Promise<string | null> {
+  const relativePath = slugArray.join("/");
+  const routeId = `/docs/${relativePath}`;
+
+  if (hasDynamicMarkdownGenerator(routeId)) {
+    const md = await generateDynamicMarkdown(routeId);
+    if (!md) return null;
+    return processMarkdownWithPartials(md);
+  }
+
+  let fullPath = path.join(docsDirectory, `${relativePath}.markdoc`);
+
+  if (!fs.existsSync(fullPath)) {
+    fullPath = path.join(docsDirectory, relativePath, "index.markdoc");
+    if (!fs.existsSync(fullPath)) {
+      return null;
+    }
+  }
+
+  const fileContents = fs.readFileSync(fullPath, "utf8");
+  return processMarkdownWithPartials(fileContents);
 }
 
 export async function getDocBySlug(slugArray: string[]) {

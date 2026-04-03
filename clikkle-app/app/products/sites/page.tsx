@@ -37,7 +37,7 @@ const features = [
 
 export default function SitesPage() {
     return (
-        <main className="flex flex-col bg-[#19191C]">
+        <main className="flex flex-col bg-[var(--bg-primary)]">
             {/* Sites Hero */}
             <div
                 className="relative flex flex-col items-center"

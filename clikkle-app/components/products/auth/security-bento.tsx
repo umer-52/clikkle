@@ -9,7 +9,7 @@ import { PasswordDictionary } from '@/components/products/auth/animations/passwo
 
 export function SecurityBento() {
     return (
-        <section className="relative bg-[#19191C] pt-32 pb-40 before:absolute before:inset-0 before:bg-[url('/clikkle/images/bgs/checker-bg.png')] before:bg-[length:350%] before:bg-center before:bg-no-repeat before:opacity-10 md:before:bg-contain">
+        <section className="relative bg-[var(--bg-primary)] pt-32 pb-40 before:absolute before:inset-0 before:bg-[url('/clikkle/images/bgs/checker-bg.png')] before:bg-[length:350%] before:bg-center before:bg-no-repeat before:opacity-10 md:before:bg-contain">
             <div className="container relative z-10">
                 <div className="mx-auto flex max-w-[325px] flex-col gap-4 text-center">
                     <h2 className="font-aeonik-pro text-white text-subtitle text-pretty">

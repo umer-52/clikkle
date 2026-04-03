@@ -33,7 +33,7 @@ const projects = [
 
 export default function CommunityPage() {
     return (
-        <main className="flex flex-col bg-[#19191C] overflow-hidden">
+        <main className="flex flex-col bg-[var(--bg-primary)] overflow-hidden">
             {/* Hero Area */}
             <div className="relative pt-40 pb-20">
                 <div className="absolute top-0 right-0 max-w-[50vw] md:max-w-none md:translate-x-1/4 -translate-y-1/4 opacity-50 Mix-blend-screen mix-blend-screen">
@@ -80,7 +80,7 @@ export default function CommunityPage() {
             </div>
 
             {/* The Power of Open Source */}
-            <div className="relative py-40 bg-[#19191C]">
+            <div className="relative py-40 bg-[var(--bg-primary)]">
                 {/* Background Gradients */}
                 <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-[#2D63FF] opacity-20 blur-[150px] rounded-full -translate-y-1/2 translate-x-1/4 pointer-events-none" />
                 <div className="absolute bottom-0 left-0 w-[600px] h-[600px] bg-[#85DBD8] opacity-15 blur-[150px] rounded-full translate-y-1/2 -translate-x-1/4 pointer-events-none" />
@@ -109,7 +109,7 @@ export default function CommunityPage() {
             </div>
 
             {/* Get Involved */}
-            <div className="py-32 bg-[#19191C]">
+            <div className="py-32 bg-[var(--bg-primary)]">
                 <div className="container mx-auto">
                     <div className="flex flex-col gap-4 max-w-lg mb-12">
                         <h2 className="text-display font-aeonik-pro text-white">Get involved</h2>
@@ -279,7 +279,7 @@ export default function CommunityPage() {
                                     <label htmlFor="email" className="text-sm font-medium text-[#19191C]">Your email</label>
                                     <input id="email" type="email" placeholder="Enter your email" className="w-full bg-[#EDEDF0]/50 border-0 rounded-xl px-4 py-3 placeholder-black/30 text-[#19191C] font-medium focus:ring-2 focus:ring-[#2D63FF]/20" required />
                                 </div>
-                                <Button type="submit" variant="outline" className="mt-2 !border-transparent !bg-[#19191C] !text-white shadow-xl hover:!border-transparent hover:!bg-black hover:!text-white">
+                                <Button type="submit" variant="outline" className="mt-2 !border-transparent !bg-[var(--bg-primary)] !text-white shadow-xl hover:!border-transparent hover:!bg-black hover:!text-white">
                                     Sign up
                                 </Button>
                             </form>

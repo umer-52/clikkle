@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 
 export default function StoragePage() {
     return (
-        <main className="flex flex-col bg-[#19191C]">
+        <main className="flex flex-col bg-[var(--bg-primary)]">
             <ProductHero
                 eyebrow={{
                     label: 'Storage',
@@ -122,7 +122,7 @@ export default function StoragePage() {
                 </div>
             </div>
 
-            <div className="bg-[#19191C] bg-[url(/clikkle/images/bgs/purple-gradient.png)] bg-left bg-no-repeat pb-20">
+            <div className="bg-[var(--bg-primary)] bg-[url(/clikkle/images/bgs/purple-gradient.png)] bg-left bg-no-repeat pb-20">
                 <div className="py-24 md:py-32">
                     <div className="container">
                         <div className="grid grid-cols-1 gap-16 lg:grid-cols-2">

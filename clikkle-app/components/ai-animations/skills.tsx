@@ -76,7 +76,7 @@ export function SkillsAnimation() {
       <div className="z-10 flex w-full flex-col items-center px-5 pb-4 sm:px-10">
         {/* Search bar */}
         <div
-          className="flex w-full items-center gap-2 rounded-xl border bg-[#19191C]/80 px-3 py-2.5 text-sm backdrop-blur-sm"
+          className="flex w-full items-center gap-2 rounded-xl border bg-[var(--bg-primary)]/80 px-3 py-2.5 text-sm backdrop-blur-sm"
           style={{ borderColor: "rgba(255,255,255,0.06)" }}
         >
           <svg

@@ -11,7 +11,7 @@ export function CodeTerminal() {
         ease: "easeInOut",
         repeat: Infinity,
       }}
-      className="w-full max-w-3xl mx-auto rounded-xl border border-white/10 shadow-2xl bg-[#19191C]/90 backdrop-blur-md overflow-hidden"
+      className="w-full max-w-3xl mx-auto rounded-xl border border-white/10 shadow-2xl bg-[var(--bg-primary)]/90 backdrop-blur-md overflow-hidden"
     >
       {/* Mac-style Window Header */}
       <div className="flex items-center px-4 py-3 bg-white/5 border-b border-white/10">

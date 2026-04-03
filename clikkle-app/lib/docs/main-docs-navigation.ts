@@ -21,7 +21,7 @@ export const MAIN_DOCS_NAVIGATION: NavTree = [
       { label: "Databases", href: "/docs/products/databases", icon: "icon-database", isParent: true },
       { label: "Storage", href: "/docs/products/storage", icon: "icon-folder", isParent: true },
       { label: "Functions", href: "/docs/products/functions", icon: "icon-lightning-bolt", isParent: true },
-      { label: "Messaging", href: "/docs/products/messaging", icon: "icon-paper-airplane", isParent: true },
+      { label: "Messaging", href: "/docs/products/messaging", icon: "icon-send", isParent: true },
       {
         label: "Sites",
         href: "/docs/products/sites",

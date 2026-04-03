@@ -70,7 +70,7 @@ export function Scale({
             ref={containerRef}
             className={cn(
                 'relative -mb-8 flex min-h-[700px] flex-col gap-4 pt-12 pb-20 md:pt-30 md:pb-0 overflow-hidden',
-                theme === 'light' ? 'bg-[#EDEDF0]' : 'bg-[#19191C]'
+                theme === 'light' ? 'bg-[#EDEDF0]' : 'bg-[var(--bg-primary)]'
             )}
         >
             <div className="relative z-[100] container w-fit md:w-full mx-auto px-4">

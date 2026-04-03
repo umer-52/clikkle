@@ -60,7 +60,7 @@ export async function Languages() {
     }));
 
     return (
-        <section className="pt-12 pb-20 md:pt-32 md:pb-40 bg-[#19191C]">
+        <section className="pt-12 pb-20 md:pt-32 md:pb-40 bg-[var(--bg-primary)]">
             <div className="container grid grid-cols-1 items-center gap-12 lg:grid-cols-2 lg:gap-16">
                 <div className="mb-10 flex w-full flex-col lg:max-w-md">
                     <h2 className="text-title text-primary font-aeonik-pro text-white my-4 text-pretty">

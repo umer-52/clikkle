@@ -61,7 +61,7 @@ export function BentoSites() {
                 </div>
             </div>
 
-            <div className="text-[10px] font-mono leading-relaxed flex flex-col flex-nowrap overflow-hidden rounded-[12px] bg-[#19191C] px-4 py-3">
+            <div className="text-[10px] font-mono leading-relaxed flex flex-col flex-nowrap overflow-hidden rounded-[12px] bg-[var(--bg-primary)] px-4 py-3">
                 <div className="w-[900px]">
                     {logLines.map(({ timestamp, content }, i) => (
                         <div key={i} className="flex flex-nowrap gap-3">

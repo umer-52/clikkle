@@ -28,7 +28,7 @@ export function ProductShot() {
     return (
         <>
             <div className="w-full md:w-[586px] hidden flex-col md:flex rounded-3xl" style={{ flexBasis: '586px' }}>
-                <section className="bg-[#19191C] border border-white/10 rounded-2xl flex flex-1 flex-col overflow-hidden shadow-2xl">
+                <section className="bg-[var(--bg-primary)] border border-white/10 rounded-2xl flex flex-1 flex-col overflow-hidden shadow-2xl">
                     <header className="flex flex-col gap-4 border-b border-white/10">
                         <div className="flex gap-4 px-6 pt-6 items-center">
                             <h4 className="text-white font-semibold">My Bucket</h4>
@@ -46,7 +46,7 @@ export function ProductShot() {
                             <li className="border-white px-2 pb-2 border-b-2 text-white">Security</li>
                         </ul>
                     </header>
-                    <div className="flex flex-1 flex-col gap-4 p-6 bg-[#19191C]">
+                    <div className="flex flex-1 flex-col gap-4 p-6 bg-[var(--bg-primary)]">
                         {[
                             { label: 'Enable encryption', desc: 'Files larger than 20MB will not be encrypted.', checked: true },
                             { label: 'Strip metadata', desc: 'Remove metadata for all files uploaded to the bucket.', checked: true },

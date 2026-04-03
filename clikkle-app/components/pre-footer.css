@@ -3,7 +3,7 @@
 .pre-footer {
   position: relative;
   overflow: hidden;
-  background-color: #19191c;
+  background-color: var(--bg-primary);
   padding-block: 0 2.5rem;
 }
 

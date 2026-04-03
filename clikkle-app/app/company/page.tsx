@@ -28,7 +28,7 @@ const angelInvestors = [
 
 export default function CompanyPage() {
     return (
-        <main className="flex flex-col bg-[#19191C] overflow-hidden">
+        <main className="flex flex-col bg-[var(--bg-primary)] overflow-hidden">
             <img className="absolute top-0 left-0 w-auto opacity-30 md:opacity-100 mix-blend-screen max-w-[50vw]" src="/clikkle/images/pages/company/bg-left.png" alt="" aria-hidden="true" loading="lazy" />
             <img className="absolute top-0 right-0 w-auto opacity-30 md:opacity-100 mix-blend-screen max-w-[50vw]" src="/clikkle/images/pages/company/bg-right.png" alt="" aria-hidden="true" loading="lazy" />
             

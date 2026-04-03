@@ -154,17 +154,17 @@ export function AiTable() {
             href="/docs/tooling/skills"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex w-full items-center justify-center rounded-lg border border-white/10 bg-gradient-to-b from-[#3f7cff] via-[#2d63ff] to-[#2458e8] px-6 py-2.5 text-sm font-semibold text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.22),0_4px_14px_rgba(0,0,0,0.28)] transition-colors hover:from-[#4d86ff] hover:via-[#356ef8] hover:to-[#2a5feb] sm:w-auto"
+            className="web-btn web-btn-primary aw-cta-button aw-focus-ring w-full justify-center sm:w-auto"
           >
-            <span className="text">Install skill</span>
+            Install skill
           </Link>
           <a
             href="https://arena.clikkle.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex w-full items-center justify-center rounded-lg border border-white/15 px-6 py-2.5 text-sm font-medium text-primary transition-colors hover:border-white/25 hover:bg-white/[0.06] sm:w-auto"
+            className="web-btn web-btn-secondary aw-focus-ring w-full justify-center sm:w-auto"
           >
-            <span className="text">View full benchmark</span>
+            View full benchmark
           </a>
         </div>
       </div>

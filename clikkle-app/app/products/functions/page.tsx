@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 
 export default function FunctionsPage() {
     return (
-        <main className="flex flex-col bg-[#19191C]">
+        <main className="flex flex-col bg-[var(--bg-primary)]">
             <ProductHero
                 eyebrow={{
                     label: 'Functions',
@@ -41,7 +41,7 @@ export default function FunctionsPage() {
             <Languages />
             <Platforms />
             
-            <div className="bg-[#19191C] overflow-hidden">
+            <div className="bg-[var(--bg-primary)] overflow-hidden">
                 <DevelopLocally />
                 <DeploySeamlessly />
                 <Bento />

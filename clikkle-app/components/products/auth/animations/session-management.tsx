@@ -8,7 +8,7 @@ export function SessionManagement() {
     ];
 
     return (
-        <div className="flex flex-col gap-4 rounded-2xl bg-[#19191c]/90 p-2 lg:row-span-7 border border-white/10 shadow-lg shadow-black/50">
+        <div className="flex flex-col gap-4 rounded-2xl bg-[var(--bg-primary)]/90 p-2 lg:row-span-7 border border-white/10 shadow-lg shadow-black/50">
             <div className="p-3 font-medium text-sm">
                 <span className="text-white block font-semibold mb-1">Session management</span>
                 <p className="text-[#656569] leading-relaxed">
@@ -37,7 +37,7 @@ export function SessionManagement() {
                             </nav>
                         </header>
                         
-                        <div className="flex flex-1 flex-col bg-[#19191C]/50 pt-4 pl-4">
+                        <div className="flex flex-1 flex-col bg-[var(--bg-primary)]/50 pt-4 pl-4">
                             <div className="flex flex-1 flex-col rounded-tl-2xl bg-white/[0.02] backdrop-blur-sm">
                                 <div className="flex justify-between gap-8 border-b border-white/10 px-6 py-4">
                                     {['Client', 'Location'].map((heading) => (

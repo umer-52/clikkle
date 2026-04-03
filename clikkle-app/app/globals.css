@@ -509,7 +509,7 @@
     --color-card: var(--bg-elevated);
     --color-subtle: var(--color-greyscale-50);
 
-    background-color: #19191c;
+    background-color: var(--bg-primary);
     color: var(--color-text-primary);
 }
 

@@ -34,7 +34,7 @@ export function ProductShowcase() {
         <div className="hidden justify-between gap-8 lg:flex">
           <div
             className={cn(
-                'bg-card border-smooth text-primary relative flex h-10 items-center gap-4 rounded-full border border-dashed p-1 text-sm',
+                'bg-card border-smooth text-primary relative flex h-10 items-center gap-4 rounded-lg border border-dashed p-1 text-sm',
                 'after:border-smooth after:absolute after:top-1/2 after:-right-22 after:h-px after:w-22 after:-translate-y-1/2 after:border-b after:border-dashed'
             )}
           >
@@ -44,7 +44,7 @@ export function ProductShowcase() {
                   <Link
                       key={product.label}
                       href={product.href}
-                      className="bg-greyscale-800 hover:bg-greyscale-750/50 flex h-full w-fit items-center justify-center gap-2 rounded-full px-3 backdrop-blur-lg transition-opacity"
+                      className="bg-greyscale-800 hover:bg-greyscale-750/50 flex h-full w-fit items-center justify-center gap-2 rounded-lg px-3 backdrop-blur-lg transition-opacity"
                   >
                       <span className="text-primary text-caption flex items-center justify-center gap-1 font-medium">
                           <img loading="lazy"
@@ -59,7 +59,7 @@ export function ProductShowcase() {
           </div>
 
           <div
-            className="bg-card border-smooth text-primary flex h-10 items-center gap-4 rounded-full border border-dashed p-1 text-sm"
+            className="bg-card border-smooth text-primary flex h-10 items-center gap-4 rounded-lg border border-dashed p-1 text-sm"
           >
             <span className="text-eyebrow text-secondary font-aeonik-fono ml-3 uppercase">Deploy</span>
             <div className="flex h-full w-full justify-between gap-2">
@@ -67,7 +67,7 @@ export function ProductShowcase() {
                   <Link
                       key={product.label}
                       href={product.href}
-                      className="bg-greyscale-800 hover:bg-greyscale-750/50 flex h-full w-fit items-center justify-center gap-2 rounded-full px-3 backdrop-blur-lg transition-opacity"
+                      className="bg-greyscale-800 hover:bg-greyscale-750/50 flex h-full w-fit items-center justify-center gap-2 rounded-lg px-3 backdrop-blur-lg transition-opacity"
                   >
                       <span className="text-primary text-caption flex items-center justify-center gap-1 font-medium">
                           <img loading="lazy"

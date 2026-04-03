@@ -11,7 +11,7 @@ export function SecurePasswords() {
     ];
 
     return (
-        <div className="flex flex-col gap-4 rounded-2xl bg-[#19191c]/90 p-2 lg:row-span-7 border border-white/10 shadow-lg shadow-black/50">
+        <div className="flex flex-col gap-4 rounded-2xl bg-[var(--bg-primary)]/90 p-2 lg:row-span-7 border border-white/10 shadow-lg shadow-black/50">
             <div className="p-3 font-medium text-sm">
                 <span className="text-white block font-semibold mb-1">Secure passwords</span>
                 <p className="text-[#656569] leading-relaxed">

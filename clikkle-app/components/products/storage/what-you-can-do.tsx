@@ -60,7 +60,7 @@ export async function WhatYouCanDo() {
     }));
 
     return (
-        <div className="bg-[#19191C] px-6 py-12 md:p-12 rounded-3xl border border-white/10 shadow-2xl relative">
+        <div className="bg-[var(--bg-primary)] px-6 py-12 md:p-12 rounded-3xl border border-white/10 shadow-2xl relative">
             <div className="absolute top-0 right-10 w-[60%] h-[1px] bg-gradient-to-r from-transparent via-white/50 to-transparent" />
             <div className="flex justify-between items-center mb-6">
                 <div className="flex space-x-2">

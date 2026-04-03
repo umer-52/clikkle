@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# Generated Markdoc mirrors for /docs/**/*.md (see scripts/export-docs-md.ts)
+/public/docs/
+
 # production
 /build
 

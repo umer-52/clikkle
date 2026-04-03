@@ -98,7 +98,7 @@ export function PlatformsGrid({ className, headline = "Designed for the tools yo
           "px-0!": !padded,
         })}
       >
-        {/* Headline */}
+        {/* Headline — matches Appwrite GradientText + text-sub-body */}
         {headline && (
           <span className="flex items-center pr-4 text-sm font-medium md:w-full md:max-w-[175px] -mb-1 bg-gradient-to-br from-[#6d8ffc] to-white to-50% bg-clip-text pb-1 text-transparent">
             {headline}
@@ -111,57 +111,50 @@ export function PlatformsGrid({ className, headline = "Designed for the tools yo
             "mask-r-from-75% mask-r-to-99% mask-l-from-75% mask-l-to-99% mask-alpha backdrop-blur-3xl md:mask-none"
           )}
         >
-          {/* Create two sets for the marquee effect */}
-          {[1, 2].map((_, groupIndex) => (
+          {/* Two rows for marquee on mobile; on md+ only first row (Appwrite platforms.svelte: md:hidden when i === 1) */}
+          {[0, 1].map((groupIndex) => (
             <div
               key={groupIndex}
               className={cn(
                 "divide-smooth animate-scroll-x flex w-max flex-1 grow flex-nowrap divide-dashed md:w-full md:[animation:none] md:divide-x md:[animation-play-state:paused]",
-                {
-                  "md:hidden": groupIndex === 0,
-                }
+                groupIndex === 1 && "md:hidden"
               )}
             >
               {platforms.map((platform, i) => (
-                <div
+                <Link
                   key={`${groupIndex}-${platform.name}`}
-                  className="contents group/item relative"
+                  href={platform.href}
+                  className={cn(
+                    "border-smooth animate-fade-in group relative mt-4 flex h-16 w-16 shrink-0 items-center justify-center border-dashed border-white/10 md:mt-0 md:w-full lg:border-r",
+                    i === 0 && "lg:border-l"
+                  )}
                   style={
                     {
                       "--primary-color": platform.primary,
                       "--secondary-color": platform.secondary || platform.primary,
-                      "--animation-delay": `${i * 25}ms`,
+                      animationDelay: `calc(${i} * 25ms)`,
                     } as React.CSSProperties
                   }
                 >
-                  {/* Tooltip trigger/wrapper */}
+                  <img
+                    src={platform.dark}
+                    alt={platform.name}
+                    className="relative z-10 h-8 w-auto grayscale transition-all duration-500 group-hover:grayscale-0"
+                    loading="lazy"
+                  />
+                  {/* Hover wash — Appwrite: gradient to primary/secondary at low alpha + noise in Svelte */}
                   <div
-                    className={cn(
-                      "border-smooth group animate-fade-in /mt-4 relative flex h-16 w-16 items-center justify-center border-dashed border-white/10 md:mt-0 md:w-full lg:border-r",
-                      {
-                        "lg:border-l": i === 0,
-                      }
-                    )}
-                    aria-hidden={i < platforms.length - 1}
+                    className="pointer-events-none absolute inset-0 z-[1] opacity-0 transition-opacity duration-300 group-hover:opacity-100 bg-gradient-to-tl from-[color:var(--primary-color)]/[0.04] to-[color:var(--secondary-color)]/[0.10]"
+                    aria-hidden
+                  />
+                  {/* Name tooltip — Appwrite Tooltip.Content side=top; hidden on small screens */}
+                  <span
+                    className="pointer-events-none absolute bottom-[calc(100%+8px)] left-1/2 z-20 hidden -translate-x-1/2 whitespace-nowrap rounded-md border border-white/10 bg-[var(--bg-secondary)] px-2.5 py-1 text-sm font-medium text-[var(--color-text-primary)] opacity-0 shadow-lg transition-opacity duration-200 group-hover:opacity-100 md:block"
+                    role="tooltip"
                   >
-                    <Link href={platform.href} className="contents relative w-full h-full flex items-center justify-center">
-                      {/* Original Clikkle icon logic */}
-                      <img src={platform.dark}
-                        alt={platform.name}
-                        className="h-8 w-auto grayscale transition-all duration-500 group-hover:grayscale-0 relative z-10" loading="lazy" />
-
-                      {/* Clikkle animated noise background hover effect */}
-                      <div
-                        className={cn(
-                          "absolute inset-0 opacity-0 transition-opacity group-hover:opacity-100",
-                          "bg-gradient-to-tl from-transparent to-transparent pointer-events-none",
-                          "hover:from-[color:var(--primary-color)]/10 hover:to-[color:var(--secondary-color)]/20"
-                        )}
-                      >
-                      </div>
-                    </Link>
-                  </div>
-                </div>
+                    {platform.name}
+                  </span>
+                </Link>
               ))}
             </div>
           ))}

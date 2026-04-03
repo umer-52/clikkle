@@ -2,9 +2,11 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
+import Script from 'next/script';
 import { SiteFooter } from '@/components/site-footer';
 import { PreFooter } from '@/components/pre-footer';
 import { withBasePath } from '@/lib/basepath';
+import { createFaqSchemaJsonLd } from '@/lib/faq-schema';
 import './pricing.css';
 import { comparisonTables, faqItems, type CellValue, type LinkRow } from './pricing-data';
 
@@ -400,10 +402,11 @@ function ComparePlans() {
    ═══════════════════════════════════════════════ */
 /** Svelte faq.svelte — list only; parent +page.svelte wraps web-grid-4-6 + FAQ title */
 function FaqSection() {
-  const [openIndex, setOpenIndex] = useState<number>(0);
+  const [openIndex, setOpenIndex] = useState(0);
 
-  const toggle = (index: number) => {
-    setOpenIndex((prev) => (prev === index ? -1 : index));
+  /** Appwrite `faq.svelte` melt accordion: one panel open; first open by default (`defaultValue: '0'`). */
+  const select = (index: number) => {
+    setOpenIndex((prev) => (prev === index ? prev : index));
   };
 
   return (
@@ -413,7 +416,7 @@ function FaqSection() {
           <button
             className="pricing-faq-trigger"
             type="button"
-            onClick={() => toggle(index)}
+            onClick={() => select(index)}
             aria-expanded={openIndex === index}
           >
             <span>{item.question}</span>
@@ -439,6 +442,12 @@ function FaqSection() {
 export default function PricingPage() {
   return (
     <div className="web-big-padding-section pricing-page-root relative mt-2">
+      <Script
+        id="pricing-faq-schema"
+        type="application/ld+json"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{ __html: createFaqSchemaJsonLd(faqItems) }}
+      />
       <div
         className="pricing-bg-decor web-location-for-mobile pointer-events-none absolute w-full overflow-hidden"
         aria-hidden

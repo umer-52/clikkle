@@ -20,7 +20,7 @@ const Benefits = ({ theme = 'light', description = "You don't need to have a tea
     return (
         <div className={cn('pt-20 pb-12 md:pt-30 md:pb-20', className, {
             'bg-[#EDEDF0]': theme === 'light',
-            'bg-[#19191C]': theme === 'dark' // Approximate greyscale-900
+            'bg-[var(--bg-primary)]': theme === 'dark' // Approximate greyscale-900
         })}>
             <div className="container mx-auto">
                 <section className="flex flex-col items-start gap-x-30 md:flex-row">
@@ -78,7 +78,7 @@ const DevelopersToolkit = () => {
             </div>
             <div className="mt-8 mb-20 flex flex-col items-center justify-center gap-2 lg:flex-row lg:flex-wrap lg:gap-0">
                 {/* Build group */}
-                <div className="flex h-12 w-full items-center gap-4 rounded-full border border-dashed border-black/8 bg-white p-1 text-sm lg:w-auto overflow-x-auto hide-scrollbar">
+                <div className="flex h-12 w-full items-center gap-4 rounded-lg border border-dashed border-black/8 bg-white p-1 text-sm lg:w-auto overflow-x-auto hide-scrollbar">
                     <span className="text-xs font-mono ml-4 uppercase text-[#434347]">Build</span>
                     <div className="flex h-full w-full justify-between gap-1 pr-1">
                         {build.map(p => (
@@ -93,7 +93,7 @@ const DevelopersToolkit = () => {
                 </div>
                 <div aria-hidden="true" className="mx-0 hidden h-px w-6 self-center border-t border-dashed border-black/8 lg:block"></div>
                 {/* Deploy group */}
-                <div className="flex h-12 items-center gap-4 rounded-full border border-dashed border-black/8 bg-white p-1 text-sm overflow-x-auto hide-scrollbar">
+                <div className="flex h-12 items-center gap-4 rounded-lg border border-dashed border-black/8 bg-white p-1 text-sm overflow-x-auto hide-scrollbar">
                     <span className="text-xs font-mono ml-4 uppercase text-[#434347]">Deploy</span>
                     <div className="flex h-full w-full justify-between gap-1 pr-1">
                         {deploy.map(p => (
@@ -186,7 +186,7 @@ const CaseStudiesLight = () => {
 };
 
 const StartupPartnerCTA = () => (
-    <div className="border-black/5 relative -mb-24 flex min-h-[50vh] items-center justify-center border-y md:min-h-[504px] py-12 md:py-16 bg-[#19191C] overflow-hidden">
+    <div className="border-black/5 relative -mb-24 flex min-h-[50vh] items-center justify-center border-y md:min-h-[504px] py-12 md:py-16 bg-[var(--bg-primary)] overflow-hidden">
         {/* Glows */}
         <div className="absolute inset-0 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at -15% -10%, hsla(343, 98%, 60%, 0.2) 0px, transparent 40%)' }} />
         <div className="absolute inset-0 pointer-events-none mt-auto" style={{ backgroundImage: 'radial-gradient(circle at 120% 125%, hsla(177, 53%, 69%, 0.2) 0px, transparent 40%)' }} />
@@ -233,7 +233,7 @@ export default function StartupsPage() {
     };
 
     return (
-        <main className="flex flex-col flex-1 bg-[#19191C] overflow-hidden pt-20">
+        <main className="flex flex-col flex-1 bg-[var(--bg-primary)] overflow-hidden pt-20">
             
             {/* Background elements */}
             <div className="absolute w-full top-0 left-0 right-0 z-0 h-[800px] overflow-hidden pointer-events-none">
@@ -387,7 +387,7 @@ export default function StartupsPage() {
                                                     </p>
                                                     {error && <p className="text-xs text-red-500 font-medium">{error}</p>}
                                                 </div>
-                                                <Button type="submit" disabled={submitting} variant="outline" className="w-full sm:w-auto !border-transparent !bg-[#19191C] !text-white !shadow-none hover:!border-transparent hover:!bg-black hover:!text-white">
+                                                <Button type="submit" disabled={submitting} variant="outline" className="w-full sm:w-auto !border-transparent !bg-[var(--bg-primary)] !text-white !shadow-none hover:!border-transparent hover:!bg-black hover:!text-white">
                                                     {submitting ? 'Submitting...' : 'Get Started'}
                                                 </Button>
                                             </div>

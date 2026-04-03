@@ -4,6 +4,7 @@ import {
   DOC_TUTORIAL_MAIN_HEADING_ID,
   useTutorialHeadingsList,
 } from "@/components/docs/tutorial-headings-context";
+import { DocsCopyPage } from "@/components/docs/docs-copy-page";
 import { DocsHeading } from "@/components/markdoc/docs-heading";
 import type { TutorialStepFull } from "@/lib/docs";
 import { cn } from "@/lib/utils";
@@ -136,6 +137,7 @@ export function DocsTutorialView({
   currentStep,
   currentStepItem,
   back,
+  copyMarkdown,
   children,
 }: {
   seriesTitle: string;
@@ -143,6 +145,8 @@ export function DocsTutorialView({
   currentStep: number;
   currentStepItem: TutorialStepFull;
   back: string;
+  /** Appwrite `DocsTutorial.svelte` — raw Markdoc when available */
+  copyMarkdown?: string | null;
   children: ReactNode;
 }) {
   const slotRef = useRef<HTMLDivElement>(null);
@@ -214,7 +218,9 @@ export function DocsTutorialView({
               </h1>
             </div>
           </div>
-          <div className="web-article-header-end copy-button-wrapper hidden self-start md:block md:self-auto lg:block" />
+          <div className="web-article-header-end copy-button-wrapper self-start md:self-auto">
+            {copyMarkdown ? <DocsCopyPage markdown={copyMarkdown} className="ml-0" /> : null}
+          </div>
         </header>
 
         <div className="web-article-content prose max-w-none pb-24">

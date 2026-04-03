@@ -282,7 +282,7 @@ function DottedMapSVG({
             width={60}
             height={7}
             rx={1}
-            fill="#19191c"
+            fill="#0f0f13"
             opacity={0.9}
           />
           <text
@@ -366,7 +366,7 @@ export function NetworkMap() {
       </p>
 
       {/* Tabs */}
-      <div className="grid w-full max-w-xl grid-cols-3 place-content-center gap-3 rounded-full bg-white/90 p-1 drop-shadow-md mx-4">
+      <div className="grid w-full max-w-xl grid-cols-3 place-content-center gap-3 rounded-lg bg-white/90 p-1 drop-shadow-md mx-4">
         {tabItems.map((tab) => {
           const isActive = activeTab === tab.value;
           return (
@@ -374,7 +374,7 @@ export function NetworkMap() {
               key={tab.value}
               onClick={() => setActiveTab(tab.value)}
               className={cn(
-                "text-caption flex h-8 items-center justify-center gap-1 rounded-full border border-[#EBEBEB] font-medium transition-colors text-[#19191c]",
+                "text-caption flex h-8 items-center justify-center gap-1 rounded-lg border border-[#EBEBEB] font-medium transition-colors text-[#19191c]",
                 isActive && "bg-[#2D63FF]/5 border-[#2D63FF] text-[#2D63FF]"
               )}
             >

@@ -13,7 +13,7 @@ export function PasswordDictionary() {
     ];
 
     return (
-        <div className="flex flex-col gap-4 rounded-2xl bg-[#19191c]/90 p-2 lg:row-span-5 border border-white/10 shadow-lg shadow-black/50 overflow-hidden relative">
+        <div className="flex flex-col gap-4 rounded-2xl bg-[var(--bg-primary)]/90 p-2 lg:row-span-5 border border-white/10 shadow-lg shadow-black/50 overflow-hidden relative">
             <div className="p-3 font-medium text-sm z-20">
                 <span className="text-white block font-semibold mb-1">Password dictionary</span>
                 <p className="text-[#656569] leading-relaxed">
@@ -42,10 +42,10 @@ export function PasswordDictionary() {
                 </div>
 
                 {/* Password Input Overlay */}
-                <div className="absolute inset-0 z-10 flex items-center justify-center bg-[radial-gradient(circle_at_center,_#19191c_20%,_transparent_100%)]">
+                <div className="absolute inset-0 z-10 flex items-center justify-center bg-[radial-gradient(circle_at_center,_var(--bg-primary)_20%,_transparent_100%)]">
                     <div className="w-3/4 max-w-[240px]">
                         <label className="text-xs text-white/50 mb-1 block">Password</label>
-                        <div className="h-10 w-full rounded-md border border-[#2D63FF]/50 bg-[#1c1c21] flex items-center px-3 shadow-[0_0_20px_rgba(45,99,255,0.12)]">
+                        <div className="h-10 w-full rounded-md border border-[#2D63FF]/50 bg-[var(--bg-secondary)] flex items-center px-3 shadow-[0_0_20px_rgba(45,99,255,0.12)]">
                             <span className="text-white text-lg tracking-[0.2em] font-mono">•••••••••</span>
                         </div>
                     </div>

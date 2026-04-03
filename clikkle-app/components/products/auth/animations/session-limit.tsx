@@ -3,7 +3,7 @@ import { cn } from '@/lib/utils';
 
 export function SessionLimit() {
     return (
-        <div className="flex flex-col gap-4 rounded-2xl bg-[#19191c]/90 p-2 lg:row-span-5 border border-white/10 shadow-lg shadow-black/50">
+        <div className="flex flex-col gap-4 rounded-2xl bg-[var(--bg-primary)]/90 p-2 lg:row-span-5 border border-white/10 shadow-lg shadow-black/50">
             <div className="p-3 font-medium text-sm">
                 <span className="text-white block font-semibold mb-1">Session limit</span>
                 <p className="text-[#656569] leading-relaxed">
@@ -26,12 +26,12 @@ export function SessionLimit() {
                     </div>
                 </div>
 
-                <div className="ml-auto mr-0 flex flex-col rounded-l-2xl border-y border-l border-white/[0.06] bg-gradient-to-l from-[#19191C] to-transparent px-6 py-4 shadow-xl shadow-black/80 w-[95%]">
+                <div className="ml-auto mr-0 flex flex-col rounded-l-2xl border-y border-l border-white/[0.06] bg-gradient-to-l from-[var(--bg-primary)] to-transparent px-6 py-4 shadow-xl shadow-black/80 w-[95%]">
                     <div className="z-10 flex text-xs">
                         <div className="w-full">
                             <span className="text-white font-medium">Sessions limit</span>
                             <p className="text-[#656569] mt-1 mb-4">Maximum number of active sessions allowed per user.</p>
-                            <div className="h-10 w-full rounded-md border border-white/20 bg-[#19191C] flex items-center px-3 text-white ring-1 ring-white/10 focus-within:ring-[#2D63FF]">
+                            <div className="h-10 w-full rounded-md border border-white/20 bg-[var(--bg-primary)] flex items-center px-3 text-white ring-1 ring-white/10 focus-within:ring-[#2D63FF]">
                                 <span className="tabular-nums">10</span>
                                 <div className="ml-auto w-px h-4 bg-white/50 animate-pulse"></div>
                             </div>

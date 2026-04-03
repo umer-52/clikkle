@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Quick starts - Docs - Clikkle",
+  title: "Quick starts - Docs - Appwrite",
   description:
     "Get started with your favorite framework and language in just a few clicks.",
 };

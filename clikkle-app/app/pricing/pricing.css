@@ -139,7 +139,7 @@
   width: 100%;
 }
 
-/* Base card — panel lifts off page like Appwrite (#26262b) + gradient sheen */
+/* Base card — panel lifts off page (uses --bg-secondary) + gradient sheen */
 .pricing-card.web-card-pricing,
 .pricing-card.web-card-pricing-inner {
   --pricing-card-divider: rgba(255, 255, 255, 0.1);
@@ -149,7 +149,7 @@
   border-radius: 1rem;
   /* Svelte .web-card --p-card-padding: 1.25rem */
   padding: 1.25rem;
-  background-color: #26262b;
+  background-color: var(--bg-secondary);
   background-image: linear-gradient(
     180deg,
     rgba(255, 255, 255, 0.05) 63.19%,
@@ -215,7 +215,7 @@
 
 .pricing-card--pro.web-card-pricing-inner {
   border-radius: calc(1.25rem - 2px);
-  background-color: #26262b;
+  background-color: var(--bg-secondary);
   background-image: linear-gradient(180deg, rgba(45, 99, 255, 0.14) 38.59%, rgba(45, 99, 255, 0) 99.04%);
 }
 
@@ -479,7 +479,7 @@
   background:
     radial-gradient(120% 80% at 100% 0%, rgba(45, 99, 255, 0.12) 0%, rgba(45, 99, 255, 0) 60%),
     radial-gradient(140% 90% at 0% 100%, rgba(30, 58, 138, 0.2) 0%, rgba(30, 58, 138, 0) 60%),
-    #26262b;
+    var(--bg-secondary);
 }
 
 @media (min-width: 768px) {
@@ -1036,7 +1036,7 @@
   bottom: calc(100% + 8px);
   left: 50%;
   transform: translateX(-50%) translateY(4px);
-  background: #26262b;
+  background: var(--bg-secondary);
   color: #e5e5e8;
   font-size: 0.8125rem;
   line-height: 1.4;

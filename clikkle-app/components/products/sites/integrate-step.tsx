@@ -102,7 +102,7 @@ export function IntegrateStep() {
                                     <div className="w-2 h-2 rounded-full bg-[#D9D9D9]" />
                                 </div>
                                 {/* Slide content */}
-                                <div className="relative flex-1 overflow-hidden rounded-2xl bg-[#19191C]">
+                                <div className="relative flex-1 overflow-hidden rounded-2xl bg-[var(--bg-primary)]">
                                     {products.map((product, i) => {
                                         const isActive = i === activeIndex;
                                         return (
