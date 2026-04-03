@@ -129,7 +129,7 @@ function PricingCardsGrid() {
                         <h2 id="pro" className="pricing-card__name text-label text-primary font-aeonik-pro">
                           Pro
                         </h2>
-                        <span className="pricing-inline-tag web-inline-tag is-pink">Most popular</span>
+                        <span className="pricing-inline-tag web-inline-tag">Most popular</span>
                       </div>
                       <div className="pricing-card__price-stack pricing-card__price-stack--pro">
                         <span className="pricing-card__price-from">From</span>

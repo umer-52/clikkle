@@ -73,7 +73,7 @@ export function PricingSection({ className }: { className?: string }) {
                 <div className="flex items-center gap-2.5">
                   <span className="text-description text-secondary font-medium">{name}</span>
                   {tag && (
-                    <span className="bg-accent-200 text-caption rounded-lg px-1.5 py-0.5 font-medium text-white">
+                    <span className="text-caption rounded-md bg-[rgba(45,99,255,0.24)] px-2 py-0.5 font-semibold text-[var(--color-gray-50,#fafafa)]">
                       {tag}
                     </span>
                   )}
