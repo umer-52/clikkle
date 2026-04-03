@@ -65,23 +65,25 @@ function PricingCardsGrid() {
               <article className="pricing-card web-card-pricing h-full">
                 <div className="pricing-card__item flex h-full min-h-0 flex-1 flex-col">
                   <header className="web-pricing-cards-header pricing-card__header">
-                    <h2 id="starter" className="pricing-card__name text-label text-primary font-aeonik-pro">
-                      Free
-                    </h2>
-                    <div className="pricing-card__price-stack pricing-card__price-stack--free">
-                      <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
-                        $0
+                    <div className="pricing-card__header-top">
+                      <h2 id="starter" className="pricing-card__name text-label text-primary font-aeonik-pro">
+                        Free
+                      </h2>
+                      <div className="pricing-card__price-stack pricing-card__price-stack--free">
+                        <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
+                          $0
+                        </div>
+                        <div className="pricing-card__price-spacer mt-1" aria-hidden>
+                          &nbsp;
+                        </div>
                       </div>
-                      <div className="pricing-card__price-spacer mt-1" aria-hidden>
-                        &nbsp;
-                      </div>
+                      <p className="pricing-card__desc pricing-description text-main-body">
+                        A great fit for passion projects and small applications.
+                      </p>
                     </div>
-                    <p className="pricing-card__desc pricing-description text-main-body">
-                      A great fit for passion projects and small applications.
-                    </p>
                     <a
                       href={CLOUD_REGISTER}
-                      className="web-btn web-btn-secondary pricing-card__cta pricing-card__cta--free is-full-width"
+                      className="web-btn web-btn-secondary pricing-card__cta is-full-width"
                     >
                       <span className="pricing-card__btn-label text-sub-body font-medium">
                         Start building
@@ -122,29 +124,31 @@ function PricingCardsGrid() {
               <div className="pricing-card-pro-wrapper web-card-pro-outer pricing-card-pro-wrapper--svelte">
                 <article className="pricing-card pricing-card--pro web-card-pricing-inner flex h-full min-h-0 flex-col">
                   <header className="web-pricing-cards-header pricing-card__header">
-                    <div className="pricing-card-pro-heading-row flex flex-wrap items-baseline gap-2">
-                      <h2 id="pro" className="pricing-card__name text-label text-primary font-aeonik-pro">
-                        Pro
-                      </h2>
-                      <span className="pricing-inline-tag web-inline-tag is-pink">Most popular</span>
-                    </div>
-                    <div className="pricing-card__price-stack pricing-card__price-stack--pro">
-                      <span className="pricing-card__price-from">From</span>
-                      <div className="pricing-card__price-row">
-                        <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
-                          $25
-                        </div>
-                        <div className="pricing-card__price-suffix">/month</div>
+                    <div className="pricing-card__header-top">
+                      <div className="pricing-card-pro-heading-row flex flex-wrap items-baseline gap-2">
+                        <h2 id="pro" className="pricing-card__name text-label text-primary font-aeonik-pro">
+                          Pro
+                        </h2>
+                        <span className="pricing-inline-tag web-inline-tag is-pink">Most popular</span>
                       </div>
+                      <div className="pricing-card__price-stack pricing-card__price-stack--pro">
+                        <span className="pricing-card__price-from">From</span>
+                        <div className="pricing-card__price-row">
+                          <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
+                            $25
+                          </div>
+                          <div className="pricing-card__price-suffix">/month</div>
+                        </div>
+                      </div>
+                      <p className="pricing-card__desc pricing-description text-main-body">
+                        For production applications that need powerful functionality and resources to scale.
+                      </p>
                     </div>
-                    <p className="pricing-card__desc pricing-description text-main-body">
-                      For production applications that need powerful functionality and resources to scale.
-                    </p>
                     <a
                       href={CLOUD_PRO_CREATE}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="web-btn web-btn-primary pricing-card__cta pricing-card__cta--pro is-full-width"
+                      className="web-btn web-btn-primary pricing-card__cta is-full-width"
                     >
                       <span className="pricing-card__btn-label text-sub-body font-medium">
                         Start building
@@ -192,23 +196,25 @@ function PricingCardsGrid() {
               <article className="pricing-card web-card-pricing h-full">
                 <div className="pricing-card__item flex h-full min-h-0 flex-1 flex-col">
                   <header className="web-pricing-cards-header pricing-card__header">
-                    <h2 id="enterprise" className="pricing-card__name text-label text-primary font-aeonik-pro">
-                      Enterprise
-                    </h2>
-                    <div className="pricing-card__price-stack pricing-card__price-stack--enterprise">
-                      <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
-                        Custom
+                    <div className="pricing-card__header-top">
+                      <h2 id="enterprise" className="pricing-card__name text-label text-primary font-aeonik-pro">
+                        Enterprise
+                      </h2>
+                      <div className="pricing-card__price-stack pricing-card__price-stack--enterprise">
+                        <div className="pricing-card__price pricing-price text-title font-aeonik-pro text-primary">
+                          Custom
+                        </div>
+                        <div className="pricing-card__price-spacer mt-1" aria-hidden>
+                          &nbsp;
+                        </div>
                       </div>
-                      <div className="pricing-card__price-spacer mt-1" aria-hidden>
-                        &nbsp;
-                      </div>
+                      <p className="pricing-card__desc pricing-description text-main-body">
+                        For enterprises that need more power, premium support, and advanced security features.
+                      </p>
                     </div>
-                    <p className="pricing-card__desc pricing-description text-main-body">
-                      For enterprises that need more power, premium support, and advanced security features.
-                    </p>
                     <Link
                       href="/contact-us/enterprise"
-                      className="web-btn web-btn-secondary pricing-card__cta pricing-card__cta--enterprise is-full-width"
+                      className="web-btn web-btn-secondary pricing-card__cta is-full-width"
                     >
                       <span className="pricing-card__btn-label text-sub-body font-medium">
                         Contact us
