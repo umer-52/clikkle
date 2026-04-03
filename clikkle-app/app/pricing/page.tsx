@@ -81,7 +81,7 @@ function PricingCardsGrid() {
                     </p>
                     <a
                       href={CLOUD_REGISTER}
-                      className="web-btn web-btn-secondary pricing-card__cta is-full-width"
+                      className="web-btn web-btn-secondary pricing-card__cta pricing-card__cta--free is-full-width"
                     >
                       <span className="pricing-card__btn-label text-sub-body font-medium">
                         Start building
@@ -144,7 +144,7 @@ function PricingCardsGrid() {
                       href={CLOUD_PRO_CREATE}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="web-btn web-btn-primary pricing-card__cta is-full-width"
+                      className="web-btn web-btn-primary pricing-card__cta pricing-card__cta--pro is-full-width"
                     >
                       <span className="pricing-card__btn-label text-sub-body font-medium">
                         Start building
@@ -208,7 +208,7 @@ function PricingCardsGrid() {
                     </p>
                     <Link
                       href="/contact-us/enterprise"
-                      className="web-btn web-btn-secondary pricing-card__cta is-full-width"
+                      className="web-btn web-btn-secondary pricing-card__cta pricing-card__cta--enterprise is-full-width"
                     >
                       <span className="pricing-card__btn-label text-sub-body font-medium">
                         Contact us

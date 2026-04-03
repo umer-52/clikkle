@@ -378,7 +378,7 @@
   font-weight: 500;
 }
 
-/* CTA — h-10, px-4, rounded-lg, w-full (overrides globals .web-btn 36px min-height) */
+/* CTA — h-10, px-4, rounded-lg, w-full; top margin matches Appwrite +page.svelte (mt-8 / mt-11 / mt-10) for row-aligned buttons */
 .pricing-card .pricing-card__cta.web-btn.is-full-width {
   box-sizing: border-box;
   display: inline-flex;
@@ -397,6 +397,14 @@
   font-size: 0.875rem;
   line-height: 1.25rem;
   font-weight: 500;
+}
+
+.pricing-card .pricing-card__cta--pro.web-btn.is-full-width {
+  margin-block-start: 2.75rem;
+}
+
+.pricing-card .pricing-card__cta--enterprise.web-btn.is-full-width {
+  margin-block-start: 2.5rem;
 }
 
 .pricing-card .web-btn-secondary {
