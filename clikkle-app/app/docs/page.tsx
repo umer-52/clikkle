@@ -311,7 +311,7 @@ function TutorialCarousel() {
 
 export default function DocsPage() {
   return (
-    <div className="relative">
+    <main className="web-main-section relative overflow-x-hidden" id="main">
       {/* BGS */}
       <div className="absolute top-0 left-12 -z-10 translate-x-32 md:translate-x-96 opacity-60">
         <img src="/clikkle/images/bgs/docs-blur-1.svg" alt="" className="w-[800px] h-auto max-w-none" loading="lazy" />
@@ -447,6 +447,6 @@ export default function DocsPage() {
         </div>
       </section>
 
-    </div>
+    </main>
   );
 }

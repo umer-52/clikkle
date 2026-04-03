@@ -287,19 +287,19 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
 
   const metadataRow =
     doc.frontmatter?.difficulty || doc.frontmatter?.readtime ? (
-      <ul className="mb-3 flex list-none flex-wrap items-center gap-2 p-0 text-[0.6875rem] font-bold uppercase tracking-wider text-[var(--color-text-muted)] dark:text-white/40">
-        {doc.frontmatter?.difficulty ? <li className="m-0">{doc.frontmatter.difficulty}</li> : null}
+      <ul className="web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50">
+        {doc.frontmatter?.difficulty ? <li>{doc.frontmatter.difficulty}</li> : null}
         {doc.frontmatter?.difficulty && doc.frontmatter?.readtime ? (
-          <li className="m-0 text-[var(--color-border-strong)] dark:text-white/20" aria-hidden>
+          <li className="text-[var(--color-border-strong)] dark:text-white/25" aria-hidden>
             •
           </li>
         ) : null}
-        {doc.frontmatter?.readtime ? <li className="m-0">{doc.frontmatter.readtime} min</li> : null}
+        {doc.frontmatter?.readtime ? <li>{doc.frontmatter.readtime} min</li> : null}
       </ul>
     ) : null;
 
   const titleBlock = doc.frontmatter?.title ? (
-    <h1 className="text-title m-0 font-aeonik-pro font-bold tracking-tight text-primary dark:text-white">
+    <h1 className="text-title m-0 font-aeonik-pro font-bold tracking-tight text-primary">
       {doc.frontmatter.title}
     </h1>
   ) : null;
@@ -317,7 +317,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
       {useArticleContentsGrid ? (
         <>
           <div className="web-article-header-start flex flex-col items-start gap-0">
-            <div className="mb-2 flex w-full items-center lg:hidden">
+            <div className="docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden">
               {doc.frontmatter?.back ? (
                 <NextLink href={doc.frontmatter.back} className="web-icon-button" aria-label="Back">
                   <ChevronLeft className="h-5 w-5 pr-0.5" />
@@ -339,7 +339,10 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
               {titleBlock}
             </div>
           </div>
-          <div className="web-article-header-end" />
+          <div
+            className="web-article-header-end copy-button-wrapper hidden self-center lg:block"
+            aria-hidden
+          />
         </>
       ) : (
         <div className={`flex items-start gap-4 ${isArticleLayout ? "md:gap-6" : ""}`}>
@@ -394,7 +397,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
       {articleHeader}
       <div
         className={cn(
-          "web-article-content pb-24",
+          "web-article-content web-reduced-article-size pb-24",
           getDocsProseSurfaceClasses(isArticleLayout)
         )}
       >

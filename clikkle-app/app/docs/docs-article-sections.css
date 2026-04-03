@@ -1,3 +1,39 @@
+/* ── Appwrite `DocsArticle.svelte` / `_article.scss` metadata + mobile header row ── */
+
+.web-article-header .web-metadata,
+.web-article .web-metadata {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.web-article-header .web-metadata li,
+.web-article .web-metadata li {
+  margin: 0;
+}
+
+@media (max-width: 1023.98px) {
+  .docs-article-mobile-header-row {
+    align-items: center;
+    width: 100vw;
+    position: relative;
+    margin-left: calc(-1 * var(--p-grid-huge-navs-padding-inline, 1.75rem));
+    margin-right: calc(-1 * var(--p-grid-huge-navs-padding-inline, 1.75rem));
+    padding-left: var(--p-grid-huge-navs-padding-inline, 1.75rem);
+    padding-right: var(--p-grid-huge-navs-padding-inline, 1.75rem);
+  }
+}
+
+@media (min-width: 1280px) and (max-width: 1330px) {
+  .web-grid-two-side-navs .web-article-content.web-reduced-article-size {
+    max-inline-size: 40.5rem;
+  }
+}
+
 /* Mirrors Appwrite .web-article-content-section.is-with-line (see src/scss/7-components/_article.scss) */
 .docs-article-section.is-with-line {
   position: relative;

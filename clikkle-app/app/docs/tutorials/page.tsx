@@ -13,22 +13,23 @@ export default function TutorialsPage() {
   const tutorials = getTutorialCategories();
 
   return (
-    <article className="web-article">
-      <header className="web-article-header">
-        <div className="web-article-header-start flex flex-col items-start">
-          <div className="relative flex items-center">
-            <h1 className="text-title m-0 font-aeonik-pro font-bold text-primary dark:text-white">
-              Tutorials
-            </h1>
+    <main className="web-main-section" id="main">
+      <article className="web-article">
+        <header className="web-article-header">
+          <div className="web-article-header-start flex flex-col items-start">
+            <div className="relative flex items-center">
+              <h1 className="text-title m-0 font-aeonik-pro font-bold text-primary">
+                Tutorials
+              </h1>
+            </div>
           </div>
-        </div>
-        <div className="web-article-header-end" />
-      </header>
+          <div className="web-article-header-end" />
+        </header>
 
-      <div className="web-article-content web-u-gap-80">
+        <div className="web-article-content web-u-gap-80">
         {tutorials.map((category) => (
           <section key={category.title} className="flex flex-col gap-6">
-            <h2 className="text-eyebrow font-aeonik-fono uppercase tracking-loose text-tertiary">
+            <h2 className="text-eyebrow font-aeonik-fono uppercase text-tertiary">
               {category.title}
             </h2>
 
@@ -49,7 +50,7 @@ export default function TutorialsPage() {
                               aria-hidden
                             />
                           ) : null}
-                          <h3 className="m-0 text-[0.875rem] font-medium leading-[1.2] text-primary dark:text-white">
+                          <h3 className="m-0 text-[0.875rem] font-medium leading-[1.2] text-primary">
                             {tutorial.framework}
                           </h3>
                           <span className="tutorial-coming-soon-badge text-caption">Coming Soon</span>
@@ -82,7 +83,8 @@ export default function TutorialsPage() {
             </ul>
           </section>
         ))}
-      </div>
-    </article>
+        </div>
+      </article>
+    </main>
   );
 }

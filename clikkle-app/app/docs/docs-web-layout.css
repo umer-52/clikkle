@@ -883,8 +883,46 @@
 }
 
 @media (min-width: 1024px) {
+  /* Appwrite `_main-header.scss`: sticky, 73px min block, z 999, 32px inline padding */
   .web-main-header {
     display: block;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    min-block-size: 4.5625rem;
+    padding-inline: 2rem;
+    box-sizing: border-box;
+  }
+
+  .web-main-header.is-docs .web-main-header-wrapper {
+    max-inline-size: 86.875rem;
+  }
+
+  .web-main-header.is-reference .web-main-header-wrapper {
+    max-inline-size: var(--container-size-huge, 100rem);
+  }
+
+  .web-main-header-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-inline: auto;
+    padding-block: 0.9375rem;
+    box-sizing: border-box;
+  }
+
+  .web-main-header-end {
+    display: flex;
+    margin-inline-start: auto;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  /* Appwrite `_main-header.scss` — logo spacing before nav */
+  .web-main-header .docs-header-logo {
+    margin-inline-end: 2rem;
   }
 
   .web-main-header.is-reference {

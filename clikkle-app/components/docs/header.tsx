@@ -34,14 +34,14 @@ export function DocsHeader({
 
   return (
     <header
-      className={`web-main-header sticky top-0 z-50 hidden w-full border-b border-[var(--color-border-subtle)] backdrop-blur-md dark:border-white/10 lg:block ${
+      className={`web-main-header hidden w-full border-b border-[var(--color-border-subtle)] backdrop-blur-md dark:border-white/10 lg:block ${
         isReferences ? "is-reference" : "is-docs"
       } ${headerTransparent ? "is-transparent bg-[var(--bg-primary)]/90 dark:bg-[#19191c]/80" : "bg-[var(--bg-primary)] dark:bg-[#19191c]"}`}
     >
-      <div className="mx-auto flex h-16 max-w-[1400px] items-center justify-between px-6">
+      <div className="web-main-header-wrapper w-full">
         
         {/* Left Section: Logo and Navigation */}
-        <div className="flex flex-1 items-center gap-6">
+        <div className="web-main-header-start flex min-w-0 flex-1 items-center gap-6">
           <Link
             className="group docs-header-logo aw-logo-link aw-focus-ring flex shrink-0 items-center gap-2.5"
             href="/"
@@ -97,7 +97,7 @@ export function DocsHeader({
         </div>
 
         {/* Right Section: Actions */}
-        <div className="flex items-center gap-4">
+        <div className="web-main-header-end flex items-center gap-2 md:gap-4">
           <a
             className="hidden lg:flex items-center gap-2 rounded-full border border-[var(--color-border-default)] bg-transparent px-4 py-2 text-sm font-medium text-[var(--color-text-primary)] transition-all hover:border-[var(--color-border-strong)] hover:bg-[var(--color-smooth)] focus:outline-none focus:ring-2 focus:ring-[var(--color-brand-primary)] dark:border-white/10 dark:text-white dark:hover:border-white/20 dark:hover:bg-white/5"
             href={GITHUB_LINK}

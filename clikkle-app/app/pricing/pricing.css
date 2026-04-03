@@ -3,6 +3,15 @@
    (Clikkle brand colors only; structure / spacing match Svelte)
    ============================================ */
 
+/* Typography utility aliases (docs markdoc defines these; pricing route may not load that sheet) */
+.pricing-page-root .text-primary {
+  color: var(--color-text-primary);
+}
+
+.pricing-page-root .text-secondary {
+  color: var(--color-text-secondary);
+}
+
 /* src/scss/6-elements/_container.scss — .web-big-padding-section */
 .web-big-padding-section.pricing-page-root {
   display: grid;
@@ -179,7 +188,8 @@
   max-width: 100%;
   height: 100%;
   min-height: 100%;
-  border-radius: 1.0625rem;
+  /* Svelte Pro wrapper: --m-border-radius 1.25rem */
+  border-radius: 1.25rem;
   padding: 1px;
   margin: 0;
 }
@@ -204,7 +214,7 @@
 }
 
 .pricing-card--pro.web-card-pricing-inner {
-  border-radius: 0.9375rem;
+  border-radius: calc(1.25rem - 2px);
   background-color: #26262b;
   background-image: linear-gradient(180deg, rgba(45, 99, 255, 0.14) 38.59%, rgba(45, 99, 255, 0) 99.04%);
 }
@@ -245,28 +255,31 @@
   width: 100%;
 }
 
-.pricing-card__name {
+/* Svelte: h2.text-label.text-primary.font-aeonik-pro */
+.pricing-card__name.text-label.text-primary {
   font-family: var(--font-aeonik-pro, 'Inter', sans-serif);
-  font-size: 1.125rem;
-  line-height: 1.5rem;
+  font-size: var(--text-label);
+  line-height: var(--text-label--line-height);
+  letter-spacing: var(--text-label-letter-spacing);
   color: var(--color-gray-50, #f8f8fb);
   margin: 0;
-  font-weight: 600;
-  letter-spacing: -0.01em;
+  font-weight: 500;
 }
 
 .pricing-inline-tag.web-inline-tag {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.3125rem 0.625rem;
-  border-radius: 0.375rem;
+  /* Appwrite `_inline-tag.scss` geometry; blue theme instead of pink */
+  display: grid;
+  place-items: center;
+  padding-block: 0.1875rem;
+  padding-inline: 0.25rem;
+  border-radius: 0.25rem;
+  line-height: 1;
   font-size: 0.6875rem;
-  line-height: 1.2;
   font-weight: 600;
   text-transform: none;
-  background: rgba(45, 99, 255, 0.2);
-  color: #c7d2fe;
-  border: 1px solid rgba(45, 99, 255, 0.45);
+  background-color: rgba(45, 99, 255, 0.24);
+  color: var(--color-gray-50, #fafafa);
+  border: none;
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -278,8 +291,13 @@
   gap: 0.5rem;
 }
 
+/* Svelte Free: price mt-12; Enterprise Custom: mt-10 */
 .pricing-card__price-stack--simple {
   margin-block-start: 3rem;
+}
+
+.pricing-card__price-stack--simple.pricing-card__price-stack--enterprise {
+  margin-block-start: 2.5rem;
 }
 
 .pricing-card__price-stack:not(.pricing-card__price-stack--simple) {
@@ -342,10 +360,12 @@
   padding-block-end: 0.35rem;
 }
 
-.pricing-card__desc,
-.pricing-description {
-  font-size: clamp(0.9375rem, 0.88rem + 0.2vw, 1rem);
-  line-height: 1.55;
+/* Svelte: .text-main-body … h-[5rem] font-medium */
+.pricing-card__desc.text-main-body,
+.pricing-description.text-main-body {
+  font-size: var(--text-main-body);
+  line-height: var(--text-main-body--line-height);
+  letter-spacing: var(--text-main-body--letter-spacing);
   color: var(--color-gray-400, #9b9ba7);
   margin: 0;
   margin-block-start: 1rem;
@@ -384,28 +404,35 @@
   margin-block-start: 2.5rem;
 }
 
-.pricing-card__btn-label {
-  font-size: 0.9375rem;
-  line-height: 1.5;
+/* Svelte: span.text-sub-body.font-medium */
+.pricing-card__btn-label.text-sub-body {
+  font-size: var(--text-sub-body);
+  line-height: var(--text-sub-body--line-height);
+  letter-spacing: var(--text-sub-body--letter-spacing);
   font-weight: 500;
 }
 
 .pricing-card__content-lead {
-  font-size: 0.9375rem;
-  line-height: 1.5;
+  font-size: var(--text-main-body);
+  line-height: var(--text-main-body--line-height);
   color: var(--color-gray-400, #9b9ba7);
   margin: 0;
   font-weight: 500;
 }
 
-.pricing-card__note {
-  font-size: 0.8125rem;
-  line-height: 1.4;
-  color: var(--color-gray-500, #7e7e8a);
+/* Svelte Free footnote: text-caption text-secondary mt-4 */
+.pricing-card__note.text-caption {
+  line-height: var(--text-caption--line-height, 1.4);
+  letter-spacing: var(--text-caption--letter-spacing, normal);
   margin: 0;
+  margin-block-start: 1rem;
+  color: var(--color-text-secondary);
 }
 
-/* Svelte .web-checked-list-circle: gap 20px between rows */
+/*
+ * Appwrite `_lists.scss` .web-checked-list-circle: gap 20px, li flex gap 8px, ::before checked-badge
+ * (Clikkle blue circle — same geometry as mixin, pink → #2D63FF)
+ */
 .pricing-checked-list.web-checked-list-circle {
   list-style: none;
   padding: 0;
@@ -419,14 +446,22 @@
   display: flex;
   align-items: flex-start;
   gap: 0.5rem;
-  font-size: clamp(0.9375rem, 0.88rem + 0.2vw, 1rem);
-  line-height: 1.55;
+  font-size: var(--text-main-body);
+  line-height: var(--text-main-body--line-height);
   color: var(--color-gray-200, #e5e5e8);
 }
 
-.pricing-checked-list.web-checked-list-circle li svg {
+.pricing-checked-list.web-checked-list-circle li::before {
+  content: '';
+  display: block;
   flex-shrink: 0;
-  margin-block-start: 0.125rem;
+  inline-size: 1.25rem;
+  min-inline-size: 1.25rem;
+  block-size: 1.5rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-y: center;
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2720%27%20height%3D%2720%27%20viewBox%3D%270%200%2020%2020%27%20fill%3D%27none%27%3E%3Ccircle%20cx%3D%2710%27%20cy%3D%2710%27%20r%3D%278%27%20fill%3D%27%232D63FF%27%20fill-opacity%3D%270.08%27%20stroke%3D%27%232D63FF%27%20stroke-opacity%3D%270.32%27%20stroke-width%3D%271.2%27%2F%3E%3Cpath%20d%3D%27M6.25%2011.5L8.75%2013.5L13.75%207%27%20stroke%3D%27%23E4E4E7%27%20stroke-width%3D%271.2%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%2F%3E%3C%2Fsvg%3E");
 }
 
 /* ---------- Stack card — appwrite.io/pricing “One platform…” block ---------- */

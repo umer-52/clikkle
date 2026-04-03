@@ -57,58 +57,65 @@ function TutorialStepsAside({
   }
 
   return (
-    <aside className="docs-tutorial-rail web-references-menu ps-6">
+    <aside className="docs-tutorial-rail web-references-menu min-w-0 ps-6">
+      {/*
+        Appwrite `DocsTutorial.svelte` + `table-of-contents` parity: sticky shell from
+        `_grid-two-side-navs.scss`; scrollable steps live in `.docs-toc-body > .web-references-menu-list`
+        (`docs-web-layout.css`), same as `DocsOnThisPage`.
+      */}
       <div className="web-references-menu-content web-references-menu-sticky-inner">
-        <div className="flex items-center justify-between gap-4">
+        <div className="flex shrink-0 items-center justify-between gap-4">
           <h5 className="web-references-menu-title text-eyebrow font-aeonik-fono uppercase">
             Tutorial Steps
           </h5>
         </div>
-        <ol className="web-references-menu-list docs-tutorial-steps-ol flex list-none flex-col">
-          {steps.map((tutorial, index) => {
-            const isCurrentStep = currentStep === tutorial.step;
-            return (
-              <li key={tutorial.href} className="web-references-menu-item">
-                <NextLink
-                  href={tutorial.href}
-                  className={cn(
-                    "web-references-menu-link text-caption",
-                    isCurrentStep && "is-selected",
-                    isCurrentStep && absoluteToc.length === 0 && "tutorial-scroll-indicator"
-                  )}
-                >
-                  <span className="web-numeric-badge docs-numeric-badge shrink-0">{tutorial.step}</span>
-                  <span className="text-caption">
-                    {index === 0 ? "Introduction" : tutorial.title}
-                  </span>
-                </NextLink>
-                {isCurrentStep && absoluteToc.length > 0 ? (
-                  <ol className="docs-tutorial-nested-toc web-references-menu-list docs-toc-scroll mt-4 ms-8 flex list-none flex-col gap-2">
-                    {absoluteToc.map((parent, innerIndex) => (
-                      <li key={parent.id} className="web-references-menu-item">
-                        <a
-                          href={parent.href}
-                          className={cn(
-                            "web-references-menu-link is-inner text-caption",
-                            parent.selected && "is-selected tutorial-scroll-indicator"
-                          )}
-                          onClick={(e) => {
-                            e.preventDefault();
-                            scrollToItem(parent.href, innerIndex);
-                          }}
-                        >
-                          <span className="text-caption">{parent.title}</span>
-                        </a>
-                      </li>
-                    ))}
-                  </ol>
-                ) : null}
-              </li>
-            );
-          })}
-        </ol>
+        <div className="docs-toc-body">
+          <ol className="web-references-menu-list docs-tutorial-steps-ol docs-toc-scroll flex list-none flex-col">
+            {steps.map((tutorial, index) => {
+              const isCurrentStep = currentStep === tutorial.step;
+              return (
+                <li key={tutorial.href} className="web-references-menu-item">
+                  <NextLink
+                    href={tutorial.href}
+                    className={cn(
+                      "web-references-menu-link text-caption",
+                      isCurrentStep && "is-selected",
+                      isCurrentStep && absoluteToc.length === 0 && "tutorial-scroll-indicator"
+                    )}
+                  >
+                    <span className="web-numeric-badge docs-numeric-badge shrink-0">{tutorial.step}</span>
+                    <span className="text-caption">
+                      {index === 0 ? "Introduction" : tutorial.title}
+                    </span>
+                  </NextLink>
+                  {isCurrentStep && absoluteToc.length > 0 ? (
+                    <ol className="docs-tutorial-nested-toc web-references-menu-list mt-4 ms-8 flex list-none flex-col gap-2">
+                      {absoluteToc.map((parent, innerIndex) => (
+                        <li key={parent.id} className="web-references-menu-item">
+                          <a
+                            href={parent.href}
+                            className={cn(
+                              "web-references-menu-link is-inner text-caption",
+                              parent.selected && "is-selected tutorial-scroll-indicator"
+                            )}
+                            onClick={(e) => {
+                              e.preventDefault();
+                              scrollToItem(parent.href, innerIndex);
+                            }}
+                          >
+                            <span className="text-caption">{parent.title}</span>
+                          </a>
+                        </li>
+                      ))}
+                    </ol>
+                  ) : null}
+                </li>
+              );
+            })}
+          </ol>
+        </div>
 
-        <div className="border-t border-[color-mix(in_srgb,var(--color-greyscale-900)_4%,transparent)] pt-4 dark:border-white/[0.06]">
+        <div className="shrink-0 border-t border-[color-mix(in_srgb,var(--color-greyscale-900)_4%,transparent)] pt-4 dark:border-white/[0.06]">
           <button
             type="button"
             className="web-link inline-flex items-center gap-2 text-caption text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)]"
@@ -207,7 +214,7 @@ export function DocsTutorialView({
               </h1>
             </div>
           </div>
-          <div className="web-article-header-end hidden self-start md:block md:self-auto lg:block" />
+          <div className="web-article-header-end copy-button-wrapper hidden self-start md:block md:self-auto lg:block" />
         </header>
 
         <div className="web-article-content prose max-w-none pb-24">

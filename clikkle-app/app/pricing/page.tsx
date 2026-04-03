@@ -8,30 +8,6 @@ import { withBasePath } from '@/lib/basepath';
 import './pricing.css';
 import { comparisonTables, faqItems, type CellValue, type LinkRow } from './pricing-data';
 
-/* ─── Feature list check — geometry parity with Appwrite `checked-badge` (20×20, r=8 circle) ─── */
-function CheckCircle() {
-  return (
-    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden>
-      <circle
-        cx="10"
-        cy="10"
-        r="8"
-        fill="rgba(45, 99, 255, 0.08)"
-        stroke="#2D63FF"
-        strokeOpacity={0.32}
-        strokeWidth={1.2}
-      />
-      <path
-        d="M6.25 11.5L8.75 13.5L13.75 7"
-        stroke="#E4E4E7"
-        strokeWidth={1.2}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-    </svg>
-  );
-}
-
 /* ─── SVG helper: gradient checkmark for comparison table ─── */
 function GradientCheck() {
   return (
@@ -87,53 +63,47 @@ function PricingCardsGrid() {
               <article className="pricing-card web-card-pricing">
                 <div className="pricing-card__item">
                   <header className="web-pricing-cards-header pricing-card__header">
-                    <h2 id="starter" className="pricing-card__name">
+                    <h2 id="starter" className="pricing-card__name text-label text-primary">
                       Free
                     </h2>
                     <div className="pricing-card__price-stack pricing-card__price-stack--simple">
-                      <div className="pricing-card__price pricing-price">$0</div>
+                      <div className="pricing-card__price pricing-price text-title">$0</div>
                       <div className="pricing-card__price-spacer" aria-hidden>
                         &nbsp;
                       </div>
                     </div>
-                    <p className="pricing-card__desc pricing-description">
+                    <p className="pricing-card__desc pricing-description text-main-body">
                       A great fit for passion projects and small applications.
                     </p>
                     <a
                       href={CLOUD_REGISTER}
                       className="web-btn web-btn-secondary pricing-card__cta is-full-width"
                     >
-                      <span className="pricing-card__btn-label">Start building</span>
+                      <span className="pricing-card__btn-label text-sub-body">Start building</span>
                     </a>
                   </header>
                   <div className="web-pricing-cards-content pricing-card__content">
                     <ul className="pricing-checked-list web-checked-list-circle">
                       <li>
-                        <CheckCircle />
                         <span>5GB bandwidth</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>2GB storage</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>750K executions</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>75K monthly active users</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Community support</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>1 Database, 1 Bucket, 2 Functions per project</span>
                       </li>
                     </ul>
-                    <p className="pricing-card__note">
+                    <p className="pricing-card__note text-caption text-secondary">
                       Free projects are paused after 1 week of inactivity. Limit of 2 projects.
                     </p>
                   </div>
@@ -148,7 +118,7 @@ function PricingCardsGrid() {
                   <header className="web-pricing-cards-header pricing-card__header">
                     {/* Svelte: nested <header class="flex gap-3"> — title + tag inline, not space-between */}
                     <div className="pricing-card-pro-heading-row flex flex-wrap items-center gap-3">
-                      <h2 id="pro" className="pricing-card__name">
+                      <h2 id="pro" className="pricing-card__name text-label text-primary">
                         Pro
                       </h2>
                       <span className="pricing-inline-tag web-inline-tag is-pink">Most popular</span>
@@ -158,7 +128,7 @@ function PricingCardsGrid() {
                         From
                       </span>
                       <div className="pricing-card__price-row pricing-card__price-row--pro">
-                        <span className="pricing-card__price pricing-price">$25</span>
+                        <span className="pricing-card__price pricing-price text-title">$25</span>
                         <span className="pricing-card__price-suffix">/month</span>
                       </div>
                     </div>
@@ -178,39 +148,30 @@ function PricingCardsGrid() {
                     <p className="pricing-card__content-lead">Dedicated resources per project:</p>
                     <ul className="pricing-checked-list web-checked-list-circle">
                       <li>
-                        <CheckCircle />
                         <span>2TB bandwidth</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>150GB storage</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>3.5M executions</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>200K monthly active users</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Organization roles</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Email support</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Daily backups stored for 7 days</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Add-ons</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Unlimited Databases, Buckets, and Functions</span>
                       </li>
                     </ul>
@@ -224,82 +185,68 @@ function PricingCardsGrid() {
               <article className="pricing-card web-card-pricing">
                 <div className="pricing-card__item">
                   <header className="web-pricing-cards-header pricing-card__header">
-                    <h2 id="enterprise" className="pricing-card__name">
+                    <h2 id="enterprise" className="pricing-card__name text-label text-primary">
                       Enterprise
                     </h2>
-                    <div className="pricing-card__price-stack pricing-card__price-stack--simple">
-                      <div className="pricing-card__price pricing-price">Custom</div>
+                    <div className="pricing-card__price-stack pricing-card__price-stack--simple pricing-card__price-stack--enterprise">
+                      <div className="pricing-card__price pricing-price text-title">Custom</div>
                       <div className="pricing-card__price-spacer" aria-hidden>
                         &nbsp;
                       </div>
                     </div>
-                    <p className="pricing-card__desc pricing-description">
+                    <p className="pricing-card__desc pricing-description text-main-body">
                       For enterprises that need more power, premium support, and advanced security features.
                     </p>
                     <Link
                       href="/contact-us/enterprise"
                       className="web-btn web-btn-secondary pricing-card__cta is-full-width pricing-card__cta--enterprise"
                     >
-                      <span className="pricing-card__btn-label">Contact us</span>
+                      <span className="pricing-card__btn-label text-sub-body">Contact us</span>
                     </Link>
                   </header>
                   <div className="web-pricing-cards-content pricing-card__content">
                     <p className="pricing-card__content-lead">Everything in Pro, plus:</p>
                     <ul className="pricing-checked-list web-checked-list-circle">
                       <li>
-                        <CheckCircle />
                         <span>Uptime SLAs</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Designated Success Manager</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Up to 24/7 support</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Option for private Slack channel</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Volume discounts</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Log drains</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>90-day log retention</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Advanced observability</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Bring your own Cloud</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>SOC-2, HIPAA, and BAA</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Custom organization roles</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Single Sign-On (SSO)</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Activity logs</span>
                       </li>
                       <li>
-                        <CheckCircle />
                         <span>Custom backup policies</span>
                       </li>
                     </ul>

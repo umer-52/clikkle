@@ -74,22 +74,23 @@ const quickStarts: QuickStartCategory[] = [
 /** Appwrite `src/routes/docs/quick-starts/+page.svelte` */
 export default function QuickStartsPage() {
   return (
-    <article className="web-article">
-      <header className="web-article-header">
-        <div className="web-article-header-start flex flex-col items-start">
-          <div className="relative flex items-center">
-            <h1 className="text-title m-0 font-aeonik-pro font-bold text-primary dark:text-white">
-              Quick start
-            </h1>
+    <main className="web-main-section" id="main">
+      <article className="web-article">
+        <header className="web-article-header">
+          <div className="web-article-header-start flex flex-col items-start">
+            <div className="relative flex items-center">
+              <h1 className="text-title m-0 font-aeonik-pro font-bold text-primary">
+                Quick start
+              </h1>
+            </div>
           </div>
-        </div>
-        <div className="web-article-header-end" />
-      </header>
+          <div className="web-article-header-end" />
+        </header>
 
-      <div className="web-article-content web-u-gap-80">
+        <div className="web-article-content web-u-gap-80">
         {quickStarts.map((category) => (
           <section key={category.title} className="flex flex-col gap-6">
-            <h2 className="text-eyebrow font-aeonik-fono uppercase tracking-loose text-tertiary">
+            <h2 className="text-eyebrow font-aeonik-fono uppercase text-tertiary">
               {category.title}
             </h2>
 
@@ -99,7 +100,7 @@ export default function QuickStartsPage() {
                   <Link href={qs.href} className="web-card is-normal no-underline">
                     <header className="flex items-center gap-3">
                       <span className={`${qs.icon} docs-card-icon text-primary`} aria-hidden />
-                      <h4 className="m-0 text-[0.875rem] font-medium leading-[1.2] text-primary dark:text-white">
+                      <h4 className="m-0 text-[0.875rem] font-medium leading-[1.2] text-primary">
                         {qs.title}
                       </h4>
                     </header>
@@ -109,7 +110,8 @@ export default function QuickStartsPage() {
             </ul>
           </section>
         ))}
-      </div>
-    </article>
+        </div>
+      </article>
+    </main>
   );
 }
