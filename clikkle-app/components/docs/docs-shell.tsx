@@ -105,8 +105,7 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
               "web-main-section min-w-0 flex-1",
               /* `overflow-x-hidden` breaks `position:sticky` on the docs right rail (grid side-b). */
               resolved.variant !== "two-side-navs" && "overflow-x-hidden",
-              resolved.variant === "two-side-navs" && "web-main-section--grid-contents",
-              resolved.variant !== "two-side-navs" && "px-6 py-12 lg:pl-12 lg:pr-8"
+              resolved.variant === "two-side-navs" && "web-main-section--grid-contents"
             )}
           >
             {children}

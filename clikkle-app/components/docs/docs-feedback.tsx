@@ -61,7 +61,11 @@ export function DocsFeedback({ date }: { date?: string }) {
     }
   }
 
-  const gitHubPath = pathname?.replace(/^\/clikkle\/docs/, "") || "";
+  /** Strip basePath; link to Markdoc source in this repo (`clikkle-app/content/docs`). */
+  const docsRelative = (pathname?.replace(/^\/clikkle\/docs\/?/, "") || "").replace(/\/$/, "");
+  const githubTreeHref = docsRelative
+    ? `https://github.com/clikkle/clikkle/tree/main/clikkle-app/content/docs/${docsRelative}`
+    : "https://github.com/clikkle/clikkle/tree/main/clikkle-app/content/docs";
 
   return (
     <section className="web-content-footer">
@@ -121,7 +125,7 @@ export function DocsFeedback({ date }: { date?: string }) {
               ) : null}
               <li>
                 <a
-                  href={`https://github.com/clikkle/website/tree/main/src/routes/docs${gitHubPath}`}
+                  href={githubTreeHref}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="web-link flex items-baseline gap-1"

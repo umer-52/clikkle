@@ -849,8 +849,10 @@
 }
 
 /* ── Link (Appwrite _link.scss) ── */
+/* Appwrite `_link.scss`: underline only when `.is-inline` or on hover */
 .web-link {
   display: inline-block;
+  text-decoration: none;
   text-decoration-thickness: 0.015625rem;
   text-underline-offset: 0.3125rem;
   color: var(--web-color-primary);
@@ -861,6 +863,11 @@
 
 .web-link:hover {
   color: var(--web-color-accent, #3d5afe);
+  text-decoration: underline;
+}
+
+.web-link.is-inline {
+  text-decoration: underline;
 }
 
 /* ── Input text (for feedback form) ── */

@@ -369,7 +369,7 @@ function TutorialCarousel() {
 /** Appwrite `src/routes/docs/+page.svelte` */
 export function DocsLandingContent() {
   return (
-    <main className="web-main-section relative overflow-x-hidden" id="main">
+    <main id="main" className="relative min-w-0 overflow-x-hidden">
       <div className="absolute top-0 left-12 -z-10 translate-x-32 opacity-60 md:translate-x-96">
         <img
           src="/clikkle/images/bgs/docs-blur-1.svg"

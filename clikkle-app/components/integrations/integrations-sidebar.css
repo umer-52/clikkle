@@ -1,0 +1,179 @@
+/* Appwrite `src/routes/integrations/+page.svelte` `.l-integrations-grid` + `.sidebar` */
+
+html[data-scroll-smooth] {
+  scroll-behavior: smooth;
+}
+
+.integrations-l-grid {
+  position: relative;
+}
+
+@media (max-width: 1023.98px) {
+  .integrations-l-grid {
+    padding-block-start: 5rem;
+  }
+
+  .integrations-sidebar {
+    margin-block-end: 3.75rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .integrations-l-grid {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: 4.25rem;
+    padding-block-start: 2.5rem;
+  }
+
+  .integrations-sidebar {
+    position: sticky;
+    top: 5.625rem;
+    align-self: start;
+    transition: top 0.3s ease;
+  }
+}
+
+/* Appwrite `Input` + icon: label wraps field (`input.svelte`) */
+.integrations-search-label {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 0.25rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-greyscale-700);
+  background-color: var(--color-greyscale-800);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 300;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.integrations-search-label:focus-within {
+  border-color: var(--color-greyscale-100);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.integrations-search-label input {
+  min-width: 0;
+  flex: 1;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  font: inherit;
+  font-weight: 300;
+  color: var(--color-text-primary);
+  outline: none;
+  box-shadow: none;
+}
+
+.integrations-search-label input::placeholder {
+  color: var(--color-text-muted);
+}
+
+/* `web-u-sep-block-start my-6` — divider between Platform and Categories */
+.integrations-sidebar-sep {
+  margin-block: 1.5rem;
+  block-size: 1px;
+  background-color: color-mix(in srgb, var(--color-greyscale-700) 85%, transparent);
+}
+
+/* `web-side-nav-header` + `text-eyebrow` (integrations page) */
+.integrations-sidebar__heading {
+  margin-block: 0 0.5rem;
+  font-family: var(--font-jetbrains-mono, ui-monospace, monospace);
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+}
+
+.integrations-sidebar__list--disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+/* Appwrite `.tag` pills */
+.integrations-platform-tag {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.625rem;
+  height: 2rem;
+  cursor: pointer;
+  border-radius: 9999px;
+  border: 1px solid var(--color-greyscale-700);
+  background-color: var(--color-greyscale-800);
+  padding-inline: 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: var(--color-text-primary);
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.integrations-platform-tag:hover {
+  border-color: color-mix(in srgb, var(--color-greyscale-700) 70%, var(--color-text-primary));
+}
+
+.integrations-platform-tag[data-active="true"] {
+  border-color: transparent;
+  background-color: #fff;
+  color: #000;
+}
+
+.integrations-category-link {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  transition: opacity 0.15s ease;
+}
+
+.integrations-category-link:hover {
+  opacity: 0.85;
+}
+
+/* Mobile category `<select>` — `web-input-text` parity */
+.integrations-category-select {
+  display: block;
+  width: 100%;
+  appearance: none;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-greyscale-700);
+  background-color: var(--color-greyscale-800);
+  padding: 0.5rem 2rem 0.5rem 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 300;
+  line-height: 1.25;
+  color: var(--color-text-primary);
+}
+
+.integrations-category-select:focus {
+  outline: none;
+  border-color: var(--color-greyscale-100);
+}
+
+.integrations-category-select-wrap {
+  position: relative;
+}
+
+.integrations-category-select-chevron {
+  pointer-events: none;
+  position: absolute;
+  top: 50%;
+  right: 0.5rem;
+  translate: 0 -50%;
+  opacity: 0.5;
+}

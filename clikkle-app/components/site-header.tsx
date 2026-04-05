@@ -6,12 +6,20 @@ import { Star, X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { ProductsMegaMenu } from "./products-mega-menu";
+import { stripBasePathFromPathname } from "@/lib/basepath";
+
+/** Docs layout provides its own chrome; hide marketing header on all `/docs` URLs. */
+function isUnderDocsRoute(pathname: string | null | undefined) {
+  const p = stripBasePathFromPathname(pathname ?? "") || "/";
+  return p === "/docs" || p.startsWith("/docs/");
+}
 
 export function SiteHeader() {
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const mobileNavPanel = useRef<HTMLElement>(null);
   const pathname = usePathname();
+  const navPath = stripBasePathFromPathname(pathname ?? "") || "/";
 
   useEffect(() => {
     const onScroll = () => setIsScrolled(window.scrollY > 10);
@@ -36,7 +44,7 @@ export function SiteHeader() {
     };
   }, [isMobileNavOpen]);
 
-  if (pathname?.startsWith("/docs")) {
+  if (isUnderDocsRoute(pathname)) {
     return null;
   }
 
@@ -57,12 +65,13 @@ export function SiteHeader() {
     <>
       <header className={`aw-header ${isScrolled ? "aw-header-scrolled" : ""}`}>
         <div className="aw-header-shell">
+          <div className="aw-header-start">
           <Link className="aw-logo-link aw-focus-ring shrink-0 flex items-center gap-2" href="/" aria-label="Clikkle home">
             <Image src="/clikkle/images/logos/logo.svg" alt="Clikkle" width={28} height={28} className="object-contain h-7 w-auto" priority />
             <span className="text-xl font-bold tracking-tight text-white font-display">Clikkle</span>
           </Link>
 
-          <nav className="aw-header-nav hidden lg:flex" aria-label="Primary navigation">
+          <nav className="aw-header-nav hidden xl:flex" aria-label="Primary navigation">
             {navLinks.map((link) => {
               if (link.label === "Products") {
                 return <ProductsMegaMenu key={link.href} />;
@@ -72,14 +81,15 @@ export function SiteHeader() {
                   key={link.href}
                   className="aw-header-link aw-focus-ring"
                   href={link.href}
-                  data-active={link.match(pathname) ? "true" : undefined}
-                  aria-current={link.match(pathname) ? "page" : undefined}
+                  data-active={link.match(navPath) ? "true" : undefined}
+                  aria-current={link.match(navPath) ? "page" : undefined}
                 >
                   {link.label}
                 </Link>
               );
             })}
           </nav>
+          </div>
 
           <div className="aw-header-actions">
             <a
@@ -99,7 +109,7 @@ export function SiteHeader() {
             </a>
 
             <button
-              className="aw-menu-button aw-focus-ring flex lg:hidden"
+              className="aw-menu-button aw-focus-ring flex xl:hidden"
               type="button"
               aria-label={isMobileNavOpen ? "Close navigation menu" : "Open navigation menu"}
               aria-expanded={isMobileNavOpen}
@@ -166,8 +176,8 @@ export function SiteHeader() {
                 key={link.href}
                 className="aw-mobile-link aw-focus-ring"
                 href={link.href}
-                data-active={link.match(pathname) ? "true" : undefined}
-                aria-current={link.match(pathname) ? "page" : undefined}
+                data-active={link.match(navPath) ? "true" : undefined}
+                aria-current={link.match(navPath) ? "page" : undefined}
                 onClick={() => setIsMobileNavOpen(false)}
               >
                 {link.label}

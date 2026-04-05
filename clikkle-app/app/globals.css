@@ -1,5 +1,10 @@
 @import 'tailwindcss';
 
+/* Ensure utilities are generated regardless of Turbopack’s inferred project root (monorepo). */
+@source "./**/*.{html,js,jsx,mjs,ts,tsx}";
+@source "../components/**/*.{html,js,jsx,mjs,ts,tsx}";
+@source "../lib/**/*.{html,js,jsx,mjs,ts,tsx}";
+
 /* Exclude non-source directories from Tailwind v4 auto-scanning */
 @source not "../tmp-deploy";
 @source not "../out";
@@ -347,6 +352,95 @@
 
     &::after {
         background: var(--border-gradient-after) border-box;
+    }
+}
+
+/* Layout + marketing use these class names; explicit utilities avoid missing rules if theme scanning glitches. */
+@utility font-body {
+    font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+@utility font-display {
+    font-family: var(--font-poppins), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+@utility text-display {
+    font-size: var(--text-display);
+    line-height: var(--text-display--line-height);
+    letter-spacing: var(--text-display--letter-spacing);
+}
+
+@utility text-main-body {
+    font-size: var(--text-main-body);
+    line-height: var(--text-main-body--line-height);
+    letter-spacing: var(--text-main-body--letter-spacing);
+}
+
+/*
+ * Appwrite `src/app.css` @theme tokens — explicit utilities so font-size, line-height, and
+ * letter-spacing always apply together (Tailwind v4 theme keys alone only set font-size).
+ */
+@utility text-eyebrow {
+    font-size: var(--text-eyebrow);
+    line-height: var(--text-eyebrow--line-height);
+    letter-spacing: var(--text-eyebrow--letter-spacing);
+}
+
+@utility text-caption {
+    font-size: var(--text-caption);
+    line-height: var(--text-caption--line-height);
+    letter-spacing: var(--text-caption--letter-spacing);
+}
+
+@utility text-sub-body {
+    font-size: var(--text-sub-body);
+    line-height: var(--text-sub-body--line-height);
+    letter-spacing: var(--text-sub-body--letter-spacing);
+}
+
+@utility text-description {
+    font-size: var(--text-description);
+    line-height: var(--text-description--line-height);
+    letter-spacing: var(--text-description--letter-spacing);
+}
+
+@utility text-label {
+    font-size: var(--text-label);
+    line-height: var(--text-label--line-height);
+    letter-spacing: var(--text-label-letter-spacing);
+}
+
+@utility text-title {
+    font-size: var(--text-title);
+    line-height: var(--text-title--line-height);
+    letter-spacing: var(--text-title--letter-spacing);
+}
+
+@utility text-subtitle {
+    font-size: var(--text-subtitle);
+    line-height: var(--text-subtitle--line-height);
+    letter-spacing: var(--text-subtitle--letter-spacing);
+}
+
+@utility text-headline {
+    font-size: var(--text-headline);
+    line-height: var(--text-headline--line-height);
+    letter-spacing: var(--text-headline--letter-spacing);
+}
+
+@utility font-aeonik-pro {
+    font-family: var(--font-aeonik-pro);
+}
+
+/* Appwrite `src/scss/2-resets/_typography.scss` — 16px root + body line-height */
+@layer base {
+    html {
+        font-size: 100%;
+    }
+
+    body {
+        font-size: 100%;
+        line-height: 1.5;
     }
 }
 
@@ -767,6 +861,20 @@ html.dark body::before {
     filter: blur(48px);
     opacity: 0;
     animation: lighting 1.25s ease-out forwards;
+}
+
+/*
+ * Appwrite docs: no global atmospheric layer — lighting is only on marketing heroes
+ * (`animate-lighting` in hero/pricing/etc.). Disable fixed body glare whenever the docs shell mounts
+ * (`.docs-route-shell` on `app/docs/layout.tsx`), regardless of `#main-content` nesting.
+ */
+html.dark body:has(.docs-route-shell)::before {
+    display: none;
+}
+
+/* Changelog: flat canvas like appwrite.io/changelog (no marketing radial wash). */
+html.dark body:has([data-changelog-shell])::before {
+    display: none;
 }
 
 html.dark #main-content {

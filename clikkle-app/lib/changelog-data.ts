@@ -10,7 +10,7 @@ export const changelogEntries: ChangelogEntry[] = [
   {
     title: 'Introducing Clikkle Skills',
     date: '2026-03-09',
-    cover: '/clikkle/images/blog/introducing-appwrite-skills/cover.png',
+    cover: '/clikkle/images/blog/introducing-clikkle-skills/cover.svg',
     slug: '2026-03-09',
     body: `Clikkle Skills are open-source Markdown files that give AI coding agents deep, language-specific knowledge of Clikkle SDKs. Install skills into your project, and your AI tools generate correct Clikkle code automatically, no more pasting docs into prompts.
 
@@ -25,7 +25,7 @@ npx skills add Clikkle/agent-skills
   {
     title: 'CNAME flattening support for Clikkle Sites',
     date: '2026-03-06',
-    cover: '/clikkle/images/blog/announcing-cname-flattening/cover.png',
+    cover: '/clikkle/images/blog/announcing-cname-flattening/cover.svg',
     slug: '2026-03-05',
     body: `You can now connect a custom domain to Clikkle Sites without changing your nameservers. Clikkle Sites now supports CNAME flattening and similar apex-domain features provided by modern DNS providers.
 
@@ -137,11 +137,11 @@ Now live on Clikkle Cloud.`,
   {
     title: 'Generate a type-safe SDK from your schema with the Clikkle CLI',
     date: '2026-02-09',
-    cover: '/clikkle/images/blog/appwrite-generate/cover.png',
+    cover: '/clikkle/images/blog/clikkle-generate/cover.png',
     slug: '2026-02-09',
     body: `The Clikkle CLI now includes a \`generate\` command that creates a type-safe, project-aware SDK directly from your database schema. The generated SDK includes typed helpers with autocomplete for querying and mutating rows, eliminating boilerplate and turning schema-related runtime bugs into type errors.
 
-Run \`Clikkle generate\` in your project directory to get started.
+Run \`clikkle generate\` in your project directory to get started.
 
 Now live on Clikkle Cloud.`,
   },
@@ -214,12 +214,13 @@ The Screenshots API is available today as part of Clikkle Avatars.`,
   },
 ];
 
+/** Short month date; shown uppercase via `text-eyebrow uppercase` on the changelog page. */
 export function formatChangelogDate(dateStr: string): string {
-  const date = new Date(dateStr + 'T00:00:00');
-  return date.toLocaleDateString('en-US', {
-    month: 'long',
-    day: 'numeric',
-    year: 'numeric',
+  const date = new Date(dateStr + "T00:00:00");
+  return date.toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
   });
 }
 

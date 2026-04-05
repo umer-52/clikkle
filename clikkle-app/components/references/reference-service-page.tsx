@@ -173,7 +173,7 @@ export function ReferenceServicePage({
     <>
       <main className="contents" id="main">
         <article className="web-article contents">
-          <header className="web-article-header">
+          <header className="web-article-header items-center">
             <div className="web-article-header-start">
               <h1 className="text-title font-aeonik-pro">{serviceName}</h1>
               <div className="web-inline-code">{platformType}</div>

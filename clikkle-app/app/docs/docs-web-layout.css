@@ -7,20 +7,12 @@
   --web-color-smooth: var(--color-border-subtle);
   --web-color-primary: var(--color-text-primary);
   --web-color-secondary: var(--color-text-secondary, #6c6c71);
-  --web-color-accent: var(--color-accent, #e4005e);
+  /* Clikkle brand primary in docs chrome (Appwrite uses pink `--color-accent` here). */
+  --web-color-accent: var(--color-brand-primary, #2d63ff);
   --p-body-bg-color: var(--bg-primary);
   --p-side-nav-bg-color: var(--bg-primary);
   --container-size-large: 90rem;
   --container-size-huge: 120rem;
-}
-
-/*
- * Dark docs: route shell is transparent so `html.dark body::before` glare shows through.
- * Default solid `--bg-primary` on side nav / mobile chrome hid the fixed gradient layer.
- */
-html.dark .docs-route-shell {
-  --p-body-bg-color: transparent;
-  --p-side-nav-bg-color: transparent;
 }
 
 /* Avoid `hsl(var(--token))` — theme tokens are colors, not HSL triplets */
@@ -120,6 +112,10 @@ html.dark .docs-route-shell {
 
   .web-grid-two-side-navs .web-article-header {
     gap: 0;
+  }
+
+  .web-grid-two-side-navs .web-article-header.docs-article-header-stack {
+    gap: 0.75rem;
   }
 
   .web-grid-two-side-navs .web-references-menu {
@@ -870,9 +866,11 @@ html.dark .docs-route-shell {
   -webkit-text-fill-color: transparent;
 }
 
+/* Match `globals.css` @utility text-caption / Appwrite `--text-caption` tokens */
 .text-caption {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
+  font-size: var(--text-caption);
+  line-height: var(--text-caption--line-height);
+  letter-spacing: var(--text-caption--letter-spacing);
 }
 
 .web-inline-tag {
@@ -1123,6 +1121,8 @@ html.dark .docs-route-shell {
 .web-grid-row-4 {
   --p-gap: 1.25rem;
   display: grid;
+  /* Default to one column below `lg`; `min-width: 1024px` and mobile modifiers refine. */
+  grid-template-columns: 1fr;
   gap: var(--p-gap);
   list-style: none;
   margin: 0;

@@ -5,6 +5,8 @@ import { notFound } from 'next/navigation';
 import { integrations } from '@/lib/integrations-data';
 import ReactMarkdown from 'react-markdown';
 import { ArrowLeftIcon } from 'lucide-react';
+import { IntegrationsPartnerCta } from '@/components/integrations/integrations-partner-cta';
+import { SiteFooter } from '@/components/site-footer';
 
 export async function generateStaticParams() {
     return integrations.map((integration) => ({
@@ -32,7 +34,8 @@ export default async function IntegrationDetailPage({ params }: { params: Promis
     }
 
     return (
-        <main className="flex flex-col bg-[var(--bg-primary)] overflow-hidden min-h-screen">
+        <div className="flex min-h-screen flex-col overflow-hidden bg-[var(--bg-primary)]">
+        <main className="flex flex-1 flex-col">
             {/* Header / Hero */}
             <div className="bg-[#17171A] pt-40 pb-16 relative">
                 <div className="container mx-auto">
@@ -108,21 +111,10 @@ export default async function IntegrationDetailPage({ params }: { params: Promis
                 </div>
             </div>
 
-            {/* Bottom CTA Block */}
-            <div className="bg-[var(--bg-primary)] pt-24 pb-32 border-t border-white/5 relative z-10">
-                <div className="container mx-auto text-center flex flex-col items-center gap-6 max-w-2xl">
-                    <h2 className="text-display font-aeonik-pro text-white">Become a Technology Partner</h2>
-                    <p className="text-main-body text-white/60 font-medium">
-                        Join our Technology Partners program to integrate your solutions with
-                        Clikkle's API, enhancing functionality and expanding your reach.
-                    </p>
-                    <Button asChild variant="outline" className="mt-6 !border-transparent !bg-white !text-black hover:!bg-white/90">
-                        <Link href="/integrations/technology-partner">
-                            Get Started
-                        </Link>
-                    </Button>
-                </div>
-            </div>
+            <IntegrationsPartnerCta />
         </main>
+
+        <SiteFooter />
+        </div>
     );
 }

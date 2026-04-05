@@ -173,31 +173,31 @@ export function DocsTutorialView({
   return (
     <main className="contents" id="main">
       <article className="web-article contents">
-        <header className="docs-tutorial-article-header web-article-header flex items-start justify-between">
-          <div className="web-article-header-start flex flex-col items-start gap-0">
-            {back ? (
-              <NextLink
-                href={back}
-                className="web-icon-button web-is-only-mobile mb-2 lg:hidden"
-                aria-label="previous page"
-              >
-                <ChevronLeft className="size-5" aria-hidden />
-              </NextLink>
+        <header className="docs-tutorial-article-header web-article-header docs-article-header-stack">
+          {back ? (
+            <NextLink
+              href={back}
+              className="web-icon-button web-is-only-mobile mb-2 lg:hidden"
+              aria-label="previous page"
+            >
+              <ChevronLeft className="size-5" aria-hidden />
+            </NextLink>
+          ) : null}
+          <ul className="web-metadata flex list-none flex-wrap items-center gap-2 p-0 text-caption text-[var(--color-text-muted)] dark:text-white/50">
+            {currentStepItem.difficulty ? (
+              <li className="m-0 capitalize">{currentStepItem.difficulty}</li>
             ) : null}
-            <ul className="mb-3 flex list-none flex-wrap items-center gap-2 p-0 text-caption text-[var(--color-text-muted)] dark:text-white/50">
-              {currentStepItem.difficulty ? (
-                <li className="m-0 capitalize">{currentStepItem.difficulty}</li>
-              ) : null}
-              {currentStepItem.difficulty && currentStepItem.readtime != null ? (
-                <li className="m-0 text-[var(--color-border-strong)] dark:text-white/20" aria-hidden>
-                  •
-                </li>
-              ) : null}
-              {currentStepItem.readtime != null ? (
-                <li className="m-0">{String(currentStepItem.readtime)} min</li>
-              ) : null}
-            </ul>
-            <div className="relative flex items-center">
+            {currentStepItem.difficulty && currentStepItem.readtime != null ? (
+              <li className="m-0 text-[var(--color-border-strong)] dark:text-white/20" aria-hidden>
+                •
+              </li>
+            ) : null}
+            {currentStepItem.readtime != null ? (
+              <li className="m-0">{String(currentStepItem.readtime)} min</li>
+            ) : null}
+          </ul>
+          <div className="docs-article-title-actions-row">
+            <div className="relative flex min-w-0 flex-1 items-center">
               {back ? (
                 <NextLink
                   href={back}
@@ -217,9 +217,9 @@ export function DocsTutorialView({
                 {firstStepItem?.title ?? seriesTitle}
               </h1>
             </div>
-          </div>
-          <div className="web-article-header-end copy-button-wrapper self-start md:self-auto">
-            {copyMarkdown ? <DocsCopyPage markdown={copyMarkdown} className="ml-0" /> : null}
+            <div className="web-article-header-end copy-button-wrapper shrink-0">
+              {copyMarkdown ? <DocsCopyPage markdown={copyMarkdown} className="ml-0" /> : null}
+            </div>
           </div>
         </header>
 

@@ -23,7 +23,8 @@ export function DocsProse({
   }
   const cls = cn(
     getDocsProseSurfaceClasses(isArticleLayout),
-    isArticleLayout ? "mt-2" : "mt-10"
+    /* Body offset lives on `.docs-article-after-header` to avoid margin collapse with the header. */
+    isArticleLayout ? "mt-0" : "mt-10"
   );
   if (as === "div") {
     return <div className={cls}>{children}</div>;

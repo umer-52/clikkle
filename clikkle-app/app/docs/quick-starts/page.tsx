@@ -74,9 +74,9 @@ const quickStarts: QuickStartCategory[] = [
 /** Appwrite `src/routes/docs/quick-starts/+page.svelte` */
 export default function QuickStartsPage() {
   return (
-    <main className="web-main-section" id="main">
+    <main id="main" className="min-w-0">
       <article className="web-article">
-        <header className="web-article-header">
+        <header className="web-article-header docs-article-header-hub">
           <div className="web-article-header-start flex flex-col items-start">
             <div className="relative flex items-center">
               <h1 className="text-title m-0 font-aeonik-pro font-bold text-primary">

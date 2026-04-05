@@ -32,10 +32,10 @@ export default function DocsLayout({
       />
       <link rel="stylesheet" href={`${DOCS_BASE_PATH}/fonts/docs/icon.css`} />
       {/*
-        Transparent shell so `html.dark body::before` atmospheric glare shows through
-        (solid bg here was painting over the fixed gradient layer).
+        Solid canvas like Appwrite docs (`p-body-bg-color` / `--bg-primary`); no marketing
+        body glare inside docs (see `globals.css` + Svelte: lighting only on select pages).
       */}
-      <div className="docs-route-shell relative min-h-screen bg-transparent text-[var(--color-text-primary)] transition-colors duration-200">
+      <div className="docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200">
         <DocsLayoutProvider>
           <DocsShell>{children}</DocsShell>
         </DocsLayoutProvider>

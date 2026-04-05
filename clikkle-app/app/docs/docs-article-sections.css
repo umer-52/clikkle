@@ -21,10 +21,10 @@
     align-items: center;
     width: 100vw;
     position: relative;
-    margin-left: calc(-1 * var(--p-grid-huge-navs-padding-inline, 1.75rem));
-    margin-right: calc(-1 * var(--p-grid-huge-navs-padding-inline, 1.75rem));
-    padding-left: var(--p-grid-huge-navs-padding-inline, 1.75rem);
-    padding-right: var(--p-grid-huge-navs-padding-inline, 1.75rem);
+    margin-left: calc(-1 * var(--p-grid-huge-navs-padding-inline, 1.25rem));
+    margin-right: calc(-1 * var(--p-grid-huge-navs-padding-inline, 1.25rem));
+    padding-left: var(--p-grid-huge-navs-padding-inline, 1.25rem);
+    padding-right: var(--p-grid-huge-navs-padding-inline, 1.25rem);
   }
 
   .copy-button-wrapper-mobile {
