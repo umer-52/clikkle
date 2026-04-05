@@ -216,17 +216,20 @@ export function NetworkMap() {
     <div className="light flex min-h-[100vh] flex-col items-center justify-center gap-12 bg-[#EDEDF0] py-20">
       {/* Header — parity with network-map.svelte */}
       <div className="flex flex-col items-center gap-4 px-4">
-        <h1 className="text-title font-aeonik-pro text-primary text-center">
+        <h2 className="text-title font-aeonik-pro text-primary text-center">
           The Clikkle Network<span className="text-accent">_</span>
-        </h1>
+        </h2>
         <p className="text-description text-secondary max-w-xl text-center font-medium">
-          Pick one of our many cloud regions or edges to meet your project's
+          Pick one of our many cloud regions or edges to meet your project&apos;s
           needs and reduce latency.
+        </p>
+        <p className="text-caption text-secondary max-w-xl text-center font-medium">
+          Points of presence ensure &lt;50ms ping around the globe.
         </p>
         <Link
           href="/the-clikkle-network"
           className={cn(
-            "mt-2 box-border inline-flex min-h-9 shrink-0 items-center justify-center rounded-[8px] border border-solid px-4 py-2 text-sm font-medium leading-none no-underline shadow-none transition-colors sm:px-6",
+            "mt-2 box-border inline-flex min-h-10 shrink-0 items-center justify-center whitespace-pre rounded-[8px] border border-solid px-[14px] py-[7px] text-sm font-medium leading-none no-underline shadow-none transition-colors",
             "border-[color-mix(in_srgb,var(--color-brand-primary)_32%,transparent)]",
             "bg-[color-mix(in_srgb,var(--color-brand-primary)_9%,white)]",
             "text-[var(--color-brand-primary)]",

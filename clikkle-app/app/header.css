@@ -3,7 +3,9 @@
     inset-block-start: 0;
     inset-inline: 0;
     z-index: 1000;
+    /* `Main.svelte` marketing header */
     block-size: 72px;
+    min-block-size: 72px;
     border-block-end: 1px solid rgba(255, 255, 255, 0.08);
     background: rgba(15, 15, 19, 0.78);
     backdrop-filter: blur(24px);
@@ -24,7 +26,7 @@
     inline-size: min(100%, 86.875rem);
     block-size: 100%;
     margin-inline: auto;
-    padding-inline: 24px;
+    padding-inline: 1.5rem;
 }
 
 /*
@@ -34,7 +36,7 @@
 .aw-products-mega-panel-host {
     pointer-events: none;
     position: fixed;
-    inset-inline: 24px;
+    inset-inline: 1.25rem;
     top: 72px;
     z-index: 1002;
     display: flex;
@@ -43,15 +45,9 @@
     outline: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1280px) {
     .aw-products-mega-panel-host {
-        inset-inline: 48px;
-    }
-}
-
-@media (min-width: 1024px) {
-    .aw-products-mega-panel-host {
-        inset-inline: 64px;
+        inset-inline: 2rem;
     }
 }
 
@@ -64,18 +60,6 @@
     min-width: 0;
 }
 
-@media (min-width: 768px) {
-    .aw-header-shell {
-        padding-inline: 48px;
-    }
-}
-
-@media (min-width: 1024px) {
-    .aw-header-shell {
-        padding-inline: 64px;
-    }
-}
-
 .aw-logo-link {
     display: inline-flex;
     align-items: center;
@@ -86,7 +70,7 @@
 .aw-header-nav {
     display: none;
     align-items: center;
-    gap: 32px;
+    gap: 2rem;
     flex-shrink: 0;
 }
 
@@ -302,20 +286,12 @@
 }
 
 @media (min-width: 768px) {
-    .aw-header-shell {
-        padding-inline: 48px;
-    }
-
     .aw-mobile-panel {
         padding: 32px;
     }
 }
 
 @media (min-width: 1024px) {
-    .aw-header-shell {
-        padding-inline: 64px;
-    }
-
     .aw-header-nav {
         display: flex;
     }
@@ -332,5 +308,13 @@
     .aw-menu-button,
     .aw-mobile-overlay {
         display: none;
+    }
+}
+
+/* `_main-header.scss` break2 — nav label 15px */
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+    .aw-header-link,
+    .aw-header-nav button.aw-header-link {
+        font-size: 15px;
     }
 }

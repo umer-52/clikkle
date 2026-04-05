@@ -99,7 +99,7 @@ export function SiteHeader() {
             </a>
 
             <button
-              className="web-btn web-btn-ghost web-btn--icon aw-menu-button aw-focus-ring lg:hidden flex"
+              className="web-btn web-btn-ghost web-btn--icon aw-menu-button aw-focus-ring flex lg:hidden"
               type="button"
               aria-label={isMobileNavOpen ? "Close navigation menu" : "Open navigation menu"}
               aria-expanded={isMobileNavOpen}

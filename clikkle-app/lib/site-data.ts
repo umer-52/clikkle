@@ -365,7 +365,12 @@ export type ClikkleProduct = {
 
 export const clikkleProducts: ClikkleProduct[] = [
   { title: "Auth", description: "Secure login with multi-factor auth", icon: KeyRound, href: "/products/auth" },
-  { title: "Databases", description: "Scalable and robust databases", icon: Database, href: "/products/databases" },
+  {
+    title: "Databases",
+    description: "Scalable and robust databases",
+    icon: Database,
+    href: "/docs/products/databases",
+  },
   { title: "Storage", description: "Advanced compression and encryption", icon: HardDrive, href: "/products/storage" },
   { title: "Functions", description: "Deploy & scale serverless functions", icon: Braces, href: "/products/functions" },
   { title: "Messaging", description: "Set up a full-functioning messaging service", icon: MessageCircleHeart, href: "/products/messaging" },

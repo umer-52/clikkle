@@ -193,7 +193,7 @@ function PricingCardsGrid() {
 
             {/* Enterprise — same inner shell as Free */}
             <li className="pricing-cards-grid__cell">
-              <article className="pricing-card web-card-pricing h-full">
+              <article className="pricing-card pricing-card--enterprise web-card-pricing h-full">
                 <div className="pricing-card__item flex h-full min-h-0 flex-1 flex-col">
                   <header className="web-pricing-cards-header pricing-card__header">
                     <div className="pricing-card__header-top">

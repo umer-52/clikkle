@@ -406,6 +406,9 @@
         var(--leading-xxxxl)
     );
     --text-headline--letter-spacing: var(--tracking-compressed);
+
+    /* Marketing testimonial cards (`md:w-lg` in product-pages testimonials) */
+    --width-lg: 32rem;
 }
 
 @utility container {

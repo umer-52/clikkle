@@ -124,7 +124,8 @@ export function ProductsMegaMenu() {
               aria-label="Products menu"
             >
               <div className="aw-products-mega-panel-card rounded-2xl border border-white/[0.08] bg-[#232325] p-6 shadow-2xl">
-                <div className="grid w-full grid-cols-1 place-content-between gap-12 lg:grid-cols-12 lg:gap-16">
+                {/* ProductsSubmenu.svelte: `gap-16 lg:grid-cols-12` */}
+                <div className="grid w-full grid-cols-1 place-content-between gap-16 lg:grid-cols-12">
                   {/* Left: product grid — ProductsSubmenu.svelte col-span-8 -mr-12 pr-12 */}
                   <div className="lg:col-span-8 lg:-mr-12 lg:pr-12">
                     <span className="mb-4 block font-[family-name:var(--font-jetbrains-mono)] text-xs font-medium uppercase tracking-[0.14em] text-[#85858B]">
@@ -161,7 +162,7 @@ export function ProductsMegaMenu() {
                     </div>
                   </div>
 
-                  <div className="flex flex-col gap-10 border-t border-white/[0.06] pt-10 lg:col-span-4 lg:-ml-12 lg:border-l lg:border-t-0 lg:pl-12 lg:pt-0">
+                  <div className="flex flex-col gap-8 border-t border-white/[0.06] pt-10 lg:col-span-4 lg:-ml-12 lg:border-l lg:border-t-0 lg:pl-12 lg:pt-0">
                     <div className="group block rounded-2xl border border-white/[0.12] bg-white/[0.06] p-4 outline-none focus-within:bg-white/[0.12]">
                       <header className="flex items-center justify-between gap-2">
                         <span className="font-[family-name:var(--font-jetbrains-mono)] text-xs font-medium uppercase tracking-[0.14em] text-white">
@@ -201,7 +202,7 @@ export function ProductsMegaMenu() {
                       </Link>
                     </div>
 
-                    <div className="mt-2 lg:mt-0 lg:pl-4">
+                    <div>
                       <span className="mb-3 block font-[family-name:var(--font-jetbrains-mono)] text-xs font-medium uppercase tracking-[0.14em] text-[#85858B]">
                         Compare Clikkle
                         <span className="font-bold text-[#2D63FF]">_</span>

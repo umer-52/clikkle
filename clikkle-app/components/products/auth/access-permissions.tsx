@@ -19,20 +19,25 @@ const consoles = [
 
 export function AccessPermissions() {
     return (
-        <section className="bg-[#f9fafb] pt-32 pb-40 text-[#19191C]">
+        <section className="pt-32 pb-40">
             <div className="container">
                 <div className="mx-auto mb-20 flex max-w-md flex-col items-center justify-center gap-y-4 text-center">
-                    <span className="text-eyebrow font-aeonik-fono text-black uppercase bg-black/5 px-3 py-1 rounded-full border border-black/10">
+                    <span
+                        className="text-eyebrow font-aeonik-fono rounded-md px-3 py-1.5 font-medium uppercase text-white"
+                        style={{
+                            background: 'linear-gradient(135deg, #2d63ff 0%, #1d4ed8 100%)'
+                        }}
+                    >
                         Access_
                     </span>
-                    <h2 className="text-title text-primary font-aeonik-pro text-[#19191C]">
+                    <h2 className="text-title font-aeonik-pro text-primary">
                         Easily manage teams <br /> and permissions
                     </h2>
-                    <p className="text-main-body text-secondary font-medium text-[#434347]">
+                    <p className="text-main-body font-medium text-secondary">
                         Create custom roles and level of access to resources such as projects, files, etc.
                     </p>
                     <Link
-                        href="/docs"
+                        href="/docs/products/auth/teams"
                         className="web-btn web-btn-outline mt-2 !w-full md:!w-fit"
                     >
                         Learn more
@@ -41,28 +46,30 @@ export function AccessPermissions() {
             </div>
 
             <div className="container grid place-items-center gap-12 overflow-x-hidden pr-0 pl-5 md:grid-cols-2 md:px-5">
-                {consoles.map((console, idx) => (
+                {consoles.map((row, idx) => (
                     <div
-                        key={idx}
+                        key={row.title}
                         className={cn(
                             'relative',
-                            idx === 0 ? 'after:absolute after:top-0 after:-right-6 after:bottom-0 after:ml-8 after:w-px after:bg-black/10 hidden md:block' : ''
+                            idx === 0
+                                ? 'hidden after:absolute after:top-0 after:-right-6 after:bottom-0 after:ml-8 after:w-px after:bg-[#19191C]/10 md:block'
+                                : ''
                         )}
                     >
                         <div className="space-y-1 pr-5 md:pr-0">
-                            <h3 className="text-primary text-main-body font-medium text-[#19191C]">{console.title}</h3>
-                            <p className="text-secondary text-main-body max-w-[30rem] font-medium text-[#434347]">
-                                {console.copy}
+                            <h3 className="text-main-body font-medium text-primary">{row.title}</h3>
+                            <p className="text-main-body max-w-[30rem] font-medium text-secondary">
+                                {row.copy}
                             </p>
                         </div>
 
-                        <div className="mt-8 w-[150%] rounded-3xl border border-black/10 bg-gradient-to-br from-black/5 via-transparent to-black/5 p-2 md:w-full">
+                        <div className="mt-8 w-[150%] rounded-3xl border border-black/8 bg-gradient-to-br from-black/[0.06] via-black/[0.04] via-[61%] to-black/[0.06] p-2 md:w-full">
                             <Image
                                 className="rounded-2xl"
-                                src={console.image}
+                                src={row.image}
                                 width={600}
                                 height={400}
-                                alt={`${console.title} image`}
+                                alt=""
                             />
                         </div>
                     </div>

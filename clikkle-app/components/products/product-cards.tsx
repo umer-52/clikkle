@@ -62,17 +62,16 @@ export function ProductCards({ currentProduct }: ProductCardsProps) {
                     {products.map((product) => (
                         <Link
                             key={product.url}
-                            className="web-card is-normal hover:-translate-y-1 transition-transform"
+                            className="web-card is-normal web-card-explore"
                             href={product.url}
-                            style={{ background: 'rgba(255, 255, 255, 0.04)' }}
                         >
-                            <div className="px-8 pb-8 pt-8 flex flex-col gap-2">
+                            <div className="web-u-padding-inline-8 web-u-padding-block-end-8 flex flex-col gap-2">
                                 <div className="flex items-center gap-2">
-                                    <img src={product.icon} alt={product.title} width={32} height={32} loading="lazy" />
+                                    <img src={product.icon} alt="" width={32} height={32} loading="lazy" />
                                     <h4 className="text-main-body text-primary">{product.title}</h4>
-                                    <span className="icon-arrow-right ml-auto" aria-hidden="true" />
+                                    <span className="web-icon-arrow-right ml-auto shrink-0" aria-hidden="true" />
                                 </div>
-                                <p className="text-sub-body">{product.description}</p>
+                                <p className="text-sub-body text-secondary">{product.description}</p>
                             </div>
                         </Link>
                     ))}

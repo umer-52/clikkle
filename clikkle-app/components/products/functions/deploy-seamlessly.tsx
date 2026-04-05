@@ -1,4 +1,3 @@
-import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 
 export function DeploySeamlessly() {
@@ -16,7 +15,7 @@ export function DeploySeamlessly() {
 
                     <Link
                         href="/docs/products/functions/deployments"
-                        className="mt-8 inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 py-2 w-full md:w-auto bg-white text-black hover:bg-white/90 shadow"
+                        className="web-btn web-btn-primary mt-8 w-full md:w-auto ![background-image:none] !border-transparent !bg-white !text-black shadow hover:!bg-white/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                     >
                         Learn more
                     </Link>

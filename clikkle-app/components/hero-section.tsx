@@ -20,20 +20,24 @@ export function HeroSection({
 }: HeroSectionProps) {
   return (
     <div className="relative flex max-w-screen items-center overflow-hidden py-12 md:py-0 lg:min-h-[700px]">
+      {/*
+        Matches `hero.svelte`: `overflow-hidden` (not `overflow-y-clip`) so the scaled dashboard column
+        is not clipped; glare sits at `-z-10` behind the grid like the Svelte source.
+      */}
       <div
         className={cn(
-          "animate-lighting absolute top-0 left-0 -z-10 h-screen w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full",
-          "bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(254,_149,_103,_0.2)_0%,_rgba(254,_149,_103,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(253,_54,_110,_0.08)_0%,_rgba(253,_54,_110,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(253,_54,_110,_0.08)_0%,_rgba(253,_54,_110,_0)_70%)]",
+          "animate-lighting pointer-events-none absolute top-0 left-0 -z-10 h-screen w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full",
+          "bg-[image:radial-gradient(ellipse_420px_56px_at_12%_28%,_rgba(45,_99,_255,_0.3)_0%,_rgba(45,_99,_255,_0)_72%),_radial-gradient(ellipse_1100px_180px_at_18%_42%,rgba(45,_99,_255,_0.15)_0%,_rgba(45,_99,_255,_0)_72%),_radial-gradient(ellipse_1200px_200px_at_32%_32%,_rgba(30,_58,_138,_0.18)_0%,_rgba(30,_58,_138,_0)_72%)]",
           "bg-position-[0%_0%]"
         )}
-      ></div>
-
-      <div className="relative appwrite-container grid h-full grid-cols-1 items-center gap-24 md:grid-cols-2">
-        <div className="animate-blur-in flex flex-col gap-4 [animation-delay:150ms] [animation-duration:1000ms]">
+        aria-hidden
+      />
+      <div className="relative appwrite-container mx-auto grid h-full grid-cols-1 place-items-center gap-24 md:grid-cols-2">
+        <div className="animate-blur-in flex flex-col gap-4 [animation-delay:150ms] [animation-duration:1000ms] md:ml-12 lg:ml-0">
           {showPromoBanner ? (
             <Link
               href="https://clikkle.com/blog/post/velocity"
-              className="web-hero-banner-button relative mb-4"
+              className="web-hero-banner-button relative mb-4 flex items-center"
             >
               <Sparkles className="text-white/90" aria-hidden="true" />
               <span className="text-caption shrink-0 font-medium">New</span>
@@ -45,10 +49,13 @@ export function HeroSection({
             </Link>
           ) : null}
 
-          <h1 className="animate-fade-in font-aeonik-pro text-headline text-pretty text-primary">
-            {title}
-            <span className="text-accent">_</span>
-          </h1>
+          {/* `gradient-text.svelte` shape: 145deg clip-text; brand blues instead of Appwrite pink */}
+          <div className="-mb-1 block animate-fade-in bg-[linear-gradient(145deg,#6d8ffc_0%,#ffffff_50%)] bg-clip-text pb-1 text-transparent">
+            <h1 className="font-aeonik-pro text-headline text-pretty">
+              {title}
+              <span className="text-accent">_</span>
+            </h1>
+          </div>
 
           <p className="text-description text-secondary font-medium">{subtitle}</p>
 
@@ -72,7 +79,6 @@ export function HeroSection({
           </div>
         </div>
 
-        {/* Dashboard Component Graphic matches Official Clikkle output exactly */}
         <DashboardIllustration />
       </div>
     </div>

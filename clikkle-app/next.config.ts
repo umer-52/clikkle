@@ -22,6 +22,12 @@ const nextConfig: NextConfig = {
         destination: "/customers",
         permanent: false,
       },
+      /* Appwrite `src/routes/docs/products/databases/legacy/+page.ts` */
+      {
+        source: "/docs/products/databases/legacy",
+        destination: "/docs/products/databases/legacy/databases",
+        permanent: false,
+      },
     ];
   },
 };

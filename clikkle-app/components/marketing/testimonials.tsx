@@ -1,9 +1,6 @@
-'use client';
-
-import React from 'react';
 import { cn } from '@/lib/utils';
-import { motion } from 'framer-motion';
 
+/** `src/lib/components/product-pages/testimonials.svelte` — data + layout (Clikkle copy / image paths). */
 const testimonials = [
     {
         name: 'Ryan O’Conner',
@@ -55,36 +52,41 @@ interface Props {
 
 export function Testimonials({ className }: Props) {
     return (
-        <div className={cn('relative w-full max-w-[100vw] overflow-hidden bg-[#EDEDF0] py-20', className)}>
-            <div className="group flex w-fit flex-nowrap gap-8 overflow-hidden md:overflow-visible">
-                {Array.from({ length: 2 }).map((_, i) => (
+        <div className={cn('relative w-full max-w-[100vw] overflow-hidden py-20', className)}>
+            {/*
+              No `light` on the track: inherited tokens from the parent `.light` section are enough.
+              A local `.light` would paint `var(--bg-primary)` across the row and merge with `bg-white` cards.
+            */}
+            <div className="group flex w-fit gap-8 bg-transparent">
+                {Array.from({ length: 4 }).map((_, i) => (
                     <div
                         key={i}
-                        className="flex items-center gap-8 animate-scroll hover:[animation-play-state:paused]"
+                        className="flex animate-scroll-deprecate items-center gap-8 group-hover:[animation-play-state:paused]"
+                        aria-hidden={i !== 0}
                     >
                         {testimonials.map((testimonial, idx) => (
                             <div
                                 key={`${i}-${idx}`}
-                                className="flex h-fit w-[90vw] flex-col justify-center rounded-[2rem] bg-white p-8 transition-all md:w-[500px] border border-black/5 shadow-sm"
-                                aria-hidden={i > 0}
+                                className="flex h-fit w-[90vw] shrink-0 flex-col justify-center rounded-2xl border border-[rgb(55_59_77/0.08)] bg-white p-6 shadow-[0_16px_32px_rgb(55_59_77/0.08)] transition-all md:w-lg"
                             >
-                                <p className="text-base text-[#56565C] flex-1 font-medium leading-relaxed mb-6">
-                                    "{testimonial.copy}"
-                                </p>
+                                <p className="text-sub-body flex-1 font-medium text-secondary">{testimonial.copy}</p>
 
-                                <div className="mt-auto flex items-center gap-4">
-                                    <img src={testimonial.image}
-                                        className="w-14 h-14 rounded-full object-cover shadow-sm bg-gray-100"
-                                        alt={`${testimonial.company} Logo`} loading="lazy" />
-                                    <div className="flex flex-col">
-                                        <span className="text-[#19191C] text-sm font-semibold">
+                                <div className="mt-4 flex items-center gap-3">
+                                    <img
+                                        src={testimonial.image}
+                                        className="size-12 rounded-full"
+                                        alt={`${testimonial.company} Logo`}
+                                        loading="lazy"
+                                    />
+                                    <div>
+                                        <span className="text-sub-body text-secondary block font-medium">
                                             {testimonial.name}
                                         </span>
-                                        {testimonial.title && (
-                                            <span className="text-sm text-[#56565C] uppercase font-semibold font-aeonik-fono tracking-widest mt-1">
+                                        {testimonial.title ? (
+                                            <span className="text-sub-body text-secondary block">
                                                 {testimonial.title} // {testimonial.company}
                                             </span>
-                                        )}
+                                        ) : null}
                                     </div>
                                 </div>
                             </div>
@@ -92,20 +94,6 @@ export function Testimonials({ className }: Props) {
                     </div>
                 ))}
             </div>
-
-            <style jsx>{`
-                @keyframes scroll {
-                    0% {
-                        transform: translateX(0);
-                    }
-                    100% {
-                        transform: translateX(-100%);
-                    }
-                }
-                .animate-scroll {
-                    animation: scroll 40s linear infinite;
-                }
-            `}</style>
         </div>
     );
 }

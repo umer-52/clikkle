@@ -1,0 +1,24 @@
+/* Appwrite icon font — only glyphs needed for marketing `web-icon-arrow-right` (`src/icons/output/web-icon.css`). */
+@font-face {
+    font-family: 'web-icon';
+    font-display: swap;
+    src:
+        url('/clikkle/fonts/docs/web-icon.woff2') format('woff2'),
+        url('/clikkle/fonts/docs/web-icon.woff') format('woff'),
+        url('/clikkle/fonts/docs/web-icon.ttf') format('truetype');
+}
+
+[class^='web-icon-'],
+[class*=' web-icon-'] {
+    font-family: 'web-icon' !important;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.web-icon-arrow-right::before {
+    content: '\ea07';
+}

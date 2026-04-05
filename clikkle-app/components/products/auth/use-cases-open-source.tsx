@@ -3,7 +3,6 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { cn } from '@/lib/utils';
 import { Github, MessageSquare } from 'lucide-react';
 
 const platforms = [
@@ -40,10 +39,88 @@ const openSourceItems = [
 
 const alternativePlatforms = ['Auth0', 'Firebase', 'Supabase', 'NHost'];
 
-export function UseCasesOpenSource() {
+/** `UseCases.svelte` — SDK + migration columns */
+export function AuthSdkMigration() {
+    return (
+        <section className="border-smooth border-t border-black/8 py-20">
+            <div className="container grid items-stretch gap-y-8 divide-[#19191C]/14 [grid-gap:initial] md:divide-x lg:grid-cols-2">
+                <div className="relative mx-auto mb-20 flex flex-col items-center justify-center gap-y-6 text-center md:px-20">
+                    <div className="flex items-center gap-2">
+                        {platforms.map((platform) => {
+                            const boxSize = (platform.size / 6) * 10;
+                            return (
+                                <div
+                                    key={platform.name}
+                                    className="flex items-center justify-center rounded-lg bg-white shadow-[0px_5.35px_10.7px_rgba(0,0,0,0.02)] backdrop-blur-[16.7px]"
+                                    style={{ height: `${boxSize}px`, width: `${boxSize}px` }}
+                                >
+                                    <Image
+                                        src={`/clikkle/images/products/auth/platforms/${platform.file}`}
+                                        height={platform.size}
+                                        width={platform.size}
+                                        alt={platform.name}
+                                    />
+                                </div>
+                            );
+                        })}
+                    </div>
+                    <h2 className="text-title font-aeonik-pro text-primary">
+                        Integrate with easy-to-use APIs and SDKs
+                    </h2>
+                    <p className="text-main-body font-medium text-secondary">
+                        Integrate Auth seamlessly into your projects with your favorite technology.
+                    </p>
+                    <Link href="/docs/sdks" className="web-btn web-btn-outline mt-2 !w-full md:!w-fit">
+                        Learn more
+                    </Link>
+                </div>
+
+                <div className="mx-auto mb-20 flex flex-col items-center justify-center gap-y-6 text-center md:px-20">
+                    <div className="relative flex items-center gap-2">
+                        {migrations.map((migration) => (
+                            <div
+                                key={migration.name}
+                                className="z-10 flex size-10 items-center justify-center rounded-lg bg-white shadow-[0px_5.35px_10.7px_rgba(0,0,0,0.02)]"
+                            >
+                                <Image
+                                    src={`/clikkle/images/products/auth/platforms/${migration.file}`}
+                                    alt={migration.name}
+                                    width={24}
+                                    height={24}
+                                />
+                            </div>
+                        ))}
+
+                        <div className="-mr-2 z-0 h-px w-24 flex-1 bg-gradient-to-r from-black/10 to-[#2D63FF]" />
+
+                        <div className="z-10 flex size-14 items-center justify-center rounded-lg border border-[#2D63FF] bg-white shadow-[0px_0px_8px_rgba(45,99,255,0.24),0px_5.35px_10.7px_rgba(0,0,0,0.02)]">
+                            <Image
+                                src="/clikkle/images/logos/logo.svg"
+                                alt="Clikkle"
+                                width={24}
+                                height={24}
+                            />
+                        </div>
+                    </div>
+                    <h2 className="text-title font-aeonik-pro text-primary">
+                        Migrate your users to Clikkle effortlessly
+                    </h2>
+                    <p className="text-main-body font-medium text-secondary">
+                        Use Clikkle&apos;s migration process to transfer your existing users with a few clicks.
+                    </p>
+                    <Link href="/docs" className="web-btn web-btn-outline mt-2 !w-full md:!w-fit">
+                        Learn more
+                    </Link>
+                </div>
+            </div>
+        </section>
+    );
+}
+
+/** `OpenSource.svelte` — typewriter headline + three pillars */
+export function AuthOpenSourceSection() {
     const [activeIndex, setActiveIndex] = useState(0);
 
-    /* Very simplified rotate strings for typewriter effect without complex libs */
     useEffect(() => {
         const interval = setInterval(() => {
             setActiveIndex((prev) => (prev + 1) % alternativePlatforms.length);
@@ -52,124 +129,67 @@ export function UseCasesOpenSource() {
     }, []);
 
     return (
+        <section className="border-smooth border-t border-black/8 pt-32 pb-40">
+            <div className="container overflow-x-hidden">
+                <div className="mx-auto mb-20 flex max-w-2xl flex-col items-center gap-y-4 text-center">
+                    <h2 className="text-title font-aeonik-pro leading-tight text-primary md:text-display">
+                        Open source <br className="hidden md:block" />
+                        alternative to{' '}
+                        <span className="relative inline-flex text-[#2D63FF]">
+                            {alternativePlatforms[activeIndex]}
+                            <span
+                                className="animate-caret-blink absolute top-1/2 -right-2 block h-[75%] w-px -translate-y-1/2 bg-[#2D63FF]"
+                                aria-hidden
+                            />
+                        </span>
+                    </h2>
+                    <p className="text-main-body mt-4 font-medium text-secondary md:text-description">
+                        Clikkle is a 100% open source project, giving you the flexibility and support you need to
+                        get your project started.
+                    </p>
+                    <div className="mx-auto mt-2 flex w-full flex-col items-center justify-center gap-2 md:flex-row">
+                        <a
+                            href="https://github.com/clikkle"
+                            className="web-btn web-btn-outline h-10 !w-full md:!w-fit"
+                        >
+                            <Github className="web-btn-icon" aria-hidden /> Star on GitHub
+                        </a>
+                        <a
+                            href="https://discord.gg/clikkle"
+                            className="web-btn web-btn-primary h-10 !w-full md:!w-fit border-[#5865F2] !bg-[#5865F2] hover:!brightness-110"
+                            style={{ borderColor: '#5865F2' }}
+                        >
+                            <MessageSquare className="web-btn-icon" aria-hidden /> Join Discord
+                        </a>
+                    </div>
+                </div>
+
+                <div className="mx-auto grid place-items-center gap-8 md:grid-cols-3">
+                    {openSourceItems.map((item) => (
+                        <div key={item.title} className="max-w-[275px] text-center">
+                            <Image
+                                src={item.icon}
+                                alt=""
+                                width={64}
+                                height={64}
+                                className="mx-auto"
+                            />
+                            <h3 className="text-sub-body mt-4 font-medium text-primary">{item.title}</h3>
+                            <p className="text-sub-body mt-2 font-normal text-secondary">{item.copy}</p>
+                        </div>
+                    ))}
+                </div>
+            </div>
+        </section>
+    );
+}
+
+/** @deprecated Prefer `AuthSdkMigration` + `AuthOpenSourceSection` + `Testimonials` on the page */
+export function UseCasesOpenSource() {
+    return (
         <>
-            <section className="bg-[#f9fafb] py-20 border-t border-black/10 text-[#19191C]">
-                <div className="container grid items-stretch gap-y-8 divide-white/10 [grid-gap:initial] md:divide-x lg:grid-cols-2">
-                    
-                    {/* Left: Integrations */}
-                    <div className="relative mx-auto mb-20 flex flex-col items-center justify-center gap-y-6 text-center md:px-20">
-                        <div className="flex items-center gap-2">
-                            {platforms.map((platform) => {
-                                const boxSize = (platform.size / 6) * 10;
-                                return (
-                                    <div
-                                        key={platform.name}
-                                        className="flex items-center justify-center rounded-lg bg-black/5 border border-black/10"
-                                        style={{ height: `${boxSize}px`, width: `${boxSize}px` }}
-                                    >
-                                        <Image
-                                            src={`/clikkle/images/products/auth/platforms/${platform.file}`}
-                                            height={platform.size}
-                                            width={platform.size}
-                                            alt={platform.name}
-                                        />
-                                    </div>
-                                );
-                            })}
-                        </div>
-                        <h2 className="text-title text-primary font-aeonik-pro text-[#19191C]">
-                            Integrate with easy-to-use APIs and SDKs
-                        </h2>
-                        <p className="text-main-body text-secondary font-medium text-[#434347]">
-                            Integrate Auth seamlessly into your projects with your favorite technology.
-                        </p>
-                        <Link
-                            href="/docs"
-                            className="web-btn web-btn-outline mt-2 !w-full md:!w-fit"
-                        >
-                            Learn more
-                        </Link>
-                    </div>
-
-                    {/* Right: Migrations */}
-                    <div className="mx-auto mb-20 flex flex-col items-center justify-center gap-y-6 text-center md:px-20">
-                        <div className="flex items-center gap-2 relative">
-                            {migrations.map((migration) => (
-                                <div key={migration.name} className="flex size-10 items-center justify-center rounded-lg bg-black/5 border border-black/10 z-10">
-                                    <Image
-                                        src={`/clikkle/images/products/auth/platforms/${migration.file}`}
-                                        alt={migration.name}
-                                        width={24}
-                                        height={24}
-                                    />
-                                </div>
-                            ))}
-
-                            <div className="-mr-2 h-px w-24 flex-1 bg-gradient-to-r from-black/10 to-[#2D63FF] z-0"></div>
-
-                            <div className="flex size-14 items-center justify-center rounded-lg border border-[#2D63FF] bg-white shadow-[0px_0px_8px_rgba(45,_99,_255,_0.24)] z-10 backdrop-blur-md">
-                                <Image
-                                    src="/clikkle/images/logos/logo.svg"
-                                    alt="Clikkle Logo"
-                                    width={24}
-                                    height={24}
-                                />
-                            </div>
-                        </div>
-                        <h2 className="text-title text-primary font-aeonik-pro text-[#19191C]">
-                            Migrate your users to Clikkle effortlessly
-                        </h2>
-                        <p className="text-main-body text-secondary font-medium text-[#434347]">
-                            Use Clikkle's migration process to transfer your existing users with a few clicks.
-                        </p>
-                        <Link
-                            href="/docs"
-                            className="web-btn web-btn-outline mt-2 !w-full md:!w-fit"
-                        >
-                            Learn more
-                        </Link>
-                    </div>
-                </div>
-            </section>
-
-            {/* Open Source portion */}
-            <section className="bg-[#f9fafb] pt-32 pb-40 border-t border-black/10 text-[#19191C]">
-                <div className="container overflow-x-hidden">
-                    <div className="mx-auto mb-20 flex max-w-2xl flex-col items-center gap-y-4 text-center">
-                        <h2 className="md:text-display text-title text-primary font-aeonik-pro text-[#19191C] leading-tight">
-                            Open source <br className="hidden md:block" />alternative to{' '}
-                            <div className="relative inline-flex bg-[linear-gradient(-146deg,_#FD376F,_#19191D_47%,_#19191D)] bg-clip-text text-transparent border-b border-dashed border-[#2D63FF]">
-                                <span className="text-[#2D63FF] relative">
-                                    {alternativePlatforms[activeIndex]}
-                                    <div className="animate-caret-blink absolute top-1/2 -right-3 bottom-0 block h-[75%] w-px -translate-y-1/2 bg-[#2D63FF]"></div>
-                                </span>
-                            </div>
-                        </h2>
-                        <p className="md:text-description text-main-body text-secondary font-medium text-[#434347] mt-4">
-                            Clikkle is a 100% open source project, giving you the flexibility and support you
-                            need to get your project started.
-                        </p>
-                        <div className="mx-auto mt-4 flex w-full flex-col items-center justify-center gap-2 md:flex-row">
-                            <a href="https://github.com/clikkle" className="web-btn web-btn-outline !w-full md:!w-fit">
-                                <Github className="web-btn-icon" aria-hidden /> Star on GitHub
-                            </a>
-                            <a href="https://discord.gg/clikkle" className="web-btn web-btn-primary !w-full md:!w-fit border-[#5865F2] !bg-[#5865F2] hover:!brightness-110" style={{ borderColor: '#5865F2' }}>
-                                <MessageSquare className="web-btn-icon" aria-hidden /> Join Discord
-                            </a>
-                        </div>
-                    </div>
-
-                    <div className="mx-auto grid place-items-center gap-8 md:grid-cols-3">
-                        {openSourceItems.map((item, idx) => (
-                            <div key={idx} className="max-w-[275px] text-center border-t border-black/10 pt-8" style={{ borderTop: `1px solid rgba(0, 0, 0, ${1 - idx * 0.3})` }}>
-                                <Image src={item.icon} alt={item.title} width={64} height={64} className="mx-auto opacity-80" style={{ filter: 'invert(1)' }} />
-                                <h3 className="text-sub-body text-primary mt-6 font-medium text-[#19191C]">{item.title}</h3>
-                                <p className="text-sub-body text-secondary mt-2 font-normal text-[#434347]">{item.copy}</p>
-                            </div>
-                        ))}
-                    </div>
-                </div>
-            </section>
+            <AuthSdkMigration />
+            <AuthOpenSourceSection />
         </>
     );
 }

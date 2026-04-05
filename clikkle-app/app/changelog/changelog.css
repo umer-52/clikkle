@@ -1,4 +1,18 @@
-/* Changelog page styles - matching Clikkle's changelog layout */
+/* Changelog page — `src/routes/changelog/[[page]]/+page.svelte` + `_container.scss` level-2 */
+.web-big-padding-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.web-big-padding-section-level-2 {
+  margin-block: 3rem;
+}
+
+@media (min-width: 1024px) {
+  .web-big-padding-section-level-2 {
+    margin-block: 7.5rem;
+  }
+}
 
 .changelog-wrapper {
   --padding-inline: 1rem;

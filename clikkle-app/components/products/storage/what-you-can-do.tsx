@@ -1,7 +1,5 @@
 import { codeToHtml } from 'shiki';
 import { CodePreviewClient } from '@/components/code-preview-client';
-import { Button } from '@/components/ui/button';
-import Link from 'next/link';
 
 const snippets = {
     list: {
@@ -15,7 +13,7 @@ const files = await storage.listFiles({
         label: 'Create file',
         code: `// Create files inside a specific bucket
 const files = await storage.createFile({
-    bucketId: '<BUCKET_ID>',
+    bucketId: '[BUCKET_ID]',
     fileId: '<FILE_ID>',
     file: inputFile
 });`
@@ -60,22 +58,24 @@ export async function WhatYouCanDo() {
     }));
 
     return (
-        <div className="bg-[var(--bg-primary)] px-6 py-12 md:p-12 rounded-3xl border border-white/10 shadow-2xl relative">
-            <div className="absolute top-0 right-10 w-[60%] h-[1px] bg-gradient-to-r from-transparent via-white/50 to-transparent" />
-            <div className="flex justify-between items-center mb-6">
-                <div className="flex space-x-2">
-                    <div className="w-3 h-3 rounded-full bg-white/20" />
-                    <div className="w-3 h-3 rounded-full bg-white/20" />
-                    <div className="w-3 h-3 rounded-full bg-white/20" />
+        <div className="flex min-w-0 max-w-full flex-col gap-5">
+            <div className="relative rounded-3xl border border-white/10 bg-[var(--bg-primary)] px-6 py-12 shadow-2xl md:p-12">
+                <div className="absolute right-10 top-0 h-[1px] w-[60%] bg-gradient-to-r from-transparent via-white/50 to-transparent" />
+                <div className="mb-6 flex items-center justify-between">
+                    <div className="flex space-x-2">
+                        <div className="size-3 rounded-full bg-white/20" />
+                        <div className="size-3 rounded-full bg-white/20" />
+                        <div className="size-3 rounded-full bg-white/20" />
+                    </div>
                 </div>
+
+                <CodePreviewClient
+                    tabs={tabs}
+                    defaultTab="list"
+                    highlightedSamples={highlightedSamples}
+                    rawCodes={rawCodes}
+                />
             </div>
-            
-            <CodePreviewClient
-                tabs={tabs}
-                defaultTab="list"
-                highlightedSamples={highlightedSamples}
-                rawCodes={rawCodes}
-            />
         </div>
     );
 }

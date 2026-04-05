@@ -206,6 +206,9 @@ export async function generateStaticParams() {
     allParams.push({ slug: ["tutorials", framework] });
   });
 
+  /* Appwrite `docs/products/databases/legacy/+page.ts` — static export needs the param row */
+  allParams.push({ slug: ["products", "databases", "legacy"] });
+
   return allParams;
 }
 
@@ -239,6 +242,16 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
   if (slug.length === 2 && slug[0] === "tutorials") {
     // e.g. /docs/tutorials/react -> /docs/tutorials/react/step-1
     redirect(`/docs/tutorials/${slug[1]}/step-1`);
+  }
+
+  /* Appwrite `src/routes/docs/products/databases/legacy/+page.ts` */
+  if (
+    slug.length === 3 &&
+    slug[0] === "products" &&
+    slug[1] === "databases" &&
+    slug[2] === "legacy"
+  ) {
+    redirect("/docs/products/databases/legacy/databases");
   }
 
   if (isReferenceServiceSlug(slug)) {
@@ -308,6 +321,14 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
   const showArticleCopy =
     isArticleLayout && !hasDocsRoutePrompt(slug) && rawMarkdown != null;
 
+  /**
+   * Appwrite `src/markdoc/layouts/Article.svelte`: `description` is SEO/meta only — the slot is
+   * Markdoc body. We were also rendering `description` above the body, which duplicated the lead
+   * on product overviews whose body repeats the same intro (e.g. Databases).
+   */
+  const suppressArticleDescriptionLead =
+    isArticleLayout && doc.slug === "products/databases";
+
   const metadataRow =
     doc.frontmatter?.difficulty || doc.frontmatter?.readtime ? (
       <ul className="web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50">
@@ -322,7 +343,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
     ) : null;
 
   const titleBlock = doc.frontmatter?.title ? (
-    <h1 className="text-title m-0 font-aeonik-pro font-bold tracking-tight text-primary">
+    <h1 className="text-title m-0 font-aeonik-pro tracking-tight text-primary">
       {doc.frontmatter.title}
     </h1>
   ) : null;
@@ -426,17 +447,18 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
     </header>
   );
 
-  const descriptionBlock = doc.frontmatter?.description ? (
-    <p
-      className={
-        isArticleLayout
-          ? "text-description mb-6 max-w-none font-medium text-[var(--color-text-secondary)] dark:text-white/60"
-          : "mb-6 max-w-[700px] text-lg text-[var(--color-text-muted)] dark:text-white/50"
-      }
-    >
-      {doc.frontmatter.description}
-    </p>
-  ) : null;
+  const descriptionBlock =
+    doc.frontmatter?.description && !suppressArticleDescriptionLead ? (
+      <p
+        className={
+          isArticleLayout
+            ? "text-description mb-6 max-w-none font-medium text-[var(--color-text-secondary)] dark:text-white/60"
+            : "mb-6 max-w-[700px] text-lg text-[var(--color-text-muted)] dark:text-white/50"
+        }
+      >
+        {doc.frontmatter.description}
+      </p>
+    ) : null;
 
   const databasesBanner =
     isArticleLayout && doc.slug.startsWith("products/databases") ? (
@@ -459,6 +481,14 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
       </aside>
     ) : null;
 
+  const articleGridBelowHeader = (
+    <>
+      {databasesBanner}
+      {doc.slug.startsWith("quick-starts/") ? <AiPromptBox /> : null}
+      {proseBody}
+    </>
+  );
+
   const mainBody = useArticleContentsGrid ? (
     <>
       {articleHeader}
@@ -466,9 +496,11 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
         className={cn("pb-24", getDocsProseSurfaceClasses(isArticleLayout))}
       >
         {descriptionBlock}
-        {databasesBanner}
-        {doc.slug.startsWith("quick-starts/") ? <AiPromptBox /> : null}
-        {proseBody}
+        {suppressArticleDescriptionLead ? (
+          <div className="mt-6">{articleGridBelowHeader}</div>
+        ) : (
+          articleGridBelowHeader
+        )}
       </DocsArticleGridContent>
       {tocAside}
     </>
@@ -476,9 +508,11 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
     <>
       {articleHeader}
       {descriptionBlock}
-      {databasesBanner}
-      {doc.slug.startsWith("quick-starts/") ? <AiPromptBox /> : null}
-      {proseBody}
+      {suppressArticleDescriptionLead ? (
+        <div className="mt-6">{articleGridBelowHeader}</div>
+      ) : (
+        articleGridBelowHeader
+      )}
     </>
   );
 

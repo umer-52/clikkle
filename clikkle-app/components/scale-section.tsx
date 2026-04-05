@@ -18,12 +18,48 @@ const defaultStats: StatItem[] = [
   { number: 20, suffix: "B+", description: "monthly database operations" },
 ];
 
-const testimonial = {
-  name: "Ryan O'Connor",
-  title: "Founder",
-  company: "K-Collect",
-  image: "/clikkle/images/testimonials/ryan-oconner.png",
-};
+const stories = [
+  {
+    id: "0",
+    name: "Ryan O'Connor",
+    title: "Founder",
+    company: "K-Collect",
+    image: "/clikkle/images/testimonials/ryan-oconner.png",
+    quote: (
+      <>
+        The switch to using Clikkle brought{" "}
+        <span className="text-accent font-semibold">infinite</span> value that I&apos;m still
+        discovering today.
+      </>
+    ),
+  },
+  {
+    id: "1",
+    name: "David Forster",
+    title: "Founder",
+    company: "Open Mind",
+    image: "/clikkle/images/testimonials/david-forster.png",
+    quote: (
+      <>
+        We really loved working with Clikkle for launching our bootstrapped &quot;Open Mind&quot; App —{" "}
+        <span className="text-accent font-semibold">surprisingly easy</span> in React Native.
+      </>
+    ),
+  },
+  {
+    id: "2",
+    name: "Marius Bolik",
+    title: "CTO",
+    company: "mySHOEFITTER",
+    image: "/clikkle/images/testimonials/marius-bolik2.png",
+    quote: (
+      <>
+        Auth and data structures saved us{" "}
+        <span className="text-accent font-semibold">several weeks</span> of engineering time.
+      </>
+    ),
+  },
+] as const;
 
 function easeOutCubic(t: number): number {
   return 1 - Math.pow(1 - t, 3);
@@ -31,6 +67,8 @@ function easeOutCubic(t: number): number {
 
 export function ScaleSection() {
   const sectionRef = useRef<HTMLDivElement>(null);
+  const [activeStoryId, setActiveStoryId] = useState<string>("0");
+  const activeStory = stories.find((s) => s.id === activeStoryId) ?? stories[0];
   const [animatedValues, setAnimatedValues] = useState<number[]>(
     defaultStats.map(() => 0)
   );
@@ -104,25 +142,50 @@ export function ScaleSection() {
           </h2>
           <p className="text-secondary border-accent mt-5 border-l-2 pl-4 font-medium md:pr-28">
             <span className="text-accent">&ldquo;</span>
-            The switch to using Clikkle brought{" "}
-            <span className="text-accent font-semibold">infinite</span> value
-            that I&apos;m still discovering today.
+            {activeStory.quote}
             <span className="text-accent">&rdquo;</span>
           </p>
 
+          <fieldset className="mt-5 ml-4 border-0 p-0">
+            <legend className="sr-only">Customer story</legend>
+            <div className="flex flex-wrap gap-3">
+              {stories.map((s) => (
+                <label
+                  key={s.id}
+                  className={cn(
+                    "inline-flex cursor-pointer items-center gap-2 rounded-full border px-3 py-1 text-caption font-medium transition-colors",
+                    activeStoryId === s.id
+                      ? "border-accent bg-accent/10 text-primary"
+                      : "border-white/10 text-secondary hover:border-white/20 hover:text-primary"
+                  )}
+                >
+                  <input
+                    type="radio"
+                    name="scale-story"
+                    value={s.id}
+                    checked={activeStoryId === s.id}
+                    onChange={() => setActiveStoryId(s.id)}
+                    className="sr-only"
+                  />
+                  <span>{s.company}</span>
+                </label>
+              ))}
+            </div>
+          </fieldset>
+
           <div className="mt-4 ml-4 flex items-center gap-3">
-            <img loading="lazy"
-              src={testimonial.image}
+            <img
+              loading="lazy"
+              src={activeStory.image}
               className="size-6 rounded-full"
-              alt={`${testimonial.company} Logo`}
+              alt=""
               width={24}
-              height={24} />
+              height={24}
+            />
             <div className="flex gap-1">
-              <span className="text-sub-body text-primary block font-medium">
-                {testimonial.name},
-              </span>
+              <span className="text-sub-body text-primary block font-medium">{activeStory.name},</span>
               <span className="text-sub-body text-secondary block font-medium">
-                {testimonial.title} at {testimonial.company}
+                {activeStory.title} at {activeStory.company}
               </span>
             </div>
           </div>

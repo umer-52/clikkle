@@ -100,7 +100,7 @@ export function PlatformsGrid({ className, headline = "Designed for the tools yo
       >
         {/* Headline — matches Appwrite GradientText + text-sub-body */}
         {headline && (
-          <span className="flex items-center pr-4 text-sm font-medium md:w-full md:max-w-[175px] -mb-1 bg-gradient-to-br from-[#6d8ffc] to-white to-50% bg-clip-text pb-1 text-transparent">
+          <span className="flex items-center pr-4 text-sm font-medium md:w-full md:max-w-[175px] -mb-1 bg-[linear-gradient(145deg,#6d8ffc_0%,#ffffff_50%)] bg-clip-text pb-1 text-transparent">
             {headline}
           </span>
         )}

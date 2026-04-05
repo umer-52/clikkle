@@ -43,13 +43,13 @@ export default function MessagingPage() {
                             <div className="mt-8 flex flex-col sm:flex-row items-center gap-2">
                                 <Link
                                     href="https://cloud.clikkle.com"
-                                    className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 py-2 w-full sm:w-auto bg-white text-black hover:bg-white/90 shadow"
+                                    className="web-btn web-btn-primary w-full sm:w-auto ![background-image:none] !border-transparent !bg-white !text-black shadow hover:!bg-white/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                                 >
                                     Get started
                                 </Link>
                                 <Link
                                     href="/docs/products/messaging"
-                                    className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 h-9 px-4 py-2 w-full sm:w-auto bg-secondary text-secondary-foreground hover:bg-secondary/80 shadow-sm"
+                                    className="web-btn web-btn-secondary w-full sm:w-auto shadow-sm focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                                 >
                                     Documentation
                                 </Link>

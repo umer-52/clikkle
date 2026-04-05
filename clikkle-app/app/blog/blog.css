@@ -1,4 +1,9 @@
-/* Blog page styles — hero rhythm: src/scss/6-elements/_container.scss */
+/* Blog page — `_container.scss` `.web-big-padding-section` grid shell + level-2 margins */
+.web-big-padding-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .web-big-padding-section-level-2 {
   margin-block: 3rem;
 }

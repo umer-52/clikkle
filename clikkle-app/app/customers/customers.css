@@ -1,16 +1,30 @@
 /* ============================================
-   CUSTOMERS / CUSTOMER STORIES PAGE
+   CUSTOMERS — layout parity: `Category.svelte` + `_container.scss` + `_grid-articles.scss`
    ============================================ */
 
-/* ---------- Hero ---------- */
-.customers-hero {
-  position: relative;
-  overflow: hidden;
-  padding-block: 5rem 3rem;
-  background-color: var(--bg-primary);
+.web-big-padding-section-level-2.customers-category-page {
+  margin-block: 3rem;
+  margin-block-end: 0;
+  padding-block-end: 0;
 }
 
-.customers-hero__glow {
+@media (min-width: 1024px) {
+  .web-big-padding-section-level-2.customers-category-page {
+    margin-block: 7.5rem;
+    margin-block-end: 0;
+    padding-block-end: 0;
+  }
+}
+
+/* `_category-header.scss` — column gap 12px; description max 40rem */
+.customers-category-header {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.customers-category-header__glow {
   position: absolute;
   inset: 0;
   pointer-events: none;
@@ -20,59 +34,40 @@
     radial-gradient(ellipse 35% 30% at 55% 35%, rgba(30, 58, 138, 0.1) 0%, transparent 60%);
 }
 
-.customers-hero__inner {
+.customers-category-header__content {
   position: relative;
   z-index: 1;
-  max-width: calc(1100px + 3rem);
-  margin-inline: auto;
-  padding-inline: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.75rem;
 }
 
-.customers-hero__title {
-  font-family: var(--font-aeonik-pro, 'Inter', sans-serif);
-  font-size: clamp(2.5rem, 1.5rem + 3.5vw, 4rem);
-  line-height: 1.1;
-  font-weight: 500;
-  color: var(--color-gray-50, #f8f8fb);
+.customers-category-header__title {
+  max-width: 100%;
+  text-wrap: balance;
   margin: 0;
 }
 
-.customers-hero__subtitle {
-  font-size: clamp(1rem, 0.881rem + 0.382vw, 1.125rem);
-  line-height: 1.625;
-  font-weight: 400;
-  color: var(--color-gray-400, #9b9ba7);
-  margin-block-start: 1rem;
-  max-width: 36rem;
+.customers-category-header__description {
+  max-width: 40rem;
+  margin: 0;
 }
 
-/* ---------- Story Cards Grid ---------- */
-.customers-grid-section {
-  background-color: var(--bg-primary);
-  padding-block: 0 4rem;
-}
-
-.customers-grid-container {
-  max-width: calc(1100px + 3rem);
-  margin-inline: auto;
-  padding-inline: 1.5rem;
-}
-
-.customers-grid {
+/* `web-grid-articles` — min column 280px; gap 32px mobile / 48px ≥1024 */
+.customers-stories-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(17.5rem, 1fr));
+  grid-auto-columns: minmax(17.5rem, 1fr);
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-@media (max-width: 900px) {
-  .customers-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 600px) {
-  .customers-grid {
-    grid-template-columns: 1fr;
+@media (min-width: 1024px) {
+  .customers-stories-grid {
+    gap: 3rem;
   }
 }
 

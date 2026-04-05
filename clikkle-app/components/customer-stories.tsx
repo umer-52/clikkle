@@ -50,13 +50,30 @@ export function CustomerStories() {
                 'after:absolute after:inset-0 after:top-0 after:right-0 after:-z-10 after:mt-auto after:mb-0 after:block after:h-full after:bg-[radial-gradient(circle_at_-15%_125%,rgba(45,99,255,0.2),transparent_40%)] after:blur-2xl'
             )}
         >
-            <div className="container flex h-[800px] lg:h-auto lg:min-h-[467px] flex-col items-stretch gap-4 lg:flex-row">
+            <div
+                className="container flex h-[800px] lg:h-auto lg:min-h-[467px] flex-col items-stretch gap-4 lg:flex-row"
+                role="radiogroup"
+                aria-label="Customer stories"
+            >
                 {studies.map((study) => {
                     const isActive = activeId === study.id;
                     return (
                         <div
                             key={study.id}
+                            role="radio"
+                            aria-checked={isActive}
+                            tabIndex={isActive ? 0 : -1}
                             onClick={() => setActiveId(study.id)}
+                            onKeyDown={(e) => {
+                                if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+                                e.preventDefault();
+                                const idx = studies.findIndex((s) => s.id === study.id);
+                                const next =
+                                    e.key === "ArrowRight"
+                                        ? studies[Math.min(idx + 1, studies.length - 1)]
+                                        : studies[Math.max(idx - 1, 0)];
+                                setActiveId(next.id);
+                            }}
                             data-state={isActive ? "on" : "off"}
                             className={cn(
                                 'relative grid w-full cursor-pointer overflow-hidden rounded-2xl border border-transparent backdrop-blur-3xl transition-all ease-in-out duration-300',

@@ -20,18 +20,21 @@ function ClikkleIcon({ className }: { className?: string }) {
 /* ═══════════════════════════════════════════════
    SECTION 1 — Hero
    ═══════════════════════════════════════════════ */
+/* `src/markdoc/layouts/Category.svelte` — web-category-header + container */
 function CustomerHero() {
   return (
-    <section className="customers-hero">
-      <div className="customers-hero__glow" aria-hidden="true" />
-      <div className="customers-hero__inner">
-        <h1 className="customers-hero__title">Customer Stories</h1>
-        <p className="customers-hero__subtitle">
-          Learn more about how other developers have built successful
-          applications while relying on Clikkle.
+    <header className="customers-category-header">
+      <div className="customers-category-header__glow" aria-hidden="true" />
+      <div className="customers-category-header__content">
+        <h1 className="customers-category-header__title text-display font-aeonik-pro text-primary">
+          Customer Stories
+        </h1>
+        <p className="customers-category-header__description text-description text-secondary">
+          Learn more about how other developers have built successful applications while relying on
+          Clikkle.
         </p>
       </div>
-    </section>
+    </header>
   );
 }
 
@@ -81,17 +84,16 @@ function StoryCard({ story }: { story: CustomerStory }) {
 /* ═══════════════════════════════════════════════
    SECTION 3 — Story Cards Grid
    ═══════════════════════════════════════════════ */
+/* `web-grid-articles` rhythm — `_grid-articles.scss` gap 32px / 48px, min column 280px */
 function StoriesGrid() {
   return (
-    <section className="customers-grid-section">
-      <div className="customers-grid-container">
-        <div className="customers-grid">
-          {customerStories.map((story) => (
-            <StoryCard key={story.slug} story={story} />
-          ))}
-        </div>
-      </div>
-    </section>
+    <ul className="customers-stories-grid">
+      {customerStories.map((story) => (
+        <li key={story.slug}>
+          <StoryCard story={story} />
+        </li>
+      ))}
+    </ul>
   );
 }
 
@@ -100,10 +102,20 @@ function StoriesGrid() {
    ═══════════════════════════════════════════════ */
 export default function CustomersPage() {
   return (
-    <>
-      <CustomerHero />
-      <StoriesGrid />
-      <SiteFooter />
-    </>
+    <div className="pt-6">
+      <div className="web-big-padding-section-level-2 customers-category-page">
+        <div className="container">
+          <CustomerHero />
+          <div className="mt-12">
+            <StoriesGrid />
+          </div>
+        </div>
+        <div className="relative mt-0 overflow-hidden">
+          <div className="container">
+            <SiteFooter />
+          </div>
+        </div>
+      </div>
+    </div>
   );
 }

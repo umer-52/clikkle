@@ -22,7 +22,7 @@ export function Network() {
 
                 <Link
                     href="/the-clikkle-network"
-                    className="group box-border inline-flex min-h-9 shrink-0 items-center justify-center whitespace-nowrap rounded-[8px] px-4 py-2 text-sm font-medium leading-none transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-secondary text-secondary-foreground shadow-sm hover:bg-secondary/80 sm:px-6"
+                    className="group box-border inline-flex min-h-10 shrink-0 items-center justify-center whitespace-pre rounded-[8px] px-[14px] py-[7px] text-sm font-medium leading-none transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-secondary text-secondary-foreground shadow-sm hover:bg-secondary/80"
                 >
                     More about the Clikkle Network
                     <ArrowRight className="w-4 h-4 ml-2 transition-transform group-hover:translate-x-0.5" />

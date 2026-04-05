@@ -11,6 +11,7 @@
 @import './styles/appwrite-spacing.css';
 @import './styles/appwrite-surfaces.css';
 @import './header.css';
+@import './marketing-web-icon.css';
 
 @custom-variant dark (&:where(.dark, .dark *));
 @custom-variant light (&:where(.light, .light *));
@@ -298,13 +299,18 @@
     --text-headline: clamp(var(--font-size-huge), 2.546rem + 3.053vw, var(--font-size-giant));
     --text-headline--line-height: clamp(var(--leading-xxl), 2.427rem + 3.435vw, var(--leading-xxxxl));
     --text-headline--letter-spacing: var(--tracking-compressed);
+
+    /* Appwrite marketing `md:w-lg` testimonial cards (`src/lib/components/product-pages/testimonials.svelte`) */
+    --width-lg: 32rem;
 }
 
+/* `src/styles/appwrite-spacing.css` — same as Svelte repo (important beats stray utilities) */
 @utility container {
     width: min(100%, calc(var(--container-max-width) + (var(--container-padding-inline) * 2)));
-    max-width: calc(var(--container-max-width) + (var(--container-padding-inline) * 2));
+    max-width: calc(var(--container-max-width) + (var(--container-padding-inline) * 2)) !important;
     margin-inline: auto;
-    padding-inline: var(--container-padding-inline);
+    padding-inline: var(--container-padding-inline) !important;
+    box-sizing: border-box;
 }
 
 @utility border-gradient {
@@ -379,11 +385,12 @@
 }
 
 @layer components {
+    /* Appwrite `src/scss/6-elements/_button.scss` `.web-button` — structure + sizing (colors stay Clikkle). */
     .web-btn {
         box-sizing: border-box;
-        min-block-size: 36px;
-        padding-block: 0;
-        padding-inline: 16px;
+        min-block-size: 40px;
+        padding-block: 7px;
+        padding-inline: 14px;
         border-radius: 8px;
         font-size: 14px;
         font-weight: 500;
@@ -398,13 +405,13 @@
         border-width: 1px;
         border-style: solid;
         font-family: inherit;
-        white-space: nowrap;
+        white-space: pre;
     }
 
     .web-btn:disabled,
     .web-btn[aria-disabled='true'] {
         pointer-events: none;
-        opacity: 0.5;
+        opacity: 0.4;
     }
 
     .web-btn:focus-visible {
@@ -414,7 +421,7 @@
 
     .web-btn-primary {
         color: #fff;
-        font-weight: 600;
+        font-weight: 500;
         border-color: rgba(255, 255, 255, 0.1);
         background: linear-gradient(180deg, #3f7cff 0%, #2d63ff 45%, #2458e8 100%);
         box-shadow:
@@ -469,9 +476,11 @@
     }
 
     .web-btn--icon {
-        inline-size: 36px;
-        min-inline-size: 36px;
+        inline-size: 40px;
+        min-inline-size: 40px;
+        min-block-size: 40px;
         padding-inline: 0;
+        padding-block: 0;
         flex-shrink: 0;
     }
 
@@ -480,6 +489,7 @@
         inline-size: 16px;
         block-size: 16px;
         flex-shrink: 0;
+        line-height: 1;
     }
 
     .aw-menu-button.web-btn:hover,
@@ -549,6 +559,158 @@
         height: 16px;
         flex-shrink: 0;
     }
+
+    /* `src/routes/products/storage/+page.svelte` + `src/scss/6-elements/_container.scss` */
+    .web-hero {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .web-hero.is-center {
+        align-items: center;
+        text-align: center;
+    }
+
+    .web-hero.is-align-start {
+        align-items: flex-start;
+        text-align: left;
+    }
+
+    .web-big-padding-section-level-1 {
+        padding-block: 0;
+    }
+
+    @media (min-width: 1024px) {
+        .web-big-padding-section-level-1 {
+            padding-block: 2.5rem;
+        }
+    }
+
+    .web-big-padding-section-level-2 {
+        margin-block: 3rem;
+    }
+
+    @media (min-width: 1024px) {
+        .web-big-padding-section-level-2 {
+            margin-block: 7.5rem;
+        }
+    }
+
+    .web-white-section {
+        background-color: #ededf0;
+    }
+
+    .web-u-flex-sep {
+        flex-shrink: 0;
+        width: 1px;
+        align-self: stretch;
+        min-height: 1px;
+        background-color: hsl(240 5.7% 10.4% / 0.04);
+    }
+
+    .storage-l-drop-shadow {
+        filter: drop-shadow(0 16px 32px rgb(55 59 77 / 0.04));
+    }
+
+    /* `src/scss` utility — storage dashboard text column max width */
+    .web-u-max-width-580 {
+        max-width: 36.25rem;
+    }
+
+    /* `src/scss/_10-utilities.scss` — product explore cards inner rhythm */
+    .web-u-padding-inline-8 {
+        padding-inline: 0.5rem;
+    }
+
+    .web-u-padding-block-end-8 {
+        padding-block-end: 0.5rem;
+    }
+
+    .web-u-flex-basis-378 {
+        flex-basis: 23.625rem;
+    }
+
+    /* Appwrite `src/scss/6-elements/_card.scss` — `.web-card.is-normal` (marketing + docs parity) */
+    .web-card.is-normal {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        padding: 1.25rem;
+        border-radius: 1rem;
+        border: solid 1px var(--color-border-default);
+        background-color: var(--bg-secondary);
+        transition: var(--transition);
+    }
+
+    .dark .web-card.is-normal {
+        border-color: rgb(255 255 255 / 0.1);
+    }
+
+    a.web-card.is-normal {
+        cursor: pointer;
+        box-shadow: 0 0 0 2px transparent;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    a.web-card.is-normal:hover:not([aria-disabled='true']),
+    a.web-card.is-normal:active:not([aria-disabled='true']) {
+        background-color: var(--color-smooth);
+    }
+
+    a.web-card.is-normal:focus-visible {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--color-tertiary);
+    }
+
+    /*
+     * Dark product grids (`product-cards.svelte`, `auth/+page.svelte`) — inline `rgba(255,255,255,0.04)` in source;
+     * class + hover replaces inline so `:hover` can win in the cascade.
+     */
+    .dark a.web-card.is-normal.web-card-explore {
+        background-color: rgb(255 255 255 / 0.04);
+    }
+
+    .dark a.web-card.is-normal.web-card-explore:hover,
+    .dark a.web-card.is-normal.web-card-explore:active {
+        background-color: var(--color-smooth);
+    }
+
+    /* Muted arrow on dark cards (matches Appwrite contrast) */
+    .dark a.web-card.is-normal.web-card-explore .web-icon-arrow-right {
+        color: rgb(255 255 255 / 0.45);
+    }
+
+    /*
+     * Local hero glare — Appwrite `(marketing)/hero.svelte` blur layer; Clikkle blues
+     * (`the-clikkle-network-page`, `not-found`). Sits above `-z-20` photo, below content.
+     */
+    .marketing-hero-lighting-layer {
+        pointer-events: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 0;
+        height: 100vh;
+        width: 200vw;
+        max-width: none;
+        transform: translate(-25%, 2rem) rotate(25deg);
+        overflow: hidden;
+        filter: blur(64px);
+        background-image:
+            radial-gradient(ellipse 390px 50px at 10% 30%, rgba(45, 99, 255, 0.22) 0%, rgba(45, 99, 255, 0) 70%),
+            radial-gradient(ellipse 1100px 170px at 15% 40%, rgba(45, 99, 255, 0.1) 0%, rgba(45, 99, 255, 0) 70%),
+            radial-gradient(ellipse 1200px 180px at 30% 30%, rgba(30, 58, 138, 0.12) 0%, rgba(30, 58, 138, 0) 70%);
+        background-position: 0% 0%;
+        animation: lighting 1.25s ease-out forwards;
+    }
+
+    @media (min-width: 768px) {
+        .marketing-hero-lighting-layer {
+            width: 100%;
+        }
+    }
 }
 
 
@@ -585,5 +747,54 @@
 
     background-color: var(--bg-primary);
     color: var(--color-text-primary);
+}
+
+/*
+ * `.light` is unlayered; `.web-white-section` lives in `@layer utilities`, so plain `.light` was winning
+ * and painting product pages (e.g. storage APIs + testimonials) solid white — cards blended into one strip.
+ * Restore the grey marketing band like Appwrite `web-white-section` + `light` on the same node.
+ */
+.light.web-white-section {
+    background-color: #ededf0;
+}
+
+/* ── Site-wide atmospheric glare (dark) — Appwrite `(marketing)/hero.svelte`, Clikkle blues ── */
+html.dark body {
+    position: relative;
+}
+
+html.dark body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background-image:
+        radial-gradient(ellipse 420px 56px at 12% 28%, rgba(45, 99, 255, 0.32) 0%, rgba(45, 99, 255, 0) 72%),
+        radial-gradient(ellipse 1100px 180px at 18% 42%, rgba(45, 99, 255, 0.16) 0%, rgba(45, 99, 255, 0) 72%),
+        radial-gradient(ellipse 1200px 200px at 32% 32%, rgba(30, 58, 138, 0.2) 0%, rgba(30, 58, 138, 0) 72%);
+    background-position: 0% 0%;
+    filter: blur(48px);
+    opacity: 0;
+    animation: lighting 1.25s ease-out forwards;
+}
+
+html.dark #main-content {
+    position: relative;
+    z-index: 1;
+    background-color: transparent;
+}
+
+/*
+ * Marketing `<main>` (no utility bg) was painting the default shell color and hiding `body::before`.
+ * Docs / special layouts keep their own `main` backgrounds via utilities or scoped CSS.
+ */
+html.dark #main-content > main:not([class*='bg-']) {
+    background-color: transparent !important;
+}
+
+/* Opaque `bg-[var(--bg-primary)]` on `<main>` hid the atmosphere; keep white / special mains untouched. */
+html.dark #main-content > main[class*='--bg-primary'] {
+    background-color: transparent !important;
 }
 

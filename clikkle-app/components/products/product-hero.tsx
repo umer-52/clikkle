@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
@@ -39,8 +38,13 @@ export function ProductHero({
     mobileImage
 }: ProductHeroProps) {
     return (
-        <div className="border-smooth box-content flex items-center border-b bg-[url(/clikkle/images/bgs/mobile-hero.png)] bg-cover bg-bottom px-5 py-12 md:bg-[url(/clikkle/images/bgs/hero.png)] md:bg-center md:pt-32 md:pb-40 lg:px-8 xl:px-16">
-            <div className="mx-auto grid max-w-[75rem] items-center gap-16 md:grid-cols-2">
+        <div className="border-smooth relative isolate box-content flex items-center overflow-hidden border-b px-5 py-12 lg:px-8 xl:px-16 md:pt-32 md:pb-40">
+            <div
+                className="pointer-events-none absolute inset-0 -z-20 bg-[url(/clikkle/images/bgs/mobile-hero.png)] bg-cover bg-bottom md:bg-[url(/clikkle/images/bgs/hero.png)] md:bg-center"
+                aria-hidden
+            />
+            <div className="marketing-hero-lighting-layer" aria-hidden />
+            <div className="relative z-10 mx-auto grid w-full max-w-[75rem] items-center gap-16 md:grid-cols-2">
                 <div className="space-y-8">
                     <div className="flex items-center gap-2">
                         <img src={eyebrow.icon} className="size-8" alt="" />
@@ -58,7 +62,7 @@ export function ProductHero({
                     <div className="flex flex-col items-center gap-2 md:flex-row">
                         <Button
                             asChild
-                            className="w-full min-w-[140px] md:w-auto"
+                            className="!w-full md:!w-fit"
                         >
                             <Link href={cta.url}>{cta.label}</Link>
                         </Button>
@@ -66,7 +70,7 @@ export function ProductHero({
                             <Button
                                 asChild
                                 variant="secondary"
-                                className="min-w-[140px] w-full md:w-auto"
+                                className="!w-full md:!w-fit"
                             >
                                 <Link href={secondaryCta.url}>{secondaryCta.label}</Link>
                             </Button>

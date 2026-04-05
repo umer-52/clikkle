@@ -90,7 +90,7 @@ export default function RootLayout({
       suppressHydrationWarning
       className={`${inter.variable} ${poppins.variable} ${jetbrainsMono.variable}`}
     >
-      <body className="antialiased font-body">
+      <body className="antialiased font-body" suppressHydrationWarning>
         {/*
           Matches Svelte boot: read `localStorage.theme` before paint so html class is correct.
           `beforeInteractive` injects into document head (Next.js).

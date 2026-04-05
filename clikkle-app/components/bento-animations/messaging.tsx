@@ -1,48 +1,133 @@
 "use client";
-import { cn } from "@/lib/utils";
-import { GridPaper } from "./grid-paper";
-import Link from "next/link";
 
+import Link from "next/link";
+import { useRef, useState, useEffect } from "react";
+import { motion, useInView } from "framer-motion";
+import { Mail, MessageSquare, Settings, Calendar } from "lucide-react";
+import { GridPaper } from "./grid-paper";
+
+/** 24h clock with zero-padded hours — avoids SSR/client `toLocaleTimeString` mismatches. */
+function formatTime24h(d: Date): string {
+  const h = d.getHours();
+  const m = d.getMinutes();
+  return `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}`;
+}
+
+function useMediaQuery(query: string) {
+  const [matches, setMatches] = useState(false);
+  useEffect(() => {
+    const mq = window.matchMedia(query);
+    const onChange = () => setMatches(mq.matches);
+    onChange();
+    mq.addEventListener("change", onChange);
+    return () => mq.removeEventListener("change", onChange);
+  }, [query]);
+  return matches;
+}
+
+/** `bento/(animations)/messaging.svelte` — inView on mobile, hover on desktop. */
 export function BentoMessaging() {
+  const containerRef = useRef<HTMLAnchorElement>(null);
+  const inView = useInView(containerRef, { amount: "all", once: false });
+  const isMobileLayout = useMediaQuery("(max-width: 767px)");
+  const [hovered, setHovered] = useState(false);
+  const active = isMobileLayout ? inView : hovered;
+
   return (
     <Link
+      ref={containerRef}
       href="/products/messaging"
-      className="border-smooth col-span-12 flex flex-col rounded-2xl border bg-white/2 p-2 transition-shadow duration-300 hover:shadow-[0px_0px_0px_4px_var(--color-offset)] focus:shadow-[0px_0px_0px_4px_var(--color-offset)] md:col-span-6 lg:col-span-4"
+      onPointerEnter={() => setHovered(true)}
+      onPointerLeave={() => setHovered(false)}
+      className="border-smooth group/messaging col-span-12 flex flex-col rounded-2xl border bg-white/2 p-2 transition-shadow duration-300 hover:shadow-[0px_0px_0px_4px_var(--color-offset)] focus:shadow-[0px_0px_0px_4px_var(--color-offset)] md:col-span-6 lg:col-span-4"
     >
       <div className="space-y-3 px-3 pt-2 pb-4">
         <div className="flex items-center gap-2">
-          <img loading="lazy" src="/clikkle/images/icons/illustrated/dark/messaging.png" alt="Messaging icon" width={28} height={28} className="size-7" />
+          <img
+            loading="lazy"
+            src="/clikkle/images/icons/illustrated/dark/messaging.png"
+            alt="Messaging icon"
+            width={28}
+            height={28}
+            className="size-7"
+          />
           <h3 className="font-aeonik-pro text-label text-primary">Messaging</h3>
         </div>
         <p className="text-sub-body text-primary max-w-lg font-medium">
-          <span className="text-secondary">Send notifications via</span> push, email, SMS, and in-app messaging.
+          Set up a full-functioning messaging service that covers{" "}
+          <span className="text-secondary">multiple channels under one unified platform.</span>
         </p>
       </div>
       <div className="relative mt-auto mb-0 flex h-85 items-center justify-center overflow-clip rounded-xl bg-black/24 px-8">
-        <div className="flex flex-col items-center gap-4">
-          {/* Notification card mock */}
-          <div className="border-smooth flex w-[280px] flex-col gap-2 rounded-2xl border bg-[#232325]/90 p-4 backdrop-blur-md">
-            <div className="flex items-center gap-2">
-              <div className="size-8 rounded-full bg-[#2D63FF]/20 flex items-center justify-center">
-                <svg className="size-4 text-[#2D63FF]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9" /><path d="M13.73 21a2 2 0 0 1-3.46 0" /></svg>
-              </div>
-              <div>
-                <p className="text-eyebrow text-primary font-medium">Push Notification</p>
-                <p className="text-[0.625rem] text-secondary">Just now</p>
-              </div>
-            </div>
-            <p className="text-eyebrow text-secondary">Your order #1234 has been shipped! Track your delivery.</p>
+        <motion.div
+          className="light absolute top-14 z-10 flex h-[65px] w-[85%] items-center justify-between gap-4 rounded-[20px] bg-white/80 px-3 py-2 shadow-[-8px_4px_32px_rgba(0,0,0,0.24)] backdrop-blur-xl"
+          data-theme-ignore
+          initial={false}
+          animate={{
+            y: active ? 0 : -15,
+            opacity: active ? 1 : 0,
+            filter: active ? "blur(0px)" : "blur(4px)",
+          }}
+          transition={{ duration: 0.2 }}
+          style={{ willChange: "transform, opacity, filter" }}
+        >
+          <div className="flex size-8 shrink-0 items-center justify-center rounded-lg bg-black">
+            <div className="size-3 rounded-full bg-white" />
           </div>
-          <div className="border-smooth flex w-[260px] flex-col gap-2 rounded-2xl border bg-[#232325]/60 p-3 opacity-60 backdrop-blur-md">
-            <div className="flex items-center gap-2">
-              <div className="size-6 rounded-full bg-blue-500/20 flex items-center justify-center">
-                <svg className="size-3 text-blue-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect width="20" height="16" x="2" y="4" rx="2" /><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" /></svg>
+          <div className="max-lg:text-eyebrow leading-micro flex flex-col text-[0.625rem] tracking-tighter">
+            <span className="text-primary flex justify-between font-medium">
+              New security measures added{" "}
+              <span className="text-secondary/50 mr-1 block">now</span>
+            </span>
+            <p className="text-secondary leading-tight">
+              Check out our latest security updates to protect your account!
+            </p>
+          </div>
+        </motion.div>
+
+        <motion.div
+          className="light mt-20 flex h-full w-[300px] flex-col rounded-t-[42px] border-x border-t border-white/12 bg-white/8 backdrop-blur-2xl"
+          style={{
+            maskImage: "linear-gradient(to bottom, black 60%, transparent 100%)",
+            WebkitMaskImage: "linear-gradient(to bottom, black 60%, transparent 100%)",
+          }}
+          data-theme-ignore
+          initial={false}
+          animate={{ y: active ? 0 : 15 }}
+          transition={{ duration: 0.25 }}
+        >
+          <div className="m-2 flex-1 rounded-t-[34px] bg-[#19191C]">
+            <div className="flex items-center justify-between px-8 pt-4">
+              <span className="leading-micro w-10 text-[0.625rem] font-semibold tracking-tighter text-white">
+                {formatTime24h(new Date())}
+              </span>
+              <div className="h-5 w-[84px] rounded-full bg-black" />
+              <div className="h-3 w-7 rounded-full bg-black" />
+            </div>
+            <div className="text-eyebrow mt-6 grid flex-1 grid-cols-4 grid-rows-24 place-items-center gap-3 p-6">
+              <div className="relative flex aspect-square size-full shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-white/10 to-white/3 shadow-sm shadow-black/5">
+                <div className="bg-accent text-eyebrow absolute -top-1 -right-1 flex size-3 items-center justify-center rounded-full" />
+                <Mail className="size-6 text-white/90" aria-hidden />
               </div>
-              <p className="text-eyebrow text-primary font-medium">Email Sent</p>
+              {[MessageSquare, Settings, Calendar].map((Icon, idx) => (
+                <div
+                  key={idx}
+                  className="flex aspect-square size-full shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-white/10 to-white/3 shadow-sm shadow-black/5"
+                >
+                  <Icon className="size-6 text-white/90" aria-hidden />
+                </div>
+              ))}
+              {Array.from({ length: 12 }).map((_, idx) => (
+                <div
+                  key={`pad-${idx}`}
+                  className="aspect-square size-full shrink-0 rounded-xl bg-gradient-to-br from-white/10 to-white/3 shadow-sm shadow-black/5"
+                />
+              ))}
             </div>
           </div>
-        </div>
-        <GridPaper className="absolute inset-0 -z-10 bg-size-[calc(100%/11)]" />
+        </motion.div>
+
+        <GridPaper className="absolute inset-0 -z-10 bg-size-[calc(100%/13)]" />
       </div>
     </Link>
   );
