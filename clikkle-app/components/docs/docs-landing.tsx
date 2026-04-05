@@ -244,7 +244,7 @@ function DocCard({
   return (
     <Link
       href={href}
-      className="group flex flex-col gap-1 rounded-2xl border border-offset bg-card p-5 transition-all hover:bg-smooth"
+      className="web-card is-normal"
     >
       {illustrated ? (
         <>
@@ -266,8 +266,8 @@ function DocCard({
           />
         </>
       ) : null}
-      <h4 className="text-[14px] font-medium leading-[1.2] text-primary">{title}</h4>
-      <p className="text-[14px] leading-[1.375] text-secondary">{description}</p>
+      <h4 className="text-[14px] font-medium leading-[1.2] text-[var(--color-primary)] mt-0 mb-0">{title}</h4>
+      <p className="text-[14px] leading-[1.375] text-[var(--color-secondary)] mt-1 mb-0">{description}</p>
     </Link>
   );
 }
@@ -284,10 +284,10 @@ function McpCard({
   return (
     <Link
       href={href}
-      className="flex items-center gap-2 rounded-2xl border border-offset bg-card p-5 transition-all hover:bg-smooth"
+      className="web-card is-normal flex flex-row items-center gap-2"
     >
       <img src={icon} alt="" width={24} height={24} loading="lazy" />
-      <h4 className="text-[14px] font-medium leading-[1.2] text-primary">{title}</h4>
+      <h4 className="text-[14px] font-medium leading-[1.2] text-[var(--color-primary)] mt-0 mb-0">{title}</h4>
     </Link>
   );
 }
@@ -366,19 +366,14 @@ function TutorialCarousel() {
   );
 }
 
-/** Appwrite `src/routes/docs/+page.svelte` */
+/** Appwrite `src/routes/docs/+page.svelte` — `web-main-section` + `web-hero` live in `DocsShell` */
 export function DocsLandingContent() {
   return (
-    <main id="main" className="relative min-w-0 overflow-x-hidden">
-      <div className="absolute top-0 left-12 -z-10 translate-x-32 opacity-60 md:translate-x-96">
-        <img
-          src="/clikkle/images/bgs/docs-blur-1.svg"
-          alt=""
-          className="h-auto max-w-none w-[800px]"
-          loading="lazy"
-        />
+    <>
+      <div className="pointer-events-none absolute -z-10 translate-x-96">
+        <img src="/clikkle/images/bgs/docs-blur-1.svg" alt="" loading="lazy" />
       </div>
-      <div className="absolute top-4 -left-12 -z-10 opacity-40 md:opacity-60">
+      <div className="web-u-opacity-40-mobile pointer-events-none absolute top-4 left-0 -z-10">
         <img
           src="/clikkle/images/bgs/docs-blur-2.png"
           alt=""
@@ -387,10 +382,11 @@ export function DocsLandingContent() {
         />
       </div>
 
-      <section className="relative mt-8 xl:mt-20">
+      {/* `web-hero is-align-start e-hero-docs` — main padding from `.web-grid-side-nav .web-main-section` (break1) */}
+      <section className="web-hero is-align-start e-hero-docs relative">
         <Link
           href="/docs/tooling/mcp"
-          className="mb-6 inline-flex items-center gap-2 rounded-full border border-[var(--color-badge-border)] bg-[var(--color-badge-bg)] px-4 py-1.5 text-sm font-medium text-secondary transition-colors hover:border-[var(--color-brand-primary)]"
+          className="mb-6 inline-flex items-center gap-2 self-start rounded-full border border-[var(--color-badge-border)] bg-[var(--color-badge-bg)] px-4 py-1.5 text-sm font-medium text-secondary transition-colors hover:border-[var(--color-brand-primary)]"
         >
           <span className="flex items-center gap-1 text-[#2D63FF]">
             <Sparkles size={14} />
@@ -400,23 +396,20 @@ export function DocsLandingContent() {
           <ArrowRight size={14} className="text-tertiary" />
         </Link>
 
-        <h1 className="font-aeonik-pro text-[4rem] leading-none font-bold tracking-tight text-primary md:text-[5rem]">
-          Docs<span className="text-[#2D63FF]">_</span>
+        <h1 className="text-display font-aeonik-pro text-primary max-w-[600px]">
+          Docs<span className="text-[#2D63FF]">_ </span>
         </h1>
-        <p className="mt-6 max-w-[600px] text-lg text-secondary">
+        <p className="text-description max-w-[600px] text-secondary">
           Appwrite helps you build secure and scalable apps, faster. Leverage Appwrite&apos;s
           powerful APIs to stop fighting technologies and start delivering value.
         </p>
 
-        <Link
-          href="/docs/quick-starts"
-          className="mt-8 inline-flex items-center justify-center rounded-lg border border-[#2D63FF] px-6 py-2.5 text-sm font-semibold text-[#2D63FF] transition-colors hover:bg-[#2D63FF] hover:text-white"
-        >
+        <Link href="/docs/quick-starts" className="web-button is-secondary mt-8 self-start">
           Quickstart guides
         </Link>
       </section>
 
-      <section className="mt-12 flex flex-wrap gap-4">
+      <section className="mt-12 flex flex-wrap gap-4 p-0 max-md:p-0">
         {platforms.map((p) => {
           const light = "lightFile" in p ? p.lightFile : p.file;
           return (
@@ -450,73 +443,85 @@ export function DocsLandingContent() {
       </section>
 
       <section className="mt-12">
-        <h2 className="font-aeonik-pro text-3xl font-bold tracking-tight text-primary md:text-4xl">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
           Show me some code
         </h2>
-        <p className="mt-4 max-w-[600px] text-secondary">
+        <p className="text-description mt-4 max-w-[600px] text-secondary">
           If you learn best from code examples, follow one of our tutorials.
         </p>
         <TutorialCarousel />
       </section>
 
-      <section className="mt-12">
-        <h2 className="font-aeonik-pro text-3xl font-bold tracking-tight text-primary md:text-4xl">
+      <section className="web-hero is-align-start is-no-max-width mt-12">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
           Explore capabilities
         </h2>
-        <p className="mt-4 max-w-[600px] text-secondary">
+        <p className="text-description mt-4 max-w-[600px] text-secondary">
           All the core functionalities you need with a scalable and flexible API. Explore
           Appwrite&apos;s product offerings.
         </p>
-        <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {capabilities.map((c) => (
-            <DocCard key={c.title} {...c} />
-          ))}
+        <div className="mt-6">
+          <ul className="web-grid-row-4 web-grid-row-4-mobile-1">
+            {capabilities.map((c) => (
+              <li key={c.title}>
+                <DocCard {...c} />
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 
-      <section className="mt-12">
-        <h2 className="font-aeonik-pro text-3xl font-bold tracking-tight text-primary md:text-4xl">
+      <section className="web-hero is-align-start is-no-max-width mt-12">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
           Build faster with AI
         </h2>
-        <p className="mt-4 max-w-[600px] text-secondary">
+        <p className="text-description mt-4 max-w-[600px] text-secondary">
           Appwrite&apos;s Model Context Protocol (MCP) server lets LLMs interact directly with your
           Appwrite API.
         </p>
-        <div className="mt-6 grid grid-cols-1 gap-5 md:grid-cols-2">
+        <div className="mt-6 grid grid-cols-1 gap-8 md:grid-cols-2">
           {mcpTools.map((t) => (
             <McpCard key={t.title} {...t} />
           ))}
         </div>
       </section>
 
-      <section className="mt-12">
-        <h2 className="font-aeonik-pro text-3xl font-bold tracking-tight text-primary md:text-4xl">
+      <section className="web-hero is-align-start is-no-max-width mt-12">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
           Explore ways to integrate
         </h2>
-        <p className="mt-4 max-w-[600px] text-secondary">
+        <p className="text-description mt-4 max-w-[600px] text-secondary">
           Choose how you integrate with Appwrite. Explore references for the Appwrite SDK, REST API,
           GraphQL API, or Realtime API.
         </p>
-        <div className="mt-6 grid grid-cols-1 gap-8 md:grid-cols-2">
-          {integrations.map((i) => (
-            <DocCard key={i.title} {...i} />
-          ))}
+        <div className="mt-6">
+          <ul className="web-grid-row-2">
+            {integrations.map((i) => (
+              <li key={i.title}>
+                <DocCard {...i} />
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 
-      <section className="mt-12 pb-20">
-        <h2 className="font-aeonik-pro text-3xl font-bold tracking-tight text-primary md:text-4xl">
+      <section className="web-hero is-align-start is-no-max-width mt-12 pb-20">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
           Migrate to Appwrite
         </h2>
-        <p className="mt-4 max-w-[600px] text-secondary">
+        <p className="text-description mt-4 max-w-[600px] text-secondary">
           Own your data with automatic data migrations.
         </p>
-        <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {migrations.map((m) => (
-            <DocCard key={m.title} {...m} />
-          ))}
+        <div className="mt-6">
+          <ul className="web-grid-row-4">
+            {migrations.map((m) => (
+              <li key={m.title}>
+                <DocCard {...m} />
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
-    </main>
+    </>
   );
 }

@@ -8,20 +8,20 @@ import { resolveDocsSidebar } from "@/lib/docs/resolve-docs-sidebar";
 import { usePreferredPlatform } from "@/lib/markdoc/preferred-platform";
 import { usePreferredVersion } from "@/lib/docs/preferred-version";
 import { cn } from "@/lib/utils";
-import { Menu, Search, X } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useDocsPathname } from "@/lib/docs/use-docs-pathname";
 import { useEffect, useMemo } from "react";
-
-const DASHBOARD_HREF = "https://cloud.clikkle.com";
+import { SearchModal } from "./search-modal";
+import { DocsConsoleCta } from "@/components/docs/docs-console-cta";
 
 /** Appwrite `Docs.svelte` composition: mobile header, main header, grid (`variantClass` + `is-open`), slot. */
 export function DocsShell({ children }: { children: React.ReactNode }) {
   const pathname = useDocsPathname();
   const { version } = usePreferredVersion();
   const { platform } = usePreferredPlatform();
-  const { showSidenav, toggleSidenav, syncVariant, setLayoutState, setShowSearch } = useDocsLayout();
+  const { showSidenav, toggleSidenav, syncVariant, setLayoutState, setShowSearch, showSearch } = useDocsLayout();
 
   const resolved = useMemo(
     () => resolveDocsSidebar(pathname, version, platform),
@@ -49,41 +49,28 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
 
   return (
     <div className="relative min-h-screen" data-variant={resolved.variant}>
+      {/* Appwrite `Docs.svelte`: `web-mobile-header is-transparent` + text nav toggle (`Button variant="text"`) */}
       <section className="web-mobile-header is-transparent flex lg:hidden">
-        <div className="flex flex-1 items-center gap-3">
-          <Link href="/" aria-label="homepage" className="flex items-center gap-2">
+        <div className="web-mobile-header-start">
+          <Link href="/" aria-label="homepage" className="flex min-w-0 items-center gap-2">
             <Image
               src="/clikkle/images/logos/logo.svg"
               alt="Clikkle"
               width={24}
               height={24}
-              className="size-6 object-contain"
+              className="size-6 shrink-0 object-contain"
             />
-            <span className="text-lg font-bold text-[var(--color-text-primary)] dark:text-white/90">
+            <span className="min-w-0 truncate text-lg font-bold text-[var(--color-text-primary)] dark:text-white/90">
               Clikkle
             </span>
           </Link>
         </div>
-        <div className="flex items-center gap-1 sm:gap-2">
+        <div className="web-mobile-header-end">
+          <DocsConsoleCta className="web-button is-primary !w-auto shrink-0" />
           <button
             type="button"
-            className="flex size-10 shrink-0 items-center justify-center rounded-lg text-[var(--color-text-primary)] dark:text-white"
-            aria-label="Search docs"
-            onClick={() => setShowSearch(true)}
-          >
-            <Search className="size-5" strokeWidth={2} aria-hidden />
-          </button>
-          <a
-            href={DASHBOARD_HREF}
-            className="web-btn web-btn-primary aw-cta-button aw-focus-ring hidden md:inline-flex"
-            rel="noopener noreferrer"
-          >
-            Go to Console
-          </a>
-          <button
-            type="button"
-            className="flex size-10 shrink-0 items-center justify-center rounded-lg text-[var(--color-text-primary)] dark:text-white"
-            aria-label="open navigation"
+            className="web-button is-text shrink-0"
+            aria-label={showSidenav ? "close navigation" : "open navigation"}
             onClick={toggleSidenav}
           >
             {showSidenav ? <X className="size-5" aria-hidden /> : <Menu className="size-5" aria-hidden />}
@@ -108,7 +95,8 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
             <DocsFooter />
           </>
         ) : (
-          <div
+          <main
+            id="main"
             className={cn(
               "web-main-section min-w-0 flex-1",
               /* `overflow-x-hidden` breaks `position:sticky` on the docs right rail (grid side-b). */
@@ -118,9 +106,10 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
           >
             {children}
             <DocsFooter />
-          </div>
+          </main>
         )}
       </div>
+      <SearchModal isOpen={showSearch} onClose={() => setShowSearch(false)} />
     </div>
   );
 }

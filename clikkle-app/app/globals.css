@@ -1011,21 +1011,48 @@ html.dark #main-content > main[class*='--bg-primary'] {
   }
 }
 
-.docs-route-shell .web-main-header .web-button {
+/* Appwrite `_button.scss` base: gap 8px, padding 14px/7px, min-height 40px, radius `--border-radius-small` (8px) */
+.docs-route-shell .web-main-header .web-button,
+.docs-route-shell .web-mobile-header .web-button,
+.docs-route-shell .web-side-nav-mobile-footer-buttons .web-button {
   gap: 8px !important;
-  padding-inline: 14px !important;
-  padding-block: 7px !important;
-  min-block-size: 40px !important;
-  border-radius: 6px !important;
-  font-size: 16px !important;
+  padding-inline: 0.875rem !important;
+  padding-block: 0.4375rem !important;
+  min-block-size: 2.5rem !important;
+  border-radius: 0.5rem !important;
   line-height: 1 !important;
+  white-space: nowrap !important;
+}
+
+.docs-route-shell .web-main-header .web-button {
+  font-size: 1rem !important;
+}
+
+/* Mobile docs header + drawer footer: compact copy + tap-friendly menu control (Appwrite mobile docs) */
+@media (max-width: 1023.98px) {
+  .docs-route-shell .web-mobile-header .web-button.is-primary,
+  .docs-route-shell .web-side-nav-mobile-footer-buttons .web-button.is-primary {
+    font-size: 0.875rem !important;
+    /* Appwrite `_button.scss`: pxToRem(14)/pxToRem(7)/pxToRem(40) */
+    padding-inline: 0.875rem !important;
+    padding-block: 0.4375rem !important;
+    min-block-size: 2.5rem !important;
+  }
+
+  .docs-route-shell .web-mobile-header .web-button.is-text {
+    min-inline-size: 2.5rem !important;
+    min-block-size: 2.5rem !important;
+    padding-inline: 0.5rem !important;
+    padding-block: 0.5rem !important;
+    font-size: 0.875rem !important;
+  }
 }
 
 @media (min-width: 1024px) and (max-width: 1279.98px) {
   .docs-route-shell .web-main-header .web-button {
-    min-block-size: 36px !important;
-    padding-inline: 12px !important;
-    font-size: 14px !important;
+    min-block-size: 2.25rem !important;
+    padding-inline: 0.75rem !important;
+    font-size: 0.875rem !important;
   }
 
   .docs-route-shell .web-main-header .web-inline-tag {

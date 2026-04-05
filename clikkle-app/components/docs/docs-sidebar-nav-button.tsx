@@ -5,7 +5,10 @@ import { stripBasePathFromPathname } from "@/lib/basepath";
 import Link from "next/link";
 import { useDocsPathname } from "@/lib/docs/use-docs-pathname";
 
-/** Appwrite `SidebarNavButton.svelte` — active: `page.url?.pathname === groupItem.href` */
+/**
+ * Appwrite `SidebarNavButton.svelte` — active: `page.url?.pathname === groupItem.href`.
+ * Class list matches Svelte minus `size-10` / `p-2`, which override `_side-nav.scss` padding and inflate row height.
+ */
 export function DocsSidebarNavButton({
   groupItem,
   title,
@@ -29,7 +32,7 @@ export function DocsSidebarNavButton({
       {groupItem.icon ? (
         <span className={`icon ${groupItem.icon}`} aria-hidden="true" />
       ) : null}
-      <span className="text-caption web-side-nav-button-label flex min-w-0 flex-1 items-center gap-2">
+      <span className="text-caption web-side-nav-button-label flex min-w-0 flex-1 gap-2">
         <span className="min-w-0 truncate">{groupItem.label}</span>
         {groupItem.new ? <span className="web-inline-tag is-pink shrink-0">New</span> : null}
         {groupItem.openInNewTab ? (

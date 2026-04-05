@@ -171,7 +171,7 @@ export function DocsTutorialView({
   const introTitle = getCorrectTitle(currentStepItem, 1);
 
   return (
-    <main className="contents" id="main">
+    <div className="contents">
       <article className="web-article contents">
         <header className="docs-tutorial-article-header web-article-header docs-article-header-stack">
           {back ? (
@@ -282,6 +282,6 @@ export function DocsTutorialView({
 
         <TutorialStepsAside steps={steps} currentStep={currentStep} />
       </article>
-    </main>
+    </div>
   );
 }

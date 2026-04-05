@@ -171,7 +171,7 @@ export function ReferenceServicePage({
 
   return (
     <>
-      <main className="contents" id="main">
+      <div className="contents">
         <article className="web-article contents">
           <header className="web-article-header items-center">
             <div className="web-article-header-start">
@@ -370,7 +370,7 @@ export function ReferenceServicePage({
             ) : null}
           </aside>
         </article>
-      </main>
+      </div>
     </>
   );
 }

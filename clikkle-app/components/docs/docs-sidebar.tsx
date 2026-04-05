@@ -1,6 +1,7 @@
 "use client";
 
 import { DocsSidebarNavButton } from "@/components/docs/docs-sidebar-nav-button";
+import { DocsConsoleCta } from "@/components/docs/docs-console-cta";
 import { useDocsLayout } from "@/components/docs/docs-layout-context";
 import type { NavLink, NavParent, NavTree } from "@/lib/docs/nav-tree";
 import { isNavLink } from "@/lib/docs/nav-tree";
@@ -71,7 +72,7 @@ export function DocsNavSidebar({
       <div className="web-side-nav-wrapper">
         <button
           type="button"
-          className="web-input-text web-is-not-desktop"
+          className="web-input-text web-is-not-desktop lg:hidden"
           onClick={() => setShowSearch(true)}
         >
           <span className="web-icon-search" aria-hidden="true" />
@@ -146,8 +147,10 @@ export function DocsNavSidebar({
           </button>
         ) : null}
         <div className="web-side-nav-mobile-footer-buttons">
+          {/* Appwrite `Sidebar.svelte`: `IsLoggedIn` then GitHub (`web-u-inline-width-100-percent-mobile` on GitHub) */}
+          <DocsConsoleCta className="web-button is-primary web-u-inline-width-100-percent-mobile" />
           <a
-            className="web-side-nav-mobile-footer-github"
+            className="web-side-nav-mobile-footer-github web-u-inline-width-100-percent-mobile"
             href={GITHUB_LINK}
             target="_blank"
             rel="noopener noreferrer"

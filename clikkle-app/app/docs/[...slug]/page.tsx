@@ -528,9 +528,9 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
 
   if (useArticleContentsGrid) {
     return (
-      <main className="contents" id="main">
+      <div className="contents">
         <article className="web-article contents">{mainBody}</article>
-      </main>
+      </div>
     );
   }
 

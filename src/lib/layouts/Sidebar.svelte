@@ -78,7 +78,7 @@
 >
     <div class="web-side-nav-wrapper">
         <button
-            class="web-input-text web-is-not-desktop"
+            class="web-input-text web-is-not-desktop lg:hidden"
             onclick={() => ($layoutState.showSearch = true)}
         >
             <span class="web-icon-search"></span>

@@ -113,7 +113,6 @@ export function DocsHeader({
           </div>
         </div>
       </div>
-      <SearchModal isOpen={showSearch} onClose={() => setShowSearch(false)} />
     </header>
   );
 }

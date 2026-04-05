@@ -6,7 +6,7 @@
     import { TITLE_SUFFIX } from '$routes/titles';
     import ComparePlans from './compare-plans.svelte';
     import Faq from './faq.svelte';
-    import BG from './bg.png?enhanced';
+    import BG from './bg.png';
     import { getAppwriteDashboardUrl } from '$lib/utils/dashboard';
     import { Button, BadgeTransparent, Icon } from '$lib/components/ui';
     import { SHOW_SCALE_PLAN } from '$lib/constants/feature-flags';
@@ -38,7 +38,7 @@
     style:pointer-events="none"
     style:inline-size="100%"
 >
-    <enhanced:img
+    <img
         src={BG}
         alt=""
         style="margin-inline:auto; display:block; width: 1369px; height: auto;"

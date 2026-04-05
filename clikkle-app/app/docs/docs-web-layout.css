@@ -602,10 +602,11 @@
     display: none;
     position: fixed;
     inset-inline-start: 0;
+    /* Appwrite `_grid-side-nav.scss` `$break0`: pxToRem(73) top, pxToRem(280) width */
     inset-block-start: 4.5625rem;
     inset-block-end: 0;
     z-index: 40;
-    inline-size: 15rem;
+    inline-size: 17.5rem;
     background: var(--web-color-background);
     border-inline-end: solid 1px var(--web-color-subtle);
     overflow-y: auto;
@@ -746,6 +747,20 @@
   background-color: var(--p-side-nav-bg-color);
 }
 
+/* Appwrite `_side-nav.scss` `$break1`: horizontal padding lives in scroll area, not wrapper */
+@media (max-width: 1023.98px) {
+  .web-side-nav-wrapper {
+    padding-inline: 0;
+  }
+
+  /* Align drawer search inset with `.web-side-nav-scroll` (1rem) — matches Appwrite screenshots */
+  .web-side-nav-wrapper > .web-input-text.web-is-not-desktop {
+    box-sizing: border-box;
+    inline-size: calc(100% - 2rem);
+    margin-inline: 1rem;
+  }
+}
+
 .web-side-nav-wrapper-parent {
   position: sticky;
   inset-block-start: -1rem;
@@ -814,19 +829,26 @@
 }
 
 .web-side-nav-button {
+  box-sizing: border-box;
   display: flex;
   inline-size: 100%;
   align-items: center;
   gap: 8px;
-  /* _side-nav.scss: padding-inline 12px, padding-block 8px */
+  /* Appwrite `_side-nav.scss` `&-button`: pxToRem(12)/pxToRem(8), no min-height */
   padding-inline: 12px;
   padding-block: 8px;
+  min-block-size: 0;
   white-space: nowrap;
   color: var(--p-side-nav-item-text-color);
   background-color: var(--p-side-nav-item-bg-color);
   border-radius: 8px;
   text-decoration: none;
   transition: var(--transition, color 0.2s ease, background-color 0.2s ease);
+}
+
+.web-side-nav-button .text-caption,
+.web-side-nav-button .web-side-nav-button-label {
+  line-height: 1.25;
 }
 
 .web-side-nav-button [class*="icon"]:first-child {
@@ -952,15 +974,21 @@
   }
 
   .web-side-nav-mobile-footer-github {
+    box-sizing: border-box;
     display: flex;
     align-items: center;
     gap: 0.5rem;
     width: 100%;
-    padding: 0.5rem 0.75rem;
-    border-radius: 0.5rem;
+    /* Same block size as Appwrite `web-button` (40px) so primary + GitHub rows match */
+    min-block-size: 2.5rem;
+    /* Match `.web-side-nav-button` horizontal inset; vertical rhythm matches primary CTA */
+    padding-block: 0.4375rem;
+    padding-inline: 0.75rem;
+    border-radius: 8px;
     text-decoration: none;
     color: var(--color-text-secondary);
-    font-size: 0.875rem;
+    font-size: var(--text-caption, 0.875rem);
+    line-height: 1;
   }
 
   .web-side-nav-mobile-footer-github:hover {
@@ -970,17 +998,52 @@
 
 /* Mobile + desktop headers (Appwrite `Docs.svelte`) */
 
-/* Appwrite `_mobile-header.scss`: padding-inline 20px, padding-block 16px, gap 16px */
+/* Appwrite `_mobile-header.scss` */
 .web-mobile-header {
+  --p-mobile-header-border-color: rgba(0, 0, 0, 0.1);
+
+  position: sticky;
+  z-index: 120;
+  inset-block-start: 0;
+  box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
   padding-block: 1rem;
   padding-inline: 1.25rem;
-  border-bottom: 1px solid color-mix(in srgb, var(--web-color-subtle) 50%, transparent);
-  background: color-mix(in srgb, var(--web-color-background) 90%, transparent);
-  backdrop-filter: blur(12px);
+  border-block-end: solid 1px var(--p-mobile-header-border-color);
+  background-color: var(--bg-primary);
+  transition: transform 0.3s ease;
+}
+
+.web-mobile-header.is-transparent {
+  background-color: transparent;
+  -webkit-backdrop-filter: blur(0.5rem);
+  backdrop-filter: blur(0.5rem);
+}
+
+.dark .web-mobile-header {
+  --p-mobile-header-border-color: rgba(255, 255, 255, 0.1);
+}
+
+.web-mobile-header-start {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+}
+
+.web-mobile-header-end {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+/* Keep CTA + menu clustered like Appwrite; avoid stretching across the empty middle */
+.web-mobile-header .web-button.is-primary {
+  flex-shrink: 0;
 }
 
 @media (min-width: 1024px) {
@@ -1119,9 +1182,73 @@
   max-inline-size: 100%;
 }
 
+/* Appwrite `_10-utilities.scss` */
+@media (max-width: 1023.98px) {
+  .web-u-opacity-40-mobile {
+    opacity: 0.4;
+  }
+
+  .web-u-inline-width-100-percent-mobile {
+    inline-size: 100%;
+    max-inline-size: 100%;
+    box-sizing: border-box;
+    justify-content: center;
+  }
+}
+
+/* Appwrite `_hero.scss` — docs hub sections */
+.web-hero {
+  --p-hero-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--p-hero-gap);
+  text-align: center;
+  max-inline-size: 53.4375rem;
+  margin-inline: auto;
+}
+
+.web-hero.is-align-start {
+  text-align: start;
+  margin-inline: 0;
+}
+
+.web-hero.is-no-max-width {
+  max-inline-size: none;
+}
+
+/* `src/routes/docs/+page.svelte` `<style>` */
+.e-hero-docs {
+  position: relative;
+}
+
+@media (min-width: 1280px) {
+  .e-hero-docs {
+    margin-block-start: 5rem;
+  }
+}
+
 /* Appwrite `9-grids/_grid-row-4.scss` + `_10-utilities.scss` (`web-u-gap-80`) */
 .web-u-gap-80 {
   gap: 5rem;
+}
+
+/* Appwrite `9-grids/_grid-row-2.scss` */
+.web-grid-row-2 {
+  display: grid;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.web-grid-row-2 li > * {
+  min-block-size: 100%;
+}
+
+@media (min-width: 1024px) {
+  .web-grid-row-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .web-grid-row-4 {
@@ -1157,5 +1284,31 @@
 @media (min-width: 1024px) {
   .web-grid-row-4 {
     grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Mobile drawer footer — must win over root `docs-header.css` `.web-button { inline-size: fit-content }`
+   (imported from `app/layout.tsx` for the whole site). Use route-scoped sheet + max specificity + `!important`.
+   Also paint footer above scroll so the top border does not visually cut through the last nav rows.
+   ───────────────────────────────────────────────────────────────────────────── */
+@media (max-width: 1023.98px) {
+  .docs-route-shell .web-side-nav .web-side-nav-scroll {
+    padding-block-end: 0.75rem;
+  }
+
+  .docs-route-shell .web-side-nav-mobile-footer-buttons {
+    flex-shrink: 0;
+    position: relative;
+    z-index: 2;
+    background-color: var(--p-side-nav-bg-color, var(--bg-primary));
+  }
+
+  .docs-route-shell .web-side-nav-mobile-footer-buttons a.web-button.web-u-inline-width-100-percent-mobile {
+    inline-size: 100% !important;
+    width: 100% !important;
+    max-inline-size: 100% !important;
+    align-self: stretch !important;
+    box-sizing: border-box !important;
   }
 }

@@ -99,29 +99,23 @@
         <div class="web-mobile-header-start">
             <a href="/" aria-label="homepage">
                 <img
-                    class="web-logo web-u-only-dark"
-                    src="/images/logos/appwrite.svg"
-                    alt="appwrite"
+                    class="web-logo block dark:hidden"
+                    src="/images/logos/clikkle-dark.svg"
+                    alt="clikkle"
                     height="24"
                     width="130"
                 />
                 <img
-                    class="web-logo web-u-only-light"
-                    src="/images/logos/appwrite-light.svg"
-                    alt="appwrite"
+                    class="web-logo hidden dark:block"
+                    src="/images/logos/clikkle-light.svg"
+                    alt="clikkle"
                     height="24"
                     width="130"
                 />
             </a>
         </div>
         <div class="web-mobile-header-end">
-            <Button
-                href={getAppwriteDashboardUrl()}
-                class="hidden md:flex"
-                event="docs-go_to_console-click"
-            >
-                <span class="text-sub-body font-medium">Go to Console</span>
-            </Button>
+            <IsLoggedIn class="!w-auto" />
             <Button variant="text" aria-label="open navigation" onclick={toggleSidenav}>
                 {#if $layoutState.showSidenav}
                     <Icon aria-hidden="true" name="close"></Icon>
@@ -139,16 +133,16 @@
             <div class="web-main-header-start flex-1">
                 <a href="/" aria-label="homepage">
                     <img
-                        class="web-logo web-u-only-dark"
-                        src="/images/logos/appwrite.svg"
-                        alt="appwrite"
+                        class="web-logo block dark:hidden"
+                        src="/images/logos/clikkle-dark.svg"
+                        alt="clikkle"
                         height="24"
                         width="130"
                     />
                     <img
-                        class="web-logo web-u-only-light"
-                        src="/images/logos/appwrite-light.svg"
-                        alt="appwrite"
+                        class="web-logo hidden dark:block"
+                        src="/images/logos/clikkle-light.svg"
+                        alt="clikkle"
                         height="24"
                         width="130"
                     />
