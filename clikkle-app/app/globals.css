@@ -492,17 +492,7 @@
         line-height: 1;
     }
 
-    .aw-menu-button.web-btn:hover,
-    .aw-close-button.web-btn:hover {
-        background: rgba(255, 255, 255, 0.14);
-        color: #2d63ff;
-    }
 
-    .aw-github-button:hover {
-        color: #2d63ff;
-        border-color: rgba(45, 99, 255, 0.35);
-        background: rgba(255, 255, 255, 0.1);
-    }
 
     /*
      * Appwrite `src/scss/6-elements/_hero-banner-button.scss` — geometry + rhythm (brand token for tint).
@@ -796,5 +786,16 @@ html.dark #main-content > main:not([class*='bg-']) {
 /* Opaque `bg-[var(--bg-primary)]` on `<main>` hid the atmosphere; keep white / special mains untouched. */
 html.dark #main-content > main[class*='--bg-primary'] {
     background-color: transparent !important;
+}
+
+/* ── Scrollbar-hide utilities ── */
+.hide-scrollbar,
+.scrollbar-hide {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.hide-scrollbar::-webkit-scrollbar,
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
 }
 

@@ -208,7 +208,7 @@ export function DocsFooter() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="web-main-footer is-with-bg-color relative mt-8 text-sm">
+    <footer className="web-main-footer is-with-bg-color relative text-sm">
       <div className="web-main-footer-grid-1">
         <ul className="web-main-footer-grid-1-column-1 flex gap-2">
           {DOCS_SOCIALS.map((s) => (

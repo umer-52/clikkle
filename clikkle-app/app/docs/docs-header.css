@@ -1,8 +1,14 @@
 /* Appwrite `Docs.svelte` — `.web-main-header-nav` (`_main-header.scss`) */
+.web-main-header-nav {
+  align-self: center;
+  font-size: 1rem;
+  user-select: none;
+}
+
 .web-main-header-nav-list {
   display: flex;
   align-items: center;
-  gap: 1.25rem;
+  gap: 2rem;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -12,35 +18,282 @@
   margin: 0;
 }
 
-/* Docs header GitHub CTA should follow light/dark tokens (Appwrite parity). */
-.web-main-header .aw-github-button {
-  border-color: color-mix(in srgb, white 12%, transparent);
-  background: color-mix(in srgb, white 6%, transparent);
-  color: color-mix(in srgb, white 92%, transparent);
+/* break2 (1024–1279): smaller nav gap + font */
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+  .web-main-header-nav {
+    font-size: 0.9375rem;
+  }
+  .web-main-header-nav-list {
+    gap: 1.25rem;
+  }
 }
 
-.web-main-header .aw-github-button:hover {
-  border-color: color-mix(in srgb, white 20%, transparent);
-  background: color-mix(in srgb, white 10%, transparent);
+/* ──────────────────────────────────────────────────────────────────────
+   Appwrite `_button.scss` — `.web-button` base + `.is-text` variant
+   Used for the docs GitHub "Star on GitHub" button.
+   ────────────────────────────────────────────────────────────────────── */
+.web-button {
+  display: flex;
+  inline-size: fit-content;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding-inline: 0.875rem;
+  padding-block: 0.4375rem;
+  min-block-size: 2.5rem;
+  border-radius: 0.5rem;
+  border: solid 0.0625rem transparent;
+  text-align: center;
+  user-select: none;
+  font-weight: 500;
+  text-decoration: none !important;
+  white-space: pre;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: inherit;
+  line-height: 1.5;
+  font-family: inherit;
+  background: none;
 }
 
-.web-main-header .aw-github-button .aw-github-count {
-  background: color-mix(in srgb, white 10%, transparent);
-  color: color-mix(in srgb, white 65%, transparent);
+.web-button:where(:disabled) {
+  opacity: 0.4;
+  cursor: initial;
 }
 
-.light .web-main-header .aw-github-button {
-  border-color: color-mix(in srgb, var(--color-gray-900) 10%, transparent);
+.web-button [class*="icon"] {
+  line-height: 1;
+}
+
+.web-button .web-inline-tag {
+  margin-inline-end: -0.125rem;
+}
+
+.web-button.is-text {
+  color: var(--color-text-secondary, hsl(0 0% 43%));
   background: transparent;
+  border-color: transparent;
+  transition: none;
+}
+
+.web-button.is-text [class*="icon"] {
+  opacity: 0.4;
+}
+
+.web-button.is-text:hover:not(:disabled) {
+  box-shadow: none;
+  color: var(--color-text-primary);
+  -webkit-backdrop-filter: blur(0.5rem);
+  backdrop-filter: blur(0.5rem);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.38) 0%,
+    rgba(255, 255, 255, 0.51) 54.74%,
+    rgba(255, 255, 255, 0.38) 100%
+  );
+}
+
+.web-button.is-text:active:not(:disabled) {
+  box-shadow: none;
+  color: var(--color-text-primary);
+  -webkit-backdrop-filter: blur(0.5rem);
+  backdrop-filter: blur(0.5rem);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.6) 0%,
+    rgba(255, 255, 255, 0.8) 54.74%,
+    rgba(255, 255, 255, 0.6) 100%
+  );
+}
+
+.web-button.is-text:focus-visible {
+  box-shadow: none;
+  outline: 4px solid rgba(0, 0, 0, 0.14);
+}
+
+/* Light mode overrides */
+.light .web-button.is-text {
+  color: var(--color-text-secondary, hsl(0 0% 43%));
+}
+
+.light .web-button.is-text:hover:not(:disabled) {
+  color: var(--color-text-primary);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.38) 0%,
+    rgba(255, 255, 255, 0.51) 54.74%,
+    rgba(255, 255, 255, 0.38) 100%
+  );
+}
+
+.light .web-button.is-text:active:not(:disabled) {
+  color: var(--color-text-primary);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.6) 0%,
+    rgba(255, 255, 255, 0.8) 54.74%,
+    rgba(255, 255, 255, 0.6) 100%
+  );
+}
+
+.light .web-button.is-text:focus-visible {
+  outline: 4px solid rgba(0, 0, 0, 0.14);
+}
+
+.light .web-button.is-text .web-inline-tag {
+  background: rgba(0, 0, 0, 0.08);
   color: var(--color-text-primary);
 }
 
-.light .web-main-header .aw-github-button:hover {
-  border-color: color-mix(in srgb, var(--color-gray-900) 16%, transparent);
-  background: color-mix(in srgb, var(--color-gray-900) 4%, transparent);
+/* Dark mode overrides */
+.dark .web-button.is-text {
+  color: rgba(255, 255, 255, 0.7);
 }
 
-.light .web-main-header .aw-github-button .aw-github-count {
-  background: color-mix(in srgb, var(--color-gray-900) 8%, transparent);
-  color: color-mix(in srgb, var(--color-gray-900) 58%, transparent);
+.dark .web-button.is-text:hover:not(:disabled) {
+  color: white;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.06) 0%,
+    rgba(255, 255, 255, 0.1) 54.74%,
+    rgba(255, 255, 255, 0.06) 100%
+  );
+}
+
+.dark .web-button.is-text:active:not(:disabled) {
+  color: white;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.09) 0%,
+    rgba(255, 255, 255, 0.15) 54.74%,
+    rgba(255, 255, 255, 0.09) 100%
+  );
+}
+
+.dark .web-button.is-text:focus-visible {
+  outline: 4px solid rgba(255, 255, 255, 0.16);
+}
+
+.dark .web-button.is-text .web-inline-tag {
+  background: rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.92);
+}
+
+/* ──────────────────────────────────────────────────────────────────────
+   Appwrite `_button.scss` — primary variant (CTA in docs header).
+   Gradient uses Clikkle brand blues instead of Appwrite pink.
+   ────────────────────────────────────────────────────────────────────── */
+.web-main-header .web-button.is-primary {
+  color: #fff;
+  font-weight: 500;
+  border-color: rgba(255, 255, 255, 0.1);
+  background: linear-gradient(180deg, #3f7cff 0%, #2d63ff 45%, #2458e8 100%);
+  background-origin: border-box;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.22),
+    0 4px 14px rgba(0, 0, 0, 0.28);
+}
+
+.web-main-header .web-button.is-primary:hover:not(:disabled) {
+  background: linear-gradient(180deg, #4d86ff 0%, #356ef8 45%, #2a5feb 100%);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.26),
+    0 6px 18px rgba(45, 99, 255, 0.28);
+}
+
+.web-main-header .web-button.is-primary:focus-visible {
+  box-shadow: 0 0 0 0.25rem rgba(45, 99, 255, 0.24);
+}
+
+/* break2 (1024–1279): smaller buttons */
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+  .web-main-header .web-button {
+    min-block-size: 2.25rem;
+    padding-inline: 0.75rem;
+    font-size: 0.875rem;
+  }
+  .web-main-header .web-inline-tag {
+    display: none;
+  }
+}
+
+/* ──────────────────────────────────────────────────────────────────────
+   Appwrite `_inline-tag.scss` + `inline-tag.svelte` — `.web-inline-tag`
+   Used for the GitHub star count badge.
+   ────────────────────────────────────────────────────────────────────── */
+.web-inline-tag {
+  display: grid;
+  place-items: center;
+  padding-block: 0.1875rem;
+  padding-inline: 0.25rem;
+  border-radius: 0.25rem;
+  line-height: 1;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-inline-end: -0.125rem;
+  background: rgba(0, 0, 0, 0.08);
+  color: var(--color-text-primary);
+}
+
+.dark .web-inline-tag {
+  background: rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.92);
+}
+
+/* ──────────────────────────────────────────────────────────────────────
+   Appwrite `_input-button.scss` — `.web-input-button`
+   Used for the docs search trigger button in the header.
+   ────────────────────────────────────────────────────────────────────── */
+.web-input-button {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding-inline: 0.75rem;
+  padding-block: 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1;
+  white-space: nowrap;
+  border: solid 0.0625rem rgba(0, 0, 0, 0.08);
+  background-color: var(--bg-primary, white);
+  color: var(--color-text-muted, hsl(0 0% 53%));
+  cursor: pointer;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+.web-input-button:hover:not(:disabled) {
+  background-color: var(--color-smooth, hsl(0 0% 97%));
+  border-color: rgba(0, 0, 0, 0.08);
+}
+
+.web-input-button:focus {
+  background-color: var(--bg-primary, white);
+  border-color: var(--color-text-primary);
+  box-shadow: 0 0 0 0.25rem rgba(0, 0, 0, 0.1);
+  outline: none;
+}
+
+.web-input-button:active {
+  background-color: var(--bg-primary, white);
+  border-color: rgba(0, 0, 0, 0.08);
+  box-shadow: 0 0 0 0.25rem rgba(0, 0, 0, 0.1);
+}
+
+.dark .web-input-button {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.1);
+  color: var(--color-text-muted, rgba(255, 255, 255, 0.4));
+}
+
+.dark .web-input-button:hover:not(:disabled) {
+  background-color: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark .web-input-button:focus {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: var(--color-brand-primary, #2d63ff);
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.16);
 }

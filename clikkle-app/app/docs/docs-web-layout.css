@@ -5,10 +5,22 @@
   --web-color-subtle: var(--color-border-subtle);
   --web-color-border: var(--color-border-subtle);
   --web-color-smooth: var(--color-border-subtle);
+  --web-color-primary: var(--color-text-primary);
+  --web-color-secondary: var(--color-text-secondary, #6c6c71);
+  --web-color-accent: var(--color-accent, #e4005e);
   --p-body-bg-color: var(--bg-primary);
   --p-side-nav-bg-color: var(--bg-primary);
-  --container-size-large: 87.625rem;
-  --container-size-huge: 100rem;
+  --container-size-large: 90rem;
+  --container-size-huge: 120rem;
+}
+
+/*
+ * Dark docs: route shell is transparent so `html.dark body::before` glare shows through.
+ * Default solid `--bg-primary` on side nav / mobile chrome hid the fixed gradient layer.
+ */
+html.dark .docs-route-shell {
+  --p-body-bg-color: transparent;
+  --p-side-nav-bg-color: transparent;
 }
 
 /* Avoid `hsl(var(--token))` — theme tokens are colors, not HSL triplets */
@@ -49,10 +61,11 @@
 /* Appwrite `9-grids/_grid-two-side-navs.scss` — quick-starts, sdks, products, etc. */
 .web-grid-two-side-navs {
   --p-grid-huge-navs-padding-inline: 1.75rem;
-  --p-grid-huge-navs-main-header-height: 4.5rem;
+  --p-grid-huge-navs-main-header-height: 4.5625rem;
   --p-grid-huge-navs-secondary-header-height: 7.25rem;
   --p-grid-huge-navs-secondary-sticky-position: 7.5rem;
   --p-grid-huge-navs--margin-top-content-side-b: 2.5rem;
+  --p-grid-huge-navs-side-nav-width-closed: 4.5625rem;
   --p-grid-huge-navs-side-nav-width-opened: 17.5rem;
   max-inline-size: var(--container-size-large);
   margin-inline: auto;
@@ -267,7 +280,6 @@
   .web-grid-two-side-navs .web-side-nav {
     display: block;
     inline-size: var(--p-grid-huge-navs-side-nav-width-opened);
-    border-inline-end: solid 1px var(--web-color-subtle);
   }
 
   .web-grid-two-side-navs .web-side-nav-wrapper {
@@ -283,7 +295,7 @@
 
 .web-grid-huge-navs {
   --p-grid-huge-navs-padding-inline: 2rem;
-  --p-grid-huge-navs-main-header-height: 4.5rem;
+  --p-grid-huge-navs-main-header-height: 4.5625rem;
   --p-grid-huge-navs-secondary-header-height: 7.25rem;
   --p-grid-huge-navs-secondary-sticky-position: 11.8125rem;
   --p-grid-huge-navs-side-nav-width-closed: 4.5625rem;
@@ -408,9 +420,9 @@
     display: block;
     position: sticky;
     z-index: 35;
-    inset-block-start: 72px;
+    inset-block-start: 4.625rem;
     align-self: start;
-    block-size: calc(100dvh - 72px);
+    block-size: calc(100dvh - 4.5625rem);
   }
 
   .web-grid-huge-navs .web-side-nav-wrapper {
@@ -631,6 +643,80 @@
   min-width: 0;
 }
 
+/* Appwrite `_grid-side-nav.scss` @media break1: mobile main section padding */
+@media (max-width: 1023.98px) {
+  .web-grid-side-nav .web-main-section {
+    padding-inline: 1.25rem !important;
+    padding-block-start: 2rem !important;
+    padding-block-end: 0 !important;
+  }
+}
+
+/* Appwrite `_grid-side-nav.scss` @media break2open + `app.css` override: left-aligned main section */
+@media (min-width: 1024px) {
+  .web-grid-side-nav .web-main-section {
+    inline-size: 100%;
+    max-inline-size: 68.875rem;
+    padding-inline: 1.5rem !important;
+    padding-block: 0 !important;
+    margin-inline: 0 !important;
+  }
+
+  .web-grid-side-nav .web-main-section > .web-hero:first-child {
+    margin-block-start: 6.25rem;
+    margin-block-end: 5rem;
+  }
+
+  .web-grid-side-nav .web-main-section > *:not(:first-child):where(:not(.u-position-absolute)):not(.web-main-footer) {
+    margin-block-start: 10rem;
+  }
+
+  .web-grid-side-nav .web-article {
+    margin-inline: 0 !important;
+  }
+}
+
+/* Appwrite `app.css` docs card overrides for side-nav hub pages */
+.web-grid-side-nav .web-card.is-normal {
+  padding: 1rem !important;
+  background-color: transparent !important;
+  border-radius: 1rem !important;
+  border: 1px solid var(--color-offset) !important;
+  transition: all 0.2s ease !important;
+}
+
+.web-grid-side-nav .web-card.is-normal:hover {
+  border-color: var(--color-subtle) !important;
+  background-color: var(--color-smooth) !important;
+}
+
+.web-grid-side-nav .web-card.is-normal header {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.75rem !important;
+}
+
+.web-grid-side-nav .web-card.is-normal h3,
+.web-grid-side-nav .web-card.is-normal h4 {
+  font-size: var(--font-size-sub-body) !important;
+  color: var(--color-primary) !important;
+  font-weight: 500 !important;
+  line-height: 1.2 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.web-grid-side-nav .web-card.is-normal [class*="icon-"],
+.web-grid-side-nav .web-card.is-normal [class*="web-icon-"] {
+  color: var(--color-primary) !important;
+  font-size: 1.5rem !important;
+}
+
+/* Appwrite `_10-utilities.scss`: back arrow shift */
+.web-u-translate-x-negative {
+  transform: translateX(-100%);
+}
+
 /* Hoist `DocsArticle` children to `.web-grid-two-side-navs` (Appwrite `main` / `article` `display: contents`). */
 .web-main-section--grid-contents {
   display: contents;
@@ -648,9 +734,9 @@
 
   position: sticky;
   z-index: 35;
-  inset-block-start: 72px;
+  inset-block-start: 4.625rem;
   align-self: start;
-  block-size: calc(100dvh - 72px);
+  block-size: calc(100dvh - 4.5625rem);
   background-color: var(--p-side-nav-bg-color);
 }
 
@@ -700,6 +786,13 @@
   gap: 1.5rem;
   padding-inline: 1rem;
   margin-inline: -1rem;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.web-side-nav-scroll::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  background: transparent;
 }
 
 .web-side-nav-scroll ul {
@@ -887,8 +980,8 @@
   gap: 1rem;
   padding-block: 1rem;
   padding-inline: 1.25rem;
-  border-bottom: 1px solid hsl(var(--web-color-subtle) / 0.5);
-  background: hsl(var(--web-color-background) / 0.9);
+  border-bottom: 1px solid color-mix(in srgb, var(--web-color-subtle) 50%, transparent);
+  background: color-mix(in srgb, var(--web-color-background) 90%, transparent);
   backdrop-filter: blur(12px);
 }
 
@@ -911,6 +1004,8 @@
     z-index: 999;
     min-block-size: 4.5625rem;
     padding-inline: 1.25rem;
+    border-block-end: solid 0.0625rem rgba(0, 0, 0, 0.1);
+    background-color: var(--bg-primary, hsl(0 0% 100%));
     box-sizing: border-box;
   }
 
@@ -936,6 +1031,8 @@
     z-index: 999;
     min-block-size: 4.5625rem;
     padding-inline: 2rem;
+    border-block-end: solid 0.0625rem rgba(0, 0, 0, 0.1);
+    background-color: var(--bg-primary, hsl(0 0% 100%));
     box-sizing: border-box;
   }
 
@@ -953,6 +1050,11 @@
   }
 }
 
+.dark .web-main-header {
+  border-color: rgba(255, 255, 255, 0.1);
+  background-color: var(--bg-primary, hsl(0 0% 7%));
+}
+
 @media (min-width: 1024px) {
   .web-main-header.is-docs .web-main-header-wrapper {
     max-inline-size: 86.875rem;
@@ -965,10 +1067,14 @@
   .web-main-header-wrapper {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     margin-inline: auto;
     box-sizing: border-box;
+  }
+
+  .web-main-header-start {
+    display: flex;
+    align-items: center;
   }
 
   .web-main-header-end {
@@ -983,7 +1089,30 @@
 }
 
 .web-main-header.is-transparent {
-  background: transparent;
+  background-color: transparent;
+  -webkit-backdrop-filter: blur(0.625rem);
+  backdrop-filter: blur(0.625rem);
+}
+
+/* Appwrite `_main-header.scss`: `.web-logo` margin-inline-end */
+.web-main-header .docs-header-logo {
+  margin-inline-end: 2rem;
+}
+
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+  .web-main-header .docs-header-logo {
+    margin-inline-end: 1.5rem;
+  }
+}
+
+/* Appwrite utility: web-u-margin-inline-start-48 (48px = 3rem) */
+.web-u-margin-inline-start-48 {
+  margin-inline-start: 3rem;
+}
+
+/* Appwrite utility: web-u-flex-basis-400 (400px = 25rem) */
+.web-u-flex-basis-400 {
+  flex-basis: 25rem;
 }
 
 /* Appwrite `9-grids/_grid-row-4.scss` + `_10-utilities.scss` (`web-u-gap-80`) */

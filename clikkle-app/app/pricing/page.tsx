@@ -5,7 +5,6 @@ import Link from 'next/link';
 import Script from 'next/script';
 import { SiteFooter } from '@/components/site-footer';
 import { PreFooter } from '@/components/pre-footer';
-import { withBasePath } from '@/lib/basepath';
 import { createFaqSchemaJsonLd } from '@/lib/faq-schema';
 import './pricing.css';
 import { comparisonTables, faqItems, type CellValue, type LinkRow } from './pricing-data';
@@ -125,7 +124,7 @@ function PricingCardsGrid() {
                 <article className="pricing-card pricing-card--pro web-card-pricing-inner flex h-full min-h-0 flex-col">
                   <header className="web-pricing-cards-header pricing-card__header">
                     <div className="pricing-card__header-top">
-                      <div className="pricing-card-pro-heading-row flex flex-wrap items-baseline gap-2">
+                      <div className="pricing-card-pro-heading-row flex gap-3">
                         <h2 id="pro" className="pricing-card__name text-label text-primary font-aeonik-pro">
                           Pro
                         </h2>
@@ -463,16 +462,14 @@ export default function PricingPage() {
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{ __html: createFaqSchemaJsonLd(faqItems) }}
       />
+      {/*
+        Appwrite `bg.png` is pink-gradient art; use CSS glare only (globals `marketing-hero-lighting-layer` — Clikkle blues).
+      */}
       <div
-        className="pricing-bg-decor web-location-for-mobile pointer-events-none absolute w-full overflow-hidden"
+        className="pricing-bg-decor web-location-for-mobile pointer-events-none absolute inset-x-0 top-0 w-full overflow-hidden"
         aria-hidden
       >
-        <img
-          src={withBasePath('/pricing-bg.png')}
-          alt=""
-          width={1369}
-          className="pricing-bg-decor__img"
-        />
+        <div className="marketing-hero-lighting-layer" aria-hidden />
       </div>
 
       <div className="dark relative z-[1] pt-8">

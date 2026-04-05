@@ -1,12 +1,11 @@
 "use client";
 
 /**
- * Appwrite `src/lib/components/blog/copy-as-markdown.svelte` — split “Copy page” + menu
- * (Copy as Markdown, View as Markdown). Theme tokens only (no Appwrite pink).
+ * Appwrite `src/lib/components/blog/copy-as-markdown.svelte` — split "Copy page" + menu.
+ * Uses `web-button is-secondary is-split` class system from `_button.scss`.
  */
 import { useCallback, useEffect, useRef, useState } from "react";
 import { usePathname } from "next/navigation";
-import { ChevronDown, ChevronUp, Copy, ExternalLink } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export function DocsCopyPage({
@@ -21,7 +20,9 @@ export function DocsCopyPage({
   const [copied, setCopied] = useState(false);
   const [copying, setCopying] = useState(false);
   const rootRef = useRef<HTMLDivElement>(null);
-  const copiedTimerRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
+  const copiedTimerRef = useRef<ReturnType<typeof setTimeout> | undefined>(
+    undefined
+  );
 
   const resetCopied = useCallback(() => {
     if (copiedTimerRef.current) clearTimeout(copiedTimerRef.current);
@@ -71,22 +72,28 @@ export function DocsCopyPage({
     };
   }, [open]);
 
-  useEffect(() => () => {
-    if (copiedTimerRef.current) clearTimeout(copiedTimerRef.current);
-  }, []);
+  useEffect(
+    () => () => {
+      if (copiedTimerRef.current) clearTimeout(copiedTimerRef.current);
+    },
+    []
+  );
 
   return (
-    <div ref={rootRef} className={cn("docs-copy-page relative inline-flex items-center", className)}>
-      <div className="docs-copy-page-split flex items-stretch overflow-hidden rounded-lg border border-[var(--color-border-default)] dark:border-white/12">
+    <div
+      ref={rootRef}
+      className={cn("copy-ctl relative inline-flex items-center", className)}
+    >
+      <div className="split-button">
         <button
           type="button"
           disabled={copying}
           onClick={doCopy}
           onMouseLeave={resetCopied}
           aria-label="Copy page as Markdown"
-          className="docs-copy-page-split-first inline-flex h-9 items-center gap-2 px-3 text-sm font-medium text-[var(--color-text-primary)] transition-colors hover:bg-[var(--color-smooth)] disabled:opacity-50 dark:text-white dark:hover:bg-white/[0.06]"
+          className="web-button is-secondary is-split is-split-first text-sm"
         >
-          <Copy className="size-4 shrink-0 opacity-80" aria-hidden />
+          <span className="web-icon-copy text-sm" aria-hidden="true" />
           <span data-ignore="true" data-noindex="true">
             Copy page
           </span>
@@ -96,9 +103,13 @@ export function DocsCopyPage({
           aria-expanded={open}
           aria-label="Open options"
           onClick={() => setOpen((v) => !v)}
-          className="docs-copy-page-split-last inline-flex h-9 w-9 items-center justify-center border-l border-[var(--color-border-default)] text-[var(--color-text-secondary)] transition-colors hover:bg-[var(--color-smooth)] dark:border-white/12 dark:text-white/70 dark:hover:bg-white/[0.06]"
+          className="web-button is-secondary is-split is-split-last text-sm"
         >
-          {open ? <ChevronUp className="size-4" aria-hidden /> : <ChevronDown className="size-4" aria-hidden />}
+          {open ? (
+            <span className="web-icon-chevron-up" aria-hidden="true" />
+          ) : (
+            <span className="web-icon-chevron-down" aria-hidden="true" />
+          )}
         </button>
       </div>
 
@@ -113,7 +124,7 @@ export function DocsCopyPage({
 
       {open ? (
         <div
-          className="docs-copy-page-menu web-select-menu is-normal absolute end-0 top-[calc(100%+4px)] z-[100] min-w-[200px] p-1"
+          className="web-select-menu is-normal absolute end-0 top-[calc(100%+4px)] z-[100] min-w-[200px] p-1"
           role="menu"
         >
           <ul className="m-0 list-none p-0 text-[0.875rem] leading-snug">
@@ -124,13 +135,24 @@ export function DocsCopyPage({
                 className="docs-copy-page-menu-btn"
                 onClick={() => void copyAndClose()}
               >
-                <Copy className="size-4 shrink-0 opacity-80" aria-hidden />
+                <span
+                  className="web-icon-copy text-sm"
+                  aria-hidden="true"
+                />
                 <span>Copy as Markdown</span>
               </button>
             </li>
             <li>
-              <button type="button" role="menuitem" className="docs-copy-page-menu-btn" onClick={viewAsMarkdown}>
-                <ExternalLink className="size-4 shrink-0 opacity-80" aria-hidden />
+              <button
+                type="button"
+                role="menuitem"
+                className="docs-copy-page-menu-btn"
+                onClick={viewAsMarkdown}
+              >
+                <span
+                  className="web-icon-external-icon text-sm"
+                  aria-hidden="true"
+                />
                 <span>View as Markdown</span>
               </button>
             </li>

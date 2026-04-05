@@ -31,7 +31,11 @@ export default function DocsLayout({
         href={`${DOCS_BASE_PATH}/fonts/docs/font-face.css`}
       />
       <link rel="stylesheet" href={`${DOCS_BASE_PATH}/fonts/docs/icon.css`} />
-      <div className="min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200">
+      {/*
+        Transparent shell so `html.dark body::before` atmospheric glare shows through
+        (solid bg here was painting over the fixed gradient layer).
+      */}
+      <div className="docs-route-shell relative min-h-screen bg-transparent text-[var(--color-text-primary)] transition-colors duration-200">
         <DocsLayoutProvider>
           <DocsShell>{children}</DocsShell>
         </DocsLayoutProvider>

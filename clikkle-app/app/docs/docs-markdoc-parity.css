@@ -27,6 +27,57 @@
   display: block;
 }
 
+/* Inline code — `6-elements/_inline-code.scss` */
+.web-inline-code {
+  color: var(--color-text-secondary);
+  background-color: var(--color-smooth);
+  display: inline-flex;
+  padding-inline: 0.25rem;
+  padding-block: 0.0625rem;
+  border-radius: 0.25rem;
+  font-family: var(--font-fira-code, ui-monospace, monospace);
+  word-break: break-word;
+}
+
+/* Kbd — `6-elements/_kbd.scss` */
+.web-kbd {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  min-inline-size: 1.5rem;
+  block-size: 1.5rem;
+  padding-inline: 0.21875rem;
+  border-radius: 0.25rem;
+  flex-shrink: 0;
+  user-select: none;
+  color: var(--color-text-muted);
+  background-color: color-mix(in srgb, var(--color-gray-900) 8%, transparent);
+  font-size: 0.75rem;
+}
+
+.dark .web-kbd {
+  color: var(--color-greyscale-100, #f5f5f5);
+  background-color: color-mix(in srgb, white 18%, transparent);
+}
+
+/* Blockquote — `8-sequences/_blockquote.scss` */
+.web-blockquote {
+  padding-inline-start: 1.25rem;
+  border-inline-start: solid 0.25rem var(--color-border-subtle);
+  max-inline-size: 42.5rem;
+}
+
+.web-blockquote-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-block-start: 1.5rem;
+}
+
+.dark .web-blockquote {
+  border-inline-start-color: var(--color-greyscale-750, #3a3a3e);
+}
+
 /* Code snippet — `7-components/_code-snippet.scss` */
 .web-code-snippet-header {
   display: flex;
@@ -108,6 +159,65 @@
   background-color: var(--color-greyscale-800);
   color: var(--color-text-primary);
   border: 1px solid var(--color-border-strong);
+}
+
+/* Appwrite `_article.scss`: child element spacing inside article content */
+.web-article-content article .web-sub-body-400,
+.web-article-content-spacing-logic .web-sub-body-400 {
+  margin-block: 1rem;
+}
+.web-article-content article .web-sub-body-500,
+.web-article-content-spacing-logic .web-sub-body-500 {
+  margin-block-end: 0.25rem;
+}
+.web-article-content article .web-main-body-500,
+.web-article-content-spacing-logic .web-main-body-500 {
+  margin-block-end: 0.5rem;
+}
+.web-article-content article .web-description,
+.web-article-content-spacing-logic .web-description {
+  margin-block-end: 1rem;
+}
+.web-article-content article .web-label,
+.web-article-content-spacing-logic .web-label {
+  margin-block-end: 1rem;
+}
+.web-article-content article .web-code-snippet,
+.web-article-content-spacing-logic .web-code-snippet {
+  margin-block-start: 1rem;
+  margin-block-end: 2rem;
+}
+.web-article-content article .web-card,
+.web-article-content-spacing-logic .web-card {
+  margin-block-end: 2rem;
+}
+.web-article-content article .web-list,
+.web-article-content article .web-numeric-list,
+.web-article-content article .web-pink-dots,
+.web-article-content-spacing-logic .web-list,
+.web-article-content-spacing-logic .web-numeric-list,
+.web-article-content-spacing-logic .web-pink-dots {
+  margin-block-end: 1.5rem;
+}
+.web-article-content article .web-blockquote,
+.web-article-content-spacing-logic .web-blockquote {
+  margin-block: 2rem;
+}
+.web-article-content article .web-table-wrapper,
+.web-article-content-spacing-logic .web-table-wrapper {
+  margin-block-end: 2rem;
+}
+.web-article-content article .web-media,
+.web-article-content-spacing-logic .web-media {
+  margin-block-end: 2rem;
+}
+.web-article-content article .web-media:not(:first-child),
+.web-article-content-spacing-logic .web-media:not(:first-child) {
+  margin-block-start: 1rem;
+}
+.web-article-content article .web-inline-info,
+.web-article-content-spacing-logic .web-inline-info {
+  margin-block-end: 1.5rem;
 }
 
 /* Article section line — `7-components/_article.scss` */
@@ -234,6 +344,21 @@
   text-align: left;
 }
 
+.web-table-head-col {
+  padding: 0.75rem;
+  min-inline-size: 11.25rem;
+}
+
+.web-table-col {
+  padding-block: 1.1875rem;
+  padding-inline: 0.75rem;
+}
+
+.web-table-col img {
+  max-inline-size: none;
+  max-block-size: none;
+}
+
 .web-table-header {
   background-color: var(--p-table-header-bg-color);
   line-height: 1;
@@ -268,21 +393,60 @@
   text-decoration-color: var(--color-text-primary);
 }
 
-/* Inline info — `7-components/_inline-info.scss` (simplified) */
+/* Inline info — `7-components/_inline-info.scss` with gradient border mixin */
 .web-inline-info {
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
   padding: 1rem;
   border-radius: 0.5rem;
-  border: 1px solid var(--color-border-default);
-  background: color-mix(in srgb, var(--bg-secondary) 90%, var(--color-gray-900));
+  border: none;
+  background: hsl(0 0% 100% / 0.04);
+}
+.web-inline-info::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 0.5rem;
+  border: 1px solid transparent;
+  background: linear-gradient(0deg, #C3C3C6 0%, rgba(195, 195, 198, 0.20) 100%) border-box;
+  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+:is(.dark, [data-theme="dark"]) .web-inline-info {
+  background: hsl(0 0% 100% / 0.04);
+}
+:is(.dark, [data-theme="dark"]) .web-inline-info::before {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.60) 0%, rgba(255, 255, 255, 0.20) 100%) border-box;
 }
 
 .web-inline-info [class*="icon"]:first-child {
   color: var(--color-brand-primary);
   font-size: 1.5rem !important;
   line-height: 1.5rem !important;
+}
+
+.web-inline-info > :last-child {
+  margin-block-end: 0 !important;
+}
+
+.web-inline-info a {
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-thickness: 0.75px;
+  text-decoration-color: color-mix(in srgb, var(--color-brand-primary) 50%, transparent);
+  text-underline-offset: 0.3125rem;
+  letter-spacing: -0.01em;
+  color: var(--color-brand-primary);
+  transition: all 100ms ease-in-out;
+}
+
+.web-inline-info a:hover {
+  color: var(--color-text-primary);
+  text-decoration-color: var(--color-text-primary);
 }
 
 /* Accordion */
@@ -335,6 +499,49 @@
   letter-spacing: var(--text-sub-body--letter-spacing);
 }
 
+/* Appwrite `_content.scss`: section + content vertical rhythm */
+.web-content {
+  --p-section-gap: 3rem;
+  --p-content-gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--p-section-gap);
+}
+
+.web-content section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--p-content-gap);
+  scroll-snap-align: start;
+  scroll-margin-top: 7.5rem;
+}
+
+.web-content a:not(.web-button):where(:hover, :focus) {
+  text-decoration: underline;
+}
+
+.web-content ul {
+  list-style: disc;
+  padding-inline-start: 1.5rem;
+}
+
+.web-content ul > li {
+  display: list-item;
+  list-style-type: disc;
+}
+
+.web-content ul > li::marker {
+  content: revert;
+  color: var(--color-brand-primary);
+}
+
+@media (max-width: 1023.98px) {
+  .web-content {
+    --p-section-gap: 1.5rem;
+    --p-content-gap: 1rem;
+  }
+}
+
 /* Appwrite `DocsArticle` lead: first paragraph under the title uses `text-main-body` weight/size */
 .web-article-content.prose > p:first-of-type {
   font-size: var(--text-main-body);
@@ -346,4 +553,365 @@
 .border-smooth {
   border-width: 1px;
   border-style: solid;
+}
+
+/* Appwrite text tokens — `6-elements/text-tokens/` (mapped to Clikkle font vars) */
+.web-eyebrow {
+  font-family: var(--font-aeonik-fono, var(--font-aeonik-pro, sans-serif));
+  font-size: 0.625rem;
+  line-height: 1rem;
+  letter-spacing: 0.06em;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.web-caption-400 {
+  font-family: var(--font-inter, sans-serif);
+  font-size: 0.75rem;
+  line-height: 1rem;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+}
+
+.web-caption-500 {
+  font-family: var(--font-inter, sans-serif);
+  font-size: 0.75rem;
+  line-height: 1rem;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+
+.web-sub-body-400 {
+  font-family: var(--font-inter, sans-serif);
+  font-size: 0.75rem;
+  line-height: 1rem;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+}
+
+@media (min-width: 1024px) {
+  .web-sub-body-400 {
+    font-size: 0.875rem;
+    letter-spacing: -0.01em;
+  }
+}
+
+.web-sub-body-500 {
+  font-family: var(--font-inter, sans-serif);
+  font-size: 0.75rem;
+  line-height: 1rem;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+
+@media (min-width: 1024px) {
+  .web-sub-body-500 {
+    font-size: 0.875rem;
+    letter-spacing: -0.01em;
+  }
+}
+
+.web-main-body-400 {
+  font-family: var(--font-inter, sans-serif);
+  font-size: 0.875rem;
+  line-height: 1rem;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+}
+
+@media (min-width: 1024px) {
+  .web-main-body-400 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+}
+
+.web-paragraph-md {
+  font-family: var(--font-inter, sans-serif);
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+}
+
+.web-description {
+  font-family: var(--font-inter, sans-serif);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+}
+
+@media (min-width: 1024px) {
+  .web-description {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+}
+
+.web-label {
+  font-family: var(--font-aeonik-pro, sans-serif);
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+.web-title {
+  font-family: var(--font-aeonik-pro, sans-serif);
+  font-size: 1.5rem;
+  line-height: 2rem;
+  letter-spacing: -0.03em;
+  font-weight: 400;
+}
+
+@media (min-width: 1280px) {
+  .web-title {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+}
+
+.web-display {
+  font-family: var(--font-aeonik-pro, sans-serif);
+  font-size: 2.5rem;
+  line-height: 2.75rem;
+  letter-spacing: -0.04em;
+  font-weight: 400;
+}
+
+@media (min-width: 1024px) {
+  .web-display {
+    font-size: 3.5rem;
+    line-height: 4rem;
+  }
+}
+
+.web-headline {
+  font-family: var(--font-aeonik-pro, sans-serif);
+  font-size: 3rem;
+  line-height: 3.25rem;
+  letter-spacing: -0.04em;
+  font-weight: 400;
+}
+
+@media (min-width: 1024px) {
+  .web-headline {
+    font-size: 4rem;
+    line-height: 4.5rem;
+  }
+}
+
+.web-code {
+  font-family: var(--font-fira-code, ui-monospace, monospace);
+  font-size: 0.625rem;
+  line-height: 1rem;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+@media (min-width: 1024px) {
+  .web-code {
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
+}
+
+/* ── Feedback / Content Footer (Appwrite _content-footer.scss) ── */
+.web-content-footer {
+  padding-block-start: 2rem;
+  border-block-start: solid 1px var(--web-color-border);
+}
+
+.web-content-footer-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.web-content-footer-header-start {
+  display: flex;
+  gap: 1rem;
+}
+
+@media (max-width: 1023.98px) {
+  .web-content-footer-header {
+    flex-direction: column-reverse;
+    gap: 2rem;
+  }
+  .web-content-footer-header-end .web-metadata {
+    padding-inline-start: 0 !important;
+  }
+  .web-content-footer-header-end li {
+    padding-inline-start: 0 !important;
+    margin-inline-start: 0 !important;
+  }
+  .web-content-footer .web-card {
+    margin-block-start: 1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .web-content-footer-header {
+    justify-items: center;
+    gap: 1rem;
+  }
+  .web-content-footer .web-card {
+    margin-block-start: 2rem;
+  }
+}
+
+/* ── Radio Button (Appwrite _radio-button.scss) ── */
+.web-radio-button {
+  --p-radio-text-color: var(--p-radio-text-color-default);
+  --p-radio-text-color-default: var(--web-color-secondary);
+  --p-radio-text-color-hover: var(--web-color-primary);
+  --p-radio-text-color-active: var(--web-color-primary);
+
+  --p-radio-bg-color: var(--p-radio-bg-color-default);
+  --p-radio-bg-color-default: 0 0% 7% / 0.04;
+  --p-radio-bg-color-hover: 0 0% 7% / 0.04;
+  --p-radio-bg-color-active: 0 0% 0% / 0.08;
+
+  --p-radio-box-shadow-focus: 0 0% 0% / 0.16;
+
+  position: relative;
+  all: unset;
+  cursor: pointer;
+
+  color: hsl(var(--p-radio-text-color));
+  background-color: hsl(var(--p-radio-bg-color));
+
+  display: grid;
+  place-content: center;
+  box-sizing: border-box;
+  block-size: 1.75rem;
+  inline-size: 1.75rem;
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-origin: content-box;
+}
+
+.web-radio-button::before {
+  all: unset;
+  content: "";
+  display: block;
+}
+
+.web-radio-button:disabled {
+  opacity: 0.4;
+}
+
+.web-radio-button:hover {
+  --p-radio-text-color: var(--p-radio-text-color-hover);
+  --p-radio-bg-color: var(--p-radio-bg-color-hover);
+}
+
+.web-radio-button:active {
+  --p-radio-text-color: var(--p-radio-text-color-active);
+  --p-radio-bg-color: var(--p-radio-bg-color-active);
+}
+
+.web-radio-button:focus {
+  box-shadow: 0 0 0 0.25rem hsl(var(--p-radio-box-shadow-focus));
+}
+
+.web-radio-button.is-selected {
+  outline: solid 1px hsl(var(--p-radio-text-color));
+}
+
+:is(.dark, [data-theme="dark"]) .web-radio-button {
+  --p-radio-bg-color-default: 0 0% 100% / 0.06;
+  --p-radio-bg-color-hover: 0 0% 100% / 0.06;
+  --p-radio-bg-color-active: 0 0% 100% / 0.10;
+  --p-radio-box-shadow-focus: 0 0% 100% / 0.16;
+}
+
+/* ── Metadata list (Appwrite _metadata.scss) ── */
+.web-content-footer .web-metadata {
+  display: flex;
+  color: var(--web-color-secondary);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.web-content-footer .web-metadata > * {
+  display: flex;
+}
+
+.web-content-footer .web-metadata > *:nth-child(n+2)::before {
+  content: "•";
+  display: block;
+  margin-inline: 0.25rem;
+}
+
+/* ── Link (Appwrite _link.scss) ── */
+.web-link {
+  display: inline-block;
+  text-decoration-thickness: 0.015625rem;
+  text-underline-offset: 0.3125rem;
+  color: var(--web-color-primary);
+  border-radius: 0.25rem;
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+
+.web-link:hover {
+  color: var(--web-color-accent, #3d5afe);
+}
+
+/* ── Input text (for feedback form) ── */
+.web-input-text {
+  display: block;
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--web-color-border);
+  background-color: transparent;
+  color: var(--web-color-primary);
+  font-size: 0.875rem;
+  line-height: 1.5;
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+.web-input-text:focus {
+  border-color: var(--web-color-accent, #3d5afe);
+}
+
+.web-input-text::placeholder {
+  color: var(--web-color-secondary);
+}
+
+textarea.web-input-text {
+  min-height: 5rem;
+  resize: vertical;
+}
+
+/* ── Button variants for feedback form ── */
+.web-btn.is-text {
+  background: transparent;
+  border: none;
+  color: var(--web-color-primary);
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: background-color 0.15s ease;
+}
+
+.web-btn.is-text:hover {
+  background-color: var(--web-color-border);
+}
+
+/* ── Text token: paragraph-lg (used by ArrowLink) ── */
+.text-paragraph-lg {
+  font-size: var(--text-paragraph-lg, 1.125rem);
+  line-height: var(--text-paragraph-lg--line-height, 1.75rem);
+  letter-spacing: var(--text-paragraph-lg--letter-spacing, -0.01em);
+  font-weight: 400;
 }

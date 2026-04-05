@@ -15,7 +15,7 @@ import React from "react";
 import Markdoc from "@markdoc/markdoc";
 import type { Metadata } from "next";
 import NextLink from "next/link";
-import { ArrowRight, ChevronLeft } from "lucide-react";
+import { ChevronLeft } from "lucide-react";
 import { notFound, redirect } from "next/navigation";
 import { Tabs, TabsItem } from "@/components/docs/tabs";
 import { OnlyDark, OnlyLight, Section } from "@/components/docs/markdoc-ui";
@@ -47,6 +47,7 @@ import {
 } from "@/components/markdoc/docs-table-parts";
 import { DocsIcon } from "@/components/markdoc/docs-icon";
 import { DocsIconImage } from "@/components/markdoc/docs-icon-image";
+import { DocsFeedback } from "@/components/docs/docs-feedback";
 
 const LINK_WHITELIST = ["clikkle.io", "cloud.clikkle.io"];
 
@@ -72,8 +73,6 @@ function DocMarkdownLink({
   href: string;
   children: React.ReactNode;
 }) {
-  const cn =
-    "font-medium text-[#2D63FF] underline decoration-[#2D63FF]/35 underline-offset-2 hover:text-[#6b93ff]";
   let nextHref = href;
   const doFollow = nextHref.includes("?dofollow=true") || nextHref.includes("&dofollow=true");
   if (doFollow) {
@@ -84,37 +83,38 @@ function DocMarkdownLink({
     const rel =
       target === "_blank" ? `noopener${doFollow ? "" : " nofollow"}` : undefined;
     return (
-      <a href={nextHref} className={cn} target={target} rel={rel}>
+      <a href={nextHref} target={target} rel={rel}>
         {children}
       </a>
     );
   }
   return (
-    <NextLink href={nextHref} className={cn}>
+    <NextLink href={nextHref}>
       {children}
     </NextLink>
   );
 }
 
 function ArrowLink({ href, children }: { href: string; children: React.ReactNode }) {
-  const cn =
-    "group mt-6 inline-flex w-full max-w-full items-center justify-between rounded-lg border border-[var(--color-border-default)] bg-transparent px-6 py-3 text-sm font-medium text-[var(--color-text-primary)] transition-colors hover:border-[var(--color-border-strong)] hover:bg-[var(--color-smooth)] sm:w-auto dark:border-white/15 dark:text-white dark:hover:border-white/25 dark:hover:bg-white/[0.06]";
+  const classes =
+    "not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0";
   const inner = (
     <>
-      <span className="underline decoration-[var(--color-border-strong)] underline-offset-4 transition-colors group-hover:decoration-[var(--color-brand-primary)] dark:decoration-white/30 dark:group-hover:decoration-white/60">
-        {children}
-      </span>
-      <ArrowRight className="ml-4 h-4 w-4 shrink-0 transition-transform group-hover:translate-x-1" />
+      {children}
+      <span
+        className="web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5"
+        aria-hidden="true"
+      />
     </>
   );
   if (isExternalHref(href)) {
     return (
-      <a href={href} className={cn} target="_blank" rel="noopener noreferrer">
+      <a href={href} className={classes} target="_blank" rel="noopener nofollow">
         {inner}
       </a>
     );
   }
-  return <NextLink href={href} className={cn}>{inner}</NextLink>;
+  return <NextLink href={href} className={classes}>{inner}</NextLink>;
 }
 
 function PartialTag() {
@@ -166,16 +166,14 @@ const components = {
     const prefixedSrc = src?.startsWith("/clikkle/") ? src : (src?.startsWith("/images/") ? `/clikkle${src}` : src);
     const w = width != null && width !== "" ? Number(width) : undefined;
     const h = height != null && height !== "" ? Number(height) : undefined;
-    // Use <span className="block"> not <div>: Markdoc often nests images inside <Paragraph> (<p>),
-    // and HTML forbids <div> inside <p> — browsers rewrite the DOM and break hydration.
     return (
-      <span className="my-8 block overflow-hidden rounded-xl border border-[var(--color-border-subtle)] bg-[var(--bg-secondary)] dark:border-white/10 dark:bg-white/[0.02]">
+      <span className="web-media relative my-8 block">
         <img
           src={prefixedSrc}
           alt={alt ?? ""}
           {...(w != null && !Number.isNaN(w) ? { width: w } : {})}
           {...(h != null && !Number.isNaN(h) ? { height: h } : {})}
-          className="h-auto w-full object-contain"
+          className="aspect-video w-full object-cover"
           decoding="async"
           loading="lazy"
         />
@@ -326,8 +324,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
    * Markdoc body. We were also rendering `description` above the body, which duplicated the lead
    * on product overviews whose body repeats the same intro (e.g. Databases).
    */
-  const suppressArticleDescriptionLead =
-    isArticleLayout && doc.slug === "products/databases";
+  const suppressArticleDescriptionLead = isArticleLayout;
 
   const metadataRow =
     doc.frontmatter?.difficulty || doc.frontmatter?.readtime ? (
@@ -378,8 +375,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
               {doc.frontmatter?.back ? (
                 <NextLink
                   href={doc.frontmatter.back}
-                  className="web-icon-button absolute start-0 top-1/2 hidden size-10 -translate-y-1/2 md:flex"
-                  style={{ marginInlineStart: "-2.75rem" }}
+                  className="web-icon-button web-u-translate-x-negative absolute hidden size-10 items-center md:flex"
                   aria-label="Back"
                 >
                   <ChevronLeft className="h-5 w-5 pr-0.5" />
@@ -474,12 +470,15 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
     </DocsProse>
   );
 
-  const tocAside =
-    doc.toc && doc.toc.length > 0 ? (
-      <aside className="web-references-menu ps-6">
+  const tocAside = (
+    <aside className="web-references-menu ps-6">
+      {doc.toc && doc.toc.length > 0 ? (
         <DocsOnThisPage items={doc.toc} />
-      </aside>
-    ) : null;
+      ) : (
+        <div className="web-references-menu-content" />
+      )}
+    </aside>
+  );
 
   const articleGridBelowHeader = (
     <>
@@ -489,11 +488,15 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
     </>
   );
 
+  const feedbackBlock = isArticleLayout ? (
+    <DocsFeedback date={doc.frontmatter?.date} />
+  ) : null;
+
   const mainBody = useArticleContentsGrid ? (
     <>
       {articleHeader}
       <DocsArticleGridContent
-        className={cn("pb-24", getDocsProseSurfaceClasses(isArticleLayout))}
+        className={cn(getDocsProseSurfaceClasses(isArticleLayout))}
       >
         {descriptionBlock}
         {suppressArticleDescriptionLead ? (
@@ -501,6 +504,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
         ) : (
           articleGridBelowHeader
         )}
+        {feedbackBlock}
       </DocsArticleGridContent>
       {tocAside}
     </>
@@ -513,6 +517,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
       ) : (
         articleGridBelowHeader
       )}
+      {feedbackBlock}
     </>
   );
 
@@ -527,7 +532,7 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
   return (
     <div className="flex w-full flex-row overflow-visible xl:gap-14 2xl:gap-24">
       <div
-        className={`min-w-0 flex-1 px-6 pb-24 pt-12 md:px-10 lg:pl-[4rem] ${
+        className={`min-w-0 flex-1 px-6 pt-12 md:px-10 lg:pl-[4rem] ${
           isArticleLayout ? "max-w-[41.5rem]" : "max-w-[800px]"
         }`}
       >

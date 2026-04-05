@@ -83,7 +83,7 @@ export function SiteHeader() {
 
           <div className="aw-header-actions">
             <a
-              className="web-btn web-btn-secondary aw-github-button aw-focus-ring hidden lg:inline-flex"
+              className="aw-github-button aw-focus-ring"
               href={GITHUB_LINK}
               target="_blank"
               rel="noopener noreferrer"
@@ -94,12 +94,12 @@ export function SiteHeader() {
               <span className="aw-github-count">{GITHUB_STARS}</span>
             </a>
 
-            <a className="web-btn web-btn-primary aw-cta-button aw-focus-ring hidden lg:inline-flex" href={CTA_LINK}>
+            <a className="aw-cta-button aw-focus-ring" href={CTA_LINK}>
               Start building for free
             </a>
 
             <button
-              className="web-btn web-btn-ghost web-btn--icon aw-menu-button aw-focus-ring flex lg:hidden"
+              className="aw-menu-button aw-focus-ring flex lg:hidden"
               type="button"
               aria-label={isMobileNavOpen ? "Close navigation menu" : "Open navigation menu"}
               aria-expanded={isMobileNavOpen}
@@ -147,7 +147,7 @@ export function SiteHeader() {
             </Link>
 
             <button
-              className="web-btn web-btn-ghost web-btn--icon aw-close-button aw-focus-ring"
+              className="aw-close-button aw-focus-ring"
               type="button"
               aria-label="Close navigation menu"
               onClick={() => setIsMobileNavOpen(false)}
@@ -177,7 +177,7 @@ export function SiteHeader() {
 
           <div className="aw-mobile-actions">
             <a
-              className="web-btn web-btn-secondary aw-github-button aw-focus-ring"
+              className="aw-github-button aw-focus-ring"
               href={GITHUB_LINK}
               target="_blank"
               rel="noopener noreferrer"
@@ -188,7 +188,7 @@ export function SiteHeader() {
               <span className="aw-github-count">{GITHUB_STARS}</span>
             </a>
 
-            <a className="web-btn web-btn-primary aw-cta-button aw-focus-ring" href={CTA_LINK}>
+            <a className="aw-cta-button aw-focus-ring" href={CTA_LINK}>
               Start building for free
             </a>
           </div>

@@ -18,18 +18,18 @@
   grid-template-columns: minmax(0, 1fr);
 }
 
-/* Decorative BG — src/routes/pricing/+page.svelte */
+/*
+ * `.dark` utility sets solid `background-color: var(--bg-primary)` (globals), which hid
+ * `body::before` glare and the pricing decor image. Keep tokens/text; drop opaque fill.
+ */
+.pricing-page-root > .dark {
+  background-color: transparent;
+}
+
+/* Hero backdrop — Clikkle blue radial stack (not Appwrite pink `bg.png`) */
 .pricing-bg-decor {
   z-index: 0;
   pointer-events: none;
-}
-
-.pricing-bg-decor__img {
-  margin-inline: auto;
-  display: block;
-  width: 1369px;
-  max-width: 100%;
-  height: auto;
 }
 
 @media (min-width: 360px) and (max-width: 550px) {
@@ -58,14 +58,15 @@
   margin-block: 0;
 }
 
-/* Hero — .web-hero + text-display / text-description (Svelte) */
+/* Hero — .web-hero + text-display / text-description (Svelte _hero.scss) */
 .pricing-web-hero.web-hero {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  gap: 0;
-  max-inline-size: var(--hero-max-inline-size, 100%);
+  gap: 1rem;
+  max-inline-size: 53.4375rem;
+  margin-inline: auto;
 }
 
 .pricing-svelte-h1 {
@@ -93,7 +94,6 @@
   letter-spacing: var(--text-description--letter-spacing);
   max-width: 24rem;
   margin: 0;
-  margin-block-start: 1.25rem;
   padding-block-end: 2px;
   align-self: center;
   text-align: center;
@@ -163,9 +163,11 @@
   background-color: var(--bg-secondary);
   background-image: linear-gradient(
     180deg,
-    rgba(255, 255, 255, 0.05) 63.19%,
+    rgba(255, 255, 255, 0.04) 63.19%,
     rgba(255, 255, 255, 0) 100%
   );
+  -webkit-backdrop-filter: blur(6.25rem);
+  backdrop-filter: blur(6.25rem);
   display: flex;
   flex-direction: column;
 }
@@ -177,7 +179,7 @@
   inset: 0;
   border-radius: inherit;
   border: 1px solid transparent;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0) 100%) border-box;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.16) 0%, rgba(255, 255, 255, 0) 100%) border-box;
   mask:
     linear-gradient(#fff 0 0) padding-box,
     linear-gradient(#fff 0 0);
@@ -283,14 +285,15 @@
   font-weight: 500;
 }
 
-/* Badge inline — baseline-aligned; compact pill (Clikkle colors) */
+/* Badge inline — Svelte _inline-tag.scss: grid place-items:center; padding 3px/4px; radius 4px */
 .pricing-inline-tag.web-inline-tag {
-  display: inline-flex;
-  align-items: center;
+  display: grid;
+  place-items: center;
   margin: 0;
-  padding: 0.125rem 0.5rem;
-  border-radius: 0.375rem;
-  line-height: 1.25;
+  padding-block: 0.1875rem;
+  padding-inline: 0.25rem;
+  border-radius: 0.25rem;
+  line-height: 1;
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: none;
@@ -677,6 +680,7 @@
 @media (min-width: 1024px) {
   .pricing-compare-header {
     margin-inline-start: 16rem;
+    text-align: center;
   }
 }
 
@@ -719,52 +723,71 @@
   font-weight: 500;
 }
 
-/* Table grid layout */
+/* Table grid layout — _compare-table.scss: equal columns, gap 32px, top border */
 .pricing-compare-table tr {
   display: grid;
-  grid-template-columns: 1.5fr repeat(3, 1fr);
+  gap: 2rem;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
   align-items: center;
+  border-block-start: solid 1px #efefef;
+}
+
+.pricing-compare-table tr:last-child {
+  border-block-end: solid 1px #efefef;
 }
 
 .pricing-compare-header p {
-  font-size: clamp(1rem, 0.881rem + 0.382vw, 1.125rem);
-  line-height: 1.625;
+  font-size: var(--text-main-body, clamp(1rem, 0.881rem + 0.382vw, 1.125rem));
+  line-height: var(--text-main-body--line-height, 1.625);
+  letter-spacing: var(--text-main-body--letter-spacing, -0.0045em);
   color: #44444f;
   margin-block-start: 1rem;
   font-weight: 500;
 }
 
-/* Sticky plan headers */
+/* Sticky plan headers — Svelte: web-u-grid-auto-column-1fr + gap-8 + [padding-block:20px] */
 .pricing-compare-sticky {
   display: grid;
-  grid-template-columns: 1.4fr repeat(3, 1fr);
-  gap: 0;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
   position: sticky;
   top: 70px;
   z-index: 10;
   background: #f8f8fb;
-  padding-block: 1rem;
+  padding-block: 1.25rem;
+  padding-inline: 0.5rem;
+  margin-inline: -0.5rem;
+  -webkit-backdrop-filter: blur(0.5rem);
+  backdrop-filter: blur(0.5rem);
   border-bottom: 1px solid #e5e5e8;
+  overflow: hidden;
 }
 
 .pricing-compare-sticky__label {
-  font-size: clamp(1.125rem, 1rem + 0.382vw, 1.25rem);
+  font-size: var(--text-description, clamp(1.125rem, 1rem + 0.382vw, 1.25rem));
   color: #19191c;
   font-weight: 500;
   align-self: center;
 }
 
+/* Svelte _mini-card.scss: padding 10px, bg white, border 1px greyscale-100, radius 16px */
 .pricing-compare-mini-card {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  padding: 0.5rem;
+  padding: 0.625rem;
+  background-color: #fff;
+  border: solid 1px #e5e5e8;
+  border-radius: 1rem;
 }
 
 .pricing-compare-mini-card h4 {
-  font-size: 0.9375rem;
+  font-size: var(--text-sub-body, 0.875rem);
   font-weight: 500;
   color: #19191c;
   margin: 0;
@@ -785,30 +808,38 @@
   color: #2d63ff;
 }
 
-/* Comparison table */
+/* Comparison table — _compare-table.scss */
 .pricing-compare-table {
   width: 100%;
   border-collapse: collapse;
-  margin-block-start: 0;
+  margin-block-start: 1rem;
 }
 
+@media (min-width: 1024px) {
+  .pricing-compare-table {
+    margin-block-start: 4rem;
+  }
+}
+
+/* Svelte caption: text-main-body text-primary, sticky with backdrop blur */
 .pricing-compare-table caption {
   text-align: left;
-  font-size: clamp(1rem, 0.881rem + 0.382vw, 1.125rem);
+  font-size: var(--text-main-body, clamp(1rem, 0.881rem + 0.382vw, 1.125rem));
   font-weight: 500;
   color: #19191c;
-  padding-block: 1.25rem 0.75rem;
-  padding-inline-start: 0;
-  border-bottom: 1px solid #e5e5e8;
+  padding-block: 1rem;
+  padding-inline: 0.5rem;
+  margin-inline: -0.5rem;
+  -webkit-backdrop-filter: blur(0.5rem);
+  backdrop-filter: blur(0.5rem);
 }
 
 .pricing-compare-table th {
   text-align: left;
-  font-size: 0.875rem;
+  font-size: var(--text-caption, 0.8125rem);
   font-weight: 500;
   color: #44444f;
-  padding: 0.875rem 0.5rem;
-  border-bottom: 1px solid #efefef;
+  padding-block: 1rem;
   vertical-align: middle;
 }
 
@@ -838,12 +869,15 @@
 
 .pricing-compare-table td {
   text-align: center;
-  font-size: 0.875rem;
+  font-size: var(--text-caption, 0.8125rem);
   font-weight: 400;
   color: #44444f;
-  padding: 0.875rem 0.5rem;
-  border-bottom: 1px solid #efefef;
+  padding-block: 1rem;
   vertical-align: middle;
+}
+
+.pricing-compare-table td:nth-child(n + 2) {
+  padding-inline-start: 0.5rem;
 }
 
 .pricing-compare-table td.is-pro {
@@ -860,10 +894,7 @@
   color: #2D63FF;
 }
 
-.pricing-compare-table tr:last-child th,
-.pricing-compare-table tr:last-child td {
-  border-bottom: none;
-}
+/* Row borders handled by tr border-block-start + last-child border-block-end */
 
 /* Separator between table groups */
 .pricing-compare-sep {
@@ -873,7 +904,7 @@
   border: none;
 }
 
-/* Responsive: hide table layout on mobile */
+/* Responsive: Svelte break1 (max-width 1023.9px) hides table body, mobile shows all */
 @media (max-width: 768px) {
   .pricing-compare-sticky {
     display: none;
@@ -881,11 +912,13 @@
 
   .pricing-compare-table {
     display: block;
+    margin-block-start: 1rem;
   }
 
   .pricing-compare-table caption {
     display: block;
     padding: 1rem 0;
+    margin-inline: 0;
   }
 
   .pricing-compare-table tbody {
@@ -895,20 +928,29 @@
   .pricing-compare-table tr {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    grid-auto-flow: initial;
     padding: 0.75rem 0;
-    border-bottom: 1px solid #efefef;
+    border-block-start: 1px solid #efefef;
+    border-block-end: none;
+  }
+
+  .pricing-compare-table tr:last-child {
+    border-block-end: 1px solid #efefef;
   }
 
   .pricing-compare-table th {
     grid-column: 1 / -1;
-    border-bottom: none;
     padding: 0 0 0.5rem 0;
   }
 
   .pricing-compare-table td {
-    border-bottom: none;
     padding: 0.25rem;
     font-size: 0.8125rem;
+  }
+
+  .pricing-compare-table td:nth-child(n + 2) {
+    padding-inline-start: 0;
   }
 
   .pricing-compare-table td.is-pro {
