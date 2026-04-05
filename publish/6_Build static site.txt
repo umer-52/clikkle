@@ -1,0 +1,1461 @@
+﻿2026-04-02T20:36:14.9023197Z ##[group]Run npm run build
+2026-04-02T20:36:14.9023474Z [36;1mnpm run build[0m
+2026-04-02T20:36:14.9050013Z shell: /usr/bin/bash -e {0}
+2026-04-02T20:36:14.9050243Z env:
+2026-04-02T20:36:14.9050440Z   NODE_OPTIONS: --max-old-space-size=8192
+2026-04-02T20:36:14.9050705Z   BASE_PATH: /clikkle
+2026-04-02T20:36:14.9051106Z   GITHUB_TOKEN: ***
+2026-04-02T20:36:14.9051286Z ##[endgroup]
+2026-04-02T20:36:15.0148211Z 
+2026-04-02T20:36:15.0148935Z > appwrite-website@0.0.1 prebuild
+2026-04-02T20:36:15.0149517Z > npm run fetch:stars
+2026-04-02T20:36:15.0149689Z 
+2026-04-02T20:36:15.1226501Z 
+2026-04-02T20:36:15.1227247Z > appwrite-website@0.0.1 fetch:stars
+2026-04-02T20:36:15.1228077Z > node scripts/fetch-github-stars.js
+2026-04-02T20:36:15.1228558Z 
+2026-04-02T20:36:15.6447059Z 
+2026-04-02T20:36:15.6447654Z > appwrite-website@0.0.1 build
+2026-04-02T20:36:15.6448036Z > node ./scripts/build.js
+2026-04-02T20:36:15.6448191Z 
+2026-04-02T20:36:16.5992429Z 8:36:16 PM [vite-plugin-svelte] !!! Support for vite 8 beta in vite-plugin-svelte is experimental (rolldown: 1.0.0-beta.53, vite: 7.3.1) !!!
+2026-04-02T20:36:16.5993943Z 	See https://github.com/sveltejs/vite-plugin-svelte/issues/1143 for a list of known issues and to report feedback.
+2026-04-02T20:36:17.1035204Z [36mrolldown-vite v7.3.1 [32mbuilding ssr environment for production...[36m[39m
+2026-04-02T20:36:17.1063053Z [33mWarning: Invalid output options (1 issue found)
+2026-04-02T20:36:17.1063835Z - For the "codeSplitting". Invalid key: Expected never but received "codeSplitting". [0m
+2026-04-02T20:36:17.4179171Z [2K
+2026-04-02T20:36:38.2910928Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/nextjs/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.2912542Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.2913514Z 4: 
+2026-04-02T20:36:38.2913915Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.2914505Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.2915332Z                                             ^
+2026-04-02T20:36:38.2915888Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.2916319Z 8: </script>
+2026-04-02T20:36:38.3178285Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/react/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.3179413Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.3179703Z 4: 
+2026-04-02T20:36:38.3179949Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.3180525Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.3180835Z                                             ^
+2026-04-02T20:36:38.3181141Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.3181412Z 8: </script>
+2026-04-02T20:36:38.3280956Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/react-native/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.3282495Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.3282949Z 4: 
+2026-04-02T20:36:38.3283319Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.3283886Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.3284374Z                                             ^
+2026-04-02T20:36:38.3285135Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.3285555Z 8: </script>
+2026-04-02T20:36:38.3292128Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/nuxt/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.3293284Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.3293589Z 4: 
+2026-04-02T20:36:38.3293820Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.3294160Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.3295301Z                                             ^
+2026-04-02T20:36:38.3295617Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.3295876Z 8: </script>
+2026-04-02T20:36:38.3306572Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/refine/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.3308037Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.3308496Z 4: 
+2026-04-02T20:36:38.3308867Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.3309412Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.3309935Z                                             ^
+2026-04-02T20:36:38.3310481Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.3310897Z 8: </script>
+2026-04-02T20:36:38.3443938Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/nuxt-ssr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.3445831Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.3446323Z 4: 
+2026-04-02T20:36:38.3446728Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.3447313Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.3447868Z                                             ^
+2026-04-02T20:36:38.3448421Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.3448852Z 8: </script>
+2026-04-02T20:36:38.3511626Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/subscriptions-with-stripe/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.3513317Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.3514143Z 4: 
+2026-04-02T20:36:38.3514538Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.3515395Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.3515932Z                                             ^
+2026-04-02T20:36:38.3516460Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.3516890Z 8: </script>
+2026-04-02T20:36:38.3999749Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/apple/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.4001402Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.4001904Z 4: 
+2026-04-02T20:36:38.4002333Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.4002929Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.4003470Z                                             ^
+2026-04-02T20:36:38.4004015Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.4004423Z 8: </script>
+2026-04-02T20:36:38.4103038Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/sveltekit-ssr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.4104341Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.4104955Z 4: 
+2026-04-02T20:36:38.4105252Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.4105603Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.4105897Z                                             ^
+2026-04-02T20:36:38.4106203Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.4106444Z 8: </script>
+2026-04-02T20:36:38.4119372Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/sveltekit-csr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.4120937Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.4121395Z 4: 
+2026-04-02T20:36:38.4121768Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.4122317Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.4122802Z                                             ^
+2026-04-02T20:36:38.4123564Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.4123822Z 8: </script>
+2026-04-02T20:36:38.4130479Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/vue/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.4131585Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.4132060Z 4: 
+2026-04-02T20:36:38.4132472Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.4132873Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.4133167Z                                             ^
+2026-04-02T20:36:38.4133465Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.4133872Z 8: </script>
+2026-04-02T20:36:38.4237650Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/android/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.4239277Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.4239737Z 4: 
+2026-04-02T20:36:38.4240130Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.4240729Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.4241284Z                                             ^
+2026-04-02T20:36:38.4241839Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.4242279Z 8: </script>
+2026-04-02T20:36:38.4618952Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/astro-ssr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.4620624Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.4621345Z 4: 
+2026-04-02T20:36:38.4622387Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.4626370Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.4626950Z                                             ^
+2026-04-02T20:36:38.4627529Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.4627975Z 8: </script>
+2026-04-02T20:36:38.4629636Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/sveltekit/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.4631201Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.4631679Z 4: 
+2026-04-02T20:36:38.4632069Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.4632659Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.4633192Z                                             ^
+2026-04-02T20:36:38.4633740Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.4634190Z 8: </script>
+2026-04-02T20:36:38.4662063Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/nextjs-ssr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.4663687Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.4665184Z 4: 
+2026-04-02T20:36:38.4666378Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.4667161Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.4667711Z                                             ^
+2026-04-02T20:36:38.4668251Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.4668675Z 8: </script>
+2026-04-02T20:36:38.6351430Z 8:36:38 PM [vite-plugin-svelte] src/routes/blog/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.6352887Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.6353322Z 4: 
+2026-04-02T20:36:38.6353564Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.6354227Z 6:     setContext<PostsData[]>('posts', data.posts);
+2026-04-02T20:36:38.6355204Z                                             ^
+2026-04-02T20:36:38.6356297Z 7:     setContext<AuthorData[]>('authors', data.authors);
+2026-04-02T20:36:38.6357070Z 8:     setContext<CategoryData[]>('categories', data.categories);
+2026-04-02T20:36:38.6358677Z 8:36:38 PM [vite-plugin-svelte] src/routes/blog/+layout.svelte:7:40 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.6359538Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.6359873Z  5:     let { data, children } = $props();
+2026-04-02T20:36:38.6360211Z  6:     setContext<PostsData[]>('posts', data.posts);
+2026-04-02T20:36:38.6360593Z  7:     setContext<AuthorData[]>('authors', data.authors);
+2026-04-02T20:36:38.6360929Z                                                 ^
+2026-04-02T20:36:38.6361309Z  8:     setContext<CategoryData[]>('categories', data.categories);
+2026-04-02T20:36:38.6361773Z  9:     setContext<string | null>('rawContent', data.rawContent);
+2026-04-02T20:36:38.6362749Z 8:36:38 PM [vite-plugin-svelte] src/routes/blog/+layout.svelte:8:45 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.6363550Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.6363902Z  6:     setContext<PostsData[]>('posts', data.posts);
+2026-04-02T20:36:38.6364266Z  7:     setContext<AuthorData[]>('authors', data.authors);
+2026-04-02T20:36:38.6364669Z  8:     setContext<CategoryData[]>('categories', data.categories);
+2026-04-02T20:36:38.6365321Z                                                      ^
+2026-04-02T20:36:38.6365689Z  9:     setContext<string | null>('rawContent', data.rawContent);
+2026-04-02T20:36:38.6365995Z 10: </script>
+2026-04-02T20:36:38.6366833Z 8:36:38 PM [vite-plugin-svelte] src/routes/blog/+layout.svelte:9:44 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.6367809Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.6368184Z  7:     setContext<AuthorData[]>('authors', data.authors);
+2026-04-02T20:36:38.6368600Z  8:     setContext<CategoryData[]>('categories', data.categories);
+2026-04-02T20:36:38.6369027Z  9:     setContext<string | null>('rawContent', data.rawContent);
+2026-04-02T20:36:38.6369379Z                                                     ^
+2026-04-02T20:36:38.6369626Z 10: </script>
+2026-04-02T20:36:38.6369792Z 11: 
+2026-04-02T20:36:38.6563540Z 8:36:38 PM [vite-plugin-svelte] src/routes/docs/tutorials/flutter/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:38.6565345Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.6565828Z 4: 
+2026-04-02T20:36:38.6566210Z 5:     let { data, children } = $props();
+2026-04-02T20:36:38.6566795Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:36:38.6567294Z                                             ^
+2026-04-02T20:36:38.6567814Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:36:38.6568237Z 8: </script>
+2026-04-02T20:36:38.6910023Z 8:36:38 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/customize/+page.svelte:35:14 This reference only captures the initial value of `data`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:36:38.6911511Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.6911831Z 33: 
+2026-04-02T20:36:38.6912076Z 34:     let originalTicketData = $state({
+2026-04-02T20:36:38.6912414Z 35:         name: data.ticket?.name ?? '',
+2026-04-02T20:36:38.6912667Z                       ^
+2026-04-02T20:36:38.6912933Z 36:         title: data.ticket?.title ?? '',
+2026-04-02T20:36:38.6913246Z 37:         sticker: data.ticket?.sticker
+2026-04-02T20:36:38.6914279Z 8:36:38 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/customize/+page.svelte:36:15 This reference only captures the initial value of `data`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:36:38.6915510Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.6916243Z 34:     let originalTicketData = $state({
+2026-04-02T20:36:38.6916549Z 35:         name: data.ticket?.name ?? '',
+2026-04-02T20:36:38.6916861Z 36:         title: data.ticket?.title ?? '',
+2026-04-02T20:36:38.6917108Z                        ^
+2026-04-02T20:36:38.6917361Z 37:         sticker: data.ticket?.sticker
+2026-04-02T20:36:38.6917593Z 38:     });
+2026-04-02T20:36:38.6918522Z 8:36:38 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/customize/+page.svelte:37:17 This reference only captures the initial value of `data`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:36:38.6919395Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:38.6919732Z 35:         name: data.ticket?.name ?? '',
+2026-04-02T20:36:38.6920046Z 36:         title: data.ticket?.title ?? '',
+2026-04-02T20:36:38.6920352Z 37:         sticker: data.ticket?.sticker
+2026-04-02T20:36:38.6920596Z                          ^
+2026-04-02T20:36:38.6920787Z 38:     });
+2026-04-02T20:36:38.6920945Z 39: 
+2026-04-02T20:36:43.5007564Z 8:36:43 PM [vite-plugin-svelte] src/routes/(marketing)/(components)/scale.svelte:50:28 This reference only captures the initial value of `stats`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:36:43.5010632Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:43.5012425Z 48:     }: Props = $props();
+2026-04-02T20:36:43.5014004Z 49: 
+2026-04-02T20:36:43.5016088Z 50:     let localStats = $state(stats.map((stat) => ({ ...stat, number: 0 })));
+2026-04-02T20:36:43.5018268Z                                      ^
+2026-04-02T20:36:43.5020377Z 51:     const originalNumbers = stats.map((stat) => stat.number);
+2026-04-02T20:36:43.5022316Z 52: 
+2026-04-02T20:36:43.5025515Z 8:36:43 PM [vite-plugin-svelte] src/routes/(marketing)/(components)/scale.svelte:51:28 This reference only captures the initial value of `stats`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:43.5028856Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:43.5030611Z 49: 
+2026-04-02T20:36:43.5032920Z 50:     let localStats = $state(stats.map((stat) => ({ ...stat, number: 0 })));
+2026-04-02T20:36:43.5033812Z 51:     const originalNumbers = stats.map((stat) => stat.number);
+2026-04-02T20:36:43.5034422Z                                      ^
+2026-04-02T20:36:43.5035025Z 52: 
+2026-04-02T20:36:43.5035398Z 53:     const updateNumbers = () => {
+2026-04-02T20:36:48.3211362Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/appwrite-network/map.svelte:22:39 This reference only captures the initial value of `defaultSet`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.3213038Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.3214020Z 20:     const { theme = 'dark', navigable = true, defaultSet = 'pop-locations' }: Props = $props();
+2026-04-02T20:36:48.3215034Z 21: 
+2026-04-02T20:36:48.3215532Z 22:     let activeSegment = $state<string>(defaultSet);
+2026-04-02T20:36:48.3216113Z                                                      ^
+2026-04-02T20:36:48.3216885Z 23:     let activeMarkers = $derived(pins[activeSegment as PinSegment]);
+2026-04-02T20:36:48.3217462Z 24: 
+2026-04-02T20:36:48.3804060Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/ui/button.svelte:56:10 This reference only captures the initial value of `splitPosition`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.3805877Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.3806866Z 54:     const isSplit = getContext<boolean>(BUTTON_SPLIT_CONTEXT);
+2026-04-02T20:36:48.3807623Z 55:     const splitClasses = isSplit
+2026-04-02T20:36:48.3808168Z 56:         ? splitPosition
+2026-04-02T20:36:48.3808663Z                            ^
+2026-04-02T20:36:48.3809294Z 57:             ? `is-split is-split-${splitPosition}`
+2026-04-02T20:36:48.3809924Z 58:             : 'is-split'
+2026-04-02T20:36:48.3836739Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/ui/button.svelte:57:35 This reference only captures the initial value of `splitPosition`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.3838866Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.3839544Z 55:     const splitClasses = isSplit
+2026-04-02T20:36:48.3840072Z 56:         ? splitPosition
+2026-04-02T20:36:48.3840676Z 57:             ? `is-split is-split-${splitPosition}`
+2026-04-02T20:36:48.3841308Z                                                     ^
+2026-04-02T20:36:48.3841842Z 58:             : 'is-split'
+2026-04-02T20:36:48.3842301Z 59:         : '';
+2026-04-02T20:36:48.3843939Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/ui/button.svelte:60:38 This reference only captures the initial value of `variant`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.3845775Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.3846406Z 58:             : 'is-split'
+2026-04-02T20:36:48.3846890Z 59:         : '';
+2026-04-02T20:36:48.3847657Z 60:     const buttonClasses = cn(button({ variant }), splitClasses, classes);
+2026-04-02T20:36:48.3848475Z                                                  ^
+2026-04-02T20:36:48.3848995Z 61: </script>
+2026-04-02T20:36:48.3849367Z 62: 
+2026-04-02T20:36:48.3850990Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/ui/button.svelte:60:64 This reference only captures the initial value of `classes`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.3852611Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.3853155Z 58:             : 'is-split'
+2026-04-02T20:36:48.3867702Z 59:         : '';
+2026-04-02T20:36:48.3868428Z 60:     const buttonClasses = cn(button({ variant }), splitClasses, classes);
+2026-04-02T20:36:48.3869202Z                                                                            ^
+2026-04-02T20:36:48.3870164Z 61: </script>
+2026-04-02T20:36:48.3898642Z 62: 
+2026-04-02T20:36:48.4015536Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/ui/select.svelte:26:11 This reference only captures the initial value of `rest`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.4017050Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.4017577Z 24:         sameWidth: true,
+2026-04-02T20:36:48.4018044Z 25:         forceVisible: false,
+2026-04-02T20:36:48.4018457Z 26:         ...rest
+2026-04-02T20:36:48.4018765Z                    ^
+2026-04-02T20:36:48.4019079Z 27:     });
+2026-04-02T20:36:48.4019366Z 28: </script>
+2026-04-02T20:36:48.4230674Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/Tooltip.svelte:32:12 This reference only captures the initial value of `placement`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.4234198Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.4235566Z 30:     } = createTooltip({
+2026-04-02T20:36:48.4236065Z 31:         positioning: {
+2026-04-02T20:36:48.4236458Z 32:             placement
+2026-04-02T20:36:48.4236808Z                          ^
+2026-04-02T20:36:48.4237120Z 33:         },
+2026-04-02T20:36:48.4237462Z 34:         openDelay: 0,
+2026-04-02T20:36:48.4239153Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/Tooltip.svelte:35:8 This reference only captures the initial value of `closeOnPointerDown`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.4240677Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.4241173Z 33:         },
+2026-04-02T20:36:48.4241517Z 34:         openDelay: 0,
+2026-04-02T20:36:48.4241962Z 35:         closeOnPointerDown,
+2026-04-02T20:36:48.4242395Z                               ^
+2026-04-02T20:36:48.4242837Z 36:         forceVisible: true,
+2026-04-02T20:36:48.4243311Z 37:         disableHoverableContent
+2026-04-02T20:36:48.4245368Z 8:36:48 PM [vite-plugin-svelte] src/lib/components/Tooltip.svelte:37:8 This reference only captures the initial value of `disableHoverableContent`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.4246947Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.4247893Z 35:         closeOnPointerDown,
+2026-04-02T20:36:48.4248349Z 36:         forceVisible: true,
+2026-04-02T20:36:48.4248803Z 37:         disableHoverableContent
+2026-04-02T20:36:48.4249249Z                                    ^
+2026-04-02T20:36:48.4249615Z 38:     });
+2026-04-02T20:36:48.4249891Z 39: 
+2026-04-02T20:36:48.4607193Z 8:36:48 PM [vite-plugin-svelte] src/markdoc/layouts/Partner.svelte:33:35 This reference only captures the initial value of `cover`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:48.4610454Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:48.4611741Z 31:     }: Props = $props();
+2026-04-02T20:36:48.4612661Z 32: 
+2026-04-02T20:36:48.4618283Z 33:     const ogImage = DEFAULT_HOST + cover;
+2026-04-02T20:36:48.4618836Z                                             ^
+2026-04-02T20:36:48.4619291Z 34: </script>
+2026-04-02T20:36:48.4619576Z 35: 
+2026-04-02T20:36:52.9194303Z 8:36:52 PM [vite-plugin-svelte] src/markdoc/nodes/Heading.svelte:18:20 This reference only captures the initial value of `level`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:52.9197777Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:52.9200223Z 16:     const { level, id: elementId = undefined, step = undefined, children }: HeadingProps = $props();
+2026-04-02T20:36:52.9255278Z 17: 
+2026-04-02T20:36:52.9257077Z 18:     const tag = `h${level + 1}`;
+2026-04-02T20:36:52.9258839Z                              ^
+2026-04-02T20:36:52.9261932Z 19:     const ctx = hasContext('headings') ? getContext<LayoutContext>('headings') : undefined;
+2026-04-02T20:36:52.9265164Z 20: 
+2026-04-02T20:36:52.9269219Z 8:36:52 PM [vite-plugin-svelte] src/markdoc/nodes/Heading.svelte:36:37 This reference only captures the initial value of `level`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:52.9325483Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:52.9327555Z 34:     let renderMidCta = $state(false);
+2026-04-02T20:36:52.9329456Z 35: 
+2026-04-02T20:36:52.9331387Z 36:     if (midCta && MidCtaComponent && level === midCta.level) {
+2026-04-02T20:36:52.9333331Z                                               ^
+2026-04-02T20:36:52.9335569Z 37:         const alreadyInserted = get(midCta.inserted);
+2026-04-02T20:36:52.9365396Z 38:         if (!alreadyInserted) {
+2026-04-02T20:36:52.9378080Z 8:36:52 PM [vite-plugin-svelte] src/markdoc/nodes/Link.svelte:29:21 This reference only captures the initial value of `href`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:52.9379510Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:52.9380186Z 27:     const target = isExternal ? '_blank' : undefined;
+2026-04-02T20:36:52.9380666Z 28: 
+2026-04-02T20:36:52.9381402Z 29:     const doFollow = href.includes('?dofollow=true') || href.includes('&dofollow=true');
+2026-04-02T20:36:52.9382153Z                              ^
+2026-04-02T20:36:52.9382541Z 30:     if (doFollow) {
+2026-04-02T20:36:52.9383202Z 31:         href = href.replace(/[?&]dofollow=true/g, '').replace(/[?&]$/, '');
+2026-04-02T20:36:52.9385205Z 8:36:52 PM [vite-plugin-svelte] src/markdoc/nodes/Link.svelte:29:56 This reference only captures the initial value of `href`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:52.9386595Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:52.9387259Z 27:     const target = isExternal ? '_blank' : undefined;
+2026-04-02T20:36:52.9387716Z 28: 
+2026-04-02T20:36:52.9388430Z 29:     const doFollow = href.includes('?dofollow=true') || href.includes('&dofollow=true');
+2026-04-02T20:36:52.9389221Z                                                                 ^
+2026-04-02T20:36:52.9389697Z 30:     if (doFollow) {
+2026-04-02T20:36:52.9390339Z 31:         href = href.replace(/[?&]dofollow=true/g, '').replace(/[?&]$/, '');
+2026-04-02T20:36:52.9392078Z 8:36:52 PM [vite-plugin-svelte] src/markdoc/nodes/Link.svelte:31:15 This reference only captures the initial value of `href`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:36:52.9393775Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:36:52.9394694Z 29:     const doFollow = href.includes('?dofollow=true') || href.includes('&dofollow=true');
+2026-04-02T20:36:52.9395626Z 30:     if (doFollow) {
+2026-04-02T20:36:52.9396279Z 31:         href = href.replace(/[?&]dofollow=true/g, '').replace(/[?&]$/, '');
+2026-04-02T20:36:52.9396863Z                        ^
+2026-04-02T20:36:52.9397169Z 32:     }
+2026-04-02T20:36:52.9397430Z 33: 
+2026-04-02T20:37:04.3821286Z 8:37:04 PM [vite-plugin-svelte] src/routes/(marketing)/(components)/(ai-animations)/skills.svelte:10:8 `activePill` is updated, but is not declared with `$state(...)`. Changing its value will not correctly trigger updates
+2026-04-02T20:37:04.3825038Z https://svelte.dev/e/non_reactive_update
+2026-04-02T20:37:04.3826802Z  8: 
+2026-04-02T20:37:04.3829351Z  9:     let container: HTMLElement;
+2026-04-02T20:37:04.3831967Z 10:     let activePill: HTMLElement;
+2026-04-02T20:37:04.3834532Z                                    ^
+2026-04-02T20:37:04.3837521Z 11:     let active = $state(false);
+2026-04-02T20:37:04.3840229Z 12:     let complete = $state(false);
+2026-04-02T20:37:04.5077569Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Count_Title.svelte:8:15 This reference only captures the initial value of `title`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5080636Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5082541Z  6:     const { title = '' }: Props = $props();
+2026-04-02T20:37:04.5084278Z  7: 
+2026-04-02T20:37:04.5086351Z  8:     const el = title ? 'h3' : 'span';
+2026-04-02T20:37:04.5087973Z                         ^
+2026-04-02T20:37:04.5089512Z  9: </script>
+2026-04-02T20:37:04.5092245Z 10: 
+2026-04-02T20:37:04.5385298Z 8:37:04 PM [vite-plugin-svelte] src/lib/components/fancy/noise.svelte:21:26 This reference only captures the initial value of `grainSize`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5389264Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5392890Z 19:     }: Props = $props();
+2026-04-02T20:37:04.5393249Z 20: 
+2026-04-02T20:37:04.5393698Z 21:     const baseFrequency = grainSize! / 1;
+2026-04-02T20:37:04.5394202Z                                        ^
+2026-04-02T20:37:04.5394594Z 22: </script>
+2026-04-02T20:37:04.5493777Z 23: 
+2026-04-02T20:37:04.5495614Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Call_To_Action.svelte:30:35 This reference only captures the initial value of `point1`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5497056Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5497566Z 28:     }: Props = $props();
+2026-04-02T20:37:04.5497914Z 29: 
+2026-04-02T20:37:04.5498473Z 30:     let benefits: Array<string> = [point1, point2, point3, point4];
+2026-04-02T20:37:04.5499131Z                                              ^
+2026-04-02T20:37:04.5499533Z 31: </script>
+2026-04-02T20:37:04.5499783Z 32: 
+2026-04-02T20:37:04.5501304Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Call_To_Action.svelte:30:43 This reference only captures the initial value of `point2`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5502731Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5503229Z 28:     }: Props = $props();
+2026-04-02T20:37:04.5503562Z 29: 
+2026-04-02T20:37:04.5504120Z 30:     let benefits: Array<string> = [point1, point2, point3, point4];
+2026-04-02T20:37:04.5504981Z                                                      ^
+2026-04-02T20:37:04.5505423Z 31: </script>
+2026-04-02T20:37:04.5505687Z 32: 
+2026-04-02T20:37:04.5507177Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Call_To_Action.svelte:30:51 This reference only captures the initial value of `point3`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5508589Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5509088Z 28:     }: Props = $props();
+2026-04-02T20:37:04.5509699Z 29: 
+2026-04-02T20:37:04.5510247Z 30:     let benefits: Array<string> = [point1, point2, point3, point4];
+2026-04-02T20:37:04.5510892Z                                                              ^
+2026-04-02T20:37:04.5511308Z 31: </script>
+2026-04-02T20:37:04.5511571Z 32: 
+2026-04-02T20:37:04.5513069Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Call_To_Action.svelte:30:59 This reference only captures the initial value of `point4`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5514458Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5515170Z 28:     }: Props = $props();
+2026-04-02T20:37:04.5515503Z 29: 
+2026-04-02T20:37:04.5516069Z 30:     let benefits: Array<string> = [point1, point2, point3, point4];
+2026-04-02T20:37:04.5516738Z                                                                      ^
+2026-04-02T20:37:04.5517189Z 31: </script>
+2026-04-02T20:37:04.5517441Z 32: 
+2026-04-02T20:37:04.5518910Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:45:12 This reference only captures the initial value of `bucket_id`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5520292Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5520750Z 43:     const src = storage
+2026-04-02T20:37:04.5521117Z 44:         .getFilePreview(
+2026-04-02T20:37:04.5521477Z 45:             bucket_id,
+2026-04-02T20:37:04.5521786Z                          ^
+2026-04-02T20:37:04.5522113Z 46:             file_id,
+2026-04-02T20:37:04.5522425Z 47:             width,
+2026-04-02T20:37:04.5523884Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:46:12 This reference only captures the initial value of `file_id`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5525493Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5526214Z 44:         .getFilePreview(
+2026-04-02T20:37:04.5526586Z 45:             bucket_id,
+2026-04-02T20:37:04.5526948Z 46:             file_id,
+2026-04-02T20:37:04.5527278Z                        ^
+2026-04-02T20:37:04.5527611Z 47:             width,
+2026-04-02T20:37:04.5527925Z 48:             height,
+2026-04-02T20:37:04.5529429Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:47:12 This reference only captures the initial value of `width`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5530805Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5531268Z 45:             bucket_id,
+2026-04-02T20:37:04.5531615Z 46:             file_id,
+2026-04-02T20:37:04.5531961Z 47:             width,
+2026-04-02T20:37:04.5532333Z                      ^
+2026-04-02T20:37:04.5532660Z 48:             height,
+2026-04-02T20:37:04.5533035Z 49:             gravity as any,
+2026-04-02T20:37:04.5534621Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:48:12 This reference only captures the initial value of `height`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5536262Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5536736Z 46:             file_id,
+2026-04-02T20:37:04.5537091Z 47:             width,
+2026-04-02T20:37:04.5537425Z 48:             height,
+2026-04-02T20:37:04.5537759Z                       ^
+2026-04-02T20:37:04.5538143Z 49:             gravity as any,
+2026-04-02T20:37:04.5538503Z 50:             quality,
+2026-04-02T20:37:04.5540072Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:49:12 This reference only captures the initial value of `gravity`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5541481Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5541938Z 47:             width,
+2026-04-02T20:37:04.5542260Z 48:             height,
+2026-04-02T20:37:04.5542631Z 49:             gravity as any,
+2026-04-02T20:37:04.5542996Z                        ^
+2026-04-02T20:37:04.5543338Z 50:             quality,
+2026-04-02T20:37:04.5543674Z 51:             border_width,
+2026-04-02T20:37:04.5545732Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:50:12 This reference only captures the initial value of `quality`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5547165Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5547630Z 48:             height,
+2026-04-02T20:37:04.5548011Z 49:             gravity as any,
+2026-04-02T20:37:04.5548377Z 50:             quality,
+2026-04-02T20:37:04.5548687Z                        ^
+2026-04-02T20:37:04.5549026Z 51:             border_width,
+2026-04-02T20:37:04.5549380Z 52:             border_color,
+2026-04-02T20:37:04.5550970Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:51:12 This reference only captures the initial value of `border_width`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5552429Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5552947Z 49:             gravity as any,
+2026-04-02T20:37:04.5553364Z 50:             quality,
+2026-04-02T20:37:04.5553763Z 51:             border_width,
+2026-04-02T20:37:04.5554106Z                             ^
+2026-04-02T20:37:04.5554480Z 52:             border_color,
+2026-04-02T20:37:04.5555117Z 53:             border_radius,
+2026-04-02T20:37:04.5556839Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:52:12 This reference only captures the initial value of `border_color`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5558292Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5558762Z 50:             quality,
+2026-04-02T20:37:04.5559116Z 51:             border_width,
+2026-04-02T20:37:04.5559487Z 52:             border_color,
+2026-04-02T20:37:04.5559829Z                             ^
+2026-04-02T20:37:04.5560230Z 53:             border_radius,
+2026-04-02T20:37:04.5560831Z 54:             opacity,
+2026-04-02T20:37:04.5562413Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:53:12 This reference only captures the initial value of `border_radius`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5563862Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5564332Z 51:             border_width,
+2026-04-02T20:37:04.5564935Z 52:             border_color,
+2026-04-02T20:37:04.5565356Z 53:             border_radius,
+2026-04-02T20:37:04.5565729Z                              ^
+2026-04-02T20:37:04.5566081Z 54:             opacity,
+2026-04-02T20:37:04.5566403Z 55:             rotation,
+2026-04-02T20:37:04.5567950Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:54:12 This reference only captures the initial value of `opacity`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5569404Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5569899Z 52:             border_color,
+2026-04-02T20:37:04.5570314Z 53:             border_radius,
+2026-04-02T20:37:04.5570737Z 54:             opacity,
+2026-04-02T20:37:04.5571057Z                        ^
+2026-04-02T20:37:04.5571398Z 55:             rotation,
+2026-04-02T20:37:04.5571810Z 56:             background_color,
+2026-04-02T20:37:04.5573404Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:55:12 This reference only captures the initial value of `rotation`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5575021Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5575557Z 53:             border_radius,
+2026-04-02T20:37:04.5575932Z 54:             opacity,
+2026-04-02T20:37:04.5576272Z 55:             rotation,
+2026-04-02T20:37:04.5576612Z                         ^
+2026-04-02T20:37:04.5577017Z 56:             background_color,
+2026-04-02T20:37:04.5577421Z 57:             output as any
+2026-04-02T20:37:04.5579067Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:56:12 This reference only captures the initial value of `background_color`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5580798Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5581278Z 54:             opacity,
+2026-04-02T20:37:04.5581613Z 55:             rotation,
+2026-04-02T20:37:04.5582022Z 56:             background_color,
+2026-04-02T20:37:04.5582436Z                                 ^
+2026-04-02T20:37:04.5582814Z 57:             output as any
+2026-04-02T20:37:04.5583153Z 58:         )
+2026-04-02T20:37:04.5584623Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:57:12 This reference only captures the initial value of `output`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5586290Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5586778Z 55:             rotation,
+2026-04-02T20:37:04.5587175Z 56:             background_color,
+2026-04-02T20:37:04.5587595Z 57:             output as any
+2026-04-02T20:37:04.5587952Z                       ^
+2026-04-02T20:37:04.5588271Z 58:         )
+2026-04-02T20:37:04.5588575Z 59:         .toString();
+2026-04-02T20:37:04.5591502Z 8:37:04 PM [vite-plugin-svelte] src/markdoc/tags/Arrow_Link.svelte:12:42 This reference only captures the initial value of `href`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:04.5600744Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:04.5601483Z 10:     const { href, children }: ArrowLinkProps = $props();
+2026-04-02T20:37:04.5601980Z 11: 
+2026-04-02T20:37:04.5602427Z 12:     const isExternal = /https?:\/\//.test(href);
+2026-04-02T20:37:04.5602953Z                                                   ^
+2026-04-02T20:37:04.5603556Z 13:     const target = isExternal ? '_blank' : '_self';
+2026-04-02T20:37:04.5604240Z 14:     const rel = isExternal ? 'noopener nofollow' : undefined;
+2026-04-02T20:37:14.5006679Z 8:37:14 PM [vite-plugin-svelte] src/routes/blog/[[page]]/+page.svelte:16:21 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.5008674Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.5009261Z 14:     let { data } = $props();
+2026-04-02T20:37:14.5009631Z 15: 
+2026-04-02T20:37:14.5009998Z 16:     const featured = data.featured;
+2026-04-02T20:37:14.5010430Z                              ^
+2026-04-02T20:37:14.5011271Z 17:     const categories = data.filteredCategories.sort((a, b) => a.name.localeCompare(b.name));
+2026-04-02T20:37:14.5012003Z 18: 
+2026-04-02T20:37:14.5013461Z 8:37:14 PM [vite-plugin-svelte] src/routes/blog/[[page]]/+page.svelte:17:23 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.5015077Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.5015551Z 15: 
+2026-04-02T20:37:14.5015940Z 16:     const featured = data.featured;
+2026-04-02T20:37:14.5016902Z 17:     const categories = data.filteredCategories.sort((a, b) => a.name.localeCompare(b.name));
+2026-04-02T20:37:14.5017712Z                                ^
+2026-04-02T20:37:14.5018068Z 18: 
+2026-04-02T20:37:14.5018549Z 19:     let isFirstPage = $derived(data.currentPage === 1);
+2026-04-02T20:37:14.5153470Z 8:37:14 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/(components)/ticket-card.svelte:35:22 This reference only captures the initial value of `name`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.5155332Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.5155868Z 33:     }: Props = $props();
+2026-04-02T20:37:14.5156236Z 34: 
+2026-04-02T20:37:14.5156689Z 35:     const firstName = name?.split(' ')[0].trim();
+2026-04-02T20:37:14.5157211Z                               ^
+2026-04-02T20:37:14.5157556Z 36: 
+2026-04-02T20:37:14.5157912Z 37:     const handleFlip = () => {
+2026-04-02T20:37:14.6791314Z 8:37:14 PM [vite-plugin-svelte] src/markdoc/nodes/Image.svelte:18:49 This reference only captures the initial value of `src`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.6792922Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.6793908Z 16: 
+2026-04-02T20:37:14.6794288Z 17:     const inTable = isInTable();
+2026-04-02T20:37:14.6795230Z 18:     const isAudio = /\.(wav|mp3|m4a|ogg)$/i.test(src);
+2026-04-02T20:37:14.6795859Z                                                         ^
+2026-04-02T20:37:14.6796296Z 19: 
+2026-04-02T20:37:14.6796556Z 20:     const {
+2026-04-02T20:37:14.7035515Z 8:37:14 PM [vite-plugin-svelte] src/routes/changelog/entry/[entry]/+page.svelte:15:15 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.7037069Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.7037512Z 13: 
+2026-04-02T20:37:14.7037790Z 14:     const seo = {
+2026-04-02T20:37:14.7038192Z 15:         title: data.title,
+2026-04-02T20:37:14.7038572Z                        ^
+2026-04-02T20:37:14.7039160Z 16:         description: data.description ?? DEFAULT_DESCRIPTION,
+2026-04-02T20:37:14.7039770Z 17:         ogImage: data.cover
+2026-04-02T20:37:14.7041455Z 8:37:14 PM [vite-plugin-svelte] src/routes/changelog/entry/[entry]/+page.svelte:16:21 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.7042947Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.7043443Z 14:     const seo = {
+2026-04-02T20:37:14.7043834Z 15:         title: data.title,
+2026-04-02T20:37:14.7044448Z 16:         description: data.description ?? DEFAULT_DESCRIPTION,
+2026-04-02T20:37:14.7045241Z                              ^
+2026-04-02T20:37:14.7045669Z 17:         ogImage: data.cover
+2026-04-02T20:37:14.7046149Z 18:             ? DEFAULT_HOST + data.cover
+2026-04-02T20:37:14.7047855Z 8:37:14 PM [vite-plugin-svelte] src/routes/changelog/entry/[entry]/+page.svelte:17:17 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.7049711Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.7050259Z 15:         title: data.title,
+2026-04-02T20:37:14.7050877Z 16:         description: data.description ?? DEFAULT_DESCRIPTION,
+2026-04-02T20:37:14.7051486Z 17:         ogImage: data.cover
+2026-04-02T20:37:14.7051849Z                          ^
+2026-04-02T20:37:14.7052300Z 18:             ? DEFAULT_HOST + data.cover
+2026-04-02T20:37:14.7052943Z 19:             : `${DEFAULT_HOST}/images/open-graph/website.png`
+2026-04-02T20:37:14.7054926Z 8:37:14 PM [vite-plugin-svelte] src/routes/changelog/entry/[entry]/+page.svelte:18:29 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.7056492Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.7057241Z 16:         description: data.description ?? DEFAULT_DESCRIPTION,
+2026-04-02T20:37:14.7057853Z 17:         ogImage: data.cover
+2026-04-02T20:37:14.7058331Z 18:             ? DEFAULT_HOST + data.cover
+2026-04-02T20:37:14.7058817Z                                      ^
+2026-04-02T20:37:14.7059455Z 19:             : `${DEFAULT_HOST}/images/open-graph/website.png`
+2026-04-02T20:37:14.7059954Z 20:     };
+2026-04-02T20:37:14.7116822Z 8:37:14 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/[username]/+page.svelte:17:20 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.7118383Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.7118949Z 15:     const { data } = $props();
+2026-04-02T20:37:14.7119321Z 16: 
+2026-04-02T20:37:14.7119828Z 17:     let firstName = data.ticket?.name?.split(/\s/)[0] ?? '';
+2026-04-02T20:37:14.7120355Z                             ^
+2026-04-02T20:37:14.7120935Z 18:     let id = data.ticket?.id.toString().padStart(6, '0');
+2026-04-02T20:37:14.7121826Z 19:     const ticketUrl = `${page.url.origin}/init/tickets/${data.ticket.gh_user}`;
+2026-04-02T20:37:14.7123815Z 8:37:14 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/[username]/+page.svelte:18:13 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.7125855Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.7126313Z 16: 
+2026-04-02T20:37:14.7126834Z 17:     let firstName = data.ticket?.name?.split(/\s/)[0] ?? '';
+2026-04-02T20:37:14.7127587Z 18:     let id = data.ticket?.id.toString().padStart(6, '0');
+2026-04-02T20:37:14.7128094Z                      ^
+2026-04-02T20:37:14.7128810Z 19:     const ticketUrl = `${page.url.origin}/init/tickets/${data.ticket.gh_user}`;
+2026-04-02T20:37:14.7129566Z 20:     const ogImage = `${ticketUrl}/og`;
+2026-04-02T20:37:14.7131336Z 8:37:14 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/[username]/+page.svelte:19:57 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.7132858Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.7133434Z 17:     let firstName = data.ticket?.name?.split(/\s/)[0] ?? '';
+2026-04-02T20:37:14.7133897Z 18:     let id = data.ticket?.id.toString().padStart(6, '0');
+2026-04-02T20:37:14.7134422Z 19:     const ticketUrl = `${page.url.origin}/init/tickets/${data.ticket.gh_user}`;
+2026-04-02T20:37:14.7135032Z                                                                  ^
+2026-04-02T20:37:14.7135368Z 20:     const ogImage = `${ticketUrl}/og`;
+2026-04-02T20:37:14.7135602Z 21: 
+2026-04-02T20:37:14.7995142Z 8:37:14 PM [vite-plugin-svelte] src/lib/layouts/Main.svelte:197:12 Non-interactive element `<aside>` cannot have interactive role 'dialog'
+2026-04-02T20:37:14.7996553Z https://svelte.dev/e/a11y_no_noninteractive_element_to_interactive_role
+2026-04-02T20:37:14.7997192Z 195:             ></button>
+2026-04-02T20:37:14.7997539Z 196: 
+2026-04-02T20:37:14.7997728Z 197:             <aside
+2026-04-02T20:37:14.7998246Z                        ^
+2026-04-02T20:37:14.7998524Z 198:                 id="mobile-navigation"
+2026-04-02T20:37:14.7998857Z 199:                 class="aw-mobile-panel"
+2026-04-02T20:37:14.7999478Z 8:37:14 PM [vite-plugin-svelte] src/lib/layouts/Main.svelte:288:0 Unused CSS selector ".aw-header-spacer"
+2026-04-02T20:37:14.8000029Z https://svelte.dev/e/css_unused_selector
+2026-04-02T20:37:14.8000283Z 286: }
+2026-04-02T20:37:14.8000451Z 287: 
+2026-04-02T20:37:14.8000640Z 288: .aw-header-spacer {
+2026-04-02T20:37:14.8000843Z                       ^
+2026-04-02T20:37:14.8001056Z 289:   block-size: 72px;
+2026-04-02T20:37:14.8001238Z 290: }
+2026-04-02T20:37:14.8001727Z 8:37:14 PM [vite-plugin-svelte] src/lib/layouts/Main.svelte:451:0 Unused CSS selector ".aw-button-icon"
+2026-04-02T20:37:14.8002268Z https://svelte.dev/e/css_unused_selector
+2026-04-02T20:37:14.8002514Z 449: }
+2026-04-02T20:37:14.8002666Z 450: 
+2026-04-02T20:37:14.8002839Z 451: .aw-button-icon {
+2026-04-02T20:37:14.8003040Z                     ^
+2026-04-02T20:37:14.8003255Z 452:   inline-size: 16px;
+2026-04-02T20:37:14.8003475Z 453:   block-size: 16px;
+2026-04-02T20:37:14.8196803Z 8:37:14 PM [vite-plugin-svelte] src/routes/threads/+page.svelte:25:25 This reference only captures the initial value of `data`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:37:14.8198312Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.8198885Z 23:     let { data } = $props();
+2026-04-02T20:37:14.8199261Z 24: 
+2026-04-02T20:37:14.8199661Z 25:     let threads = $state(data.threads);
+2026-04-02T20:37:14.8200138Z                                  ^
+2026-04-02T20:37:14.8200512Z 26: 
+2026-04-02T20:37:14.8201028Z 27:     let searching = false; // Do some sick animation
+2026-04-02T20:37:14.9992129Z 8:37:14 PM [vite-plugin-svelte] src/routes/threads/[id]/+page.svelte:15:18 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.9994065Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.9994956Z 13:     let { data } = $props();
+2026-04-02T20:37:14.9995459Z 14: 
+2026-04-02T20:37:14.9995855Z 15:     const title = data.title + ' - Threads' + TITLE_SUFFIX;
+2026-04-02T20:37:14.9996560Z                           ^
+2026-04-02T20:37:14.9996883Z 16:     const description = DEFAULT_DESCRIPTION;
+2026-04-02T20:37:14.9997471Z 17:     const discordLink = `https://discord.com/channels/564160730845151244/${data.discord_id}`;
+2026-04-02T20:37:14.9998639Z 8:37:14 PM [vite-plugin-svelte] src/routes/threads/[id]/+page.svelte:17:75 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:14.9999490Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:14.9999911Z 15:     const title = data.title + ' - Threads' + TITLE_SUFFIX;
+2026-04-02T20:37:15.0000310Z 16:     const description = DEFAULT_DESCRIPTION;
+2026-04-02T20:37:15.0000866Z 17:     const discordLink = `https://discord.com/channels/564160730845151244/${data.discord_id}`;
+2026-04-02T20:37:15.0001397Z                                                                                    ^
+2026-04-02T20:37:15.0001703Z 18: 
+2026-04-02T20:37:15.0001973Z 19:     function shorten(str: string, len: number) {
+2026-04-02T20:37:15.1679690Z 8:37:15 PM [vite-plugin-svelte] src/routes/integrations/+page.svelte:39:33 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:15.1681725Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:15.1682293Z 37: 
+2026-04-02T20:37:15.1682624Z 38:     // platform filters
+2026-04-02T20:37:15.1683050Z 39:     const platforms = ['All', ...data.platforms];
+2026-04-02T20:37:15.1683450Z                                          ^
+2026-04-02T20:37:15.1683932Z 40: 
+2026-04-02T20:37:15.1684246Z 41:     let activePlatform = $state('All');
+2026-04-02T20:37:15.8110273Z 8:37:15 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/(components)/ticket-url.svelte:8:56 This reference only captures the initial value of `username`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:15.8115004Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:15.8117898Z  6:     let { username }: Props = $props();
+2026-04-02T20:37:15.8120307Z  7: 
+2026-04-02T20:37:15.8135879Z  8:     const copyUrl = `https://appwrite.io/init/tickets/${username}`;
+2026-04-02T20:37:15.8138021Z                                                                     ^
+2026-04-02T20:37:15.8139861Z  9: </script>
+2026-04-02T20:37:15.8141485Z 10: 
+2026-04-02T20:37:16.6827225Z 8:37:16 PM [vite-plugin-svelte] src/routes/(init)/init/(components)/media-card.svelte:12:17 This reference only captures the initial value of `type`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:16.6829058Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:16.6829903Z 10:     const { title, poster, type, url }: Props = $props();
+2026-04-02T20:37:16.6830465Z 11: 
+2026-04-02T20:37:16.6831009Z 12:     const icon = type === 'discord' ? DiscordIcon : PlayIcon;
+2026-04-02T20:37:16.6831655Z                          ^
+2026-04-02T20:37:16.6832111Z 13: </script>
+2026-04-02T20:37:16.6832483Z 14: 
+2026-04-02T20:37:16.6873138Z 8:37:16 PM [vite-plugin-svelte] src/routes/(init)/init/(components)/countdown-card.svelte:19:75 This reference only captures the initial value of `release`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:16.6875014Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:16.6875996Z 17:     const { illustration = '', release, index, title }: Props = $props();
+2026-04-02T20:37:16.6878027Z 18: 
+2026-04-02T20:37:16.6880116Z 19:     const { days, hours, minutes, seconds, hasReleased } = createCountdown(release);
+2026-04-02T20:37:16.6882313Z                                                                                       ^
+2026-04-02T20:37:16.6884525Z 20: </script>
+2026-04-02T20:37:16.6885058Z 21: 
+2026-04-02T20:37:16.6919531Z 8:37:16 PM [vite-plugin-svelte] src/routes/(init)/init/(components)/pre-release-card.svelte:15:62 This reference only captures the initial value of `release`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:37:16.6923018Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:37:16.6925734Z 13:     let { release, index }: Props = $props();
+2026-04-02T20:37:16.6926205Z 14: 
+2026-04-02T20:37:16.6926813Z 15:     const { days, hours, minutes, seconds } = createCountdown(release);
+2026-04-02T20:37:16.6927536Z                                                                          ^
+2026-04-02T20:37:16.6928010Z 16: </script>
+2026-04-02T20:37:16.6928296Z 17: 
+2026-04-02T20:37:20.9431700Z 
+2026-04-02T20:37:20.9443509Z &quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHBhdGggZD0iTSA2NCAwIEwgNjQgNjQgTCAwIDY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0NDQ0NDQiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuNCIgc3Ryb2tlLWRhc2hhcnJheT0iMyA2IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIi8+Cjwvc3ZnPg==&quot; referenced in &quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHBhdGggZD0iTSA2NCAwIEwgNjQgNjQgTCAwIDY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0NDQ0NDQiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuNCIgc3Ryb2tlLWRhc2hhcnJheT0iMyA2IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIi8+Cjwvc3ZnPg==&quot; didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9455492Z 
+2026-04-02T20:37:20.9456344Z /clikkle/... referenced in /clikkle/... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9457107Z 
+2026-04-02T20:37:20.9458017Z /clikkle/images/... referenced in /clikkle/images/... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9458886Z 
+2026-04-02T20:37:20.9459878Z /clikkle/images/bgs/... referenced in /clikkle/images/bgs/... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9461166Z 
+2026-04-02T20:37:20.9462500Z /clikkle/images/bgs/mobile-auth-hero.png referenced in /clikkle/images/bgs/mobile-auth-hero.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9463611Z 
+2026-04-02T20:37:20.9465234Z /clikkle/images/pages/storage/pattern-1.png referenced in /clikkle/images/pages/storage/pattern-1.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9466427Z 
+2026-04-02T20:37:20.9467102Z ... referenced in ... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9467743Z 
+2026-04-02T20:37:20.9468560Z ...clikkle... referenced in ...clikkle... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9469306Z 
+2026-04-02T20:37:20.9470500Z /clikkle/images/bgs/mobile-hero.png referenced in /clikkle/images/bgs/mobile-hero.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9471563Z 
+2026-04-02T20:37:20.9472851Z /clikkle/images/bgs/purple-gradient.png referenced in /clikkle/images/bgs/purple-gradient.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9473979Z 
+2026-04-02T20:37:20.9475354Z /clikkle/images/bgs/checker-bg.png referenced in /clikkle/images/bgs/checker-bg.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9476396Z 
+2026-04-02T20:37:20.9477558Z /clikkle/images/bgs/auth-hero.png referenced in /clikkle/images/bgs/auth-hero.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9478558Z 
+2026-04-02T20:37:20.9479638Z /clikkle/images/bgs/hero.png referenced in /clikkle/images/bgs/hero.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:20.9480583Z 
+2026-04-02T20:37:20.9481826Z /clikkle/images/bgs/mint-gradient.png referenced in /clikkle/images/bgs/mint-gradient.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:37:25.9179147Z transforming...✓ 42104 modules transformed.
+2026-04-02T20:37:46.1581039Z rendering chunks...
+2026-04-02T20:38:12.0207767Z [36mrolldown-vite v7.3.1 [32mbuilding client environment for production...[36m[39m
+2026-04-02T20:38:12.0234275Z [33mWarning: Invalid output options (1 issue found)
+2026-04-02T20:38:12.0235472Z - For the "codeSplitting". Invalid key: Expected never but received "codeSplitting". [0m
+2026-04-02T20:38:12.1874399Z [2K
+2026-04-02T20:38:31.4162646Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/flutter/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4166381Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4167147Z 4: 
+2026-04-02T20:38:31.4167594Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.4168231Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.4168776Z                                             ^
+2026-04-02T20:38:31.4169341Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.4169778Z 8: </script>
+2026-04-02T20:38:31.4326454Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/apple/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4332028Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4332506Z 4: 
+2026-04-02T20:38:31.4335213Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.4335832Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.4336344Z                                             ^
+2026-04-02T20:38:31.4336869Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.4337280Z 8: </script>
+2026-04-02T20:38:31.4338933Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/astro-ssr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4340960Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4341245Z 4: 
+2026-04-02T20:38:31.4341480Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.4341811Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.4342098Z                                             ^
+2026-04-02T20:38:31.4342400Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.4342650Z 8: </script>
+2026-04-02T20:38:31.4367532Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/nextjs-ssr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4370724Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4372148Z 4: 
+2026-04-02T20:38:31.4372572Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.4373195Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.4373723Z                                             ^
+2026-04-02T20:38:31.4374297Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.4375011Z 8: </script>
+2026-04-02T20:38:31.4453715Z 8:38:31 PM [vite-plugin-svelte] src/routes/blog/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4462827Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4464616Z 4: 
+2026-04-02T20:38:31.4466579Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.4468473Z 6:     setContext<PostsData[]>('posts', data.posts);
+2026-04-02T20:38:31.4470360Z                                             ^
+2026-04-02T20:38:31.4470990Z 7:     setContext<AuthorData[]>('authors', data.authors);
+2026-04-02T20:38:31.4471755Z 8:     setContext<CategoryData[]>('categories', data.categories);
+2026-04-02T20:38:31.4473467Z 8:38:31 PM [vite-plugin-svelte] src/routes/blog/+layout.svelte:7:40 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4475453Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4476007Z  5:     let { data, children } = $props();
+2026-04-02T20:38:31.4476573Z  6:     setContext<PostsData[]>('posts', data.posts);
+2026-04-02T20:38:31.4477269Z  7:     setContext<AuthorData[]>('authors', data.authors);
+2026-04-02T20:38:31.4477837Z                                                 ^
+2026-04-02T20:38:31.4478459Z  8:     setContext<CategoryData[]>('categories', data.categories);
+2026-04-02T20:38:31.4479203Z  9:     setContext<string | null>('rawContent', data.rawContent);
+2026-04-02T20:38:31.4480884Z 8:38:31 PM [vite-plugin-svelte] src/routes/blog/+layout.svelte:8:45 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4482255Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4482843Z  6:     setContext<PostsData[]>('posts', data.posts);
+2026-04-02T20:38:31.4483454Z  7:     setContext<AuthorData[]>('authors', data.authors);
+2026-04-02T20:38:31.4484138Z  8:     setContext<CategoryData[]>('categories', data.categories);
+2026-04-02T20:38:31.4484956Z                                                      ^
+2026-04-02T20:38:31.4485621Z  9:     setContext<string | null>('rawContent', data.rawContent);
+2026-04-02T20:38:31.4486152Z 10: </script>
+2026-04-02T20:38:31.4487628Z 8:38:31 PM [vite-plugin-svelte] src/routes/blog/+layout.svelte:9:44 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4489021Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4489658Z  7:     setContext<AuthorData[]>('authors', data.authors);
+2026-04-02T20:38:31.4490372Z  8:     setContext<CategoryData[]>('categories', data.categories);
+2026-04-02T20:38:31.4491502Z  9:     setContext<string | null>('rawContent', data.rawContent);
+2026-04-02T20:38:31.4492137Z                                                     ^
+2026-04-02T20:38:31.4492981Z 10: </script>
+2026-04-02T20:38:31.4493285Z 11: 
+2026-04-02T20:38:31.4495068Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/nextjs/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4496516Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4496984Z 4: 
+2026-04-02T20:38:31.4497395Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.4497970Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.4498488Z                                             ^
+2026-04-02T20:38:31.4499014Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.4499419Z 8: </script>
+2026-04-02T20:38:31.4579723Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/subscriptions-with-stripe/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4582478Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4582975Z 4: 
+2026-04-02T20:38:31.4583361Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.4583944Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.4584452Z                                             ^
+2026-04-02T20:38:31.4585247Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.4585675Z 8: </script>
+2026-04-02T20:38:31.4718588Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/android/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.4723467Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.4723820Z 4: 
+2026-04-02T20:38:31.4724105Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.4724533Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.4725328Z                                             ^
+2026-04-02T20:38:31.4725727Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.4726418Z 8: </script>
+2026-04-02T20:38:31.5934359Z 8:38:31 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/customize/+page.svelte:35:14 This reference only captures the initial value of `data`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:38:31.5936223Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.5936679Z 33: 
+2026-04-02T20:38:31.5937079Z 34:     let originalTicketData = $state({
+2026-04-02T20:38:31.5937630Z 35:         name: data.ticket?.name ?? '',
+2026-04-02T20:38:31.5938060Z                       ^
+2026-04-02T20:38:31.5938510Z 36:         title: data.ticket?.title ?? '',
+2026-04-02T20:38:31.5939066Z 37:         sticker: data.ticket?.sticker
+2026-04-02T20:38:31.5940876Z 8:38:31 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/customize/+page.svelte:36:15 This reference only captures the initial value of `data`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:38:31.5942440Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.5943060Z 34:     let originalTicketData = $state({
+2026-04-02T20:38:31.5943613Z 35:         name: data.ticket?.name ?? '',
+2026-04-02T20:38:31.5944025Z 36:         title: data.ticket?.title ?? '',
+2026-04-02T20:38:31.5944277Z                        ^
+2026-04-02T20:38:31.5944542Z 37:         sticker: data.ticket?.sticker
+2026-04-02T20:38:31.5944980Z 38:     });
+2026-04-02T20:38:31.5946172Z 8:38:31 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/customize/+page.svelte:37:17 This reference only captures the initial value of `data`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:38:31.5947052Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.5947403Z 35:         name: data.ticket?.name ?? '',
+2026-04-02T20:38:31.5947721Z 36:         title: data.ticket?.title ?? '',
+2026-04-02T20:38:31.5948402Z 37:         sticker: data.ticket?.sticker
+2026-04-02T20:38:31.5948646Z                          ^
+2026-04-02T20:38:31.5948839Z 38:     });
+2026-04-02T20:38:31.5948998Z 39: 
+2026-04-02T20:38:31.6413669Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/nuxt/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.6415483Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.6415923Z 4: 
+2026-04-02T20:38:31.6416300Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.6416842Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.6417340Z                                             ^
+2026-04-02T20:38:31.6417850Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.6418258Z 8: </script>
+2026-04-02T20:38:31.6422978Z 8:38:31 PM [vite-plugin-svelte] src/routes/docs/tutorials/nuxt-ssr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:31.6427153Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:31.6430207Z 4: 
+2026-04-02T20:38:31.6430607Z 5:     let { data, children } = $props();
+2026-04-02T20:38:31.6431167Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:31.6432736Z                                             ^
+2026-04-02T20:38:31.6433262Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:31.6433675Z 8: </script>
+2026-04-02T20:38:32.1257400Z 8:38:32 PM [vite-plugin-svelte] src/routes/docs/tutorials/sveltekit/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:32.1259086Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:32.1259557Z 4: 
+2026-04-02T20:38:32.1259943Z 5:     let { data, children } = $props();
+2026-04-02T20:38:32.1260509Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:32.1261081Z                                             ^
+2026-04-02T20:38:32.1261647Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:32.1262078Z 8: </script>
+2026-04-02T20:38:32.1303566Z 8:38:32 PM [vite-plugin-svelte] src/routes/docs/tutorials/sveltekit-ssr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:32.1305502Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:32.1305975Z 4: 
+2026-04-02T20:38:32.1306367Z 5:     let { data, children } = $props();
+2026-04-02T20:38:32.1306942Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:32.1307443Z                                             ^
+2026-04-02T20:38:32.1307975Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:32.1308415Z 8: </script>
+2026-04-02T20:38:32.1544377Z 8:38:32 PM [vite-plugin-svelte] src/routes/docs/tutorials/vue/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:32.1546305Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:32.1546797Z 4: 
+2026-04-02T20:38:32.1547227Z 5:     let { data, children } = $props();
+2026-04-02T20:38:32.1547841Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:32.1548378Z                                             ^
+2026-04-02T20:38:32.1548934Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:32.1549386Z 8: </script>
+2026-04-02T20:38:32.1727122Z 8:38:32 PM [vite-plugin-svelte] src/routes/docs/tutorials/react-native/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:32.1728748Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:32.1729220Z 4: 
+2026-04-02T20:38:32.1729616Z 5:     let { data, children } = $props();
+2026-04-02T20:38:32.1730213Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:32.1730760Z                                             ^
+2026-04-02T20:38:32.1731806Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:32.1732268Z 8: </script>
+2026-04-02T20:38:32.1737799Z 8:38:32 PM [vite-plugin-svelte] src/routes/docs/tutorials/refine/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:32.1739383Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:32.1739889Z 4: 
+2026-04-02T20:38:32.1740269Z 5:     let { data, children } = $props();
+2026-04-02T20:38:32.1740841Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:32.1741381Z                                             ^
+2026-04-02T20:38:32.1741918Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:32.1742359Z 8: </script>
+2026-04-02T20:38:32.1840943Z 8:38:32 PM [vite-plugin-svelte] src/routes/docs/tutorials/react/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:32.1844151Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:32.1845719Z 4: 
+2026-04-02T20:38:32.1846128Z 5:     let { data, children } = $props();
+2026-04-02T20:38:32.1846730Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:32.1847243Z                                             ^
+2026-04-02T20:38:32.1847758Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:32.1848188Z 8: </script>
+2026-04-02T20:38:32.2475611Z 8:38:32 PM [vite-plugin-svelte] src/routes/docs/tutorials/sveltekit-csr-auth/+layout.svelte:6:37 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:32.2477127Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:32.2477433Z 4: 
+2026-04-02T20:38:32.2477680Z 5:     let { data, children } = $props();
+2026-04-02T20:38:32.2478050Z 6:     const tutorials = globToTutorial(data);
+2026-04-02T20:38:32.2478377Z                                             ^
+2026-04-02T20:38:32.2478729Z 7:     setContext('tutorials', tutorials);
+2026-04-02T20:38:32.2479001Z 8: </script>
+2026-04-02T20:38:40.5069699Z 8:38:40 PM [vite-plugin-svelte] src/routes/(marketing)/(components)/scale.svelte:50:28 This reference only captures the initial value of `stats`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:38:40.5071612Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:40.5072028Z 48:     }: Props = $props();
+2026-04-02T20:38:40.5072304Z 49: 
+2026-04-02T20:38:40.5072759Z 50:     let localStats = $state(stats.map((stat) => ({ ...stat, number: 0 })));
+2026-04-02T20:38:40.5073244Z                                      ^
+2026-04-02T20:38:40.5073723Z 51:     const originalNumbers = stats.map((stat) => stat.number);
+2026-04-02T20:38:40.5074117Z 52: 
+2026-04-02T20:38:40.5075617Z 8:38:40 PM [vite-plugin-svelte] src/routes/(marketing)/(components)/scale.svelte:51:28 This reference only captures the initial value of `stats`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:40.5076710Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:40.5077031Z 49: 
+2026-04-02T20:38:40.5077479Z 50:     let localStats = $state(stats.map((stat) => ({ ...stat, number: 0 })));
+2026-04-02T20:38:40.5078114Z 51:     const originalNumbers = stats.map((stat) => stat.number);
+2026-04-02T20:38:40.5078461Z                                      ^
+2026-04-02T20:38:40.5078685Z 52: 
+2026-04-02T20:38:40.5078896Z 53:     const updateNumbers = () => {
+2026-04-02T20:38:41.0465813Z 8:38:41 PM [vite-plugin-svelte] src/markdoc/layouts/Partner.svelte:33:35 This reference only captures the initial value of `cover`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:41.0467197Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:41.0467608Z 31:     }: Props = $props();
+2026-04-02T20:38:41.0467894Z 32: 
+2026-04-02T20:38:41.0468192Z 33:     const ogImage = DEFAULT_HOST + cover;
+2026-04-02T20:38:41.0468509Z                                             ^
+2026-04-02T20:38:41.0469149Z 34: </script>
+2026-04-02T20:38:41.0469322Z 35: 
+2026-04-02T20:38:43.8576856Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Count_Title.svelte:8:15 This reference only captures the initial value of `title`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.8577971Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.8578344Z  6:     const { title = '' }: Props = $props();
+2026-04-02T20:38:43.8578602Z  7: 
+2026-04-02T20:38:43.8578805Z  8:     const el = title ? 'h3' : 'span';
+2026-04-02T20:38:43.8579054Z                         ^
+2026-04-02T20:38:43.8579246Z  9: </script>
+2026-04-02T20:38:43.8579406Z 10: 
+2026-04-02T20:38:43.8966979Z 8:38:43 PM [vite-plugin-svelte] src/lib/components/appwrite-network/map.svelte:22:39 This reference only captures the initial value of `defaultSet`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.8968227Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.8968947Z 20:     const { theme = 'dark', navigable = true, defaultSet = 'pop-locations' }: Props = $props();
+2026-04-02T20:38:43.8969457Z 21: 
+2026-04-02T20:38:43.8969805Z 22:     let activeSegment = $state<string>(defaultSet);
+2026-04-02T20:38:43.8970218Z                                                      ^
+2026-04-02T20:38:43.8970748Z 23:     let activeMarkers = $derived(pins[activeSegment as PinSegment]);
+2026-04-02T20:38:43.8971157Z 24: 
+2026-04-02T20:38:43.9091601Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/nodes/Heading.svelte:18:20 This reference only captures the initial value of `level`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9092844Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9093560Z 16:     const { level, id: elementId = undefined, step = undefined, children }: HeadingProps = $props();
+2026-04-02T20:38:43.9094094Z 17: 
+2026-04-02T20:38:43.9094342Z 18:     const tag = `h${level + 1}`;
+2026-04-02T20:38:43.9094656Z                              ^
+2026-04-02T20:38:43.9095495Z 19:     const ctx = hasContext('headings') ? getContext<LayoutContext>('headings') : undefined;
+2026-04-02T20:38:43.9095980Z 20: 
+2026-04-02T20:38:43.9097407Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/nodes/Heading.svelte:36:37 This reference only captures the initial value of `level`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9098410Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9098823Z 34:     let renderMidCta = $state(false);
+2026-04-02T20:38:43.9099108Z 35: 
+2026-04-02T20:38:43.9099475Z 36:     if (midCta && MidCtaComponent && level === midCta.level) {
+2026-04-02T20:38:43.9099927Z                                               ^
+2026-04-02T20:38:43.9100379Z 37:         const alreadyInserted = get(midCta.inserted);
+2026-04-02T20:38:43.9100788Z 38:         if (!alreadyInserted) {
+2026-04-02T20:38:43.9151563Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Call_To_Action.svelte:30:35 This reference only captures the initial value of `point1`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9152836Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9153425Z 28:     }: Props = $props();
+2026-04-02T20:38:43.9153713Z 29: 
+2026-04-02T20:38:43.9154289Z 30:     let benefits: Array<string> = [point1, point2, point3, point4];
+2026-04-02T20:38:43.9155085Z                                              ^
+2026-04-02T20:38:43.9155642Z 31: </script>
+2026-04-02T20:38:43.9155994Z 32: 
+2026-04-02T20:38:43.9157179Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Call_To_Action.svelte:30:43 This reference only captures the initial value of `point2`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9158353Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9158814Z 28:     }: Props = $props();
+2026-04-02T20:38:43.9159178Z 29: 
+2026-04-02T20:38:43.9159802Z 30:     let benefits: Array<string> = [point1, point2, point3, point4];
+2026-04-02T20:38:43.9160744Z                                                      ^
+2026-04-02T20:38:43.9161179Z 31: </script>
+2026-04-02T20:38:43.9161428Z 32: 
+2026-04-02T20:38:43.9162566Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Call_To_Action.svelte:30:51 This reference only captures the initial value of `point3`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9163481Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9163846Z 28:     }: Props = $props();
+2026-04-02T20:38:43.9173696Z 29: 
+2026-04-02T20:38:43.9174262Z 30:     let benefits: Array<string> = [point1, point2, point3, point4];
+2026-04-02T20:38:43.9175152Z                                                              ^
+2026-04-02T20:38:43.9175597Z 31: </script>
+2026-04-02T20:38:43.9175879Z 32: 
+2026-04-02T20:38:43.9177172Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Call_To_Action.svelte:30:59 This reference only captures the initial value of `point4`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9178013Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9178319Z 28:     }: Props = $props();
+2026-04-02T20:38:43.9178521Z 29: 
+2026-04-02T20:38:43.9178867Z 30:     let benefits: Array<string> = [point1, point2, point3, point4];
+2026-04-02T20:38:43.9179280Z                                                                      ^
+2026-04-02T20:38:43.9179541Z 31: </script>
+2026-04-02T20:38:43.9179702Z 32: 
+2026-04-02T20:38:43.9180585Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:45:12 This reference only captures the initial value of `bucket_id`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9181664Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9181970Z 43:     const src = storage
+2026-04-02T20:38:43.9182204Z 44:         .getFilePreview(
+2026-04-02T20:38:43.9182562Z 45:             bucket_id,
+2026-04-02T20:38:43.9182800Z                          ^
+2026-04-02T20:38:43.9183009Z 46:             file_id,
+2026-04-02T20:38:43.9183212Z 47:             width,
+2026-04-02T20:38:43.9184096Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:46:12 This reference only captures the initial value of `file_id`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9185417Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9185720Z 44:         .getFilePreview(
+2026-04-02T20:38:43.9185948Z 45:             bucket_id,
+2026-04-02T20:38:43.9186153Z 46:             file_id,
+2026-04-02T20:38:43.9186343Z                        ^
+2026-04-02T20:38:43.9186534Z 47:             width,
+2026-04-02T20:38:43.9186718Z 48:             height,
+2026-04-02T20:38:43.9187580Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:47:12 This reference only captures the initial value of `width`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9188370Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9188645Z 45:             bucket_id,
+2026-04-02T20:38:43.9188856Z 46:             file_id,
+2026-04-02T20:38:43.9189046Z 47:             width,
+2026-04-02T20:38:43.9189226Z                      ^
+2026-04-02T20:38:43.9189420Z 48:             height,
+2026-04-02T20:38:43.9189636Z 49:             gravity as any,
+2026-04-02T20:38:43.9190520Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:48:12 This reference only captures the initial value of `height`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9191306Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9191575Z 46:             file_id,
+2026-04-02T20:38:43.9191770Z 47:             width,
+2026-04-02T20:38:43.9191955Z 48:             height,
+2026-04-02T20:38:43.9192140Z                       ^
+2026-04-02T20:38:43.9192359Z 49:             gravity as any,
+2026-04-02T20:38:43.9192574Z 50:             quality,
+2026-04-02T20:38:43.9193438Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:49:12 This reference only captures the initial value of `gravity`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9194373Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9194649Z 47:             width,
+2026-04-02T20:38:43.9194978Z 48:             height,
+2026-04-02T20:38:43.9195198Z 49:             gravity as any,
+2026-04-02T20:38:43.9195414Z                        ^
+2026-04-02T20:38:43.9195617Z 50:             quality,
+2026-04-02T20:38:43.9195818Z 51:             border_width,
+2026-04-02T20:38:43.9196711Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:50:12 This reference only captures the initial value of `quality`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9197511Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9197784Z 48:             height,
+2026-04-02T20:38:43.9198009Z 49:             gravity as any,
+2026-04-02T20:38:43.9198221Z 50:             quality,
+2026-04-02T20:38:43.9198409Z                        ^
+2026-04-02T20:38:43.9198615Z 51:             border_width,
+2026-04-02T20:38:43.9198831Z 52:             border_color,
+2026-04-02T20:38:43.9199736Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:51:12 This reference only captures the initial value of `border_width`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9200547Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9200847Z 49:             gravity as any,
+2026-04-02T20:38:43.9201062Z 50:             quality,
+2026-04-02T20:38:43.9201258Z 51:             border_width,
+2026-04-02T20:38:43.9201460Z                             ^
+2026-04-02T20:38:43.9201670Z 52:             border_color,
+2026-04-02T20:38:43.9201900Z 53:             border_radius,
+2026-04-02T20:38:43.9202806Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:52:12 This reference only captures the initial value of `border_color`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9203613Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9203875Z 50:             quality,
+2026-04-02T20:38:43.9204082Z 51:             border_width,
+2026-04-02T20:38:43.9204293Z 52:             border_color,
+2026-04-02T20:38:43.9204614Z                             ^
+2026-04-02T20:38:43.9204981Z 53:             border_radius,
+2026-04-02T20:38:43.9205209Z 54:             opacity,
+2026-04-02T20:38:43.9206123Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:53:12 This reference only captures the initial value of `border_radius`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9206953Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9207227Z 51:             border_width,
+2026-04-02T20:38:43.9207444Z 52:             border_color,
+2026-04-02T20:38:43.9207672Z 53:             border_radius,
+2026-04-02T20:38:43.9207891Z                              ^
+2026-04-02T20:38:43.9208101Z 54:             opacity,
+2026-04-02T20:38:43.9208296Z 55:             rotation,
+2026-04-02T20:38:43.9209167Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:54:12 This reference only captures the initial value of `opacity`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9210142Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9210602Z 52:             border_color,
+2026-04-02T20:38:43.9210979Z 53:             border_radius,
+2026-04-02T20:38:43.9211328Z 54:             opacity,
+2026-04-02T20:38:43.9211627Z                        ^
+2026-04-02T20:38:43.9211945Z 55:             rotation,
+2026-04-02T20:38:43.9212327Z 56:             background_color,
+2026-04-02T20:38:43.9213913Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:55:12 This reference only captures the initial value of `rotation`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9215520Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9216026Z 53:             border_radius,
+2026-04-02T20:38:43.9216593Z 54:             opacity,
+2026-04-02T20:38:43.9216934Z 55:             rotation,
+2026-04-02T20:38:43.9217262Z                         ^
+2026-04-02T20:38:43.9217654Z 56:             background_color,
+2026-04-02T20:38:43.9218107Z 57:             output as any
+2026-04-02T20:38:43.9219699Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:56:12 This reference only captures the initial value of `background_color`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9220728Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9221008Z 54:             opacity,
+2026-04-02T20:38:43.9221217Z 55:             rotation,
+2026-04-02T20:38:43.9221447Z 56:             background_color,
+2026-04-02T20:38:43.9221691Z                                 ^
+2026-04-02T20:38:43.9221917Z 57:             output as any
+2026-04-02T20:38:43.9222115Z 58:         )
+2026-04-02T20:38:43.9222960Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Storage_Image.svelte:57:12 This reference only captures the initial value of `output`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9223759Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9224033Z 55:             rotation,
+2026-04-02T20:38:43.9224270Z 56:             background_color,
+2026-04-02T20:38:43.9224497Z 57:             output as any
+2026-04-02T20:38:43.9224897Z                       ^
+2026-04-02T20:38:43.9225093Z 58:         )
+2026-04-02T20:38:43.9225265Z 59:         .toString();
+2026-04-02T20:38:43.9252801Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/tags/Arrow_Link.svelte:12:42 This reference only captures the initial value of `href`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9253857Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9254272Z 10:     const { href, children }: ArrowLinkProps = $props();
+2026-04-02T20:38:43.9254570Z 11: 
+2026-04-02T20:38:43.9255015Z 12:     const isExternal = /https?:\/\//.test(href);
+2026-04-02T20:38:43.9255346Z                                                   ^
+2026-04-02T20:38:43.9255699Z 13:     const target = isExternal ? '_blank' : '_self';
+2026-04-02T20:38:43.9256103Z 14:     const rel = isExternal ? 'noopener nofollow' : undefined;
+2026-04-02T20:38:43.9274256Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/nodes/Link.svelte:29:21 This reference only captures the initial value of `href`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9275816Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9276325Z 27:     const target = isExternal ? '_blank' : undefined;
+2026-04-02T20:38:43.9276668Z 28: 
+2026-04-02T20:38:43.9277173Z 29:     const doFollow = href.includes('?dofollow=true') || href.includes('&dofollow=true');
+2026-04-02T20:38:43.9277685Z                              ^
+2026-04-02T20:38:43.9277967Z 30:     if (doFollow) {
+2026-04-02T20:38:43.9278425Z 31:         href = href.replace(/[?&]dofollow=true/g, '').replace(/[?&]$/, '');
+2026-04-02T20:38:43.9279644Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/nodes/Link.svelte:29:56 This reference only captures the initial value of `href`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9280605Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9281074Z 27:     const target = isExternal ? '_blank' : undefined;
+2026-04-02T20:38:43.9281403Z 28: 
+2026-04-02T20:38:43.9281901Z 29:     const doFollow = href.includes('?dofollow=true') || href.includes('&dofollow=true');
+2026-04-02T20:38:43.9282389Z                                                                 ^
+2026-04-02T20:38:43.9282657Z 30:     if (doFollow) {
+2026-04-02T20:38:43.9283025Z 31:         href = href.replace(/[?&]dofollow=true/g, '').replace(/[?&]$/, '');
+2026-04-02T20:38:43.9283981Z 8:38:43 PM [vite-plugin-svelte] src/markdoc/nodes/Link.svelte:31:15 This reference only captures the initial value of `href`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9284921Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9285642Z 29:     const doFollow = href.includes('?dofollow=true') || href.includes('&dofollow=true');
+2026-04-02T20:38:43.9286068Z 30:     if (doFollow) {
+2026-04-02T20:38:43.9286462Z 31:         href = href.replace(/[?&]dofollow=true/g, '').replace(/[?&]$/, '');
+2026-04-02T20:38:43.9286801Z                        ^
+2026-04-02T20:38:43.9286984Z 32:     }
+2026-04-02T20:38:43.9287138Z 33: 
+2026-04-02T20:38:43.9723043Z 8:38:43 PM [vite-plugin-svelte] src/lib/components/Tooltip.svelte:32:12 This reference only captures the initial value of `placement`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9724544Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9725288Z 30:     } = createTooltip({
+2026-04-02T20:38:43.9725691Z 31:         positioning: {
+2026-04-02T20:38:43.9726074Z 32:             placement
+2026-04-02T20:38:43.9726417Z                          ^
+2026-04-02T20:38:43.9726734Z 33:         },
+2026-04-02T20:38:43.9727084Z 34:         openDelay: 0,
+2026-04-02T20:38:43.9728735Z 8:38:43 PM [vite-plugin-svelte] src/lib/components/Tooltip.svelte:35:8 This reference only captures the initial value of `closeOnPointerDown`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9730257Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9730715Z 33:         },
+2026-04-02T20:38:43.9731039Z 34:         openDelay: 0,
+2026-04-02T20:38:43.9731455Z 35:         closeOnPointerDown,
+2026-04-02T20:38:43.9731866Z                               ^
+2026-04-02T20:38:43.9732285Z 36:         forceVisible: true,
+2026-04-02T20:38:43.9732759Z 37:         disableHoverableContent
+2026-04-02T20:38:43.9734502Z 8:38:43 PM [vite-plugin-svelte] src/lib/components/Tooltip.svelte:37:8 This reference only captures the initial value of `disableHoverableContent`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:43.9736223Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:43.9736747Z 35:         closeOnPointerDown,
+2026-04-02T20:38:43.9737193Z 36:         forceVisible: true,
+2026-04-02T20:38:43.9737630Z 37:         disableHoverableContent
+2026-04-02T20:38:43.9738056Z                                    ^
+2026-04-02T20:38:43.9738856Z 38:     });
+2026-04-02T20:38:43.9739116Z 39: 
+2026-04-02T20:38:44.0070220Z 8:38:44 PM [vite-plugin-svelte] src/lib/components/ui/select.svelte:26:11 This reference only captures the initial value of `rest`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:44.0071264Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:44.0071586Z 24:         sameWidth: true,
+2026-04-02T20:38:44.0071856Z 25:         forceVisible: false,
+2026-04-02T20:38:44.0072095Z 26:         ...rest
+2026-04-02T20:38:44.0072282Z                    ^
+2026-04-02T20:38:44.0072455Z 27:     });
+2026-04-02T20:38:44.0072617Z 28: </script>
+2026-04-02T20:38:44.0141034Z 8:38:44 PM [vite-plugin-svelte] src/lib/components/ui/button.svelte:56:10 This reference only captures the initial value of `splitPosition`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:44.0142475Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:44.0143033Z 54:     const isSplit = getContext<boolean>(BUTTON_SPLIT_CONTEXT);
+2026-04-02T20:38:44.0143535Z 55:     const splitClasses = isSplit
+2026-04-02T20:38:44.0143849Z 56:         ? splitPosition
+2026-04-02T20:38:44.0144062Z                            ^
+2026-04-02T20:38:44.0144365Z 57:             ? `is-split is-split-${splitPosition}`
+2026-04-02T20:38:44.0144650Z 58:             : 'is-split'
+2026-04-02T20:38:44.0146175Z 8:38:44 PM [vite-plugin-svelte] src/lib/components/ui/button.svelte:57:35 This reference only captures the initial value of `splitPosition`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:44.0147044Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:44.0147366Z 55:     const splitClasses = isSplit
+2026-04-02T20:38:44.0147622Z 56:         ? splitPosition
+2026-04-02T20:38:44.0148283Z 57:             ? `is-split is-split-${splitPosition}`
+2026-04-02T20:38:44.0148605Z                                                     ^
+2026-04-02T20:38:44.0148876Z 58:             : 'is-split'
+2026-04-02T20:38:44.0149085Z 59:         : '';
+2026-04-02T20:38:44.0149941Z 8:38:44 PM [vite-plugin-svelte] src/lib/components/ui/button.svelte:60:38 This reference only captures the initial value of `variant`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:44.0150738Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:44.0151022Z 58:             : 'is-split'
+2026-04-02T20:38:44.0151229Z 59:         : '';
+2026-04-02T20:38:44.0151591Z 60:     const buttonClasses = cn(button({ variant }), splitClasses, classes);
+2026-04-02T20:38:44.0151985Z                                                  ^
+2026-04-02T20:38:44.0152221Z 61: </script>
+2026-04-02T20:38:44.0152375Z 62: 
+2026-04-02T20:38:44.0153218Z 8:38:44 PM [vite-plugin-svelte] src/lib/components/ui/button.svelte:60:64 This reference only captures the initial value of `classes`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:44.0154108Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:44.0154393Z 58:             : 'is-split'
+2026-04-02T20:38:44.0154601Z 59:         : '';
+2026-04-02T20:38:44.0155901Z 60:     const buttonClasses = cn(button({ variant }), splitClasses, classes);
+2026-04-02T20:38:44.0156331Z                                                                            ^
+2026-04-02T20:38:44.0156597Z 61: </script>
+2026-04-02T20:38:44.0156749Z 62: 
+2026-04-02T20:38:44.2395574Z 8:38:44 PM [vite-plugin-svelte] src/lib/components/fancy/noise.svelte:21:26 This reference only captures the initial value of `grainSize`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:44.2397200Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:44.2397754Z 19:     }: Props = $props();
+2026-04-02T20:38:44.2398125Z 20: 
+2026-04-02T20:38:44.2398568Z 21:     const baseFrequency = grainSize! / 1;
+2026-04-02T20:38:44.2399118Z                                        ^
+2026-04-02T20:38:44.2399536Z 22: </script>
+2026-04-02T20:38:44.2399835Z 23: 
+2026-04-02T20:38:44.2559604Z 8:38:44 PM [vite-plugin-svelte] src/routes/(marketing)/(components)/(ai-animations)/skills.svelte:10:8 `activePill` is updated, but is not declared with `$state(...)`. Changing its value will not correctly trigger updates
+2026-04-02T20:38:44.2563220Z https://svelte.dev/e/non_reactive_update
+2026-04-02T20:38:44.2563699Z  8: 
+2026-04-02T20:38:44.2564061Z  9:     let container: HTMLElement;
+2026-04-02T20:38:44.2564610Z 10:     let activePill: HTMLElement;
+2026-04-02T20:38:44.2565350Z                                    ^
+2026-04-02T20:38:44.2565847Z 11:     let active = $state(false);
+2026-04-02T20:38:44.2566368Z 12:     let complete = $state(false);
+2026-04-02T20:38:48.0551307Z 8:38:48 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/(components)/ticket-card.svelte:35:22 This reference only captures the initial value of `name`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.0552979Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.0553570Z 33:     }: Props = $props();
+2026-04-02T20:38:48.0554009Z 34: 
+2026-04-02T20:38:48.0554459Z 35:     const firstName = name?.split(' ')[0].trim();
+2026-04-02T20:38:48.0555257Z                               ^
+2026-04-02T20:38:48.0555603Z 36: 
+2026-04-02T20:38:48.0555964Z 37:     const handleFlip = () => {
+2026-04-02T20:38:48.2549295Z 8:38:48 PM [vite-plugin-svelte] src/routes/changelog/entry/[entry]/+page.svelte:15:15 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.2550849Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.2551283Z 13: 
+2026-04-02T20:38:48.2551560Z 14:     const seo = {
+2026-04-02T20:38:48.2551931Z 15:         title: data.title,
+2026-04-02T20:38:48.2552307Z                        ^
+2026-04-02T20:38:48.2552867Z 16:         description: data.description ?? DEFAULT_DESCRIPTION,
+2026-04-02T20:38:48.2554006Z 17:         ogImage: data.cover
+2026-04-02T20:38:48.2555933Z 8:38:48 PM [vite-plugin-svelte] src/routes/changelog/entry/[entry]/+page.svelte:16:21 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.2557452Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.2557955Z 14:     const seo = {
+2026-04-02T20:38:48.2558354Z 15:         title: data.title,
+2026-04-02T20:38:48.2558978Z 16:         description: data.description ?? DEFAULT_DESCRIPTION,
+2026-04-02T20:38:48.2559548Z                              ^
+2026-04-02T20:38:48.2559975Z 17:         ogImage: data.cover
+2026-04-02T20:38:48.2560455Z 18:             ? DEFAULT_HOST + data.cover
+2026-04-02T20:38:48.2562161Z 8:38:48 PM [vite-plugin-svelte] src/routes/changelog/entry/[entry]/+page.svelte:17:17 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.2563625Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.2564149Z 15:         title: data.title,
+2026-04-02T20:38:48.2564961Z 16:         description: data.description ?? DEFAULT_DESCRIPTION,
+2026-04-02T20:38:48.2565590Z 17:         ogImage: data.cover
+2026-04-02T20:38:48.2565960Z                          ^
+2026-04-02T20:38:48.2566412Z 18:             ? DEFAULT_HOST + data.cover
+2026-04-02T20:38:48.2567045Z 19:             : `${DEFAULT_HOST}/images/open-graph/website.png`
+2026-04-02T20:38:48.2568815Z 8:38:48 PM [vite-plugin-svelte] src/routes/changelog/entry/[entry]/+page.svelte:18:29 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.2570243Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.2570929Z 16:         description: data.description ?? DEFAULT_DESCRIPTION,
+2026-04-02T20:38:48.2571527Z 17:         ogImage: data.cover
+2026-04-02T20:38:48.2572003Z 18:             ? DEFAULT_HOST + data.cover
+2026-04-02T20:38:48.2572555Z                                      ^
+2026-04-02T20:38:48.2573165Z 19:             : `${DEFAULT_HOST}/images/open-graph/website.png`
+2026-04-02T20:38:48.2573990Z 20:     };
+2026-04-02T20:38:48.3058413Z 8:38:48 PM [vite-plugin-svelte] src/routes/threads/+page.svelte:25:25 This reference only captures the initial value of `data`. Did you mean to reference it inside a derived instead?
+2026-04-02T20:38:48.3060185Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.3060756Z 23:     let { data } = $props();
+2026-04-02T20:38:48.3061142Z 24: 
+2026-04-02T20:38:48.3061541Z 25:     let threads = $state(data.threads);
+2026-04-02T20:38:48.3062028Z                                  ^
+2026-04-02T20:38:48.3062377Z 26: 
+2026-04-02T20:38:48.3062837Z 27:     let searching = false; // Do some sick animation
+2026-04-02T20:38:48.3245317Z 8:38:48 PM [vite-plugin-svelte] src/markdoc/nodes/Image.svelte:18:49 This reference only captures the initial value of `src`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.3246875Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.3247356Z 16: 
+2026-04-02T20:38:48.3247747Z 17:     const inTable = isInTable();
+2026-04-02T20:38:48.3248387Z 18:     const isAudio = /\.(wav|mp3|m4a|ogg)$/i.test(src);
+2026-04-02T20:38:48.3248986Z                                                         ^
+2026-04-02T20:38:48.3249419Z 19: 
+2026-04-02T20:38:48.3249692Z 20:     const {
+2026-04-02T20:38:48.3432994Z 8:38:48 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/[username]/+page.svelte:17:20 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.3434598Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.3435446Z 15:     const { data } = $props();
+2026-04-02T20:38:48.3435844Z 16: 
+2026-04-02T20:38:48.3436364Z 17:     let firstName = data.ticket?.name?.split(/\s/)[0] ?? '';
+2026-04-02T20:38:48.3437366Z                             ^
+2026-04-02T20:38:48.3437978Z 18:     let id = data.ticket?.id.toString().padStart(6, '0');
+2026-04-02T20:38:48.3438889Z 19:     const ticketUrl = `${page.url.origin}/init/tickets/${data.ticket.gh_user}`;
+2026-04-02T20:38:48.3440881Z 8:38:48 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/[username]/+page.svelte:18:13 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.3442398Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.3442864Z 16: 
+2026-04-02T20:38:48.3443379Z 17:     let firstName = data.ticket?.name?.split(/\s/)[0] ?? '';
+2026-04-02T20:38:48.3444142Z 18:     let id = data.ticket?.id.toString().padStart(6, '0');
+2026-04-02T20:38:48.3444664Z                      ^
+2026-04-02T20:38:48.3445612Z 19:     const ticketUrl = `${page.url.origin}/init/tickets/${data.ticket.gh_user}`;
+2026-04-02T20:38:48.3446401Z 20:     const ogImage = `${ticketUrl}/og`;
+2026-04-02T20:38:48.3448213Z 8:38:48 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/[username]/+page.svelte:19:57 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.3449741Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.3450475Z 17:     let firstName = data.ticket?.name?.split(/\s/)[0] ?? '';
+2026-04-02T20:38:48.3451242Z 18:     let id = data.ticket?.id.toString().padStart(6, '0');
+2026-04-02T20:38:48.3452112Z 19:     const ticketUrl = `${page.url.origin}/init/tickets/${data.ticket.gh_user}`;
+2026-04-02T20:38:48.3452855Z                                                                  ^
+2026-04-02T20:38:48.3453427Z 20:     const ogImage = `${ticketUrl}/og`;
+2026-04-02T20:38:48.3453836Z 21: 
+2026-04-02T20:38:48.3922136Z 8:38:48 PM [vite-plugin-svelte] src/lib/layouts/Main.svelte:197:12 Non-interactive element `<aside>` cannot have interactive role 'dialog'
+2026-04-02T20:38:48.3923142Z https://svelte.dev/e/a11y_no_noninteractive_element_to_interactive_role
+2026-04-02T20:38:48.3923725Z 195:             ></button>
+2026-04-02T20:38:48.3923992Z 196: 
+2026-04-02T20:38:48.3924177Z 197:             <aside
+2026-04-02T20:38:48.3925019Z                        ^
+2026-04-02T20:38:48.3925304Z 198:                 id="mobile-navigation"
+2026-04-02T20:38:48.3925632Z 199:                 class="aw-mobile-panel"
+2026-04-02T20:38:48.3926229Z 8:38:48 PM [vite-plugin-svelte] src/lib/layouts/Main.svelte:288:0 Unused CSS selector ".aw-header-spacer"
+2026-04-02T20:38:48.3926765Z https://svelte.dev/e/css_unused_selector
+2026-04-02T20:38:48.3927013Z 286: }
+2026-04-02T20:38:48.3927166Z 287: 
+2026-04-02T20:38:48.3927338Z 288: .aw-header-spacer {
+2026-04-02T20:38:48.3927542Z                       ^
+2026-04-02T20:38:48.3927744Z 289:   block-size: 72px;
+2026-04-02T20:38:48.3927929Z 290: }
+2026-04-02T20:38:48.3928407Z 8:38:48 PM [vite-plugin-svelte] src/lib/layouts/Main.svelte:451:0 Unused CSS selector ".aw-button-icon"
+2026-04-02T20:38:48.3928912Z https://svelte.dev/e/css_unused_selector
+2026-04-02T20:38:48.3929162Z 449: }
+2026-04-02T20:38:48.3929306Z 450: 
+2026-04-02T20:38:48.3929472Z 451: .aw-button-icon {
+2026-04-02T20:38:48.3929662Z                     ^
+2026-04-02T20:38:48.3929869Z 452:   inline-size: 16px;
+2026-04-02T20:38:48.3930090Z 453:   block-size: 16px;
+2026-04-02T20:38:48.3994042Z 8:38:48 PM [vite-plugin-svelte] src/routes/threads/[id]/+page.svelte:15:18 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.3996552Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.3996939Z 13:     let { data } = $props();
+2026-04-02T20:38:48.3997175Z 14: 
+2026-04-02T20:38:48.3997481Z 15:     const title = data.title + ' - Threads' + TITLE_SUFFIX;
+2026-04-02T20:38:48.3997802Z                           ^
+2026-04-02T20:38:48.3998114Z 16:     const description = DEFAULT_DESCRIPTION;
+2026-04-02T20:38:48.3998664Z 17:     const discordLink = `https://discord.com/channels/564160730845151244/${data.discord_id}`;
+2026-04-02T20:38:48.4000004Z 8:38:48 PM [vite-plugin-svelte] src/routes/threads/[id]/+page.svelte:17:75 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.4000998Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.4001413Z 15:     const title = data.title + ' - Threads' + TITLE_SUFFIX;
+2026-04-02T20:38:48.4001796Z 16:     const description = DEFAULT_DESCRIPTION;
+2026-04-02T20:38:48.4002323Z 17:     const discordLink = `https://discord.com/channels/564160730845151244/${data.discord_id}`;
+2026-04-02T20:38:48.4002852Z                                                                                    ^
+2026-04-02T20:38:48.4003132Z 18: 
+2026-04-02T20:38:48.4003383Z 19:     function shorten(str: string, len: number) {
+2026-04-02T20:38:48.6672354Z 8:38:48 PM [vite-plugin-svelte] src/routes/blog/[[page]]/+page.svelte:16:21 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.6673865Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.6674424Z 14:     let { data } = $props();
+2026-04-02T20:38:48.6674982Z 15: 
+2026-04-02T20:38:48.6675230Z 16:     const featured = data.featured;
+2026-04-02T20:38:48.6675501Z                              ^
+2026-04-02T20:38:48.6676184Z 17:     const categories = data.filteredCategories.sort((a, b) => a.name.localeCompare(b.name));
+2026-04-02T20:38:48.6676638Z 18: 
+2026-04-02T20:38:48.6677485Z 8:38:48 PM [vite-plugin-svelte] src/routes/blog/[[page]]/+page.svelte:17:23 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:48.6678297Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:48.6678558Z 15: 
+2026-04-02T20:38:48.6678786Z 16:     const featured = data.featured;
+2026-04-02T20:38:48.6679307Z 17:     const categories = data.filteredCategories.sort((a, b) => a.name.localeCompare(b.name));
+2026-04-02T20:38:48.6679759Z                                ^
+2026-04-02T20:38:48.6679970Z 18: 
+2026-04-02T20:38:48.6680251Z 19:     let isFirstPage = $derived(data.currentPage === 1);
+2026-04-02T20:38:49.2282835Z 8:38:49 PM [vite-plugin-svelte] src/routes/(init)/init/tickets/(components)/ticket-url.svelte:8:56 This reference only captures the initial value of `username`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:49.2286091Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:49.2287875Z  6:     let { username }: Props = $props();
+2026-04-02T20:38:49.2289477Z  7: 
+2026-04-02T20:38:49.2291135Z  8:     const copyUrl = `https://appwrite.io/init/tickets/${username}`;
+2026-04-02T20:38:49.2292972Z                                                                     ^
+2026-04-02T20:38:49.2294570Z  9: </script>
+2026-04-02T20:38:49.2296274Z 10: 
+2026-04-02T20:38:49.6421088Z 8:38:49 PM [vite-plugin-svelte] src/routes/integrations/+page.svelte:39:33 This reference only captures the initial value of `data`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:49.6447679Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:49.6450253Z 37: 
+2026-04-02T20:38:49.6451945Z 38:     // platform filters
+2026-04-02T20:38:49.6453865Z 39:     const platforms = ['All', ...data.platforms];
+2026-04-02T20:38:49.6456063Z                                          ^
+2026-04-02T20:38:49.6457730Z 40: 
+2026-04-02T20:38:49.6459383Z 41:     let activePlatform = $state('All');
+2026-04-02T20:38:50.0155560Z 8:38:50 PM [vite-plugin-svelte] src/routes/(init)/init/(components)/countdown-card.svelte:19:75 This reference only captures the initial value of `release`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:50.0159124Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:50.0161499Z 17:     const { illustration = '', release, index, title }: Props = $props();
+2026-04-02T20:38:50.0163347Z 18: 
+2026-04-02T20:38:50.0166538Z 19:     const { days, hours, minutes, seconds, hasReleased } = createCountdown(release);
+2026-04-02T20:38:50.0169823Z                                                                                       ^
+2026-04-02T20:38:50.0170377Z 20: </script>
+2026-04-02T20:38:50.0170657Z 21: 
+2026-04-02T20:38:50.0426573Z 8:38:50 PM [vite-plugin-svelte] src/routes/(init)/init/(components)/pre-release-card.svelte:15:62 This reference only captures the initial value of `release`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:50.0429334Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:50.0431022Z 13:     let { release, index }: Props = $props();
+2026-04-02T20:38:50.0432717Z 14: 
+2026-04-02T20:38:50.0434286Z 15:     const { days, hours, minutes, seconds } = createCountdown(release);
+2026-04-02T20:38:50.0436544Z                                                                          ^
+2026-04-02T20:38:50.0438602Z 16: </script>
+2026-04-02T20:38:50.0441602Z 17: 
+2026-04-02T20:38:50.0485797Z 8:38:50 PM [vite-plugin-svelte] src/routes/(init)/init/(components)/media-card.svelte:12:17 This reference only captures the initial value of `type`. Did you mean to reference it inside a closure instead?
+2026-04-02T20:38:50.0488878Z https://svelte.dev/e/state_referenced_locally
+2026-04-02T20:38:50.0491413Z 10:     const { title, poster, type, url }: Props = $props();
+2026-04-02T20:38:50.0493837Z 11: 
+2026-04-02T20:38:50.0496384Z 12:     const icon = type === 'discord' ? DiscordIcon : PlayIcon;
+2026-04-02T20:38:50.0500630Z                          ^
+2026-04-02T20:38:50.0502625Z 13: </script>
+2026-04-02T20:38:50.0503762Z 14: 
+2026-04-02T20:38:50.2116851Z [33m[plugin rolldown:vite-resolve] Module "node:async_hooks" has been externalized for browser compatibility, imported by "/home/runner/work/clikkle/clikkle/node_modules/@sveltejs/kit/src/exports/internal/event.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.[39m
+2026-04-02T20:38:50.2510171Z [33m[plugin rolldown:vite-resolve] Module "node:async_hooks" has been externalized for browser compatibility, imported by "/home/runner/work/clikkle/clikkle/node_modules/@sveltejs/kit/src/exports/internal/event.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.[39m
+2026-04-02T20:38:50.3268141Z [33m[plugin rolldown:vite-resolve] Module "node:path" has been externalized for browser compatibility, imported by "/home/runner/work/clikkle/clikkle/node_modules/@sveltejs/kit/src/runtime/server/utils.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.[39m
+2026-04-02T20:38:50.3277357Z [33m[plugin rolldown:vite-resolve] Module "node:process" has been externalized for browser compatibility, imported by "/home/runner/work/clikkle/clikkle/node_modules/@sveltejs/kit/src/runtime/server/utils.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.[39m
+2026-04-02T20:38:50.3382275Z [33m[plugin rolldown:vite-resolve] Module "node:process" has been externalized for browser compatibility, imported by "/home/runner/work/clikkle/clikkle/node_modules/@sveltejs/kit/src/runtime/server/utils.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.[39m
+2026-04-02T20:38:50.3403701Z [33m[plugin rolldown:vite-resolve] Module "node:path" has been externalized for browser compatibility, imported by "/home/runner/work/clikkle/clikkle/node_modules/@sveltejs/kit/src/runtime/server/utils.js". See https://vite.dev/guide/troubleshooting.html#module-externalized-for-browser-compatibility for more details.[39m
+2026-04-02T20:38:52.2465788Z 
+2026-04-02T20:38:52.2471830Z &quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHBhdGggZD0iTSA2NCAwIEwgNjQgNjQgTCAwIDY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0NDQ0NDQiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuNCIgc3Ryb2tlLWRhc2hhcnJheT0iMyA2IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIi8+Cjwvc3ZnPg==&quot; referenced in &quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHBhdGggZD0iTSA2NCAwIEwgNjQgNjQgTCAwIDY0IiBmaWxsPSJub25lIiBzdHJva2U9IiM0NDQ0NDQiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuNCIgc3Ryb2tlLWRhc2hhcnJheT0iMyA2IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIi8+Cjwvc3ZnPg==&quot; didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2478118Z 
+2026-04-02T20:38:52.2480334Z /clikkle/... referenced in /clikkle/... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2482508Z 
+2026-04-02T20:38:52.2485031Z /clikkle/images/... referenced in /clikkle/images/... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2487301Z 
+2026-04-02T20:38:52.2489699Z /clikkle/images/bgs/... referenced in /clikkle/images/bgs/... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2491911Z 
+2026-04-02T20:38:52.2498588Z /clikkle/images/bgs/mobile-auth-hero.png referenced in /clikkle/images/bgs/mobile-auth-hero.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2501392Z 
+2026-04-02T20:38:52.2504332Z /clikkle/images/pages/storage/pattern-1.png referenced in /clikkle/images/pages/storage/pattern-1.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2506490Z 
+2026-04-02T20:38:52.2507852Z ... referenced in ... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2509200Z 
+2026-04-02T20:38:52.2511661Z ...clikkle... referenced in ...clikkle... didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2513776Z 
+2026-04-02T20:38:52.2516817Z /clikkle/images/bgs/mobile-hero.png referenced in /clikkle/images/bgs/mobile-hero.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2519443Z 
+2026-04-02T20:38:52.2521748Z /clikkle/images/bgs/purple-gradient.png referenced in /clikkle/images/bgs/purple-gradient.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2523699Z 
+2026-04-02T20:38:52.2526270Z /clikkle/images/bgs/checker-bg.png referenced in /clikkle/images/bgs/checker-bg.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2527915Z 
+2026-04-02T20:38:52.2530523Z /clikkle/images/bgs/auth-hero.png referenced in /clikkle/images/bgs/auth-hero.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2532067Z 
+2026-04-02T20:38:52.2534939Z /clikkle/images/bgs/hero.png referenced in /clikkle/images/bgs/hero.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:52.2536449Z 
+2026-04-02T20:38:52.2539333Z /clikkle/images/bgs/mint-gradient.png referenced in /clikkle/images/bgs/mint-gradient.png didn't resolve at build time, it will remain unchanged to be resolved at runtime
+2026-04-02T20:38:53.6830193Z transforming...✓ 5387 modules transformed.
+2026-04-02T20:38:53.7228565Z [31m✗[39m Build failed in 41.70s
+2026-04-02T20:38:53.7576989Z [31m✗[39m Build failed in 2m 37s
+2026-04-02T20:38:53.7875244Z node:internal/process/promises:394
+2026-04-02T20:38:53.7875998Z     triggerUncaughtException(err, true /* fromPromise */);
+2026-04-02T20:38:53.7876393Z     ^
+2026-04-02T20:38:53.7876494Z 
+2026-04-02T20:38:53.7876765Z [31mBuild failed with 1 error:
+2026-04-02T20:38:53.7876933Z 
+2026-04-02T20:38:53.7877091Z [plugin vite-plugin-sveltekit-compile]
+2026-04-02T20:38:53.7877484Z Error: [31mBuild failed with 1 error:
+2026-04-02T20:38:53.7877650Z 
+2026-04-02T20:38:53.7877789Z [plugin vite-plugin-sveltekit-guard]
+2026-04-02T20:38:53.7878254Z Error: To enable remote functions, add the following to your `svelte.config.js`:
+2026-04-02T20:38:53.7878906Z 
+2026-04-02T20:38:53.7878984Z kit: {
+2026-04-02T20:38:53.7879147Z   experimental: {
+2026-04-02T20:38:53.7879345Z     remoteFunctions: true
+2026-04-02T20:38:53.7879557Z   }
+2026-04-02T20:38:53.7879725Z }[31m
+2026-04-02T20:38:53.7880430Z     at aggregateBindingErrorsIntoJsError (file:///home/runner/work/clikkle/clikkle/node_modules/rolldown/dist/shared/bindingify-input-options-Bk0BBr2s.mjs:56:18)
+2026-04-02T20:38:53.7881576Z     at unwrapBindingResult (file:///home/runner/work/clikkle/clikkle/node_modules/rolldown/dist/shared/bindingify-input-options-Bk0BBr2s.mjs:31:128)
+2026-04-02T20:38:53.7882538Z     at #build (file:///home/runner/work/clikkle/clikkle/node_modules/rolldown/dist/shared/rolldown-build-BEU8N80I.mjs:2260:34)
+2026-04-02T20:38:53.7883397Z     at async buildEnvironment (file:///home/runner/work/clikkle/clikkle/node_modules/vite/dist/node/chunks/node.js:32805:64)
+2026-04-02T20:38:53.7884216Z     at async Object.build (file:///home/runner/work/clikkle/clikkle/node_modules/vite/dist/node/chunks/node.js:33208:19)
+2026-04-02T20:38:53.7885336Z     at async PluginContextImpl.handler (file:///home/runner/work/clikkle/clikkle/node_modules/@sveltejs/kit/src/exports/vite/index.js:1121:7)
+2026-04-02T20:38:53.7886359Z     at async plugin (file:///home/runner/work/clikkle/clikkle/node_modules/rolldown/dist/shared/bindingify-input-options-Bk0BBr2s.mjs:747:4)
+2026-04-02T20:38:53.7887560Z     at async plugin.<computed> (file:///home/runner/work/clikkle/clikkle/node_modules/rolldown/dist/shared/bindingify-input-options-Bk0BBr2s.mjs:1008:12)[39m
+2026-04-02T20:38:53.7888741Z     at aggregateBindingErrorsIntoJsError (file:///home/runner/work/clikkle/clikkle/node_modules/rolldown/dist/shared/bindingify-input-options-Bk0BBr2s.mjs:56:18)
+2026-04-02T20:38:53.7889854Z     at unwrapBindingResult (file:///home/runner/work/clikkle/clikkle/node_modules/rolldown/dist/shared/bindingify-input-options-Bk0BBr2s.mjs:31:128)
+2026-04-02T20:38:53.7890807Z     at #build (file:///home/runner/work/clikkle/clikkle/node_modules/rolldown/dist/shared/rolldown-build-BEU8N80I.mjs:2260:34)
+2026-04-02T20:38:53.7891658Z     at async buildEnvironment (file:///home/runner/work/clikkle/clikkle/node_modules/vite/dist/node/chunks/node.js:32805:64)
+2026-04-02T20:38:53.7892649Z     at async Object.build (file:///home/runner/work/clikkle/clikkle/node_modules/vite/dist/node/chunks/node.js:33208:19)
+2026-04-02T20:38:53.7893304Z     at async main (file:///home/runner/work/clikkle/clikkle/scripts/build.js:4:5) {
+2026-04-02T20:38:53.7893678Z   errors: [Getter/Setter]
+2026-04-02T20:38:53.7893875Z }
+2026-04-02T20:38:53.7893963Z 
+2026-04-02T20:38:53.7894035Z Node.js v22.22.1
+2026-04-02T20:38:54.0818506Z ##[error]Process completed with exit code 1.

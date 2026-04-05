@@ -1,0 +1,19 @@
+﻿2026-04-02T20:30:55.7703702Z ##[group]Run echo "PUBLIC_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1" > .env
+2026-04-02T20:30:55.7704342Z [36;1mecho "PUBLIC_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1" > .env[0m
+2026-04-02T20:30:55.7705403Z [36;1mecho "PUBLIC_APPWRITE_DASHBOARD=https://cloud.appwrite.io" >> .env[0m
+2026-04-02T20:30:55.7705897Z [36;1mecho "PUBLIC_APPWRITE_PROJECT_ID=placeholder" >> .env[0m
+2026-04-02T20:30:55.7706308Z [36;1mecho "PUBLIC_APPWRITE_DB_MAIN_ID=placeholder" >> .env[0m
+2026-04-02T20:30:55.7706692Z [36;1mecho "PUBLIC_APPWRITE_COL_THREADS_ID=placeholder" >> .env[0m
+2026-04-02T20:30:55.7707092Z [36;1mecho "PUBLIC_APPWRITE_COL_MESSAGES_ID=placeholder" >> .env[0m
+2026-04-02T20:30:55.7707465Z [36;1mecho "PUBLIC_APPWRITE_FN_TLDR_ID=placeholder" >> .env[0m
+2026-04-02T20:30:55.7707834Z [36;1mecho "PUBLIC_APPWRITE_PROJECT_INIT_ID=placeholder" >> .env[0m
+2026-04-02T20:30:55.7708264Z [36;1mecho "PUBLIC_GROWTH_ENDPOINT=https://growth.appwrite.io" >> .env[0m
+2026-04-02T20:30:55.7708727Z [36;1mecho "PUBLIC_ARENA_ENDPOINT=https://arena.appwrite.io" >> .env[0m
+2026-04-02T20:30:55.7709156Z [36;1mecho "PUBLIC_POSTHOG_API_KEY=placeholder" >> .env[0m
+2026-04-02T20:30:55.7709495Z [36;1mecho "APPWRITE_DB_INIT_ID=placeholder" >> .env[0m
+2026-04-02T20:30:55.7709817Z [36;1mecho "APPWRITE_COL_INIT_ID=placeholder" >> .env[0m
+2026-04-02T20:30:55.7710155Z [36;1mecho "APPWRITE_API_KEY_INIT=placeholder" >> .env[0m
+2026-04-02T20:30:55.7796072Z shell: /usr/bin/bash -e {0}
+2026-04-02T20:30:55.7796323Z env:
+2026-04-02T20:30:55.7796533Z   NODE_OPTIONS: --max-old-space-size=8192
+2026-04-02T20:30:55.7796813Z ##[endgroup]

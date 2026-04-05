@@ -1,0 +1,32 @@
+﻿2026-04-02T20:30:34.9707135Z Current runner version: '2.333.1'
+2026-04-02T20:30:34.9731295Z ##[group]Runner Image Provisioner
+2026-04-02T20:30:34.9732112Z Hosted Compute Agent
+2026-04-02T20:30:34.9732751Z Version: 20260213.493
+2026-04-02T20:30:34.9733394Z Commit: 5c115507f6dd24b8de37d8bbe0bb4509d0cc0fa3
+2026-04-02T20:30:34.9734100Z Build Date: 2026-02-13T00:28:41Z
+2026-04-02T20:30:34.9735038Z Worker ID: {68c9a51d-4bc6-4654-b4d8-24c3268c4c98}
+2026-04-02T20:30:34.9735756Z Azure Region: westus3
+2026-04-02T20:30:34.9736324Z ##[endgroup]
+2026-04-02T20:30:34.9737677Z ##[group]Operating System
+2026-04-02T20:30:34.9738433Z Ubuntu
+2026-04-02T20:30:34.9738903Z 24.04.4
+2026-04-02T20:30:34.9739371Z LTS
+2026-04-02T20:30:34.9739875Z ##[endgroup]
+2026-04-02T20:30:34.9740407Z ##[group]Runner Image
+2026-04-02T20:30:34.9740957Z Image: ubuntu-24.04
+2026-04-02T20:30:34.9741542Z Version: 20260323.65.1
+2026-04-02T20:30:34.9742546Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260323.65/images/ubuntu/Ubuntu2404-Readme.md
+2026-04-02T20:30:34.9744170Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260323.65
+2026-04-02T20:30:34.9745277Z ##[endgroup]
+2026-04-02T20:30:34.9746327Z ##[group]GITHUB_TOKEN Permissions
+2026-04-02T20:30:34.9748238Z Contents: write
+2026-04-02T20:30:34.9748842Z Metadata: read
+2026-04-02T20:30:34.9749405Z ##[endgroup]
+2026-04-02T20:30:34.9751795Z Secret source: Actions
+2026-04-02T20:30:34.9752508Z Prepare workflow directory
+2026-04-02T20:30:35.0201891Z Prepare all required actions
+2026-04-02T20:30:35.0240093Z Getting action download info
+2026-04-02T20:30:35.4872233Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+2026-04-02T20:30:35.6112052Z Download action repository 'actions/setup-node@v4' (SHA:49933ea5288caeca8642d1e84afbd3f7d6820020)
+2026-04-02T20:30:35.7404000Z Download action repository 'peaceiris/actions-gh-pages@v4' (SHA:4f9cc6602d3f66b9c108549d475ec49e8ef4d45e)
+2026-04-02T20:30:36.7884898Z Complete job name: publish
