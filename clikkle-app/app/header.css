@@ -4,11 +4,13 @@
     position: sticky;
     inset-block-start: 0;
     inset-inline: 0;
-    z-index: 999;
+    z-index: 1000; /* Appwrite `Main.svelte` marketing header */
     box-sizing: border-box;
-    min-block-size: 4.5625rem; /* pxToRem(73) */
-    padding-inline: 2rem; /* pxToRem(32) */
-    border-block-end: 1px solid rgba(255, 255, 255, 0.1);
+    /* Fixed height + shell `block-size: 100%` so flex `align-items: center` truly centers in the bar
+       (`min-block-size` + `%` on the shell leaves the shell content-height and stuck to the top). */
+    block-size: 4.5rem; /* 72px — `Main.svelte` `block-size: 72px` */
+    padding-inline: 0;
+    border-block-end: 1px solid rgba(255, 255, 255, 0.08);
     /* `is-transparent` + [data-js-enabled]: clear bg + light blur */
     background-color: transparent;
     -webkit-backdrop-filter: blur(0.625rem); /* pxToRem(10) */
@@ -28,31 +30,17 @@
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
 }
 
-/* `web-main-header-wrapper`: flex, gap 16px, padding-block 15px, max 86.875rem docs */
+/* Appwrite `Main.svelte` `.aw-header-shell` — marketing header (not docs `web-main-header-wrapper`) */
 .aw-header-shell {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: center;
-    justify-content: center;
-    gap: 1rem; /* pxToRem(16) */
-    inline-size: min(100%, 86.875rem);
+    gap: 2rem; /* `Main.svelte` logo ↔ nav (32px) */
+    inline-size: min(100%, calc(var(--container-max-width) + (var(--container-padding-inline) * 2)));
+    block-size: 100%; /* `Main.svelte` — fill fixed 72px header for vertical centering */
     margin-inline: auto;
-    padding-block: 0.9375rem; /* --p-main-header-padding-block 15px */
+    padding-inline: var(--container-padding-inline, 1.5rem);
     box-sizing: border-box;
-}
-
-.aw-header-start {
-    display: flex;
-    align-items: center;
-    flex: 1 1 auto;
-    min-width: 0;
-}
-
-/* `.web-logo { margin-inline-end: pxToRem(32) }` — only when nav is visible (xl+) */
-@media (min-width: 1280px) {
-    .aw-header-start .aw-logo-link {
-        margin-inline-end: 2rem;
-    }
 }
 
 /*
@@ -62,8 +50,8 @@
 .aw-products-mega-panel-host {
     pointer-events: none;
     position: fixed;
-    inset-inline: 1.25rem;
-    top: 4.5625rem;
+    inset-inline: var(--container-padding-inline, 1.25rem);
+    top: 4.5rem; /* below 72px header */
     z-index: 1002;
     display: flex;
     justify-content: center;
@@ -71,9 +59,9 @@
     outline: none;
 }
 
-@media (min-width: 1280px) {
+@media (min-width: 1024px) {
     .aw-products-mega-panel-host {
-        inset-inline: 2rem;
+        inset-inline: var(--container-padding-inline, 1.5rem);
     }
 }
 
@@ -96,10 +84,10 @@
 .aw-header-nav {
     display: none;
     align-items: center;
-    align-self: center;
-    gap: 2rem; /* pxToRem(32) nav-list */
+    gap: 32px; /* `Main.svelte` `.aw-header-nav` */
     flex-shrink: 0;
-    font-size: 1rem; /* pxToRem(16) */
+    font-size: 1rem;
+    font-weight: 500; /* `Main.svelte` `.aw-header-link` */
     user-select: none;
 }
 
@@ -122,7 +110,7 @@
     color: rgba(250, 250, 251, 0.92);
     font-family: var(--font-family-primary, 'Inter', sans-serif);
     font-size: inherit;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1.5;
     text-decoration: none;
     transition: color 200ms ease;
@@ -158,81 +146,136 @@
     align-items: center;
     justify-content: flex-end;
     margin-inline-start: auto;
-    gap: 0.5rem; /* pxToRem(8) main-header-end */
+    gap: 0.5rem; /* docs `web-main-header-end` + row `gap-2` */
     flex-shrink: 0;
 }
 
-
-.aw-github-button,
+/*
+ * Landing GitHub — `web-button is-text` + glass hover from `docs-header.css` (loaded in root `layout.tsx`).
+ * Metrics match `globals.css` `.docs-route-shell .web-main-header .web-button`.
+ */
+.aw-cta-button,
 .aw-menu-button,
 .aw-close-button {
-    text-decoration: none;
-    cursor: pointer;
-}
-
-.aw-github-button {
-    box-sizing: border-box;
-    display: none;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
+    border: 0;
+    text-decoration: none;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+/*
+ * GitHub in the bar: hidden < `lg` only. Do not use always-on `display:none !important` — bundlers can
+ * reorder `@media` blocks so it beats `min-width:1024px` and hides the control on desktop.
+ * Specificity beats later `.web-button { display:flex }` from `docs-header.css`.
+ */
+.aw-header-actions > a.web-button.is-text {
+    display: none;
+}
+
+/*
+ * Appwrite `Main.svelte` `.aw-github-button` — default + hover (Clikkle `#2d63ff` instead of `#f02e65`).
+ * Overrides docs `web-button.is-text` glass hover for the marketing bar only.
+ */
+.aw-header .web-button.is-text,
+.aw-mobile-actions .web-button.is-text {
     gap: 8px;
     min-block-size: 40px;
     padding-block: 7px;
     padding-inline: 14px;
-    border-radius: 8px;
+    border-radius: 6px;
+    font-family: var(--font-family-primary, 'Inter', sans-serif);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    white-space: nowrap;
     border: 1px solid rgba(255, 255, 255, 0.12);
     background: rgba(255, 255, 255, 0.06);
     color: rgba(250, 250, 251, 0.92);
-    font-family: var(--font-family-primary, 'Inter', sans-serif);
-    font-weight: 500;
-    white-space: pre;
-    box-shadow: none;
-    text-decoration: none;
-    cursor: pointer;
-    user-select: none;
-    transition: color 200ms ease, border-color 200ms ease,
-        box-shadow 200ms ease, background-color 200ms ease;
+    transition:
+        color 200ms ease,
+        border-color 200ms ease,
+        box-shadow 200ms ease,
+        background-color 200ms ease,
+        transform 200ms ease;
 }
 
-.aw-github-button:hover {
+/* Extra `.aw-header` ancestor beats later `.dark .web-button.is-text:hover` from `docs-header.css`. */
+.aw-header .aw-header-actions > a.web-button.is-text:hover:not(:disabled),
+.aw-mobile-actions > a.web-button.is-text:hover:not(:disabled) {
     color: #2d63ff;
     border-color: rgba(45, 99, 255, 0.35);
     background: rgba(255, 255, 255, 0.1);
+    box-shadow: none;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
 }
 
-.aw-github-button svg {
+/* Close button icon in mobile drawer */
+.aw-button-icon {
     inline-size: 16px;
     block-size: 16px;
-    flex-shrink: 0;
 }
 
-.aw-github-count {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    min-inline-size: 3.75rem;
-    padding: 2px 8px;
-    border-radius: 9999px;
-    background: rgba(255, 255, 255, 0.1);
-    color: rgba(250, 250, 251, 0.65);
-    font-size: 14px;
-    font-weight: 600;
+.aw-cta-button {
+    display: none;
+    gap: 8px;
+    min-block-size: 40px;
+    padding-block: 7px;
+    padding-inline: 14px;
+    border-radius: 6px;
+    border: solid 1px rgba(255, 255, 255, 0.1);
+    color: #fff;
+    font-family: var(--font-family-primary, 'Inter', sans-serif);
+    font-size: 16px;
+    font-weight: 500;
     line-height: 1;
+    white-space: nowrap;
+    background: linear-gradient(180deg, #3f7cff 0%, #2d63ff 45%, #2458e8 100%);
+    background-origin: border-box;
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.22),
+        0 4px 14px rgba(0, 0, 0, 0.28);
+    transition:
+        background 200ms ease,
+        box-shadow 200ms ease,
+        transform 200ms ease;
 }
 
+.aw-cta-button:hover {
+    background: linear-gradient(180deg, #4d86ff 0%, #356ef8 45%, #2a5feb 100%);
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.26),
+        0 6px 18px rgba(45, 99, 255, 0.28);
+}
+
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+    .aw-header .web-button.is-text,
+    .aw-cta-button {
+        min-block-size: 36px;
+        padding-inline: 12px;
+        font-size: 14px;
+    }
+
+    .aw-header-actions .web-inline-tag {
+        display: none !important;
+    }
+}
+
+/* `Main.svelte` `.aw-menu-button` + `.aw-close-button` */
 .aw-menu-button,
 .aw-close-button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
     inline-size: 44px;
     block-size: 44px;
-    border: 0;
-    border-radius: 8px;
+    border-radius: var(--radius-sm);
     background: rgba(255, 255, 255, 0.08);
     color: rgba(250, 250, 251, 0.92);
-    cursor: pointer;
-    transition: background-color 200ms ease, box-shadow 200ms ease, color 200ms ease;
+    transition:
+        background-color 200ms ease,
+        box-shadow 200ms ease,
+        color 200ms ease;
 }
 
 .aw-menu-button:hover,
@@ -335,7 +378,7 @@
     margin-top: auto;
 }
 
-.aw-mobile-actions .aw-github-button,
+.aw-mobile-actions .web-button.is-text,
 .aw-mobile-actions .aw-cta-button {
     display: inline-flex;
     inline-size: 100%;
@@ -355,45 +398,13 @@
     }
 }
 
-.aw-cta-button {
-    box-sizing: border-box;
-    display: none;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    min-block-size: 40px;
-    padding-block: 7px;
-    padding-inline: 14px;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    background: linear-gradient(180deg, #4d86ff 0%, #356ef8 45%, #2a5feb 100%);
-    background-origin: border-box;
-    color: #fff;
-    font-family: var(--font-family-primary, 'Inter', sans-serif);
-    font-weight: 500;
-    white-space: pre;
-    text-decoration: none;
-    cursor: pointer;
-    user-select: none;
-    box-shadow:
-        inset 0 1px 0 rgba(255, 255, 255, 0.22),
-        0 4px 14px rgba(0, 0, 0, 0.28);
-    transition: var(--transition);
-}
-
-.aw-cta-button:hover {
-    box-shadow:
-        inset 0 1px 0 rgba(255, 255, 255, 0.26),
-        0 0 32px 0 rgba(45, 99, 255, 0.32);
-}
-
-/* Appwrite desktop chrome: `hidden xl:block` on `web-main-header` → 1280px */
-@media (min-width: 1280px) {
+/* `Main.svelte`: desktop nav + buttons from 1024px (`lg`) */
+@media (min-width: 1024px) {
     .aw-header-nav {
         display: flex;
     }
 
-    .aw-github-button,
+    .aw-header-actions > a.web-button.is-text,
     .aw-cta-button {
         display: inline-flex;
     }
@@ -401,37 +412,5 @@
     .aw-menu-button,
     .aw-mobile-overlay {
         display: none;
-    }
-}
-
-/* `_main-header.scss` $break2: (1024–1279.9px) — when header is shown at mid widths, match tightening */
-@media (min-width: 1024px) and (max-width: 1279.98px) {
-    .aw-header {
-        padding-inline: 1.25rem; /* pxToRem(20) */
-    }
-
-    .aw-header-shell {
-        gap: 0.75rem; /* pxToRem(12) */
-        padding-block: 0.625rem; /* pxToRem(10) */
-    }
-
-    .aw-header-start .aw-logo-link {
-        margin-inline-end: 1.5rem; /* pxToRem(24) */
-    }
-
-    .aw-header-nav {
-        gap: 1.25rem; /* pxToRem(20) */
-        font-size: 0.9375rem; /* pxToRem(15) */
-    }
-
-    .aw-header-actions {
-        gap: 0.375rem; /* pxToRem(6) */
-    }
-
-    .aw-github-button,
-    .aw-cta-button {
-        min-block-size: 2.25rem; /* pxToRem(36) */
-        padding-inline: 0.75rem; /* pxToRem(12) */
-        font-size: 0.875rem; /* pxToRem(14) */
     }
 }

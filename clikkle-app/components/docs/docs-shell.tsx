@@ -8,7 +8,7 @@ import { resolveDocsSidebar } from "@/lib/docs/resolve-docs-sidebar";
 import { usePreferredPlatform } from "@/lib/markdoc/preferred-platform";
 import { usePreferredVersion } from "@/lib/docs/preferred-version";
 import { cn } from "@/lib/utils";
-import { Menu, X } from "lucide-react";
+import { Menu, Search, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useDocsPathname } from "@/lib/docs/use-docs-pathname";
@@ -21,7 +21,7 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
   const pathname = useDocsPathname();
   const { version } = usePreferredVersion();
   const { platform } = usePreferredPlatform();
-  const { showSidenav, toggleSidenav, syncVariant, setLayoutState } = useDocsLayout();
+  const { showSidenav, toggleSidenav, syncVariant, setLayoutState, setShowSearch } = useDocsLayout();
 
   const resolved = useMemo(
     () => resolveDocsSidebar(pathname, version, platform),
@@ -64,7 +64,15 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
             </span>
           </Link>
         </div>
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-1 sm:gap-2">
+          <button
+            type="button"
+            className="flex size-10 shrink-0 items-center justify-center rounded-lg text-[var(--color-text-primary)] dark:text-white"
+            aria-label="Search docs"
+            onClick={() => setShowSearch(true)}
+          >
+            <Search className="size-5" strokeWidth={2} aria-hidden />
+          </button>
           <a
             href={DASHBOARD_HREF}
             className="web-btn web-btn-primary aw-cta-button aw-focus-ring hidden md:inline-flex"
@@ -74,7 +82,7 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
           </a>
           <button
             type="button"
-            className="flex size-10 items-center justify-center rounded-lg text-[var(--color-text-primary)] dark:text-white"
+            className="flex size-10 shrink-0 items-center justify-center rounded-lg text-[var(--color-text-primary)] dark:text-white"
             aria-label="open navigation"
             onClick={toggleSidenav}
           >

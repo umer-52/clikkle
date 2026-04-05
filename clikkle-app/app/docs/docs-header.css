@@ -37,6 +37,7 @@
   inline-size: fit-content;
   justify-content: center;
   align-items: center;
+  /* Appwrite `_button.scss`: gap/ padding / min-height pxToRem(8,14,7,40) */
   gap: 0.5rem;
   padding-inline: 0.875rem;
   padding-block: 0.4375rem;
@@ -182,6 +183,7 @@
 /* ──────────────────────────────────────────────────────────────────────
    Appwrite `_button.scss` — primary variant (CTA in docs header).
    Gradient uses Clikkle brand blues instead of Appwrite pink.
+   (Shared metrics for GitHub + CTA live in `.docs-route-shell` block at file end.)
    ────────────────────────────────────────────────────────────────────── */
 .web-main-header .web-button.is-primary {
   color: #fff;
@@ -203,18 +205,6 @@
 
 .web-main-header .web-button.is-primary:focus-visible {
   box-shadow: 0 0 0 0.25rem rgba(45, 99, 255, 0.24);
-}
-
-/* break2 (1024–1279): smaller buttons */
-@media (min-width: 1024px) and (max-width: 1279.98px) {
-  .web-main-header .web-button {
-    min-block-size: 2.25rem;
-    padding-inline: 0.75rem;
-    font-size: 0.875rem;
-  }
-  .web-main-header .web-inline-tag {
-    display: none;
-  }
 }
 
 /* ──────────────────────────────────────────────────────────────────────
@@ -297,3 +287,8 @@
   border-color: var(--color-brand-primary, #2d63ff);
   box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.16);
 }
+
+/*
+ * Desktop header chrome (search + GitHub + CTA) lives in `globals.css` at EOF so it wins
+ * over Tailwind layer order in all bundles. See `.docs-route-shell` block there.
+ */

@@ -907,3 +907,128 @@ html.dark #main-content > main[class*='--bg-primary'] {
   display: none;
 }
 
+/* ── Docs route: header chrome (search + buttons) — EOF so this beats Tailwind `@layer` order ── */
+@media (min-width: 1024px) {
+  /* `min-block-size` on `.web-main-header` leaves dead space unless the shell centers its child. */
+  .docs-route-shell .web-main-header {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    box-sizing: border-box !important;
+  }
+
+  .docs-route-shell .web-main-header .web-main-header-wrapper {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    justify-content: center !important;
+    align-items: center !important;
+    inline-size: 100% !important;
+    margin-inline: auto !important;
+    box-sizing: border-box !important;
+  }
+
+  .docs-route-shell .web-main-header.is-docs .web-main-header-wrapper {
+    max-inline-size: var(--container-size-large, 90rem) !important;
+  }
+
+  .docs-route-shell .web-main-header.is-reference .web-main-header-wrapper {
+    max-inline-size: var(--container-size-huge, 100rem) !important;
+  }
+
+  /*
+   * Appwrite `Docs.svelte` + `_main-header.scss`: one flex row — `web-main-header-start` is `flex-1`
+   * (logo → nav → `web-u-margin-inline-start-48` + `flex-1` wrapper → `web-u-flex-basis-400` button).
+   * `.docs-header-bar-leading`: fixed width `15rem - 48px` = side-nav width minus the search margin,
+   * so the search field starts exactly where `.web-grid-side-nav` column 2 begins.
+   */
+  .docs-route-shell .web-main-header .docs-header-bar-leading {
+    display: flex !important;
+    align-items: center !important;
+    min-inline-size: 0 !important;
+  }
+
+  .docs-route-shell .web-main-header.is-docs .docs-header-bar-leading {
+    flex: 0 0 calc(15rem - 48px) !important;
+    inline-size: calc(15rem - 48px) !important;
+    max-inline-size: calc(15rem - 48px) !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+  }
+
+  .docs-route-shell .web-main-header:is(.is-docs, .is-reference) .web-main-header-start {
+    display: flex !important;
+    align-items: center !important;
+    flex: 1 1 0% !important;
+    min-inline-size: 0 !important;
+  }
+
+  .docs-route-shell .web-main-header .web-main-header-end {
+    display: flex !important;
+    margin-inline-start: auto !important;
+    align-items: center !important;
+    flex-shrink: 0 !important;
+  }
+
+  .docs-route-shell .web-main-header .docs-header-search-row {
+    display: flex !important;
+    align-items: center !important;
+    flex: 1 1 0% !important;
+    min-inline-size: 0 !important;
+  }
+
+  .docs-route-shell .web-main-header .web-u-margin-inline-start-48 {
+    margin-inline-start: 48px !important;
+  }
+
+  .docs-route-shell .web-main-header .docs-header-search-row .web-input-button {
+    box-sizing: border-box !important;
+    flex: 0 1 400px !important;
+    max-inline-size: 400px !important;
+    min-inline-size: 0 !important;
+    inline-size: min(100%, 400px) !important;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+  .docs-route-shell .web-main-header .web-main-header-wrapper {
+    gap: 0.75rem !important;
+    padding-block: 0.625rem !important;
+  }
+
+  .docs-route-shell .web-main-header .web-main-header-end {
+    gap: 0.375rem !important;
+  }
+}
+
+@media (min-width: 1280px) {
+  .docs-route-shell .web-main-header .web-main-header-wrapper {
+    gap: 1rem !important;
+    padding-block: 0.9375rem !important;
+  }
+
+  .docs-route-shell .web-main-header .web-main-header-end {
+    gap: 0.5rem !important;
+  }
+}
+
+.docs-route-shell .web-main-header .web-button {
+  gap: 8px !important;
+  padding-inline: 14px !important;
+  padding-block: 7px !important;
+  min-block-size: 40px !important;
+  border-radius: 6px !important;
+  font-size: 16px !important;
+  line-height: 1 !important;
+}
+
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+  .docs-route-shell .web-main-header .web-button {
+    min-block-size: 36px !important;
+    padding-inline: 12px !important;
+    font-size: 14px !important;
+  }
+
+  .docs-route-shell .web-main-header .web-inline-tag {
+    display: none !important;
+  }
+}

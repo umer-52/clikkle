@@ -38,7 +38,7 @@
 @media (min-width: 1024px) {
   .web-grid-side-nav {
     display: grid;
-    grid-template-columns: 17.5rem minmax(0, 1fr);
+    grid-template-columns: 15rem minmax(0, 1fr);
     gap: 0;
     width: 100%;
     max-width: var(--container-size-large);
@@ -58,7 +58,7 @@
   --p-grid-huge-navs-secondary-sticky-position: 7.5rem;
   --p-grid-huge-navs--margin-top-content-side-b: 2.5rem;
   --p-grid-huge-navs-side-nav-width-closed: 4.5625rem;
-  --p-grid-huge-navs-side-nav-width-opened: 17.5rem;
+  --p-grid-huge-navs-side-nav-width-opened: 15rem;
   max-inline-size: var(--container-size-large);
   margin-inline: auto;
 }
@@ -295,7 +295,7 @@
   --p-grid-huge-navs-secondary-header-height: 7.25rem;
   --p-grid-huge-navs-secondary-sticky-position: 11.8125rem;
   --p-grid-huge-navs-side-nav-width-closed: 4.5625rem;
-  --p-grid-huge-navs-side-nav-width-opened: 17.5rem;
+  --p-grid-huge-navs-side-nav-width-opened: 15rem;
 }
 
 @media (max-width: 1023.98px) {
@@ -330,7 +330,7 @@
     inset-block-start: var(--p-grid-huge-navs-main-header-height);
     inset-block-end: 0;
     z-index: 40;
-    inline-size: 17.5rem;
+    inline-size: 15rem;
     background: var(--web-color-background);
     border-inline-end: solid 1px var(--web-color-subtle);
     overflow-y: auto;
@@ -470,7 +470,7 @@
     padding-inline-end: var(--p-grid-huge-navs-padding-inline);
     border-inline-start: solid 1px var(--web-color-border);
     background-color: var(--p-body-bg-color);
-    inline-size: 17.5rem;
+    inline-size: 15rem;
   }
 
   .web-grid-huge-navs .web-references-menu-list {
@@ -605,7 +605,7 @@
     inset-block-start: 4.5625rem;
     inset-block-end: 0;
     z-index: 40;
-    inline-size: 17.5rem;
+    inline-size: 15rem;
     background: var(--web-color-background);
     border-inline-end: solid 1px var(--web-color-subtle);
     overflow-y: auto;
@@ -1008,12 +1008,12 @@
   }
 
   .web-main-header-wrapper {
-    gap: 0.75rem;
+    gap: 0.75rem; /* `_main-header.scss` break2 pxToRem(12) */
     padding-block: 0.625rem;
   }
 
   .web-main-header-end {
-    gap: 0.375rem;
+    gap: 0.375rem; /* break2 pxToRem(6) */
   }
 
   .web-main-header .docs-header-logo {
@@ -1028,19 +1028,19 @@
     top: 0;
     z-index: 999;
     min-block-size: 4.5625rem;
-    padding-inline: 2rem;
+    padding-inline: 2rem; /* default `_main-header.scss` pxToRem(32) */
     border-block-end: solid 0.0625rem rgba(0, 0, 0, 0.1);
     background-color: var(--bg-primary, hsl(0 0% 100%));
     box-sizing: border-box;
   }
 
   .web-main-header-wrapper {
-    gap: 1rem;
-    padding-block: 0.9375rem;
+    gap: 1rem; /* `_main-header.scss` default pxToRem(16) */
+    padding-block: 0.9375rem; /* pxToRem(15) */
   }
 
   .web-main-header-end {
-    gap: 0.5rem;
+    gap: 0.5rem; /* pxToRem(8) — inner `flex gap-2` matches */
   }
 
   .web-main-header .docs-header-logo {
@@ -1055,17 +1055,21 @@
 
 @media (min-width: 1024px) {
   .web-main-header.is-docs .web-main-header-wrapper {
-    max-inline-size: 86.875rem;
+    max-inline-size: var(--container-size-large);
   }
 
   .web-main-header.is-reference .web-main-header-wrapper {
     max-inline-size: var(--container-size-huge, 100rem);
   }
 
+  /* Appwrite `_main-header.scss` `&-wrapper` — gap/padding-block set in break2 vs ≥1280 rules above */
   .web-main-header-wrapper {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: center;
+    align-items: center;
+    inline-size: 100%;
+    max-inline-size: 108rem; /* pxToRem(1728); `.is-docs` / `.is-reference` narrow below */
     margin-inline: auto;
     box-sizing: border-box;
   }
@@ -1073,12 +1077,14 @@
   .web-main-header-start {
     display: flex;
     align-items: center;
+    min-inline-size: 0;
   }
 
   .web-main-header-end {
     display: flex;
     margin-inline-start: auto;
     align-items: center;
+    gap: 0.5rem; /* `_main-header.scss` `&-end` pxToRem(8); ≥1280px */
   }
 
   .web-main-header.is-reference {
@@ -1103,14 +1109,14 @@
   }
 }
 
-/* Appwrite utility: web-u-margin-inline-start-48 (48px = 3rem) */
+/* Appwrite `_10-utilities.scss`: pxToRem(48) / pxToRem(400) — not `rem` on `:root` font-size */
 .web-u-margin-inline-start-48 {
-  margin-inline-start: 3rem;
+  margin-inline-start: 48px;
 }
 
-/* Appwrite utility: web-u-flex-basis-400 (400px = 25rem) */
 .web-u-flex-basis-400 {
-  flex-basis: 25rem;
+  flex: 0 1 400px;
+  max-inline-size: 100%;
 }
 
 /* Appwrite `9-grids/_grid-row-4.scss` + `_10-utilities.scss` (`web-u-gap-80`) */

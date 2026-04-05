@@ -2,10 +2,11 @@
 
 import Link from "next/link";
 import { useEffect, useState, useRef } from "react";
-import { Star, X } from "lucide-react";
+import { X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { ProductsMegaMenu } from "./products-mega-menu";
+import { GithubHeaderStar } from "@/components/github-header-star";
 import { stripBasePathFromPathname } from "@/lib/basepath";
 
 /** Docs layout provides its own chrome; hide marketing header on all `/docs` URLs. */
@@ -64,14 +65,15 @@ export function SiteHeader() {
   return (
     <>
       <header className={`aw-header ${isScrolled ? "aw-header-scrolled" : ""}`}>
+        {/* Appwrite `Main.svelte`: flat shell — logo, nav, actions as siblings; `gap: 2rem`; `lg` = 1024px */}
         <div className="aw-header-shell">
-          <div className="aw-header-start">
-          <Link className="aw-logo-link aw-focus-ring shrink-0 flex items-center gap-2" href="/" aria-label="Clikkle home">
-            <Image src="/clikkle/images/logos/logo.svg" alt="Clikkle" width={28} height={28} className="object-contain h-7 w-auto" priority />
-            <span className="text-xl font-bold tracking-tight text-white font-display">Clikkle</span>
+          {/* Appwrite `Main.svelte`: logo image `height="24"` — keep wordmark compact for 72px bar */}
+          <Link className="aw-logo-link aw-focus-ring flex shrink-0 items-center gap-2" href="/" aria-label="Clikkle home">
+            <Image src="/clikkle/images/logos/logo.svg" alt="Clikkle" width={24} height={24} className="h-6 w-auto object-contain" priority />
+            <span className="font-display text-lg font-bold leading-none tracking-tight text-white">Clikkle</span>
           </Link>
 
-          <nav className="aw-header-nav hidden xl:flex" aria-label="Primary navigation">
+          <nav className="aw-header-nav hidden lg:flex" aria-label="Primary navigation">
             {navLinks.map((link) => {
               if (link.label === "Products") {
                 return <ProductsMegaMenu key={link.href} />;
@@ -89,19 +91,18 @@ export function SiteHeader() {
               );
             })}
           </nav>
-          </div>
 
           <div className="aw-header-actions">
             <a
-              className="aw-github-button aw-focus-ring"
+              className="web-button is-text aw-focus-ring"
               href={GITHUB_LINK}
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Star Clikkle on GitHub"
             >
-              <Star aria-hidden="true" />
-              <span>Star on GitHub</span>
-              <span className="aw-github-count">{GITHUB_STARS}</span>
+              <GithubHeaderStar className="size-4 shrink-0" aria-hidden />
+              <span className="text">Star on GitHub</span>
+              <span className="web-inline-tag">{GITHUB_STARS}</span>
             </a>
 
             <a className="aw-cta-button aw-focus-ring" href={CTA_LINK}>
@@ -109,7 +110,7 @@ export function SiteHeader() {
             </a>
 
             <button
-              className="aw-menu-button aw-focus-ring flex xl:hidden"
+              className="aw-menu-button aw-focus-ring flex lg:hidden"
               type="button"
               aria-label={isMobileNavOpen ? "Close navigation menu" : "Open navigation menu"}
               aria-expanded={isMobileNavOpen}
@@ -152,8 +153,8 @@ export function SiteHeader() {
         >
           <div className="aw-mobile-panel-header">
             <Link className="aw-logo-link aw-focus-ring shrink-0 flex items-center gap-2" href="/" aria-label="Clikkle home">
-              <Image src="/clikkle/images/logos/logo.svg" alt="Clikkle" width={28} height={28} className="object-contain h-7 w-auto" priority />
-              <span className="text-xl font-bold tracking-tight text-white font-display">Clikkle</span>
+              <Image src="/clikkle/images/logos/logo.svg" alt="Clikkle" width={24} height={24} className="h-6 w-auto object-contain" priority />
+              <span className="font-display text-lg font-bold leading-none tracking-tight text-white">Clikkle</span>
             </Link>
 
             <button
@@ -162,7 +163,7 @@ export function SiteHeader() {
               aria-label="Close navigation menu"
               onClick={() => setIsMobileNavOpen(false)}
             >
-              <X aria-hidden="true" />
+              <X aria-hidden="true" className="aw-button-icon" strokeWidth={1.5} />
             </button>
           </div>
 
@@ -187,15 +188,15 @@ export function SiteHeader() {
 
           <div className="aw-mobile-actions">
             <a
-              className="aw-github-button aw-focus-ring"
+              className="web-button is-text aw-focus-ring"
               href={GITHUB_LINK}
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Star Clikkle on GitHub"
             >
-              <Star aria-hidden="true" />
-              <span>Star on GitHub</span>
-              <span className="aw-github-count">{GITHUB_STARS}</span>
+              <GithubHeaderStar className="size-4 shrink-0" aria-hidden />
+              <span className="text">Star on GitHub</span>
+              <span className="web-inline-tag">{GITHUB_STARS}</span>
             </a>
 
             <a className="aw-cta-button aw-focus-ring" href={CTA_LINK}>

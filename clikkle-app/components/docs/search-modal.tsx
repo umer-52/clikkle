@@ -27,17 +27,13 @@ export function SearchModal({ isOpen, onClose }: { isOpen: boolean; onClose: () 
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
+    if (!isOpen) return;
     const handleKeydown = (e: KeyboardEvent) => {
-      if (e.key === "k" && (e.metaKey || e.ctrlKey)) {
-        e.preventDefault();
-        // Toggle or open handled by header
-      }
       if (e.key === "Escape") onClose();
     };
-
     window.addEventListener("keydown", handleKeydown);
     return () => window.removeEventListener("keydown", handleKeydown);
-  }, [onClose]);
+  }, [isOpen, onClose]);
 
   useEffect(() => {
     if (isOpen) {

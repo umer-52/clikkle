@@ -6,6 +6,8 @@ import { SiteHeader } from "@/components/site-header";
 import { ThemeProvider } from "@/components/theme-provider";
 import { THEME_INIT_SCRIPT } from "@/lib/theme-init-script";
 import "./globals.css";
+/* Docs `.web-button` / `.web-inline-tag` — used by `SiteHeader` GitHub control + docs layout (deduped). */
+import "./docs/docs-header.css";
 
 /* ─── Font Configuration ─── */
 

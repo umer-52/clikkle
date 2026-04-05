@@ -1,7 +1,6 @@
 import { DocsLayoutProvider } from "@/components/docs/docs-layout-context";
 import { DocsShell } from "@/components/docs/docs-shell";
 import "./docs-fonts.css";
-import "./docs-header.css";
 import "./docs-article-sections.css";
 import "./docs-markdoc-parity.css";
 import "./docs-web-layout.css";
@@ -9,6 +8,8 @@ import "./docs-select.css";
 import "./docs-footer.css";
 import "./docs-references.css";
 import "./docs-tutorial.css";
+/* Last: wins over Tailwind `@layer` + other docs sheets — desktop header chrome (search + buttons). */
+import "./docs-header.css";
 
 export const metadata = {
   title: "Docs - Appwrite",
