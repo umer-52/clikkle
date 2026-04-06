@@ -190,8 +190,10 @@
 
   /* Appwrite `DocsArticle` + `table-of-contents.svelte`: rail stays in view; list scrolls inside. */
   /* `align-self: flex-start`: flex/sticky quirk — rail stays viewport-pinned like Appwrite `table-of-contents.svelte` `sticky top-32` */
+  /* NOTE: Scope `.web-references-menu-sticky-inner` under `.web-grid-two-side-navs` only. Unscoped rules
+     matched `DocsOnThisPage` on `web-grid-side-nav` (flex aside) and collapsed `.docs-toc-body` to 0 height. */
   .web-grid-two-side-navs .web-references-menu-content,
-  .web-references-menu-sticky-inner {
+  .web-grid-two-side-navs .web-references-menu-sticky-inner {
     position: sticky;
     inset-block-start: var(--p-grid-huge-navs-secondary-sticky-position);
     align-self: flex-start;
@@ -205,13 +207,13 @@
 
   .web-grid-two-side-navs .web-references-menu-content > .web-references-menu-title,
   .web-grid-two-side-navs .web-references-menu-content > h5,
-  .web-references-menu-sticky-inner > .web-references-menu-title,
-  .web-references-menu-sticky-inner > h5 {
+  .web-grid-two-side-navs .web-references-menu-sticky-inner > .web-references-menu-title,
+  .web-grid-two-side-navs .web-references-menu-sticky-inner > h5 {
     flex-shrink: 0;
   }
 
   .web-grid-two-side-navs .web-references-menu-content > .docs-toc-body,
-  .web-references-menu-sticky-inner > .docs-toc-body {
+  .web-grid-two-side-navs .web-references-menu-sticky-inner > .docs-toc-body {
     position: relative;
     display: flex;
     flex-direction: column;
@@ -226,10 +228,35 @@
   }
 
   .web-grid-two-side-navs .web-references-menu-content > .docs-toc-body > .web-references-menu-list,
-  .web-references-menu-sticky-inner > .docs-toc-body > .web-references-menu-list {
+  .web-grid-two-side-navs .web-references-menu-sticky-inner > .docs-toc-body > .web-references-menu-list {
     flex: 1 1 0;
     min-block-size: 0;
     max-block-size: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  /*
+   * `DocsOnThisPage` shares `.web-references-menu-sticky-inner` with the tutorial rail, which needs
+   * `flex: 1 1 0` + `min-block-size: 0` so long step lists scroll. For a short heading list, that
+   * chain can resolve to a 0-height scrollport (title stays visible; links disappear).
+   */
+  .web-grid-two-side-navs .web-references-menu-sticky-inner.docs-on-this-page > .docs-toc-body {
+    flex: none;
+    overflow: visible;
+    max-block-size: none;
+  }
+
+  .web-grid-two-side-navs .web-references-menu-sticky-inner.docs-on-this-page
+    > .docs-toc-body
+    > .web-references-menu-list {
+    flex: none;
+    min-block-size: 0;
+    max-block-size: min(
+      37.5rem,
+      max(0px, calc(100dvh - var(--p-grid-huge-navs-secondary-sticky-position) - 9rem))
+    );
     overflow-x: hidden;
     overflow-y: auto;
     overscroll-behavior: contain;

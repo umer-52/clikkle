@@ -2,7 +2,15 @@
 
 import { useState, useEffect, useRef, useCallback } from "react";
 import { cn } from "@/lib/utils";
+import "./scale-section.css";
 
+/**
+ * Parity with `src/routes/(marketing)/(components)/scale.svelte`:
+ * - Copy + KPI grid share `.scale-section__band` (explicit gutters from `appwrite-spacing.css`).
+ * - Padded outer + unpadded inner so `absolute inset-0` grid fills the content strip only
+ *   (same pattern as `Main.svelte` `.aw-header-shell` + inner content).
+ * - Parent page wraps this in `light bg-[#EDEDF0]` like `[variation]/+page.svelte`.
+ */
 const ANIMATION_DURATION = 3;
 
 type StatItem = {
@@ -18,57 +26,18 @@ const defaultStats: StatItem[] = [
   { number: 20, suffix: "B+", description: "monthly database operations" },
 ];
 
-const stories = [
-  {
-    id: "0",
-    name: "Ryan O'Connor",
-    title: "Founder",
-    company: "K-Collect",
-    image: "/clikkle/images/testimonials/ryan-oconner.png",
-    quote: (
-      <>
-        The switch to using Clikkle brought{" "}
-        <span className="text-accent font-semibold">infinite</span> value that I&apos;m still
-        discovering today.
-      </>
-    ),
-  },
-  {
-    id: "1",
-    name: "David Forster",
-    title: "Founder",
-    company: "Open Mind",
-    image: "/clikkle/images/testimonials/david-forster.png",
-    quote: (
-      <>
-        We really loved working with Clikkle for launching our bootstrapped &quot;Open Mind&quot; App —{" "}
-        <span className="text-accent font-semibold">surprisingly easy</span> in React Native.
-      </>
-    ),
-  },
-  {
-    id: "2",
-    name: "Marius Bolik",
-    title: "CTO",
-    company: "mySHOEFITTER",
-    image: "/clikkle/images/testimonials/marius-bolik2.png",
-    quote: (
-      <>
-        Auth and data structures saved us{" "}
-        <span className="text-accent font-semibold">several weeks</span> of engineering time.
-      </>
-    ),
-  },
-] as const;
+const testimonial = {
+  name: "Ryan O'Connor",
+  title: "Founder",
+  company: "K-Collect",
+  image: "/clikkle/images/testimonials/ryan.svg",
+} as const;
 
 function easeOutCubic(t: number): number {
   return 1 - Math.pow(1 - t, 3);
 }
 
 export function ScaleSection() {
-  const sectionRef = useRef<HTMLDivElement>(null);
-  const [activeStoryId, setActiveStoryId] = useState<string>("0");
-  const activeStory = stories.find((s) => s.id === activeStoryId) ?? stories[0];
   const [animatedValues, setAnimatedValues] = useState<number[]>(
     defaultStats.map(() => 0)
   );
@@ -110,31 +79,19 @@ export function ScaleSection() {
     });
   }, []);
 
+  /* scale.svelte `inView` — run when mounted; IO alone often misses / shows 0K+ after Fast Refresh */
   useEffect(() => {
-    const el = sectionRef.current;
-    if (!el) return;
-
-    const observer = new IntersectionObserver(
-      (entries) => {
-        if (entries[0].isIntersecting) {
-          animateNumbers();
-          observer.disconnect();
-        }
-      },
-      { threshold: 0.3 }
-    );
-    observer.observe(el);
-    return () => observer.disconnect();
+    animateNumbers();
   }, [animateNumbers]);
 
   return (
     <div
-      ref={sectionRef}
-      className="light relative -mb-8 flex min-h-[700px] flex-col gap-4 bg-[#EDEDF0] pt-12 pb-20 md:pt-30 md:pb-0"
+      id="scale-section"
+      className="relative -mb-8 flex min-h-[700px] scroll-mt-[calc(4.5rem+1rem)] flex-col gap-4 pt-12 pb-20 md:scroll-mt-24 md:pt-[7.5rem] md:pb-0"
     >
-      {/* Text content */}
-      <div className="relative z-50 container mx-auto w-fit px-4 md:w-full">
-        <div className="relative z-50 md:max-w-xl">
+      {/* Same horizontal band as stats (`scale-section.css` = appwrite-spacing breakpoints) */}
+      <div className="scale-section__band relative z-[100]">
+        <div className="relative z-[100] w-fit max-w-full md:w-full md:max-w-xl">
           <h2 className="font-aeonik-pro text-title text-primary tracking-tighter text-pretty">
             Thousands of developers{" "}
             <span className="text-secondary">scale with Clikkle</span>
@@ -142,118 +99,90 @@ export function ScaleSection() {
           </h2>
           <p className="text-secondary border-accent mt-5 border-l-2 pl-4 font-medium md:pr-28">
             <span className="text-accent">&ldquo;</span>
-            {activeStory.quote}
+            The switch to using Clikkle brought{" "}
+            <span className="text-accent font-semibold">infinite</span>{" "}
+            value that I&apos;m still discovering today.
             <span className="text-accent">&rdquo;</span>
           </p>
-
-          <fieldset className="mt-5 ml-4 border-0 p-0">
-            <legend className="sr-only">Customer story</legend>
-            <div className="flex flex-wrap gap-3">
-              {stories.map((s) => (
-                <label
-                  key={s.id}
-                  className={cn(
-                    "inline-flex cursor-pointer items-center gap-2 rounded-full border px-3 py-1 text-caption font-medium transition-colors",
-                    activeStoryId === s.id
-                      ? "border-accent bg-accent/10 text-primary"
-                      : "border-white/10 text-secondary hover:border-white/20 hover:text-primary"
-                  )}
-                >
-                  <input
-                    type="radio"
-                    name="scale-story"
-                    value={s.id}
-                    checked={activeStoryId === s.id}
-                    onChange={() => setActiveStoryId(s.id)}
-                    className="sr-only"
-                  />
-                  <span>{s.company}</span>
-                </label>
-              ))}
-            </div>
-          </fieldset>
 
           <div className="mt-4 ml-4 flex items-center gap-3">
             <img
               loading="lazy"
-              src={activeStory.image}
+              src={testimonial.image}
               className="size-6 rounded-full"
-              alt=""
+              alt={`${testimonial.company} logo`}
               width={24}
               height={24}
             />
-            <div className="flex gap-1">
-              <span className="text-sub-body text-primary block font-medium">{activeStory.name},</span>
-              <span className="text-sub-body text-secondary block font-medium">
-                {activeStory.title} at {activeStory.company}
+            <div className="flex flex-wrap gap-x-1">
+              <span className="text-sub-body text-primary font-medium">
+                {testimonial.name},
+              </span>
+              <span className="text-sub-body text-secondary font-medium">
+                {testimonial.title} at {testimonial.company}
               </span>
             </div>
           </div>
         </div>
       </div>
 
-      {/* Mobile stats (stacked) */}
       <div className="z-0 mt-12 block space-y-8 md:hidden">
-        {defaultStats.map((stat, i) => (
-          <div key={stat.description} className="h-full pl-6">
-            <div className="relative">
-              <span className="text-description text-primary border-accent relative -left-px z-10 border-l-2 pl-4 font-medium">
-                {animatedValues[i]}
-                {stat.suffix}
-              </span>
-              <span className="text-body text-secondary block pl-4">
-                {stat.description}
-              </span>
+        <div className="scale-section__band">
+          {defaultStats.map((stat, i) => (
+            <div key={stat.description} className="h-full py-1">
+              <div className="relative pl-2">
+                <span className="text-description text-primary border-accent relative -left-px z-10 border-l pl-4 font-medium">
+                  {animatedValues[i]}
+                  {stat.suffix}
+                </span>
+                <span className="text-body text-secondary block pl-4">
+                  {stat.description}
+                </span>
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
 
-      {/* Desktop stats (4 columns with gradient) */}
-      <div
-        className={cn("absolute inset-0 mt-32 hidden md:block", {
-          "animate-wipe-in": isVisible,
-        })}
-      >
-        <div className="relative container mx-auto h-full px-4">
-          <div className="absolute inset-0 z-10 grid grid-cols-4">
-            {defaultStats.map((stat, i) => (
-              <div
-                key={stat.description}
-                className="relative h-full border-l border-dashed border-greyscale-200"
-              >
+      <div className="absolute inset-0 z-0 mt-32 hidden md:block">
+        <div className="scale-section__band relative h-full min-h-0">
+          <div className="relative h-full min-h-0">
+            <div className="absolute inset-0 z-10 grid min-w-0 grid-cols-4">
+              {defaultStats.map((stat, i) => (
                 <div
-                  className="absolute"
-                  style={{
-                    bottom: `calc(50px + ${25 + (75 / 3) * (i / 2)}%)`,
-                  }}
+                  key={stat.description}
+                  className="relative h-full border-l border-dashed border-greyscale-200"
                 >
-                  <span className="text-description text-primary border-accent relative -left-px z-50 border-l-2 pl-4 font-medium">
-                    {animatedValues[i]}
-                    {stat.suffix}
-                  </span>
-                  <span className="text-body text-secondary block pl-4">
-                    {stat.description}
-                  </span>
+                  <div
+                    className="absolute"
+                    style={{
+                      bottom: `calc(50px + ${25 + (75 / 3) * (i / 2)}%)`,
+                    }}
+                  >
+                    <span className="text-description text-primary border-accent relative -left-px z-[100] block border-l pl-4 font-medium">
+                      {animatedValues[i]}
+                      {stat.suffix}
+                    </span>
+                    <span className="text-body text-secondary block pl-4">
+                      {stat.description}
+                    </span>
+                  </div>
                 </div>
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
         </div>
 
-        {/* Gradient wedge + edge line — parity with scale.svelte */}
         <div
-          className="from-accent/15 absolute inset-0 bg-gradient-to-tr to-transparent"
-          style={{
-            clipPath: "polygon(0 100%, 100% 25%, 100% 100%, 0 100%)",
-          }}
-        />
-        <div
-          className="from-accent absolute inset-0 bg-gradient-to-r to-transparent"
-          style={{
-            clipPath: "polygon(0 100%, 100% 25%, 100% 25.1%, 0 100.1%)",
-          }}
-        />
+          className={cn(
+            "pointer-events-none absolute inset-0",
+            isVisible && "animate-wipe-in"
+          )}
+          aria-hidden
+        >
+          <div className="from-accent/15 absolute inset-0 bg-gradient-to-tr to-transparent [clip-path:polygon(0_100%,_100%_25%,_100%_100%,_0_100%)]" />
+          <div className="from-accent absolute inset-0 bg-gradient-to-r to-transparent [clip-path:polygon(0_100%,_100%_25%,_100%_25.1%,_0_100.1%)]" />
+        </div>
       </div>
     </div>
   );

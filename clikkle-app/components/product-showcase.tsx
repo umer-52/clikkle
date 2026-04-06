@@ -25,7 +25,7 @@ export function ProductShowcase() {
   ];
 
   return (
-    <div className="container py-20">
+    <div className="appwrite-container py-20">
       <div className="mx-auto mb-16 flex max-w-5xl flex-col gap-8">
         <h2 className="text-primary font-aeonik-pro text-title mx-auto max-w-lg text-center">
           Build like a team of hundreds
@@ -83,7 +83,7 @@ export function ProductShowcase() {
         </div>
       </div>
 
-      <div className="flex flex-col gap-8 md:grid md:grid-cols-12">
+      <div className="flex w-full min-w-0 flex-col gap-8 md:grid md:grid-cols-12">
           <BentoAuth />
           <BentoDatabases />
           <BentoStorage />

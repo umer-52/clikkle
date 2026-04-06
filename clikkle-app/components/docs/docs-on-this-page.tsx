@@ -174,7 +174,7 @@ export function DocsOnThisPage({ items }: { items: DocsOnThisPageItem[] }) {
   if (!items.length) return null;
 
   return (
-    <div className="web-references-menu-content web-references-menu-sticky-inner">
+    <div className="web-references-menu-content web-references-menu-sticky-inner docs-on-this-page">
       <h5 className="web-references-menu-title text-eyebrow font-aeonik-fono uppercase">
         On This Page
       </h5>

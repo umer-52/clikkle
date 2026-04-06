@@ -9,12 +9,13 @@ export function DashboardIllustration() {
   return (
     <div
       className={cn(
-        "bg-smooth -mb-108 max-w-[150vw] translate-x-8 -translate-y-32 scale-70 overflow-hidden rounded-t-2xl border-x border-t border-white/10 px-2 pt-2 backdrop-blur-2xl md:mt-12 md:mb-0 md:ml-24 md:translate-x-1/4 md:translate-y-0 md:scale-100 lg:ml-12 ",
+        /* Mobile: scale/stack; md+: natural mock width (bleed right) — avoid max-w-full squish + left chrome clip */
+        "bg-smooth -mb-108 w-full min-w-0 max-w-full translate-x-8 -translate-y-32 scale-70 overflow-visible rounded-t-2xl border-x border-t border-white/10 px-2 pt-2 backdrop-blur-2xl md:mt-12 md:mb-0 md:w-max md:max-w-none md:translate-x-0 md:translate-y-0 md:scale-100",
         "mask-b-from-0% mask-b-to-70% md:mask-b-to-100%"
       )}
     >
-      <div className="bg-greyscale-900 h-full overflow-hidden rounded-t-xl">
-        <div id="top-nav">
+      <div className="bg-greyscale-900 h-full min-w-0 w-full max-w-full overflow-hidden rounded-t-xl max-md:[&_svg]:max-w-full md:w-max md:max-w-none [&_svg]:block [&_svg]:h-auto [&_svg]:min-w-0 md:[&_svg]:max-w-none">
+        <div id="top-nav" className="min-w-0">
             <svg
                 width="736"
                 height="46"
@@ -87,8 +88,8 @@ export function DashboardIllustration() {
 
             </svg>
         </div>
-        <div className="flex">
-            <div id="sidebar">
+        <div className="flex w-full min-w-0 md:w-max">
+            <div id="sidebar" className="shrink-0">
                 <svg
                     width="137"
                     height="598"
@@ -255,8 +256,8 @@ export function DashboardIllustration() {
                     </defs>
                 </svg>
             </div>
-            <div id="body" className="flex flex-col">
-                <div className="header relative z-0">
+            <div id="body" className="flex min-w-0 flex-1 flex-col overflow-hidden">
+                <div className="header relative z-0 min-w-0">
                     <svg
                         width="1048"
                         height="131"
@@ -1122,8 +1123,8 @@ export function DashboardIllustration() {
                 </div>
             </div>
         </div>
+      </div>
     </div>
-</div>
   );
 }
 

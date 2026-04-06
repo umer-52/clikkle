@@ -2,11 +2,10 @@
 
 import Link from "next/link";
 import { useEffect, useState, useRef } from "react";
-import { X } from "lucide-react";
+import { Star, X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { ProductsMegaMenu } from "./products-mega-menu";
-import { GithubHeaderStar } from "@/components/github-header-star";
 import { stripBasePathFromPathname } from "@/lib/basepath";
 
 /** Docs layout provides its own chrome; hide marketing header on all `/docs` URLs. */
@@ -49,13 +48,19 @@ export function SiteHeader() {
     return null;
   }
 
+  /* Appwrite `Main.svelte` `navLinks` — same labels, order, and routing shape (Clikkle paths). */
   const navLinks = [
-    { label: 'Products', href: '/products', match: (p: string) => p.startsWith('/products') },
-    { label: 'Docs', href: '/docs', match: (p: string) => p.startsWith('/docs') },
-    { label: 'Pricing', href: '/pricing', match: (p: string) => p.startsWith('/pricing') },
-    { label: 'Customers', href: '/customers', match: (p: string) => p.includes('customer-stories') },
-    { label: 'Blog', href: '/blog', match: (p: string) => p.startsWith('/blog') },
-    { label: 'Changelog', href: '/changelog', match: (p: string) => p.startsWith('/changelog') },
+    { label: "Products", href: "/products", match: (p: string) => p.startsWith("/products") },
+    { label: "Docs", href: "/docs", match: (p: string) => p.startsWith("/docs") },
+    { label: "Pricing", href: "/pricing", match: (p: string) => p.startsWith("/pricing") },
+    {
+      label: "Customers",
+      href: "/blog/category/customer-stories",
+      match: (p: string) =>
+        p.includes("customer-stories") || p.startsWith("/customers"),
+    },
+    { label: "Blog", href: "/blog", match: (p: string) => p.startsWith("/blog") },
+    { label: "Changelog", href: "/changelog", match: (p: string) => p.startsWith("/changelog") },
   ];
 
   const GITHUB_STARS = "55.2K";
@@ -68,9 +73,16 @@ export function SiteHeader() {
         {/* Appwrite `Main.svelte`: flat shell — logo, nav, actions as siblings; `gap: 2rem`; `lg` = 1024px */}
         <div className="aw-header-shell">
           {/* Appwrite `Main.svelte`: logo image `height="24"` — keep wordmark compact for 72px bar */}
-          <Link className="aw-logo-link aw-focus-ring flex shrink-0 items-center gap-2" href="/" aria-label="Clikkle home">
-            <Image src="/clikkle/images/logos/logo.svg" alt="Clikkle" width={24} height={24} className="h-6 w-auto object-contain" priority />
-            <span className="font-display text-lg font-bold leading-none tracking-tight text-white">Clikkle</span>
+          {/* Appwrite `Main.svelte`: `<img ... height="24" width="130" />` — fixed wordmark box for layout parity */}
+          <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
+            <Image
+              src="/clikkle/images/logos/clikkle-header-wordmark.svg"
+              alt="Clikkle"
+              width={130}
+              height={24}
+              className="block h-6 w-[130px] shrink-0 object-contain object-left"
+              priority
+            />
           </Link>
 
           <nav className="aw-header-nav hidden lg:flex" aria-label="Primary navigation">
@@ -100,7 +112,7 @@ export function SiteHeader() {
               rel="noopener noreferrer"
               aria-label="Star Clikkle on GitHub"
             >
-              <GithubHeaderStar className="size-4 shrink-0" aria-hidden />
+              <Star className="size-4 shrink-0" aria-hidden strokeWidth={1.5} />
               <span className="text">Star on GitHub</span>
               <span className="web-inline-tag">{GITHUB_STARS}</span>
             </a>
@@ -152,9 +164,15 @@ export function SiteHeader() {
           ref={mobileNavPanel as any}
         >
           <div className="aw-mobile-panel-header">
-            <Link className="aw-logo-link aw-focus-ring shrink-0 flex items-center gap-2" href="/" aria-label="Clikkle home">
-              <Image src="/clikkle/images/logos/logo.svg" alt="Clikkle" width={24} height={24} className="h-6 w-auto object-contain" priority />
-              <span className="font-display text-lg font-bold leading-none tracking-tight text-white">Clikkle</span>
+            <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
+              <Image
+                src="/clikkle/images/logos/clikkle-header-wordmark.svg"
+                alt="Clikkle"
+                width={130}
+                height={24}
+                className="block h-6 w-[130px] shrink-0 object-contain object-left"
+                priority
+              />
             </Link>
 
             <button
@@ -194,7 +212,7 @@ export function SiteHeader() {
               rel="noopener noreferrer"
               aria-label="Star Clikkle on GitHub"
             >
-              <GithubHeaderStar className="size-4 shrink-0" aria-hidden />
+              <Star className="size-4 shrink-0" aria-hidden strokeWidth={1.5} />
               <span className="text">Star on GitHub</span>
               <span className="web-inline-tag">{GITHUB_STARS}</span>
             </a>

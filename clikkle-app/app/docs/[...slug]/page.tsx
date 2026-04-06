@@ -544,31 +544,9 @@ export default async function DocPage({ params }: { params: Promise<{ slug: stri
         {mainBody}
       </div>
 
-      <aside className="relative z-0 hidden w-[240px] shrink-0 pl-1 xl:block">
+      <aside className="web-references-menu relative z-0 hidden w-[240px] shrink-0 ps-6 xl:block">
         <div className="sticky top-16 max-h-[calc(100vh-4rem)] overflow-y-auto pb-8 pr-4 pt-16 hide-scrollbar">
-          {doc.toc && doc.toc.length > 0 ? (
-            <div className="relative">
-              <h4 className="mb-4 text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)] dark:text-white/50">
-                On this page
-              </h4>
-              <nav className="relative flex flex-col space-y-3 border-l border-l-transparent border-[var(--color-border-subtle)] pl-4 dark:border-white/10">
-                <div className="absolute bottom-0 left-[-1px] top-0 w-px bg-[var(--color-border-subtle)] transition-colors dark:bg-white/10" />
-                {doc.toc.map((heading) => (
-                  <NextLink
-                    key={heading.id}
-                    href={`#${heading.id}`}
-                    className={`block py-1 text-sm font-medium transition-colors hover:text-[var(--color-text-primary)] dark:hover:text-white ${
-                      heading.level === 3
-                        ? "pl-4 text-[var(--color-text-muted)] dark:text-white/50"
-                        : "text-[var(--color-text-secondary)] dark:text-white/60"
-                    }`}
-                  >
-                    {heading.title}
-                  </NextLink>
-                ))}
-              </nav>
-            </div>
-          ) : null}
+          {doc.toc && doc.toc.length > 0 ? <DocsOnThisPage items={doc.toc} /> : null}
         </div>
       </aside>
     </div>

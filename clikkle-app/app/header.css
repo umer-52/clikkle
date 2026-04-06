@@ -11,36 +11,37 @@
     block-size: 4.5rem; /* 72px — `Main.svelte` `block-size: 72px` */
     padding-inline: 0;
     border-block-end: 1px solid rgba(255, 255, 255, 0.08);
-    /* `is-transparent` + [data-js-enabled]: clear bg + light blur */
-    background-color: transparent;
-    -webkit-backdrop-filter: blur(0.625rem); /* pxToRem(10) */
-    backdrop-filter: blur(0.625rem);
+    /* `Main.svelte` — static glass bar (scroll only adds shadow) */
+    background: rgba(25, 25, 28, 0.78);
+    -webkit-backdrop-filter: blur(24px);
+    backdrop-filter: blur(24px);
     transition:
-        background-color 0.3s ease,
-        box-shadow 0.3s ease,
-        border-color 0.3s ease,
-        -webkit-backdrop-filter 0.3s ease,
-        backdrop-filter 0.3s ease;
+        box-shadow 300ms ease,
+        border-color 300ms ease,
+        background-color 300ms ease,
+        -webkit-backdrop-filter 300ms ease,
+        backdrop-filter 300ms ease;
 }
 
 .aw-header.aw-header-scrolled {
-    background-color: rgba(15, 15, 19, 0.78);
-    -webkit-backdrop-filter: blur(0.625rem);
-    backdrop-filter: blur(0.625rem);
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
 }
 
-/* Appwrite `Main.svelte` `.aw-header-shell` — marketing header (not docs `web-main-header-wrapper`) */
+/* Appwrite `Main.svelte` `.aw-header-shell` — marketing header (not docs `web-main-header-wrapper`).
+   Box model duplicated from `globals.css` `@utility container` / `.appwrite-container` so the bar matches
+   bento + sections even if Tailwind’s `container` utility does not apply here (layer / ordering). */
+/* Mobile / tablet: flex + `margin-inline-start: auto` on actions (Appwrite `Main.svelte`). */
 .aw-header-shell {
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
     gap: 2rem; /* `Main.svelte` logo ↔ nav (32px) */
-    inline-size: min(100%, calc(var(--container-max-width) + (var(--container-padding-inline) * 2)));
     block-size: 100%; /* `Main.svelte` — fill fixed 72px header for vertical centering */
-    margin-inline: auto;
-    padding-inline: var(--container-padding-inline, 1.5rem);
     box-sizing: border-box;
+    width: min(100%, calc(var(--container-max-width) + (var(--container-padding-inline) * 2)));
+    max-width: calc(var(--container-max-width) + (var(--container-padding-inline) * 2)) !important;
+    margin-inline: auto;
+    padding-inline: var(--container-padding-inline) !important;
 }
 
 /*
@@ -50,7 +51,7 @@
 .aw-products-mega-panel-host {
     pointer-events: none;
     position: fixed;
-    inset-inline: var(--container-padding-inline, 1.25rem);
+    inset-inline: var(--container-padding-inline, 24px);
     top: 4.5rem; /* below 72px header */
     z-index: 1002;
     display: flex;
@@ -61,7 +62,7 @@
 
 @media (min-width: 1024px) {
     .aw-products-mega-panel-host {
-        inset-inline: var(--container-padding-inline, 1.5rem);
+        inset-inline: var(--container-padding-inline, 24px);
     }
 }
 
@@ -84,14 +85,16 @@
 .aw-header-nav {
     display: none;
     align-items: center;
-    gap: 32px; /* `Main.svelte` `.aw-header-nav` */
     flex-shrink: 0;
-    font-size: 1rem;
-    font-weight: 500; /* `Main.svelte` `.aw-header-link` */
+    gap: 32px; /* `Main.svelte` `.aw-header-nav` — widened at `lg` via clamp below */
     user-select: none;
 }
 
-/* Products trigger: same metrics as `.aw-header-link` anchors */
+.aw-header-nav > * {
+    flex-shrink: 0;
+}
+
+/* Products trigger: same metrics as `.aw-header-link` anchors; chevron gap matches `.aw-github-button` rhythm */
 .aw-header-nav button.aw-header-link {
     font: inherit;
     text-align: inherit;
@@ -101,7 +104,7 @@
     cursor: pointer;
     display: inline-flex;
     align-items: center;
-    gap: 0.25rem;
+    gap: 10px;
 }
 
 .aw-header-link,
@@ -109,7 +112,7 @@
     position: relative;
     color: rgba(250, 250, 251, 0.92);
     font-family: var(--font-family-primary, 'Inter', sans-serif);
-    font-size: inherit;
+    font-size: 16px; /* `Main.svelte` `.aw-header-link` */
     font-weight: 500;
     line-height: 1.5;
     text-decoration: none;
@@ -146,13 +149,13 @@
     align-items: center;
     justify-content: flex-end;
     margin-inline-start: auto;
-    gap: 0.5rem; /* docs `web-main-header-end` + row `gap-2` */
+    gap: 12px; /* `Main.svelte` `.aw-header-actions` */
     flex-shrink: 0;
 }
 
 /*
  * Landing GitHub — `web-button is-text` + glass hover from `docs-header.css` (loaded in root `layout.tsx`).
- * Metrics match `globals.css` `.docs-route-shell .web-main-header .web-button`.
+ * Geometry matches Appwrite `Main.svelte` `.aw-github-button` / `.aw-github-count`.
  */
 .aw-cta-button,
 .aw-menu-button,
@@ -181,19 +184,20 @@
  */
 .aw-header .web-button.is-text,
 .aw-mobile-actions .web-button.is-text {
-    gap: 8px;
-    min-block-size: 40px;
-    padding-block: 7px;
-    padding-inline: 14px;
-    border-radius: 6px;
+    /* Match appwrite.io header: "link-style" GitHub control (no container) */
+    gap: 10px;
+    min-block-size: 44px;
+    padding: 0;
+    border-radius: 0;
     font-family: var(--font-family-primary, 'Inter', sans-serif);
     font-size: 16px;
     font-weight: 500;
-    line-height: 1;
+    line-height: 1.5;
     white-space: nowrap;
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    background: rgba(255, 255, 255, 0.06);
+    border: 0;
+    background: transparent;
     color: rgba(250, 250, 251, 0.92);
+    box-shadow: none;
     transition:
         color 200ms ease,
         border-color 200ms ease,
@@ -206,11 +210,28 @@
 .aw-header .aw-header-actions > a.web-button.is-text:hover:not(:disabled),
 .aw-mobile-actions > a.web-button.is-text:hover:not(:disabled) {
     color: #2d63ff;
-    border-color: rgba(45, 99, 255, 0.35);
-    background: rgba(255, 255, 255, 0.1);
+    border-color: transparent;
+    background: transparent;
     box-shadow: none;
     -webkit-backdrop-filter: none;
     backdrop-filter: none;
+}
+
+/* `Main.svelte` `.aw-github-count` — star count pill (neutral; not CTA color) */
+.aw-header .web-button.is-text .web-inline-tag,
+.aw-mobile-actions .web-button.is-text .web-inline-tag {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-inline-size: 3.75rem;
+    margin-inline-end: 0;
+    padding: 4px 8px;
+    border-radius: var(--radius-full); /* `Main.svelte` */
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(250, 250, 251, 0.65);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.4;
 }
 
 /* Close button icon in mobile drawer */
@@ -221,12 +242,12 @@
 
 .aw-cta-button {
     display: none;
-    gap: 8px;
+    /* Match appwrite.io header button proportions */
     min-block-size: 40px;
     padding-block: 7px;
     padding-inline: 14px;
     border-radius: 6px;
-    border: solid 1px rgba(255, 255, 255, 0.1);
+    border: 0;
     color: #fff;
     font-family: var(--font-family-primary, 'Inter', sans-serif);
     font-size: 16px;
@@ -246,22 +267,7 @@
 
 .aw-cta-button:hover {
     background: linear-gradient(180deg, #4d86ff 0%, #356ef8 45%, #2a5feb 100%);
-    box-shadow:
-        inset 0 1px 0 rgba(255, 255, 255, 0.26),
-        0 6px 18px rgba(45, 99, 255, 0.28);
-}
-
-@media (min-width: 1024px) and (max-width: 1279.98px) {
-    .aw-header .web-button.is-text,
-    .aw-cta-button {
-        min-block-size: 36px;
-        padding-inline: 12px;
-        font-size: 14px;
-    }
-
-    .aw-header-actions .web-inline-tag {
-        display: none !important;
-    }
+    box-shadow: 0 8px 24px rgba(45, 99, 255, 0.35);
 }
 
 /* `Main.svelte` `.aw-menu-button` + `.aw-close-button` */
@@ -326,7 +332,7 @@
     inline-size: min(100%, 24rem);
     block-size: 100vh;
     padding: 24px;
-    background: var(--bg-primary);
+    background: #19191c; /* `Main.svelte` `.aw-mobile-panel` */
     box-shadow: -12px 0 48px rgba(0, 0, 0, 0.45);
     transform: translateX(100%);
     transition: transform 300ms ease;
@@ -400,8 +406,22 @@
 
 /* `Main.svelte`: desktop nav + buttons from 1024px (`lg`) */
 @media (min-width: 1024px) {
+    /*
+     * Appwrite: one flex row — logo, nav, actions with `margin-inline-start: auto` on actions so the
+     * gap before GitHub/CTA opens up. A grid + `overflow-x: auto` on nav clipped “Changelog” against
+     * the actions column; stay on flex and tighten gaps on mid-width viewports instead.
+     */
+    .aw-header-shell {
+        gap: clamp(1rem, 2.2vw, 2rem);
+    }
+
     .aw-header-nav {
         display: flex;
+        gap: clamp(0.75rem, 1.75vw, 2rem);
+    }
+
+    .aw-header-actions {
+        margin-inline-start: auto;
     }
 
     .aw-header-actions > a.web-button.is-text,
@@ -412,5 +432,17 @@
     .aw-menu-button,
     .aw-mobile-overlay {
         display: none;
+    }
+}
+
+/* Mid-width desktop: Blog + Changelog need a few extra pixels so links don’t crowd GitHub / CTA */
+@media (min-width: 1024px) and (max-width: 1279px) {
+    .aw-header-link,
+    .aw-header-nav button.aw-header-link {
+        font-size: 15px;
+    }
+
+    .aw-header .web-button.is-text {
+        font-size: 15px;
     }
 }

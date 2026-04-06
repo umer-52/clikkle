@@ -543,6 +543,58 @@
         background: rgba(255, 255, 255, 0.06);
     }
 
+    /*
+     * Light marketing bands (e.g. Network map): Appwrite “More about the Network” — brand text,
+     * soft brand tint fill, solid brand border. Do not use `.web-btn-secondary` there (dark-theme).
+     */
+    .web-btn-secondary-light {
+        color: var(--color-brand-primary, #2d63ff);
+        font-weight: 500;
+        border: 1px solid var(--color-brand-primary, #2d63ff);
+        background-color: color-mix(
+            in srgb,
+            var(--color-brand-primary, #2d63ff) 10%,
+            #ffffff
+        );
+        box-shadow: none;
+    }
+
+    .web-btn-secondary-light:hover {
+        background-color: color-mix(
+            in srgb,
+            var(--color-brand-primary, #2d63ff) 14%,
+            #ffffff
+        );
+        border-color: var(--color-brand-primary, #2d63ff);
+        color: var(--color-brand-primary, #2d63ff);
+    }
+
+    .web-btn-secondary-light:focus-visible {
+        outline: 2px solid var(--color-brand-primary, #2d63ff);
+        outline-offset: 2px;
+    }
+
+    /* Appwrite arena “View full benchmark” soft halo — Clikkle brand blue (`--color-brand-primary`) */
+    .web-btn-secondary.ai-benchmark-soft-glare {
+        border-color: rgba(255, 255, 255, 0.12);
+        background: rgba(255, 255, 255, 0.04);
+        box-shadow:
+            0 0 0 1px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 22%, transparent),
+            0 2px 26px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 32%, transparent),
+            0 10px 56px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 18%, transparent),
+            inset 0 1px 0 rgba(255, 255, 255, 0.07);
+    }
+
+    .web-btn-secondary.ai-benchmark-soft-glare:hover {
+        border-color: rgba(255, 255, 255, 0.2);
+        background: rgba(255, 255, 255, 0.07);
+        box-shadow:
+            0 0 0 1px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 32%, transparent),
+            0 4px 32px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 42%, transparent),
+            0 14px 72px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 22%, transparent),
+            inset 0 1px 0 rgba(255, 255, 255, 0.09);
+    }
+
     .web-btn-outline {
         border-color: rgba(0, 0, 0, 0.1);
         background: transparent;

@@ -15,6 +15,7 @@ interface MapTooltipProps {
     tooltipData: TooltipData;
 }
 
+/** Classes from `src/lib/components/appwrite-network/map-tooltip.svelte` */
 export function MapTooltip({ x, y, theme = 'light', tooltipData }: MapTooltipProps) {
     if (!tooltipData.city) return null;
 
@@ -25,8 +26,8 @@ export function MapTooltip({ x, y, theme = 'light', tooltipData }: MapTooltipPro
         >
             <div
                 className={cn(
-                    'relative z-[100] flex w-[190px] flex-col gap-2 rounded-[10px] p-2 backdrop-blur-lg border border-black/10',
-                    theme === 'dark' ? 'bg-transparent border-white/10' : 'bg-white'
+                    'border-gradient relative z-[100] flex w-[190px] flex-col gap-2 rounded-[10px] p-2 backdrop-blur-lg before:rounded-[10px] after:rounded-[10px]',
+                    theme === 'dark' ? 'bg-transparent' : 'bg-white'
                 )}
             >
                 <AnimatePresence mode="wait">
@@ -36,7 +37,7 @@ export function MapTooltip({ x, y, theme = 'light', tooltipData }: MapTooltipPro
                         animate={{ y: 0, filter: 'blur(0px)', opacity: 1 }}
                         exit={{ opacity: 0 }}
                         transition={{ duration: 0.2 }}
-                        className={cn("text-caption font-medium w-fit", theme === 'dark' ? "text-white" : "text-[#19191C]")}
+                        className="text-primary text-caption w-fit"
                     >
                         {tooltipData.city} ({tooltipData.code})
                     </motion.span>
@@ -45,24 +46,22 @@ export function MapTooltip({ x, y, theme = 'light', tooltipData }: MapTooltipPro
                 {tooltipData.available ? (
                     <div
                         className={cn(
-                            'text-caption flex h-5 items-center justify-center place-self-start rounded-md p-2 text-center',
+                            'text-caption flex h-5 items-center justify-center place-self-start rounded-md p-1 text-center',
                             theme === 'light'
                                 ? 'bg-[#10B981]/16 text-[#0A714F]'
                                 : 'bg-[#10B981]/24 text-[#B4F8E2]'
                         )}
                     >
-                        <span className="text-[10px] uppercase font-semibold tracking-wider font-aeonik-fono">Available now</span>
+                        <span className="text-eyebrow -tracking-tight">Available now</span>
                     </div>
                 ) : (
                     <div
                         className={cn(
-                            'text-caption flex h-5 items-center justify-center place-self-start rounded-md p-2 text-center',
-                            theme === 'light'
-                                ? 'bg-black/5 text-[#19191C]'
-                                : 'bg-white/10 text-white'
+                            'text-caption text-primary flex h-5 items-center justify-center place-self-start rounded-md p-1 text-center',
+                            theme === 'light' ? 'bg-black/6 text-primary' : 'bg-white/6 text-primary'
                         )}
                     >
-                        <span className="text-[10px] uppercase font-semibold tracking-wider font-aeonik-fono">{tooltipData.date}</span>
+                        <span className="text-eyebrow -tracking-tight">{tooltipData.date}</span>
                     </div>
                 )}
             </div>

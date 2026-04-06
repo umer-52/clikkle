@@ -1,4 +1,5 @@
 import { HeroSection } from "@/components/hero-section";
+import { CustomerStories } from "@/components/customer-stories";
 import { PlatformsGrid } from "@/components/platforms-grid";
 import { LogosBar } from "@/components/logos-bar";
 import { ProductShowcase } from "@/components/product-showcase";
@@ -45,12 +46,17 @@ export default function Home() {
       {/* 6. AI — matches ai.svelte */}
       <AIWorkflows />
 
+      {/* Customer stories — below AI dashboard, above SecurityFeatures (“Safely scale…”) */}
+      <CustomerStories />
+
       {/* 7–8. Light band — features.svelte + network-map.svelte (live marketing parity) */}
       <SecurityFeatures />
       <NetworkMap />
 
-      {/* 9. Scale / stats — scale.svelte (staggered KPIs + testimonial) */}
-      <ScaleSection />
+      {/* 9. Scale / stats — `src/routes/[variation]/+page.svelte`: `light bg-[#EDEDF0]` wraps Map+Scale */}
+      <div className="light bg-[#EDEDF0]">
+        <ScaleSection />
+      </div>
 
       {/* 10. Pricing — matches pricing.svelte */}
       <PricingSection />

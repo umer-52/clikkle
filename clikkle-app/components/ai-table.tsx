@@ -162,7 +162,7 @@ export function AiTable() {
             href="https://arena.clikkle.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="web-btn web-btn-secondary aw-focus-ring w-full justify-center sm:w-auto"
+            className="web-btn web-btn-secondary ai-benchmark-soft-glare aw-focus-ring w-full justify-center sm:w-auto"
           >
             View full benchmark
           </a>

@@ -56,7 +56,7 @@
     >
         <Tabs.List
             class={cn(
-                'border-smooth animate-fade-in relative grid w-full max-w-xl grid-cols-1 place-content-center gap-3 overflow-hidden p-1 px-8 shadow-[0px_4px_8p_rgba(0,0,0,0.04)] md:grid-cols-3 md:rounded-full md:border md:px-1',
+                'border-smooth animate-fade-in relative grid w-full max-w-xl grid-cols-1 place-content-center gap-3 overflow-hidden p-1 px-8 shadow-[0px_4px_8px_rgba(0,0,0,0.04)] md:grid-cols-3 md:rounded-full md:border md:px-1',
                 theme === 'light' ? 'md:bg-white' : 'md:bg-card'
             )}
         >

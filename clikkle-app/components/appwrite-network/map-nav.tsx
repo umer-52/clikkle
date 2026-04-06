@@ -2,6 +2,10 @@ import { cn } from '@/lib/utils';
 import { ArrowRight, MapPin, Cloudy, Globe } from 'lucide-react';
 import Link from 'next/link';
 
+/**
+ * DOM + classes from `src/lib/components/appwrite-network/map-nav.svelte`
+ * (Tabs.Root = middle wrapper; outer `gap-4`; List shadow matches `8px` intent — Svelte source typo `8p`).
+ */
 interface MapNavProps {
     activeSegment: string;
     onValueChange: (value: string) => void;
@@ -36,11 +40,11 @@ export function MapNav({ activeSegment, onValueChange, theme = 'dark' }: MapNavP
     const activeItem = navItems.find((item) => item.value === activeSegment) || navItems[0];
 
     return (
-        <div className="flex w-full flex-col gap-4 text-center md:mt-9">
-            <div className="mx-auto flex w-full max-w-xl flex-col items-center justify-center gap-12">
+        <div className="flex w-full flex-col gap-4 text-center">
+            <div className="flex w-full flex-col items-center justify-center gap-12 md:mt-9">
                 <div
                     className={cn(
-                        'border-smooth relative grid w-full max-w-xl grid-cols-1 place-content-center gap-3 overflow-hidden p-1 px-8 shadow-[0px_4px_8px_rgba(0,0,0,0.04)] md:grid-cols-3 md:rounded-full md:border md:px-1',
+                        'border-smooth animate-fade-in relative grid w-full max-w-xl grid-cols-1 place-content-center gap-3 overflow-hidden p-1 px-8 shadow-[0px_4px_8px_rgba(0,0,0,0.04)] md:grid-cols-3 md:rounded-full md:border md:px-1',
                         theme === 'light' ? 'md:bg-white' : 'md:bg-card'
                     )}
                     role="tablist"
@@ -57,20 +61,18 @@ export function MapNav({ activeSegment, onValueChange, theme = 'dark' }: MapNavP
                                 aria-selected={isActive}
                                 onClick={() => onValueChange(item.value)}
                                 className={cn(
-                                    'text-caption animate-enter text-primary bg-smooth border-smooth flex h-8 cursor-pointer items-center justify-center gap-2 rounded-full border font-medium outline-0 transition-colors hover:border-white/12',
+                                    'text-caption animate-enter text-primary bg-smooth border-smooth group flex h-8 cursor-pointer items-center justify-center gap-2 rounded-full border font-medium outline-0 transition-colors hover:border-white/12',
                                     isActive &&
-                                        'border-[color-mix(in_srgb,var(--color-brand-primary)_36%,transparent)] bg-[color-mix(in_srgb,var(--color-brand-primary)_8%,transparent)] text-[var(--color-brand-primary)]',
-                                    !isActive &&
-                                        theme === 'light' &&
-                                        'text-[#19191c] hover:border-black/10'
+                                        'border-accent/36 bg-accent/4 text-accent',
+                                    !isActive && theme === 'light' && 'text-primary'
                                 )}
                                 style={{ animationDelay: `${index * 75}ms` }}
                             >
                                 <Icon
                                     className={cn(
                                         '-ml-2 size-4',
-                                        isActive && 'text-[var(--color-brand-primary)]',
-                                        theme === 'light' && !isActive && 'text-[#19191c]'
+                                        isActive && 'text-accent',
+                                        theme === 'light' && !isActive && 'text-[#19191C]'
                                     )}
                                 />
                                 {item.label}
@@ -90,13 +92,13 @@ export function MapNav({ activeSegment, onValueChange, theme = 'dark' }: MapNavP
 
                 <Link
                     className={cn(
-                        'text-primary group mt-2 flex items-center justify-center gap-0.5 md:hidden',
+                        'text-primary group mt-2 flex items-center justify-center gap-px md:hidden',
                         theme === 'dark' && 'text-white'
                     )}
                     href={activeItem.href}
                 >
                     Learn more about {activeItem.label}
-                    <ArrowRight className="size-4 -rotate-45 transition-all group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+                    <ArrowRight className="size-4 -rotate-45 transition-all group-hover:translate-x-px group-hover:-translate-y-px group-hover:opacity-100 group-focus-visible:translate-x-px group-focus-visible:-translate-y-px group-focus-visible:opacity-100 xl:opacity-0" />
                 </Link>
             </p>
         </div>

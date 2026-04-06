@@ -6,12 +6,8 @@ import { motion, useInView } from "framer-motion";
 import { Mail, MessageSquare, Settings, Calendar } from "lucide-react";
 import { GridPaper } from "./grid-paper";
 
-/** 24h clock with zero-padded hours — avoids SSR/client `toLocaleTimeString` mismatches. */
-function formatTime24h(d: Date): string {
-  const h = d.getHours();
-  const m = d.getMinutes();
-  return `${String(h).padStart(2, "0")}:${String(m).padStart(2, "0")}`;
-}
+/** Decorative status-bar time for the mock UI (must be constant — `new Date()` in render breaks SSR hydration). */
+const MESSAGING_MOCK_CLOCK = "09:41";
 
 function useMediaQuery(query: string) {
   const [matches, setMatches] = useState(false);
@@ -39,7 +35,7 @@ export function BentoMessaging() {
       href="/products/messaging"
       onPointerEnter={() => setHovered(true)}
       onPointerLeave={() => setHovered(false)}
-      className="border-smooth group/messaging col-span-12 flex flex-col rounded-2xl border bg-white/2 p-2 transition-shadow duration-300 hover:shadow-[0px_0px_0px_4px_var(--color-offset)] focus:shadow-[0px_0px_0px_4px_var(--color-offset)] md:col-span-6 lg:col-span-4"
+      className="border-smooth group/messaging col-span-12 flex min-w-0 w-full flex-col rounded-2xl border bg-white/2 p-2 transition-shadow duration-300 hover:shadow-[0px_0px_0px_4px_var(--color-offset)] focus:shadow-[0px_0px_0px_4px_var(--color-offset)] md:col-span-6 lg:col-span-4"
     >
       <div className="space-y-3 px-3 pt-2 pb-4">
         <div className="flex items-center gap-2">
@@ -99,7 +95,7 @@ export function BentoMessaging() {
           <div className="m-2 flex-1 rounded-t-[34px] bg-[#19191C]">
             <div className="flex items-center justify-between px-8 pt-4">
               <span className="leading-micro w-10 text-[0.625rem] font-semibold tracking-tighter text-white">
-                {formatTime24h(new Date())}
+                {MESSAGING_MOCK_CLOCK}
               </span>
               <div className="h-5 w-[84px] rounded-full bg-black" />
               <div className="h-3 w-7 rounded-full bg-black" />

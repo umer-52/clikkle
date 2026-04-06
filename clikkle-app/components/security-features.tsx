@@ -66,10 +66,10 @@ export function SecurityFeatures() {
         <section className="flex flex-col gap-4 lg:flex-row lg:items-baseline lg:gap-x-20">
           <h2 className="text-title font-aeonik-pro text-primary max-w-[700px] text-3xl leading-12 text-pretty sm:text-4xl md:text-5xl">
             Safely scale with built-in
-            <span className="whitespace-nowrap"> security and compliance</span>
+            <span className="whitespace-nowrap">security and compliance</span>
             <span className="text-accent">_</span>
           </h2>
-          <p className="text-description text-secondary mt-4 max-w-full font-medium lg:max-w-xl">
+          <p className="text-secondary text-description mt-4 max-w-full font-medium lg:max-w-xl">
             With a security-first approach, we ensure your products and users
             are safe by default, making it easy for you to adhere to strict
             safety policies.
@@ -78,23 +78,11 @@ export function SecurityFeatures() {
       </div>
       <div className="mt-20 border-y border-dashed border-black/8">
         <div className="container grid grid-cols-2 overflow-hidden lg:grid-cols-4">
-          {features.map((box, i) => (
+          {features.map((box) => (
             <Link
               key={box.label}
               href={box.href}
-              className={cn(
-                "text-sub-body group relative border-dashed border-black/8 px-2.5 py-8 font-medium md:border-r md:border-b md:p-8",
-                // Remove right border on even items in 2-col mobile layout
-                i % 2 !== 0 ? "" : "max-lg:border-r",
-                // Remove right border on 4th and 8th items in 4-col layout
-                (i + 1) % 4 === 0 && "lg:border-r-0",
-                // Remove bottom border on last row (items 7, 8)
-                i >= 6 && "md:border-b-0",
-                // In 4-col layout, remove bottom border for items 5-8
-                i >= 4 && "lg:border-b-0",
-                // Last item no border
-                i === features.length - 1 && "border-r-0"
-              )}
+              className="text-sub-body group relative border-dashed border-black/8 px-2.5 py-8 font-medium last-of-type:border-0 nth-of-type-[4]:border-r-0 nth-of-type-[7]:border-b-0 max-lg:even:border-r-0 md:border-r md:border-b md:p-8 lg:nth-of-type-[5]:border-b-0 lg:nth-of-type-[6]:border-b-0 lg:nth-of-type-[8]:border-b-0"
             >
               <img loading="lazy"
                 src={box.icon}
