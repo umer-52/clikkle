@@ -2,35 +2,24 @@
 
 /*
  * FooterNav.svelte: `<img class="web-logo" … width="130" height="24">` — entire lockup is 24px tall.
- * `static/images/logos/appwrite.svg` viewBox 132×24: mark ~24px wide, ~14px gap, word glyphs ~y6.8–19.5.
+ * Clikkle uses the same dimensions via `clikkle-header-wordmark.svg` (130×24 viewBox).
  */
 .site-footer__brand.web-logo {
   display: inline-flex;
   align-items: center;
   align-self: flex-start;
   height: 1.5rem; /* 24px — matches Appwrite img height */
-  gap: 0.875rem; /* ~14px mark-to-word in appwrite.svg */
+  gap: 0;
   text-decoration: none;
 }
 
-.site-footer__brand-mark {
+.site-footer__brand-lockup {
+  display: block;
   flex-shrink: 0;
-  height: 1.5rem;
-  width: 1.5rem;
+  width: 8.125rem; /* 130px */
+  height: 1.5rem; /* 24px */
   object-fit: contain;
   object-position: left center;
-}
-
-/*
- * Slightly under 14px so mixed-case “Clikkle” doesn’t read larger than uppercase `text-caption` headings;
- * `line-height: 1` keeps the em-box inside the 24px row like the SVG outlines.
- */
-.site-footer__wordmark {
-  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-  font-size: 0.8125rem; /* 13px — optical match to glyph height in 24px Appwrite asset */
-  line-height: 1;
-  font-weight: 500;
-  letter-spacing: -0.022em; /* --web-letter-spacing-compressed (Appwrite _fonts.scss) */
 }
 
 /* _footer-nav.scss: &-main-title { margin-block-end: pxToRem(24); } */

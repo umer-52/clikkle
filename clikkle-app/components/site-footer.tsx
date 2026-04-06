@@ -212,19 +212,18 @@ export function SiteFooter({ noOuterContainer = false, footerNavNoTopBorder = fa
         )}
       >
         <Link href="/" className="site-footer__brand web-logo shrink-0 self-start" aria-label="Clikkle home">
+          {/*
+           * Same lockup as Appwrite `FooterNav.svelte`: `<img class="web-logo" … width="130" height="24">`
+           * (`static/images/logos/appwrite.svg`). Asset: `public/images/logos/clikkle-header-wordmark.svg`.
+           */}
           <Image
-            src="/clikkle/images/logos/logo.svg"
-            alt=""
-            width={24}
+            src="/clikkle/images/logos/clikkle-header-wordmark.svg"
+            alt="Clikkle"
+            width={130}
             height={24}
             priority={false}
-            className="site-footer__brand-mark"
+            className="site-footer__brand-lockup"
           />
-          {/*
-           * Appwrite: one SVG combines mark + wordmark. Clikkle mark is icon-only; wordmark uses theme primary
-           * (same as link body), sized to the 24px-high lockup in `appwrite.svg`.
-           */}
-          <span className="site-footer__wordmark text-primary">Clikkle</span>
         </Link>
 
         <ul className="web-footer-nav-main-list">
