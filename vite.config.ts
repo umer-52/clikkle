@@ -38,7 +38,11 @@ export default defineConfig({
     },
     build: {
         sourcemap: process.env.NODE_ENV !== 'production',
-        reportCompressedSize: false
+        reportCompressedSize: false,
+        // Docker / GitHub Actions (~7GiB runners): cap Rollup parallelism to lower peak RSS (exit 134).
+        ...(process.env.CI
+            ? { rollupOptions: { maxParallelFileOps: 2 } as import('vite').RollupOptions }
+            : {})
     },
     test: {
         include: ['src/**/*.{test,spec}.{js,ts}']

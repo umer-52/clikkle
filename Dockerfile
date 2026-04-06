@@ -60,13 +60,18 @@ COPY bun.lock bun.lock
 
 FROM base AS build
 
-# Vite/SvelteKit can hit the default V8 heap limit in Docker/CI and abort (exit 134 = SIGABRT).
-ENV NODE_OPTIONS="--max-old-space-size=8192"
+# GitHub-hosted runners are ~7GiB RAM total. A Node heap limit near or above that can still abort the
+# process (exit 134). Keep headroom for Bun, OS, and esbuild/Rollup workers.
+ENV CI=true
+ENV NODE_OPTIONS="--max-old-space-size=4096"
+ENV UV_THREADPOOL_SIZE=4
 
 RUN bun install --frozen-lockfile
 COPY . .
 RUN bun run sync
-RUN bun run build
+RUN bun run fetch:stars
+# Run Vite/SvelteKit via Node (same as package.json "build") — avoids Bun driving the heavy build step.
+RUN node ./scripts/build.js
 
 FROM base AS prod-deps
 
