@@ -11,6 +11,13 @@ const nextConfig: NextConfig = {
   turbopack: {
     root: process.cwd(),
   },
+  /**
+   * Default parallel static export can exhaust RAM on Vercel while prerendering ~5k `/docs/[...slug]`
+   * pages. Lower concurrency keeps peak memory within typical build limits.
+   */
+  experimental: {
+    staticGenerationMaxConcurrency: 2,
+  },
   output: "export",
   basePath,
   /** Ensures client `withBasePath()` matches `basePath` after restart (fixes broken `<img src>` without manual .env). */
