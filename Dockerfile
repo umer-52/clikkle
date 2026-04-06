@@ -60,6 +60,9 @@ COPY bun.lock bun.lock
 
 FROM base AS build
 
+# Vite/SvelteKit can hit the default V8 heap limit in Docker/CI and abort (exit 134 = SIGABRT).
+ENV NODE_OPTIONS="--max-old-space-size=8192"
+
 RUN bun install --frozen-lockfile
 COPY . .
 RUN bun run sync

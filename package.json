@@ -7,6 +7,7 @@
     },
     "type": "module",
     "scripts": {
+        "sync": "svelte-kit sync",
         "build": "node ./scripts/build.js",
         "fetch:stars": "node scripts/fetch-github-stars.js",
         "prebuild": "npm run fetch:stars",
