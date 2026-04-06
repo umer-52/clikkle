@@ -63,6 +63,7 @@ FROM base AS build
 # GitHub-hosted runners are ~7GiB RAM total. A Node heap limit near or above that can still abort the
 # process (exit 134). Keep headroom for Bun, OS, and esbuild/Rollup workers.
 ENV CI=true
+ENV DOCKER_SLIM_BUILD=1
 ENV NODE_OPTIONS="--max-old-space-size=4096"
 ENV UV_THREADPOOL_SIZE=4
 
