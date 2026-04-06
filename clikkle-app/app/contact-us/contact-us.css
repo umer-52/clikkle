@@ -1,0 +1,201 @@
+/*
+ * Parity: `src/routes/contact-us/+page.svelte` + `src/scss/9-grids/_grid-1-1.scss`
+ * + `_10-utilities.scss` + `6-elements/_input-text.scss` + partners-style dark form.
+ * Decorative PNG replaced with Clikkle blue glares (same approach as `company.css`).
+ */
+
+.contact-us-page .web-big-padding-section {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+}
+
+.contact-us-backdrop {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.contact-us-backdrop::before,
+.contact-us-backdrop::after {
+    content: '';
+    position: absolute;
+    pointer-events: none;
+}
+
+.contact-us-backdrop::before {
+    width: min(140vw, 2000px);
+    height: min(95vh, 1200px);
+    top: 0;
+    right: -28%;
+    background: radial-gradient(
+        ellipse 55% 48% at 58% 42%,
+        hsla(221, 83%, 56%, 0.22) 0%,
+        hsla(221, 83%, 56%, 0.06) 42%,
+        transparent 68%
+    );
+    filter: blur(52px);
+}
+
+.contact-us-backdrop::after {
+    width: min(110vw, 1400px);
+    height: min(75vh, 960px);
+    top: -8%;
+    left: -22%;
+    background: radial-gradient(
+        ellipse 48% 42% at 38% 38%,
+        hsla(221, 83%, 58%, 0.12) 0%,
+        transparent 62%
+    );
+    filter: blur(44px);
+}
+
+/* `src/scss/9-grids/_grid-1-1.scss` — `.web-grid-1-1-opt-2` */
+.contact-us-page .web-grid-1-1-opt-2 {
+    display: grid;
+}
+
+@media (min-width: 1024px) {
+    .contact-us-page .web-grid-1-1-opt-2 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* `src/scss/_10-utilities.scss` */
+.contact-us-page .web-u-max-width-380 {
+    max-inline-size: 23.75rem;
+}
+
+@media (max-width: 1023.98px) {
+    .contact-us-page .web-u-max-inline-size-none-mobile {
+        max-inline-size: none;
+    }
+}
+
+@media (min-width: 1024px) {
+    .contact-us-page .web-is-only-mobile {
+        display: none !important;
+    }
+}
+
+.contact-us-page .web-u-margin-block-start-40 {
+    margin-block-start: 2.5rem;
+}
+
+.contact-us-page .web-u-padding-block-start-40 {
+    padding-block-start: 2.5rem;
+}
+
+.contact-us-page .web-u-sep-block-start {
+    border-block-start: solid 1px var(--color-smooth);
+}
+
+.contact-us-page .web-u-padding-block-end-32 {
+    padding-block-end: 2rem;
+}
+
+.contact-us-page .web-u-padding-block-end-40 {
+    padding-block-end: 2.5rem;
+}
+
+@media (max-width: 1023.98px) {
+    .contact-us-page .web-u-flex-vertical-reverse-mobile {
+        flex-direction: column-reverse !important;
+    }
+}
+
+.contact-us-page .web-icon-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 0.375rem;
+    border: 1px solid var(--color-border-default);
+    background: var(--bg-secondary);
+    color: var(--color-text-primary);
+    cursor: pointer;
+    transition:
+        background-color 0.15s ease,
+        border-color 0.15s ease;
+}
+
+.contact-us-page .web-icon-button:hover {
+    background: var(--color-smooth);
+}
+
+.contact-us-page .contact-us-feedback-form ul.web-form-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.contact-us-page .contact-us-feedback-form .web-input-text {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    width: 100%;
+    padding-inline: 1rem;
+    padding-block: 0.75rem;
+    border-radius: 0.5rem;
+    border: solid 1px var(--color-offset);
+    background-color: var(--color-smooth);
+    color: var(--color-text-primary);
+    font-size: 1rem;
+    line-height: 1;
+    font-weight: 500;
+    white-space: nowrap;
+    outline: none;
+    transition:
+        border-color 0.15s ease,
+        box-shadow 0.15s ease,
+        background-color 0.15s ease;
+}
+
+.contact-us-page .contact-us-feedback-form .web-input-text::placeholder {
+    color: var(--color-text-muted);
+}
+
+.contact-us-page .contact-us-feedback-form .web-input-text:hover:enabled {
+    border-color: var(--color-brand-primary, #2d63ff);
+}
+
+.contact-us-page .contact-us-feedback-form .web-input-text:focus-visible {
+    border-color: var(--color-brand-primary, #2d63ff);
+    box-shadow: 0 0 0 0.25rem hsl(0 0% 100% / 0.16);
+}
+
+.contact-us-page .contact-us-feedback-form textarea.web-input-text {
+    display: block;
+    padding-inline: 1rem;
+    padding-block: 0.75rem;
+    block-size: 9.625rem;
+    min-block-size: 9.625rem;
+    white-space: normal;
+    resize: none;
+}
+
+/* Marketing primary CTA — same as `company.css` / `docs-header.css` header CTA */
+.contact-us-page button.web-button.is-primary {
+    color: #fff;
+    font-weight: 500;
+    border-color: rgba(255, 255, 255, 0.1);
+    background: linear-gradient(180deg, #3f7cff 0%, #2d63ff 45%, #2458e8 100%);
+    background-origin: border-box;
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.22),
+        0 4px 14px rgba(0, 0, 0, 0.28);
+}
+
+.contact-us-page button.web-button.is-primary:hover:not(:disabled) {
+    background: linear-gradient(180deg, #4d86ff 0%, #356ef8 45%, #2a5feb 100%);
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.26),
+        0 6px 18px rgba(45, 99, 255, 0.28);
+}
+
+.contact-us-page button.web-button.is-primary:focus-visible {
+    box-shadow: 0 0 0 0.25rem rgba(45, 99, 255, 0.24);
+}

@@ -1,31 +1,104 @@
 /* Parity: src/scss/7-components/_footer-nav.scss + _main-footer.scss + _icon-button.scss (dark) */
 
+/*
+ * FooterNav.svelte: `<img class="web-logo" … width="130" height="24">` — entire lockup is 24px tall.
+ * `static/images/logos/appwrite.svg` viewBox 132×24: mark ~24px wide, ~14px gap, word glyphs ~y6.8–19.5.
+ */
+.site-footer__brand.web-logo {
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  height: 1.5rem; /* 24px — matches Appwrite img height */
+  gap: 0.875rem; /* ~14px mark-to-word in appwrite.svg */
+  text-decoration: none;
+}
+
+.site-footer__brand-mark {
+  flex-shrink: 0;
+  height: 1.5rem;
+  width: 1.5rem;
+  object-fit: contain;
+  object-position: left center;
+}
+
+/*
+ * Slightly under 14px so mixed-case “Clikkle” doesn’t read larger than uppercase `text-caption` headings;
+ * `line-height: 1` keeps the em-box inside the 24px row like the SVG outlines.
+ */
+.site-footer__wordmark {
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.8125rem; /* 13px — optical match to glyph height in 24px Appwrite asset */
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: -0.022em; /* --web-letter-spacing-compressed (Appwrite _fonts.scss) */
+}
+
+/* _footer-nav.scss: &-main-title { margin-block-end: pxToRem(24); } */
+.site-footer__nav.web-footer-nav .web-footer-nav-main-title {
+  margin-block: 0 1.5rem;
+}
+
+/* _footer-nav.scss: no row gap — only space-between between logo and main list */
 .site-footer__nav.web-footer-nav {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  gap: 2.5rem;
   padding-block-start: 4rem;
   border-block-start: 1px solid rgba(255, 255, 255, 0.1);
-  font-size: 0.75rem;
+  font-size: 0.875rem; /* --web-font-size-tiny (14px) */
+}
+
+/* `FooterNav` `noBorder` → `web-u-sep-block-start` omitted */
+.site-footer__nav.web-footer-nav.site-footer__nav--no-top-border {
+  border-block-start: none;
+}
+
+/* Mobile: accordion replaces this list (matches .web-is-not-mobile / .web-is-only-mobile split) */
+.site-footer__nav.web-footer-nav .web-footer-nav-main-list {
+  display: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  min-width: 0;
+}
+
+@media (min-width: 1024px) {
+  .site-footer__nav.web-footer-nav {
+    gap: 0;
+  }
+
+  /* _footer-nav.scss: &-main-list */
+  .site-footer__nav.web-footer-nav .web-footer-nav-main-list {
+    display: flex;
+    justify-content: space-between;
+    flex: 0 1 51.875rem; /* basis 830px; shrink when container is tight */
+    min-width: 0;
+  }
 }
 
 @media (max-width: 1023.9px) {
+  /* _footer-nav.scss mobile: flex-direction column; gap 40px */
   .site-footer__nav.web-footer-nav {
     flex-direction: column;
     gap: 2.5rem;
   }
 }
 
+/*
+ * MainFooter.svelte (homepage): Tailwind `gap-10` overrides _main-footer.scss gap: 16px in Svelte build.
+ * Keep bar spacing here only — do not duplicate `flex` / `gap-10` / `lg:flex-row` on the element or
+ * utilities will win over this file and edits look like “no change” in dev.
+ */
 .site-footer__main.web-main-footer {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 2.5rem;
+  gap: 2.5rem; /* gap-10 — marketing MainFooter.svelte */
   margin-block-start: 3rem;
   padding-block: 1.5rem;
   border-block-start: 1px solid rgba(255, 255, 255, 0.12);
-  font-size: clamp(0.756rem, 0.642rem + 1.145vw, 0.875rem);
+  /* _main-footer.scss: var(--web-font-size-tiny) */
+  font-size: 0.875rem;
   line-height: 1.25;
   color: var(--color-gray-400, #9b9ba7);
 }

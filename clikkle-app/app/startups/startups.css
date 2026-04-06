@@ -1,5 +1,24 @@
 /* src/routes/startups/startups.css mapped from Svelte styles */
 
+/* Hero blobs: Svelte only constrains width ≤1023px; at desktop intrinsic SVG size dominates the wash. */
+.e-bg-left-mobile,
+.e-bg-right-mobile {
+    pointer-events: none;
+    height: auto;
+    max-width: min(420px, 46vw);
+    opacity: 0.4;
+}
+
+.e-bg-left-mobile {
+    inset-inline-start: 0;
+    inset-block-start: 50px;
+}
+
+.e-bg-right-mobile {
+    inset-inline-end: 0;
+    inset-block-start: 100px;
+}
+
 @media (max-width: 1023px) {
     .web-hero .text-description {
         margin-block-start: 0;
@@ -18,17 +37,11 @@
     }
     .e-bg-left-mobile {
         width: 300px;
-        height: auto;
-        inset-inline-start: 0;
-        inset-block-start: 50px;
-        opacity: 0.4;
+        max-width: none;
     }
     .e-bg-right-mobile {
         width: 300px;
-        height: auto;
-        inset-inline-end: 0;
-        inset-block-start: 100px;
-        opacity: 0.4;
+        max-width: none;
     }
 }
 
@@ -65,6 +78,7 @@
 .web-form-list {
     display: flex;
     flex-direction: column;
+    gap: 1rem;
 }
 
 .web-input-text {
@@ -117,4 +131,50 @@
 @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
+}
+
+/* `src/scss/9-grids/_grid-1-1.scss` — `.web-grid-1-1-opt-2` */
+.web-grid-1-1-opt-2 {
+    display: grid;
+}
+@media (min-width: 1024px) {
+    .web-grid-1-1-opt-2 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* `src/scss/_10-utilities.scss` */
+.web-u-max-width-380 {
+    max-inline-size: 23.75rem;
+}
+.web-u-max-width-640 {
+    max-inline-size: 40rem;
+}
+@media (max-width: 1023.98px) {
+    .web-u-max-inline-size-none-mobile {
+        max-inline-size: none;
+    }
+}
+@media (min-width: 1024px) {
+    .web-is-only-mobile {
+        display: none !important;
+    }
+}
+.web-u-margin-block-start-40 {
+    margin-block-start: 2.5rem;
+}
+.web-u-padding-block-start-40 {
+    padding-block-start: 2.5rem;
+}
+.web-u-sep-block-start {
+    border-block-start: solid 1px var(--color-smooth);
+}
+@media (max-width: 1023.98px) {
+    .web-u-flex-vertical-reverse-mobile {
+        flex-direction: column-reverse !important;
+    }
+}
+
+.web-u-padding-block-end-0 {
+    padding-block-end: 0;
 }

@@ -1,445 +1,215 @@
-"use client";
+'use client';
 
-import { useState } from "react";
-import Link from "next/link";
+import Link from 'next/link';
+import { useState } from 'react';
+import { SiteFooter } from '@/components/site-footer';
+
+/** Mirrors `getReferrerAndUtmSource` from Svelte `$lib/utils/utm` (minimal). */
+function getReferrerAndUtmSource(): Record<string, string | undefined> {
+    if (typeof window === 'undefined') return {};
+    const p = new URLSearchParams(window.location.search);
+    return {
+        referrer: document.referrer || undefined,
+        utm_source: p.get('utm_source') || undefined,
+        utm_medium: p.get('utm_medium') || undefined,
+        utm_campaign: p.get('utm_campaign') || undefined,
+    };
+}
+
+/** Same order + `icon` classes as `socials` in Svelte `src/lib/constants.ts`; Clikkle URLs. */
+const CONTACT_SOCIALS = [
+    { icon: 'web-icon-discord', label: 'Discord', link: 'https://discord.gg/clikkle' },
+    { icon: 'web-icon-github', label: 'Github', link: 'https://github.com/clikkle' },
+    {
+        icon: 'web-icon-x',
+        label: 'Twitter',
+        link: 'https://twitter.com/intent/follow?screen_name=clikkle',
+    },
+    { icon: 'web-icon-linkedin', label: 'LinkedIn', link: 'https://linkedin.com/company/clikkle' },
+    {
+        icon: 'web-icon-youtube',
+        label: 'YouTube',
+        link: 'https://youtube.com/c/clikkle?sub_confirmation=1',
+    },
+    { icon: 'web-icon-daily-dev', label: 'Daily.dev', link: 'https://app.daily.dev/squads/clikkle' },
+    { icon: 'web-icon-bluesky', label: 'Bluesky', link: 'https://bsky.app/profile/clikkle.com' },
+    { icon: 'web-icon-tiktok', label: 'Tiktok', link: 'https://tiktok.com/@clikkle' },
+    { icon: 'web-icon-instagram', label: 'Instagram', link: 'https://instagram.com/clikkle' },
+] as const;
 
 export default function ContactUsPage() {
-  const [formData, setFormData] = useState({
-    firstName: "",
-    lastName: "",
-    email: "",
-    company: "",
-    companySize: "",
-    website: "",
-    useCase: ""
-  });
+    const [email, setEmail] = useState('');
+    const [firstName, setFirstName] = useState('');
+    const [subject, setSubject] = useState('');
+    const [message, setMessage] = useState('');
+    const [submitted, setSubmitted] = useState(false);
+    const [submitting, setSubmitting] = useState(false);
+    const [error, setError] = useState<string | undefined>();
 
-  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
-    const { name, value } = e.target;
-    
-    // Basic validation for email field
-    if (name === 'email') {
-      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-      if (value && !emailRegex.test(value)) {
-        // You could set an error state here
-        return;
-      }
+    async function handleSubmit(e: React.FormEvent) {
+        e.preventDefault();
+        setError(undefined);
+        setSubmitting(true);
+        const endpoint = process.env.NEXT_PUBLIC_GROWTH_ENDPOINT;
+        if (endpoint) {
+            try {
+                const response = await fetch(`${endpoint}/feedback`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        email,
+                        firstName,
+                        subject,
+                        message,
+                        ...getReferrerAndUtmSource(),
+                    }),
+                });
+                setSubmitting(false);
+                if (response.status >= 400) {
+                    setError(response.status >= 500 ? 'Server Error.' : 'Error submitting form.');
+                    return;
+                }
+                setSubmitted(true);
+            } catch {
+                setSubmitting(false);
+                setError('Error submitting form.');
+            }
+        } else {
+            setSubmitting(false);
+            setSubmitted(true);
+        }
     }
-    
-    setFormData(prev => ({ ...prev, [name]: value.trim() }));
-  };
 
-  const [isSubmitting, setIsSubmitting] = useState(false);
-  const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+    return (
+        <main className="contact-us-page relative min-h-screen min-w-0 overflow-x-clip bg-[var(--bg-primary)] text-primary">
+            <div className="contact-us-backdrop" aria-hidden />
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    
-    // Validate required fields
-    const requiredFields = ['firstName', 'lastName', 'email', 'company', 'companySize', 'useCase'];
-    const missingFields = requiredFields.filter(field => !formData[field as keyof typeof formData]);
-    
-    if (missingFields.length > 0) {
-      setSubmitStatus('error');
-      return;
-    }
-    
-    // Validate email format
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailRegex.test(formData.email)) {
-      setSubmitStatus('error');
-      return;
-    }
-    
-    setIsSubmitting(true);
-    
-    try {
-      // Simulate form submission - replace with actual API call
-      await new Promise(resolve => setTimeout(resolve, 1000));
-      
-      setSubmitStatus('success');
-      // Reset form on success
-      setFormData({
-        firstName: "",
-        lastName: "",
-        email: "",
-        company: "",
-        companySize: "",
-        website: "",
-        useCase: ""
-      });
-    } catch (error) {
-      setSubmitStatus('error');
-    } finally {
-      setIsSubmitting(false);
-    }
-  };
-
-  return (
-    <div className="min-h-screen bg-[#0A0A0A]">
-      {/* Hero Section */}
-      <section className="pt-32 pb-20 px-6">
-        <div className="container mx-auto max-w-4xl">
-          <div className="text-center mb-16">
-            <h1 className="text-5xl lg:text-6xl font-bold text-white mb-6">
-              Clikkle for Enterprise
-            </h1>
-            <p className="text-xl text-gray-400 leading-relaxed max-w-3xl mx-auto">
-              Enterprise businesses partner with Clikkle to empower their developers with an all-in-one development platform, so they can focus on innovation, not reinventing the wheel. Reduce complexity, accelerate development, and launch faster. Ready to talk? Fill out the form, and one of our experts will be in touch.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Security Features Section */}
-      <section className="py-20 px-6 border-t border-white/10">
-        <div className="container mx-auto max-w-6xl">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white mb-6">
-              Thousands of developers scale with Clikkle
-            </h2>
-            <blockquote className="text-xl text-gray-300 italic mb-16 max-w-3xl mx-auto">
-              "The switch to using Clikkle brought infinite value that I'm still discovering today."
-            </blockquote>
-          </div>
-
-          <div className="text-center mb-16">
-            <h3 className="text-2xl font-bold text-white mb-8">
-              Safely scale with built-in security and compliance
-            </h3>
-            <p className="text-lg text-gray-400 max-w-3xl mx-auto">
-              With a security-first approach, we ensure your products and users are safe by default, making it easy for you to adhere to strict safety policies.
-            </p>
-          </div>
-
-          <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-8">
-            <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl border border-white/10 p-8">
-              <h4 className="text-lg font-bold text-white mb-4">DDoS</h4>
-              <p className="text-gray-400 leading-relaxed">
-                Automatically detect and mitigate Distributed Denial-of-Service (DDoS) attacks.
-              </p>
-              <Link 
-                href="https://clikkle.com/docs/advanced/security/abuse-protection"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-400 transition-colors mt-4"
-              >
-                Learn more
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </Link>
-            </div>
-
-            <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl border border-white/10 p-8">
-              <h4 className="text-lg font-bold text-white mb-4">Encryption</h4>
-              <p className="text-gray-400 leading-relaxed">
-                Built-in data encryption both in rest and in transit.
-              </p>
-              <Link 
-                href="https://clikkle.com/docs/advanced/security/encryption"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-400 transition-colors mt-4"
-              >
-                Learn more
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </Link>
-            </div>
-
-            <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl border border-white/10 p-8">
-              <h4 className="text-lg font-bold text-white mb-4">Abuse protection</h4>
-              <p className="text-gray-400 leading-relaxed">
-                Protect your APIs from abuse with built-in protection.
-              </p>
-              <Link 
-                href="https://clikkle.com/docs/advanced/security/abuse-protection"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-400 transition-colors mt-4"
-              >
-                Learn more
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </Link>
-            </div>
-
-            <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl border border-white/10 p-8">
-              <h4 className="text-lg font-bold text-white mb-4">Data migrations</h4>
-              <p className="text-gray-400 leading-relaxed">
-                Easily transfer data from 3rd parties or between Cloud and self-hosted.
-              </p>
-              <Link 
-                href="https://clikkle.com/docs/advanced/migrations"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-400 transition-colors mt-4"
-              >
-                Learn more
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </Link>
-            </div>
-
-            <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl border border-white/10 p-8">
-              <h4 className="text-lg font-bold text-white mb-4">GDPR</h4>
-              <p className="text-gray-400 leading-relaxed">
-                Safeguard user data and privacy with provided GDPR regulations.
-              </p>
-              <Link 
-                href="https://clikkle.com/docs/advanced/security/gdpr"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-400 transition-colors mt-4"
-              >
-                Learn more
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </Link>
-            </div>
-
-            <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl border border-white/10 p-8">
-              <h4 className="text-lg font-bold text-white mb-4">SOC-2</h4>
-              <p className="text-gray-400 leading-relaxed">
-                Ensure the highest level of security and privacy protection.
-              </p>
-              <Link 
-                href="https://clikkle.com/docs/advanced/security/soc2"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-400 transition-colors mt-4"
-              >
-                Learn more
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </Link>
-            </div>
-
-            <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl border border-white/10 p-8">
-              <h4 className="text-lg font-bold text-white mb-4">HIPAA</h4>
-              <p className="text-gray-400 leading-relaxed">
-                Protect sensitive user health data.
-              </p>
-              <Link 
-                href="https://clikkle.com/docs/advanced/security/hipaa"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-400 transition-colors mt-4"
-              >
-                Learn more
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </Link>
-            </div>
-
-            <div className="bg-gradient-to-br from-white/5 to-white/10 rounded-2xl border border-white/10 p-8">
-              <h4 className="text-lg font-bold text-white mb-4">CCPA</h4>
-              <p className="text-gray-400 leading-relaxed">
-                Protect sensitive user health data.
-              </p>
-              <Link 
-                href="https://clikkle.com/docs/advanced/security/ccpa"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-400 transition-colors mt-4"
-              >
-                Learn more
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                </svg>
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Contact Form Section */}
-      <section className="py-20 px-6 border-t border-white/10">
-        <div className="container mx-auto max-w-2xl">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-white mb-4">
-              Ready to get started?
-            </h2>
-            <p className="text-lg text-gray-400">
-              Fill out the form below and our enterprise team will get in touch with you
-            </p>
-          </div>
-
-          <form onSubmit={handleSubmit} className="space-y-8" noValidate>
-            <div className="grid lg:grid-cols-2 gap-8">
-              <div>
-                <label htmlFor="firstName" className="block text-sm font-medium text-gray-300 mb-2">
-                  First name <span className="text-red-500" aria-label="required">*</span>
-                </label>
-                <input
-                  type="text"
-                  id="firstName"
-                  name="firstName"
-                  value={formData.firstName}
-                  onChange={handleInputChange}
-                  required
-                  aria-required="true"
-                  aria-describedby="firstName-error"
-                  className="clikkle-input w-full px-4 py-3 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors"
-                  placeholder="John"
-                />
-              </div>
-
-              <div>
-                <label htmlFor="lastName" className="block text-sm font-medium text-gray-300 mb-2">
-                  Last name <span className="text-red-500" aria-label="required">*</span>
-                </label>
-                <input
-                  type="text"
-                  id="lastName"
-                  name="lastName"
-                  value={formData.lastName}
-                  onChange={handleInputChange}
-                  required
-                  aria-required="true"
-                  aria-describedby="lastName-error"
-                  className="clikkle-input w-full px-4 py-3 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors"
-                  placeholder="Doe"
-                />
-              </div>
-
-              <div>
-                <label htmlFor="email" className="block text-sm font-medium text-gray-300 mb-2">
-                  Work email address <span className="text-red-500" aria-label="required">*</span>
-                </label>
-                <input
-                  type="email"
-                  id="email"
-                  name="email"
-                  value={formData.email}
-                  onChange={handleInputChange}
-                  required
-                  aria-required="true"
-                  aria-describedby="email-error"
-                  className="clikkle-input w-full px-4 py-3 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors"
-                  placeholder="john@company.com"
-                />
-              </div>
-
-              <div>
-                <label htmlFor="company" className="block text-sm font-medium text-gray-300 mb-2">
-                  Company name <span className="text-red-500" aria-label="required">*</span>
-                </label>
-                <input
-                  type="text"
-                  id="company"
-                  name="company"
-                  value={formData.company}
-                  onChange={handleInputChange}
-                  required
-                  aria-required="true"
-                  aria-describedby="company-error"
-                  className="clikkle-input w-full px-4 py-3 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors"
-                  placeholder="Acme Corp"
-                />
-              </div>
-
-              <div>
-                <label htmlFor="companySize" className="block text-sm font-medium text-gray-300 mb-2">
-                  Company size <span className="text-red-500" aria-label="required">*</span>
-                </label>
-                <select
-                  id="companySize"
-                  name="companySize"
-                  value={formData.companySize}
-                  onChange={handleInputChange}
-                  required
-                  aria-required="true"
-                  aria-describedby="companySize-error"
-                  className="clikkle-input w-full px-4 py-3 rounded-lg text-white focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors"
-                >
-                  <option value="" className="bg-[#1a1a1a]">Select size</option>
-                  <option value="1-10" className="bg-[#1a1a1a]">1-10 employees</option>
-                  <option value="11-50" className="bg-[#1a1a1a]">11-50 employees</option>
-                  <option value="51-200" className="bg-[#1a1a1a]">51-200 employees</option>
-                  <option value="201-500" className="bg-[#1a1a1a]">201-500 employees</option>
-                  <option value="501-1000" className="bg-[#1a1a1a]">501-1000 employees</option>
-                  <option value="1001-5000" className="bg-[#1a1a1a]">1001-5000 employees</option>
-                  <option value="5000+" className="bg-[#1a1a1a]">5000+ employees</option>
-                </select>
-              </div>
-
-              <div>
-                <label htmlFor="website" className="block text-sm font-medium text-gray-300 mb-2">
-                  Company website
-                </label>
-                <input
-                  type="url"
-                  id="website"
-                  name="website"
-                  value={formData.website}
-                  onChange={handleInputChange}
-                  aria-describedby="website-error"
-                  className="clikkle-input w-full px-4 py-3 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors"
-                  placeholder="https://company.com"
-                />
-              </div>
-            </div>
-
-            <div>
-              <label htmlFor="useCase" className="block text-sm font-medium text-gray-300 mb-2">
-                Please share more information about your use case <span className="text-red-500" aria-label="required">*</span>
-              </label>
-              <textarea
-                id="useCase"
-                name="useCase"
-                value={formData.useCase}
-                onChange={handleInputChange}
-                required
-                aria-required="true"
-                aria-describedby="useCase-error"
-                rows={6}
-                className="w-full px-4 py-3 bg-white/5 border border-white/10 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors resize-none"
-                placeholder="Tell us about your project, requirements, and timeline..."
-              />
-            </div>
-
-            <div className="text-center">
-              {submitStatus === 'success' && (
-                <div className="mb-4 p-4 bg-green-500/10 border border-green-500/20 rounded-lg">
-                  <p className="text-green-400 font-medium">Thank you for your submission! We'll be in touch soon.</p>
+            <div className="web-big-padding-section relative z-10 w-full min-w-0 max-w-full">
+                <div className="relative py-10">
+                    <div className="web-big-padding-section-level-2">
+                        <div className="container mx-auto">
+                            <div className="web-grid-1-1-opt-2 gap-8">
+                                <div>
+                                    <div
+                                        className={`web-u-max-inline-size-none-mobile ${!submitted ? 'web-u-max-width-380' : ''}`}
+                                    >
+                                        {submitted ? (
+                                            <section className="flex flex-col gap-5">
+                                                <h1 className="text-display font-aeonik-pro text-primary">
+                                                    Thank you for your message
+                                                </h1>
+                                                <p className="text-description web-u-padding-block-end-32">
+                                                    Your message has been sent successfully. We appreciate your feedback, our team
+                                                    will try to get back to you as soon as possible.
+                                                </p>
+                                                <Link href="/" className="web-button is-secondary mb-8 w-fit">
+                                                    <span>Back to homepage</span>
+                                                </Link>
+                                            </section>
+                                        ) : (
+                                            <section className="flex flex-col gap-5">
+                                                <h1 className="text-display font-aeonik-pro text-primary">Contact Us</h1>
+                                                <p className="text-description web-u-padding-block-end-40">
+                                                    We&apos;d love your input: questions, feature requests, bugs or compliments.
+                                                </p>
+                                            </section>
+                                        )}
+                                        <section className="web-u-padding-block-start-40 web-u-sep-block-start flex flex-col gap-3">
+                                            <h2 className="text-label text-primary">Follow us</h2>
+                                            <ul className="flex gap-2">
+                                                {CONTACT_SOCIALS.map((social) => (
+                                                    <li key={social.label}>
+                                                        <a
+                                                            href={social.link}
+                                                            className="web-icon-button"
+                                                            aria-label={social.label}
+                                                            target="_blank"
+                                                            rel="noopener noreferrer"
+                                                        >
+                                                            <span className={social.icon} aria-hidden />
+                                                        </a>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        </section>
+                                        <div className="web-is-only-mobile web-u-margin-block-start-40 web-u-padding-block-start-40 web-u-sep-block-start" />
+                                    </div>
+                                </div>
+                                {!submitted ? (
+                                    <form
+                                        onSubmit={handleSubmit}
+                                        className="contact-us-feedback-form mx-auto flex w-full max-w-xl flex-col gap-4"
+                                    >
+                                        <div className="flex justify-end">
+                                            <ul className="web-form-list web-u-max-width-580 web-u-max-inline-size-none-mobile grid w-full gap-4 md:grid-cols-2">
+                                                <li className="web-form-item">
+                                                    <input
+                                                        required
+                                                        className="web-input-text w-full"
+                                                        type="text"
+                                                        placeholder="Name"
+                                                        aria-label="Name"
+                                                        value={firstName}
+                                                        onChange={(e) => setFirstName(e.target.value)}
+                                                    />
+                                                </li>
+                                                <li className="web-form-item">
+                                                    <input
+                                                        required
+                                                        className="web-input-text w-full"
+                                                        type="email"
+                                                        placeholder="Email address"
+                                                        aria-label="Email address"
+                                                        value={email}
+                                                        onChange={(e) => setEmail(e.target.value)}
+                                                    />
+                                                </li>
+                                                <li className="web-form-item col-span-2">
+                                                    <input
+                                                        required
+                                                        className="web-input-text w-full"
+                                                        type="text"
+                                                        name="subject"
+                                                        placeholder="Subject"
+                                                        aria-label="Subject"
+                                                        value={subject}
+                                                        onChange={(e) => setSubject(e.target.value)}
+                                                    />
+                                                </li>
+                                                <li className="web-form-item col-span-2">
+                                                    <textarea
+                                                        required
+                                                        name="message"
+                                                        className="web-input-text w-full"
+                                                        placeholder="Your message"
+                                                        aria-label="Message"
+                                                        value={message}
+                                                        onChange={(e) => setMessage(e.target.value)}
+                                                    />
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div className="web-u-flex-vertical-reverse-mobile mx-auto flex w-full max-w-xl justify-between gap-4">
+                                            <p className="text-caption web-u-max-width-380">{error ?? '\u00a0'}</p>
+                                            <button
+                                                type="submit"
+                                                disabled={submitting}
+                                                className="web-button is-primary w-full self-center lg:w-auto"
+                                            >
+                                                <span>Submit</span>
+                                            </button>
+                                        </div>
+                                    </form>
+                                ) : null}
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              )}
-              
-              {submitStatus === 'error' && (
-                <div className="mb-4 p-4 bg-red-500/10 border border-red-500/20 rounded-lg">
-                  <p className="text-red-400 font-medium">Please fill in all required fields correctly.</p>
-                </div>
-              )}
-              
-              <button
-                type="submit"
-                disabled={isSubmitting}
-                className="web-btn web-btn-primary disabled:opacity-50 disabled:cursor-not-allowed"
-              >
-                {isSubmitting ? (
-                  <>
-                    <svg className="web-btn-icon animate-spin text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                    </svg>
-                    Submitting...
-                  </>
-                ) : (
-                  'Submit Request'
-                )}
-              </button>
             </div>
-          </form>
-        </div>
-      </section>
-    </div>
-  );
+
+            <div className="container relative z-10 mx-auto">
+                <SiteFooter />
+            </div>
+        </main>
+    );
 }

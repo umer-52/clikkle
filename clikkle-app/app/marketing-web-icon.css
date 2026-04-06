@@ -22,3 +22,17 @@
 .web-icon-arrow-right::before {
     content: '\ea07';
 }
+
+/* Education / Discord CTA — `discord-link.svelte`, `Hero.svelte` GitHub control */
+.web-icon-github::before {
+    content: '\ea20';
+}
+
+/* Company / investor rows — `web-icon-twitter` (`src/icons/output/web-icon.css`) */
+.web-icon-twitter::before {
+    content: '\ea47';
+}
+
+.web-icon-discord::before {
+    content: '\ea18';
+}

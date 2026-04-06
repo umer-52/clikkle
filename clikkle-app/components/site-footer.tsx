@@ -189,9 +189,11 @@ function SocialIcon({ label }: { label: string }) {
 
 type SiteFooterProps = {
   noOuterContainer?: boolean;
+  /** `FooterNav.svelte` `noBorder` — omit top separator (e.g. heroes pre-footer). */
+  footerNavNoTopBorder?: boolean;
 };
 
-export function SiteFooter({ noOuterContainer = false }: SiteFooterProps) {
+export function SiteFooter({ noOuterContainer = false, footerNavNoTopBorder = false }: SiteFooterProps) {
   const [openSections, setOpenSections] = useState<string[]>([]);
   const year = new Date().getFullYear();
 
@@ -202,22 +204,33 @@ export function SiteFooter({ noOuterContainer = false }: SiteFooterProps) {
   const inner = (
     <>
       {/* FooterNav.svelte — .web-footer-nav */}
-      <nav aria-label="Footer" className="site-footer__nav web-footer-nav relative mt-24">
-        <Link href="/" className="site-footer__logo web-logo shrink-0 self-start" aria-label="Clikkle home">
+      <nav
+        aria-label="Footer"
+        className={cn(
+          "site-footer__nav web-footer-nav relative mt-24",
+          footerNavNoTopBorder && "site-footer__nav--no-top-border web-footer-nav--no-top-border",
+        )}
+      >
+        <Link href="/" className="site-footer__brand web-logo shrink-0 self-start" aria-label="Clikkle home">
           <Image
             src="/clikkle/images/logos/logo.svg"
             alt=""
-            width={130}
+            width={24}
             height={24}
             priority={false}
-            className="h-6 w-[130px] object-contain object-left"
+            className="site-footer__brand-mark"
           />
+          {/*
+           * Appwrite: one SVG combines mark + wordmark. Clikkle mark is icon-only; wordmark uses theme primary
+           * (same as link body), sized to the 24px-high lockup in `appwrite.svg`.
+           */}
+          <span className="site-footer__wordmark text-primary">Clikkle</span>
         </Link>
 
-        <div className="hidden min-w-0 lg:flex lg:max-w-full lg:basis-[830px] lg:shrink lg:flex-row lg:justify-between lg:gap-2">
+        <ul className="web-footer-nav-main-list">
           {Object.entries(links).map(([title, items]) => (
-            <div key={`desktop-${title}`} className="min-w-0">
-              <h2 className="site-footer__col-title text-caption mb-6 font-medium uppercase text-secondary">{title}</h2>
+            <li key={`desktop-${title}`} className="min-w-0">
+              <h2 className="web-footer-nav-main-title text-caption font-medium uppercase text-secondary">{title}</h2>
               <ul className="site-footer__link-list flex flex-col gap-2.5 text-sub-body">
                 {items.map(({ href, label, target, rel }) => (
                   <li key={label}>
@@ -225,11 +238,11 @@ export function SiteFooter({ noOuterContainer = false }: SiteFooterProps) {
                   </li>
                 ))}
               </ul>
-            </div>
+            </li>
           ))}
-        </div>
+        </ul>
 
-        <div className="flex w-full flex-col gap-3 lg:hidden">
+        <div className="flex w-full flex-col gap-10 lg:hidden">
           {Object.entries(links).map(([title, items]) => (
             <div
               key={`mobile-${title}`}
@@ -263,7 +276,7 @@ export function SiteFooter({ noOuterContainer = false }: SiteFooterProps) {
       </nav>
 
       {/* MainFooter.svelte variant homepage — .web-main-footer */}
-      <footer className="site-footer__main web-main-footer relative flex flex-col justify-between gap-10 lg:flex-row">
+      <footer className="site-footer__main web-main-footer relative">
         <ul className="flex flex-wrap gap-2">
           {socials.map((s) => (
             <li key={s.label}>
@@ -281,7 +294,7 @@ export function SiteFooter({ noOuterContainer = false }: SiteFooterProps) {
           ))}
         </ul>
 
-        <div className="site-footer__main-grid mt-1 grid w-full max-w-full grid-cols-1 gap-y-4 md:grid-cols-3 lg:max-w-none lg:flex-1">
+        <div className="site-footer__main-grid mt-1 grid grid-cols-1 gap-y-4 md:grid-cols-3">
           <div className="text-caption text-secondary md:self-center">Copyright © {year} Clikkle</div>
 
           <div className="site-footer__status flex items-center justify-start md:justify-center">

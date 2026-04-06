@@ -1,3 +1,83 @@
+/*
+ * Grid shell + horizontal clip: abs-positioned avatars / decorative blur PNG extend past the text column; without
+ * clip the document grows and the viewport shows a horizontal scrollbar (content looks “shifted left”).
+ */
+.heroes-pg-root.web-big-padding-section {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    overflow-x: clip;
+    overflow-y: visible;
+    width: 100%;
+    max-inline-size: 100%;
+}
+
+.heroes-pg-hero-band {
+    overflow-x: clip;
+    max-inline-size: 100%;
+}
+
+.heroes-pg-root section.container {
+    overflow: visible;
+}
+
+/* `_10-utilities.scss` — was missing in globals; caps About + pre-footer copy width */
+.heroes-pg-root .web-u-max-width-800 {
+    max-inline-size: 50rem;
+}
+
+/* Hero illustration column — transparent shell, no filled “card” behind PNG */
+.heroes-pg-hero-visual {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    min-width: 0;
+    background: transparent;
+    overflow: visible;
+    position: relative;
+    isolation: isolate;
+}
+
+/* Soft brand glow behind the art (Svelte reference: pills sit on a diffused accent wash, not a flat panel). */
+.heroes-pg-hero-visual::before {
+    content: "";
+    position: absolute;
+    z-index: 0;
+    inset: -25% -35% -15% -15%;
+    pointer-events: none;
+    background: radial-gradient(
+        ellipse 75% 65% at 62% 48%,
+        color-mix(in srgb, var(--color-brand-primary, #2d63ff) 42%, transparent) 0%,
+        transparent 70%
+    );
+    filter: blur(48px);
+    opacity: 0.55;
+}
+
+/*
+ * Appwrite `bg.png` is pink-heavy; shift hues toward existing brand primary without editing raster assets.
+ * Tune with `--heroes-art-hue-shift` on `:root` if your synced PNG differs.
+ */
+.heroes-pg-hero-illustration {
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: none;
+    background: transparent;
+    /* Baked-in dark matte in `bg.png` reads as a “black box” on our gradient; lighten picks page bg where the asset is darker. */
+    mix-blend-mode: lighten;
+    filter: hue-rotate(var(--heroes-art-hue-shift, -112deg)) saturate(1.08);
+}
+
+.heroes-pg-root .web-btn-secondary {
+    border-color: color-mix(in srgb, var(--color-brand-primary, #2d63ff) 50%, rgba(255, 255, 255, 0.14));
+}
+
+.heroes-pg-root .web-btn-secondary:hover {
+    border-color: color-mix(in srgb, var(--color-brand-primary, #2d63ff) 72%, rgba(255, 255, 255, 0.22));
+}
+
 .heroes-pg-hero {
     display: grid;
     grid-template-columns: 30.0625rem minmax(0, 1fr);
@@ -27,7 +107,7 @@
         height: 24rem;
         position: relative;
     }
-    .heroes-pg-hero > :nth-child(2) img {
+    .heroes-pg-hero > :nth-child(2) .heroes-pg-hero-illustration {
         position: absolute;
         display: block;
         width: 40rem;
@@ -41,11 +121,35 @@
 
 .heroes-pg-about {
     position: relative;
+    /* Center the measure column in `.container` (matches appwrite.io marketing About band). */
+    margin-inline: auto;
 }
+
+/* Readable centered measure; `is-center` alone can let the copy column collapse oddly in flex. */
+.heroes-pg-about.is-center > div:nth-child(2) {
+    width: 100%;
+    max-inline-size: 42rem;
+    margin-inline: auto;
+}
+
+/* Keep copy above the decorative blur layer */
+.heroes-pg-about > h2,
+.heroes-pg-about > div:nth-child(2) {
+    position: relative;
+    z-index: 1;
+}
+
+.heroes-pg-about .avatar-1,
+.heroes-pg-about .avatar-2,
+.heroes-pg-about .avatar-3 {
+    z-index: 2;
+}
+
 .heroes-pg-about .avatar-1 {
     position: absolute;
     bottom: -5rem;
-    right: -20rem;
+    /* Was -20rem — widened document scroll width; keep head near the copy column. */
+    right: -6rem;
 }
 .heroes-pg-about .avatar-2 {
     position: absolute;
@@ -55,22 +159,35 @@
 .heroes-pg-about .avatar-3 {
     position: absolute;
     bottom: -7rem;
-    left: -15rem;
+    left: -10rem;
 }
 .heroes-pg-about .teal-blur {
     position: absolute;
+    /* Cap width so a large PNG cannot widen scrollable overflow. */
+    width: min(110rem, 200%);
+    height: auto;
     max-inline-size: none;
     max-block-size: none;
-    left: -60rem;
-    bottom: -45rem;
-    z-index: -1;
+    /* Anchored under the left side of the centered copy stack (reference: soft wash bottom-left of text). */
+    left: 50%;
+    bottom: -42rem;
+    transform: translateX(calc(-50% - 14rem));
+    z-index: 0;
+    pointer-events: none;
+    /*
+     * Asset is a teal/cyan wash (Appwrite). Positive hue-rotate shifts it toward `var(--color-brand-primary)` blue.
+     * Override with `--heroes-blur-hue-shift` if the synced PNG changes.
+     */
+    filter: hue-rotate(var(--heroes-blur-hue-shift, 62deg)) saturate(1.06) brightness(1.02);
+    opacity: 0.88;
 }
 @media (max-width: 1023px) {
     .heroes-pg-about [class*='avatar-'] {
         display: none;
     }
     .heroes-pg-about .teal-blur {
-        left: -45rem;
+        transform: translateX(calc(-50% - 6rem));
+        bottom: -38rem;
     }
 }
 
@@ -95,7 +212,10 @@
     flex-shrink: 0;
     scroll-snap-align: start;
 }
+/* `+page.svelte` `.scroll-carousel` / `.carousel-img` + `_border-gradient` */
 .heroes-pg-scroll-carousel .carousel-img {
+    position: relative;
+    border: none;
     background: linear-gradient(
         155deg,
         rgba(255, 255, 255, 0.35) 1.16%,
@@ -103,7 +223,53 @@
     );
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: var(--p-card-padding, 0.5rem);
+    border-radius: var(--p-card-border-radius, 1.25rem);
+}
+
+.heroes-pg-scroll-carousel .carousel-img::before,
+.heroes-pg-scroll-carousel .carousel-img::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    border: 1px solid transparent;
+    pointer-events: none;
+    -webkit-mask:
+        linear-gradient(#fff 0 0) padding-box,
+        linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+}
+
+.heroes-pg-scroll-carousel .carousel-img::before {
+    background: linear-gradient(
+            135.1deg,
+            #ffffff 10.1%,
+            rgba(255, 255, 255, 0.2) 52.69%,
+            rgba(255, 255, 255, 0.5) 120.69%
+        )
+        border-box;
+}
+
+.heroes-pg-scroll-carousel .carousel-img::after {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0) 125.11%) border-box;
+}
+
+.heroes-pg-carousel-photo {
+    display: block;
+    border-radius: 0.75rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .heroes-pg-scroll-carousel[data-animated="true"] {
+        overflow: auto;
+    }
+
+    .heroes-pg-scroll-carousel[data-animated="true"] .inner {
+        animation: none !important;
+        padding-inline: 4rem;
+    }
 }
 
 .heroes-pg-scroll-carousel[data-animated="true"] {
@@ -134,7 +300,7 @@
     margin-block-start: 1.25rem;
 }
 
-/* FloatingHead styling */
+/* `FloatingHead.svelte` — gradient ring + fill */
 .heroes-pg-head-wrapper {
     border-radius: 50%;
     display: inline-block;
@@ -149,8 +315,70 @@
         rgba(255, 255, 255, 0) 161.63%
     );
     box-shadow: 0px 5.35px 10.7px 0px rgba(0, 0, 0, 0.02);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: none;
 }
+
+.heroes-pg-head-wrapper::before,
+.heroes-pg-head-wrapper::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    pointer-events: none;
+    -webkit-mask:
+        linear-gradient(#fff 0 0) padding-box,
+        linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+}
+
+.heroes-pg-head-wrapper::before {
+    background: linear-gradient(
+            135.1deg,
+            rgba(255, 255, 255, 0.08) 10.1%,
+            rgba(255, 255, 255, 0) 120.69%
+        )
+        border-box;
+}
+
+.heroes-pg-head-wrapper::after {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0) 125.11%) border-box;
+}
+
+/* About band: default ring reads as a harsh dark halo on near-black; soften and tint with brand. */
+.heroes-pg-about .heroes-pg-head-wrapper {
+    box-shadow:
+        0 0 0 1px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 22%, transparent),
+        0 0 28px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 14%, transparent),
+        0 6px 20px rgba(0, 0, 0, 0.18);
+    background: linear-gradient(
+        132.35deg,
+        rgba(255, 255, 255, 0.06) 12.05%,
+        rgba(255, 255, 255, 0) 161.63%
+    );
+}
+
+.heroes-pg-about .heroes-pg-head-wrapper::before {
+    background: linear-gradient(
+            135.1deg,
+            rgba(255, 255, 255, 0.14) 12%,
+            color-mix(in srgb, var(--color-brand-primary, #2d63ff) 28%, transparent) 52%,
+            rgba(255, 255, 255, 0) 120.69%
+        )
+        border-box;
+}
+
+.heroes-pg-about .heroes-pg-head-wrapper::after {
+    opacity: 0.5;
+    background: linear-gradient(
+            180deg,
+            rgba(255, 255, 255, 0.1) 0%,
+            rgba(255, 255, 255, 0) 125.11%
+        )
+        border-box;
+}
+
 .heroes-pg-head-wrapper.isRelative {
     position: relative;
 }
@@ -164,23 +392,174 @@
     box-sizing: border-box;
 }
 
-/* HeroCard inline fix */
+/* `HeroCard.svelte` — `.web-social-item` */
 .heroes-pg-social-item {
     display: flex;
     flex-direction: column;
 }
-.heroes-pg-social-icon {
+
+/* `_card.scss` `.web-card.is-white` (light band) */
+.web-white-section.light .web-card.is-white {
+    --p-card-padding: 1.25rem;
+    --p-card-border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    padding: var(--p-card-padding, 1.25rem);
+    background: linear-gradient(360deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.64) 100%);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    border-radius: var(--p-card-border-radius, 1rem);
+}
+
+/* `_icon-button.scss` light defaults — hero cards sit on `#ededf0` */
+.web-white-section.light .web-card.is-white .web-icon-button {
+    box-sizing: border-box;
+    position: relative;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border-radius: 50%;
-    width: 40px;
-    height: 40px;
-    background-color: var(--color-neutral-10);
-    color: var(--color-neutral-600);
-    transition: all 0.2s ease-in-out;
+    width: 1.75rem;
+    height: 1.75rem;
+    padding: 0;
+    border-radius: 0.5rem;
+    border: 1px solid transparent;
+    color: var(--color-text-primary);
+    background-color: var(--color-smooth);
+    -webkit-backdrop-filter: blur(7.5px);
+    backdrop-filter: blur(7.5px);
+    box-shadow: 0 0 0 4px transparent;
+    transition:
+        color 0.15s ease,
+        background-color 0.15s ease,
+        border-color 0.15s ease,
+        box-shadow 0.15s ease;
 }
-.heroes-pg-social-icon:hover {
-    background-color: var(--color-neutral-30);
-    color: var(--color-primary);
+
+.web-white-section.light .web-card.is-white .web-icon-button:hover {
+    color: var(--color-text-primary);
+    background-color: var(--color-offset);
+}
+
+.web-white-section.light .web-card.is-white .web-icon-button:focus-visible {
+    outline: none;
+    border-color: var(--color-tertiary);
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 16%, transparent);
+}
+
+.web-white-section.light .web-card.is-white .web-icon-button svg {
+    width: 1rem;
+    height: 1rem;
+    flex-shrink: 0;
+}
+
+/* `web-user-box` layout (Pink / marketing) */
+.web-white-section.light .web-user-box {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: 0;
+}
+
+.web-white-section.light .web-user-box-image {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 9999px;
+    object-fit: cover;
+}
+
+/* `_multi-columns-1.scss` */
+.web-multi-columns-1 {
+    --p-col-gap: 2rem;
+    column-width: 21.25rem;
+    column-gap: var(--p-col-gap);
+}
+
+.web-multi-columns-1 > * {
+    break-inside: avoid;
+    margin-block-end: var(--p-col-gap);
+}
+
+/* `_info-boxes.scss` — borders use theme `smooth` on light section */
+.web-white-section.light .web-info-boxes {
+    display: grid;
+    gap: 1px;
+    grid-template-columns: repeat(auto-fill, minmax(19.125rem, 1fr));
+    margin-inline-start: -2rem;
+    margin-block-start: -2rem;
+    clip-path: inset(0.075rem);
+    overflow: hidden;
+}
+
+.web-white-section.light .web-info-boxes-item {
+    position: relative;
+    padding-inline: 2rem;
+    padding-block: 2rem;
+    border-block-end: solid 1px var(--color-smooth);
+}
+
+.web-white-section.light .web-info-boxes-item::after {
+    content: "";
+    position: absolute;
+    inset-block-start: 0;
+    inset-inline-end: 0;
+    display: block;
+    height: 100vh;
+    border-inline-end: solid 1px var(--color-smooth);
+}
+
+@media (max-width: 767.9px) {
+    .web-white-section.light .web-info-boxes-item::after {
+        display: none;
+    }
+}
+
+.web-white-section.light .web-info-boxes-item:nth-child(3n)::after {
+    display: none;
+}
+
+.web-white-section.light .web-info-boxes-item:nth-child(n + 4) {
+    border-block-end: none;
+}
+
+.web-white-section.light .web-info-boxes-title {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-block-start: 1rem;
+    color: var(--color-text-primary);
+}
+
+.web-white-section.light .web-info-boxes-content {
+    margin-block-start: 0.25rem;
+    color: var(--color-text-secondary);
+}
+
+@media (max-width: 450px) {
+    .web-white-section.light .web-info-boxes {
+        grid-template-columns: repeat(auto-fill, minmax(9.125rem, 1fr));
+    }
+}
+
+@media (min-width: 450.1px) and (max-width: 630px) {
+    .web-white-section.light .web-info-boxes {
+        grid-template-columns: repeat(auto-fill, minmax(13.125rem, 1fr));
+    }
+}
+
+/* `_button.scss` `.is-full-width-mobile` — `$break1` */
+@media (max-width: 1023.98px) {
+    .is-full-width-mobile {
+        inline-size: 100%;
+    }
+}
+
+/* `bg-pre.png` — `+page.svelte` `style:inset-block-start="0"` */
+.heroes-pg-footer-bg {
+    position: absolute;
+    inset-block-start: 0;
+    inset-inline: 0;
+    width: 100%;
+    pointer-events: none;
+    filter: hue-rotate(var(--heroes-prefooter-hue-shift, -90deg)) saturate(1.05);
 }

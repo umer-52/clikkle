@@ -1,4 +1,4 @@
-/* src/routes/education/education.css mapped from Svelte styles */
+/* src/routes/education — Hero grid/pattern (`Hero.svelte` scoped) + Education-only parity */
 
 .gridLine {
     --height: 1px;
@@ -28,8 +28,8 @@
     height: var(--height);
     background: linear-gradient(
         to right,
-        var(--color-accent, #2D63FF),
-        var(--color-accent, #2D63FF) 50%,
+        var(--color-accent, #2d63ff),
+        var(--color-accent, #2d63ff) 50%,
         transparent 0,
         transparent
     );
@@ -51,8 +51,8 @@
     top: calc(var(--y-offset) / 2 * -1);
     background: linear-gradient(
         to bottom,
-        var(--color-accent, #2D63FF),
-        var(--color-accent, #2D63FF) 50%,
+        var(--color-accent, #2d63ff),
+        var(--color-accent, #2d63ff) 50%,
         transparent 0,
         transparent
     );
@@ -70,15 +70,15 @@
 .pattern {
     background: repeating-linear-gradient(
         45deg,
-        rgba(255, 255, 255, 0.4) 0,
-        rgba(255, 255, 255, 0.4) 1px,
+        var(--color-secondary, rgba(255, 255, 255, 0.4)) 0,
+        var(--color-secondary, rgba(255, 255, 255, 0.4)) 1px,
         transparent 1px,
         transparent 24px
     );
     mask-image: repeating-linear-gradient(
         -45deg,
         transparent,
-        white 1px 10px,
+        var(--color-primary, white) 1px 10px,
         transparent 8px 20px
     );
 }
@@ -95,4 +95,256 @@
     inset: 0;
     position: absolute;
     z-index: -1;
+}
+
+/* Step badge — `badge.svelte` + Eyebrow (Education GetStarted, light context) */
+.light .education-step-badge {
+    --shadow-bg-color: #f2c8d6;
+    --shadow-border-color: #f69db7;
+    align-self: flex-start;
+    border-radius: 0.375rem;
+    padding: 0.375rem 0.75rem;
+    color: #fff;
+    background: radial-gradient(98.13% 199.7% at 98.13% 100%, #fe6947 0%, #fd366e 41.6%, #fd366e 100%);
+    box-shadow:
+        0.1875rem 0.1875rem var(--shadow-bg-color),
+        0.25rem 0.1875rem var(--shadow-border-color),
+        0.1875rem 0.25rem var(--shadow-border-color),
+        0.125rem 0.1875rem var(--shadow-border-color),
+        0.1875rem 0.125rem var(--shadow-border-color);
+}
+
+html.dark .light .education-step-badge {
+    --shadow-bg-color: #2c2c2f;
+    --shadow-border-color: #39393c;
+}
+
+/* ── Community chat — port of `src/scss/7-components/_chat.scss` + `CommunitySupportChat.svelte` ── */
+ul.education-web-chat-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+    ul.education-web-chat-list {
+        gap: 2rem;
+    }
+}
+
+.education-web-chat-item {
+    display: flex;
+    width: 100%;
+}
+
+.education-web-chat-item.is-user-a {
+    justify-content: flex-start;
+}
+
+.education-web-chat-item.is-user-b {
+    justify-content: flex-end;
+}
+
+.education-web-chat-message {
+    position: relative;
+    max-width: 23.75rem;
+    padding: 0.75rem;
+    border-radius: var(--radius-md, 0.5rem);
+    background: hsl(0 0% 99%);
+    backdrop-filter: blur(10px);
+}
+
+/* User A — tail at bottom (`_chat.scss` default) */
+.education-web-chat-item.is-user-a .education-web-chat-message::before {
+    content: '';
+    position: absolute;
+    left: 1.4375rem;
+    top: 100%;
+    width: 1.4375rem;
+    height: 1rem;
+    background-color: inherit;
+    clip-path: polygon(50% 100%, 0 0, 100% 0);
+}
+
+.education-web-chat-item.is-user-a .education-web-chat-message::after {
+    content: '';
+    position: absolute;
+    left: 1.5rem;
+    top: 100%;
+    width: 1.3125rem;
+    height: 0.9375rem;
+    background-color: inherit;
+    clip-path: polygon(50% 100%, 0 0, 100% 0);
+}
+
+/* User B — cool blue bubble + tail at top (`reply`), Clikkle theme */
+.education-web-chat-item.is-user-b .education-web-chat-message {
+    background: hsl(221 35% 92%);
+    border: 1px solid hsl(221 45% 84%);
+}
+
+.education-web-chat-item.is-user-b .education-web-chat-message.reply::before {
+    content: '';
+    position: absolute;
+    rotate: 180deg;
+    top: auto;
+    bottom: 100%;
+    left: auto;
+    right: 1.4375rem;
+    width: 1.4375rem;
+    height: 1rem;
+    background-color: hsl(221 45% 84%);
+    clip-path: polygon(50% 100%, 0 0, 100% 0);
+}
+
+.education-web-chat-item.is-user-b .education-web-chat-message.reply::after {
+    content: '';
+    position: absolute;
+    rotate: 180deg;
+    top: -0.90625rem;
+    bottom: auto;
+    left: auto;
+    right: 1.5rem;
+    width: 1.3125rem;
+    height: 0.9375rem;
+    background-color: hsl(221 35% 92%);
+    clip-path: polygon(50% 100%, 0 0, 100% 0);
+}
+
+.education-web-user-box {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: 0;
+}
+
+.education-web-user-box-image {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    min-height: 40px;
+    border-radius: 9999px;
+    object-fit: cover;
+}
+
+/*
+ * Discord CTA — `discord-link.svelte` + `_button.scss` `.web-button.is-secondary`.
+ * Education route does not load `docs-article-sections.css`; mirror those rules here.
+ * `html.dark` + `.dark .web-button.is-secondary` would win without `.education-page .light …` reset.
+ */
+.education-page .light a.education-discord-link.web-button.is-secondary,
+.dark .education-page .light a.education-discord-link.web-button.is-secondary {
+    --m-border-radius: 0.5rem;
+    --m-border-size: 0.0625rem;
+    position: relative;
+    border-width: 0;
+    border-radius: var(--m-border-radius);
+    background-image: none;
+    background-color: hsla(221, 100%, 59%, 0.08);
+    box-shadow: none;
+    color: var(--color-brand-primary, #2d63ff);
+    /* Padding: `docs-header.css` `.web-button` (14px / 7px) + `py-1` from `Community.svelte` utilities */
+    gap: 0.5rem;
+}
+
+.education-page .light a.education-discord-link.web-button.is-secondary::before,
+.education-page .light a.education-discord-link.web-button.is-secondary::after,
+.dark .education-page .light a.education-discord-link.web-button.is-secondary::before,
+.dark .education-page .light a.education-discord-link.web-button.is-secondary::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: var(--m-border-radius);
+    border: var(--m-border-size) solid transparent;
+    -webkit-mask:
+        linear-gradient(#fff 0 0) padding-box,
+        linear-gradient(#fff 0 0) border-box;
+    -webkit-mask-composite: destination-out;
+    mask:
+        linear-gradient(#fff 0 0) padding-box,
+        linear-gradient(#fff 0 0) border-box;
+    mask-composite: exclude;
+    pointer-events: none;
+}
+
+.education-page .light a.education-discord-link.web-button.is-secondary::before,
+.dark .education-page .light a.education-discord-link.web-button.is-secondary::before {
+    background: linear-gradient(
+        180deg,
+        rgba(45, 99, 255, 0.19) 0%,
+        rgba(45, 99, 255, 0.48) 100%
+    ) border-box;
+}
+
+.education-page .light a.education-discord-link.web-button.is-secondary::after,
+.dark .education-page .light a.education-discord-link.web-button.is-secondary::after {
+    background: radial-gradient(
+        42.86% 42.86% at 50.55% 0%,
+        rgba(255, 255, 255, 0.2) 0%,
+        rgba(255, 255, 255, 0) 100%
+    ) border-box;
+}
+
+.education-page .light a.education-discord-link.web-button.is-secondary [class*='icon'],
+.dark .education-page .light a.education-discord-link.web-button.is-secondary [class*='icon'] {
+    color: var(--color-brand-primary, #2d63ff);
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+.education-page .light a.education-discord-link.web-button.is-secondary:hover,
+.dark .education-page .light a.education-discord-link.web-button.is-secondary:hover {
+    background-color: rgba(45, 99, 255, 0.1);
+    box-shadow: none;
+}
+
+.education-page .light a.education-discord-link.web-button.is-secondary:active,
+.dark .education-page .light a.education-discord-link.web-button.is-secondary:active {
+    background-color: rgba(45, 99, 255, 0.12);
+}
+
+.education-page .light a.education-discord-link.web-button.is-secondary:focus-visible,
+.dark .education-page .light a.education-discord-link.web-button.is-secondary:focus-visible {
+    box-shadow: 0 0 0 4px rgba(45, 99, 255, 0.24);
+    outline: none;
+}
+
+/* FAQ — `FAQ.svelte` + startups chevron */
+.education-page .collapsible {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.education-page .icon-cheveron-down {
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="none" stroke="%23EDEDF0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><polyline points="6 9 12 15 18 9"></polyline></svg>');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.education-page .rotate-180 .icon-cheveron-down {
+    transform: rotate(180deg);
+}
+
+.education-faq-answer {
+    font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.875rem;
+    line-height: 1rem;
+    letter-spacing: -0.01em;
+    font-weight: 400;
+    color: var(--color-text-secondary);
+}
+
+@media (min-width: 1024px) {
+    .education-faq-answer {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
 }

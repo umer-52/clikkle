@@ -1,0 +1,340 @@
+/*
+ * Parity: `src/routes/company/+page.svelte` + `src/scss/7-components/_hero.scss`
+ * + `6-elements/_container.scss` + `9-grids/_grid-1-1.scss` + `_grid-2c-4c.scss`
+ * + `7-components/_investor-cards.scss` + `6-elements/_card.scss` + `_button.scss` (transparent)
+ * Breakpoints: `$break1` max 1023.9px, `$break3open` min 1280px (grid-1-1).
+ */
+
+.company-page .web-big-padding-section {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+}
+
+/*
+ * Replaces Appwrite `bg-left.png` / `bg-right.png` / `pre-footer.png` (pink/magenta art)
+ * with Clikkle theme blue glares — `hsla(221, 83%, 56%, …)` matches partners / brand.
+ */
+.company-page-backdrop {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.company-page-backdrop::before,
+.company-page-backdrop::after {
+    content: '';
+    position: absolute;
+    pointer-events: none;
+}
+
+/* Mid / upper-right wash (mission column — was pink from `bg-right`) */
+.company-page-backdrop::before {
+    width: min(140vw, 2000px);
+    height: min(95vh, 1200px);
+    top: 0;
+    right: -28%;
+    background: radial-gradient(
+        ellipse 55% 48% at 58% 42%,
+        hsla(221, 83%, 56%, 0.24) 0%,
+        hsla(221, 83%, 56%, 0.07) 42%,
+        transparent 68%
+    );
+    filter: blur(52px);
+}
+
+/* Upper-left balance */
+.company-page-backdrop::after {
+    width: min(110vw, 1400px);
+    height: min(75vh, 960px);
+    top: -8%;
+    left: -22%;
+    background: radial-gradient(
+        ellipse 48% 42% at 38% 38%,
+        hsla(221, 83%, 58%, 0.14) 0%,
+        transparent 62%
+    );
+    filter: blur(44px);
+}
+
+/* Pre-footer band: strong beam from bottom-left (replaces pink `pre-footer.png`) */
+.company-pre-footer-band {
+    isolation: isolate;
+}
+
+.company-pre-footer-glare {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.company-pre-footer-glare::before {
+    content: '';
+    position: absolute;
+    width: clamp(960px, 190vw, 2600px);
+    height: clamp(520px, 85vh, 1100px);
+    bottom: -25%;
+    left: -35%;
+    background: radial-gradient(
+        ellipse 52% 46% at 32% 88%,
+        hsla(221, 83%, 56%, 0.3) 0%,
+        hsla(221, 83%, 56%, 0.1) 38%,
+        transparent 70%
+    );
+    filter: blur(58px);
+}
+
+.company-pre-footer-glare::after {
+    content: '';
+    position: absolute;
+    width: min(120vw, 1600px);
+    height: min(60vh, 800px);
+    top: -10%;
+    right: -20%;
+    background: radial-gradient(
+        ellipse 45% 40% at 70% 30%,
+        hsla(221, 83%, 56%, 0.12) 0%,
+        transparent 65%
+    );
+    filter: blur(48px);
+}
+
+/* `_container.scss` `.web-big-padding-section-level-2.is-margin-replace-padding` */
+.company-page .web-big-padding-section-level-2.is-margin-replace-padding {
+    padding-bottom: 0;
+}
+
+/* `_hero.scss` + inline `--hero-*` on company hero */
+.company-page .company-page-hero.web-hero {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-inline-size: min(100%, 62.125rem);
+    margin-inline: auto;
+    gap: 1.125rem;
+    text-align: center;
+}
+
+/* `_hero.scss` — centered hero in light band + pre-footer */
+.company-page .web-white-section.light .web-hero {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+    margin-inline: auto;
+    width: 100%;
+}
+
+.company-page .company-prefooter.web-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+}
+
+/* First hero band: inline `margin-block: 8rem` overrides default level-2 margins */
+.company-page .company-page-hero-band .web-big-padding-section-level-2 {
+    margin-block: 8rem;
+}
+
+.company-page .web-u-padding-block-end-0 {
+    padding-block-end: 0 !important;
+}
+
+/* `_grid-1-1.scss` */
+.company-page .web-grid-1-1 {
+    display: grid;
+    gap: 2rem;
+}
+
+@media (min-width: 1280px) {
+    .company-page .web-grid-1-1 {
+        gap: 6.25rem;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* `_grid-2c-4c.scss` */
+.company-page .web-grid-2c-4c {
+    display: grid;
+    column-gap: 1.25rem;
+    row-gap: 2rem;
+}
+
+@media (max-width: 1023.98px) {
+    .company-page .web-grid-2c-4c {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .company-page .web-grid-2c-4c {
+        grid-template-columns: repeat(4, 1fr);
+        column-gap: 2rem;
+        row-gap: 3rem;
+    }
+}
+
+.company-page .web-u-max-width-800 {
+    max-inline-size: 50rem;
+}
+
+.company-page .web-u-max-width-480 {
+    max-inline-size: 30rem !important;
+}
+
+.company-page .web-u-max-width-380 {
+    max-inline-size: 23.75rem;
+}
+
+.company-page .web-u-margin-block-start-64 {
+    margin-block-start: 4rem;
+}
+
+.company-page .web-u-opacity-64 {
+    opacity: 0.64;
+}
+
+/* `_investor-cards.scss` */
+.company-page ul.web-investor-cards {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.company-page .web-investor-cards .web-card.is-full-color {
+    display: grid;
+    place-content: center;
+}
+
+@media (max-width: 1023.98px) {
+    .company-page .web-investor-cards {
+        flex-direction: column;
+        gap: 1.25rem;
+    }
+
+    .company-page .web-investor-cards > * {
+        flex: 1;
+    }
+
+    .company-page .web-u-inline-width-100-percent-mobile-break1 {
+        inline-size: 100%;
+        max-inline-size: 100%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .company-page .web-investor-cards {
+        max-inline-size: 62.125rem;
+        margin-inline: auto;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    .company-page .web-investor-cards > li {
+        min-inline-size: 19.375rem;
+    }
+}
+
+/* Investor logo links — outer `a.web-card` */
+.company-page .web-white-section.light .web-investor-cards a.web-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* `_card.scss` `.web-card.is-full-color` in light */
+.company-page .web-white-section.light .web-card.is-full-color {
+    --card-padding: 1rem;
+    padding: var(--card-padding, 1rem);
+    border-radius: 1rem;
+    background-color: rgb(255 255 255 / 0.9);
+    border: solid 1px color-mix(in srgb, var(--color-gray-900, #19191c) 8%, transparent);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+}
+
+/* Light-band icon buttons — `_icon-button.scss` light defaults via tokens */
+.company-page .web-white-section.light .company-angel .web-icon-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.75rem;
+    height: 1.75rem;
+    border-radius: 0.5rem;
+    -webkit-backdrop-filter: blur(7.5px);
+    backdrop-filter: blur(7.5px);
+    color: var(--color-text-primary);
+    background-color: var(--color-smooth);
+    border: 1px solid transparent;
+    box-shadow: 0 0 0 4px transparent;
+    transition:
+        color 0.15s ease,
+        background-color 0.15s ease,
+        border-color 0.15s ease,
+        box-shadow 0.15s ease;
+}
+
+.company-page .web-white-section.light .company-angel .web-icon-button:hover:not(:disabled) {
+    background-color: var(--color-offset);
+}
+
+.company-page .web-white-section.light .company-angel .web-icon-button:focus-visible:not(:disabled) {
+    outline: none;
+    border-color: var(--color-brand-primary, #2d63ff);
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 24%, transparent);
+}
+
+/* Marketing primary CTA (Clikkle blue) — same as `docs-header.css` header CTA */
+.company-page a.web-button.is-primary {
+    color: #fff;
+    font-weight: 500;
+    border-color: rgba(255, 255, 255, 0.1);
+    background: linear-gradient(180deg, #3f7cff 0%, #2d63ff 45%, #2458e8 100%);
+    background-origin: border-box;
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.22),
+        0 4px 14px rgba(0, 0, 0, 0.28);
+}
+
+.company-page a.web-button.is-primary:hover:not(:disabled) {
+    background: linear-gradient(180deg, #4d86ff 0%, #356ef8 45%, #2a5feb 100%);
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.26),
+        0 6px 18px rgba(45, 99, 255, 0.28);
+}
+
+.company-page a.web-button.is-primary:focus-visible {
+    box-shadow: 0 0 0 0.25rem rgba(45, 99, 255, 0.24);
+}
+
+/* `_button.scss` `.is-transparent` — blue glass (no neutral/pink bleed from old PNG) */
+.company-page .company-prefooter a.web-button.is-transparent {
+    background: linear-gradient(
+        135deg,
+        color-mix(in srgb, var(--color-brand-primary, #2d63ff) 20%, transparent) 0%,
+        color-mix(in srgb, var(--color-brand-primary, #2d63ff) 10%, transparent) 100%
+    );
+    border: solid 1px color-mix(in srgb, var(--color-brand-primary, #2d63ff) 32%, transparent);
+    color: var(--color-text-primary);
+}
+
+.company-page .company-prefooter a.web-button.is-transparent:hover:not(:disabled) {
+    background: linear-gradient(
+        135deg,
+        color-mix(in srgb, var(--color-brand-primary, #2d63ff) 30%, transparent) 0%,
+        color-mix(in srgb, var(--color-brand-primary, #2d63ff) 16%, transparent) 100%
+    );
+}
+
+.company-page .company-prefooter a.web-button.is-transparent:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 0.25rem rgba(45, 99, 255, 0.2);
+}

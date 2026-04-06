@@ -5,36 +5,39 @@ import { cn } from "@/lib/utils";
 import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { withBasePath } from "@/lib/basepath";
+
+const asset = (p: string) => withBasePath(p);
 
 const studies = [
     {
         id: "0",
-        logo: '/clikkle/images/logos/devkind.svg',
+        logo: asset("/images/logos/devkind-light.svg"),
         headline: 'DevKind reduced development time by 60% and lowered server costs by 40%',
         blurb: 'A special thanks to Clikkle for providing robust features and seamless functionality.',
         name: 'Hassan Ahmed',
         title: 'Engineer at DevKind',
-        avatar: '/clikkle/images/testimonials/hassan.png',
+        avatar: asset("/images/testimonials/hassan.svg"),
         url: '/customers/customer-story-storealert'
     },
     {
         id: "1",
-        logo: '/clikkle/images/logos/langx.svg',
+        logo: asset("/images/logos/langx-light.svg"),
         headline: 'LangX handled millions of requests using Clikkle',
         blurb: 'With its comprehensive suite of services, Clikkle emerged as an ideal choice for my needs.',
         name: 'Xue',
         title: 'Founder at LangX',
-        avatar: '/clikkle/images/testimonials/xue.webp',
+        avatar: asset("/images/testimonials/xue.svg"),
         url: '/customers/customer-stories-langx'
     },
     {
         id: "2",
-        logo: '/clikkle/images/logos/k-collect.svg',
+        logo: asset("/images/logos/k-collect-light.svg"),
         headline: 'K-Collect reduced infrastructure costs by 700%',
         blurb: 'A major impact that Clikkle made was the amount of time and stress saved.',
         name: "Ryan O'Connor",
         title: 'Founder at K-Collect',
-        avatar: '/clikkle/images/testimonials/ryan.png',
+        avatar: asset("/images/testimonials/ryan.svg"),
         url: '/customers/customer-stories-kcollect'
     }
 ];

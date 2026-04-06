@@ -148,3 +148,155 @@
     -webkit-mask-image: linear-gradient(to top, transparent 0%, black var(--mask-height, 150px));
     mask-image: linear-gradient(to top, transparent 0%, black var(--mask-height, 150px));
 }
+
+/* `gradient-border-card.svelte` — Ways + Why stats cards */
+.partners-gradient-card {
+    position: relative;
+    border-radius: 1rem;
+    background-color: var(--color-card);
+}
+
+.partners-page .partners-benefits-cell {
+    background-color: #19191c;
+}
+
+.partners-submission-shell {
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.partners-submission-shell::before,
+.partners-submission-shell::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -10;
+    pointer-events: none;
+}
+
+.partners-submission-shell::before {
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: radial-gradient(
+        circle at -15% -30%,
+        hsla(221, 83%, 56%, 0.2) 0px,
+        transparent 40%
+    );
+    filter: blur(2rem);
+}
+
+.partners-submission-shell::after {
+    top: 0;
+    right: 0;
+    margin-top: auto;
+    margin-bottom: 0;
+    height: 100%;
+    background: radial-gradient(
+        circle at 120% 125%,
+        hsla(177, 53%, 69%, 0.2) 0px,
+        transparent 40%
+    );
+    filter: blur(2rem);
+}
+
+/* `partners.svelte` tier band — Clikkle blue radial (not Appwrite pink) */
+.partners-tiers-band::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    top: 0;
+    right: 0;
+    z-index: 0;
+    margin-top: auto;
+    margin-bottom: 0;
+    display: block;
+    height: 100%;
+    background: radial-gradient(circle at 120% -40%, hsla(221, 83%, 56%, 0.2) 0px, transparent 40%);
+    pointer-events: none;
+}
+
+.partners-gradient-card.border-gradient {
+    --border-radius: 1rem;
+}
+
+/* `src/scss/_10-utilities.scss` — submission form (mirrors startups.css) */
+.partners-page .web-u-max-width-380 {
+    max-inline-size: 23.75rem;
+}
+
+@media (max-width: 1023.98px) {
+    .partners-page .web-u-flex-vertical-reverse-mobile {
+        flex-direction: column-reverse !important;
+    }
+
+    .partners-page .web-u-inline-width-100-percent-mobile-break1 {
+        inline-size: 100%;
+        max-inline-size: 100%;
+    }
+}
+
+/* `docs-markdoc-parity.css` — success-state social row */
+.partners-page .web-icon-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 0.375rem;
+    border: 1px solid var(--color-border-default);
+    background: var(--bg-secondary);
+    color: var(--color-text-primary);
+    cursor: pointer;
+}
+
+.partners-page .web-icon-button:hover {
+    background: var(--color-smooth);
+}
+
+/* Mirrors `src/scss/6-elements/_input-text.scss` (`.web-input-text` + `textarea.web-input-text`) on the partners form. */
+.partners-page .partners-submission-form .web-input-text {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem; /* pxToRem(4) */
+    width: 100%;
+    padding-inline: 1rem; /* 16px */
+    padding-block: 0.75rem; /* 12px */
+    border-radius: 0.5rem; /* 8px */
+    border: solid 1px var(--color-offset);
+    background-color: var(--color-smooth);
+    color: var(--color-text-primary);
+    font-size: 1rem; /* 16px */
+    line-height: 1;
+    font-weight: 500;
+    white-space: nowrap;
+    outline: none;
+    transition:
+        border-color 0.15s ease,
+        box-shadow 0.15s ease,
+        background-color 0.15s ease;
+}
+
+.partners-page .partners-submission-form .web-input-text::placeholder {
+    color: var(--color-text-muted);
+}
+
+.partners-page .partners-submission-form .web-input-text:hover:enabled {
+    border-color: var(--color-brand-primary, #2d63ff);
+}
+
+.partners-page .partners-submission-form .web-input-text:focus-visible {
+    border-color: var(--color-brand-primary, #2d63ff);
+    /* Dark theme focus ring: `hsl(var(--web-color-white) / 0.16)` in Appwrite */
+    box-shadow: 0 0 0 0.25rem hsl(0 0% 100% / 0.16);
+}
+
+.partners-page .partners-submission-form textarea.web-input-text {
+    display: block;
+    padding-inline: 1rem;
+    padding-block: 0.75rem;
+    block-size: 9.625rem; /* pxToRem(154) — `_input-text.scss` */
+    min-block-size: 9.625rem;
+    white-space: normal;
+    resize: none;
+}

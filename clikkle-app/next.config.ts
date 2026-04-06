@@ -5,12 +5,18 @@ import type { NextConfig } from "next";
  * `import.meta.url` on `next.config` can resolve to unexpected paths on some setups — `cwd` matches
  * `npm run dev` / `npm run build` when run from `clikkle-app/`.
  */
+const basePath = "/clikkle";
+
 const nextConfig: NextConfig = {
   turbopack: {
     root: process.cwd(),
   },
   output: "export",
-  basePath: "/clikkle",
+  basePath,
+  /** Ensures client `withBasePath()` matches `basePath` after restart (fixes broken `<img src>` without manual .env). */
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath,
+  },
   /** OpenAPI + examples are read at runtime via fs; avoid bundler tracing the whole package tree. */
   serverExternalPackages: ["@appwrite.io/specs"],
   images: {
