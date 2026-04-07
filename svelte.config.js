@@ -54,7 +54,8 @@ const config = {
         prerender: {
             concurrency: 32,
             handleMissingId: 'warn',
-            handleHttpError: 'warn'
+            handleHttpError: 'warn',
+            handleUnseenRoutes: 'warn'
         },
         experimental: {
             // Required for `$lib/remote/*.remote` (e.g. markdown.remote) — vite-plugin-sveltekit-guard errors if off
