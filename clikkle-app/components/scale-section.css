@@ -1,0 +1,28 @@
+/**
+ * Horizontal band for `scale.svelte` — mirrors `src/styles/appwrite-spacing.css` breakpoints
+ * and `Main.svelte` `.aw-header-shell` math without relying on inline styles (survives HMR /
+ * variable edge cases). Same box as `@utility container` in `globals.css`.
+ */
+.scale-section__band {
+  box-sizing: border-box;
+  margin-inline: auto;
+  width: min(100%, calc(80rem + 2 * 1.5rem));
+  max-width: calc(80rem + 2 * 1.5rem);
+  padding-inline: 1.5rem; /* --space-lg */
+}
+
+@media (min-width: 768px) {
+  .scale-section__band {
+    width: min(100%, calc(80rem + 2 * 3rem));
+    max-width: calc(80rem + 2 * 3rem);
+    padding-inline: 3rem; /* --space-3xl */
+  }
+}
+
+@media (min-width: 1025px) {
+  .scale-section__band {
+    width: min(100%, calc(80rem + 2 * 4rem));
+    max-width: calc(80rem + 2 * 4rem);
+    padding-inline: 4rem; /* --space-4xl */
+  }
+}
