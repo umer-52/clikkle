@@ -48,14 +48,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run build
 
+      # Next.js `basePath: "/clikkle"` writes the site under `out/clikkle/`.
+      # GitHub project Pages serves the *branch root* at `https://<user>.github.io/<repo>/`.
+      # Publishing all of `out/` would nest the app at `/clikkle/clikkle/` and leave `/clikkle/`
+      # serving whatever was at branch root (often an old Svelte export — wrong branding).
+      - name: Verify static export layout
+        run: test -f clikkle-app/out/clikkle/index.html
+
       - name: Disable Jekyll (required for _next)
-        run: touch clikkle-app/out/.nojekyll
+        run: touch clikkle-app/out/clikkle/.nojekyll
 
       - name: Publish to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./clikkle-app/out
+          publish_dir: ./clikkle-app/out/clikkle
           publish_branch: gh-pages
           force_orphan: true
           enable_jekyll: false
