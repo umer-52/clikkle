@@ -1,4 +1,4 @@
-# Builds the SvelteKit static site and pushes it to the `gh-pages` branch.
+# Builds the Next.js static export (`clikkle-app`) and pushes it to the `gh-pages` branch.
 # Works even if GitHub Pages was previously unpublished (no GitHub Actions "Pages" artifact deploy).
 #
 # After the first successful run:
@@ -37,39 +37,28 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Create .env for CI build
-        run: |
-          echo "PUBLIC_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1" > .env
-          echo "PUBLIC_APPWRITE_DASHBOARD=https://cloud.appwrite.io" >> .env
-          echo "PUBLIC_APPWRITE_PROJECT_ID=placeholder" >> .env
-          echo "PUBLIC_APPWRITE_DB_MAIN_ID=placeholder" >> .env
-          echo "PUBLIC_APPWRITE_COL_THREADS_ID=placeholder" >> .env
-          echo "PUBLIC_APPWRITE_COL_MESSAGES_ID=placeholder" >> .env
-          echo "PUBLIC_APPWRITE_FN_TLDR_ID=placeholder" >> .env
-          echo "PUBLIC_APPWRITE_PROJECT_INIT_ID=placeholder" >> .env
-          echo "PUBLIC_GROWTH_ENDPOINT=https://growth.appwrite.io" >> .env
-          echo "PUBLIC_ARENA_ENDPOINT=https://arena.appwrite.io" >> .env
-          echo "PUBLIC_POSTHOG_API_KEY=placeholder" >> .env
-          echo "APPWRITE_DB_INIT_ID=placeholder" >> .env
-          echo "APPWRITE_COL_INIT_ID=placeholder" >> .env
-          echo "APPWRITE_API_KEY_INIT=placeholder" >> .env
+      - name: Install dependencies (clikkle-app)
+        working-directory: clikkle-app
+        run: npm ci
 
-      - name: Install dependencies
-        run: npm install --legacy-peer-deps
-
-      - name: Build static site
+      - name: Build static export (clikkle-app)
+        working-directory: clikkle-app
         env:
-          BASE_PATH: /clikkle
+          NEXT_TELEMETRY_DISABLED: "1"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run build
+
+      - name: Disable Jekyll (required for _next)
+        run: touch clikkle-app/out/.nojekyll
 
       - name: Publish to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          publish_dir: ./clikkle-app/out
           publish_branch: gh-pages
           force_orphan: true
+          enable_jekyll: false
 
       - name: Live URL hint
         run: |
