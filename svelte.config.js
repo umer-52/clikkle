@@ -52,7 +52,8 @@ const config = {
             $markdoc: './src/markdoc'
         },
         prerender: {
-            concurrency: 32,
+            // High concurrency can hit OS file-descriptor limits on some runners (notably Windows).
+            concurrency: 4,
             handleMissingId: 'warn',
             handleHttpError: 'warn',
             handleUnseenRoutes: 'warn'

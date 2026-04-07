@@ -6,7 +6,13 @@ import { iterateAllThreads } from '../helpers';
 /* short-circuit for build runs on CI from external contributors */
 function shouldSkipThreadsPrerender(): boolean {
     const endpoint = PUBLIC_APPWRITE_ENDPOINT;
-    return !endpoint || !PUBLIC_APPWRITE_PROJECT_ID || endpoint.includes('appwrite.test');
+    const project = PUBLIC_APPWRITE_PROJECT_ID;
+    return (
+        !endpoint ||
+        !project ||
+        project === 'placeholder' ||
+        endpoint.includes('appwrite.test')
+    );
 }
 
 export const prerender = true;
@@ -16,10 +22,14 @@ export const GET: RequestHandler = async () => {
         return json([]);
     }
 
-    const ids = [];
-    for await (const thread of iterateAllThreads()) {
-        ids.push(thread.$id);
+    try {
+        const ids = [];
+        for await (const thread of iterateAllThreads()) {
+            ids.push(thread.$id);
+        }
+        return json(ids);
+    } catch {
+        // During static builds, Appwrite credentials may be invalid/missing; never fail prerender.
+        return json([]);
     }
-
-    return json(ids);
 };
