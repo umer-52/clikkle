@@ -75,16 +75,16 @@ export function LLMBenchmark() {
             Benchmark results across different language models for Clikkle operations
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <div className="not-prose flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               href="/docs/tooling/skills"
-              className="web-btn web-btn-primary aw-cta-button aw-focus-ring w-full justify-center sm:w-auto"
+              className="web-btn web-btn--appwrite-primary w-full justify-center sm:w-auto"
             >
               Install skill
             </Link>
             <a
               href="#benchmark-table"
-              className="web-btn web-btn-secondary aw-focus-ring w-full justify-center sm:w-auto"
+              className="web-btn web-btn--appwrite-secondary w-full justify-center sm:w-auto"
             >
               View full benchmark
             </a>

@@ -6,6 +6,8 @@ import { SiteHeader } from "@/components/site-header";
 import { ThemeProvider } from "@/components/theme-provider";
 import { THEME_INIT_SCRIPT } from "@/lib/theme-init-script";
 import "./globals.css";
+/* Appwrite-parity marketing CTAs — unlayered; must load after globals (see file header). */
+import "./marketing-appwrite-buttons.css";
 /* Docs `.web-button` / `.web-inline-tag` — used by `SiteHeader` GitHub control + docs layout (deduped). */
 import "./docs/docs-header.css";
 /* `.web-button.is-secondary` gradient border — home pricing + docs article chrome (deduped with docs/layout). */

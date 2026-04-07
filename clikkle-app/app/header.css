@@ -398,6 +398,7 @@
     box-shadow: 0 0 0 4px rgba(45, 99, 255, 0.16);
 }
 
+
 @media (min-width: 768px) {
     .aw-mobile-panel {
         padding: 32px;

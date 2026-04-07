@@ -149,12 +149,12 @@ export function AiTable() {
             Find out how well your model integrates with Clikkle.
           </span>
         </h3>
-        <div className="flex w-full flex-col gap-3 sm:w-auto sm:flex-row sm:items-center sm:gap-4">
+        <div className="not-prose flex w-full flex-col gap-3 sm:w-auto sm:flex-row sm:items-center sm:gap-4">
           <Link
             href="/docs/tooling/skills"
             target="_blank"
             rel="noopener noreferrer"
-            className="web-btn web-btn-primary aw-cta-button aw-focus-ring w-full justify-center sm:w-auto"
+            className="web-btn web-btn--appwrite-primary w-full justify-center sm:w-auto"
           >
             Install skill
           </Link>
@@ -162,7 +162,7 @@ export function AiTable() {
             href="https://arena.clikkle.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="web-btn web-btn-secondary ai-benchmark-soft-glare aw-focus-ring w-full justify-center sm:w-auto"
+            className="web-btn web-btn--appwrite-secondary w-full justify-center sm:w-auto"
           >
             View full benchmark
           </a>

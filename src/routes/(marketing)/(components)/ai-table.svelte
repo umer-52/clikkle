@@ -168,7 +168,9 @@
 </script>
 
 <!-- Agent Skill + LLM Compatibility -->
-<div class="container pt-14 md:pt-20">
+<div
+    class="container pt-14 md:pt-20 clikkle-brand-scope"
+>
     <!-- Pitch -->
     <div
         class="mb-8 flex flex-col items-start gap-6 sm:flex-row sm:items-center sm:justify-between"
@@ -260,3 +262,125 @@
         </table>
     </div>
 </div>
+
+<style>
+    /*
+     * Force a 1:1 Appwrite button clone in this section only,
+     * but using Clikkle blue (no pink anywhere).
+     */
+    .clikkle-brand-scope {
+        --clikkle-brand-primary: #2d63ff;
+        --clikkle-brand-secondary: #1e3a8a;
+    }
+
+    .clikkle-brand-scope :global(.web-button) {
+        --m-border-radius: var(--border-radius-small, 8px);
+        --m-border-size: 1px;
+
+        box-sizing: border-box;
+        min-block-size: 40px;
+        padding-block: 7px;
+        padding-inline: 14px;
+        border-radius: var(--m-border-radius);
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 1;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        transition: var(--transition);
+        text-decoration: none !important;
+        cursor: pointer;
+        border: solid var(--m-border-size) transparent;
+        font-family: inherit;
+        white-space: pre;
+        user-select: none;
+
+        background: linear-gradient(
+            135deg,
+            var(--clikkle-brand-primary) 0%,
+            var(--clikkle-brand-primary) 61%,
+            var(--clikkle-brand-secondary) 100%
+        );
+        background-origin: border-box;
+        color: #fff;
+    }
+
+    .clikkle-brand-scope :global(.web-button:hover:not(:disabled)) {
+        box-shadow: 0 0 32px 0 color-mix(in srgb, var(--clikkle-brand-primary) 32%, transparent);
+    }
+
+    .clikkle-brand-scope :global(.web-button:active:not(:disabled)) {
+        box-shadow: 0 0 32px 0 color-mix(in srgb, var(--clikkle-brand-primary) 24%, transparent);
+    }
+
+    .clikkle-brand-scope :global(.web-button:focus-visible:not(:disabled)) {
+        box-shadow: 0 0 0 4px color-mix(in srgb, var(--clikkle-brand-primary) 24%, transparent);
+        outline: none;
+    }
+
+    :global(html.dark) .clikkle-brand-scope :global(.web-button:focus-visible:not(:disabled)) {
+        box-shadow: 0 0 0 4px color-mix(in srgb, var(--clikkle-brand-primary) 48%, transparent);
+    }
+
+    /*
+     * Secondary variant: drive Appwrite’s existing `border-gradient` mixin by setting
+     * `--m-border-gradient-before/after` exactly like Appwrite does, but in Clikkle blue.
+     */
+    .clikkle-brand-scope :global(.web-button.is-secondary) {
+        background-image: none !important;
+        border-width: 0 !important;
+        color: rgba(255, 255, 255, 0.92) !important;
+        background: rgba(45, 99, 255, 0.04) !important;
+        box-shadow: 0px -6px 10px 0px rgba(45, 99, 255, 0.08) inset !important;
+
+        --m-border-gradient-before: linear-gradient(
+            to bottom,
+            rgba(45, 99, 255, 0.48) 0%,
+            rgba(45, 99, 255, 0) 180%
+        );
+        --m-border-gradient-after: radial-gradient(
+            42.86% 42.86% at 50.55% -0%,
+            rgba(255, 255, 255, 0.2) 0%,
+            rgba(255, 255, 255, 0) 100%
+        );
+    }
+
+    .clikkle-brand-scope :global(.web-button.is-secondary:hover:not(:disabled)) {
+        background: rgba(45, 99, 255, 0.10) !important;
+        box-shadow: 0px -6px 10px 0px rgba(45, 99, 255, 0.08) inset !important;
+        --m-border-gradient-before: linear-gradient(
+            180deg,
+            rgba(45, 99, 255, 0.64) 0%,
+            rgba(45, 99, 255, 0) 163.1%
+        );
+        --m-border-gradient-after: radial-gradient(
+            42.86% 42.86% at 50.55% 0%,
+            rgba(255, 255, 255, 0.20) 0%,
+            rgba(255, 255, 255, 0.00) 100%
+        );
+    }
+
+    .clikkle-brand-scope :global(.web-button.is-secondary:active:not(:disabled)) {
+        background: rgba(45, 99, 255, 0.16) !important;
+        box-shadow: 0px -6px 10px 0px rgba(45, 99, 255, 0.08) inset !important;
+        --m-border-gradient-before: linear-gradient(
+            180deg,
+            rgba(45, 99, 255, 0.64) 0%,
+            rgba(45, 99, 255, 0) 163.1%
+        );
+        --m-border-gradient-after: radial-gradient(
+            42.86% 42.86% at 50.55% 0%,
+            rgba(255, 255, 255, 0.32) 0%,
+            rgba(255, 255, 255, 0.00) 100%
+        );
+    }
+
+    .clikkle-brand-scope :global(.web-button.is-secondary:focus-visible:not(:disabled)) {
+        background: rgba(45, 99, 255, 0.04) !important;
+        box-shadow:
+            0px 0px 0px 4px rgba(45, 99, 255, 0.16),
+            0px -6px 10px 0px rgba(45, 99, 255, 0.08) inset !important;
+    }
+</style>
