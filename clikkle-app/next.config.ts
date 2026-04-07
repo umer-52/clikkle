@@ -13,10 +13,11 @@ const nextConfig: NextConfig = {
   },
   /**
    * Default parallel static export can exhaust RAM on Vercel while prerendering ~5k `/docs/[...slug]`
-   * pages. Lower concurrency keeps peak memory within typical build limits.
+   * pages. Cap export concurrency and logical CPUs so peak memory stays within typical build runners.
    */
   experimental: {
-    staticGenerationMaxConcurrency: 2,
+    cpus: 2,
+    staticGenerationMaxConcurrency: 1,
   },
   output: "export",
   basePath,

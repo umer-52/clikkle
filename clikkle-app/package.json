@@ -6,9 +6,9 @@
     "node": ">=22.0.0"
   },
   "scripts": {
-    "predev": "node scripts/sync-docs-font-assets.mjs && node scripts/sync-static-images.mjs && npx tsx scripts/export-docs-md.ts",
+    "predev": "node scripts/sync-docs-font-assets.mjs && node scripts/sync-static-images.mjs && node ./node_modules/tsx/dist/cli.mjs scripts/export-docs-md.ts",
     "dev": "next dev",
-    "prebuild": "node scripts/sync-docs-font-assets.mjs && node scripts/build-docs-fonts-css.mjs && node scripts/sync-static-images.mjs && npx tsx scripts/export-docs-md.ts",
+    "prebuild": "node scripts/sync-docs-font-assets.mjs && node scripts/build-docs-fonts-css.mjs && node scripts/sync-static-images.mjs && node ./node_modules/tsx/dist/cli.mjs scripts/export-docs-md.ts",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
