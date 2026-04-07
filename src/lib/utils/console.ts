@@ -4,9 +4,11 @@ import { Account, Client, Teams } from '@appwrite.io/console';
 import { Query, type Models } from '@appwrite.io/console';
 import { PUBLIC_APPWRITE_ENDPOINT } from '$env/static/public';
 
+const DEFAULT_APPWRITE_ENDPOINT = 'https://cloud.appwrite.io/v1';
+
 const client = new Client();
 
-client.setEndpoint(PUBLIC_APPWRITE_ENDPOINT).setProject('console');
+client.setEndpoint(PUBLIC_APPWRITE_ENDPOINT?.trim() || DEFAULT_APPWRITE_ENDPOINT).setProject('console');
 
 const account = new Account(client);
 const teams = new Teams(client);
@@ -61,7 +63,9 @@ export async function createSource(
         utmMedium
     };
 
-    const uri = new URL(client.config.endpoint + path);
+    // During prerender / CI, env may be unset; ensure URL is absolute.
+    const base = client.config.endpoint?.trim() || DEFAULT_APPWRITE_ENDPOINT;
+    const uri = new URL(path, base);
     return await client.call(
         'POST',
         uri,
