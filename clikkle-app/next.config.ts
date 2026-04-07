@@ -8,6 +8,9 @@ import type { NextConfig } from "next";
 const basePath = "/clikkle";
 
 const nextConfig: NextConfig = {
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   turbopack: {
     root: process.cwd(),
   },

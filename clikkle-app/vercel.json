@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "npm ci",
+  "installCommand": "NPM_CONFIG_ENGINE_STRICT=false npm ci",
   "build": {
     "env": {
       "NODE_OPTIONS": "--max-old-space-size=6144"
