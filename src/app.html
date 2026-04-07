@@ -5,16 +5,16 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="twitter:site" content="@appwrite" />
-    <link rel="icon" type="image/svg+xml" href="%sveltekit.base%/images/logos/logo.svg" />
+    <link rel="icon" type="image/svg+xml" href="%sveltekit.assets%/images/logos/logo.svg" />
 
     <!-- apple touch icons -->
-    <link rel="apple-touch-icon" href="%sveltekit.base%/images/logos/icons/apple-touch-icon-180x180.png"
+    <link rel="apple-touch-icon" href="%sveltekit.assets%/images/logos/icons/apple-touch-icon-180x180.png"
         sizes="180x180" />
-    <link rel="apple-touch-icon" href="%sveltekit.base%/images/logos/icons/apple-touch-icon-167x167.png"
+    <link rel="apple-touch-icon" href="%sveltekit.assets%/images/logos/icons/apple-touch-icon-167x167.png"
         sizes="167x167" />
-    <link rel="apple-touch-icon" href="%sveltekit.base%/images/logos/icons/apple-touch-icon-152x152.png"
+    <link rel="apple-touch-icon" href="%sveltekit.assets%/images/logos/icons/apple-touch-icon-152x152.png"
         sizes="152x152" />
-    <link rel="apple-touch-icon" href="%sveltekit.base%/images/logos/icons/apple-touch-icon-120x120.png"
+    <link rel="apple-touch-icon" href="%sveltekit.assets%/images/logos/icons/apple-touch-icon-120x120.png"
         sizes="120x120" />
 
     <!-- apple startup screen -->
@@ -22,7 +22,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Appwrite" />
     <!-- preload font for headlines -->
-    <link rel="preload" href="%sveltekit.base%/fonts/aeonik-pro/AeonikPro-Regular.woff2" as="font" type="font/woff2"
+    <link rel="preload" href="%sveltekit.assets%/fonts/aeonik-pro/AeonikPro-Regular.woff2" as="font" type="font/woff2"
         crossorigin />
     %sveltekit.head%
 </head>
@@ -30,7 +30,7 @@
 <body class="dark group/body antialiased" data-sveltekit-preload-data="hover">
     <script>
         // Theme
-        const base = '%sveltekit.base%';
+        const base = '%sveltekit.assets%';
         const isDocs =
             window.location.pathname.startsWith(base + '/docs') ||
             window.location.pathname === base + '/docs';
