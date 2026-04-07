@@ -9,7 +9,7 @@
     "predev": "node scripts/sync-docs-font-assets.mjs && node scripts/sync-static-images.mjs && node ./node_modules/tsx/dist/cli.mjs scripts/export-docs-md.ts",
     "dev": "next dev",
     "prebuild": "node scripts/sync-docs-font-assets.mjs && node scripts/build-docs-fonts-css.mjs && node scripts/sync-static-images.mjs && node ./node_modules/tsx/dist/cli.mjs scripts/export-docs-md.ts",
-    "build": "next build --webpack",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "docs:diff-markdoc": "node scripts/diff-all-docs-markdoc.mjs",
