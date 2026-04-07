@@ -19,7 +19,6 @@ const nextConfig: NextConfig = {
    * pages. Cap export concurrency and logical CPUs so peak memory stays within typical build runners.
    */
   experimental: {
-    cpus: 2,
     staticGenerationMaxConcurrency: 1,
   },
   output: "export",

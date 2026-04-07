@@ -3,7 +3,7 @@
   "installCommand": "NPM_CONFIG_ENGINE_STRICT=false npm ci",
   "build": {
     "env": {
-      "NODE_OPTIONS": "--max-old-space-size=6144"
+      "NODE_OPTIONS": "--max-old-space-size=8192"
     }
   },
   "redirects": [
