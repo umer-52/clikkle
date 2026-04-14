@@ -12,6 +12,8 @@ import "./marketing-appwrite-buttons.css";
 import "./docs/docs-header.css";
 /* `.web-button.is-secondary` gradient border — home pricing + docs article chrome (deduped with docs/layout). */
 import "./docs/docs-article-sections.css";
+/* Marketing header surface + main bleed — must be last CSS import (wins over Tailwind layers). */
+import "./marketing-header-chrome.css";
 
 /* ─── Font Configuration ─── */
 

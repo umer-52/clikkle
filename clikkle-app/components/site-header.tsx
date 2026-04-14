@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState, useRef, type CSSProperties } from "react";
 import { Star, X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
@@ -15,6 +15,8 @@ function isUnderDocsRoute(pathname: string | null | undefined) {
 }
 
 export function SiteHeader() {
+  /** Keep top transparent header longer before scrolled glass kicks in. */
+  const HEADER_SCROLL_THRESHOLD = 64;
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const mobileNavPanel = useRef<HTMLElement>(null);
@@ -22,11 +24,17 @@ export function SiteHeader() {
   const navPath = stripBasePathFromPathname(pathname ?? "") || "/";
 
   useEffect(() => {
-    const onScroll = () => setIsScrolled(window.scrollY > 10);
+    const onScroll = () => {
+      const y =
+        typeof window !== "undefined"
+          ? window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0
+          : 0;
+      setIsScrolled(y > HEADER_SCROLL_THRESHOLD);
+    };
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
-  }, []);
+  }, [HEADER_SCROLL_THRESHOLD]);
 
   useEffect(() => {
     const handleEsc = (e: KeyboardEvent) => {
@@ -65,22 +73,38 @@ export function SiteHeader() {
 
   const GITHUB_STARS = "55.2K";
   const GITHUB_LINK = "https://github.com/clikkle/clikkle";
-  const CTA_LINK = "https://cloud.clikkle.com/register";
+  const CTA_LINK = "https://console.clikkle.com/";
+
+  /* Inline surface so Turbopack/Tailwind layer order cannot strip glass (tokens from `appwrite-pink-design-system.css`). */
+  const headerChromeStyle: CSSProperties = isScrolled
+    ? {
+        backgroundColor: "var(--color-background-glass)",
+        WebkitBackdropFilter: "blur(24px)",
+        backdropFilter: "blur(24px)",
+      }
+    : {
+        backgroundColor: "var(--aw-header-top-bg)",
+        WebkitBackdropFilter: "blur(12px)",
+        backdropFilter: "blur(12px)",
+      };
 
   return (
     <>
-      <header className={`aw-header ${isScrolled ? "aw-header-scrolled" : ""}`}>
-        {/* Appwrite `Main.svelte`: flat shell — logo, nav, actions as siblings; `gap: 2rem`; `lg` = 1024px */}
+      <header
+        className={`aw-header ${isScrolled ? "aw-header-scrolled" : ""}`}
+        style={headerChromeStyle}
+      >
+        {/* Clikkle `Main.svelte`: flat shell — logo, nav, actions as siblings; `gap: 2rem`; `lg` = 1024px */}
         <div className="aw-header-shell">
-          {/* Appwrite `Main.svelte`: logo image `height="24"` — keep wordmark compact for 72px bar */}
-          {/* Appwrite `Main.svelte`: `<img ... height="24" width="130" />` — fixed wordmark box for layout parity */}
+          {/* Clikkle `Main.svelte`: logo image `height="24"` — keep wordmark compact for 72px bar */}
+          {/* Clikkle `Main.svelte`: `<img ... height="24" width="130" />` — fixed wordmark box for layout parity */}
           <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
             <Image
-              src="/clikkle/images/logos/clikkle-header-wordmark.svg"
+              src="/clikkle/images/logos/clikkle-core-white.png"
               alt="Clikkle"
-              width={130}
-              height={24}
-              className="block h-6 w-[130px] shrink-0 object-contain object-left"
+              width={140}
+              height={63}
+              className="block h-7 w-auto shrink-0 object-contain object-left md:h-8"
               priority
             />
           </Link>
@@ -166,11 +190,11 @@ export function SiteHeader() {
           <div className="aw-mobile-panel-header">
             <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
               <Image
-                src="/clikkle/images/logos/clikkle-header-wordmark.svg"
+                src="/clikkle/images/logos/clikkle-core-white.png"
                 alt="Clikkle"
-                width={130}
-                height={24}
-                className="block h-6 w-[130px] shrink-0 object-contain object-left"
+                width={140}
+                height={63}
+                className="block h-7 w-auto shrink-0 object-contain object-left md:h-8"
                 priority
               />
             </Link>

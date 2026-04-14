@@ -1,0 +1,9 @@
+/*
+ * Load last from `app/layout.tsx` so these win over Tailwind `@layer` ordering in Turbopack.
+ * Docs routes: first child of `#main-content` is not `<main>` — this selector does not apply.
+ */
+#main-content > main:first-child {
+    margin-top: -4.5rem !important;
+    padding-top: 4.5rem !important;
+    box-sizing: border-box !important;
+}

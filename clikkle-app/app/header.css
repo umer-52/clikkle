@@ -10,11 +10,7 @@
        (`min-block-size` + `%` on the shell leaves the shell content-height and stuck to the top). */
     block-size: 4.5rem; /* 72px — `Main.svelte` `block-size: 72px` */
     padding-inline: 0;
-    border-block-end: 1px solid rgba(255, 255, 255, 0.08);
-    /* `Main.svelte` — static glass bar (scroll only adds shadow) */
-    background: rgba(25, 25, 28, 0.78);
-    -webkit-backdrop-filter: blur(24px);
-    backdrop-filter: blur(24px);
+    border-block-end: 1px solid var(--aw-header-top-border, rgba(255, 255, 255, 0.1));
     transition:
         box-shadow 300ms ease,
         border-color 300ms ease,
@@ -23,8 +19,70 @@
         backdrop-filter 300ms ease;
 }
 
+/* Rest state: frosted tint + blur (needs page content under bar — see globals `#main-content > main`) */
+.aw-header:not(.aw-header-scrolled) {
+    background-color: var(--aw-header-top-bg, rgba(15, 15, 19, 0.48));
+    border-block-end-color: var(--aw-header-top-border, rgba(255, 255, 255, 0.08));
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+}
+
+/* Scrolled: stronger glass + softer shadow; border stays continuous */
 .aw-header.aw-header-scrolled {
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.22);
+    background-color: var(--color-background-glass, rgba(15, 15, 19, 0.62));
+    border-block-end-color: var(--aw-header-scrolled-border, rgba(255, 255, 255, 0.1));
+    -webkit-backdrop-filter: blur(24px);
+    backdrop-filter: blur(24px);
+}
+
+/* Light theme (landing + docs): frosted light bar + dark text — matches appwrite.io light header */
+.light .aw-header:not(.aw-header-scrolled),
+html.light .aw-header:not(.aw-header-scrolled) {
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
+}
+
+.light .aw-header.aw-header-scrolled,
+html.light .aw-header.aw-header-scrolled {
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+}
+
+.light .aw-header-link,
+.light .aw-mobile-link,
+html.light .aw-header-link,
+html.light .aw-mobile-link {
+    color: rgba(25, 25, 28, 0.88);
+}
+
+.light .aw-header .web-button.is-text,
+.light .aw-mobile-actions .web-button.is-text,
+html.light .aw-header .web-button.is-text,
+html.light .aw-mobile-actions .web-button.is-text {
+    color: rgba(25, 25, 28, 0.88);
+}
+
+.light .aw-header .web-button.is-text .web-inline-tag,
+.light .aw-mobile-actions .web-button.is-text .web-inline-tag,
+html.light .aw-header .web-button.is-text .web-inline-tag,
+html.light .aw-mobile-actions .web-button.is-text .web-inline-tag {
+    background: rgba(0, 0, 0, 0.06);
+    color: rgba(25, 25, 28, 0.62);
+}
+
+.light .aw-menu-button,
+.light .aw-close-button,
+html.light .aw-menu-button,
+html.light .aw-close-button {
+    background: rgba(0, 0, 0, 0.06);
+    color: rgba(25, 25, 28, 0.88);
+}
+
+.light .aw-menu-button:hover,
+.light .aw-close-button:hover,
+html.light .aw-menu-button:hover,
+html.light .aw-close-button:hover {
+    background: rgba(0, 0, 0, 0.1);
+    color: #2d63ff;
 }
 
 /* Appwrite `Main.svelte` `.aw-header-shell` — marketing header (not docs `web-main-header-wrapper`).
@@ -38,8 +96,8 @@
     gap: 2rem; /* `Main.svelte` logo ↔ nav (32px) */
     block-size: 100%; /* `Main.svelte` — fill fixed 72px header for vertical centering */
     box-sizing: border-box;
-    width: min(100%, calc(var(--container-max-width) + (var(--container-padding-inline) * 2)));
-    max-width: calc(var(--container-max-width) + (var(--container-padding-inline) * 2)) !important;
+    /* Full width to match docs: No max-width clamps logo and button far apart */
+    width: 100%;
     margin-inline: auto;
     padding-inline: var(--container-padding-inline) !important;
 }
