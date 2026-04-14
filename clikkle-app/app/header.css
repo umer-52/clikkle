@@ -96,7 +96,7 @@ html.light .aw-close-button:hover {
     gap: 2rem; /* `Main.svelte` logo ↔ nav (32px) */
     block-size: 100%; /* `Main.svelte` — fill fixed 72px header for vertical centering */
     box-sizing: border-box;
-    /* Full width to match docs: No max-width clamps logo and button far apart */
+    /* Desktop: centered column + gutters — see `@media (min-width: 1024px)` (matches docs `web-main-header-wrapper`). */
     width: 100%;
     margin-inline: auto;
     padding-inline: var(--container-padding-inline) !important;
@@ -464,16 +464,44 @@ html.light .aw-close-button:hover {
 }
 
 /* `Main.svelte`: desktop nav + buttons from 1024px (`lg`) */
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+    /* Docs `docs-web-layout.css`: `.web-main-header` break2 `padding-inline: 1.25rem`. */
+    .aw-header {
+        padding-inline: 1.25rem;
+    }
+}
+
+@media (min-width: 1280px) {
+    .aw-header {
+        padding-inline: 2rem;
+    }
+}
+
 @media (min-width: 1024px) {
+    /*
+     * Docs: `.web-main-header` horizontal pad + `.web-main-header-wrapper` max 90rem centered.
+     * Same outer box as `.appwrite-container`: inner row width = `var(--container-size-large, 90rem)`.
+     */
+    .aw-header-shell {
+        gap: clamp(1rem, 2.2vw, 2rem);
+        width: min(
+            100%,
+            calc(var(--container-size-large, 90rem) + 2 * var(--container-padding-inline))
+        );
+        max-inline-size: calc(var(--container-size-large, 90rem) + 2 * var(--container-padding-inline));
+        /*
+         * Docs `web-main-header-wrapper` has no horizontal padding — actions sit on the wrapper’s end edge.
+         * Symmetric shell padding duplicated `--container-padding-inline` on the right and left the cluster
+         * ~one gutter short of docs. Keep the left gutter for logo/nav; drop only the end padding.
+         */
+        padding-inline-end: 0 !important;
+    }
+
     /*
      * Appwrite: one flex row — logo, nav, actions with `margin-inline-start: auto` on actions so the
      * gap before GitHub/CTA opens up. A grid + `overflow-x: auto` on nav clipped “Changelog” against
      * the actions column; stay on flex and tighten gaps on mid-width viewports instead.
      */
-    .aw-header-shell {
-        gap: clamp(1rem, 2.2vw, 2rem);
-    }
-
     .aw-header-nav {
         display: flex;
         gap: clamp(0.75rem, 1.75vw, 2rem);
