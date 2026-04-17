@@ -5,6 +5,7 @@ import { DocsConsoleCta } from "@/components/docs/docs-console-cta";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
+import { withBasePath } from "@/lib/basepath";
 import { SearchModal } from "./search-modal";
 import { isMac } from "@/lib/platform";
 import { GithubHeaderStar } from "@/components/github-header-star";
@@ -55,7 +56,7 @@ export function DocsHeader({
               aria-label="Clikkle home"
             >
               <Image
-                src="/clikkle/images/logos/logo.svg"
+                src={withBasePath("/2-version/Clikkle core (V1 White Text).png")}
                 alt="Clikkle"
                 width={24}
                 height={24}

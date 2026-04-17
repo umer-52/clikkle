@@ -87,14 +87,14 @@ const Benefits = ({
 
 const DevelopersToolkit = () => {
     const build = [
-        { label: 'Auth', icon: asset('/images/icons/illustrated/light/auth.png'), href: '/products/auth' },
-        { label: 'Databases', icon: asset('/images/icons/illustrated/light/databases.png'), href: '/docs/products/databases' },
-        { label: 'Storage', icon: asset('/images/icons/illustrated/light/storage.png'), href: '/products/storage' },
-        { label: 'Functions', icon: asset('/images/icons/illustrated/light/functions.png'), href: '/products/functions' },
-        { label: 'Messaging', icon: asset('/images/icons/illustrated/light/messaging.png'), href: '/products/messaging' },
-        { label: 'Realtime', icon: asset('/images/icons/illustrated/light/realtime.png'), href: '/docs/apis/realtime' },
+        { label: 'Auth', icon: asset('/icons-black/Auth.png'), href: '/products/auth' },
+        { label: 'Databases', icon: asset('/icons-black/Morph DB.png'), href: '/docs/products/databases' },
+        { label: 'Storage', icon: asset('/icons-black/Storage.png'), href: '/products/storage' },
+        { label: 'Functions', icon: asset('/icons-black/Functions.png'), href: '/products/functions' },
+        { label: 'Messaging', icon: asset('/icons-black/Messaging.png'), href: '/products/messaging' },
+        { label: 'Realtime', icon: asset('/icons-black/Streams.png'), href: '/docs/apis/realtime' },
     ];
-    const deploy = [{ label: 'Sites', icon: asset('/images/icons/illustrated/light/sites.png'), href: '/products/sites' }];
+    const deploy = [{ label: 'Sites', icon: asset('/icons-black/Deploy.png'), href: '/products/sites' }];
 
     return (
         <section className="container mx-auto">

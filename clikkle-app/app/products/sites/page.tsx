@@ -10,6 +10,10 @@ import { Network } from '@/components/marketing/network';
 import { OpenSourceAlternative } from '@/components/marketing/open-source-alternative';
 import { Testimonials } from '@/components/marketing/testimonials';
 import { Scale } from '@/components/marketing/scale';
+import { PricingSection } from '@/components/pricing-section';
+import { PreFooter } from '@/components/pre-footer';
+import { SiteFooter } from '@/components/site-footer';
+import { withBasePath } from '@/lib/basepath';
 
 export const metadata: Metadata = {
     title: 'Sites | Clikkle',
@@ -36,7 +40,7 @@ const features = [
 
 export default function SitesPage() {
     return (
-        <main className="flex flex-col bg-[var(--bg-primary)]">
+        <main className="flex flex-col bg-[var(--bg-primary)] overflow-x-hidden">
             {/* Sites Hero */}
             <div
                 className="relative flex flex-col items-center"
@@ -50,7 +54,7 @@ export default function SitesPage() {
                 <div className="container mx-auto grid w-full grid-cols-1 place-items-center gap-x-16 gap-y-8 py-12 max-lg:px-5 lg:grid-cols-12 lg:py-20">
                     <div className="col-span-full flex flex-col gap-6 lg:col-span-5">
                         <div className="flex items-center gap-2">
-                            <img src="/clikkle/images/icons/illustrated/dark/sites.png" className="w-8 h-8" alt="Sites icon" loading="lazy" />
+                            <img src={withBasePath("/icons-black/Deploy.png")} className="w-8 h-8" alt="Sites icon" loading="lazy" />
                             <span className="font-aeonik-fono tracking-widest text-white uppercase text-xs">
                                 Sites<span className="text-[#FE9567]">_</span>
                             </span>
@@ -146,6 +150,13 @@ export default function SitesPage() {
             </div>
 
             <ProductCards currentProduct="sites" />
+
+            <div className="border-smooth relative border-t border-black/10 bg-[var(--bg-primary)]">
+                <div className="container pb-16">
+                    <PreFooter headingId="sites-pre-footer-heading" />
+                    <SiteFooter noOuterContainer />
+                </div>
+            </div>
         </main>
     );
 }

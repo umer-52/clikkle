@@ -24,7 +24,7 @@ export function SiteHeader() {
   const appSwitcherRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const navPath = stripBasePathFromPathname(pathname ?? "") || "/";
-  const logoMarkSrc = withBasePath("/images/logos/logo.svg");
+  const logoMarkSrc = withBasePath("/2-version/Clikkle core (V1 White Text).png");
 
   useEffect(() => {
     const onScroll = () => {
@@ -282,7 +282,7 @@ export function SiteHeader() {
           <div className="aw-mobile-panel-header">
             <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
               <Image
-                src="/logo.png"
+                src={withBasePath("/2-version/Clikkle core (V1 White Text).png")}
                 alt="Clikkle"
                 width={140}
                 height={63}

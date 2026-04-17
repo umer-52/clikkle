@@ -5,53 +5,51 @@ import Link from "next/link";
 import { AnimatePresence, motion } from "framer-motion";
 import { ChevronDown, ChevronRight } from "lucide-react";
 import Image from "next/image";
+import { withBasePath } from "@/lib/basepath";
 import { megaMenuComparisons } from "@/lib/site-data";
-
-/** Static export + basePath: explicit `/clikkle/...` matches `SiteHeader` logo and `next.config` basePath. */
-const ILLUSTRATED = "/clikkle/images/icons/illustrated/dark";
 
 const products = [
   {
     name: "Auth",
     href: "/products/auth",
     description: "Secure login with multi-factor auth.",
-    icon: `${ILLUSTRATED}/auth.png`,
+    icon: withBasePath("/icons-black/Auth.png"),
   },
   {
     name: "Databases",
     href: "/docs/products/databases",
     description: "Scalable and robust databases.",
-    icon: `${ILLUSTRATED}/databases.png`,
+    icon: withBasePath("/icons-black/Morph DB.png"),
   },
   {
     name: "Storage",
     href: "/products/storage",
     description: "Advanced compression and encryption.",
-    icon: `${ILLUSTRATED}/storage.png`,
+    icon: withBasePath("/icons-black/Storage.png"),
   },
   {
     name: "Functions",
     href: "/products/functions",
     description: "Deploy & scale serverless functions.",
-    icon: `${ILLUSTRATED}/functions.png`,
+    icon: withBasePath("/icons-black/Functions.png"),
   },
   {
     name: "Messaging",
     href: "/products/messaging",
     description: "Set up a full-functioning messaging service.",
-    icon: `${ILLUSTRATED}/messaging.png`,
+    icon: withBasePath("/icons-black/Messaging.png"),
   },
   {
     name: "Realtime",
     href: "/docs/apis/realtime",
     description: "Subscribe and react to any event.",
-    icon: `${ILLUSTRATED}/realtime.png`,
+    icon: withBasePath("/icons-black/Streams.png"),
   },
   {
     name: "Sites",
     href: "/products/sites",
     description: "The open-source Vercel alternative.",
-    icon: `${ILLUSTRATED}/sites.png`,
+    icon: withBasePath("/icons-black/Deploy.png"),
   },
 ];
 

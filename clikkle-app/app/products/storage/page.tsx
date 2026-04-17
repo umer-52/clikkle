@@ -11,6 +11,8 @@ import { Testimonials } from '@/components/marketing/testimonials';
 import { PreFooter } from '@/components/pre-footer';
 import { SiteFooter } from '@/components/site-footer';
 
+import { withBasePath } from '@/lib/basepath';
+
 export const metadata: Metadata = {
     title: 'Storage | Clikkle',
     description:
@@ -20,12 +22,12 @@ export const metadata: Metadata = {
 /** `src/routes/products/storage/+page.svelte` — section order, shells, spacing (Clikkle theme). */
 export default async function StoragePage() {
     return (
-        <main className="flex min-h-screen flex-col bg-[var(--bg-primary)]">
+        <main className="flex min-h-screen flex-col bg-[var(--bg-primary)] overflow-x-hidden">
             <div className="overflow-hidden">
                 <ProductHero
                     eyebrow={{
                         label: 'Storage',
-                        icon: '/clikkle/images/icons/illustrated/dark/storage.png'
+                        icon: withBasePath('/icons-black/Storage.png')
                     }}
                     title="Robust and secure storage infrastructure"
                     description="Securely store files with advanced compression, encryption and image transformations."

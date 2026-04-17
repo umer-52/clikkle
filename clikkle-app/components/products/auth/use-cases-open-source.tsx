@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { withBasePath } from "@/lib/basepath";
 import { Github, MessageSquare } from 'lucide-react';
 
 const platforms = [
@@ -95,7 +96,7 @@ export function AuthSdkMigration() {
 
                         <div className="z-10 flex size-14 items-center justify-center rounded-lg border border-[#2D63FF] bg-white shadow-[0px_0px_8px_rgba(45,99,255,0.24),0px_5.35px_10.7px_rgba(0,0,0,0.02)]">
                             <Image
-                                src="/clikkle/images/logos/logo.svg"
+                                src={withBasePath("/2-version/Clikkle core (V1 White Text).png")}
                                 alt="Clikkle"
                                 width={24}
                                 height={24}

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { withBasePath } from '@/lib/basepath';
 
 interface ProductCardsProps {
     currentProduct?: string;
@@ -8,43 +9,43 @@ const allProducts = {
     auth: {
         title: 'Auth',
         description: 'Build secure authentication and manage your users.',
-        icon: '/clikkle/images/icons/illustrated/dark/auth.png',
+        icon: withBasePath('/icons-black/Auth.png'),
         url: '/products/auth'
     },
     databases: {
         title: 'Databases',
         description: 'Store and query structured data, ensuring scalable storage.',
-        icon: '/clikkle/images/icons/illustrated/dark/databases.png',
+        icon: withBasePath('/icons-black/Morph DB.png'),
         url: '/docs/products/databases'
     },
     storage: {
         title: 'Storage',
         description: 'Manage your files project, using convenient APIs and utilities.',
-        icon: '/clikkle/images/icons/illustrated/dark/storage.png',
+        icon: withBasePath('/icons-black/Storage.png'),
         url: '/products/storage'
     },
     functions: {
         title: 'Functions',
         description: 'Scale big and unlock limitless potential with Clikkle functions.',
-        icon: '/clikkle/images/icons/illustrated/dark/functions.png',
+        icon: withBasePath('/icons-black/Functions.png'),
         url: '/products/functions'
     },
     messaging: {
         title: 'Messaging',
         description: 'Use Clikkle messaging to send email, SMS, and push notifications.',
-        icon: '/clikkle/images/icons/illustrated/dark/messaging.png',
+        icon: withBasePath('/icons-black/Messaging.png'),
         url: '/products/messaging'
     },
     realtime: {
         title: 'Realtime',
         description: 'Subscribe and react to any event using the Realtime API.',
-        icon: '/clikkle/images/icons/illustrated/dark/realtime.png',
+        icon: withBasePath('/icons-black/Streams.png'),
         url: '/docs/apis/realtime'
     },
     sites: {
         title: 'Sites',
         description: 'The open-source Vercel alternative.',
-        icon: '/clikkle/images/icons/illustrated/dark/sites.png',
+        icon: withBasePath('/icons-black/Deploy.png'),
         url: '/products/sites'
     }
 } as const;

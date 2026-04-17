@@ -36,7 +36,13 @@ const plans = [
   }
 ];
 
-export function PricingSection({ className }: { className?: string }) {
+export function PricingSection({
+  className,
+  showFullHeader = true,
+}: {
+  className?: string;
+  showFullHeader?: boolean;
+}) {
   const visiblePlans = SHOW_SCALE_PLAN
     ? plans
     : plans.filter((p) => p.name !== "Scale");
@@ -46,36 +52,39 @@ export function PricingSection({ className }: { className?: string }) {
   return (
     <div
       className={cn(
-        "pricing-home-section relative -mt-6 -mb-12 flex min-h-[650px] max-w-screen items-center justify-center overflow-hidden pt-40 md:mb-0 md:pb-10",
+        "pricing-home-section relative -mt-6 -mb-12 flex min-h-[650px] w-full items-center justify-center overflow-x-hidden pt-40 md:mb-0 md:pb-10",
+        !showFullHeader && "pt-10",
         className
       )}
     >
       <div className="container flex w-full flex-col items-center justify-center gap-16 lg:gap-24">
         <div
           className={cn(
-            "animate-lighting pointer-events-none absolute top-0 left-0 -z-10 h-screen w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full",
+            "animate-lighting pointer-events-none absolute top-0 left-0 -z-10 h-screen w-full overflow-hidden blur-3xl",
             PRICING_LIGHTING,
             "bg-position-[0%_0%]"
           )}
           aria-hidden
         />
-        <div className="animate-fade-in relative flex w-full flex-col justify-between gap-8 [animation-delay:150ms] [animation-duration:1000ms] md:flex-row md:items-center">
-          <h2 className="text-title text-primary font-aeonik-pro max-w-xl text-pretty lg:max-w-[42rem]">
-            Start building like a team of hundreds today<span className="text-accent">_</span>
-          </h2>
+        {showFullHeader && (
+          <div className="animate-fade-in relative flex w-full flex-col justify-between gap-8 [animation-delay:150ms] [animation-duration:1000ms] md:flex-row md:items-center">
+            <h2 className="text-title text-primary font-aeonik-pro max-w-xl text-pretty lg:max-w-[42rem]">
+              Start building like a team of hundreds today<span className="text-accent">_</span>
+            </h2>
 
-          <div className="mt-4 flex flex-col gap-2 lg:flex-row">
-            <Link
-              href="https://cloud.clikkle.com/register"
-              className="web-button is-primary w-full! lg:w-fit!"
-            >
-              Start building for free
-            </Link>
-            <Link href="/pricing" className="web-button is-secondary w-full! lg:w-fit!">
-              View pricing plans
-            </Link>
+            <div className="mt-4 flex flex-col gap-2 lg:flex-row">
+              <Link
+                href="https://cloud.clikkle.com/register"
+                className="web-button is-primary w-full! lg:w-fit!"
+              >
+                Start building for free
+              </Link>
+              <Link href="/pricing" className="web-button is-secondary w-full! lg:w-fit!">
+                View pricing plans
+              </Link>
+            </div>
           </div>
-        </div>
+        )}
 
         <div className={cn(
           'border-smooth divide-smooth grid min-h-75 w-full max-w-[90rem] grid-cols-1 divide-y divide-dashed rounded-3xl border border-white/[0.08] bg-[#1c1c1e] backdrop-blur-lg',

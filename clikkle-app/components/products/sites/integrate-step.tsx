@@ -2,14 +2,15 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { SiteStep } from "./site-step";
+import { withBasePath } from "@/lib/basepath";
 
 const products = [
-    { label: "Auth", icon: "/clikkle/images/icons/illustrated/dark/auth.png", color: "hsl(343,98%,60%)" },
-    { label: "Databases", icon: "/clikkle/images/icons/illustrated/dark/databases.png", color: "hsl(248,99%,70%)" },
-    { label: "Storage", icon: "/clikkle/images/icons/illustrated/dark/storage.png", color: "hsl(178,54%,69%)" },
-    { label: "Functions", icon: "/clikkle/images/icons/illustrated/dark/functions.png", color: "hsl(28,98%,70%)" },
-    { label: "Messaging", icon: "/clikkle/images/icons/illustrated/dark/messaging.png", color: "hsl(343,98%,60%)" },
-    { label: "Realtime", icon: "/clikkle/images/icons/illustrated/dark/realtime.png", color: "hsl(248,99%,70%)" },
+    { label: "Auth", icon: withBasePath("/icons-black/Auth.png"), color: "hsl(343,98%,60%)" },
+    { label: "Databases", icon: withBasePath("/icons-black/Morph DB.png"), color: "hsl(248,99%,70%)" },
+    { label: "Storage", icon: withBasePath("/icons-black/Storage.png"), color: "hsl(178,54%,69%)" },
+    { label: "Functions", icon: withBasePath("/icons-black/Functions.png"), color: "hsl(28,98%,70%)" },
+    { label: "Messaging", icon: withBasePath("/icons-black/Messaging.png"), color: "hsl(343,98%,60%)" },
+    { label: "Realtime", icon: withBasePath("/icons-black/Streams.png"), color: "hsl(248,99%,70%)" },
 ];
 
 export function IntegrateStep() {

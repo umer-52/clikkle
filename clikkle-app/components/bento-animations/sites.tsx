@@ -6,6 +6,7 @@ import { Loader2 } from "lucide-react";
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { useInView } from "framer-motion";
+import { withBasePath } from "@/lib/basepath";
 
 const logLines = [
   { timestamp: "18:31:21.320", content: "Clikkle Build" },
@@ -104,7 +105,7 @@ export function BentoSites() {
         <div className="flex items-center gap-2">
           <img
             loading="lazy"
-            src="/clikkle/images/icons/illustrated/dark/sites.png"
+            src={withBasePath("/icons-black/Deploy.png")}
             alt="Sites icon"
             width={28}
             height={28}

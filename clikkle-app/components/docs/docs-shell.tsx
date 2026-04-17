@@ -11,6 +11,7 @@ import { cn } from "@/lib/utils";
 import { Menu, X } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import { withBasePath } from "@/lib/basepath";
 import { useDocsPathname } from "@/lib/docs/use-docs-pathname";
 import { useEffect, useMemo } from "react";
 import { SearchModal } from "./search-modal";
@@ -54,7 +55,7 @@ export function DocsShell({ children }: { children: React.ReactNode }) {
         <div className="web-mobile-header-start">
           <Link href="/" aria-label="homepage" className="flex min-w-0 items-center gap-2">
             <Image
-              src="/clikkle/images/logos/logo.svg"
+              src={withBasePath("/2-version/Clikkle core (V1 White Text).png")}
               alt="Clikkle"
               width={24}
               height={24}

@@ -7,6 +7,7 @@ import { Menu, X, Github, ChevronDown,
   KeyRound, Database, HardDrive, Braces, MessageCircleHeart, Activity, Globe 
 } from "lucide-react";
 import Image from "next/image";
+import { withBasePath } from "@/lib/basepath";
 import { clikkleStats as clikkleStats } from "@/lib/site-data";
 
 const products = [
@@ -49,7 +50,7 @@ export function Header() {
         <Link href="/" className="flex items-center gap-2 group outline-none">
           <div className="flex h-7 w-7 items-center justify-center rounded-full bg-[#2D63FF] text-white transition-opacity group-hover:opacity-90">
             <Image 
-              src="/clikkle/images/logos/logo.svg" 
+              src={withBasePath("/2-version/Clikkle core (V1 White Text).png")} 
               alt="" 
               width={16} 
               height={16} 

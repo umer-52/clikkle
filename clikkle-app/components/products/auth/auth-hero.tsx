@@ -2,6 +2,7 @@
 
 import Image from 'next/image';
 import Link from 'next/link';
+import { withBasePath } from '@/lib/basepath';
 
 export function AuthHero() {
     return (
@@ -14,7 +15,7 @@ export function AuthHero() {
             <div className="relative z-10 mx-auto grid w-full max-w-[75rem] items-center gap-16 md:grid-cols-2">
                 <div className="space-y-4">
                     <div className="flex items-center gap-2">
-                        <img src="/clikkle/images/icons/illustrated/dark/auth.png" className="size-8" alt="" />
+                        <img src={withBasePath("/icons-black/Auth.png")} className="size-8" alt="" />
                         <span className="text-eyebrow text-primary uppercase">
                             Auth<span className="text-accent">_</span>
                         </span>

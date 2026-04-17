@@ -9,23 +9,24 @@ import { BentoFunctions } from "./bento-animations/functions";
 import { BentoMessaging } from "./bento-animations/messaging";
 import { BentoRealtime } from "./bento-animations/realtime";
 import { BentoSites } from "./bento-animations/sites";
+import { withBasePath } from "@/lib/basepath";
 
 export function ProductShowcase() {
   const build = [
-      { label: 'Auth', icon: '/clikkle/images/icons/illustrated/dark/auth.png', href: '/products/auth' },
-      { label: 'Databases', icon: '/clikkle/images/icons/illustrated/dark/databases.png', href: '/docs/products/databases' },
-      { label: 'Storage', icon: '/clikkle/images/icons/illustrated/dark/storage.png', href: '/products/storage' },
-      { label: 'Functions', icon: '/clikkle/images/icons/illustrated/dark/functions.png', href: '/products/functions' },
-      { label: 'Realtime', icon: '/clikkle/images/icons/illustrated/dark/realtime.png', href: '/docs/apis/realtime' },
-      { label: 'Messaging', icon: '/clikkle/images/icons/illustrated/dark/messaging.png', href: '/products/messaging' }
+      { label: 'Auth', icon: withBasePath('/icons-black/Auth.png'), href: '/products/auth' },
+      { label: 'Databases', icon: withBasePath('/icons-black/Morph DB.png'), href: '/docs/products/databases' },
+      { label: 'Storage', icon: withBasePath('/icons-black/Storage.png'), href: '/products/storage' },
+      { label: 'Functions', icon: withBasePath('/icons-black/Functions.png'), href: '/products/functions' },
+      { label: 'Realtime', icon: withBasePath('/icons-black/Streams.png'), href: '/docs/apis/realtime' },
+      { label: 'Messaging', icon: withBasePath('/icons-black/Messaging.png'), href: '/products/messaging' }
   ];
 
   const deploy = [
-      { label: 'Sites', icon: '/clikkle/images/icons/illustrated/dark/sites.png', href: '/products/sites' }
+      { label: 'Sites', icon: withBasePath('/icons-black/Deploy.png'), href: '/products/sites' }
   ];
 
   return (
-    <div className="appwrite-container py-20">
+    <div className="container py-20">
       <div className="mx-auto mb-16 flex max-w-5xl flex-col gap-8">
         <h2 className="text-primary font-aeonik-pro text-title mx-auto max-w-lg text-center">
           Build like a team of hundreds
@@ -83,7 +84,7 @@ export function ProductShowcase() {
         </div>
       </div>
 
-      <div className="flex w-full min-w-0 flex-col gap-8 md:grid md:grid-cols-12">
+      <div className="flex flex-col gap-8 md:grid md:grid-cols-12">
           <BentoAuth />
           <BentoDatabases />
           <BentoStorage />

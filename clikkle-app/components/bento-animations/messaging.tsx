@@ -5,6 +5,7 @@ import { useRef, useState, useEffect } from "react";
 import { motion, useInView } from "framer-motion";
 import { Mail, MessageSquare, Settings, Calendar } from "lucide-react";
 import { GridPaper } from "./grid-paper";
+import { withBasePath } from "@/lib/basepath";
 
 /** Decorative status-bar time for the mock UI (must be constant — `new Date()` in render breaks SSR hydration). */
 const MESSAGING_MOCK_CLOCK = "09:41";
@@ -21,7 +22,6 @@ function useMediaQuery(query: string) {
   return matches;
 }
 
-/** `bento/(animations)/messaging.svelte` — inView on mobile, hover on desktop. */
 export function BentoMessaging() {
   const containerRef = useRef<HTMLAnchorElement>(null);
   const inView = useInView(containerRef, { amount: "all", once: false });
@@ -41,7 +41,7 @@ export function BentoMessaging() {
         <div className="flex items-center gap-2">
           <img
             loading="lazy"
-            src="/clikkle/images/icons/illustrated/dark/messaging.png"
+            src={withBasePath("/icons-black/Messaging.png")}
             alt="Messaging icon"
             width={28}
             height={28}
@@ -54,7 +54,7 @@ export function BentoMessaging() {
           <span className="text-secondary">multiple channels under one unified platform.</span>
         </p>
       </div>
-      <div className="relative mt-auto mb-0 flex h-85 items-center justify-center overflow-clip rounded-xl bg-black/24 px-8">
+      <div className="relative mt-auto mb-0 flex h-85 items-center justify-between overflow-clip rounded-xl bg-black/24 px-8">
         <motion.div
           className="light absolute top-14 z-10 flex h-[65px] w-[85%] items-center justify-between gap-4 rounded-[20px] bg-white/80 px-3 py-2 shadow-[-8px_4px_32px_rgba(0,0,0,0.24)] backdrop-blur-xl"
           data-theme-ignore

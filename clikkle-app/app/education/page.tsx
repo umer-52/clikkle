@@ -69,7 +69,7 @@ const faqJsonLd = {
 const Logos = () => (
     <div className="flex items-center justify-center gap-4 divide-x-2 divide-white/5">
         <div className="flex items-center gap-2 pr-4">
-            <img src={asset('/images/logos/logo.svg')} alt="Clikkle" className="h-8 w-auto mix-blend-screen" />
+            <img src={asset('/2-version/Clikkle core (V1 White Text).png')} alt="Clikkle" className="h-8 w-auto mix-blend-screen" />
             <span className="text-xl font-bold tracking-tight text-white font-display">Clikkle</span>
         </div>
         <div className="pl-4">

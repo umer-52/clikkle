@@ -1,10 +1,11 @@
 import Link from 'next/link';
+import { withBasePath } from '@/lib/basepath';
 
 /* `src/routes/products/auth/+page.svelte` — “Keep exploring our products” (lines 54–194) */
 const cards = [
     {
         href: '/products/messaging',
-        icon: '/clikkle/images/icons/illustrated/dark/messaging.png',
+        icon: withBasePath('/icons-black/Messaging.png'),
         title: 'Messaging',
         copy: 'Use Clikkle messaging to send email, SMS, and push notifications.',
         width: 32,
@@ -13,7 +14,7 @@ const cards = [
     },
     {
         href: '/products/functions',
-        icon: '/clikkle/images/icons/illustrated/dark/functions.png',
+        icon: withBasePath('/icons-black/Functions.png'),
         title: 'Functions',
         copy: 'Scale big and unlock limitless potential with Clikkle functions.',
         width: 32,
@@ -22,7 +23,7 @@ const cards = [
     },
     {
         href: '/docs/products/databases',
-        icon: '/clikkle/images/icons/illustrated/dark/databases.png',
+        icon: withBasePath('/icons-black/Morph DB.png'),
         title: 'Databases',
         copy: 'Store and query structured data, ensuring scalable storage.',
         width: 37,
@@ -31,7 +32,7 @@ const cards = [
     },
     {
         href: '/products/storage',
-        icon: '/clikkle/images/icons/illustrated/dark/storage.png',
+        icon: withBasePath('/icons-black/Storage.png'),
         title: 'Storage',
         copy: "Manage your files' project, using convenient APIs and utilities.",
         width: 32,
@@ -40,7 +41,7 @@ const cards = [
     },
     {
         href: '/docs/apis/realtime',
-        icon: '/clikkle/images/icons/illustrated/dark/realtime.png',
+        icon: withBasePath('/icons-black/Streams.png'),
         title: 'Realtime',
         copy: 'Utilize realtime information from all Clikkle services.',
         width: 32,

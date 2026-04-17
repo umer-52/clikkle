@@ -45,7 +45,7 @@ type PreFooterProps = {
 /** Matches src/lib/components/PreFooter.svelte */
 export function PreFooter({ headingId = "pre-footer-heading" }: PreFooterProps) {
   return (
-    <section className="" aria-labelledby={headingId}>
+    <section className="overflow-hidden" aria-labelledby={headingId}>
       <div className="pre-footer-bg" aria-hidden="true" />
       <div className="pre-footer-wrap">
         <div className="pre-footer-grid">

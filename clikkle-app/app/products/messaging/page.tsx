@@ -6,6 +6,11 @@ import { Draft } from '@/components/products/messaging/draft';
 import { Target } from '@/components/products/messaging/target';
 import { Schedule } from '@/components/products/messaging/schedule';
 import { Send } from '@/components/products/messaging/send';
+import { PricingSection } from '@/components/pricing-section';
+import { PreFooter } from '@/components/pre-footer';
+import { SiteFooter } from '@/components/site-footer';
+
+import { withBasePath } from '@/lib/basepath';
 
 export const metadata: Metadata = {
     title: 'Messaging | Clikkle',
@@ -14,7 +19,7 @@ export const metadata: Metadata = {
 
 export default function MessagingPage() {
     return (
-        <main className="flex flex-col bg-[var(--bg-primary)]">
+        <main className="flex flex-col bg-[var(--bg-primary)] overflow-x-hidden">
             {/* Custom Hero for Messaging */}
             <div className="relative overflow-hidden pt-32 pb-40 border-b border-white/8">
                 {/* Background Blurs */}
@@ -25,7 +30,7 @@ export default function MessagingPage() {
                     <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-[5.625rem] min-h-[500px] lg:min-h-[700px]">
                         <div>
                             <div className="flex items-center gap-4 mb-6">
-                                <img src="/clikkle/images/icons/illustrated/dark/messaging.png" alt="Messaging" className="w-8 h-8" loading="lazy" />
+                                <img src={withBasePath("/icons-black/Messaging.png")} alt="Messaging" className="w-8 h-8" loading="lazy" />
                                 <span className="text-xs font-aeonik-fono text-white tracking-widest uppercase">
                                     Messaging<span className="text-[#FE9567]">_</span>
                                 </span>
@@ -228,6 +233,13 @@ await messaging.createPush(
             </div>
 
             <ProductCards currentProduct="messaging" />
+
+            <div className="border-smooth relative border-t border-black/10 bg-[var(--bg-primary)]">
+                <div className="container pb-16">
+                    <PreFooter headingId="messaging-pre-footer-heading" />
+                    <SiteFooter noOuterContainer />
+                </div>
+            </div>
         </main>
     );
 }

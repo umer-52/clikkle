@@ -4,6 +4,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import { GridPaper } from "./grid-paper";
+import { withBasePath } from "@/lib/basepath";
 import Link from "next/link";
 
 /** `src/routes/(marketing)/(components)/bento/(animations)/databases.svelte` */
@@ -69,7 +70,7 @@ export function BentoDatabases() {
         <div className="flex items-center gap-2">
           <img
             loading="lazy"
-            src="/clikkle/images/icons/illustrated/dark/databases.png"
+            src={withBasePath("/icons-black/Morph DB.png")}
             alt="Databases icon"
             width={28}
             height={28}

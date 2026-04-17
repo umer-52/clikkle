@@ -7,6 +7,8 @@ import { cn } from "@/lib/utils";
 import { ChevronDown } from "lucide-react";
 import "./site-footer.css";
 
+import { withBasePath } from "@/lib/basepath";
+
 /**
  * Mirrors `src/lib/components/FooterNav.svelte` link map (Appwrite source of truth).
  * URLs are Clikkle routes / external targets.
@@ -217,12 +219,12 @@ export function SiteFooter({ noOuterContainer = false, footerNavNoTopBorder = fa
            * (`static/images/logos/appwrite.svg`). Asset: `public/images/logos/clikkle-header-wordmark.svg`.
            */}
           <Image
-            src="/clikkle/images/logos/clikkle-header-wordmark.svg"
+            src={withBasePath("/2-version/Clikkle core (V1 White Text).png")}
             alt="Clikkle"
             width={130}
             height={24}
             priority={false}
-            className="site-footer__brand-lockup"
+            className="site-footer__brand-lockup object-contain"
           />
         </Link>
 

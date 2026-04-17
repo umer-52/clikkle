@@ -8,6 +8,11 @@ import { DeploySeamlessly } from '@/components/products/functions/deploy-seamles
 import { Bento } from '@/components/products/functions/bento';
 import { Templates } from '@/components/products/functions/templates';
 import { OpenSource } from '@/components/products/storage/open-source';
+import { PricingSection } from '@/components/pricing-section';
+import { PreFooter } from '@/components/pre-footer';
+import { SiteFooter } from '@/components/site-footer';
+
+import { withBasePath } from '@/lib/basepath';
 
 export const metadata: Metadata = {
     title: 'Functions | Clikkle',
@@ -16,11 +21,11 @@ export const metadata: Metadata = {
 
 export default function FunctionsPage() {
     return (
-        <main className="flex flex-col bg-[var(--bg-primary)]">
+        <main className="flex flex-col bg-[var(--bg-primary)] overflow-x-hidden">
             <ProductHero
                 eyebrow={{
                     label: 'Functions',
-                    icon: '/clikkle/images/icons/illustrated/dark/functions.png'
+                    icon: withBasePath('/icons-black/Functions.png')
                 }}
                 title="Serverless functions done your way"
                 description="Deploy and scale serverless functions with seamless integration, multi-language support, and zero server management."
@@ -53,6 +58,13 @@ export default function FunctionsPage() {
             </div>
 
             <ProductCards currentProduct="functions" />
+
+            <div className="border-smooth relative border-t border-black/10 bg-[var(--bg-primary)]">
+                <div className="container pb-16">
+                    <PreFooter headingId="functions-pre-footer-heading" />
+                    <SiteFooter noOuterContainer />
+                </div>
+            </div>
         </main>
     );
 }

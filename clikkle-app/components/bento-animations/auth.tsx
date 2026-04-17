@@ -1,6 +1,7 @@
 "use client";
 import { cn } from "@/lib/utils";
 import { GridPaper } from "./grid-paper";
+import { withBasePath } from "@/lib/basepath";
 import Link from "next/link";
 
 export function BentoAuth() {
@@ -11,7 +12,7 @@ export function BentoAuth() {
     >
       <div className="space-y-3 px-3 pt-2 pb-4">
         <div className="flex items-center gap-2">
-          <img loading="lazy" src="/clikkle/images/icons/illustrated/dark/auth.png" alt="Auth icon" width={28} height={28} className="size-7" />
+          <img loading="lazy" src={withBasePath("/icons-black/Auth.png")} alt="Auth icon" width={28} height={28} className="size-7" />
           <h3 className="font-aeonik-pro text-label text-primary">Auth</h3>
         </div>
         <p className="text-sub-body text-primary max-w-lg font-medium">
@@ -49,7 +50,7 @@ export function BentoAuth() {
               </span>
 
               <button type="button" className={cn('web-btn web-btn-secondary w-full gap-3')} disabled>
-                <img loading="lazy" src="/clikkle/images/logos/icons/google.svg" alt="Google Icon" width={16} height={16} className="size-4" />
+                <img loading="lazy" src={withBasePath("/images/logos/icons/google.svg")} alt="Google Icon" width={16} height={16} className="size-4" />
                 Google
               </button>
             </div>

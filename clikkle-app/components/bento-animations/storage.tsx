@@ -1,5 +1,6 @@
 "use client";
 import { cn } from "@/lib/utils";
+import { withBasePath } from "@/lib/basepath";
 import { GridPaper } from "./grid-paper";
 import Link from "next/link";
 
@@ -7,11 +8,11 @@ export function BentoStorage() {
   return (
     <Link
       href="/products/storage"
-      className="border-smooth group col-span-12 flex min-w-0 w-full flex-col rounded-2xl border bg-white/2 p-2 transition-shadow duration-300 hover:shadow-[0px_0px_0px_4px_var(--color-offset)] focus:shadow-[0px_0px_0px_4px_var(--color-offset)] md:col-span-6 lg:col-span-4"
+      className="border-smooth col-span-12 flex min-w-0 w-full flex-col rounded-2xl border bg-white/2 p-2 transition-shadow duration-300 hover:shadow-[0px_0px_0px_4px_var(--color-offset)] focus:shadow-[0px_0px_0px_4px_var(--color-offset)] md:col-span-6 lg:col-span-4"
     >
       <div className="space-y-3 px-3 pt-2 pb-4">
         <div className="flex items-center gap-2">
-          <img loading="lazy" src="/clikkle/images/icons/illustrated/dark/storage.png" alt="Storage icon" width={28} height={28} className="size-7" />
+          <img loading="lazy" src={withBasePath("/icons-black/Storage.png")} alt="Storage icon" width={28} height={28} className="size-7" />
           <h3 className="font-aeonik-pro text-label text-primary">Storage</h3>
         </div>
         <p className="text-sub-body text-primary max-w-lg font-medium">

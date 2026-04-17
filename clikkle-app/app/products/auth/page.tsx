@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 /* `src/routes/products/auth/+page.svelte` — section order + light band + footer */
 export default function AuthPage() {
     return (
-        <main className="flex min-h-screen flex-col bg-[var(--bg-primary)]">
+        <main className="flex min-h-screen flex-col bg-[var(--bg-primary)] overflow-x-hidden">
             <AuthHero />
             <CustomerIdentity />
             <SecurityBento />
