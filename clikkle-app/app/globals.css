@@ -1100,3 +1100,8 @@ html.dark #main-content > main[class*='--bg-primary'] {
   filter: grayscale(1) sepia(1) hue-rotate(185deg) saturate(500%) brightness(0.9);
 }
 
+/* Hard override: `text-secondary` should use fixed tone, not token indirection. */
+.text-secondary {
+    color: #9b9ba7;
+}
+
