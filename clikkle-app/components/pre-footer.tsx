@@ -45,7 +45,7 @@ type PreFooterProps = {
 /** Matches src/lib/components/PreFooter.svelte */
 export function PreFooter({ headingId = "pre-footer-heading" }: PreFooterProps) {
   return (
-    <section className="pre-footer" aria-labelledby={headingId}>
+    <section className="" aria-labelledby={headingId}>
       <div className="pre-footer-bg" aria-hidden="true" />
       <div className="pre-footer-wrap">
         <div className="pre-footer-grid">
@@ -64,14 +64,14 @@ export function PreFooter({ headingId = "pre-footer-heading" }: PreFooterProps) 
           <section className="pre-footer-card web-strip-plans-card">
             <header className="pre-footer-strip-header web-strip-plans-header">
               <div className="pre-footer-strip-header-wrapper web-strip-plans-header-wrapper">
-                <h3 className="text-title font-aeonik-pro text-primary">Our plans</h3>
+                <h3 className="text-title font-aeonik-pro text-primary text-5xl! font-regular!">Our plans</h3>
               </div>
             </header>
 
             <ul className="pre-footer-strip-plans web-strip-plans">
               {plans.map((plan) => (
                 <li key={plan.name} className="pre-footer-strip-item web-strip-plans-item">
-                  <div className="pre-footer-strip-row web-strip-plans-row">
+                  <div className="pre-footer-strip-row web-strip-plans-row md:grid! md:grid-cols-3!">
                     <div className="pre-footer-strip-plan flex flex-col">
                       <div className="flex gap-3">
                         <h4 className="pre-footer-strip-name">{plan.name}</h4>
@@ -82,7 +82,7 @@ export function PreFooter({ headingId = "pre-footer-heading" }: PreFooterProps) 
                       <div className="pre-footer-strip-price-block mt-4 flex flex-col">
                         {plan.variable ? <span className="pre-footer-strip-from">From</span> : null}
                         <div className="flex items-end gap-2">
-                          <div className="pre-footer-strip-price text-title font-aeonik-pro text-primary">
+                          <div className="pre-footer-strip-price text-title font-aeonik-pro text-primary text-5xl!">
                             {plan.price}
                           </div>
                           {plan.variable ? (
@@ -91,15 +91,15 @@ export function PreFooter({ headingId = "pre-footer-heading" }: PreFooterProps) 
                         </div>
                       </div>
                     </div>
-                    <p className="pre-footer-strip-info text-caption self-end font-medium">
+                    <p className="pre-footer-strip-info text-caption self-end font-medium text-sm!">
                       {plan.description}
                     </p>
                     <Link
                       href={plan.href}
                       className={
                         plan.variant === "primary"
-                          ? "web-btn web-btn-primary w-full self-end md:w-fit"
-                          : "web-btn web-btn-secondary w-full self-end md:w-fit"
+                          ? "web-btn web-btn-primary w-full self-end"
+                          : "web-btn web-btn-secondary w-full self-end"
                       }
                     >
                       <span className="text px-2">{plan.buttonText}</span>

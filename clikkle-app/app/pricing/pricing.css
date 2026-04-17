@@ -12,6 +12,11 @@
   color: var(--color-text-secondary);
 }
 
+.pricing-page-root {
+  --pricing-checklist-icon-bg: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2720%27%20height%3D%2720%27%20viewBox%3D%270%200%2020%2020%27%20fill%3D%27none%27%3E%3Ccircle%20cx%3D%2710%27%20cy%3D%2710%27%20r%3D%278%27%20fill%3D%27%232D63FF%27%20fill-opacity%3D%270.08%27%20stroke%3D%27%232D63FF%27%20stroke-opacity%3D%270.32%27%20stroke-width%3D%271.2%27%2F%3E%3Cpath%20d%3D%27M6.25%2011.5L8.75%2013.5L13.75%207%27%20stroke%3D%27%23E4E4E7%27%20stroke-width%3D%271.2%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%2F%3E%3C%2Fsvg%3E");
+  --pricing-checklist-icon-table-bg: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2720%27%20height%3D%2720%27%20viewBox%3D%270%200%2020%2020%27%20fill%3D%27none%27%3E%3Ccircle%20cx%3D%2710%27%20cy%3D%2710%27%20r%3D%278%27%20fill%3D%27%232D63FF%27%20fill-opacity%3D%270.08%27%20stroke%3D%27%232D63FF%27%20stroke-opacity%3D%270.42%27%20stroke-width%3D%271.2%27%2F%3E%3Cpath%20d%3D%27M6.25%2011.5L8.75%2013.5L13.75%207%27%20stroke%3D%27%232D63FF%27%20stroke-width%3D%271.35%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%2F%3E%3C%2Fsvg%3E");
+}
+
 /* Pricing uses global `container` from `src/styles/appwrite-spacing.css` (80rem + responsive gutters) */
 .web-big-padding-section.pricing-page-root {
   display: grid;
@@ -56,6 +61,7 @@
 /* Compare block: avoid double vertical margin blowout inside light shell */
 .pricing-compare-level-2.web-big-padding-section-level-2 {
   margin-block: 0;
+  margin-bottom: 6.5rem;
 }
 
 /* Hero — .web-hero + text-display / text-description (Svelte _hero.scss) */
@@ -160,7 +166,7 @@
   min-height: 100%;
   border-radius: 1rem;
   padding: 1.25rem;
-  background-color: var(--bg-secondary);
+  background-color: var(--color-background-glass, var(--bg-secondary));
   background-image: linear-gradient(
     180deg,
     rgba(255, 255, 255, 0.04) 63.19%,
@@ -204,7 +210,7 @@
   flex: 1 1 auto;
   display: flex;
   border-radius: 1.25rem;
-  padding: 1px;
+  padding: 4px;
   margin: 0;
 }
 
@@ -219,7 +225,21 @@
   inset: 0;
   border-radius: inherit;
   border: 1px solid transparent;
-  background: linear-gradient(180deg, rgba(45, 99, 255, 0.55) 0%, rgba(45, 99, 255, 0) 58%) border-box;
+  background: linear-gradient(180deg, rgba(45, 99, 255, 0.9) 0%, rgba(45, 99, 255, 0.35) 52%, rgba(45, 99, 255, 0.05) 100%) border-box;
+  mask:
+    linear-gradient(#fff 0 0) padding-box,
+    linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+.pricing-card-pro-wrapper.web-card-pro-outer::after {
+  content: '';
+  position: absolute;
+  inset: 4px;
+  border-radius: calc(1.25rem - 3px);
+  border: 1px solid transparent;
+  background: linear-gradient(180deg, rgba(45, 99, 255, 0.55) 0%, rgba(45, 99, 255, 0.18) 72%, rgba(45, 99, 255, 0.05) 100%) border-box;
   mask:
     linear-gradient(#fff 0 0) padding-box,
     linear-gradient(#fff 0 0);
@@ -228,8 +248,8 @@
 }
 
 .pricing-card--pro.web-card-pricing-inner {
-  border-radius: calc(1.25rem - 2px);
-  background-color: var(--bg-secondary);
+  border-radius: calc(1.25rem - 4px);
+  background-color: var(--color-background-glass, var(--bg-secondary));
   background-image: linear-gradient(180deg, rgba(45, 99, 255, 0.14) 38.59%, rgba(45, 99, 255, 0) 99.04%);
 }
 
@@ -294,8 +314,8 @@
   padding-inline: 0.25rem;
   border-radius: 0.25rem;
   line-height: 1;
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.95rem;
+  font-weight: 400;
   text-transform: none;
   background-color: rgba(45, 99, 255, 0.24);
   color: var(--color-gray-50, #fafafa);
@@ -309,11 +329,13 @@
 .pricing-card__price-stack--free .pricing-card__price {
   margin-block-start: 3rem;
   margin-block-end: -1.5rem;
+  margin-top: 30px !important;
 }
 
 .pricing-card__price-stack--enterprise .pricing-card__price {
   margin-block-start: 2.5rem;
   margin-block-end: -1.5rem;
+  margin-top: 21px !important;
 }
 
 /* Pro: +page mt-4 flex flex-col gap-2; From -mb-4; row flex items-end gap-2 */
@@ -474,7 +496,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   background-position-y: center;
-  background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2720%27%20height%3D%2720%27%20viewBox%3D%270%200%2020%2020%27%20fill%3D%27none%27%3E%3Ccircle%20cx%3D%2710%27%20cy%3D%2710%27%20r%3D%278%27%20fill%3D%27%232D63FF%27%20fill-opacity%3D%270.08%27%20stroke%3D%27%232D63FF%27%20stroke-opacity%3D%270.32%27%20stroke-width%3D%271.2%27%2F%3E%3Cpath%20d%3D%27M6.25%2011.5L8.75%2013.5L13.75%207%27%20stroke%3D%27%23E4E4E7%27%20stroke-width%3D%271.2%27%20stroke-linecap%3D%27round%27%20stroke-linejoin%3D%27round%27%2F%3E%3C%2Fsvg%3E");
+  background-image: var(--pricing-checklist-icon-bg);
 }
 
 /* ---------- Stack card — appwrite.io/pricing “One platform…” block ---------- */
@@ -524,11 +546,11 @@
 
 .pricing-stack-title {
   font-family: var(--font-aeonik-pro, 'Inter', sans-serif);
-  font-size: clamp(1.5rem, 1.2rem + 1vw, 2rem);
+  font-size: clamp(4rem, 1.2rem + 1vw, 2rem);
   line-height: 1.2;
   color: var(--color-gray-50, #f8f8fb);
   margin: 0;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .pricing-stack-badge {
@@ -548,9 +570,9 @@
 .pricing-stack-desc {
   font-size: clamp(1rem, 0.881rem + 0.382vw, 1.125rem);
   line-height: 1.625;
-  color: rgba(228, 225, 229, 0.9);
+  color: #9b9ba7;
   margin-block-start: 1.25rem;
-  max-width: min(42rem, 70%);
+  max-width: min(48rem, 70%);
   font-weight: 400;
 }
 
@@ -595,7 +617,7 @@
   margin: 0;
   display: grid;
   gap: 0.625rem;
-  color: var(--color-gray-300, #c3c3c6);
+  color: #9b9ba7;
   font-size: 0.9375rem;
   line-height: 1.45;
 }
@@ -639,7 +661,7 @@
   font-weight: 500;
   color: var(--color-gray-50, #f8f8fb);
   text-decoration: none;
-  background: rgba(0, 0, 0, 0.35);
+  background: linear-gradient(180deg, rgba(4, 17, 62, 0.213) 20%, rgba(9, 28, 86, 0.51) 100%);
   border: 1px solid rgba(45, 99, 255, 0.55);
   transition:
     background 0.15s ease,
@@ -647,14 +669,14 @@
 }
 
 .pricing-stack-cta:hover {
-  background: rgba(45, 99, 255, 0.12);
+  background: linear-gradient(180deg, rgba(4, 14, 44, 0.98) 0%, rgba(14, 36, 88, 0.94) 100%);
   border-color: rgba(45, 99, 255, 0.75);
 }
 
 .pricing-stack-helper {
   font-size: 0.875rem;
   line-height: 1.375rem;
-  color: var(--color-gray-500, #7e7e8a);
+  color: #9b9ba7;
   flex: 1 1 12rem;
   min-width: 0;
 }
@@ -675,6 +697,7 @@
 .pricing-compare-header {
   text-align: center;
   margin-block-end: 2rem;
+  margin-top: 120px;
 }
 
 @media (min-width: 1024px) {
@@ -697,14 +720,14 @@
 .pricing-compare-shell .web-btn-secondary.pricing-compare-mini-btn {
   width: 100%;
   justify-content: center;
-  border-color: rgba(0, 0, 0, 0.12);
-  background: transparent;
-  color: #19191c;
+  border-color: rgba(45, 99, 255, 0.55);
+  background: linear-gradient(180deg, rgba(40, 94, 255, 0.1) 0%, rgba(40, 94, 255, 0.1) 100%);
+  color: #2d63ff;
 }
 
 .pricing-compare-shell .web-btn-secondary.pricing-compare-mini-btn:hover {
-  background: rgba(0, 0, 0, 0.04);
-  border-color: rgba(0, 0, 0, 0.18);
+  background: linear-gradient(180deg, rgba(14, 36, 88, 0.95) 0%, rgba(6, 18, 50, 0.98) 100%);
+  border-color: rgba(45, 99, 255, 0.75);
 }
 
 .pricing-compare-shell .web-btn-primary.pricing-compare-mini-btn {
@@ -1064,11 +1087,15 @@
   color: #fff;
 }
 
-/* ---------- Checkmark SVG in table ---------- */
-.pricing-check-icon {
+/* ---------- Checkmark icon for table true cells ---------- */
+.pricing-checklist-icon {
   display: inline-block;
   width: 20px;
   height: 20px;
+  background-image: var(--pricing-checklist-icon-table-bg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 
 /* ---------- Tooltip ---------- */

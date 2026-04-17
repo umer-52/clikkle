@@ -9,21 +9,6 @@ import { createFaqSchemaJsonLd } from '@/lib/faq-schema';
 import './pricing.css';
 import { comparisonTables, faqItems, type CellValue, type LinkRow } from './pricing-data';
 
-/* ─── SVG helper: gradient checkmark for comparison table ─── */
-function GradientCheck() {
-  return (
-    <svg className="pricing-check-icon" width="20" height="20" viewBox="0 0 24 24" fill="none">
-      <path
-        d="M5 13l4 4L19 7"
-        stroke="#2D63FF"
-        strokeWidth="2.5"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-    </svg>
-  );
-}
-
 /* ─── Info icon for tooltips ─── */
 function InfoIcon() {
   return (
@@ -326,7 +311,7 @@ function PricingStackSection() {
    ═══════════════════════════════════════════════ */
 function CellContent({ value }: { value: CellValue }) {
   if (typeof value === 'boolean' && value) {
-    return <GradientCheck />;
+    return <span className="pricing-checklist-icon" aria-hidden />;
   }
   if (typeof value === 'object' && value !== null && 'text' in value) {
     const link = value as LinkRow;
