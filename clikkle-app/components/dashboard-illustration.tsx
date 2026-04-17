@@ -11,7 +11,7 @@ export function DashboardIllustration() {
       className={cn(
         /* Mobile: scale/stack; md+: natural mock width (bleed right) — avoid max-w-full squish + left chrome clip */
         "bg-smooth -mb-108 w-full min-w-0 max-w-full translate-x-8 -translate-y-32 scale-70 overflow-visible rounded-t-2xl border-x border-t border-white/10 px-2 pt-2 backdrop-blur-2xl md:mt-12 md:mb-0 md:w-max md:max-w-none md:translate-x-0 md:translate-y-0 md:scale-100",
-        "mask-b-from-0% mask-b-to-70% md:mask-b-to-100%"
+        "mask-b-from-0% mask-b-to-70% md:mask-b-to-100% opacity-80"
       )}
     >
       <div className="bg-greyscale-900 h-full min-w-0 w-full max-w-full overflow-hidden rounded-t-xl max-md:[&_svg]:max-w-full md:w-max md:max-w-none [&_svg]:block [&_svg]:h-auto [&_svg]:min-w-0 md:[&_svg]:max-w-none">

@@ -2,11 +2,11 @@
 
 import Link from "next/link";
 import { useEffect, useState, useRef, type CSSProperties } from "react";
-import { Star, X } from "lucide-react";
+import { Star, X, ChevronDown } from "lucide-react";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { ProductsMegaMenu } from "./products-mega-menu";
-import { stripBasePathFromPathname } from "@/lib/basepath";
+import { stripBasePathFromPathname, withBasePath } from "@/lib/basepath";
 
 /** Docs layout provides its own chrome; hide marketing header on all `/docs` URLs. */
 function isUnderDocsRoute(pathname: string | null | undefined) {
@@ -18,10 +18,13 @@ export function SiteHeader() {
   /** Keep top transparent header longer before scrolled glass kicks in. */
   const HEADER_SCROLL_THRESHOLD = 64;
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false);
+  const [isAppSwitcherOpen, setIsAppSwitcherOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const mobileNavPanel = useRef<HTMLElement>(null);
+  const appSwitcherRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const navPath = stripBasePathFromPathname(pathname ?? "") || "/";
+  const logoMarkSrc = withBasePath("/images/logos/logo.svg");
 
   useEffect(() => {
     const onScroll = () => {
@@ -38,11 +41,17 @@ export function SiteHeader() {
 
   useEffect(() => {
     const handleEsc = (e: KeyboardEvent) => {
-      if (e.key === "Escape") setIsMobileNavOpen(false);
+      if (e.key === "Escape") {
+        setIsMobileNavOpen(false);
+        setIsAppSwitcherOpen(false);
+      }
     };
 
     if (isMobileNavOpen) {
       document.body.style.overflow = "hidden";
+    }
+
+    if (isMobileNavOpen || isAppSwitcherOpen) {
       window.addEventListener("keydown", handleEsc);
     }
 
@@ -50,7 +59,20 @@ export function SiteHeader() {
       document.body.style.overflow = "";
       window.removeEventListener("keydown", handleEsc);
     };
-  }, [isMobileNavOpen]);
+  }, [isMobileNavOpen, isAppSwitcherOpen]);
+
+  useEffect(() => {
+    if (!isAppSwitcherOpen) return;
+
+    const handlePointerDown = (event: MouseEvent) => {
+      if (!appSwitcherRef.current?.contains(event.target as Node)) {
+        setIsAppSwitcherOpen(false);
+      }
+    };
+
+    document.addEventListener("mousedown", handlePointerDown);
+    return () => document.removeEventListener("mousedown", handlePointerDown);
+  }, [isAppSwitcherOpen]);
 
   if (isUnderDocsRoute(pathname)) {
     return null;
@@ -74,6 +96,29 @@ export function SiteHeader() {
   const GITHUB_STARS = "55.2K";
   const GITHUB_LINK = "https://github.com/clikkle/clikkle";
   const CTA_LINK = "https://console.clikkle.com/";
+  const appSwitcherItems = [
+    {
+      name: "Clikkle Core",
+      description: "Backend Platform",
+      href: "/",
+      tileClass: "from-indigo-100 to-blue-700",
+      initials: "C",
+    },
+    {
+      name: "LangX",
+      description: "AI Workflows",
+      href: "/",
+      tileClass: "from-indigo-100 to-blue-700",
+      initials: "L",
+    },
+    {
+      name: "K-Collect",
+      description: "Data Intelligence",
+      href: "/",
+      tileClass: "from-indigo-100 to-blue-700",
+      initials: "K",
+    },
+  ];
 
   /* Inline surface so Turbopack/Tailwind layer order cannot strip glass (tokens from `appwrite-pink-design-system.css`). */
   const headerChromeStyle: CSSProperties = isScrolled
@@ -98,16 +143,63 @@ export function SiteHeader() {
         <div className="aw-header-shell">
           {/* Clikkle `Main.svelte`: logo image `height="24"` — keep wordmark compact for 72px bar */}
           {/* Clikkle `Main.svelte`: `<img ... height="24" width="130" />` — fixed wordmark box for layout parity */}
-          <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
-            <Image
-              src="/clikkle/images/logos/clikkle-core-white.png"
-              alt="Clikkle"
-              width={140}
-              height={63}
-              className="block h-7 w-auto shrink-0 object-contain object-left md:h-8"
-              priority
-            />
-          </Link>
+          <div className="relative" ref={appSwitcherRef}>
+            <button
+              type="button"
+              className="aw-logo-link aw-focus-ring flex items-center cursor-pointer gap-3 rounded-lg px-2 py-1.5 hover:bg-white/8"
+              aria-label="Open app switcher"
+              aria-expanded={isAppSwitcherOpen}
+              aria-haspopup="menu"
+              onClick={() => setIsAppSwitcherOpen((open) => !open)}
+            >
+              <img
+                src={logoMarkSrc}
+                alt="Clikkle"
+                className="block h-7 w-auto shrink-0 object-contain object-left md:h-8"
+              />
+              <span className="text-lg font-medium">
+                Clikkle <span className="text-secondary font-normal">core</span>
+              </span>
+              <ChevronDown
+                className={`size-4 text-white/70 transition-transform ${isAppSwitcherOpen ? "rotate-180" : ""}`}
+                aria-hidden
+              />
+            </button>
+
+            {isAppSwitcherOpen ? (
+              <div
+                className="absolute top-full left-0 z-50 mt-3 w-[18rem] overflow-hidden rounded-2xl border border-greyscale-800 bg-greyscale-800 shadow-[0_20px_40px_rgba(2,12,27,0.35)]"
+                role="menu"
+                aria-label="App switcher"
+              >
+                <div className="p-2">
+                  {appSwitcherItems.map((item) => (
+                    <Link
+                      key={item.name}
+                      href={item.href}
+                      className="group flex items-center gap-3 rounded-xl px-3 py-2.5 transition-colors hover:bg-greyscale-750"
+                      role="menuitem"
+                      onClick={() => setIsAppSwitcherOpen(false)}
+                    >
+                      <span
+                        className={`flex size-10 items-center justify-center rounded-xl bg-linear-to-br ${item.tileClass} text-sm font-semibold text-white`}
+                        aria-hidden
+                      >
+                        {item.initials}
+                      </span>
+                      <span className="min-w-0">
+                        <span className="block text-base leading-tight font-medium">{item.name}</span>
+                        <span className="block text-sm leading-tight text-secondary">{item.description}</span>
+                      </span>
+                    </Link>
+                  ))}
+                </div>
+                <div className="border-t border-greyscale-700 px-4 py-3 text-base">
+                  Powered by <span className="font-semibold text-secondary">clikkle.com</span>
+                </div>
+              </div>
+            ) : null}
+          </div>
 
           <nav className="aw-header-nav hidden lg:flex" aria-label="Primary navigation">
             {navLinks.map((link) => {
@@ -190,7 +282,7 @@ export function SiteHeader() {
           <div className="aw-mobile-panel-header">
             <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
               <Image
-                src="/clikkle/images/logos/clikkle-core-white.png"
+                src="/logo.png"
                 alt="Clikkle"
                 width={140}
                 height={63}
