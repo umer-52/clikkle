@@ -28,6 +28,7 @@
 
 .blog-feature-article-image img {
   border-radius: 1.5rem;
+  filter: hue-rotate(var(--heroes-art-hue-shift, -112deg)) saturate(1.08);
 }
 
 .blog-feature-article-content {
@@ -269,6 +270,10 @@
   margin: 0;
 }
 
+.blog-grid-articles img {
+  filter: hue-rotate(var(--heroes-art-hue-shift, -112deg)) saturate(1.08);
+}
+
 @media (max-width: 945px) {
   .blog-categories-wrapper,
   .blog-search-bar {
@@ -311,4 +316,75 @@
 /* pt-30 utility */
 .pt-30 {
   padding-top: 7.5rem;
+}
+
+/* Appwrite Website Pagination Styles */
+.pagination-number {
+  font-weight: 500;
+  line-height: 140%;
+  text-align: center;
+  font-style: normal;
+  letter-spacing: -0.063px;
+  font-size: 14px;
+  padding: 6px 12px;
+  color: var(--color-secondary);
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.pagination-number:hover:not(.pagination-number-selected) {
+  color: var(--color-primary);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.pagination-number-selected {
+  border-radius: 8px;
+  color: var(--color-primary);
+  background: rgba(255, 255, 255, 0.08); /* Replaces #2d2d31 to support both themes smoothly */
+}
+
+.pagination-ellipsis {
+  font-weight: 500;
+  line-height: 140%;
+  text-align: center;
+  font-size: 14px;
+  padding: 6px 12px;
+  color: var(--color-secondary);
+}
+
+.navigation-button {
+  opacity: 0.4;
+  font-weight: 500;
+  line-height: 140%;
+  text-align: center;
+  font-style: normal;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: not-allowed;
+  pointer-events: none;
+  justify-content: center;
+  letter-spacing: -0.063px;
+  gap: 4px;
+  font-size: 14px;
+  border-radius: 8px;
+  color: var(--color-secondary);
+  padding: 6px 8px 6px 6px;
+  background: transparent;
+  border: none;
+  transition: color 0.2s ease;
+  white-space: nowrap;
+}
+
+.navigation-button-active {
+  opacity: 1;
+  cursor: pointer;
+  pointer-events: initial;
+}
+
+.navigation-button-active:hover {
+  color: var(--color-primary);
 }
