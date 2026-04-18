@@ -157,9 +157,6 @@ export function SiteHeader() {
                 alt="Clikkle"
                 className="block h-7 w-auto shrink-0 object-contain object-left md:h-8"
               />
-              <span className="text-lg font-medium">
-                Clikkle <span className="text-secondary font-normal">core</span>
-              </span>
               <ChevronDown
                 className={`size-4 text-white/70 transition-transform ${isAppSwitcherOpen ? "rotate-180" : ""}`}
                 aria-hidden
