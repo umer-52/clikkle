@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef, useMemo } from "react";
+import { useState, useRef, useMemo, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { Search, ChevronLeft, ChevronRight } from "lucide-react";
@@ -15,13 +15,20 @@ import {
 import { SiteFooter } from "@/components/site-footer";
 import "./blog.css";
 
+const ITEMS_PER_PAGE = 9;
+
 export default function BlogPage() {
   const [selectedCategory, setSelectedCategory] = useState("Latest");
   const [searchQuery, setSearchQuery] = useState("");
+  const [currentPage, setCurrentPage] = useState(1);
   const categoriesRef = useRef<HTMLUListElement>(null);
   const [isStart, setIsStart] = useState(true);
   const [isEnd, setIsEnd] = useState(false);
   const [isHovering, setIsHovering] = useState(false);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [selectedCategory, searchQuery]);
 
   const featuredAuthor = getAuthor(featuredPost.author);
 
@@ -48,6 +55,13 @@ export default function BlogPage() {
 
     return posts;
   }, [selectedCategory, searchQuery]);
+
+  const totalPages = Math.ceil(filteredPosts.length / ITEMS_PER_PAGE);
+
+  const paginatedPosts = useMemo(() => {
+    const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+    return filteredPosts.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+  }, [filteredPosts, currentPage]);
 
   function handleScroll() {
     if (!categoriesRef.current) return;
@@ -282,50 +296,85 @@ export default function BlogPage() {
 
           {/* Articles Grid */}
           <div className="mt-12">
-            {filteredPosts.length > 0 ? (
-              <ul className="blog-grid-articles">
-                {filteredPosts.map((post) => {
-                  const author = getAuthor(post.author);
-                  if (!author) return null;
-                  return (
-                    <li key={post.slug}>
-                      <Link
-                        href={post.href}
-                        className="block overflow-hidden rounded-lg bg-transparent"
-                      >
-                        <img src={post.cover}
-                          className="aspect-video w-full object-cover transition-transform duration-250 hover:scale-105"
-                          alt={post.title}
-                          loading="lazy" />
-                      </Link>
-                      <div className="flex flex-col gap-3 pt-6 pb-3">
-                        <div className="text-caption text-secondary">
-                          {formatBlogDate(post.date)} - {post.timeToRead} min
-                        </div>
-                        <Link href={post.href} className="bg-transparent">
-                          <h4 className="text-label font-aeonik-pro text-primary line-clamp-2 hover:underline">
-                            {post.title}
-                          </h4>
-                        </Link>
-                        <div className="text-paragraph-md flex flex-wrap items-center gap-2">
-                          <img className="size-5 rounded-full ring-2 ring-[var(--bg-primary)]"
-                            src={author.avatar}
-                            alt={author.name}
+            {paginatedPosts.length > 0 ? (
+              <>
+                <ul className="blog-grid-articles">
+                  {paginatedPosts.map((post) => {
+                    const author = getAuthor(post.author);
+                    if (!author) return null;
+                    return (
+                      <li key={post.slug}>
+                        <Link
+                          href={post.href}
+                          className="block overflow-hidden rounded-lg bg-transparent"
+                        >
+                          <img src={post.cover}
+                            className="aspect-video w-full object-cover transition-transform duration-250 hover:scale-105"
+                            alt={post.title}
                             loading="lazy" />
-                          <span className="text-primary">
-                            <Link
-                              href={author.href}
-                              className="hover:underline"
-                            >
-                              {author.name}
-                            </Link>
-                          </span>
+                        </Link>
+                        <div className="flex flex-col gap-3 pt-6 pb-3">
+                          <div className="text-caption text-secondary">
+                            {formatBlogDate(post.date)} - {post.timeToRead} min
+                          </div>
+                          <Link href={post.href} className="bg-transparent">
+                            <h4 className="text-label font-aeonik-pro text-primary line-clamp-2 hover:underline">
+                              {post.title}
+                            </h4>
+                          </Link>
+                          <div className="text-paragraph-md flex flex-wrap items-center gap-2">
+                            <img className="size-5 rounded-full ring-2 ring-[var(--bg-primary)]"
+                              src={author.avatar}
+                              alt={author.name}
+                              loading="lazy" />
+                            <span className="text-primary">
+                              <Link
+                                href={author.href}
+                                className="hover:underline"
+                              >
+                                {author.name}
+                              </Link>
+                            </span>
+                          </div>
                         </div>
-                      </div>
-                    </li>
-                  );
-                })}
-              </ul>
+                      </li>
+                    );
+                  })}
+                </ul>
+
+                {/* Pagination Controls */}
+                {totalPages > 1 && (
+                  <div className="mt-12 flex justify-center items-center gap-8">
+                    <button
+                      disabled={currentPage === 1}
+                      onClick={() => {
+                        setCurrentPage((p) => p - 1);
+                        window.scrollTo({ top: 600, behavior: "smooth" });
+                      }}
+                      className="web-btn web-btn-secondary disabled:opacity-30 disabled:cursor-not-allowed"
+                    >
+                      <ChevronLeft size={16} className="mr-2" />
+                      <span>Previous</span>
+                    </button>
+                    
+                    <span className="text-secondary font-medium min-w-[100px] text-center">
+                      Page {currentPage} of {totalPages}
+                    </span>
+
+                    <button
+                      disabled={currentPage === totalPages}
+                      onClick={() => {
+                        setCurrentPage((p) => p + 1);
+                        window.scrollTo({ top: 600, behavior: "smooth" });
+                      }}
+                      className="web-btn web-btn-secondary disabled:opacity-30 disabled:cursor-not-allowed"
+                    >
+                      <span>Next</span>
+                      <ChevronRight size={16} className="ml-2" />
+                    </button>
+                  </div>
+                )}
+              </>
             ) : (
               <div className="w-full p-8 flex flex-col gap-8 items-center">
                 <p className="text-secondary">
