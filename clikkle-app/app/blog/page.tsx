@@ -344,22 +344,51 @@ export default function BlogPage() {
 
                 {/* Pagination Controls */}
                 {totalPages > 1 && (
-                  <div className="mt-12 flex justify-center items-center gap-8">
+                  <div className="mt-16 flex justify-center items-center gap-2 md:gap-4">
                     <button
                       disabled={currentPage === 1}
                       onClick={() => {
                         setCurrentPage((p) => p - 1);
                         window.scrollTo({ top: 600, behavior: "smooth" });
                       }}
-                      className="web-btn web-btn-secondary disabled:opacity-30 disabled:cursor-not-allowed"
+                      className="flex items-center gap-2 text-secondary hover:text-primary disabled:opacity-30 disabled:pointer-events-none transition-colors px-2 py-1"
                     >
-                      <ChevronLeft size={16} className="mr-2" />
-                      <span>Previous</span>
+                      <ChevronLeft size={18} />
+                      <span className="hidden sm:inline font-medium">Previous</span>
                     </button>
                     
-                    <span className="text-secondary font-medium min-w-[100px] text-center">
-                      Page {currentPage} of {totalPages}
-                    </span>
+                    <div className="flex items-center gap-1 md:gap-2">
+                      {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => {
+                        // Logic to show pages, ellipses for brevity
+                        if (
+                          totalPages > 7 &&
+                          page !== 1 &&
+                          page !== totalPages &&
+                          Math.abs(page - currentPage) > 1
+                        ) {
+                          if (page === 2 && currentPage > 4) return <span key="dot1" className="text-secondary px-1">...</span>;
+                          if (page === totalPages - 1 && currentPage < totalPages - 3) return <span key="dot2" className="text-secondary px-1">...</span>;
+                          return null;
+                        }
+
+                        return (
+                          <button
+                            key={page}
+                            onClick={() => {
+                              setCurrentPage(page);
+                              window.scrollTo({ top: 600, behavior: "smooth" });
+                            }}
+                            className={`min-w-[40px] h-10 flex items-center justify-center rounded-lg font-medium transition-all ${
+                              currentPage === page
+                                ? "bg-white/8 text-primary"
+                                : "text-secondary hover:bg-white/4 hover:text-primary"
+                            }`}
+                          >
+                            {page}
+                          </button>
+                        );
+                      })}
+                    </div>
 
                     <button
                       disabled={currentPage === totalPages}
@@ -367,10 +396,10 @@ export default function BlogPage() {
                         setCurrentPage((p) => p + 1);
                         window.scrollTo({ top: 600, behavior: "smooth" });
                       }}
-                      className="web-btn web-btn-secondary disabled:opacity-30 disabled:cursor-not-allowed"
+                      className="flex items-center gap-2 text-secondary hover:text-primary disabled:opacity-30 disabled:pointer-events-none transition-colors px-2 py-1"
                     >
-                      <span>Next</span>
-                      <ChevronRight size={16} className="ml-2" />
+                      <span className="hidden sm:inline font-medium">Next</span>
+                      <ChevronRight size={18} />
                     </button>
                   </div>
                 )}
