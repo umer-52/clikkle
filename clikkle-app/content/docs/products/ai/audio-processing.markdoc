@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Audio processing
-description: Learn about the basics of audio processing, the most popular tasks and applications of audio processing with ML and how we can leverage Appwrite to build audio processing enabled applications.
+description: Learn about the basics of audio processing, the most popular tasks and applications of audio processing with ML and how we can leverage Clikkle to build audio processing enabled applications.
 ---
 
 Audio processing is a field of machine learning that deals with allowing machines to understand, analyze, and manipulate various audio signals.
@@ -18,3 +18,4 @@ Recognize and transcribe spoken language into text
 Convert written text into spoken language
 {% /cards_item %}
 {% /cards %}
+

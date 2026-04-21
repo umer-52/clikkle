@@ -1,4 +1,4 @@
----
+﻿---
 layout: tutorial
 title: Add authentication
 description: Add authentication to your react application.
@@ -13,9 +13,9 @@ We'll use context and a custom hook to manage our user's data.
 Create a new file `src/lib/context/user.jsx` and add the following code to it.
 
 ```client-web
-import { ID } from "appwrite";
+import { ID } from "clikkle";
 import { createContext, useContext, useEffect, useState } from "react";
-import { account } from "../appwrite";
+import { account } from "../clikkle";
 
 const UserContext = createContext();
 
@@ -193,3 +193,4 @@ export function Login() {
   );
 }
 ```
+

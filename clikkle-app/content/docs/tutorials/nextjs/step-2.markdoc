@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create app
-description: Create a Next.js app project and integrate with Appwrite
+description: Create a Next.js app project and integrate with Clikkle
 step: 2
 ---
 
@@ -16,20 +16,20 @@ npx create-next-app@latest ideas-tracker --typescript --eslint --app --src-dir -
 
 ## Add dependencies {% #add-dependencies %}
 
-Once the project is created, change your current working directory and install the JavaScript Appwrite SDK.
+Once the project is created, change your current working directory and install the JavaScript Clikkle SDK.
 
 ```sh
 cd ideas-tracker
-npm install appwrite
-npm install "@appwrite.io/pink"
+npm install clikkle
+npm install "@clikkle.io/pink"
 ```
 
 Open `src/app/globals.css` and replace the content with the following to import the relevant style files.
 
 ```css
 /* src/app/globals.css */
-@import "@appwrite.io/pink";
-@import "@appwrite.io/pink-icons";
+@import "@clikkle.io/pink";
+@import "@clikkle.io/pink-icons";
 
 * {
   box-sizing: border-box;
@@ -56,3 +56,4 @@ npm run dev
 ```
 
 This will start a server at `http://localhost:3000/`.
+

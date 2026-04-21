@@ -1,13 +1,13 @@
----
+﻿---
 layout: tutorial
 title: OAuth authentication with SSR
-description: Add authentication to a Next.js project using Appwrite.
+description: Add authentication to a Next.js project using Clikkle.
 step: 7
 ---
 
 ## Enable OAuth provider {% #enable-oauth-provider %}
 
-To enable the GitHub OAuth provider, navigate to your Appwrite Console > Auth > Settings > OAuth2 Providers > GitHub
+To enable the GitHub OAuth provider, navigate to your Clikkle Console > Auth > Settings > OAuth2 Providers > GitHub
 
 To support the OAuth flow, we first redirect the user to the OAuth provider, and then handle the callback from the OAuth provider.
 
@@ -19,10 +19,10 @@ Add a new server action. Navigate to `src/lib/server` and create a new file `oau
 // src/lib/server/oauth.js
 "use server";
 
-import { createAdminClient } from "@/lib/server/appwrite";
+import { createAdminClient } from "@/lib/server/clikkle";
 import { redirect } from "next/navigation";
 import { headers } from "next/headers";
-import { OAuthProvider } from "node-appwrite";
+import { OAuthProvider } from "node-clikkle";
 
 export async function signUpWithGithub() {
 	const { account } = await createAdminClient();
@@ -74,7 +74,7 @@ Handle the callback and create a session for the user. Create a new Next.js serv
 ```js
 // src/app/oauth/route.js
 
-import { createAdminClient } from "@/lib/server/appwrite";
+import { createAdminClient } from "@/lib/server/clikkle";
 import { cookies } from "next/headers";
 import { NextResponse } from "next/server";
 
@@ -98,3 +98,4 @@ export async function GET(request) {
   return NextResponse.redirect(`${request.nextUrl.origin}/account`);
 }
 ```
+

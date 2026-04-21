@@ -1,28 +1,28 @@
----
+﻿---
 layout: article
 title: Team invites
-description: Learn how to manage team invites in Appwrite. Implement both client-side email invites and server-side custom flows for team memberships.
+description: Learn how to manage team invites in Clikkle. Implement both client-side email invites and server-side custom flows for team memberships.
 ---
 
-Appwrite provides two approaches for adding members to teams: client-side email invites and server-side custom flows. Each approach serves different use cases and offers unique benefits.
+Clikkle provides two approaches for adding members to teams: client-side email invites and server-side custom flows. Each approach serves different use cases and offers unique benefits.
 
 # Invite client-side
 
-Client-side email invites are perfect for implementing user-to-user invitations, allowing your users to invite others to join their teams, organizations, or shared resources. When creating a membership, Appwrite:
+Client-side email invites are perfect for implementing user-to-user invitations, allowing your users to invite others to join their teams, organizations, or shared resources. When creating a membership, Clikkle:
 1. Creates a new user account if one doesn't exist for the email address
 2. Sends an automated email invitation to the user
 3. Creates a pending membership
 4. Activates the membership when the user accepts
 
 Client-side invites are ideal when you want a simple, automated process that lets your users manage their own team invitations.
-Appwrite handles the email delivery with built-in templates and localization support, making it easy to implement a standard invite acceptance flow with email verification.
+Clikkle handles the email delivery with built-in templates and localization support, making it easy to implement a standard invite acceptance flow with email verification.
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const teams = new Teams(client);
@@ -38,10 +38,10 @@ const membership = await teams.createMembership(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final teams = Teams(client);
@@ -55,10 +55,10 @@ final membership = await teams.createMembership(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 let teams = Teams(client)
@@ -72,11 +72,11 @@ let membership = try await teams.createMembership(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 val teams = Teams(client)
@@ -101,10 +101,10 @@ For client-side email invites, users must accept the invitation to join the team
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const teams = new Teams(client);
@@ -118,10 +118,10 @@ const response = await teams.updateMembershipStatus(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final teams = Teams(client);
@@ -135,10 +135,10 @@ final response = await teams.updateMembershipStatus(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let teams = Teams(client)
@@ -152,11 +152,11 @@ let response = try await teams.updateMembershipStatus(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val teams = Teams(client)
@@ -183,10 +183,10 @@ Since memberships are created directly, users gain immediate access without wait
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>')
     .setKey('<API_KEY>');
 
@@ -201,11 +201,11 @@ const membership = await teams.createMembership(
 );
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.teams import Teams
+from clikkle.client import Client
+from clikkle.services.teams import Teams
 
 client = Client()
-client.set_endpoint('https://cloud.appwrite.io/v1')
+client.set_endpoint('https://cloud.clikkle.io/v1')
 client.set_project('<PROJECT_ID>')
 client.set_key('<API_KEY>')
 
@@ -220,10 +220,10 @@ membership = teams.create_membership(
 )
 ```
 ```server-swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
     .setKey("<API_KEY>") // Your secret API key
 
@@ -238,11 +238,11 @@ let membership = try await teams.createMembership(
 )
 ```
 ```server-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
     .setKey("<API_KEY>") // Your secret API key
 
@@ -271,10 +271,10 @@ To check membership status client-side, first list the teams and then get the me
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const teams = new Teams(client);
@@ -298,10 +298,10 @@ if (userMembership) {
 }
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final teams = Teams(client);
@@ -326,10 +326,10 @@ if (userMembership != null) {
 }
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let teams = Teams(client)
@@ -349,11 +349,11 @@ if let userMembership = response.memberships.first(where: { $0.userId == "<USER_
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val teams = Teams(client)
@@ -383,10 +383,10 @@ Server-side requires iterating through teams and memberships since the data isn'
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>')
     .setKey('<API_KEY>');
 
@@ -414,11 +414,11 @@ for (const team of teamsList.teams) {
 }
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.teams import Teams
+from clikkle.client import Client
+from clikkle.services.teams import Teams
 
 client = Client()
-client.set_endpoint('https://cloud.appwrite.io/v1')
+client.set_endpoint('https://cloud.clikkle.io/v1')
 client.set_project('<PROJECT_ID>')
 client.set_key('<API_KEY>')
 
@@ -443,10 +443,10 @@ for team in teams_list['teams']:
         print(f"Roles: {user_membership['roles']}")
 ```
 ```server-swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
     .setKey("<API_KEY>")
 
@@ -470,11 +470,11 @@ for team in teamsList.teams {
 }
 ```
 ```server-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
     .setKey("<API_KEY>")
 
@@ -507,10 +507,10 @@ Team owners can remove members or users can leave teams:
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const teams = new Teams(client);
@@ -521,10 +521,10 @@ await teams.deleteMembership(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final teams = Teams(client);
@@ -535,10 +535,10 @@ await teams.deleteMembership(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let teams = Teams(client)
@@ -549,11 +549,11 @@ try await teams.deleteMembership(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val teams = Teams(client)
@@ -567,7 +567,7 @@ teams.deleteMembership(
 
 # Manage team permissions
 
-Teams in Appwrite use a role-based access control (RBAC) system. Each team member can be assigned one or more roles that define their permissions within the team.
+Teams in Clikkle use a role-based access control (RBAC) system. Each team member can be assigned one or more roles that define their permissions within the team.
 
 ## Update roles
 
@@ -575,10 +575,10 @@ You can assign roles when creating a membership or update them later. Note that 
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite"
+import { Client, Teams } from "clikkle"
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>')
 
 const teams = new Teams(client)
@@ -591,10 +591,10 @@ await teams.updateMembership(
 )
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart'
+import 'package:clikkle/clikkle.dart'
 
 final client = Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>')
 
 final teams = Teams(client)
@@ -607,10 +607,10 @@ await teams.updateMembership(
 )
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let teams = Teams(client)
@@ -623,11 +623,11 @@ try await teams.updateMembership(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val teams = Teams(client)
@@ -647,10 +647,10 @@ You can verify if a user has specific roles:
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite"
+import { Client, Teams } from "clikkle"
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>')
 
 const teams = new Teams(client)
@@ -665,10 +665,10 @@ const membership = response.memberships.find(m => m.userId === '<USER_ID>')
 const isAdmin = membership?.roles.includes('admin') ?? false
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart'
+import 'package:clikkle/clikkle.dart'
 
 final client = Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>')
 
 final teams = Teams(client)
@@ -686,10 +686,10 @@ final membership = response.memberships.firstWhere(
 final isAdmin = membership?.roles.contains('admin') ?? false
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let teams = Teams(client)
@@ -704,11 +704,11 @@ let membership = response.memberships.first { $0.userId == "<USER_ID>" }
 let isAdmin = membership?.roles.contains("admin") ?? false
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val teams = Teams(client)
@@ -729,3 +729,4 @@ See how to grant row and file access to team roles in the [permissions](/docs/ad
 {% arrow_link href="/docs/products/auth/teams" %}
 Learn more about team management
 {% /arrow_link %}
+

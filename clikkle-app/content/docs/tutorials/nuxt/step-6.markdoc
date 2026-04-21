@@ -1,12 +1,12 @@
----
+﻿---
 layout: tutorial
 title: Add database
 description: Add databases and queries for ideas in your Nuxt project.
 step: 6
 ---
 
-In Appwrite, data is stored as a table of rows. 
-Create a new database and table in the [Appwrite Console](https://cloud.appwrite.io/) to store the ideas.
+In Clikkle, data is stored as a table of rows. 
+Create a new database and table in the [Clikkle Console](https://cloud.clikkle.io/) to store the ideas.
 
 {% only_dark %}
 ![Create table screen](/clikkle/images/docs/tutorials/dark/idea-tracker-table.png)
@@ -36,7 +36,7 @@ Next, add a **Users** role and give them access to **Create**, **Update** and **
 
 ## Environment variables {% #environment-variables %}
 
-Just like when we set up the connection to Appwrite in [step 3](/docs/tutorials/nuxt/step-3), we need to keep the variables with the table id secret.
+Just like when we set up the connection to Clikkle in [step 3](/docs/tutorials/nuxt/step-3), we need to keep the variables with the table id secret.
 Open the `.env` file and add your database id and your table id to it.
 
 ```
@@ -55,8 +55,8 @@ Create a new file in the composables directory, `useIdeas.js` and add the follow
 ```ts
 // composables/useIdeas.ts
 
-import { ID, Query, Models} from "appwrite";
-import { tablesDB } from "~/appwrite";
+import { ID, Query, Models} from "clikkle";
+import { tablesDB } from "~/clikkle";
 import { ref } from "vue";
 
 const ideasDatabaseId: string = import.meta.env.VITE_DATABASE_ID;
@@ -117,3 +117,4 @@ export const useIdeas = () => {
 ```
 
 Now we can call the `useIdeas` composable from the home page.
+

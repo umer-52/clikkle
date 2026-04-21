@@ -1,9 +1,9 @@
----
+﻿---
 layout: article
 title: Topics
 description: Allow groups of users to subscribe to a common topic and receive the same notifications.
 ---
-In Appwrite Messaging, you can use topics to deliver messages to groups of users at once.
+In Clikkle Messaging, you can use topics to deliver messages to groups of users at once.
 
 {% only_dark %}
 ![Add a target](/clikkle/images/docs/messaging/topics/dark/topics.png)
@@ -39,13 +39,13 @@ You can create topics
 {% only_light %}
 ![Add a topic](/clikkle/images/docs/messaging/topics/create-topics.png)
 {% /only_light %}
-Navigate to your Appwrite Console > **Messaging** > **Topics** > **Create topic**.
+Navigate to your Clikkle Console > **Messaging** > **Topics** > **Create topic**.
 {% /tabsitem %}
 
 {% tabsitem #server-sdk title="Server SDK" %}
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 // Init SDK
 const client = new sdk.Client();
@@ -53,7 +53,7 @@ const client = new sdk.Client();
 const messaging = new sdk.Messaging(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2')                  // Your secret API key
 ;
@@ -66,7 +66,7 @@ const topic = messaging.createTopic(
 
 ```
 ```deno
-import * as sdk from "npm:node-appwrite";
+import * as sdk from "npm:node-clikkle";
 
 // Init SDK
 let client = new sdk.Client();
@@ -74,7 +74,7 @@ let client = new sdk.Client();
 let messaging = new sdk.Messaging(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -93,13 +93,13 @@ const topic = messaging.createTopic(
 ```php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Messaging;
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
 
 $client = new Client();
 
 $client
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>')                 // Your project ID
     ->setKey('919c2d18fb5d4...a2ae413da83346ad2')                  // Your secret API key
 ;
@@ -114,13 +114,13 @@ $topic = $messaging->createTopic(
 );
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.messaging import Messaging
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
   .set_project('<PROJECT_ID>')                 # Your project ID
   .set_key('919c2d18fb5d4...a2ae413da83346ad2')                  # Your secret API key
 )
@@ -134,12 +134,12 @@ topic = messaging.create_topic(
 )
 ```
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<PROJECT_ID>')                 # Your project ID
     .set_key('919c2d18fb5d4...a2ae413da83346ad2')                  # Your secret API key
 
@@ -154,12 +154,12 @@ topic = messaging.create_topic(
 puts topic.inspect
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 var client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<PROJECT_ID>")                 // Your project ID
     .SetKey("919c2d18fb5d4...a2ae413da83346ad2");                 // Your secret API key
 
@@ -171,16 +171,16 @@ Topic topic = await messaging.CreateTopic(
     subscribe: "<ROLES>")  // permission roles for who can subscribe
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
-import 'package:dart_appwrite/enums.dart';
-import 'package:dart_appwrite/models.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
 
 void main() async {                                    // Init SDK
   Client client = Client();
   Messaging messaging = Messaging(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2')                  // Your secret API key
   ;
@@ -200,12 +200,12 @@ void main() async {                                    // Init SDK
 }
 ```
 ```kotlin
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Messaging;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2");                 // Your secret API key
 
@@ -226,12 +226,12 @@ messaging.createTopic(
 );
 ```
 ```java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Messaging;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -252,10 +252,10 @@ messaging.createTopic(
 );
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
 
@@ -274,19 +274,19 @@ let topic = try await messaging.createTopic(
 
 {% partial file="cli-disclaimer.md" /%}
 
-You can create a topic using the CLI command `appwrite init topics` to initialize a topic.
+You can create a topic using the CLI command `clikkle init topics` to initialize a topic.
 
 ```sh
-appwrite init topics
+clikkle init topics
 ```
 
 You can now push your topics with the following command:
 
 ```sh
-appwrite push topics
+clikkle push topics
 ```
 
-This will create your topic in the Console with all of your `appwrite.config.json` configurations.
+This will create your topic in the Console with all of your `clikkle.config.json` configurations.
 
 {% arrow_link href="/docs/tooling/command-line/topics#commands" %}
 Learn more about the CLI topics commands
@@ -306,14 +306,14 @@ Learn more about permission roles
 # Subscribe targets to a topic {% #subscribe-targets-to-topics %}
 {% tabs %}
 {% tabsitem #console title="Console" %}
-During development, you can subscribe targets to a topic for testing right in the Appwrite console.
+During development, you can subscribe targets to a topic for testing right in the Clikkle console.
 {% only_dark %}
 ![Add a topic](/clikkle/images/docs/messaging/topics/dark/add-subscriber.png)
 {% /only_dark %}
 {% only_light %}
 ![Add a topic](/clikkle/images/docs/messaging/topics/add-subscriber.png)
 {% /only_light %}
-Navigate to your Appwrite Console > **Messaging** > **Topics** > click on your topic > **Subscribers** > **Create topic** > **Add subscriber**.
+Navigate to your Clikkle Console > **Messaging** > **Topics** > click on your topic > **Subscribers** > **Create topic** > **Add subscriber**.
 
 If you can't find the targets you'd like to add, see the [targets page](/docs/products/messaging/targets).
 {% /tabsitem %}
@@ -321,10 +321,10 @@ If you can't find the targets you'd like to add, see the [targets page](/docs/pr
 {% tabsitem #server-sdk title="Server SDK" %}
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                    // Your project ID
     .setJWT('eyJhbVCJ9.eyJ...');                    // Your secret JSON Web Token
 
@@ -337,10 +337,10 @@ const subscriber = await messaging.createSubscriber(
 );
 ```
 ```deno
-import * as sdk from "npm:node-appwrite";
+import * as sdk from "npm:node-clikkle";
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                    // Your project ID
     .setJWT('eyJhbVCJ9.eyJ...');                    // Your secret JSON Web Token
 
@@ -355,13 +355,13 @@ const subscriber = await messaging.createSubscriber({
 ```php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Messaging;
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
 
 $client = new Client();
 
 $client
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')  // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
     ->setProject('<PROJECT_ID>')                  // Your project ID
     ->setJWT('eyJhbVCJ9.eyJ...');                  // Your secret JSON Web Token
 
@@ -377,11 +377,11 @@ $subscriber = $messaging->createSubscriber(
 );
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.messaging import Messaging
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1')  # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1')  # Your API Endpoint
 client.set_project('<PROJECT_ID>')                  # Your project ID
 client.set_jwt('eyJhbVCJ9.eyJ...')                   # Your secret JSON Web Token
 
@@ -394,12 +394,12 @@ subscriber = messaging.create_subscriber(
 )
 ```
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')  # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')  # Your API Endpoint
     .set_project('<PROJECT_ID>')                  # Your project ID
     .set_jwt('eyJhbVCJ9.eyJ...')                   # Your secret JSON Web Token
 
@@ -412,12 +412,12 @@ subscriber = messaging.create_subscriber(
 )
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 Client client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1")  // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
     .SetProject("<PROJECT_ID>")                  // Your project ID
     .SetJWT("eyJhbVCJ9.eyJ...");                  // Your secret JSON Web Token
 
@@ -429,12 +429,12 @@ Subscriber result = await messaging.CreateSubscriber(
     targetId: "<TARGET_ID>");
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
-import 'package:dart_appwrite/enums.dart';
-import 'package:dart_appwrite/models.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')  // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
     .setProject('<PROJECT_ID>')                  // Your project ID
     .setJWT('eyJhbVCJ9.eyJ...');                  // Your secret JSON Web Token
 
@@ -447,12 +447,12 @@ Subscriber subscriber result = await messaging.createSubscriber(
 );
 ```
 ```kotlin
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Messaging;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setJWT("eyJhbVCJ9.eyJ...")                  // Your secret JSON Web Token
 
@@ -465,12 +465,12 @@ val subscriber = messaging.createSubscriber(
 )
 ```
 ```java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Messaging;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")  // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setJWT("eyJhbVCJ9.eyJ...");                  // Your secret JSON Web Token
 
@@ -491,10 +491,10 @@ messaging.createSubscriber(
 );
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")  // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setJWT("eyJhbVCJ9.eyJ...")                   // Your secret JSON Web Token
 
@@ -509,3 +509,4 @@ let subscriber = try await messaging.createSubscriber(
 {% /multicode %}
 {% /tabsitem %}
 {% /tabs %}
+

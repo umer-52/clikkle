@@ -1,13 +1,13 @@
----
+﻿---
 layout: article
 title: Database permissions
-description: Enhance data security and access control with Appwrite Database Permissions. Learn how to set permissions and access rules for your database collections
+description: Enhance data security and access control with Clikkle Database Permissions. Learn how to set permissions and access rules for your database collections
 ---
 
 Permissions define who can access documents in a collection. By default **no permissions** are granted to any users, so no user can access any documents.
 Permissions exist at two levels, collection level and document level permissions.
 
-In Appwrite, permissions are **granted**, meaning a user has no access by default and receive access when granted.
+In Clikkle, permissions are **granted**, meaning a user has no access by default and receive access when granted.
 A user with access granted at either collection level or document level will be able to access a document.
 Users **don't need access at both levels** to access documents.
 
@@ -33,5 +33,6 @@ Document level permissions are configured in individual documents.
 # Common use cases {% #common-use-cases %}
 
 For examples of how to implement common permission patterns, including creating private documents that are only accessible to their creators, see the [permissions examples](/docs/advanced/platform/permissions#examples) in our platform documentation.
+
 
 

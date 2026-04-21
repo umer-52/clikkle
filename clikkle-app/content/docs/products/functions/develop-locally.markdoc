@@ -1,42 +1,42 @@
----
+﻿---
 layout: article
 title: Develop locally
-description: Learn to develop Appwrite functions locally.
+description: Learn to develop Clikkle functions locally.
 ---
 
-Develop your Appwrite functions locally to make code changes without redeploying your function on every code change and hot reload your code for faster testing.
+Develop your Clikkle functions locally to make code changes without redeploying your function on every code change and hot reload your code for faster testing.
 
 # Setup {% #setup %}
 
-We use Docker to replicate the production environment for the local deployment of functions. These can be executed locally with the CLI command, which requires initializing a project with an `appwrite.config.json` file and having local code to run the function locally. The CLI also supports various other [CLI commands](/docs/tooling/command-line/commands).
+We use Docker to replicate the production environment for the local deployment of functions. These can be executed locally with the CLI command, which requires initializing a project with an `clikkle.config.json` file and having local code to run the function locally. The CLI also supports various other [CLI commands](/docs/tooling/command-line/commands).
 
 1. Install the [Docker CLI](https://www.docker.com/products/docker-desktop/)
 2. Ensure Docker is running in the background
-3. Install the [Appwrite CLI](/docs/tooling/command-line/installation#getting-started)
-4. [Log in](/docs/tooling/command-line/installation#login) to your Appwrite account using `appwrite login`
+3. Install the [Clikkle CLI](/docs/tooling/command-line/installation#getting-started)
+4. [Log in](/docs/tooling/command-line/installation#login) to your Clikkle account using `clikkle login`
 5. [Initialize your project](/docs/tooling/command-line/installation#initialization)
-6. [Initialize an Appwrite function](/docs/tooling/command-line/functions) and copy and paste your code
+6. [Initialize an Clikkle function](/docs/tooling/command-line/functions) and copy and paste your code
 
 # Develop {% #develop %}
 
-Use the `appwrite run functions` command to develop your function locally.
+Use the `clikkle run functions` command to develop your function locally.
 
 | Parameter           | Description                                                                                                                                  |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 |`--port`             | Set your function port; it defaults to `3000`, or the closest available, i.e. `3001`, `3002`, etc.                                           |
 |`--function-id`      | Select a function so you don't have to click through the list each time.                                                                     |
-|`--user-id <user-id>`| Impersonates a user. Automatically sets `x-appwrite-user-id` and `x-appwrite-user-jwt` headers if the user exists.                           |
+|`--user-id <user-id>`| Impersonates a user. Automatically sets `x-clikkle-user-id` and `x-clikkle-user-jwt` headers if the user exists.                           |
 |`--with-variables`   | Set production environment variables for your function. Do this only if your functions don't have production secrets to avoid security risks.|
 |`--no-reload`        | Set your functions to not hot reload. Any changes to your code won't cause your function to restart.                                         |
 
 ```sh
-appwrite run functions --port 3000 --function-id "<FUNCTION_ID>"
+clikkle run functions --port 3000 --function-id "<FUNCTION_ID>"
 
  runtime   | entrypoint  | path                           | commands     
 -----------|-------------|--------------------------------|--------------
  node-16.0 | src/main.js | functions/<FUNCTION_ID>      | npm install  
 
-ℹ Info: If you wish to change your local settings, update the appwrite.config.json file and rerun the 'appwrite run' command.
+ℹ Info: If you wish to change your local settings, update the clikkle.config.json file and rerun the 'clikkle run' command.
 ♥ Hint: Permissions, events, CRON and timeouts dont apply when running locally.
 ℹ Info: Pulling Docker image ...
 ♥ Hint: This may take a few minutes, but we only need to do this once.
@@ -64,7 +64,7 @@ Build finished.
 ✓ Success: Visit http://localhost:3000/ to execute your function.
 ```
 
-This command helps you efficiently develop your Appwrite functions on your local machine. When developing your Appwrite function locally, it will receive [headers](/docs/products/functions/develop#headers) like a function deployed to Appwrite.
+This command helps you efficiently develop your Clikkle functions on your local machine. When developing your Clikkle function locally, it will receive [headers](/docs/products/functions/develop#headers) like a function deployed to Clikkle.
 
 {% arrow_link href="/docs/products/functions/develop" %}
 Learn more about developing a function
@@ -72,7 +72,7 @@ Learn more about developing a function
 
 # Dynamic API keys {% #dynamic-api-keys %}
 
-You can use headers like dynamic API keys in your function, which give you access to your project services and allow you to operate without sessions. To configure your dynamic API key scopes, modify the scopes in the `appwrite.config.json` file.
+You can use headers like dynamic API keys in your function, which give you access to your project services and allow you to operate without sessions. To configure your dynamic API key scopes, modify the scopes in the `clikkle.config.json` file.
   
 {% arrow_link href="/docs/products/functions/develop#dynamic-api-key" %}
 Learn more about dynamic API keys
@@ -80,7 +80,7 @@ Learn more about dynamic API keys
 
 # Hot reload {% #hot-reload %}
 
-By default, the Appwrite CLI hot-reloads your functions, which means you can update the function code and the changes will be applied automatically. How this happens differs between runtimes with compiled languages versus interpreted ones.
+By default, the Clikkle CLI hot-reloads your functions, which means you can update the function code and the changes will be applied automatically. How this happens differs between runtimes with compiled languages versus interpreted ones.
 
 Because runtimes with compiled languages must translate the source code into machine code, the function must rebuild on change.
 
@@ -161,10 +161,10 @@ When the source code in a runtime with an interpreted languages is updated, the 
 
 You can also impersonate a user when you develop a function locally. Impersonate a user using the `--user-id <USER_ID>` option to select a user you want to use for testing. This allows you to test if the user can perform specific actions, such as creating a row.
 
-When using the `--user-id <USER_ID>` endpoint, the CLI will check and return an error if the user does not exist. But if a user does exist, a [JWT token](/docs/products/auth/jwt#jwt) will be generated and last for 1 hour, similar to API tokens. If the user exists, the header `x-appwrite-user-id` will be set with the userId value, and the `x-appwrite-user-jwt` header will be set with the generated JWT token value.
+When using the `--user-id <USER_ID>` endpoint, the CLI will check and return an error if the user does not exist. But if a user does exist, a [JWT token](/docs/products/auth/jwt#jwt) will be generated and last for 1 hour, similar to API tokens. If the user exists, the header `x-clikkle-user-id` will be set with the userId value, and the `x-clikkle-user-jwt` header will be set with the generated JWT token value.
 
 ```sh
-appwrite run functions --user-id "<USER_ID>"
+clikkle run functions --user-id "<USER_ID>"
 ```
 
 # Push function {% #push-function %}
@@ -172,5 +172,6 @@ appwrite run functions --user-id "<USER_ID>"
 Once you've developed your function, push it by running the following CLI command
 
 ```sh
-appwrite push functions
+clikkle push functions
 ```
+

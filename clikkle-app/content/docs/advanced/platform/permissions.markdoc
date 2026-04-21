@@ -1,10 +1,10 @@
----
+﻿---
 layout: article
 title: Permissions
-description: Enhance data security and access control with Appwrite platform permissions. Learn how to set fine-grained permissions to protect user data and resources.
+description: Enhance data security and access control with Clikkle platform permissions. Learn how to set fine-grained permissions to protect user data and resources.
 ---
 
-Appwrite's permission mechanism offers a simple, yet flexible way to manage which users, teams, or roles can access a specific resource in your project, such as rows and files.
+Clikkle's permission mechanism offers a simple, yet flexible way to manage which users, teams, or roles can access a specific resource in your project, such as rows and files.
 
 Using permissions, you can decide that only **user A** and **user B** will have read and update access to a specific database row, while **user C** and **team X** will be the only ones with delete access.
 
@@ -12,17 +12,17 @@ As the name suggests, read permission allows a user to read a resource, create a
 
 All permissions can be granted to individuals or groups of users, entire teams, or only to team members with a specific role. Permission can also be granted based on authentication status, such as to all users, only authenticated users, or only guest users.
 
-A project user can only grant permissions to a resource that they have. For example, if a user is trying to share a row with a team that they are not a member of, they will encounter a 401 not authorized error. If your app needs users to grant access to teams they're not a member of, you can create Appwrite Functions with a [Server SDK](/docs/sdks#server) to achieve this functionality.
+A project user can only grant permissions to a resource that they have. For example, if a user is trying to share a row with a team that they are not a member of, they will encounter a 401 not authorized error. If your app needs users to grant access to teams they're not a member of, you can create Clikkle Functions with a [Server SDK](/docs/sdks#server) to achieve this functionality.
 
-# Appwrite resource {% #appwrite-resource %}
+# Clikkle resource {% #clikkle-resource %}
 
-An Appwrite resource can be a database, table, row, bucket, or file. Each resource has its own set of permissions to define who can interact with it.
+An Clikkle resource can be a database, table, row, bucket, or file. Each resource has its own set of permissions to define who can interact with it.
 
-Using the Appwrite permissions mechanism, you can grant resource access to users, teams, and members with different roles.
+Using the Clikkle permissions mechanism, you can grant resource access to users, teams, and members with different roles.
 
 # Default values {% #default-values %}
 
-If you create a resource using a Server SDK or the Appwrite Console without explicit permissions, no one can access it by default because the permissions will be empty. If you create a resource using a Client SDK without explicit permissions, the creator will be granted read, update, and delete permissions on that resource by default.
+If you create a resource using a Server SDK or the Clikkle Console without explicit permissions, no one can access it by default because the permissions will be empty. If you create a resource using a Client SDK without explicit permissions, the creator will be granted read, update, and delete permissions on that resource by default.
 
 # Server integration {% #server-integration %}
 
@@ -59,19 +59,19 @@ In Client and Server SDKs, you will find a **Role** class with helper methods fo
 
 # Examples {% #examples %}
 
-The examples below will show you how you can use the different Appwrite permissions to manage access control to your project resources.
+The examples below will show you how you can use the different Clikkle permissions to manage access control to your project resources.
 
-The following examples are using the [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) but can be applied similarly to any of the other [Appwrite SDKs](/docs/sdks).
+The following examples are using the [Clikkle Web SDK](https://github.com/clikkle/sdk-for-web) but can be applied similarly to any of the other [Clikkle SDKs](/docs/sdks).
 
 ## Example 1 - Basic usage {% #example-1-basic-usage %}
 
 In the following example, we are creating a row that can be read by anyone, edited by writers or admins, and deleted by administrators or a user with the user ID `user:5c1f88b42259e`.
 
 ```client-web
-import { Client, TablesDB, Permission, Role } from "appwrite";
+import { Client, TablesDB, Permission, Role } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -101,10 +101,10 @@ promise.then(function (response) {
 In the following example, we are creating a row that can be read by members of the team with ID `5c1f88b87435e` and can only be edited or deleted by members of the same team that possess the team role `owner`.
 
 ```client-web
-import { Client, TablesDB, Permission, Role } from "appwrite";
+import { Client, TablesDB, Permission, Role } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -147,10 +147,10 @@ When creating rows in your application, set row-level permissions to restrict ac
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, Permission, Role } from "appwrite";
+import { Client, TablesDB, Permission, Role } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -173,11 +173,11 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
     final client = Client()
-        .setEndpoint('https://cloud.appwrite.io/v1')
+        .setEndpoint('https://cloud.clikkle.io/v1')
         .setProject('<PROJECT_ID>');
 
     final tablesDB = TablesDB(client);
@@ -193,17 +193,17 @@ void main() async {
                 Permission.delete(Role.user('<USER_ID>'))   // Only this user can delete
             ]
         );
-    } on AppwriteException catch(e) {
+    } on ClikkleException catch(e) {
         print(e);
     }
 }
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 func main() async throws {
     let client = Client()
-        .setEndpoint("https://cloud.appwrite.io/v1")
+        .setEndpoint("https://cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>");
 
     let tablesDB = TablesDB(client);
@@ -225,15 +225,15 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.Permission
-import io.appwrite.Role
-import io.appwrite.services.TablesDB
-import io.appwrite.exceptions.AppwriteException
+import io.clikkle.Client
+import io.clikkle.Permission
+import io.clikkle.Role
+import io.clikkle.services.TablesDB
+import io.clikkle.exceptions.ClikkleException
 
 suspend fun main() {
     val client = Client(applicationContext)
-        .setEndpoint("https://cloud.appwrite.io/v1")
+        .setEndpoint("https://cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>");
 
     val tablesDB = TablesDB(client);
@@ -249,8 +249,8 @@ suspend fun main() {
                 Permission.delete(Role.user("<USER_ID>"))   // Only this user can delete
             )
         );
-    } catch (e: AppwriteException) {
-        Log.e("Appwrite", e.message);
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", e.message);
     }
 }
 ```
@@ -262,3 +262,4 @@ suspend fun main() {
 3. These row-level permissions ensure only the creator can read, update, or delete their rows
 4. Other users can create their own rows but cannot access rows they didn't create
 {% /info %}
+

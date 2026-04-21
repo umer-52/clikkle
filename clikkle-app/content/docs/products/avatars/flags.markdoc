@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Country flags
 description: Retrieve country flag icons by country code for displaying user locations and regional information.
@@ -12,10 +12,10 @@ Retrieve a country flag icon by its [ISO 3166-1](https://en.wikipedia.org/wiki/I
 
 {% multicode %}
 ```client-web
-import { Client, Avatars, Flag } from "appwrite";
+import { Client, Avatars, Flag } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -29,10 +29,10 @@ const result = avatars.getFlag({
 console.log(result); // Resource URL
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final avatars = Avatars(client);
@@ -49,10 +49,10 @@ Future result = avatars.getFlag(
 });
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let avatars = Avatars(client)
@@ -64,12 +64,12 @@ let byteBuffer = try await avatars.getFlag(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Avatars
-import io.appwrite.enums.Flag
+import io.clikkle.Client
+import io.clikkle.services.Avatars
+import io.clikkle.enums.Flag
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val avatars = Avatars(client)
@@ -81,10 +81,10 @@ val result = avatars.getFlag(
 )
 ```
 ```client-react-native
-import { Client, Avatars } from 'react-native-appwrite';
+import { Client, Avatars } from 'react-native-clikkle';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -115,7 +115,7 @@ Use ISO 3166-1 alpha-2 country codes to specify the country. These are two-lette
 
 {% multicode %}
 ```client-web
-import { Flag } from "appwrite";
+import { Flag } from "clikkle";
 
 // United States
 const usFlag = avatars.getFlag({
@@ -139,7 +139,7 @@ const frFlag = avatars.getFlag({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 // United States
 Future usFlag = avatars.getFlag(
@@ -163,7 +163,7 @@ Future frFlag = avatars.getFlag(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 // United States
 let usFlag = try await avatars.getFlag(
@@ -187,7 +187,7 @@ let frFlag = try await avatars.getFlag(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.enums.Flag
+import io.clikkle.enums.Flag
 
 // United States
 val usFlag = avatars.getFlag(
@@ -222,4 +222,5 @@ Country flags are commonly used for:
 - **Analytics dashboards**: Visualize geographic data and user distribution
 - **Localization**: Indicate content availability or regional restrictions
 - **Shipping information**: Display origin and destination countries in shipping interfaces
+
 

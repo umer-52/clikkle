@@ -13,7 +13,7 @@ interface HeroSectionProps {
 }
 
 export function HeroSection({
-  title = "Built for the first soloClikk",
+  title = "Built for the first solocorn",
   subtitle = "All-in-one, cloud infrastructure. Deploy in minutes, scale with any framework, Auth, Database, Storage, Functions, Realtime & Hosting included.",
   showPromoBanner = true,
   showSecondaryActions = true,

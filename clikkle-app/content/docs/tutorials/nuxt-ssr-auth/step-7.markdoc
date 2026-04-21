@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: OAuth authentication with SSR
-description: Add authentication to a Nuxt project using Appwrite.
+description: Add authentication to a Nuxt project using Clikkle.
 step: 7
 ---
 
@@ -24,13 +24,13 @@ Add a new server route to handle the redirect.
 
 ```js
 // server/routes/api/oauth.post.js
-import { createAdminClient } from "~/server/lib/appwrite";
-import { OAuthProvider } from "node-appwrite";
+import { createAdminClient } from "~/server/lib/clikkle";
+import { OAuthProvider } from "node-clikkle";
 
 export default defineEventHandler(async (event) => {
   const config = useRuntimeConfig(event);
   const { account } = createAdminClient();
-  const endpoint = config.public.appwriteEndpoint;
+  const endpoint = config.public.clikkleEndpoint;
 
   const redirectUrl = await account.createOAuth2Token({
     provider: OAuthProvider.Github,
@@ -49,7 +49,7 @@ Handle the callback and create a session for the user. Create a new server route
 
 ```js
 // server/routes/api/oauth.get.js
-import { SESSION_COOKIE, createAdminClient } from "~/server/lib/appwrite";
+import { SESSION_COOKIE, createAdminClient } from "~/server/lib/clikkle";
 
 export default defineEventHandler(async (event) => {
   // Extract the userId and secret from the URL query parameters
@@ -58,7 +58,7 @@ export default defineEventHandler(async (event) => {
     return sendRedirect(event, "/signup");
   }
 
-  // Create the Appwrite client
+  // Create the Clikkle client
   const { account } = createAdminClient();
 
   // Exchange the token userId and secret for a session
@@ -80,3 +80,4 @@ export default defineEventHandler(async (event) => {
   await sendRedirect(event, "/account");
 });
 ```
+

@@ -12,7 +12,7 @@ import "./docs-tutorial.css";
 import "./docs-header.css";
 
 export const metadata = {
-  title: "Docs - Appwrite",
+  title: "Docs - Clikkle",
   description:
     "Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework.",
 };

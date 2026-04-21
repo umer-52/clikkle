@@ -1,22 +1,22 @@
----
+﻿---
 layout: article
 title: Generate SDK
-description: Generate a type-safe SDK for your Appwrite project using the Command-Line Tool (CLI). Automatically create typed helpers based on your database schema.
+description: Generate a type-safe SDK for your Clikkle project using the Command-Line Tool (CLI). Automatically create typed helpers based on your database schema.
 ---
 
 {% partial file="cli-disclaimer.md" /%}
 
-The `generate` command creates a type-safe SDK tailored to your Appwrite project. It reads your database schema and generates typed helpers, so you can interact with your tables using auto-completed methods, resulting in a better developer experience.
+The `generate` command creates a type-safe SDK tailored to your Clikkle project. It reads your database schema and generates typed helpers, so you can interact with your tables using auto-completed methods, resulting in a better developer experience.
 
 # Generate SDK {% #generate-sdk %}
 
 Run the following command in your project directory:
 
 ```sh
-appwrite generate
+clikkle generate
 ```
 
-The CLI automatically detects your project's language and generates the SDK to a `generated/appwrite/` directory.
+The CLI automatically detects your project's language and generates the SDK to a `generated/clikkle/` directory.
 
 # Options {% #options %}
 
@@ -65,10 +65,10 @@ The generated SDK includes the following files:
 After generating the SDK, import it into your project:
 
 ```ts
-import { databases } from "./generated/appwrite";
+import { databases } from "./generated/clikkle";
 ```
 
-Configure your SDK constants by setting the values in `./generated/appwrite/constants.ts`.
+Configure your SDK constants by setting the values in `./generated/clikkle/constants.ts`.
 
 Use the generated helpers to interact with your tables:
 
@@ -162,3 +162,4 @@ await customers.create(
     }
 );
 ```
+

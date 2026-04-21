@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Email OTP
-description: Seamless sign in with Email OTP authentication in Appwrite. Learn how to provide simple and secure passwordless user accounts.
+description: Seamless sign in with Email OTP authentication in Clikkle. Learn how to provide simple and secure passwordless user accounts.
 ---
 
 Email OTP (one-time password) authentication lets users create accounts using their email address and log in using a 6 digit code delivered to their email inbox. This method is similar to [Magic URL login](/docs/products/auth/magic-url), but can provide better user experience in some scenarios.
@@ -27,10 +27,10 @@ Send an email to initiate the authentication process. If the email address has n
 {% multicode %}
 
 ```client-web
-import { Client, Account, ID } from "appwrite";
+import { Client, Account, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const account = new Account(client);
@@ -44,10 +44,10 @@ const userId = sessionToken.userId;
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final account = Account(client);
@@ -60,10 +60,10 @@ final sessionToken = await account.createEmailToken(
 final userId = sessionToken.userId;
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 let account = Account(client);
@@ -77,12 +77,12 @@ let userId = sessionToken.userId;
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.ID
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 val account = Account(client);
@@ -114,10 +114,10 @@ After initiating the email OTP authentication process, the returned user ID and 
 {% multicode %}
 
 ```client-web
-import { Client, Account, ID } from "appwrite";
+import { Client, Account, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const account = new Account(client);
@@ -129,10 +129,10 @@ const session = await account.createSession({
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final account = Account(client);
@@ -143,10 +143,10 @@ final session = await account.createSession(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 let account = Account(client);
@@ -157,12 +157,12 @@ let session = try await account.createSession(
 );
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.ID
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 val account = Account(client);
@@ -196,10 +196,10 @@ By default, security phrases are disabled. To enable a security phrase in Email 
 
 {% multicode %}
 ```client-web
-import { Client, Account, ID } from "appwrite";
+import { Client, Account, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const account = new Account(client);
@@ -237,3 +237,4 @@ mutation {
 {% /multicode %}
 
 By enabling security phrase feature, you will recieve `phrase` in the response. You need to display this phrase to the user, and we recommend informing user what this phrase is and how to check it. When security phrase is enabled, email will also include a new section providing user with the security phrase.
+

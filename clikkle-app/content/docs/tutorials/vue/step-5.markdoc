@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Add navigation 
-description: Add navigation to your Vue.js app with Appwrite authentication and pinia stores.
+description: Add navigation to your Vue.js app with Clikkle authentication and pinia stores.
 step: 5
 ---
 
@@ -44,3 +44,4 @@ onMounted(() => {
   </div>
 </template>
 ```
+

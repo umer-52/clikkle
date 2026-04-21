@@ -1,10 +1,10 @@
----
+﻿---
 layout: article
 title: Multi-tenancy with Teams
-description: Learn how to implement multi-tenancy in your applications using Appwrite Teams.
+description: Learn how to implement multi-tenancy in your applications using Clikkle Teams.
 ---
 
-Appwrite Teams provides an effective way to implement multi-tenancy in your applications. Create a team for each tenant to handle multi-tenant apps with built-in data isolation.
+Clikkle Teams provides an effective way to implement multi-tenancy in your applications. Create a team for each tenant to handle multi-tenant apps with built-in data isolation.
 
 {% arrow_link href="/docs/products/auth/teams" %}
 Learn more about Teams
@@ -12,7 +12,7 @@ Learn more about Teams
 
 # What is multi-tenancy?
 
-Multi-tenancy is a design pattern where a single instance of software serves multiple user groups (tenants). With Appwrite Teams, you can:
+Multi-tenancy is a design pattern where a single instance of software serves multiple user groups (tenants). With Clikkle Teams, you can:
 
 - Create a team for each tenant in your application
 - Control access to resources using team-based permissions
@@ -32,10 +32,10 @@ When a new tenant signs up, create a dedicated team that serves as their isolate
 
 {% multicode %}
 ```client-web
-import { Client, Teams, ID } from "appwrite";
+import { Client, Teams, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const teams = new Teams(client);
@@ -48,10 +48,10 @@ const tenantTeam = await teams.create(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final teams = Teams(client);
@@ -64,10 +64,10 @@ final tenantTeam = await teams.create(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let teams = Teams(client)
@@ -80,12 +80,12 @@ let tenantTeam = try await teams.create(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.ID
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.ID
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val teams = Teams(client)
@@ -105,10 +105,10 @@ Invite users to join a tenant using team memberships. Each member can be assigne
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const teams = new Teams(client);
@@ -124,10 +124,10 @@ const membership = await teams.createMembership(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final teams = Teams(client);
@@ -141,10 +141,10 @@ final membership = await teams.createMembership(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let teams = Teams(client)
@@ -158,11 +158,11 @@ let membership = try await teams.createMembership(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val teams = Teams(client)
@@ -183,10 +183,10 @@ Control access to rows and resources using team-based permissions. This ensures 
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, ID, Permission, Role } from "appwrite";
+import { Client, TablesDB, ID, Permission, Role } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -213,10 +213,10 @@ const row = await tablesDB.createRow(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final tablesDB = TablesDB(client);
@@ -243,10 +243,10 @@ final row = await tablesDB.createRow(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let tablesDB = TablesDB(client)
@@ -273,14 +273,14 @@ let row = try await tablesDB.createRow(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.ID
-import io.appwrite.services.TablesDB
-import io.appwrite.models.Permission
-import io.appwrite.models.Role
+import io.clikkle.Client
+import io.clikkle.ID
+import io.clikkle.services.TablesDB
+import io.clikkle.models.Permission
+import io.clikkle.models.Role
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val tablesDB = TablesDB(client)
@@ -314,10 +314,10 @@ When querying data, users will automatically only see rows they have permission 
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, Query } from "appwrite";
+import { Client, TablesDB, Query } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -338,10 +338,10 @@ const tenantDocuments = await tablesDB.listRows(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final tablesDB = TablesDB(client);
@@ -362,10 +362,10 @@ final tenantDocuments = await tablesDB.listRows(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let tablesDB = TablesDB(client)
@@ -386,12 +386,12 @@ let tenantDocuments = try await tablesDB.listRows(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.Query
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Query
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val tablesDB = TablesDB(client)
@@ -416,3 +416,4 @@ val tenantDocuments = tablesDB.listRows(
 {% arrow_link href="/docs/products/auth/team-invites" %}
 Learn how to manage team invitations
 {% /arrow_link %}
+

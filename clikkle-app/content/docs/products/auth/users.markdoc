@@ -1,12 +1,12 @@
----
+﻿---
 layout: article
 title: Manage users
-description: Manage user identities and profiles effectively with Appwrite. Dive into user management features, account settings, and user data customization
+description: Manage user identities and profiles effectively with Clikkle. Dive into user management features, account settings, and user data customization
 ---
 
-Appwrite Users API is used for managing users in server applications.
+Clikkle Users API is used for managing users in server applications.
 Users API can only be used with an API key with the [Server SDK](/docs/sdks#server), to manage all users. 
-If you need to act on behalf of users through an Appwrite Function or your own backend, use [JWT login](/docs/products/auth/jwt).
+If you need to act on behalf of users through an Clikkle Function or your own backend, use [JWT login](/docs/products/auth/jwt).
 
 {% partial file="account-vs-user.md" /%}
 
@@ -15,3 +15,4 @@ The users API can be used to create users, import users, update user info, get u
 {% arrow_link href="/docs/references/cloud/server-nodejs/users" %}
 Learn more in the Users API references 
 {% /arrow_link %}
+

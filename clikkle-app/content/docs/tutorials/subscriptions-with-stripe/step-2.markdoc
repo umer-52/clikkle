@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Setup Stripe
-description: Add paid app subscription plans to your app with Stripe and Appwrite Functions.
+description: Add paid app subscription plans to your app with Stripe and Clikkle Functions.
 step: 2
 ---
 
@@ -31,7 +31,7 @@ In the header, you can switch to the **Developers** page, where you can head to 
 
 Go to the **Webhooks** section and click the button to **Add an endpoint**.
 
-Let's add a fake endpoint for now in order to get a webhook secret. Later, when you set up the Appwrite Function, you will update this endpoint with the Function's endpoint.
+Let's add a fake endpoint for now in order to get a webhook secret. Later, when you set up the Clikkle Function, you will update this endpoint with the Function's endpoint.
 
 Enter `https://temporary-endpoint/` as **Endpoint URL** and feel free to write some **Description** for yourself. 
 Leave everything else as is, and continue down to **Select events**. 
@@ -51,3 +51,4 @@ Once both are selected, you can click a button to **Add events**. Finish off the
 Once created, click **Reveal** under **Signing secret** and copy the secret. Note it down, as you will need it later when setting the `STRIPE_WEBHOOK_SECRET` environment variable.
 
 Keep this page open, as you will need it soon to update the endpoint with the real Function's endpoint.
+

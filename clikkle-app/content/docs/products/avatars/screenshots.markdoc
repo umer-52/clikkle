@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Screenshots
 description: Capture webpage screenshots with customizable viewport, theme, browser settings, and geolocation options for comprehensive web page documentation.
@@ -14,10 +14,10 @@ Capture a screenshot of a remote webpage with customizable browser settings and 
 
 {% multicode %}
 ```client-web
-import { Client, Avatars } from "appwrite";
+import { Client, Avatars } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -29,10 +29,10 @@ const result = avatars.getScreenshot({
 console.log(result); // Resource URL
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final avatars = Avatars(client);
@@ -47,10 +47,10 @@ Future result = avatars.getScreenshot(
 });
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let avatars = Avatars(client)
@@ -60,11 +60,11 @@ let byteBuffer = try await avatars.getScreenshot(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Avatars
+import io.clikkle.Client
+import io.clikkle.services.Avatars
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val avatars = Avatars(client)
@@ -74,10 +74,10 @@ val result = avatars.getScreenshot(
 )
 ```
 ```client-react-native
-import { Client, Avatars } from 'react-native-appwrite';
+import { Client, Avatars } from 'react-native-clikkle';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -242,7 +242,7 @@ Customize browser settings like theme, user agent, locale, and timezone to simul
 
 {% multicode %}
 ```client-web
-import { Client, Avatars, Theme, Timezone } from "appwrite";
+import { Client, Avatars, Theme, Timezone } from "clikkle";
 
 // Dark theme screenshot
 const darkThemeScreenshot = avatars.getScreenshot({
@@ -270,7 +270,7 @@ const touchScreenshot = avatars.getScreenshot({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 // Dark theme screenshot
 Future darkThemeScreenshot = avatars.getScreenshot(
@@ -298,7 +298,7 @@ Future touchScreenshot = avatars.getScreenshot(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 // Dark theme screenshot
 let darkThemeScreenshot = try await avatars.getScreenshot(
@@ -326,10 +326,10 @@ let touchScreenshot = try await avatars.getScreenshot(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Avatars
-import io.appwrite.enums.Theme
-import io.appwrite.enums.Timezone
+import io.clikkle.Client
+import io.clikkle.services.Avatars
+import io.clikkle.enums.Theme
+import io.clikkle.enums.Timezone
 
 // Dark theme screenshot
 val darkThemeScreenshot = avatars.getScreenshot(
@@ -364,7 +364,7 @@ Simulate different geographic locations to see how web pages render with locatio
 
 {% multicode %}
 ```client-web
-import { Client, Avatars, Timezone } from "appwrite";
+import { Client, Avatars, Timezone } from "clikkle";
 
 // New York location
 const nyScreenshot = avatars.getScreenshot({
@@ -397,7 +397,7 @@ const tokyoScreenshot = avatars.getScreenshot({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 // New York location
 Future nyScreenshot = avatars.getScreenshot(
@@ -430,7 +430,7 @@ Future tokyoScreenshot = avatars.getScreenshot(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 // New York location
 let nyScreenshot = try await avatars.getScreenshot(
@@ -463,8 +463,8 @@ let tokyoScreenshot = try await avatars.getScreenshot(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.services.Avatars
-import io.appwrite.enums.Timezone
+import io.clikkle.services.Avatars
+import io.clikkle.enums.Timezone
 
 // New York location
 val nyScreenshot = avatars.getScreenshot(
@@ -592,7 +592,7 @@ By pre-granting permissions, you can capture screenshots of fully functional pag
 
 {% multicode %}
 ```client-web
-import { Client, Avatars, Output } from "appwrite";
+import { Client, Avatars, Output } from "clikkle";
 
 // Grant geolocation permission
 const geoScreenshot = avatars.getScreenshot({
@@ -624,7 +624,7 @@ const defaultScreenshot = avatars.getScreenshot({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 // Grant geolocation permission
 Future geoScreenshot = avatars.getScreenshot(
@@ -656,7 +656,7 @@ Future defaultScreenshot = avatars.getScreenshot(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 // Grant geolocation permission
 let geoScreenshot = try await avatars.getScreenshot(
@@ -688,8 +688,8 @@ let defaultScreenshot = try await avatars.getScreenshot(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.services.Avatars
-import io.appwrite.enums.Output
+import io.clikkle.services.Avatars
+import io.clikkle.enums.Output
 
 // Grant geolocation permission
 val geoScreenshot = avatars.getScreenshot(
@@ -736,3 +736,4 @@ Screenshots are commonly used for:
 - **A/B testing**: Compare visual renderings of different page variants
 - **Automated reporting**: Generate visual reports and dashboards with live web page screenshots
 - **QA automation**: Verify visual consistency across different browser and device configurations
+

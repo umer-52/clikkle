@@ -1,12 +1,12 @@
----
+﻿---
 layout: article
 title: Quick start
-description: Configure the Appwrite SDKs and take the necessary steps to start using Appwrite.
+description: Configure the Clikkle SDKs and take the necessary steps to start using Clikkle.
 ---
-Follow these steps before you begin using the Appwrite SDKs or accessing Appwrite through the REST and GraphQL API.
+Follow these steps before you begin using the Clikkle SDKs or accessing Clikkle through the REST and GraphQL API.
 
 {% section #select-the-right-API step=1 title="Select the right API" %}
-Appwrite has two types of APIs for different use cases, select one or both depending on your use case.
+Clikkle has two types of APIs for different use cases, select one or both depending on your use case.
 
 If you're creating a **web, mobile, or native application** used by end-users that will register and create accounts,
 install a [Client SDK](/docs/sdks#client) and follow steps for Client APIs.
@@ -20,9 +20,9 @@ install a [Server SDK](/docs/sdks#server) and follow steps for SSR.
 
 {% section #configure-project step=2 title="Configure project" %}
 
-Head to the [Appwrite Console](https://cloud.appwrite.io/console).
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
 
-If this is your first time using Appwrite, create an account and create your first project.
+If this is your first time using Clikkle, create an account and create your first project.
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
@@ -59,7 +59,7 @@ Under **Integrate with your server**, add an **API Key**.
 ![Create project screen](/clikkle/images/docs/quick-starts/integrate-server.png)
 {% /only_light %}
 
-Enable the scopes for the Appwrite products you plan to use for your app.
+Enable the scopes for the Clikkle products you plan to use for your app.
 It's a good idea to only grant scopes that you need, and edit the API keys as your needs change for security.
 {% /tabsitem %}
 
@@ -82,46 +82,46 @@ Under **Integrate with your server**, add an **API Key** with the following scop
 {% /section %}
 
 {% section #initialize-sdks step=3 title="Initialize SDKs" %}
-When using the Appwrite APIs, you need to pass information like endpoint, project ID, credentials
-and other metadata for Appwrite to properly parse your request.
+When using the Clikkle APIs, you need to pass information like endpoint, project ID, credentials
+and other metadata for Clikkle to properly parse your request.
 
 {% tabs %}
 {% tabsitem #client title="Client" %}
 Client apps need to be configured with endpoint and project ID,
-so the Appwrite SDK knows which endpoint and project to connect to.
+so the Clikkle SDK knows which endpoint and project to connect to.
 {% multicode %}
 ```client-web
-import { Client } from "appwrite";
+import { Client } from "clikkle";
 
 const client = new Client();
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                // Your project ID
 ;
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 Client client = Client();
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                // Your project ID
 ;
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .setProject("<PROJECT_ID>")                            // Your project ID
 ```
 ```client-android-kotlin
-import io.appwrite.Client
+import io.clikkle.Client
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .setProject("<PROJECT_ID>")                // Your project ID
 ```
 {% /multicode %}
@@ -129,29 +129,29 @@ val client = Client(context)
 
 {% tabsitem #server title="Server" %}
 Server apps need to be configured with endpoint, project ID, and an API key
-so the Appwrite SDK knows which endpoint and project to connect to, as well as have credentials to perform admin actions.
+so the Clikkle SDK knows which endpoint and project to connect to, as well as have credentials to perform admin actions.
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 // Init SDK
 const client = new sdk.Client();
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')                // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
     .setProject('<PROJECT_ID>')                            // Your project ID
     .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
 ;
 ```
 ```deno
-import * as sdk from "npm:node-appwrite";
+import * as sdk from "npm:node-clikkle";
 
 // Init SDK
 let client = new sdk.Client();
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')                // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
     .setProject('<PROJECT_ID>')                            // Your project ID
     .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
 ;
@@ -159,82 +159,82 @@ client
 ```php
 <?php
 
-use Appwrite\Client;
+use Clikkle\Client;
 
 $client = new Client();
 
 $client
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')               // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')               // Your API Endpoint
     ->setProject('<PROJECT_ID>')                           // Your project ID
     ->setJWT('<YOUR_API_KEY>')                                  // Your secret JSON Web Token
 ;
 ```
 ```python
-from appwrite.client import Client
+from clikkle.client import Client
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')                 # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')                 # Your API Endpoint
   .set_project('<PROJECT_ID>')                             # Your project ID
   .set_jwt('<YOUR_API_KEY>')                                    # Your secret JSON Web Token
 )
 ```
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')               # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')               # Your API Endpoint
     .set_project('<PROJECT_ID>')                           # Your project ID
     .set_jwt('<YOUR_API_KEY>')                                  # Your secret JSON Web Token
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Services;
 
 var client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1")                // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
     .SetProject("<PROJECT_ID>")                            // Your project ID
     .SetJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 void main() {                                                   // Init SDK
   Client client = Client();
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')                // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
     .setProject('<PROJECT_ID>')                            // Your project ID
     .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
   ;
 }
 ```
 ```kotlin
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")                // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
     .setProject("<PROJECT_ID>")                            // Your project ID
     .setJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
 ```
 ```java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")                // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
     .setProject("<PROJECT_ID>")                            // Your project ID
     .setJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")                // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
     .setProject("<PROJECT_ID>")                            // Your project ID
     .setJWT("<YOUR_API_KEY>")                                   // Your secret JSON Web Token
 ```
@@ -242,7 +242,7 @@ let client = Client()
 {% /tabsitem %}
 
 {% tabsitem #ssr title="SSR" %}
-Appwrite uses Server SDKs for SSR apps. The initialization is different
+Clikkle uses Server SDKs for SSR apps. The initialization is different
 ## Admin client {% #admin-client %}
 
 {% info title="Admin clients" %}
@@ -259,19 +259,19 @@ The API key should have the following scope in order to perform authentication:
 
 {% multicode %}
 ```server-nodejs
-import { Client } from "node-appwrite"; // Using the server SDK
+import { Client } from "node-clikkle"; // Using the server SDK
 
 const adminClient = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')             // Your project ID
     .setKey('<YOUR_API_KEY>');                   // Your secret API key
 ```
 ```php
-use Appwrite\Client;
-use Appwrite\Services\Account;
+use Clikkle\Client;
+use Clikkle\Services\Account;
 
 $adminClient = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>')             // Your project ID
     ->setKey('<YOUR_API_KEY>');                   // Your secret API key
 
@@ -283,7 +283,7 @@ It is important to use an API key, as this will allow your server requests to by
 
 ## Session client {% #session-client %}
 
-The session client will be used to make requests to Appwrite on behalf of the end-user. 
+The session client will be used to make requests to Clikkle on behalf of the end-user. 
 It will be initialized with the session, usually stored within a cookie.
 
 You should create a new client for each request and **never** share the client between requests.
@@ -291,7 +291,7 @@ You should create a new client for each request and **never** share the client b
 {% multicode %}
 ```server-nodejs
 const sessionClient = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');            // Your project ID
 
 const session = req.cookies.session; // Get the session cookie from the request
@@ -301,7 +301,7 @@ if (session) {
 ```
 ```php
 $sessionClient = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>');            // Your project ID
 
 $session = $_COOKIE['session']; // Get the session cookie from the request
@@ -312,10 +312,10 @@ if ($session) {
 {% /multicode %}
 {% /tabsitem %}
 
-You will use the initialized client in all requests you make to Appwrite.
+You will use the initialized client in all requests you make to Clikkle.
 {% /tabs %}
 
-If you're using Appwrite without an SDK, follow the guides for the [REST API](/docs/apis/rest) or [GraphQL API](/docs/apis/graphql).
+If you're using Clikkle without an SDK, follow the guides for the [REST API](/docs/apis/rest) or [GraphQL API](/docs/apis/graphql).
 {% /section %}
 
 {% section #examples step=4 title="Examples" %}
@@ -328,31 +328,31 @@ Examples when building with Client APIs
 Just plain JavaScript and TypeScript.
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/nextjs" title="Next.js" icon="icon-nextjs" %}
-Get started with Appwrite and Next.js
+Get started with Clikkle and Next.js
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/react" title="React" icon="icon-react" %}
-Get started with Appwrite and React
+Get started with Clikkle and React
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/vue" title="Vue.js" icon="web-icon-vue" %}
-Get started with Appwrite and Vue.js
+Get started with Clikkle and Vue.js
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/nuxt" title="Nuxt" icon="web-icon-nuxt" %}
-Get started with Appwrite and Nuxt
+Get started with Clikkle and Nuxt
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/sveltekit" title="SvelteKit" icon="icon-svelte" %}
-Get started with Appwrite and SvelteKit
+Get started with Clikkle and SvelteKit
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/angular" title="Angular" icon="icon-angular" %}
-Get started with Appwrite and Angular
+Get started with Clikkle and Angular
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/flutter" title="Flutter" icon="icon-flutter" %}
-Get started with Appwrite and Flutter
+Get started with Clikkle and Flutter
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/apple" title="Apple" icon="icon-apple" %}
-Get started with Appwrite and Apple
+Get started with Clikkle and Apple
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/android" title="Android" icon="icon-android" %}
-Get started with Appwrite and Android
+Get started with Clikkle and Android
 {% /cards_item %}
 {% /cards %}
 
@@ -361,34 +361,34 @@ Examples when building with Server APIs
 
 {% cards %}
 {% cards_item href="/docs/quick-starts/node" title="Node.js" icon="icon-node_js" %}
-Get started with Appwrite and Node.js
+Get started with Clikkle and Node.js
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/python" title="Python" icon="icon-python" %}
-Get started with Appwrite and Python
+Get started with Clikkle and Python
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/dart" title="Dart" icon="web-icon-dart" %}
-Get started with Appwrite and Dart
+Get started with Clikkle and Dart
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/php" title="PHP" icon="web-icon-php" %}
-Get started with Appwrite and PHP
+Get started with Clikkle and PHP
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/ruby" title="Ruby" icon="web-icon-ruby" %}
-Get started with Appwrite and Ruby
+Get started with Clikkle and Ruby
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/dotnet" title=".NET" icon="web-icon-dotnet" %}
-Get started with Appwrite and .NET
+Get started with Clikkle and .NET
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/deno" title="Deno" icon="web-icon-deno" %}
-Get started with Appwrite and Deno
+Get started with Clikkle and Deno
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/go" title="Go" icon="web-icon-go" %}
-Get started with Appwrite and Go
+Get started with Clikkle and Go
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/swift" title="Swift" icon="web-icon-swift" %}
-Get started with Appwrite and Swift
+Get started with Clikkle and Swift
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/kotlin" title="Kotlin" icon="web-icon-kotlin" %}
-Get started with Appwrite and Kotlin
+Get started with Clikkle and Kotlin
 {% /cards_item %}
 {% /cards %}
 

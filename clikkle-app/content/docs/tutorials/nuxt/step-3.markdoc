@@ -1,13 +1,13 @@
 ---
 layout: tutorial
-title: Set up Appwrite
-description: Import and configure a project with Appwrite Cloud.
+title: Set up Clikkle
+description: Import and configure a project with Clikkle Cloud.
 step: 3
 ---
 
 ## Create project {% #create-project %}
 
-Head to the [Appwrite Console](https://cloud.appwrite.io/console).
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
@@ -16,7 +16,7 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console).
 ![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
 {% /only_light %}
 
-If this is your first time using Appwrite, create an account and create your first project.
+If this is your first time using Clikkle, create an account and create your first project.
 
 Then, under **Add a platform**, add a **Web app**.
 The **Hostname** should be `localhost`.
@@ -32,9 +32,9 @@ You can skip the optional steps.
 
 ## Environment variables {% #environment-variables %}
 
-To connect to Appwrite in our app, we'll need to use sensitive information.
+To connect to Clikkle in our app, we'll need to use sensitive information.
 We keep the secrets by using environment variables for the endpoint and project id.
-Your project id is located in the **Settings** page in the Appwrite console.
+Your project id is located in the **Settings** page in the Clikkle console.
 
 {% only_dark %}
 ![Project settings screen](/clikkle/images/docs/quick-starts/dark/project-id.png)
@@ -46,23 +46,23 @@ Your project id is located in the **Settings** page in the Appwrite console.
 Add a `.env` file to the root directory and add the following code to it, replacing `PROJECT_ID` with your project id.
 
 ```
-VITE_APPWRITE_ENDPOINT=https://<REGION>.cloud.appwrite.io/v1
-VITE_APPWRITE_PROJECT=PROJECT_ID
+VITE_CLIKKLE_ENDPOINT=https://<REGION>.cloud.clikkle.io/v1
+VITE_CLIKKLE_PROJECT=PROJECT_ID
 ```
 
-## Initialize Appwrite SDK {% #init-sdk %}
+## Initialize Clikkle SDK {% #init-sdk %}
 
-Create a new file `appwrite.js` for the Appwrite related code.
+Create a new file `clikkle.js` for the Clikkle related code.
 Only one instance of the `Client()` class should be created per app.
 Add the following code to it.
 
 ```ts
-// appwrite.ts
+// clikkle.ts
 
-import { Client, TablesDB, Account } from "appwrite";
+import { Client, TablesDB, Account } from "clikkle";
 
-const url: string = import.meta.env.VITE_APPWRITE_ENDPOINT;
-const project: string = import.meta.env.VITE_APPWRITE_PROJECT;
+const url: string = import.meta.env.VITE_CLIKKLE_ENDPOINT;
+const project: string = import.meta.env.VITE_CLIKKLE_PROJECT;
 
 const client: Client = new Client();
 
@@ -71,3 +71,4 @@ client.setEndpoint(url).setProject(project);
 export const account: Account = new Account(client);
 export const tablesDB: TablesDB = new TablesDB(client);
 ```
+

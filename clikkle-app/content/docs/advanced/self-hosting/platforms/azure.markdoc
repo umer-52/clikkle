@@ -1,14 +1,14 @@
----
+﻿---
 layout: article
 title: Azure deployment
-description: Deploy Appwrite on Microsoft Azure using Virtual Machines. Learn how to set up a production-ready Appwrite instance on Azure.
+description: Deploy Clikkle on Microsoft Azure using Virtual Machines. Learn how to set up a production-ready Clikkle instance on Azure.
 ---
 
-Deploy Appwrite on Microsoft Azure using Virtual Machines.
+Deploy Clikkle on Microsoft Azure using Virtual Machines.
 
 # Virtual Machines deployment {% #virtual-machines %}
 
-Azure Virtual Machines provide full control over your infrastructure where you can deploy Appwrite. Create a VM with at least 2 vCPU and 4 GB RAM, configure network security groups to allow HTTP/HTTPS traffic, then follow the [general installation guide](/docs/advanced/self-hosting/installation) for Docker setup.
+Azure Virtual Machines provide full control over your infrastructure where you can deploy Clikkle. Create a VM with at least 2 vCPU and 4 GB RAM, configure network security groups to allow HTTP/HTTPS traffic, then follow the [general installation guide](/docs/advanced/self-hosting/installation) for Docker setup.
 
 # Custom installations {% #custom-installations %}
 
@@ -25,3 +25,4 @@ After successful deployment:
 - [Configure services](/docs/advanced/self-hosting/configuration) - Set up email, storage, and other services
 - [Production optimization](/docs/advanced/self-hosting/production) - Prepare for production workloads
 - [Updates and maintenance](/docs/advanced/self-hosting/production/updates) - Keep your instance up to date
+

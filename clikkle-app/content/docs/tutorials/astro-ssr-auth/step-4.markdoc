@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title: Add a server hook
-description: Add authentication to a Astro project using Appwrite.
+description: Add authentication to a Astro project using Clikkle.
 step: 4
 ---
 
@@ -13,7 +13,7 @@ Create a new file in the `src/` directory called `middleware.js`:
 // src/middleware.js
 
 import { defineMiddleware } from "astro:middleware";
-import { createSessionClient } from "./server/appwrite";
+import { createSessionClient } from "./server/clikkle";
 
 export const onRequest = defineMiddleware(async ({ request, locals }, next) => {
   try {
@@ -30,7 +30,7 @@ To ensure the `locals` object is typed correctly, we can add a type definition f
 ```ts
 /// <reference types="astro/client" />
 
-type Models = import("node-appwrite").Models;
+type Models = import("node-clikkle").Models;
 
 declare namespace App {
   interface Locals {
@@ -39,9 +39,9 @@ declare namespace App {
 }
 
 interface ImportMetaEnv {
-  readonly PUBLIC_APPWRITE_ENDPOINT: string;
-  readonly PUBLIC_APPWRITE_PROJECT: string;
-  readonly APPWRITE_KEY: string;
+  readonly PUBLIC_CLIKKLE_ENDPOINT: string;
+  readonly PUBLIC_CLIKKLE_PROJECT: string;
+  readonly CLIKKLE_KEY: string;
 }
 
 interface ImportMeta {
@@ -64,3 +64,4 @@ return Astro.redirect("/signup");
 ```
 
 If the user is logged in, they will be redirected to the account page. If they are not logged in, they will be redirected to the sign up page.
+

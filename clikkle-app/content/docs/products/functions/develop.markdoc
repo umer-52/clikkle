@@ -1,14 +1,14 @@
 ---
 layout: article
-title: Develop Appwrite Functions
-description: Master serverless function development with Appwrite. Learn how to write and test functions locally, debug code, and optimize for efficient execution.
+title: Develop Clikkle Functions
+description: Master serverless function development with Clikkle. Learn how to write and test functions locally, debug code, and optimize for efficient execution.
 ---
 
-Appwrite Functions offer a familiar interface if you've developed REST endpoints.
+Clikkle Functions offer a familiar interface if you've developed REST endpoints.
 Each function is handled following a request and response pattern.
 
 # Lifecycle {% #life-cycle %}
-There is a clear lifecycle for all Appwrite Functions, from beginning to end.
+There is a clear lifecycle for all Clikkle Functions, from beginning to end.
 Here's everything that happens during a function execution.
 
 1. The function is invoked.
@@ -25,17 +25,17 @@ Notice the exported entry point that the executor will call.
 
 {% multicode %}
 ```server-nodejs
-import { Client } from 'node-appwrite';
+import { Client } from 'node-clikkle';
 
-// This is your Appwrite function
+// This is your Clikkle function
 // It's executed each time we get a request
 export default async ({ req, res, log, error }) => {
-  // Why not try the Appwrite SDK?
+  // Why not try the Clikkle SDK?
   //
   // Set project and set API key
   // const client = new Client()
-  //    .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
-  //    .setKey(req.headers['x-appwrite-key']);
+  //    .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+  //    .setKey(req.headers['x-clikkle-key']);
 
   // You can log messages to the console
   log('Hello, Logs!');
@@ -53,9 +53,9 @@ export default async ({ req, res, log, error }) => {
   // `res.json()` is a handy helper for sending JSON
   return res.json({
     motto: 'Build like a team of hundreds_',
-    learn: 'https://appwrite.io/docs',
-    connect: 'https://appwrite.io/discord',
-    getInspired: 'https://builtwith.appwrite.io',
+    learn: 'https://clikkle.io/docs',
+    connect: 'https://clikkle.io/discord',
+    getInspired: 'https://builtwith.clikkle.io',
   });
 };
 ```
@@ -63,18 +63,18 @@ export default async ({ req, res, log, error }) => {
 ```php
 require(__DIR__ . '/../vendor/autoload.php');
 
-use Appwrite\Client;
-use Appwrite\Exception;
+use Clikkle\Client;
+use Clikkle\Exception;
 
-// This is your Appwrite function
+// This is your Clikkle function
 // It's executed each time we get a request
 return function ($context) {
-    // Why not try the Appwrite SDK?
+    // Why not try the Clikkle SDK?
     //
     // Set project and set API key
     // $client = (new Client())
-    //      ->setProject(getenv(APPWRITE_FUNCTION_PROJECT_ID))
-    //      ->setKey($context->req->headers['x-appwrite-key']);
+    //      ->setProject(getenv(CLIKKLE_FUNCTION_PROJECT_ID))
+    //      ->setKey($context->req->headers['x-clikkle-key']);
    
     // You can log messages to the console
     $context->log('Hello, Logs!');
@@ -92,28 +92,28 @@ return function ($context) {
     // `res.json()` is a handy helper for sending JSON
     return $context->res->json([
         'motto' => 'Build like a team of hundreds_',
-        'learn' => 'https://appwrite.io/docs',
-        'connect' => 'https://appwrite.io/discord',
-        'getInspired' => 'https://builtwith.appwrite.io',
+        'learn' => 'https://clikkle.io/docs',
+        'connect' => 'https://clikkle.io/discord',
+        'getInspired' => 'https://builtwith.clikkle.io',
     ]);
 };
 ```
 
 ```python
-from appwrite.client import Client
+from clikkle.client import Client
 import os
 
 
-# This is your Appwrite function
+# This is your Clikkle function
 # It's executed each time we get a request
 def main(context):
-    # Why not try the Appwrite SDK?
+    # Why not try the Clikkle SDK?
     #
     # Set project and set API key
     # client = (
     #     Client()
-    #        .set_project(os.environ["APPWRITE_FUNCTION_PROJECT_ID"])
-    #        .set_key(context.req.headers["x-appwrite-key"])
+    #        .set_project(os.environ["CLIKKLE_FUNCTION_PROJECT_ID"])
+    #        .set_key(context.req.headers["x-clikkle-key"])
     # )
 
     # You can log messages to the console
@@ -131,23 +131,23 @@ def main(context):
     # `context.res.json()` is a handy helper for sending JSON
     return context.res.json({
         "motto": "Build like a team of hundreds_",
-        "learn": "https://appwrite.io/docs",
-        "connect": "https://appwrite.io/discord",
-        "getInspired": "https://builtwith.appwrite.io",
+        "learn": "https://clikkle.io/docs",
+        "connect": "https://clikkle.io/discord",
+        "getInspired": "https://builtwith.clikkle.io",
     })
 ```
 ```ruby
-require "appwrite"
+require "clikkle"
 
-# This is your Appwrite function
+# This is your Clikkle function
 # It's executed each time we get a request
 def main(context)
-  # Why not try the Appwrite SDK?
+  # Why not try the Clikkle SDK?
   #
   # Set project and set API key
   # client = Client.new
-  #   .set_project(ENV['APPWRITE_FUNCTION_PROJECT_ID'])
-  #   .set_key(context.req.headers['x-appwrite-key'])
+  #   .set_project(ENV['CLIKKLE_FUNCTION_PROJECT_ID'])
+  #   .set_key(context.req.headers['x-clikkle-key'])
 
   # You can log messages to the console
   context.log("Hello, Logs!")
@@ -165,24 +165,24 @@ def main(context)
   # `context.res.json()` is a handy helper for sending JSON
   return context.res.json({
     "motto": "Build like a team of hundreds_",
-    "learn": "https://appwrite.io/docs",
-    "connect": "https://appwrite.io/discord",
-    "getInspired": "https://builtwith.appwrite.io",
+    "learn": "https://clikkle.io/docs",
+    "connect": "https://clikkle.io/discord",
+    "getInspired": "https://builtwith.clikkle.io",
   })
 end
 ```
 ```deno
-import { Client } from "npm:node-appwrite";
+import { Client } from "npm:node-clikkle";
 
-// This is your Appwrite function
+// This is your Clikkle function
 // It's executed each time we get a request
 export default ({ req, res, log, error }: any) => {
-  // Why not try the Appwrite SDK?
+  // Why not try the Clikkle SDK?
   //
   // Set project and set API key
   // const client = new Client()
-  //    .setProject(Deno.env.get("APPWRITE_FUNCTION_PROJECT_ID") || "")
-  //    .setKey(req.headers["x-appwrite-key"] || "");
+  //    .setProject(Deno.env.get("CLIKKLE_FUNCTION_PROJECT_ID") || "")
+  //    .setKey(req.headers["x-clikkle-key"] || "");
 
   // You can log messages to the console
   log("Hello, Logs!");
@@ -200,9 +200,9 @@ export default ({ req, res, log, error }: any) => {
   // `res.json()` is a handy helper for sending JSON
   return res.json({
     motto: "Build like a team of hundreds_",
-    learn: "https://appwrite.io/docs",
-    connect: "https://appwrite.io/discord",
-    getInspired: "https://builtwith.appwrite.io",
+    learn: "https://clikkle.io/docs",
+    connect: "https://clikkle.io/discord",
+    getInspired: "https://builtwith.clikkle.io",
   });
 };
 ```
@@ -213,7 +213,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/appwrite/sdk-for-go/appwrite"
+	"github.com/clikkle/sdk-for-go/clikkle"
 	"github.com/open-runtimes/types-for-go/v4/openruntimes"
 )
 
@@ -225,11 +225,11 @@ type Response struct {
 }
 
 func Main(Context openruntimes.Context) openruntimes.Response {
-	// This is your Appwrite function
+	// This is your Clikkle function
 	// It's executed each time we get a request service
-	var _ = appwrite.NewClient(
-		appwrite.WithProject(os.Getenv("APPWRITE_FUNCTION_PROJECT_ID")),
-		appwrite.WithKey(Context.Req.Headers["x-appwrite-key"]),
+	var _ = clikkle.NewClient(
+		clikkle.WithProject(os.Getenv("CLIKKLE_FUNCTION_PROJECT_ID")),
+		clikkle.WithKey(Context.Req.Headers["x-clikkle-key"]),
 	)
 
 	// You can log messages to the console
@@ -248,25 +248,25 @@ func Main(Context openruntimes.Context) openruntimes.Response {
 	return Context.Res.Json(
 		Response{
 			Motto:       "Build like a team of hundreds_",
-			Learn:       "https://appwrite.io/docs",
-			Connect:     "https://appwrite.io/discord",
-			GetInspired: "https://builtwith.appwrite.io",
+			Learn:       "https://clikkle.io/docs",
+			Connect:     "https://clikkle.io/discord",
+			GetInspired: "https://builtwith.clikkle.io",
 		})
 }
 ```
 ```dart
 import 'dart:async';
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
-// This is your Appwrite function
+// This is your Clikkle function
 // It's executed each time we get a request
 Future main(final context) async {
-  // Why not try the Appwrite SDK?
+  // Why not try the Clikkle SDK?
   //
   // Set project and set API key
   // final client = Client()
-  //    .setProject(Platform.environment['APPWRITE_FUNCTION_PROJECT_ID'])
-  //    .setKey(context.req.headers['x-appwrite-key']);
+  //    .setProject(Platform.environment['CLIKKLE_FUNCTION_PROJECT_ID'])
+  //    .setKey(context.req.headers['x-clikkle-key']);
 
 
   // You can log messages to the console
@@ -285,9 +285,9 @@ Future main(final context) async {
   // `res.json()` is a handy helper for sending JSON
   return context.res.json({
     'motto': 'Build like a team of hundreds_',
-    'learn': 'https://appwrite.io/docs',
-    'connect': 'https://appwrite.io/discord',
-    'getInspired': 'https://builtwith.appwrite.io',
+    'learn': 'https://clikkle.io/docs',
+    'connect': 'https://clikkle.io/discord',
+    'getInspired': 'https://builtwith.clikkle.io',
   });
 }
 ```
@@ -296,19 +296,19 @@ package io.openruntimes.kotlin.src
 
 import io.openruntimes.kotlin.RuntimeContext
 import io.openruntimes.kotlin.RuntimeOutput
-import io.appwrite.Client
+import io.clikkle.Client
 import java.util.HashMap
 
 class Main {
-    // This is your Appwrite function
+    // This is your Clikkle function
     // It's executed each time we get a request
     fun main(context: RuntimeContext): RuntimeOutput {
-        // Why not try the Appwrite SDK?
+        // Why not try the Clikkle SDK?
         //
         // Set project and set API key
         // val client = Client()
-        //    .setProject(System.getenv("APPWRITE_FUNCTION_PROJECT_ID"))
-        //    .setKey(context.req.headers["x-appwrite-key"])
+        //    .setProject(System.getenv("CLIKKLE_FUNCTION_PROJECT_ID"))
+        //    .setKey(context.req.headers["x-clikkle-key"])
 
         // You can log messages to the console
         context.log("Hello, Logs!")
@@ -326,9 +326,9 @@ class Main {
         // `context.res.json()` is a handy helper for sending JSON
         return context.res.json(mutableMapOf(
             "motto" to "Build like a team of hundreds_",
-            "learn" to "https://appwrite.io/docs",
-            "connect" to "https://appwrite.io/discord",
-            "getInspired" to "https://builtwith.appwrite.io"
+            "learn" to "https://clikkle.io/docs",
+            "connect" to "https://clikkle.io/discord",
+            "getInspired" to "https://builtwith.clikkle.io"
         ))
     }
 }
@@ -339,19 +339,19 @@ package io.openruntimes.java.src;
 import io.openruntimes.java.RuntimeContext;
 import io.openruntimes.java.RuntimeOutput;
 import java.util.HashMap;
-import io.appwrite.Client;
+import io.clikkle.Client;
 
 public class Main {
 
-    // This is your Appwrite function
+    // This is your Clikkle function
     // It's executed each time we get a request
     public RuntimeOutput main(RuntimeContext context) throws Exception {
-        // Why not try the Appwrite SDK?
+        // Why not try the Clikkle SDK?
         //
         // Set project and set API key
         // Client client = new Client();
-        //     .setProject(System.getenv("APPWRITE_FUNCTION_PROJECT_ID"))
-        //     .setKey(context.getReq().getHeaders().get("x-appwrite-key"));
+        //     .setProject(System.getenv("CLIKKLE_FUNCTION_PROJECT_ID"))
+        //     .setKey(context.getReq().getHeaders().get("x-clikkle-key"));
 
         // You can log messages to the console
         context.log("Hello, Logs!");
@@ -368,9 +368,9 @@ public class Main {
 
         Map json = new HashMap<>();
         json.put("motto", "Build like a team of hundreds_");
-        json.put("learn", "https://appwrite.io/docs");
-        json.put("connect", "https://appwrite.io/discord");
-        json.put("getInspired", "https://builtwith.appwrite.io");
+        json.put("learn", "https://clikkle.io/docs");
+        json.put("connect", "https://clikkle.io/discord");
+        json.put("getInspired", "https://builtwith.clikkle.io");
 
         // `context.getRes().json()` is a handy helper for sending JSON
         return context.getRes().json(json);
@@ -378,19 +378,19 @@ public class Main {
 }
 ```
 ```swift
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 import Foundation
 
-// This is your Appwrite function
+// This is your Clikkle function
 // It's executed each time we get a request
 func main(context: RuntimeContext) async throws -> RuntimeOutput {
-    // Why not try the Appwrite SDK?
+    // Why not try the Clikkle SDK?
     //
     // Set project and set API key
     // let client = Client()
-    //    .setProject(ProcessInfo.processInfo.environment["APPWRITE_FUNCTION_PROJECT_ID"])
-    //    .setKey(context.req.headers["x-appwrite-key"] ?? "")
+    //    .setProject(ProcessInfo.processInfo.environment["CLIKKLE_FUNCTION_PROJECT_ID"])
+    //    .setKey(context.req.headers["x-clikkle-key"] ?? "")
 
     // You can log messages to the console
     context.log("Hello, Logs!")
@@ -408,31 +408,31 @@ func main(context: RuntimeContext) async throws -> RuntimeOutput {
     // `context.res.json()` is a handy helper for sending JSON
     return try context.res.json([
         "motto": "Build like a team of hundreds_",
-        "learn": "https://appwrite.io/docs",
-        "connect": "https://appwrite.io/discord",
-        "getInspired": "https://builtwith.appwrite.io",
+        "learn": "https://clikkle.io/docs",
+        "connect": "https://clikkle.io/discord",
+        "getInspired": "https://builtwith.clikkle.io",
     ])
 }
 ```
 ```csharp
 namespace DotNetRuntime;
 
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 public class Handler {
 
-    // This is your Appwrite function
+    // This is your Clikkle function
     // It"s executed each time we get a request
     public async Task Main(RuntimeContext Context)
     {
-        // Why not try the Appwrite SDK?
+        // Why not try the Clikkle SDK?
         //
         // Set project and set API key
         // var client = new Client()
-        //     .SetProject(Environment.GetEnvironmentVariable("APPWRITE_FUNCTION_PROJECT_ID"))
-        //     .SetKey(Context.Req.Headers["x-appwrite-key"]);
+        //     .SetProject(Environment.GetEnvironmentVariable("CLIKKLE_FUNCTION_PROJECT_ID"))
+        //     .SetKey(Context.Req.Headers["x-clikkle-key"]);
 
         // You can log messages to the console
         Context.Log("Hello, Logs!");
@@ -451,9 +451,9 @@ public class Handler {
         return Context.Res.Json(new Dictionary()
         {
             { "motto", "Build like a team of hundreds_" },
-            { "learn", "https://appwrite.io/docs" },
-            { "connect", "https://appwrite.io/discord" },
-            { "getInspired", "https://builtwith.appwrite.io" },
+            { "learn", "https://clikkle.io/docs" },
+            { "connect", "https://clikkle.io/discord" },
+            { "getInspired", "https://builtwith.clikkle.io" },
         });
     }
 }
@@ -463,7 +463,7 @@ public class Handler {
 If you prefer to learn through more examples like this, explore the [examples page](/docs/products/functions/examples).
 
 # Context object {% #context-object %}
-Context is an object passed into every function to handle communication to both the end users, and logging to the Appwrite Console.
+Context is an object passed into every function to handle communication to both the end users, and logging to the Clikkle Console.
 All input, output, and logging **must be handled through the context object** passed in.
 
 You'll find these properties in the context object.
@@ -472,8 +472,8 @@ You'll find these properties in the context object.
 |----------|--------------------------------------------------------------------------------------------------------------------------|
 | req      | Contains request information like method, body, and headers. See full examples [in the request section](#request).                                     |
 | res      | Contains methods to build a response and return information. See full examples [in the response section](#response).                                     |
-| log()    | Method to log information to the Appwrite Console, end users will not be able to see these logs. See full examples [in the logging section](#logging). |
-| error()  | Method to log errors to the Appwrite Console, end users will not be able to see these errors. See full examples [in the logging section](#logging).    |
+| log()    | Method to log information to the Clikkle Console, end users will not be able to see these logs. See full examples [in the logging section](#logging). |
+| error()  | Method to log errors to the Clikkle Console, end users will not be able to see these errors. See full examples [in the logging section](#logging).    |
 
 {% info title="Depreciation notice" %}
 Use `req.bodyText` instead of `req.bodyRaw`. Use `res.text` instead of `res.send`. Use `req.bodyText` or `req.bodyJson` instead of `req.body` depending on the expected input data type.
@@ -515,9 +515,9 @@ export default async function ({ req, res, log, error }: any) {
 
 ## Request {% #request %}
 
-If you pass data into an Appwrite Function, it'll be found in the request object.
-This includes all invocation inputs from Appwrite SDKs, HTTP calls, Appwrite events, or browsers visiting the configured domain.
-Explore the request object with the following function, which logs all request params to the Appwrite Console.
+If you pass data into an Clikkle Function, it'll be found in the request object.
+This includes all invocation inputs from Clikkle SDKs, HTTP calls, Clikkle events, or browsers visiting the configured domain.
+Explore the request object with the following function, which logs all request params to the Clikkle Console.
 
 ### Request types {% #request-types %}
 
@@ -544,14 +544,14 @@ export default async ({ req, res, log }) => {
     log(JSON.stringify(req.headers));     // String key-value pairs of all request headers, keys are lowercase
     log(req.scheme);                      // Value of the x-forwarded-proto header, usually http or https
     log(req.method);                      // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-    log(req.url);                         // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-    log(req.host);                        // Hostname from the host header, such as awesome.appwrite.io
+    log(req.url);                         // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+    log(req.host);                        // Hostname from the host header, such as awesome.clikkle.io
     log(req.port);                        // Port from the host header, for example 8000
     log(req.path);                        // Path part of URL, for example /v1/hooks
     log(req.queryString);                 // Raw query params string. For example "limit=12&offset=50"
     log(JSON.stringify(req.query));       // Parsed query params. For example, req.query.limit
 
-    return res.text("All the request parameters are logged to the Appwrite Console.");
+    return res.text("All the request parameters are logged to the Clikkle Console.");
 };
 ```
 ```php
@@ -561,14 +561,14 @@ return function ($context) {
     $context->log(json_encode($context->req->headers)); // String key-value pairs of all request headers, keys are lowercase
     $context->log($context->req->scheme);               // Value of the x-forwarded-proto header, usually http or https
     $context->log($context->req->method);               // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-    $context->log($context->req->url);                  // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-    $context->log($context->req->host);                 // Hostname from the host header, such as awesome.appwrite.io
+    $context->log($context->req->url);                  // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+    $context->log($context->req->host);                 // Hostname from the host header, such as awesome.clikkle.io
     $context->log($context->req->port);                 // Port from the host header, for example 8000
     $context->log($context->req->path);                 // Path part of URL, for example /v1/hooks
     $context->log($context->req->queryString);          // Raw query params string. For example "limit=12&offset=50"
     $context->log(json_encode($context->req->query));   // Parsed query params. For example, req.query.limit
 
-    return $context->res->text("All the request parameters are logged to the Appwrite Console.");
+    return $context->res->text("All the request parameters are logged to the Clikkle Console.");
 }
 ```
 ```python
@@ -580,14 +580,14 @@ def main(context):
     context.log(json.dumps(context.req.headers))   # String key-value pairs of all request headers, keys are lowercase
     context.log(context.req.scheme)                # Value of the x-forwarded-proto header, usually http or https
     context.log(context.req.method)                # Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-    context.log(context.req.url)                   # Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-    context.log(context.req.host)                  # Hostname from the host header, such as awesome.appwrite.io
+    context.log(context.req.url)                   # Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+    context.log(context.req.host)                  # Hostname from the host header, such as awesome.clikkle.io
     context.log(context.req.port)                  # Port from the host header, for example 8000
     context.log(context.req.path)                  # Path part of URL, for example /v1/hooks
     context.log(context.req.query_string)          # Raw query params string. For example "limit=12&offset=50"
     context.log(json.dumps(context.req.query))     # Parsed query params. For example, req.query.limit
 
-    return context.res.text("All the request parameters are logged to the Appwrite Console.")
+    return context.res.text("All the request parameters are logged to the Clikkle Console.")
 ```
 ```ruby
 require 'json'
@@ -598,14 +598,14 @@ def main(context)
     context.log(JSON.generate(context.req.headers))   # String key-value pairs of all request headers, keys are lowercase
     context.log(context.req.scheme)                   # Value of the x-forwarded-proto header, usually http or https
     context.log(context.req.method)                   # Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-    context.log(context.req.url)                      # Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-    context.log(context.req.host)                     # Hostname from the host header, such as awesome.appwrite.io
+    context.log(context.req.url)                      # Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+    context.log(context.req.host)                     # Hostname from the host header, such as awesome.clikkle.io
     context.log(context.req.port)                     # Port from the host header, for example 8000
     context.log(context.req.path)                     # Path part of URL, for example /v1/hooks
     context.log(context.req.query_string)             # Raw query params string. For example "limit=12&offset=50"
     context.log(JSON.generate(context.req.query))     # Parsed query params. For example, req.query.limit
 
-    return context.res.text("All the request parameters are logged to the Appwrite Console.")
+    return context.res.text("All the request parameters are logged to the Clikkle Console.")
 end
 ```
 ```deno
@@ -615,14 +615,14 @@ export default async ({ req, res, log }: any) => {
     log(JSON.stringify(req.headers));   // String key-value pairs of all request headers, keys are lowercase
     log(req.scheme);                    // Value of the x-forwarded-proto header, usually http or https
     log(req.method);                    // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-    log(req.url);                       // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-    log(req.host);                      // Hostname from the host header, such as awesome.appwrite.io
+    log(req.url);                       // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+    log(req.host);                      // Hostname from the host header, such as awesome.clikkle.io
     log(req.port);                      // Port from the host header, for example 8000
     log(req.path);                      // Path part of URL, for example /v1/hooks
     log(req.queryString);               // Raw query params string. For example "limit=12&offset=50"
     log(JSON.stringify(req.query));     // Parsed query params. For example, req.query.limit
 
-    return res.text("All the request parameters are logged to the Appwrite Console.");
+    return res.text("All the request parameters are logged to the Clikkle Console.");
 }
 ```
 ```go
@@ -640,14 +640,14 @@ func Main(Context openruntimes.Context) openruntimes.Response {
 	Context.Log(json.Marshal(Context.Req.Headers))  // String key-value pairs of all request headers, keys are lowercase
 	Context.Log(Context.Req.Scheme)                 // Value of the x-forwarded-proto header, usually http or https
 	Context.Log(Context.Req.Method)                 // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-	Context.Log(Context.Req.Url)                    // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-	Context.Log(Context.Req.Host)                   // Hostname from the host header, such as awesome.appwrite.io
+	Context.Log(Context.Req.Url)                    // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+	Context.Log(Context.Req.Host)                   // Hostname from the host header, such as awesome.clikkle.io
 	Context.Log(Context.Req.Port)                   // Port from the host header, for example 8000
 	Context.Log(Context.Req.Path)                   // Path part of URL, for example /v1/hooks
 	Context.Log(Context.Req.QueryString)            // Raw query params string. For example "limit=12&offset=50"
 	Context.Log(json.Marshal(Context.Req.Query))    // Parsed query params. For example, req.query.limit
 
-	return Context.Res.Text("All the request parameters are logged to the Appwrite Console.")
+	return Context.Res.Text("All the request parameters are logged to the Clikkle Console.")
 }
 ```
 ```dart
@@ -660,14 +660,14 @@ Future<dynamic> main(final context) async {
     context.log(json.encode(context.req.headers));   // String key-value pairs of all request headers, keys are lowercase
     context.log(context.req.scheme);                 // Value of the x-forwarded-proto header, usually http or https
     context.log(context.req.method);                 // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-    context.log(context.req.url);                    // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-    context.log(context.req.host);                   // Hostname from the host header, such as awesome.appwrite.io
+    context.log(context.req.url);                    // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+    context.log(context.req.host);                   // Hostname from the host header, such as awesome.clikkle.io
     context.log(context.req.port);                   // Port from the host header, for example 8000
     context.log(context.req.path);                   // Path part of URL, for example /v1/hooks
     context.log(context.req.queryString);            // Raw query params string. For example "limit=12&offset=50"
     context.log(json.encode(context.req.query));     // Parsed query params. For example, req.query.limit
 
-    return context.res.text("All the request parameters are logged to the Appwrite Console.");
+    return context.res.text("All the request parameters are logged to the Clikkle Console.");
 }
 ```
 ```swift
@@ -680,14 +680,14 @@ func main(context: RuntimeContext) async throws -> RuntimeOutput {
     context.log(NSJSONSerialization.jsonObject(with: context.req.headers, options: [])!)   // String key-value pairs of all request headers, keys are lowercase
     context.log(context.req.scheme)                                                        // Value of the x-forwarded-proto header, usually http or https
     context.log(context.req.method)                                                        // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-    context.log(context.req.url)                                                           // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-    context.log(context.req.host)                                                          // Hostname from the host header, such as awesome.appwrite.io
+    context.log(context.req.url)                                                           // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+    context.log(context.req.host)                                                          // Hostname from the host header, such as awesome.clikkle.io
     context.log(context.req.port)                                                          // Port from the host header, for example 8000
     context.log(context.req.path)                                                          // Path part of URL, for example /v1/hooks
     context.log(context.req.queryString)                                                   // Raw query params string. For example "limit=12&offset=50"
     context.log(NSJSONSerialization.jsonObject(with: context.req.query, options: [])!)     // Parsed query params. For example, req.query.limit
 
-    return context.res.text("All the request parameters are logged to the Appwrite Console.")
+    return context.res.text("All the request parameters are logged to the Clikkle Console.")
 }
 ```
 ```csharp
@@ -702,14 +702,14 @@ public class Handler {
         Context.Log(JsonSerializer.Serialize<object>(Context.Req.Headers));              // String key-value pairs of all request headers, keys are lowercase
         Context.Log(Context.Req.Scheme);                                                 // Value of the x-forwarded-proto header, usually http or https
         Context.Log(Context.Req.Method);                                                 // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-        Context.Log(Context.Req.Url);                                                    // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-        Context.Log(Context.Req.Host);                                                   // Hostname from the host header, such as awesome.appwrite.io
+        Context.Log(Context.Req.Url);                                                    // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+        Context.Log(Context.Req.Host);                                                   // Hostname from the host header, such as awesome.clikkle.io
         Context.Log(Context.Req.Port);                                                   // Port from the host header, for example 8000
         Context.Log(Context.Req.Path);                                                   // Path part of URL, for example /v1/hooks
         Context.Log(Context.Req.QueryString);                                            // Raw query params string. For example "limit=12&offset=50"
         Context.Log(JsonSerializer.Serialize<object>(Context.Req.Query));                // Parsed query params. For example, req.query.limit
 
-        return Context.Res.Text("All the request parameters are logged to the Appwrite Console.");
+        return Context.Res.Text("All the request parameters are logged to the Clikkle Console.");
     }
 }
 ```
@@ -729,14 +729,14 @@ class Main {
         context.log(gson.toString(context.req.headers))   // String key-value pairs of all request headers, keys are lowercase
         context.log(context.req.scheme)                   // Value of the x-forwarded-proto header, usually http or https
         context.log(context.req.method)                   // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-        context.log(context.req.url)                      // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-        context.log(context.req.host)                     // Hostname from the host header, such as awesome.appwrite.io
+        context.log(context.req.url)                      // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+        context.log(context.req.host)                     // Hostname from the host header, such as awesome.clikkle.io
         context.log(context.req.port)                     // Port from the host header, for example 8000
         context.log(context.req.path)                     // Path part of URL, for example /v1/hooks
         context.log(context.req.queryString)              // Raw query params string. For example "limit=12&offset=50"
         context.log(gson.toString(context.req.query))     // Parsed query params. For example, req.query.limit
 
-        return context.res.text("All the request parameters are logged to the Appwrite Console.")
+        return context.res.text("All the request parameters are logged to the Clikkle Console.")
     }
 }
 ```
@@ -755,14 +755,14 @@ public class Main {
         context.log(gson.toString(context.getReq().getHeaders())); // String key-value pairs of all request headers, keys are lowercase
         context.log(context.getReq().getScheme());                 // Value of the x-forwarded-proto header, usually http or https
         context.log(context.getReq().getMethod());                 // Request method, such as GET, POST, PUT, DELETE, PATCH, etc.
-        context.log(context.getReq().getUrl());                    // Full URL, for example: http://awesome.appwrite.io:8000/v1/hooks?limit=12&offset=50
-        context.log(context.getReq().getHost());                   // Hostname from the host header, such as awesome.appwrite.io
+        context.log(context.getReq().getUrl());                    // Full URL, for example: http://awesome.clikkle.io:8000/v1/hooks?limit=12&offset=50
+        context.log(context.getReq().getHost());                   // Hostname from the host header, such as awesome.clikkle.io
         context.log(context.getReq().getPort());                   // Port from the host header, for example 8000
         context.log(context.getReq().getPath());                   // Path part of URL, for example /v1/hooks
         context.log(context.getReq().getQueryString());            // Raw query params string. For example "limit=12&offset=50"
         context.log(gson.toString(context.getReq().getQuery()));   // Parsed query params. For example, req.query.limit
 
-        return context.getRes().text("All the request parameters are logged to the Appwrite Console.");
+        return context.getRes().text("All the request parameters are logged to the Clikkle Console.");
     }
 }
 ```
@@ -770,26 +770,26 @@ public class Main {
 
 ### Headers {% #headers %}
 
-Appwrite Functions will always receive a set of headers that provide meta data about the function execution.
+Clikkle Functions will always receive a set of headers that provide meta data about the function execution.
 These are provided alongside any custom headers sent to the function.
 
 | Variable                  | Description                                                                                                                                          |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `x-appwrite-trigger`        |  Describes how the function execution was invoked. Possible values are `http`, `schedule` or `event`.                                                      |
-| `x-appwrite-event`          |  If the function execution was triggered by an event, describes the triggering event.                                                                |
-| `x-appwrite-key`            |  The dynamic API key is used for server authentication. [Learn more about dynamic api keys](/docs/products/functions/develop#dynamic-api-key). |
-| `x-appwrite-user-id`        |  If the function execution was invoked by an authenticated user, display the user ID. This doesn't apply to Appwrite Console users or API keys.      |
-| `x-appwrite-user-jwt`       |  JWT token generated from the invoking user's session. Used to authenticate Server SDKs to respect access permissions. [Learn more about JWT tokens](/docs/products/auth/jwt).  |
-| `x-appwrite-country-code`   |  Displays the country code of the configured locale.                                                                                                 |
-| `x-appwrite-continent-code` |  Displays the continent code of the configured locale.                                                                                               |
-| `x-appwrite-continent-eu`   |  Describes if the configured local is within the EU.                                                                                                 |
-| `x-appwrite-client-ip`       |  Displays the IP of the client creating the execution.                                                                                                |
-| `x-appwrite-execution-id`   |  Displays the ID of the current execution.                                                                                                            |
+| `x-clikkle-trigger`        |  Describes how the function execution was invoked. Possible values are `http`, `schedule` or `event`.                                                      |
+| `x-clikkle-event`          |  If the function execution was triggered by an event, describes the triggering event.                                                                |
+| `x-clikkle-key`            |  The dynamic API key is used for server authentication. [Learn more about dynamic api keys](/docs/products/functions/develop#dynamic-api-key). |
+| `x-clikkle-user-id`        |  If the function execution was invoked by an authenticated user, display the user ID. This doesn't apply to Clikkle Console users or API keys.      |
+| `x-clikkle-user-jwt`       |  JWT token generated from the invoking user's session. Used to authenticate Server SDKs to respect access permissions. [Learn more about JWT tokens](/docs/products/auth/jwt).  |
+| `x-clikkle-country-code`   |  Displays the country code of the configured locale.                                                                                                 |
+| `x-clikkle-continent-code` |  Displays the continent code of the configured locale.                                                                                               |
+| `x-clikkle-continent-eu`   |  Describes if the configured local is within the EU.                                                                                                 |
+| `x-clikkle-client-ip`       |  Displays the IP of the client creating the execution.                                                                                                |
+| `x-clikkle-execution-id`   |  Displays the ID of the current execution.                                                                                                            |
 
 ## Response {% #response %}
 Use the response object to send a response to the function caller. This could be a user, client app, or an integration.
-The response information **will not be logged** to the Appwrite Console.
-There are several possible ways to send a response, explore them in the following Appwrite Function.
+The response information **will not be logged** to the Clikkle Console.
+There are several possible ways to send a response, explore them in the following Clikkle Function.
 
 ### Response types {% #response-types %}
 
@@ -828,7 +828,7 @@ export default async ({ req, res, log }) => {
             const bytes = await fs.readFile('file.png');
             return res.binary(bytes);
         case 'redirect':
-            return res.redirect("https://appwrite.io", 301);
+            return res.redirect("https://clikkle.io", 301);
         case 'html':
             return res.text(
                 "<h1>This is an HTML response</h1>", 200, {
@@ -852,7 +852,7 @@ return function ($context) {
             $fileContent = file_get_contents('file.png');
             return $context->res->binary($fileContent);
         case 'redirect':
-            return $context->res->redirect("https://appwrite.io", 301);
+            return $context->res->redirect("https://clikkle.io", 301);
         case 'html':
             return $context->res->text("<h1>This is an HTML response</h1>", 200, [
                 "content-type" => "text/html"
@@ -876,7 +876,7 @@ def main(context):
             file_contents = file.read()
         return context.res.binary(file_contents)
     elif type == 'redirect':
-        return context.res.redirect("https://appwrite.io", 301)
+        return context.res.redirect("https://clikkle.io", 301)
     elif type == 'html':
         return context.res.text("<h1>This is an HTML response</h1>", 200, {
             "content-type": "text/html"
@@ -895,7 +895,7 @@ def main(context)
             file_contents = File.binread('file.png')
             return context.res.binary(file_contents)
         when 'redirect'
-            return context.res.redirect("https://appwrite.io", 301)
+            return context.res.redirect("https://clikkle.io", 301)
         when 'html'
             return context.res.text("<h1>This is an HTML response</h1>", 200, {
                 "content-type": "text/html"
@@ -917,7 +917,7 @@ export default async ({ req, res, log }) => {
             const fileContents = await Deno.readFile('file.png');
             return res.binary(fileContents);
         case 'redirect':
-            return res.redirect("https://appwrite.io", 301);
+            return res.redirect("https://clikkle.io", 301);
         case 'html':
             return res.text(
                 "<h1>This is an HTML response</h1>", 200, {
@@ -951,7 +951,7 @@ func Main(Context openruntimes.Context) openruntimes.Response {
 		imageData, _ := images.ReadFile("file.png")
 		return Context.Res.Binary(imageData)
 	case "redirect":
-		return Context.Res.Redirect("https://appwrite.io")
+		return Context.Res.Redirect("https://clikkle.io")
 	case "html":
 		return Context.Res.Text("<h1>This is an HTML response</h1>")
 	default:
@@ -974,7 +974,7 @@ Future<dynamic> main(final context) async {
             final fileContents = await file.readAsBytes();
             return context.res.binary(fileContents);
         case 'redirect':
-            return context.res.redirect('https://appwrite.io', 301);
+            return context.res.redirect('https://clikkle.io', 301);
         case 'html':
             return context.res.text('<h1>This is an HTML response</h1>',
                 200, {'content-type': 'text/html'});
@@ -996,7 +996,7 @@ func main(context: RuntimeContext) async throws -> RuntimeOutput {
         let fileContents = FileManager.default.contents(atPath: "file.png")
         return context.res.binary(fileContents)
     case "redirect":
-        return context.res.redirect("https://appwrite.io", 301)
+        return context.res.redirect("https://clikkle.io", 301)
     case "html":
         return context.res.text("<h1>This is an HTML response</h1>", 200, [
             "content-type": "text/html"
@@ -1019,7 +1019,7 @@ public class Handler {
             case "binary":
                 return Context.Res.Binary(File.ReadAllBytes("file.png"));
             case "redirect":
-                return Context.Res.Redirect("https://appwrite.io", 301);
+                return Context.Res.Redirect("https://clikkle.io", 301);
             case "html":
                 return Context.Res.Text("<h1>This is an HTML response</h1>", 200, new Dictionary<string, string>() {
                     { "content-type", "text/html" }
@@ -1042,7 +1042,7 @@ class Main {
             "empty" -> return context.res.empty()
             "json" -> return context.res.text(mapOf("type" to "This is a JSON response"))
             "binary" -> return context.res.binary(File("file.png").readBytes())
-            "redirect" -> return context.res.redirect("https://appwrite.io", 301)
+            "redirect" -> return context.res.redirect("https://clikkle.io", 301)
             "html" -> return context.res.text("<h1>This is an HTML response</h1>", 200, mapOf("content-type" to "text/html"))
             else -> return context.res.text("This is a text response")
         }
@@ -1069,7 +1069,7 @@ public class Main {
             case "binary"
                 return context.getRes().binary(Files.readAllBytes(Paths.get("file.png")));
             case "redirect":
-                return context.getRes().redirect("https://appwrite.io", 301);
+                return context.getRes().redirect("https://clikkle.io", 301);
             case "html":
                 return context.getRes().text("<h1>This is an HTML response</h1>", 200, Map.of("content-type", "text/html"));
             default:
@@ -1100,7 +1100,7 @@ namespace runtime {
           std::vector<char> buffer(std::istreambuf_iterator<char>(std::ifstream("file.png", std::ios::binary)), {});
           return context.res.binary(buffer)
         } else if (type == "redirect") {
-          return context.res.redirect("https://appwrite.io", 301);
+          return context.res.redirect("https://clikkle.io", 301);
         } else if (type == "html") {
           Json::Value headers;
           headers["content-type"] = "text/html";
@@ -1118,19 +1118,19 @@ To get the different response types, set one of the following query parameters i
 
 | Type     | Query Param     | Example                                                     |
 |----------|-----------------|-------------------------------------------------------------|
-| `text`     | `/?type=text`     | `https://64d4d22db370ae41a32e.fra.appwrite.run/?type=text`     |
-| `json`     | `/?type=json`     | `https://64d4d22db370ae41a32e.fra.appwrite.run/?type=json`     |
-| `redirect` | `/?type=redirect` | `https://64d4d22db370ae41a32e.fra.appwrite.run/?type=redirect` |
-| `html`     | `/?type=html`     | `https://64d4d22db370ae41a32e.fra.appwrite.run/?type=html`     |
-| `empty`    | `/`               | `https://64d4d22db370ae41a32e.fra.appwrite.run/`               |
+| `text`     | `/?type=text`     | `https://64d4d22db370ae41a32e.fra.clikkle.run/?type=text`     |
+| `json`     | `/?type=json`     | `https://64d4d22db370ae41a32e.fra.clikkle.run/?type=json`     |
+| `redirect` | `/?type=redirect` | `https://64d4d22db370ae41a32e.fra.clikkle.run/?type=redirect` |
+| `html`     | `/?type=html`     | `https://64d4d22db370ae41a32e.fra.clikkle.run/?type=html`     |
+| `empty`    | `/`               | `https://64d4d22db370ae41a32e.fra.clikkle.run/`               |
 
 ## Logging {% #logging %}
-To protect user privacy, the request and response objects are not logged to the Appwrite Console by default.
+To protect user privacy, the request and response objects are not logged to the Clikkle Console by default.
 
 We support the spread operator across most of the languages, meaning you can write code that is more concise and flexible.
 
 This means, to see logs or debug function executions you need to use the `log()` and `error()` methods.
-These logs are only visible to developers with access to the Appwrite Console.
+These logs are only visible to developers with access to the Clikkle Console.
 
 Here's an example of using logs and errors.
 
@@ -1143,7 +1143,7 @@ export default async ({ req, res, log, error }) => {
     const errorMessage = "This is an error, use for logging errors to console"
     error("Error: ", errorMessage);
 
-    return res.text("Check the Appwrite Console to see logs and errors!");
+    return res.text("Check the Clikkle Console to see logs and errors!");
 };
 ```
 ```php
@@ -1153,10 +1153,10 @@ return function ($context) {
     $message = "This is a log, use for logging information to console";
     $context->log("Message: ", message);
     $context->log("This function was called with " . $context->req->method . " method");
-    $errorMessage = "Check the Appwrite Console to see logs and errors!"
+    $errorMessage = "Check the Clikkle Console to see logs and errors!"
     $context->error("Error: ", errorMessage);
 
-    return $context->text("Check the Appwrite Console to see logs and errors!");
+    return $context->text("Check the Clikkle Console to see logs and errors!");
 };
 ```
 ```python
@@ -1167,7 +1167,7 @@ def main(context):
     errorMessage = "This is an error, use for logging errors to console"
     context.error("Error: ", errorMessage)
 
-    return context.res.text("Check the Appwrite Console to see logs and errors!")
+    return context.res.text("Check the Clikkle Console to see logs and errors!")
 ```
 ```ruby
 def main(context)
@@ -1177,7 +1177,7 @@ def main(context)
     errorMessage = "This is an error, use for logging errors to console"
     context.error("Error: ", errorMessage)
 
-    return context.res.text("Check the Appwrite Console to see logs and errors!")
+    return context.res.text("Check the Clikkle Console to see logs and errors!")
 end
 ```
 ```deno
@@ -1188,7 +1188,7 @@ export default async ({ res, log, error }: any) => {
     let errorMessage = "This is an error, use for logging errors to console";
     error("Error: ", errorMessage);
 
-    return res.text("Check the Appwrite Console to see logs and errors!");
+    return res.text("Check the Clikkle Console to see logs and errors!");
 };
 ```
 ```go
@@ -1207,7 +1207,7 @@ func Main(Context openruntimes.Context) openruntimes.Response {
 	errorMessage := "This is an error, use for logging errors to console"
 	Context.Error("Error: ", errorMessage)
 
-	return Context.Res.Text("Check the Appwrite Console to see logs and errors!")
+	return Context.Res.Text("Check the Clikkle Console to see logs and errors!")
 }
 ```
 ```dart
@@ -1220,7 +1220,7 @@ Future<dynamic> main(final context) async {
     var errorMessage = "This is an error, use for logging errors to console";
     context.error("Error: ", errorMessage);
 
-    return context.res.text("Check the Appwrite Console to see logs and errors!");
+    return context.res.text("Check the Clikkle Console to see logs and errors!");
 }
 ```
 ```swift
@@ -1233,7 +1233,7 @@ func main(context: RuntimeContext) async throws -> RuntimeOutput {
     var message: String = "This is an error, use for logging errors to console"
     context.error("Error: ", message)
 
-    return context.res.text("Check the Appwrite Console to see logs and errors!")
+    return context.res.text("Check the Clikkle Console to see logs and errors!")
 }
 ```
 ```csharp
@@ -1248,7 +1248,7 @@ public class Handler {
         string errorMessage = "This is an error, use for logging errors to console";
         Context.Error("Error: ", errorMessage);
 
-        return Context.Res.Text("Check the Appwrite Console to see logs and errors!");
+        return Context.Res.Text("Check the Clikkle Console to see logs and errors!");
     }
 }
 ```
@@ -1266,7 +1266,7 @@ class Main {
         var errorMessage: String = "This is an error, use for logging errors to console"
         context.error("Error: ", errorMessage)
 
-        return context.res.text("Check the Appwrite Console to see logs and errors!")
+        return context.res.text("Check the Clikkle Console to see logs and errors!")
     }
 }
 ```
@@ -1284,7 +1284,7 @@ public class Main {
         string errorMessage = "This is an error, use for logging errors to console";
         context.error("Error: ", errorMessage);
 
-        return context.getRes().text("Check the Appwrite Console to see logs and errors!");
+        return context.getRes().text("Check the Clikkle Console to see logs and errors!");
     }
 }
 ```
@@ -1304,7 +1304,7 @@ namespace runtime {
         const std::string errorMessage = "This is an error, use for logging errors to console";
         context.error("Error: ", errorMessage);
 
-        return context.res.text("Check the Appwrite Console to see logs and errors!");
+        return context.res.text("Check the Clikkle Console to see logs and errors!");
       }
   };
 }
@@ -1313,26 +1313,26 @@ namespace runtime {
 
 You can access these logs through the following steps.
 
-1. In Appwrite Console, navigate to Functions.
+1. In Clikkle Console, navigate to Functions.
 2. Click to open a function you wish to inspect.
 3. Under the Executions tab, click on an execution.
 4. In the Response section, you'll be able to view logs under the Logs and Errors tabs.
 
 # Accessing environment variables {% #environment-variables %}
-If you need to pass constants or secrets to Appwrite Functions, you can use environment variables.
+If you need to pass constants or secrets to Clikkle Functions, you can use environment variables.
 
 | Variable                          | Description                                    |	Available at Build and/or Run Time                 |
 |-----------------------------------|------------------------------------------------|-----------------------------------------------------|
-| `APPWRITE_FUNCTION_API_ENDPOINT`    |  The API endpoint of the running function      | Both                                              |
-| `APPWRITE_VERSION`                  |  The Appwrite version used to run the function | Both                                              |
-| `APPWRITE_REGION`                   |  The region where the function will run from   | Both                                              |
-| `APPWRITE_FUNCTION_API_KEY`         |  The function API key is used for server authentication | Build time                               |
-| `APPWRITE_FUNCTION_ID`              |  The ID of the running function.               | Both                                              |
-| `APPWRITE_FUNCTION_NAME`            |  The Name of the running function.             | Both                                              |
-| `APPWRITE_FUNCTION_DEPLOYMENT`      |  The deployment ID of the running function.    | Both                                              |
-| `APPWRITE_FUNCTION_PROJECT_ID`      |  The project ID of the running function.       | Both                                              |
-| `APPWRITE_FUNCTION_RUNTIME_NAME`    |  The runtime of the running function.          | Both                                              |
-| `APPWRITE_FUNCTION_RUNTIME_VERSION` |  The runtime version of the running function.  | Both                                              |
+| `CLIKKLE_FUNCTION_API_ENDPOINT`    |  The API endpoint of the running function      | Both                                              |
+| `CLIKKLE_VERSION`                  |  The Clikkle version used to run the function | Both                                              |
+| `CLIKKLE_REGION`                   |  The region where the function will run from   | Both                                              |
+| `CLIKKLE_FUNCTION_API_KEY`         |  The function API key is used for server authentication | Build time                               |
+| `CLIKKLE_FUNCTION_ID`              |  The ID of the running function.               | Both                                              |
+| `CLIKKLE_FUNCTION_NAME`            |  The Name of the running function.             | Both                                              |
+| `CLIKKLE_FUNCTION_DEPLOYMENT`      |  The deployment ID of the running function.    | Both                                              |
+| `CLIKKLE_FUNCTION_PROJECT_ID`      |  The project ID of the running function.       | Both                                              |
+| `CLIKKLE_FUNCTION_RUNTIME_NAME`    |  The runtime of the running function.          | Both                                              |
+| `CLIKKLE_FUNCTION_RUNTIME_VERSION` |  The runtime version of the running function.  | Both                                              |
 
 {% arrow_link href="/docs/products/functions/functions#environment-variables" %}
 Learn to add variables to you function
@@ -1543,24 +1543,24 @@ By default, we include the following package managers in each runtime.
 * N/A
 {% /table %}
 
-# Using Appwrite in a function {% #using-appwrite %}
-Appwrite can be used in your functions by adding the relevant SDK to your function's dependencies.
-Authenticating with Appwrite is done via a dynamic API key or a JWT token.
+# Using Clikkle in a function {% #using-clikkle %}
+Clikkle can be used in your functions by adding the relevant SDK to your function's dependencies.
+Authenticating with Clikkle is done via a dynamic API key or a JWT token.
 
 ## Dynamic API key {% #dynamic-api-key %}
 Dynamic API keys are the same as [API keys](/docs/advanced/platform/api-keys) but are automatically generated.
 They are generated in your functions per execution.
-However, you can only use dynamic API keys inside Appwrite functions.
+However, you can only use dynamic API keys inside Clikkle functions.
 
-During the build process, dynamic API keys are automatically provided as the environment variable `APPWRITE_FUNCTION_API_KEY`. This environment variable doesn't need to be initialized.
+During the build process, dynamic API keys are automatically provided as the environment variable `CLIKKLE_FUNCTION_API_KEY`. This environment variable doesn't need to be initialized.
 
-During execution, dynamic API keys are automatically provided in the `x-appwrite-key` [header](#headers).
+During execution, dynamic API keys are automatically provided in the `x-clikkle-key` [header](#headers).
 
 Dynamic API keys grant access and operate without sessions.
 They allow your function to act as an admin-type role instead of acting on behalf of a user.
 Update the function settings to configure the scopes of the function.
 
-1. In Appwrite Console, navigate to **Functions**.
+1. In Clikkle Console, navigate to **Functions**.
 2. Click to open a function you wish to configure.
 3. Under the **Settings** tab, navigate to **Scopes**.
 4. Select the scopes you want to grant the dynamic key.
@@ -1568,13 +1568,13 @@ Update the function settings to configure the scopes of the function.
 
 {% multicode %}
 ```server-nodejs
-import { Client, TablesDB, ID } from 'node-appwrite';
+import { Client, TablesDB, ID } from 'node-clikkle';
 
 export default async ({ req, res, log, error }) => {
     // Set project and set API key
     const client = new Client()
-       .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
-       .setKey(req.headers['x-appwrite-key']);
+       .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+       .setKey(req.headers['x-clikkle-key']);
 
     const tablesDB = new TablesDB(client);
 
@@ -1598,16 +1598,16 @@ export default async ({ req, res, log, error }) => {
 
 require(__DIR__ . '/../vendor/autoload.php');
 
-use Appwrite\Client;
-use Appwrite\Exception;
-use Appwrite\Services\TablesDB;
-use Appwrite\ID;
+use Clikkle\Client;
+use Clikkle\Exception;
+use Clikkle\Services\TablesDB;
+use Clikkle\ID;
 
 return function ($context) {
     // Set project and set API key
     $client = (new Client())
-        ->setProject(getenv('APPWRITE_FUNCTION_PROJECT_ID'))
-        ->setKey($context->req->headers['x-appwrite-key']);
+        ->setProject(getenv('CLIKKLE_FUNCTION_PROJECT_ID'))
+        ->setKey($context->req->headers['x-clikkle-key']);
 
     $tablesDB = new TablesDB($client);
 
@@ -1627,9 +1627,9 @@ return function ($context) {
 };
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.id import ID
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.id import ID
 
 import os
 
@@ -1637,8 +1637,8 @@ def main(context):
     # Set project and set API key
     client = (
         Client()
-            .set_project(os.environ["APPWRITE_FUNCTION_PROJECT_ID"])
-            .set_key(context.req.headers["x-appwrite-key"])
+            .set_project(os.environ["CLIKKLE_FUNCTION_PROJECT_ID"])
+            .set_key(context.req.headers["x-clikkle-key"])
     )
 
     tablesDB = TablesDB(client)
@@ -1657,17 +1657,17 @@ def main(context):
     return context.response.text("Row created")
 ```
 ```ruby
-require "appwrite"
+require "clikkle"
 
-include Appwrite
+include Clikkle
 
 def main(context)
     # Set project and set API key
-    client = Appwrite::Client.new
-      .set_project(ENV['APPWRITE_FUNCTION_PROJECT_ID'])
-      .set_key(context.req.headers['x-appwrite-key'])
+    client = Clikkle::Client.new
+      .set_project(ENV['CLIKKLE_FUNCTION_PROJECT_ID'])
+      .set_key(context.req.headers['x-clikkle-key'])
 
-    tablesDB = Appwrite::TablesDB.new(client)
+    tablesDB = Clikkle::TablesDB.new(client)
 
     begin
         tablesDB.create_row(
@@ -1685,13 +1685,13 @@ def main(context)
 end
 ```
 ```deno
-import { Client, TablesDB, ID } from "npm:node-appwrite";
+import { Client, TablesDB, ID } from "npm:node-clikkle";
 
 export default function ({req, res, error}: any){
     // Set project and set API key
     const client = new Client()
-       .setProject(Deno.env.get("APPWRITE_FUNCTION_PROJECT_ID"))
-       .setKey(req.headers["x-appwrite-key"] || "");
+       .setProject(Deno.env.get("CLIKKLE_FUNCTION_PROJECT_ID"))
+       .setKey(req.headers["x-clikkle-key"] || "");
 
     const tablesDB = new TablesDB(client);
 
@@ -1717,19 +1717,19 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/appwrite/sdk-for-go/appwrite"
-	"github.com/appwrite/sdk-for-go/id"
+	"github.com/clikkle/sdk-for-go/clikkle"
+	"github.com/clikkle/sdk-for-go/id"
 	"github.com/open-runtimes/types-for-go/v4/openruntimes"
 )
 
 func Main(Context openruntimes.Context) openruntimes.Response {
 	// Set project and set API key
-	client := appwrite.NewClient(
-		appwrite.WithProject(os.Getenv("APPWRITE_FUNCTION_PROJECT_ID")),
-		appwrite.WithKey(Context.Req.Headers["x-appwrite-key"]),
+	client := clikkle.NewClient(
+		clikkle.WithProject(os.Getenv("CLIKKLE_FUNCTION_PROJECT_ID")),
+		clikkle.WithKey(Context.Req.Headers["x-clikkle-key"]),
 	)
 
-	databases := appwrite.NewTablesDB(client)
+	databases := clikkle.NewTablesDB(client)
 
 	_, err := databases.createRow(
 		"<DATABASE_ID>",
@@ -1749,13 +1749,13 @@ func Main(Context openruntimes.Context) openruntimes.Response {
 ```dart
 import 'dart:io';
 import 'dart:async';
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Future<dynamic> main(final context) async {
     // Set project and set API key
     final client = Client()
-       .setProject(Platform.environment['APPWRITE_FUNCTION_PROJECT_ID'])
-       .setKey(context.req.headers['x-appwrite-key']);
+       .setProject(Platform.environment['CLIKKLE_FUNCTION_PROJECT_ID'])
+       .setKey(context.req.headers['x-clikkle-key']);
 
     final tablesDB = TablesDB(client);
 
@@ -1775,15 +1775,15 @@ Future<dynamic> main(final context) async {
 }
 ```
 ```swift
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 import Foundation
 
 func main(context: RuntimeContext) async throws -> RuntimeOutput {
     // Set project and set API key
     let client = Client()
-       .setProject(ProcessInfo.processInfo.environment["APPWRITE_FUNCTION_PROJECT_ID"])
-       .setKey(context.req.headers["x-appwrite-key"] ?? "")
+       .setProject(ProcessInfo.processInfo.environment["CLIKKLE_FUNCTION_PROJECT_ID"])
+       .setKey(context.req.headers["x-clikkle-key"] ?? "")
 
     let tablesDB = TablesDB(client: client)
 
@@ -1803,9 +1803,9 @@ func main(context: RuntimeContext) async throws -> RuntimeOutput {
 }
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 namespace DotNetRuntime
 {
@@ -1815,8 +1815,8 @@ namespace DotNetRuntime
         {
             // Set API
             var client = new Client()
-                .SetProject(Environment.GetEnvironmentVariable("APPWRITE_FUNCTION_PROJECT_ID"))
-                .SetKey(Context.Req.Headers["x-appwrite-key"]);
+                .SetProject(Environment.GetEnvironmentVariable("CLIKKLE_FUNCTION_PROJECT_ID"))
+                .SetKey(Context.Req.Headers["x-clikkle-key"]);
 
             var tablesDB = new TablesDB(client);
 
@@ -1841,17 +1841,17 @@ package io.openruntimes.kotlin.src
 
 import io.openruntimes.kotlin.RuntimeContext
 import io.openruntimes.kotlin.RuntimeOutput
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.ID
 import java.util.HashMap
 
 class Main {
     fun main(context: RuntimeContext): RuntimeOutput {
         // Set project and set API key
         val client = Client()
-           .setProject(System.getenv("APPWRITE_FUNCTION_PROJECT_ID"))
-           .setKey(context.req.headers["x-appwrite-key"])
+           .setProject(System.getenv("CLIKKLE_FUNCTION_PROJECT_ID"))
+           .setKey(context.req.headers["x-clikkle-key"])
 
         val tablesDB = TablesDB(client)
 
@@ -1877,14 +1877,14 @@ package io.openruntimes.java.src;
 import io.openruntimes.java.RuntimeContext;
 import io.openruntimes.java.RuntimeOutput;
 import java.util.HashMap;
-import io.appwrite.Client;
+import io.clikkle.Client;
 
 public class Main {
     public RuntimeOutput main(RuntimeContext context) throws Exception {
         // Set project and set API key
         Client client = new Client();
-             .setProject(System.getenv("APPWRITE_FUNCTION_PROJECT_ID"))
-             .setKey(context.getReq().getHeaders().get("x-appwrite-key"));
+             .setProject(System.getenv("CLIKKLE_FUNCTION_PROJECT_ID"))
+             .setKey(context.getReq().getHeaders().get("x-clikkle-key"));
 
         Databases tablesDB = new TablesDB(client);
 
@@ -1907,23 +1907,23 @@ public class Main {
 {% /multicode %}
 
 ## Using with JWT {% #using-jwt %}
-JWTs allow you to act on behalf of an user in your Appwrite Function.
+JWTs allow you to act on behalf of an user in your Clikkle Function.
 When using JWTs, you will be able to access and change **only** the resources with the same permissions as the user account that signed the JWT.
 This preserves the permissions you configured on each resource.
 
-If the Appwrite Function is invoked by an authenticated user, the `x-appwrite-user-jwt` header is automatically passed in.
+If the Clikkle Function is invoked by an authenticated user, the `x-clikkle-user-jwt` header is automatically passed in.
 
 {% multicode %}
 
 ```server-nodejs
-import { Client, TablesDB, ID } from 'node-appwrite';
+import { Client, TablesDB, ID } from 'node-clikkle';
 
 export default async ({ req, res, log }) => {
     const client = new Client()
-        .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
+        .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
 
-    if (req.headers['x-appwrite-user-jwt']) {
-        client.setJWT(req.headers['x-appwrite-user-jwt'])
+    if (req.headers['x-clikkle-user-jwt']) {
+        client.setJWT(req.headers['x-clikkle-user-jwt'])
     } else {
         return res.text("Access denied: This function requires authentication. Please sign in to continue.");
     }
@@ -1950,17 +1950,17 @@ export default async ({ req, res, log }) => {
 
 require(__DIR__ . '/../vendor/autoload.php');
 
-use Appwrite\Client;
-use Appwrite\Exception;
-use Appwrite\Services\TablesDB;
-use Appwrite\ID;
+use Clikkle\Client;
+use Clikkle\Exception;
+use Clikkle\Services\TablesDB;
+use Clikkle\ID;
 
 return function ($context) {
     $client = new (Client())
-        ->setProject(getenv('APPWRITE_FUNCTION_PROJECT_ID'))
+        ->setProject(getenv('CLIKKLE_FUNCTION_PROJECT_ID'))
 
-    if (isset($context->req->headers['x-appwrite-user-jwt'])) {
-        $client->setJWT($context->req->headers['x-appwrite-user-jwt']);
+    if (isset($context->req->headers['x-clikkle-user-jwt'])) {
+        $client->setJWT($context->req->headers['x-clikkle-user-jwt']);
     } else {
         return $context->res->text("Access denied: This function requires authentication. Please sign in to continue.");
     }
@@ -1983,20 +1983,20 @@ return function ($context) {
 };
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.id import ID
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.id import ID
 
 import os
 
 def main(context):
     client = (
         Client()
-            .set_project(os.environ["APPWRITE_FUNCTION_PROJECT_ID"])
+            .set_project(os.environ["CLIKKLE_FUNCTION_PROJECT_ID"])
     )
 
-    if "x-appwrite-user-jwt" in context.req.headers:
-        client.set_jwt(context.req.headers["x-appwrite-user-jwt"])
+    if "x-clikkle-user-jwt" in context.req.headers:
+        client.set_jwt(context.req.headers["x-clikkle-user-jwt"])
     else:
         return context.res.text("Access denied: This function requires authentication. Please sign in to continue.")
 
@@ -2016,25 +2016,25 @@ def main(context):
     return context.response.text("Row created")
 ```
 ```ruby
-require "appwrite"
+require "clikkle"
 
-include Appwrite
+include Clikkle
 
 def main(context)
     client = Client.new
-        .set_project(ENV['APPWRITE_FUNCTION_PROJECT_ID'])
+        .set_project(ENV['CLIKKLE_FUNCTION_PROJECT_ID'])
 
-    if context.request.headers['x-appwrite-user-jwt']
-        client.set_jwt(context.request.headers['x-appwrite-user-jwt'])
+    if context.request.headers['x-clikkle-user-jwt']
+        client.set_jwt(context.request.headers['x-clikkle-user-jwt'])
     else
         return context.response.text("Access denied: This function requires authentication. Please sign in to continue.")
     end
 
-    tablesDB = Appwrite::TablesDB.new(client)
+    tablesDB = Clikkle::TablesDB.new(client)
 
     begin
-        tablesDB.create_row('<DATABASE_ID>', '<TABLE_ID>', Appwrite::ID.unique(), {})
-    rescue Appwrite::Exception => e
+        tablesDB.create_row('<DATABASE_ID>', '<TABLE_ID>', Clikkle::ID.unique(), {})
+    rescue Clikkle::Exception => e
         context.error("Failed to create row: " + e.message)
         return context.response.text("Failed to create row")
     end
@@ -2043,14 +2043,14 @@ def main(context)
 end
 ```
 ```deno
-import { Client, TablesDB, ID } from "npm:node-appwrite";
+import { Client, TablesDB, ID } from "npm:node-clikkle";
 
 export default function ({req, res, error}: any){
     const client = new Client()
-        .setProject(Deno.env.get("APPWRITE_FUNCTION_PROJECT_ID") || "")
+        .setProject(Deno.env.get("CLIKKLE_FUNCTION_PROJECT_ID") || "")
 
-    if (req.headers["x-appwrite-user-jwt"]) {
-        client.setJWT(req.headers["x-appwrite-user-jwt"]);
+    if (req.headers["x-clikkle-user-jwt"]) {
+        client.setJWT(req.headers["x-clikkle-user-jwt"]);
     } else {
         return res.text("Access denied: This function requires authentication. Please sign in to continue.");
     }
@@ -2079,24 +2079,24 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/appwrite/sdk-for-go/appwrite"
-	"github.com/appwrite/sdk-for-go/id"
+	"github.com/clikkle/sdk-for-go/clikkle"
+	"github.com/clikkle/sdk-for-go/id"
 	"github.com/open-runtimes/types-for-go/v4/openruntimes"
 )
 
 func Main(Context openruntimes.Context) openruntimes.Response {
-	client := appwrite.NewClient(
-		appwrite.WithProject("APPWRITE_FUNCTION_PROJECT_ID"),
+	client := clikkle.NewClient(
+		clikkle.WithProject("CLIKKLE_FUNCTION_PROJECT_ID"),
 	)
 
-	jwt, exists := Context.Req.Headers["x-appwrite-user-jwt"]
+	jwt, exists := Context.Req.Headers["x-clikkle-user-jwt"]
 	if !exists || len(jwt) == 0 {
-		appwrite.WithJWT(Context.Req.Headers["x-appwrite-user-jwt"])
+		clikkle.WithJWT(Context.Req.Headers["x-clikkle-user-jwt"])
 	} else {
 		return Context.Res.Text("Access denied: This function requires authentication. Please sign in to continue.")
 	}
 
-	databases := appwrite.NewTablesDB(client)
+	databases := clikkle.NewTablesDB(client)
 
 	_, err := databases.createRow(
 		"<DATABASE_ID>",
@@ -2116,14 +2116,14 @@ func Main(Context openruntimes.Context) openruntimes.Response {
 ```dart
 import 'dart:io';
 import 'dart:async';
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Future<dynamic> main(final context) async {
     final client = Client()
-        .setProject(Platform.environment['APPWRITE_FUNCTION_PROJECT_ID'])
+        .setProject(Platform.environment['CLIKKLE_FUNCTION_PROJECT_ID'])
 
-    if (context.req.headers['x-appwrite-user-jwt'] != null) {
-        client.setJWT(context.req.headers['x-appwrite-user-jwt']);
+    if (context.req.headers['x-clikkle-user-jwt'] != null) {
+        client.setJWT(context.req.headers['x-clikkle-user-jwt']);
     } else {
         return context.res.text("Access denied: This function requires authentication. Please sign in to continue.");
     }
@@ -2146,15 +2146,15 @@ Future<dynamic> main(final context) async {
 }
 ```
 ```swift
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 import Foundation
 
 func main(context: RuntimeContext) async throws -> RuntimeOutput {
     let client = Client()
-       .setProject(ProcessInfo.processInfo.environment["APPWRITE_FUNCTION_PROJECT_ID"])
+       .setProject(ProcessInfo.processInfo.environment["CLIKKLE_FUNCTION_PROJECT_ID"])
 
-    if let jwt = context.req.headers["x-appwrite-user-jwt"] {
+    if let jwt = context.req.headers["x-clikkle-user-jwt"] {
         client.setJWT(jwt)
     } else {
         return context.res.text("Access denied: This function requires authentication. Please sign in to continue.")
@@ -2178,9 +2178,9 @@ func main(context: RuntimeContext) async throws -> RuntimeOutput {
 }
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 namespace DotNetRuntime
 {
@@ -2189,10 +2189,10 @@ namespace DotNetRuntime
         public async Task Main(RuntimeContext Context)
         {
             var client = new Client()
-               .SetProject(Environment.GetEnvironmentVariable("APPWRITE_FUNCTION_PROJECT_ID"))
+               .SetProject(Environment.GetEnvironmentVariable("CLIKKLE_FUNCTION_PROJECT_ID"))
 
-            if (Context.Req.Headers.ContainsKey("x-appwrite-user-jwt")) {
-                client.SetJWT(Context.Req.Headers["x-appwrite-user-jwt"]);
+            if (Context.Req.Headers.ContainsKey("x-clikkle-user-jwt")) {
+                client.SetJWT(Context.Req.Headers["x-clikkle-user-jwt"]);
             } else {
                 return Context.Res.Text("Access denied: This function requires authentication. Please sign in to continue");
             }
@@ -2220,18 +2220,18 @@ package io.openruntimes.kotlin.src
 
 import io.openruntimes.kotlin.RuntimeContext
 import io.openruntimes.kotlin.RuntimeOutput
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.ID
 import java.util.HashMap
 
 class Main {
     fun main(context: RuntimeContext): RuntimeOutput {
         val client = Client()
-           .setProject(System.getenv("APPWRITE_FUNCTION_PROJECT_ID"))
+           .setProject(System.getenv("CLIKKLE_FUNCTION_PROJECT_ID"))
 
-        if (context.req.headers["x-appwrite-user-jwt"] != null) {
-            client.setJWT(context.req.headers["x-appwrite-user-jwt"])
+        if (context.req.headers["x-clikkle-user-jwt"] != null) {
+            client.setJWT(context.req.headers["x-clikkle-user-jwt"])
         } else {
             return context.res.text("Access denied: This function requires authentication. Please sign in to continue.")
         }
@@ -2260,15 +2260,15 @@ package io.openruntimes.java.src;
 import io.openruntimes.java.RuntimeContext;
 import io.openruntimes.java.RuntimeOutput;
 import java.util.HashMap;
-import io.appwrite.Client;
+import io.clikkle.Client;
 
 public class Main {
     public RuntimeOutput main(RuntimeContext context) throws Exception {
         Client client = new Client()
-            .setProject(System.getenv("APPWRITE_FUNCTION_PROJECT_ID"))
+            .setProject(System.getenv("CLIKKLE_FUNCTION_PROJECT_ID"))
 
-        if (context.req.headers.containsKey("x-appwrite-user-jwt")) {
-            client.setJWT(context.req.headers.get("x-appwrite-user-jwt"));
+        if (context.req.headers.containsKey("x-clikkle-user-jwt")) {
+            client.setJWT(context.req.headers.get("x-clikkle-user-jwt"));
         } else {
             return context.res.text("Access denied: This function requires authentication. Please sign in to continue.");
         }
@@ -2540,3 +2540,4 @@ public class Main {
 ```
 {% /tabsitem %}
 {% /tabs %}
+

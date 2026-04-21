@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Identities
 description: Handle multiple authentication methods per user through a unified system that maintains consistent identity across providers.
@@ -6,9 +6,9 @@ description: Handle multiple authentication methods per user through a unified s
 
 Identities enable linking multiple authentication methods to a single user account. This allows users to access a unified account through various OAuth2 providers.
 
-An identity is another way to refer to a user account. A single user can have multiple identities, each corresponding to different authentication methods. Currently, identities are primarily used with OAuth2 providers. When a user logs in via an OAuth2 provider, an identity is created and linked to their Appwrite account. This system enables:
+An identity is another way to refer to a user account. A single user can have multiple identities, each corresponding to different authentication methods. Currently, identities are primarily used with OAuth2 providers. When a user logs in via an OAuth2 provider, an identity is created and linked to their Clikkle account. This system enables:
 
-- Connecting multiple OAuth2 accounts to a single Appwrite account
+- Connecting multiple OAuth2 accounts to a single Clikkle account
 - Maintaining consistent access regardless of login method
 - Tracking which external providers are linked to an account
 
@@ -24,7 +24,7 @@ Identities are primarily used in the following scenarios:
 
 To create a new identity:
 
-1. The user must be logged into their Appwrite account
+1. The user must be logged into their Clikkle account
 2. Initiate the OAuth2 authentication flow for the desired provider
 3. The new identity will be automatically created and linked to the current account
 
@@ -59,3 +59,4 @@ A good user experience typically includes clear visibility of connected provider
 Verify email addresses where possible and implement proper session management. Secure identity deletion can help prevent unauthorized access.
 
 Testing should ideally cover the cleanup of test identities and email conflict scenarios.
+

@@ -1,12 +1,12 @@
----
+﻿---
 layout: article
 title: Skills
-description: Install Appwrite skills to give AI agents pre-built knowledge of Appwrite SDKs and services for your preferred language.
+description: Install Clikkle skills to give AI agents pre-built knowledge of Clikkle SDKs and services for your preferred language.
 ---
 
-Skills are open-source Markdown files that give AI agents deep knowledge of Appwrite SDKs and services. When installed, skills provide your AI tools with accurate, language-specific context about Appwrite APIs, so they generate correct code without needing to look up documentation. You can find all Appwrite skills on [GitHub](https://github.com/appwrite/agent-skills/).
+Skills are open-source Markdown files that give AI agents deep knowledge of Clikkle SDKs and services. When installed, skills provide your AI tools with accurate, language-specific context about Clikkle APIs, so they generate correct code without needing to look up documentation. You can find all Clikkle skills on [GitHub](https://github.com/clikkle/agent-skills/).
 
-Skills work across all major AI dev tools that support them. They are installed per-project or globally, and are available for all Appwrite client and server SDKs. Supported tools include but not limited to:
+Skills work across all major AI dev tools that support them. They are installed per-project or globally, and are available for all Clikkle client and server SDKs. Supported tools include but not limited to:
 
 - Cursor
 - Claude Code
@@ -29,12 +29,12 @@ Skills work across all major AI dev tools that support them. They are installed 
 Run the following command in your project directory:
 
 ```bash
-npx skills add appwrite/agent-skills
+npx skills add clikkle/agent-skills
 ```
 {% /section %}
 
 {% section #step-2 step=2 title="Select skills" %}
-You will be prompted to select which skills to install. Skills are available for the Appwrite CLI and the following SDKs:
+You will be prompted to select which skills to install. Skills are available for the Clikkle CLI and the following SDKs:
 
 - TypeScript
 - Dart
@@ -60,7 +60,7 @@ Choose which AI tools should use the installed skills. This configures the skill
 {% section #step-4 step=4 title="Select scope" %}
 Choose whether to install the skills at the **project** level or **globally**:
 
-- **Project**: Skills are available only in the current project. This is useful when different projects use different Appwrite SDKs.
+- **Project**: Skills are available only in the current project. This is useful when different projects use different Clikkle SDKs.
 - **Global**: Skills are available across all your projects. This is useful if you use the same SDKs everywhere.
 
 ![Scope selection prompt](/clikkle/images/docs/skills/scope.png)
@@ -71,3 +71,4 @@ Select **symlink** as the installation method. This creates a symbolic link to t
 
 ![Installation method prompt](/clikkle/images/docs/skills/method.png)
 {% /section %}
+

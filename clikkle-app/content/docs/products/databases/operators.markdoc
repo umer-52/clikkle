@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Operators
 description: Update multiple fields atomically without fetching the full row. Perform numeric, array, string, and date updates in a single, consistent workflow.
@@ -30,10 +30,10 @@ Here's how you can do so programmatically:
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, Operator } from "appwrite";
+import { Client, TablesDB, Operator } from "clikkle";
 
 const client = new Client()
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -48,11 +48,11 @@ await tablesDB.updateRow({
 });
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client();
 client
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>')
   .setKey('<YOUR_API_KEY>');
 
@@ -68,11 +68,11 @@ const result = await tablesDB.updateRow({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
   final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>');
 
   final tablesDB = TablesDB(client);
@@ -86,18 +86,18 @@ void main() async {
             'letters': Operator.arrayAppend(['c'])
         },
     );
-  } on AppwriteException catch (e) {
+  } on ClikkleException catch (e) {
     print(e);
   }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
   let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   let tablesDB = TablesDB(client)
@@ -117,13 +117,13 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.Operator
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Operator
 
 suspend fun main() {
   val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   val tablesDB = TablesDB(client)
@@ -143,18 +143,18 @@ package main
 
 import (
   "log"
-  "github.com/appwrite/sdk-for-go/appwrite"
-  operator "github.com/appwrite/sdk-for-go/operator"
+  "github.com/clikkle/sdk-for-go/clikkle"
+  operator "github.com/clikkle/sdk-for-go/operator"
 )
 
 func main() {
-  client := appwrite.NewClient(
-    appwrite.WithEndpoint("https://<REGION>.cloud.appwrite.io/v1"),
-    appwrite.WithProject("<YOUR_PROJECT_ID>"),
-    appwrite.WithKey("<YOUR_API_KEY>"),
+  client := clikkle.NewClient(
+    clikkle.WithEndpoint("https://<REGION>.cloud.clikkle.io/v1"),
+    clikkle.WithProject("<YOUR_PROJECT_ID>"),
+    clikkle.WithKey("<YOUR_API_KEY>"),
   )
 
-  tablesDB := appwrite.NewTablesDB(client)
+  tablesDB := clikkle.NewTablesDB(client)
 
   _, err := tablesDB.UpdateRow(
     "<DATABASE_ID>",
@@ -172,12 +172,12 @@ func main() {
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\TablesDB;
-use Appwrite\Operator;
+use Clikkle\Client;
+use Clikkle\Services\TablesDB;
+use Clikkle\Operator;
 
 $client = (new Client())
-  ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   ->setProject('<YOUR_PROJECT_ID>')
   ->setKey('<YOUR_API_KEY>');
 
@@ -191,13 +191,13 @@ $result = $tablesDB->updateRow(
 );
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.operator import Operator
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.operator import Operator
 
 client = Client()
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>'))
 
@@ -211,11 +211,11 @@ result = tablesDB.update_row(
 )
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Services;
 
 var client = new Client()
-  .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .SetProject("<YOUR_PROJECT_ID>")
   .SetKey("<YOUR_API_KEY>");
 
@@ -232,14 +232,14 @@ await tablesDB.UpdateRow(
 );
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new()
 
 client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>')
 
@@ -253,14 +253,14 @@ result = tablesDB.update_row(
 )
 ```
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.TablesDB;
-import io.appwrite.Operator;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.TablesDB;
+import io.clikkle.Operator;
 import java.util.*;
 
 Client client = new Client()
-  .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .setProject("<YOUR_PROJECT_ID>")
   .setKey("<YOUR_API_KEY>");
 
@@ -1068,10 +1068,10 @@ This example demonstrates using the `increment` operator to atomically increase 
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, Operator } from "appwrite";
+import { Client, TablesDB, Operator } from "clikkle";
 
 const client = new Client()
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -1086,11 +1086,11 @@ await tablesDB.updateRow({
 });
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client();
 client
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>')
   .setKey('<YOUR_API_KEY>');
 
@@ -1106,11 +1106,11 @@ const result = await tablesDB.updateRow({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
   final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>');
 
   final tablesDB = TablesDB(client);
@@ -1124,18 +1124,18 @@ void main() async {
             'upvotes': Operator.increment(1)
         },
     );
-  } on AppwriteException catch (e) {
+  } on ClikkleException catch (e) {
     print(e);
   }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
   let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   let tablesDB = TablesDB(client)
@@ -1155,13 +1155,13 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.Operator
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Operator
 
 suspend fun main() {
   val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   val tablesDB = TablesDB(client)
@@ -1181,18 +1181,18 @@ package main
 
 import (
   "log"
-  "github.com/appwrite/sdk-for-go/appwrite"
-  operator "github.com/appwrite/sdk-for-go/operator"
+  "github.com/clikkle/sdk-for-go/clikkle"
+  operator "github.com/clikkle/sdk-for-go/operator"
 )
 
 func main() {
-  client := appwrite.NewClient(
-    appwrite.WithEndpoint("https://<REGION>.cloud.appwrite.io/v1"),
-    appwrite.WithProject("<YOUR_PROJECT_ID>"),
-    appwrite.WithKey("<YOUR_API_KEY>"),
+  client := clikkle.NewClient(
+    clikkle.WithEndpoint("https://<REGION>.cloud.clikkle.io/v1"),
+    clikkle.WithProject("<YOUR_PROJECT_ID>"),
+    clikkle.WithKey("<YOUR_API_KEY>"),
   )
 
-  tablesDB := appwrite.NewTablesDB(client)
+  tablesDB := clikkle.NewTablesDB(client)
 
   _, err := tablesDB.UpdateRow(
     "<DATABASE_ID>",
@@ -1210,12 +1210,12 @@ func main() {
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\TablesDB;
-use Appwrite\Operator;
+use Clikkle\Client;
+use Clikkle\Services\TablesDB;
+use Clikkle\Operator;
 
 $client = (new Client())
-  ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   ->setProject('<YOUR_PROJECT_ID>')
   ->setKey('<YOUR_API_KEY>');
 
@@ -1229,13 +1229,13 @@ $result = $tablesDB->updateRow(
 );
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.operator import Operator
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.operator import Operator
 
 client = Client()
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>'))
 
@@ -1249,11 +1249,11 @@ result = tablesDB.update_row(
 )
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Services;
 
 var client = new Client()
-  .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .SetProject("<YOUR_PROJECT_ID>")
   .SetKey("<YOUR_API_KEY>");
 
@@ -1270,14 +1270,14 @@ await tablesDB.UpdateRow(
 );
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new()
 
 client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>')
 
@@ -1291,14 +1291,14 @@ result = tablesDB.update_row(
 )
 ```
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.TablesDB;
-import io.appwrite.Operator;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.TablesDB;
+import io.clikkle.Operator;
 import java.util.*;
 
 Client client = new Client()
-  .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .setProject("<YOUR_PROJECT_ID>")
   .setKey("<YOUR_API_KEY>");
 
@@ -1326,10 +1326,10 @@ This example demonstrates using the `arrayAppend` operator to add a new book to 
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, Operator } from "appwrite";
+import { Client, TablesDB, Operator } from "clikkle";
 
 const client = new Client()
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -1344,11 +1344,11 @@ await tablesDB.updateRow({
 });
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client();
 client
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>')
   .setKey('<YOUR_API_KEY>');
 
@@ -1364,11 +1364,11 @@ const result = await tablesDB.updateRow({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
   final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>');
 
   final tablesDB = TablesDB(client);
@@ -1382,18 +1382,18 @@ void main() async {
             'books': Operator.arrayAppend(['The Great Gatsby'])
         },
     );
-  } on AppwriteException catch (e) {
+  } on ClikkleException catch (e) {
     print(e);
   }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
   let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   let tablesDB = TablesDB(client)
@@ -1413,13 +1413,13 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.Operator
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Operator
 
 suspend fun main() {
   val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   val tablesDB = TablesDB(client)
@@ -1439,18 +1439,18 @@ package main
 
 import (
   "log"
-  "github.com/appwrite/sdk-for-go/appwrite"
-  operator "github.com/appwrite/sdk-for-go/operator"
+  "github.com/clikkle/sdk-for-go/clikkle"
+  operator "github.com/clikkle/sdk-for-go/operator"
 )
 
 func main() {
-  client := appwrite.NewClient(
-    appwrite.WithEndpoint("https://<REGION>.cloud.appwrite.io/v1"),
-    appwrite.WithProject("<YOUR_PROJECT_ID>"),
-    appwrite.WithKey("<YOUR_API_KEY>"),
+  client := clikkle.NewClient(
+    clikkle.WithEndpoint("https://<REGION>.cloud.clikkle.io/v1"),
+    clikkle.WithProject("<YOUR_PROJECT_ID>"),
+    clikkle.WithKey("<YOUR_API_KEY>"),
   )
 
-  tablesDB := appwrite.NewTablesDB(client)
+  tablesDB := clikkle.NewTablesDB(client)
 
   _, err := tablesDB.UpdateRow(
     "<DATABASE_ID>",
@@ -1468,12 +1468,12 @@ func main() {
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\TablesDB;
-use Appwrite\Operator;
+use Clikkle\Client;
+use Clikkle\Services\TablesDB;
+use Clikkle\Operator;
 
 $client = (new Client())
-  ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   ->setProject('<YOUR_PROJECT_ID>')
   ->setKey('<YOUR_API_KEY>');
 
@@ -1487,13 +1487,13 @@ $result = $tablesDB->updateRow(
 );
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.operator import Operator
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.operator import Operator
 
 client = Client()
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>'))
 
@@ -1507,11 +1507,11 @@ result = tablesDB.update_row(
 )
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Services;
 
 var client = new Client()
-  .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .SetProject("<YOUR_PROJECT_ID>")
   .SetKey("<YOUR_API_KEY>");
 
@@ -1528,14 +1528,14 @@ await tablesDB.UpdateRow(
 );
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new()
 
 client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>')
 
@@ -1549,14 +1549,14 @@ result = tablesDB.update_row(
 )
 ```
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.TablesDB;
-import io.appwrite.Operator;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.TablesDB;
+import io.clikkle.Operator;
 import java.util.*;
 
 Client client = new Client()
-  .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .setProject("<YOUR_PROJECT_ID>")
   .setKey("<YOUR_API_KEY>");
 
@@ -1584,10 +1584,10 @@ This example demonstrates using the `dateAddDays` operator to set a scheduled de
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, Operator } from "appwrite";
+import { Client, TablesDB, Operator } from "clikkle";
 
 const client = new Client()
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -1602,11 +1602,11 @@ await tablesDB.updateRow({
 });
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client();
 client
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>')
   .setKey('<YOUR_API_KEY>');
 
@@ -1622,11 +1622,11 @@ const result = await tablesDB.updateRow({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
   final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>');
 
   final tablesDB = TablesDB(client);
@@ -1640,18 +1640,18 @@ void main() async {
             'scheduledDeletion': Operator.dateAddDays(30)
         },
     );
-  } on AppwriteException catch (e) {
+  } on ClikkleException catch (e) {
     print(e);
   }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
   let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   let tablesDB = TablesDB(client)
@@ -1671,13 +1671,13 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.Operator
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Operator
 
 suspend fun main() {
   val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   val tablesDB = TablesDB(client)
@@ -1697,18 +1697,18 @@ package main
 
 import (
   "log"
-  "github.com/appwrite/sdk-for-go/appwrite"
-  operator "github.com/appwrite/sdk-for-go/operator"
+  "github.com/clikkle/sdk-for-go/clikkle"
+  operator "github.com/clikkle/sdk-for-go/operator"
 )
 
 func main() {
-  client := appwrite.NewClient(
-    appwrite.WithEndpoint("https://<REGION>.cloud.appwrite.io/v1"),
-    appwrite.WithProject("<YOUR_PROJECT_ID>"),
-    appwrite.WithKey("<YOUR_API_KEY>"),
+  client := clikkle.NewClient(
+    clikkle.WithEndpoint("https://<REGION>.cloud.clikkle.io/v1"),
+    clikkle.WithProject("<YOUR_PROJECT_ID>"),
+    clikkle.WithKey("<YOUR_API_KEY>"),
   )
 
-  tablesDB := appwrite.NewTablesDB(client)
+  tablesDB := clikkle.NewTablesDB(client)
 
   _, err := tablesDB.UpdateRow(
     "<DATABASE_ID>",
@@ -1726,12 +1726,12 @@ func main() {
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\TablesDB;
-use Appwrite\Operator;
+use Clikkle\Client;
+use Clikkle\Services\TablesDB;
+use Clikkle\Operator;
 
 $client = (new Client())
-  ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   ->setProject('<YOUR_PROJECT_ID>')
   ->setKey('<YOUR_API_KEY>');
 
@@ -1745,13 +1745,13 @@ $result = $tablesDB->updateRow(
 );
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.operator import Operator
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.operator import Operator
 
 client = Client()
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>'))
 
@@ -1765,11 +1765,11 @@ result = tablesDB.update_row(
 )
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Services;
 
 var client = new Client()
-  .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .SetProject("<YOUR_PROJECT_ID>")
   .SetKey("<YOUR_API_KEY>");
 
@@ -1786,14 +1786,14 @@ await tablesDB.UpdateRow(
 );
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new()
 
 client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>')
 
@@ -1807,14 +1807,14 @@ result = tablesDB.update_row(
 )
 ```
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.TablesDB;
-import io.appwrite.Operator;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.TablesDB;
+import io.clikkle.Operator;
 import java.util.*;
 
 Client client = new Client()
-  .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .setProject("<YOUR_PROJECT_ID>")
   .setKey("<YOUR_API_KEY>");
 
@@ -1842,10 +1842,10 @@ This example demonstrates combining multiple operators (`increment` and `dateSet
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, Operator } from "appwrite";
+import { Client, TablesDB, Operator } from "clikkle";
 
 const client = new Client()
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -1869,11 +1869,11 @@ await tablesDB.updateRow({
 await tablesDB.updateTransaction(tx.$id, 'commit');
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client();
 client
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>')
   .setKey('<YOUR_API_KEY>');
 
@@ -1898,11 +1898,11 @@ await tablesDB.updateRow({
 await tablesDB.updateTransaction(tx.$id, 'commit');
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
   final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>');
 
   final tablesDB = TablesDB(client);
@@ -1925,18 +1925,18 @@ void main() async {
 
     // Commit the transaction
     await tablesDB.updateTransaction(tx.$id, 'commit');
-  } on AppwriteException catch (e) {
+  } on ClikkleException catch (e) {
     print(e);
   }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
   let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   let tablesDB = TablesDB(client)
@@ -1968,13 +1968,13 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.Operator
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Operator
 
 suspend fun main() {
   val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   val tablesDB = TablesDB(client)
@@ -2003,18 +2003,18 @@ package main
 
 import (
   "log"
-  "github.com/appwrite/sdk-for-go/appwrite"
-  operator "github.com/appwrite/sdk-for-go/operator"
+  "github.com/clikkle/sdk-for-go/clikkle"
+  operator "github.com/clikkle/sdk-for-go/operator"
 )
 
 func main() {
-  client := appwrite.NewClient(
-    appwrite.WithEndpoint("https://<REGION>.cloud.appwrite.io/v1"),
-    appwrite.WithProject("<YOUR_PROJECT_ID>"),
-    appwrite.WithKey("<YOUR_API_KEY>"),
+  client := clikkle.NewClient(
+    clikkle.WithEndpoint("https://<REGION>.cloud.clikkle.io/v1"),
+    clikkle.WithProject("<YOUR_PROJECT_ID>"),
+    clikkle.WithKey("<YOUR_API_KEY>"),
   )
 
-  tablesDB := appwrite.NewTablesDB(client)
+  tablesDB := clikkle.NewTablesDB(client)
 
   // Create a transaction
   tx, err := tablesDB.CreateTransaction()
@@ -2047,12 +2047,12 @@ func main() {
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\TablesDB;
-use Appwrite\Operator;
+use Clikkle\Client;
+use Clikkle\Services\TablesDB;
+use Clikkle\Operator;
 
 $client = (new Client())
-  ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   ->setProject('<YOUR_PROJECT_ID>')
   ->setKey('<YOUR_API_KEY>');
 
@@ -2077,13 +2077,13 @@ $result = $tablesDB->updateRow(
 $tablesDB->updateTransaction($tx['$id'], 'commit');
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.operator import Operator
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.operator import Operator
 
 client = Client()
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>'))
 
@@ -2108,11 +2108,11 @@ result = tablesDB.update_row(
 tablesDB.update_transaction(tx.id, 'commit')
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Services;
 
 var client = new Client()
-  .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .SetProject("<YOUR_PROJECT_ID>")
   .SetKey("<YOUR_API_KEY>");
 
@@ -2138,14 +2138,14 @@ await tablesDB.UpdateRow(
 await tablesDB.UpdateTransaction(tx.Id, "commit");
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new()
 
 client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>')
 
@@ -2170,14 +2170,14 @@ result = tablesDB.update_row(
 tablesDB.update_transaction(tx['$id'], 'commit')
 ```
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.TablesDB;
-import io.appwrite.Operator;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.TablesDB;
+import io.clikkle.Operator;
 import java.util.*;
 
 Client client = new Client()
-  .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .setProject("<YOUR_PROJECT_ID>")
   .setKey("<YOUR_API_KEY>");
 
@@ -2230,10 +2230,10 @@ This example demonstrates using `createOperations` to update multiple rows acros
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB, Operator } from "appwrite";
+import { Client, TablesDB, Operator } from "clikkle";
 
 const client = new Client()
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>');
 
 const tablesDB = new TablesDB(client);
@@ -2271,11 +2271,11 @@ await tablesDB.createOperations({
 await tablesDB.updateTransaction(tx.$id, 'commit');
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client();
 client
-  .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   .setProject('<YOUR_PROJECT_ID>')
   .setKey('<YOUR_API_KEY>');
 
@@ -2314,11 +2314,11 @@ await tablesDB.createOperations({
 await tablesDB.updateTransaction(tx.$id, 'commit');
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
   final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>');
 
   final tablesDB = TablesDB(client);
@@ -2355,18 +2355,18 @@ void main() async {
 
     // Commit the transaction
     await tablesDB.updateTransaction(tx.$id, 'commit');
-  } on AppwriteException catch (e) {
+  } on ClikkleException catch (e) {
     print(e);
   }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
   let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   let tablesDB = TablesDB(client)
@@ -2412,13 +2412,13 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
-import io.appwrite.Operator
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Operator
 
 suspend fun main() {
   val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
 
   val tablesDB = TablesDB(client)
@@ -2461,18 +2461,18 @@ package main
 
 import (
   "log"
-  "github.com/appwrite/sdk-for-go/appwrite"
-  operator "github.com/appwrite/sdk-for-go/operator"
+  "github.com/clikkle/sdk-for-go/clikkle"
+  operator "github.com/clikkle/sdk-for-go/operator"
 )
 
 func main() {
-  client := appwrite.NewClient(
-    appwrite.WithEndpoint("https://<REGION>.cloud.appwrite.io/v1"),
-    appwrite.WithProject("<YOUR_PROJECT_ID>"),
-    appwrite.WithKey("<YOUR_API_KEY>"),
+  client := clikkle.NewClient(
+    clikkle.WithEndpoint("https://<REGION>.cloud.clikkle.io/v1"),
+    clikkle.WithProject("<YOUR_PROJECT_ID>"),
+    clikkle.WithKey("<YOUR_API_KEY>"),
   )
 
-  tablesDB := appwrite.NewTablesDB(client)
+  tablesDB := clikkle.NewTablesDB(client)
 
   // Create a transaction
   tx, err := tablesDB.CreateTransaction()
@@ -2519,12 +2519,12 @@ func main() {
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\TablesDB;
-use Appwrite\Operator;
+use Clikkle\Client;
+use Clikkle\Services\TablesDB;
+use Clikkle\Operator;
 
 $client = (new Client())
-  ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+  ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
   ->setProject('<YOUR_PROJECT_ID>')
   ->setKey('<YOUR_API_KEY>');
 
@@ -2563,13 +2563,13 @@ $tablesDB->createOperations(
 $tablesDB->updateTransaction($tx['$id'], 'commit');
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.operator import Operator
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.operator import Operator
 
 client = Client()
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>'))
 
@@ -2608,11 +2608,11 @@ tablesDB.create_operations(
 tablesDB.update_transaction(tx.id, 'commit')
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Services;
 
 var client = new Client()
-  .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .SetProject("<YOUR_PROJECT_ID>")
   .SetKey("<YOUR_API_KEY>");
 
@@ -2658,14 +2658,14 @@ await tablesDB.CreateOperations(
 await tablesDB.UpdateTransaction(tx.Id, "commit");
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new()
 
 client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
   .set_project('<YOUR_PROJECT_ID>')
   .set_key('<YOUR_API_KEY>')
 
@@ -2704,14 +2704,14 @@ tablesDB.create_operations(
 tablesDB.update_transaction(tx['$id'], 'commit')
 ```
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.TablesDB;
-import io.appwrite.Operator;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.TablesDB;
+import io.clikkle.Operator;
 import java.util.*;
 
 Client client = new Client()
-  .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+  .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
   .setProject("<YOUR_PROJECT_ID>")
   .setKey("<YOUR_API_KEY>");
 
@@ -2773,3 +2773,4 @@ tablesDB.createTransaction(new CoroutineCallback<>((tx, txError) -> {
 }));
 ```
 {% /multicode %}
+

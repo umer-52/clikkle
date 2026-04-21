@@ -1,20 +1,20 @@
----
+﻿---
 layout: article
 title: Backups
-description: Learn how to set up and manage backups for your self-hosted Appwrite instance to ensure data safety and disaster recovery.
+description: Learn how to set up and manage backups for your self-hosted Clikkle instance to ensure data safety and disaster recovery.
 ---
 
 {% info title="Looking for automated backups?" %}
-Appwrite Cloud offers automated [Backups as a Service](/docs/products/databases/backups) with scheduling and one-click restore.
+Clikkle Cloud offers automated [Backups as a Service](/docs/products/databases/backups) with scheduling and one-click restore.
 
 For self-hosted instances, you'll need to implement manual backup procedures as outlined on this page.
 {% /info %}
 
-Self-hosted Appwrite requires manual backup procedures to protect your data.
+Self-hosted Clikkle requires manual backup procedures to protect your data.
 
 # What to back up {% #what-to-backup %}
 
-Your Appwrite installation has several components that need backing up:
+Your Clikkle installation has several components that need backing up:
 
 1. **Database** - User data, documents, and configuration
 2. **Storage volumes** - Uploaded files and function code
@@ -23,7 +23,7 @@ Your Appwrite installation has several components that need backing up:
 
 # Database backups {% #database-backup %}
 
-Appwrite uses MariaDB. Use `mysqldump` for most installations:
+Clikkle uses MariaDB. Use `mysqldump` for most installations:
 
 ```bash
 # Create database backup (all databases)
@@ -34,25 +34,25 @@ docker compose exec -T mariadb sh -c 'exec mysql -uroot -p"$MYSQL_ROOT_PASSWORD"
 ```
 
 {% info title="Fresh installation only" %}
-Only restore to fresh Appwrite installations to avoid data corruption.
+Only restore to fresh Clikkle installations to avoid data corruption.
 {% /info %}
 
 For large databases, consider `mariabackup` for physical backups.
 
 # Storage volume backups {% #storage-backup %}
 
-Shut down Appwrite before backing up volumes to avoid data inconsistency.
+Shut down Clikkle before backing up volumes to avoid data inconsistency.
 
-Appwrite uses these Docker volumes:
+Clikkle uses these Docker volumes:
 
-- `appwrite-uploads` - User files
-- `appwrite-functions` - Function code
-- `appwrite-builds` - Build artifacts
-- `appwrite-sites` - Static sites
-- `appwrite-certificates` - SSL certificates
-- `appwrite-config` - Configuration
-- `appwrite-cache` and `appwrite-redis` - Cache data
-- `appwrite-mariadb` - Database files
+- `clikkle-uploads` - User files
+- `clikkle-functions` - Function code
+- `clikkle-builds` - Build artifacts
+- `clikkle-sites` - Static sites
+- `clikkle-certificates` - SSL certificates
+- `clikkle-config` - Configuration
+- `clikkle-cache` and `clikkle-redis` - Cache data
+- `clikkle-mariadb` - Database files
 
 ## Backup methods
 
@@ -138,3 +138,4 @@ Keep backups **offsite** and **encrypted**. Document recovery procedures and upd
 - Restrict backup storage access
 - Audit backup systems regularly
 - Meet compliance requirements for your industry
+

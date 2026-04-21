@@ -1,25 +1,25 @@
----
+﻿---
 layout: article
 title: Type generation
-description: Generate types from your Appwrite database schema. Learn how to use the Appwrite CLI to create and manage your types effectively.
+description: Generate types from your Clikkle database schema. Learn how to use the Clikkle CLI to create and manage your types effectively.
 ---
 
-The Appwrite CLI provides a simple way to generate types based on your Appwrite database schema. This feature is particularly useful for developers who want to ensure type safety in their applications by generating type definitions that match their database collections and attributes.
+The Clikkle CLI provides a simple way to generate types based on your Clikkle database schema. This feature is particularly useful for developers who want to ensure type safety in their applications by generating type definitions that match their database collections and attributes.
 
-To generate types, the CLI reads the database schema from your project's `appwrite.json` file and generates type definitions for each collection.
+To generate types, the CLI reads the database schema from your project's `clikkle.json` file and generates type definitions for each collection.
 
 ## Generating types
 
-First, ensure you have the [Appwrite CLI](/docs/tooling/command-line/installation#getting-started) installed and your project is [initialised](/docs/tooling/command-line/installation#initialization). Then, run the following command in your terminal to pull collections from your Appwrite project:
+First, ensure you have the [Clikkle CLI](/docs/tooling/command-line/installation#getting-started) installed and your project is [initialised](/docs/tooling/command-line/installation#initialization). Then, run the following command in your terminal to pull collections from your Clikkle project:
 
 ```bash
-appwrite pull collections
+clikkle pull collections
 ```
 
-To generate types, you can use the Appwrite CLI command:
+To generate types, you can use the Clikkle CLI command:
 
 ```bash
-appwrite types [options] <output-directory>
+clikkle types [options] <output-directory>
 ```
 
 The following options are currently available:
@@ -31,12 +31,12 @@ The following options are currently available:
 
 ## Example usage
 
-Suppose you want to generate types for a collection with data on books with the following schema from your `appwrite.json` file:
+Suppose you want to generate types for a collection with data on books with the following schema from your `clikkle.json` file:
 
 ```json
 {
     "projectId": "682ca9a50004cf4b330f",
-    "projectName": "Appwrite project",
+    "projectName": "Clikkle project",
     "databases": [
         {
             "$id": "684c678b00211ddac082",
@@ -118,13 +118,13 @@ Here's how you can generate types for this collection across all supported langu
 Run the following command in your terminal:
 
 ```bash
-appwrite types --language ts ./types
+clikkle types --language ts ./types
 ```
 
 This will generate the following types in the `./types` sub-directory of your project:
 
 ```ts
-import { Models } from 'appwrite';
+import { Models } from 'clikkle';
 
 export enum Category {
   FICTION = "fiction",
@@ -146,14 +146,14 @@ export type Books = Models.Document & {
 Run the following command in your terminal:
 
 ```bash
-appwrite types --language js ./types
+clikkle types --language js ./types
 ```
 
 This will generate the following types in the `./types` sub-directory of your project:
 
 ```js
 /**
- * @typedef {import('appwrite').Models.Document} Document
+ * @typedef {import('clikkle').Models.Document} Document
  */
 
 
@@ -173,13 +173,13 @@ This will generate the following types in the `./types` sub-directory of your pr
 Run the following command in your terminal:
 
 ```bash
-appwrite types --language java ./types
+clikkle types --language java ./types
 ```
 
 This will generate the following types in the `./types` sub-directory of your project:
 
 ```java
-package io.appwrite.models;
+package io.clikkle.models;
 
 import java.util.*;
 public class Books {
@@ -300,14 +300,14 @@ public class Books {
 Run the following command in your terminal:
 
 ```bash
-appwrite types --language php ./types
+clikkle types --language php ./types
 ```
 
 This will generate the following types in the `./types` sub-directory of your project:
 
 ```php
 <?php
-namespace Appwrite\Models;
+namespace Clikkle\Models;
 
 enum Category: string {
   case FICTION = 'fiction';
@@ -388,7 +388,7 @@ class Books {
 Run the following command in your terminal:
 
 ```bash
-appwrite types --language dart ./types
+clikkle types --language dart ./types
 ```
 
 This will generate the following types in the `./types` sub-directory of your project:
@@ -445,13 +445,13 @@ class Books {
 Run the following command in your terminal:
 
 ```bash
-appwrite types --language kotlin ./types
+clikkle types --language kotlin ./types
 ```
 
 This will generate the following types in the `./types` sub-directory of your project:
 
 ```kotlin
-package io.appwrite.models
+package io.clikkle.models
 
 enum class Category {
     fiction,
@@ -473,7 +473,7 @@ data class Books(
 Run the following command in your terminal:
 
 ```bash
-appwrite types --language swift ./types
+clikkle types --language swift ./types
 ```
 
 This will generate the following types in the `./types` sub-directory of your project:
@@ -566,3 +566,4 @@ public class Books: Codable {
 ```
 {% /tabsitem %}
 {% /tabs %}
+

@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Add authentication
-description: Add Appwrite authentication to you Svelte app using your Svelte store.
+description: Add Clikkle authentication to you Svelte app using your Svelte store.
 step: 4
 ---
 
@@ -14,9 +14,9 @@ Create a new file `src/lib/user.js` and add the following code to it.
 
 ```client-web
 import { writable } from 'svelte/store';
-import { ID } from 'appwrite';
+import { ID } from 'clikkle';
 import { goto } from '$app/navigation';
-import { account } from '$lib/appwrite';
+import { account } from '$lib/clikkle';
 
 // Avoid auth calls in server-side, so that a user is not shared between requests
 const isBrowser = typeof window !== 'undefined';
@@ -140,3 +140,4 @@ Create a new file `src/routes/login/+page.svelte` and add the following code to 
 	}
 </style>
 ```
+

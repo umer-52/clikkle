@@ -1,15 +1,15 @@
----
+﻿---
 layout: article
 title: Collections
-description: Organize your data with Appwrite Collections. Explore how to create and configure collections to store and structure your data effectively.
+description: Organize your data with Clikkle Collections. Explore how to create and configure collections to store and structure your data effectively.
 ---
-Appwrite uses collections as containers of documents. Each collection contains many documents identical in structure.
-The terms collections and documents are used because the Appwrite JSON REST API resembles the API of a traditional NoSQL database, making it intuitive and user-friendly, even though Appwrite uses SQL under the hood.
+Clikkle uses collections as containers of documents. Each collection contains many documents identical in structure.
+The terms collections and documents are used because the Clikkle JSON REST API resembles the API of a traditional NoSQL database, making it intuitive and user-friendly, even though Clikkle uses SQL under the hood.
 
-That said, Appwrite is designed to support both SQL and NoSQL database adapters like MariaDB, MySQL, or MongoDB in future versions.
+That said, Clikkle is designed to support both SQL and NoSQL database adapters like MariaDB, MySQL, or MongoDB in future versions.
 
 # Create collection {% #create-collection %}
-You can create collections using the Appwrite Console, a [Server SDK](/docs/sdks#server), or using the [CLI](/docs/tooling/command-line/installation).
+You can create collections using the Clikkle Console, a [Server SDK](/docs/sdks#server), or using the [CLI](/docs/tooling/command-line/installation).
 {% tabs %}
 
 {% tabsitem #console title="Console" %}
@@ -18,12 +18,12 @@ You can create a collection by heading to the **Databases** page, navigate to a 
 {% /tabsitem %}
 
 {% tabsitem #server-sdk title="Server SDK" %}
-You can also create collections programmatically using a [Server SDK](/docs/sdks#server). Appwrite [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
+You can also create collections programmatically using a [Server SDK](/docs/sdks#server). Clikkle [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
 
 {% multicode %}
 
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 // Init SDK
 const client = new sdk.Client();
@@ -31,7 +31,7 @@ const client = new sdk.Client();
 const databases = new sdk.Databases(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -49,7 +49,7 @@ promise.then(function (response) {
 });
 ```
 ```deno
-import * as sdk from "npm:node-appwrite";
+import * as sdk from "npm:node-clikkle";
 
 // Init SDK
 let client = new sdk.Client();
@@ -57,7 +57,7 @@ let client = new sdk.Client();
 let databases = new sdk.Databases(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -78,13 +78,13 @@ promise.then(function (response) {
 ```php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Databases;
+use Clikkle\Client;
+use Clikkle\Services\Databases;
 
 $client = new Client();
 
 $client
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>') // Your project ID
     ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -94,13 +94,13 @@ $databases = new Databases($client);
 $result = $databases->createCollection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>');
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.databases import Databases
+from clikkle.client import Client
+from clikkle.services.databases import Databases
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
   .set_project('<PROJECT_ID>') # Your project ID
   .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
 )
@@ -110,12 +110,12 @@ databases = Databases(client)
 result = databases.create_collection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>')
 ```
 ```ruby
-require 'Appwrite'
+require 'Clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<PROJECT_ID>') # Your project ID
     .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
 
@@ -126,12 +126,12 @@ response = databases.create_collection(database_id: '<DATABASE_ID>', collection_
 puts response.inspect
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 var client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<PROJECT_ID>") // Your project ID
     .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -143,14 +143,14 @@ Collection result = await databases.CreateCollection(
     name: "[NAME]");
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 void main() { // Init SDK
   Client client = Client();
   Databases databases = Databases(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
   ;
@@ -170,11 +170,11 @@ void main() { // Init SDK
 }
 ```
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.services.Databases
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
 
@@ -187,12 +187,12 @@ val response = databases.createCollection(
 )
 ```
 ```java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Databases;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Databases;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -213,10 +213,10 @@ databases.createCollection(
 );
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
 
@@ -237,19 +237,19 @@ You can also configure **permissions** in the `createCollection` method, learn m
 
 {% partial file="cli-disclaimer.md" /%}
 
-To create your collection using the CLI, first use the `appwrite init collections` command to initialize your collection.
+To create your collection using the CLI, first use the `clikkle init collections` command to initialize your collection.
 
 ```sh
-appwrite init collections
+clikkle init collections
 ```
 
-Then push your collection using the `appwrite push collections` command.
+Then push your collection using the `clikkle push collections` command.
 
 ```sh
-appwrite push collections
+clikkle push collections
 ```
 
-This will create your collection in the Console with all of your `appwrite.config.json` configurations.
+This will create your collection in the Console with all of your `clikkle.config.json` configurations.
 
 {% arrow_link href="/docs/tooling/command-line/collections#commands" %}
 Learn more about the CLI collections commands
@@ -260,18 +260,18 @@ Learn more about the CLI collections commands
 {% /tabs %}
 
 # Permissions {% #permissions %}
-Appwrite uses permissions to control data access.
+Clikkle uses permissions to control data access.
 For security, only users that are granted permissions can access a resource.
 This helps prevent accidental data leaks by forcing you to make more concious decisions around permissions.
 
-By default, Appwrite doesn't grant permissions to any users when a new collection is created.
+By default, Clikkle doesn't grant permissions to any users when a new collection is created.
 This means users can't create new documents or read, update, and delete existing documents.
 
 [Learn about configuring permissions](/docs/products/databases/legacy/permissions).
 
 # Attributes {% #attributes %}
 All documents in a collection follow the same structure.
-Attributes are used to define the structure of your documents and help the Appwrite's API validate your users' input.
+Attributes are used to define the structure of your documents and help the Clikkle's API validate your users' input.
 Add your first attribute by clicking the **Add attribute** button.
 
 You can choose between the following types.
@@ -300,7 +300,7 @@ You can increase a string attribute's size without any restrictions. When decrea
 # Indexes {% #indexes %}
 
 Databases use indexes to quickly locate data without having to search through every document for matches.
-To ensure the best performance, Appwrite recommends an index for every attribute queried.
+To ensure the best performance, Clikkle recommends an index for every attribute queried.
 If you plan to query multiple attributes in a single query, creating an index with **all** queried attributes will yield optimal performance.
 
 The following indexes are currently supported:
@@ -312,3 +312,4 @@ The following indexes are currently supported:
 | `fulltext` | For searching within string attributes. Required for the [search query method](/docs/products/databases/legacy/queries#query-class).     |
 
 You can create an index by navigating to your collection's **Indexes** tab or by using your favorite [Server SDK](/docs/sdks#server).
+

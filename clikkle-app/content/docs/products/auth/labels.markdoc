@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Labels
 description: Organize your users and grant custom permissions for subscriptions or VIP users with labels.
@@ -8,10 +8,10 @@ Labels are a good way to categorize a user to grant them access to resources. Fo
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -30,14 +30,14 @@ promise.then(function (response) {
 ```
 
 ```php
-use Appwrite\Client;
-use Appwrite\Services\Users;
-use Appwrite\Role;
+use Clikkle\Client;
+use Clikkle\Services\Users;
+use Clikkle\Role;
 
 $client = new Client();
 
 $client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -50,14 +50,14 @@ $result = $users->updateLabels(
 ```
 
 ```python
-from appwrite.client import Client
-from appwrite.services.users import Users
-from appwrite.role import Role
+from clikkle.client import Client
+from clikkle.services.users import Users
+from clikkle.role import Role
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
   .set_project('<PROJECT_ID>')                 # Your project ID
   .set_key('98fd4...a2ad2')                     # Your secret API key
 )
@@ -70,12 +70,12 @@ result = users.update_labels(
 );
 ```
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<PROJECT_ID>')                 # Your project ID
     .set_key('98fd4...a2ad2')                     # Your secret API key
 
@@ -88,10 +88,10 @@ response = users.update_labels(
 ```
 
 ```deno
-import * as sdk from "npm:node-appwrite";
+import * as sdk from "npm:node-clikkle";
 
 let client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -109,10 +109,10 @@ promise.then(function (response) {
 });
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -124,12 +124,12 @@ final result = await users.updateLabels(
 );
 ```
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.Role
-import io.appwrite.services.Users
+import io.clikkle.Client
+import io.clikkle.Role
+import io.clikkle.services.Users
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setKey("98fd4...a2ad2")                     // Your secret API key
 
@@ -142,10 +142,10 @@ val response = users.updateLabels(
 ```
 
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setKey("98fd4...a2ad2")                     // Your secret API key
 
@@ -158,10 +158,10 @@ let response = try await users.updateLabels(
 ```
 
 ```csharp
-using Appwrite;
+using Clikkle;
 
 var client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<PROJECT_ID>")                 // Your project ID
     .SetKey("98fd4...a2ad2");                    // Your secret API key
 
@@ -186,3 +186,4 @@ This would correspond with the permissions below.
 {% arrow_link href="/docs/advanced/platform/permissions" %}
 Learn more about permissions
 {% /arrow_link %}
+

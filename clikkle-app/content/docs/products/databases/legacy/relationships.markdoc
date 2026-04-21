@@ -1,16 +1,16 @@
----
+﻿---
 layout: article
 title: Relationships
-description: Manage complex data relationships with Appwrite Databases. Discover how to define and work with relationships between documents for interconnected data.
+description: Manage complex data relationships with Clikkle Databases. Discover how to define and work with relationships between documents for interconnected data.
 difficulty: advanced
 readtime: 20
 ---
 Relationships describe how documents in different collections are associated, so that related documents can be read, updated, or deleted together. Entities in real-life often associate with each other in an organic and logical way, like a person and their dog, an album and its songs, or friends in a social network.
 
-These types of association between entities can be modeled in Appwrite using relationships.
+These types of association between entities can be modeled in Clikkle using relationships.
 
 {% info title="Experimental feature" %}
-Appwrite Relationships is an experimental feature. The API and behavior are subject to change in future versions.
+Clikkle Relationships is an experimental feature. The API and behavior are subject to change in future versions.
 {% /info %}
 
 # Relationship Attributes {% #relationship-attributes %}
@@ -33,7 +33,7 @@ Consider using relationships when the same information is found in multiple plac
 
 # Opt-in Loading {% #performance-loading %}
 
-By default, Appwrite returns only a document's own fields when you retrieve documents. Related documents are **not automatically loaded** unless you explicitly request them using query selection. This eliminates unintentional payload bloat and gives you precise control over performance.
+By default, Clikkle returns only a document's own fields when you retrieve documents. Related documents are **not automatically loaded** unless you explicitly request them using query selection. This eliminates unintentional payload bloat and gives you precise control over performance.
 
 {% arrow_link href="/docs/products/databases/legacy/queries#relationship-select" %}
 Learn how to load relationships with queries
@@ -41,7 +41,7 @@ Learn how to load relationships with queries
 
 # Directionality {% #directionality %}
 
-Appwrite relationships can be one-way or two-way.
+Clikkle relationships can be one-way or two-way.
 
 | Type     | Description                                                                                                       |
 | -------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ Appwrite relationships can be one-way or two-way.
 
 # Types {% #types %}
 
-Appwrite provides four different relationship types to enforce different associative rules between documents.
+Clikkle provides four different relationship types to enforce different associative rules between documents.
 
 | Type        | Description                                                             |
 | ----------- | ----------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ Appwrite provides four different relationship types to enforce different associa
 
 # On-delete {% #on-delete %}
 
-Appwrite also allows you to define the behavior of a relationship when a document is deleted.
+Clikkle also allows you to define the behavior of a relationship when a document is deleted.
 
 | Type       | Description                                                            |
 | ---------- | ---------------------------------------------------------------------- |
@@ -71,12 +71,12 @@ Appwrite also allows you to define the behavior of a relationship when a documen
 | Set null   | If a document has related documents, when it is deleted, the related documents are kept with their relationship attribute set to null.|
 
 # Creating relationships {% #create-relationships %}
-You can define relationships in the Appwrite Console, or using a [Server SDK](/docs/sdks#server)
+You can define relationships in the Clikkle Console, or using a [Server SDK](/docs/sdks#server)
 
 {% tabs %}
 {% tabsitem #console title="Console" %}
 
-You can create relationships in the Appwrite Console by adding a relationship attribute to a collection.
+You can create relationships in the Clikkle Console by adding a relationship attribute to a collection.
 
 1. In your project, navigate to **Databases** > **Select your database** > **Select your collection** > **Attributes** > **Create attribute**.
 2. Select **Relationship** as the attribute type.
@@ -92,10 +92,10 @@ A relationship attribute with the key `reviews` is added to the movies collectio
 
 {% multicode %}
 ```js
-const { Client, Databases } = require('node-appwrite');
+const { Client, Databases } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 const databases = new Databases(client);
@@ -114,11 +114,11 @@ databases.createRelationshipAttribute(
 
 
 ```php
-use \Appwrite\Client;
-use \Appwrite\Services\Databases;
+use \Clikkle\Client;
+use \Clikkle\Services\Databases;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>');               // Your project ID
 
 $databases = new Databases($client);
@@ -137,11 +137,11 @@ $databases->createRelationshipAttribute(
 
 
 ```python
-from appwrite.client import Client
-from appwrite.services.databases import Databases
+from clikkle.client import Client
+from clikkle.services.databases import Databases
 
 client = (Client()
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')     # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint
     .set_project('<PROJECT_ID>'))                   # Your project ID
 
 databases = Databases(client)
@@ -160,12 +160,12 @@ databases.create_relationship_attribute(
 
 
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')# Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint
     .set_project('<PROJECT_ID>')               # Your project ID
 
 databases = Databases.new(client)
@@ -184,10 +184,10 @@ databases.create_relationship_attribute(
 
 
 ```deno
-import { Client, Databases } from "npm:node-appwrite";
+import { Client, Databases } from "npm:node-clikkle";
 
 const client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>");               // Your project ID
 
 const databases = new Databases(client);
@@ -206,10 +206,10 @@ databases.createRelationshipAttribute(
 
 
 ```dart
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 final databases = Databases(client);
@@ -228,11 +228,11 @@ await databases.createRelationshipAttribute(
 
 
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.services.Databases
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                // Your project ID
 
 val databases = Databases(client)
@@ -251,10 +251,10 @@ databases.createRelationshipAttribute(
 
 
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                // Your project ID
 
 let databases = Databases(client)
@@ -275,11 +275,11 @@ databases.createRelationshipAttribute(
 
 
 ```csharp
-using Appwrite;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Services;
 
 var client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .SetProject("<PROJECT_ID>");
 
 var databases = new Databases(client);
@@ -308,10 +308,10 @@ You can create both the **parent** and **child** at once in a relationship by ne
 
 {% multicode %}
 ```js
-const { Client, Databases, ID } = require('node-appwrite');
+const { Client, Databases, ID } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 const databases = new Databases(client);
@@ -332,10 +332,10 @@ await databases.createDocument(
 ```
 
 ```dart
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')  // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
     .setProject('<PROJECT_ID>');                // Your project ID
 
 final databases = Databases(client);
@@ -356,10 +356,10 @@ await databases.createDocument(
 ```
 
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                // Your project ID
 
 let databases = Database(client: client)
@@ -380,12 +380,12 @@ databases.createDocument(
 ```
 
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Database
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.Database
+import io.clikkle.ID
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                // Your project ID
 
 val databases = Database(client)
@@ -417,10 +417,10 @@ If the child documents are already present in the related collection, you can cr
 Here's an example connecting reviews to a movie.
 {% multicode %}
 ```js
-const { Client, Databases, ID } = require('node-appwrite');
+const { Client, Databases, ID } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 const databases = new Databases(client);
@@ -441,10 +441,10 @@ await databases.createDocument(
 ```
 
 ```dart
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 final databases = Databases(client);
@@ -465,10 +465,10 @@ await databases.createDocument(
 ```
 
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                // Your project ID
 
 let databases = Database(client: client)
@@ -489,12 +489,12 @@ databases.createDocument(
 ```
 
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Database
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.Database
+import io.clikkle.ID
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                // Your project ID
 
 val databases = Database(client)
@@ -518,17 +518,17 @@ databases.createDocument(
 {% /tabs %}
 
 # Queries {% #queries %}
-Queries are currently not available in the experimental version of Appwrite Relationships but will be added in a later version.
+Queries are currently not available in the experimental version of Clikkle Relationships but will be added in a later version.
 
 # Update Relationships {% #update %}
 Relationships can be updated by updating the relationship attribute.
 
 {% multicode %}
 ```js
-const { Client, Databases } = require('node-appwrite');
+const { Client, Databases } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 const databases = new Databases(client);
@@ -549,10 +549,10 @@ await databases.updateDocument(
 ```
 
 ```dart
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final databases = Databases(client);
@@ -573,10 +573,10 @@ await databases.updateDocument(
 ```
 
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let databases = Database(client: client)
@@ -597,11 +597,11 @@ databases.updateDocument(
 ```
 
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Database
+import io.clikkle.Client
+import io.clikkle.services.Database
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val databases = Database(client)
@@ -644,10 +644,10 @@ If the on-delete behavior is **cascade**, deleting the parent documents also del
 
 {% multicode %}
 ```js
-const { Client, Databases } = require('node-appwrite');
+const { Client, Databases } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 const databases = new Databases(client);
@@ -660,10 +660,10 @@ await databases.deleteDocument(
 ```
 
 ```dart
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final databases = Databases(client);
@@ -676,10 +676,10 @@ await databases.deleteDocument(
 ```
 
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let databases = Database(client: client)
@@ -692,11 +692,11 @@ databases.deleteDocument(
 ```
 
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Database
+import io.clikkle.Client
+import io.clikkle.services.Database
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val databases = Database(client)
@@ -720,10 +720,10 @@ You can also provide explicit permissions to the child document if they should b
 
 {% multicode %}
 ```js
-const { Client, Databases, ID } = require('node-appwrite');
+const { Client, Databases, ID } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 const databases = new Databases(client);
@@ -748,10 +748,10 @@ await databases.createDocument(
 );
 ```
 ```dart
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final databases = Databases(client);
@@ -776,10 +776,10 @@ await databases.createDocument(
 );
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let databases = Database(client: client)
@@ -804,10 +804,10 @@ databases.createDocument(
 );
 ```
 ```kotlin
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let databases = Database(client: client)
@@ -841,3 +841,4 @@ If the user does not have read permission to any document, an exception will be 
 Relationships can be nested between collections, but are restricted to a **max depth of three levels**.
 Relationship attribute key, type, and directionality can't be updated.
 On-delete behavior is the only option that can be updated for relationship attributes.
+

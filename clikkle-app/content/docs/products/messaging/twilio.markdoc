@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Twilio
-description: Send SMS messages to your Appwrite users using Twilio and Appwrite Messaging.
+description: Send SMS messages to your Clikkle users using Twilio and Clikkle Messaging.
 back: /docs/
 ---
 
@@ -24,7 +24,7 @@ The provider will be saved to your project, but not enabled until you complete i
 {% /section %}
 {% section #configure-provider step=2 title="Configure provider" %}
 
-In the **Configure** step, you will need to provide details from your Twilio dashboard to connect your Appwrite project.
+In the **Configure** step, you will need to provide details from your Twilio dashboard to connect your Clikkle project.
 
 You will need to provide the following information from your **Twilio dashboard**.
 
@@ -60,15 +60,15 @@ To send a test message, navigate to **Messaging** > **Messages** > {% icon icon=
 
 Add your message and in the targets step, select one of your test targets. Set the schedule to **Now** and click **Send**.
 
-Verify that you can receive the message in your inbox. If not, check for logs in the Appwrite Console or in your provider's logs.
+Verify that you can receive the message in your inbox. If not, check for logs in the Clikkle Console or in your provider's logs.
 {% /tabsitem %}
 
 {% tabsitem #server-sdk title="Server SDK" %}
-To send a message programmatically, use an [Appwrite Server SDK](/docs/sdks#server).
+To send a message programmatically, use an [Clikkle Server SDK](/docs/sdks#server).
 {% multicode %}
 
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 // Init SDK
 const client = new sdk.Client();
@@ -76,7 +76,7 @@ const client = new sdk.Client();
 const messaging = new sdk.Messaging(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -92,7 +92,7 @@ const message = await messaging.createSms(
     );
 ```
 ```deno
-import * as sdk from "npm:node-appwrite";
+import * as sdk from "npm:node-clikkle";
 
 // Init SDK
 let client = new sdk.Client();
@@ -100,7 +100,7 @@ let client = new sdk.Client();
 let messaging = new sdk.Messaging(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -118,13 +118,13 @@ const message = await messaging.createSms(
 ```php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Messaging;
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
 
 $client = new Client();
 
 $client
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>')                 // Your project ID
     ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -142,13 +142,13 @@ $result = $messaging->createSms(
 );
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.messaging import Messaging
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
   .set_project('<PROJECT_ID>')                 # Your project ID
   .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
 )
@@ -166,12 +166,12 @@ result = messaging.create_sms(
 )
 ```
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<PROJECT_ID>')                 # Your project ID
     .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
 
@@ -190,12 +190,12 @@ response = messaging.create_sms(
 puts response.inspect
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 var client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<PROJECT_ID>")                  // Your project ID
     .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -211,16 +211,16 @@ Message result = await messaging.CreateSMS(
     scheduledAt: "");                             // optional
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
-import 'package:dart_appwrite/enums.dart';
-import 'package:dart_appwrite/models.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
 
 void main() async {                               // Init SDK
   Client client = Client();
   Messaging messaging = Messaging(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
   ;
@@ -244,12 +244,12 @@ void main() async {                               // Init SDK
 }
 ```
 ```kotlin
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Messaging;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -274,12 +274,12 @@ messaging.createSms(
 );
 ```
 ```java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Messaging;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -304,10 +304,10 @@ messaging.createSms(
 );
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
 
@@ -331,17 +331,17 @@ let message = try await messaging.createSms(
 {% section #manage-provider step=4 title="Manage provider" %}
 {% tabs %}
 {% tabsitem #console title="Console" %}
-You can update or delete a provider in the Appwrite Console.
+You can update or delete a provider in the Clikkle Console.
 
 Navigate to **Messaging** > **Providers** > click your provider.
 In the settings, you can update a provider's configuration or delete the provider.
 {% /tabsitem %}
 
 {% tabsitem #server-sdk title="Server SDK" %}
-To update or delete providers programmatically, use an [Appwrite Server SDK](/docs/sdks#server).
+To update or delete providers programmatically, use an [Clikkle Server SDK](/docs/sdks#server).
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 // Init SDK
 const client = new sdk.Client();
@@ -349,7 +349,7 @@ const client = new sdk.Client();
 const messaging = new sdk.Messaging(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -364,7 +364,7 @@ const provider = await messaging.updateTwilioProvider(
     );
 ```
 ```deno
-import * as sdk from "npm:node-appwrite";
+import * as sdk from "npm:node-clikkle";
 
 // Init SDK
 let client = new sdk.Client();
@@ -372,7 +372,7 @@ let client = new sdk.Client();
 let messaging = new sdk.Messaging(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -389,13 +389,13 @@ const provider = await messaging.updateTwilioProvider(
 ```php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Messaging;
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
 
 $client = new Client();
 
 $client
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>')                 // Your project ID
     ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -412,13 +412,13 @@ $result = $messaging->updateTwilioProvider(
 );
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.messaging import Messaging
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
   .set_project('<PROJECT_ID>')                 # Your project ID
   .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
 )
@@ -435,12 +435,12 @@ result = messaging.update_twilio_provider(
 )
 ```
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<PROJECT_ID>')                 # Your project ID
     .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
 
@@ -458,12 +458,12 @@ response = messaging.update_twilio_provider(
 puts response.inspect
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 var client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<PROJECT_ID>")                  // Your project ID
     .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -478,16 +478,16 @@ Provider result = await messaging.UpdateTwilioProvider(
     from: "<FROM>");                              // optional
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
-import 'package:dart_appwrite/enums.dart';
-import 'package:dart_appwrite/models.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
 
 void main() {                                    // Init SDK
   Client client = Client();
   Messaging messaging = Messaging(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
   ;
@@ -510,12 +510,12 @@ void main() {                                    // Init SDK
 }
 ```
 ```kotlin
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Messaging;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -539,12 +539,12 @@ messaging.updateTwilioProvider(
 );
 ```
 ```java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Messaging;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -568,10 +568,10 @@ messaging.updateTwilioProvider(
 );
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
 
@@ -590,3 +590,4 @@ let provider = try await messaging.updateTwilioProvider(
 {% /tabsitem %}
 {% /tabs %}
 {% /section %}
+

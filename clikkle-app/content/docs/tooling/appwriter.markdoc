@@ -1,24 +1,24 @@
----
+﻿---
 layout: article
-title: The Appwriter
-description: Learn about the custom Appwriter mechanical keyboard and its specifications
+title: The Clikkler
+description: Learn about the custom Clikkler mechanical keyboard and its specifications
 ---
 
 {% only_dark %}
-![The Appwriter](/clikkle/images/docs/keyboard/dark/appwriter.png)
+![The Clikkler](/clikkle/images/docs/keyboard/dark/clikkler.png)
 {% /only_dark %}
 
 {% only_light %}
-![The Appwriter](/clikkle/images/docs/keyboard/appwriter.png)
+![The Clikkler](/clikkle/images/docs/keyboard/clikkler.png)
 {% /only_light %}
 
-The Appwriter is an exclusive mechanical keyboard custom-designed by the Appwrite team. It is optimized to improve developer productivity and is specially tuned to use with the Appwrite Console.
+The Clikkler is an exclusive mechanical keyboard custom-designed by the Clikkle team. It is optimized to improve developer productivity and is specially tuned to use with the Clikkle Console.
 
-The Appwriter uses icons from the Appwrite Console and Docs on specific keys, making memorizing keyboard shortcuts easier. For example, `G` then `D` is the shortcut for navigating to your project's databases, and the icon on the `D` key matches the icon for Appwrite Databases.
+The Clikkler uses icons from the Clikkle Console and Docs on specific keys, making memorizing keyboard shortcuts easier. For example, `G` then `D` is the shortcut for navigating to your project's databases, and the icon on the `D` key matches the icon for Clikkle Databases.
 
 # What's in the box {% #whats-in-the-box %}
 
-- Appwriter keyboard
+- Clikkler keyboard
 - USB-C data/charging cable
 - 2-in-1 keycap and switch puller
 - Extra PC layout keycaps
@@ -42,24 +42,24 @@ The keyboard comes with Mac layout keys pre-installed for macOS which can also b
 
 # Quick start  {% #quick-start %}
 
-There are currently three modes to connect the Appwriter to the computer: wired, wireless, and Bluetooth. There is a switch under the keyboard to toggle between B, T, or G, which switch to wired, wireless, or Bluetooth mode, respectively.
+There are currently three modes to connect the Clikkler to the computer: wired, wireless, and Bluetooth. There is a switch under the keyboard to toggle between B, T, or G, which switch to wired, wireless, or Bluetooth mode, respectively.
 
 ## Wired mode {% #wired-mode %}
 
-To use the wired mode, connect the USB-C data cable from the keyboard to the computer and push the Appwriter switch towards the T.
+To use the wired mode, connect the USB-C data cable from the keyboard to the computer and push the Clikkler switch towards the T.
 When connecting the keyboard for the first time using wired mode, your computer will install all required drivers on a successful connection.
 
-The Appwriter's battery will charge while connected using the wired mode. Make sure to use a charger that doesn't exceed a voltage/current = DC5V = 1A (max). Using a charger that exceeds this voltage and current ratings could easily damage your keyboard.
+The Clikkler's battery will charge while connected using the wired mode. Make sure to use a charger that doesn't exceed a voltage/current = DC5V = 1A (max). Using a charger that exceeds this voltage and current ratings could easily damage your keyboard.
 
 ## Wireless mode {% #wireless-mode %}
 
-Push the Appwriter switch towards the G if you want to use the wireless mode with the wireless receiver. After switching to wireless mode, long press the `FN + 4` keys until the `4` key light flashes quickly, and plug the receiver into a computer USB port.
+Push the Clikkler switch towards the G if you want to use the wireless mode with the wireless receiver. After switching to wireless mode, long press the `FN + 4` keys until the `4` key light flashes quickly, and plug the receiver into a computer USB port.
 
 ## Bluetooth mode {% #bluetooth-mode %}
 
 To switch the keyboard to Bluetooth mode, push the switch to B. The keyboard can pair to three different devices.
 
-To pair a device, long press the `FN` and `1`, `2`, or `3` keys to enter pairing mode. Once the `1`, `2`, or `3` key flashes quickly, select the Appwriter on your device's Bluetooth devices list.
+To pair a device, long press the `FN` and `1`, `2`, or `3` keys to enter pairing mode. Once the `1`, `2`, or `3` key flashes quickly, select the Clikkler on your device's Bluetooth devices list.
 
 To connect to a device, short press the `FN + 1/2/3` keys depending on the device you want to connect the keyboard with.
 
@@ -88,14 +88,15 @@ To switch to Windows mode, switch the preinstalled macOS keycap with the Windows
 
 To use macOS-specific keyboard commands such as `Command + C` or `Command + A`, keep the preinstalled macOS keycaps in and use the `FN + S` shortcut to enable macOS mode.
 
-# How to get the Appwriter {% #how-to-get-the-appwriter %}
+# How to get the Clikkler {% #how-to-get-the-clikkler %}
 
-The Appwriter is available for preorder in the [Appwrite Store](https://appwrite.store/products/preorder-the-appwriter).
+The Clikkler is available for preorder in the [Clikkle Store](https://clikkle.store/products/preorder-the-clikkler).
 
-You can also participate in our giveaways and win the Appwriter.
+You can also participate in our giveaways and win the Clikkler.
 Look out for events & giveaways on our social media:
-- [Discord](https://appwrite.io/discord)
-- [Github](https://github.com/appwrite/appwrite)
-- [X](https://x.com/appwrite)
-- [YouTube](https://www.youtube.com/c/appwrite)
+- [Discord](https://clikkle.io/discord)
+- [Github](https://github.com/clikkle/clikkle)
+- [X](https://x.com/clikkle)
+- [YouTube](https://www.youtube.com/c/clikkle)
+
 

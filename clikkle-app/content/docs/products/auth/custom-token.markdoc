@@ -1,23 +1,23 @@
----
+﻿---
 layout: article
 title: Custom token login
-description: Limitless authentication flow in Appwrite. Find out how to implement custom authentication flow or connect to 3rd party authentication providers.
+description: Limitless authentication flow in Clikkle. Find out how to implement custom authentication flow or connect to 3rd party authentication providers.
 ---
 
-Tokens are short-lived secrets created by an [Appwrite Server SDK](/docs/sdks#server) that can be exchanged for session by a [Client SDK](/docs/sdks#client) to log in users. You may already be familiar with tokens if you checked out [Magic URL login](/docs/products/auth/magic-url), [Email OTP login](/docs/products/auth/email-otp) or [Phone (SMS) login](/docs/products/auth/phone-sms).
+Tokens are short-lived secrets created by an [Clikkle Server SDK](/docs/sdks#server) that can be exchanged for session by a [Client SDK](/docs/sdks#client) to log in users. You may already be familiar with tokens if you checked out [Magic URL login](/docs/products/auth/magic-url), [Email OTP login](/docs/products/auth/email-otp) or [Phone (SMS) login](/docs/products/auth/phone-sms).
 
-Custom token allows you to use [Server SDK](/docs/sdks#server) to generate tokens for your own implementations. This allows you to code your own authentication methods using Appwrite Functions or your own backend. You could implement username and password sign-in, captcha-protected authentication, phone call auth, and much more. Custom tokens also allow you to skip authentication which is useful when you integrate Appwrite with external authenticaion providers such as Auth0, TypingDNA, or any provider trusted by your users.
+Custom token allows you to use [Server SDK](/docs/sdks#server) to generate tokens for your own implementations. This allows you to code your own authentication methods using Clikkle Functions or your own backend. You could implement username and password sign-in, captcha-protected authentication, phone call auth, and much more. Custom tokens also allow you to skip authentication which is useful when you integrate Clikkle with external authenticaion providers such as Auth0, TypingDNA, or any provider trusted by your users.
 
 # Create custom token {% #create-custom-token %}
 
-Once you have your server endpoint prepared either in an Appwrite Function or a server integration, you can use the [Create token](/docs/references/cloud/server-nodejs/users#createToken) endpoint of the [Users API](/docs/products/auth/users) to generate a token.
+Once you have your server endpoint prepared either in an Clikkle Function or a server integration, you can use the [Create token](/docs/references/cloud/server-nodejs/users#createToken) endpoint of the [Users API](/docs/products/auth/users) to generate a token.
 
 {% multicode %}
 ```server-nodejs
-import { Client, Users } from "node-appwrite";
+import { Client, Users } from "node-clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>');                    // Your project ID
     .setKey('<API_KEY>');                           // Your project API key
 
@@ -30,11 +30,11 @@ const secret = token.secret;
 ```
 
 ```php
-use Appwrite\Client;
-use Appwrite\Users;
+use Clikkle\Client;
+use Clikkle\Users;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')   // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')   // Your API Endpoint
     ->setProject('<PROJECT_ID>')                    // Your project ID
     ->setKey('<API_KEY>');                          // Your project API key
 
@@ -45,13 +45,13 @@ $secret = $token['secret'];
 ```
 
 ```python
-from appwrite.client import Client
-from appwrite.users import Users
+from clikkle.client import Client
+from clikkle.users import Users
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
   .set_project('<PROJECT_ID>')                  # Your project ID
   .set_key('<API_KEY>')                         # Your project API key
 )
@@ -63,12 +63,12 @@ secret = token.secret
 ```
 
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')   # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint
     .set_project('<PROJECT_ID>')                    # Your project ID
     .set_key('<API_KEY>')                           # Your project API key
 
@@ -79,10 +79,10 @@ secret = token['secret']
 ```
 
 ```deno
-import { Client, Users } from "npm:node-appwrite";
+import { Client, Users } from "npm:node-clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                     // Your project ID
     .setKey('<API_KEY>');                           // Your project API key
 
@@ -95,10 +95,10 @@ const secret = token.secret;
 ```
 
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                     // Your project ID
     .setKey('<API_KEY>');                           // Your project API key
 
@@ -109,11 +109,11 @@ final secret = token.secret;
 ```
 
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.Users
+import io.clikkle.Client
+import io.clikkle.Users
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .setProject("<PROJECT_ID>")                     // Your project ID
     .setKey("<API_KEY>")                            // Your project API key
 
@@ -124,10 +124,10 @@ val secret = token.secret
 ```
 
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .setProject("<PROJECT_ID>")                     // Your project ID
     .setKey("<API_KEY>")                            // Your project API key
 
@@ -138,10 +138,10 @@ let secret = token.secret
 ```
 
 ```csharp
-using Appwrite;
+using Clikkle;
 
 var client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .SetProject("<PROJECT_ID>")                     // Your project ID
     .SetKey("<API_KEY>");                           // Your project API key
 
@@ -167,10 +167,10 @@ Once the client receives a token secret, we can use it to authenticate the user 
 {% multicode %}
 
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const account = new Account(client);
@@ -182,10 +182,10 @@ const session = await account.createSession({
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final account = Account(client);
@@ -196,10 +196,10 @@ final session = await account.createSession(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 let account = Account(client);
@@ -211,11 +211,11 @@ let session = try await account.createSession(
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 val account = Account(client);
@@ -240,3 +240,4 @@ mutation {
 {% /multicode %}
 
 When the session is successfully created, the session is stored in a persistent manner and you can now do requests as authorized user from the application.
+

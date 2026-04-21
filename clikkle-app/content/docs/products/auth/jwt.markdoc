@@ -1,22 +1,22 @@
----
+﻿---
 layout: article
 title: JWT login
-description: Integrate Appwrite's authentication into your server-side applications. Explore server integrations, best practices, and security considerations for seamless authentication.
+description: Integrate Clikkle's authentication into your server-side applications. Explore server integrations, best practices, and security considerations for seamless authentication.
 ---
 
-You can extend Appwrite's APIs by building backend apps using [Server SDKs](/docs/sdks#server). To secure your backend app's APIs, client apps must prove their identity against your backend app before accessing sensitive information. You can secure these APIs and enforce access permissions in your backend app by using JWT authentication.
+You can extend Clikkle's APIs by building backend apps using [Server SDKs](/docs/sdks#server). To secure your backend app's APIs, client apps must prove their identity against your backend app before accessing sensitive information. You can secure these APIs and enforce access permissions in your backend app by using JWT authentication.
 
 If you are already authenticated on your client-side app and need your backend app to **act on behalf of the user**, this guide will walk you through the process.
 
 # Proof of Identity {% #proof-of-identity %}
 
-Before making requests to your backend APIs, your client application needs to first create a session **directly with Appwrite** using the account service. This session will act like an ID card for the user and can be used to access resources in Appwrite. The client will **only receive information accessible to the user** based on the resources' [permissions](/docs/advanced/platform/permissions).
+Before making requests to your backend APIs, your client application needs to first create a session **directly with Clikkle** using the account service. This session will act like an ID card for the user and can be used to access resources in Clikkle. The client will **only receive information accessible to the user** based on the resources' [permissions](/docs/advanced/platform/permissions).
 
-When you build backend APIs to extend Appwrite's functionality, these APIs should still **respect access permissions** to keep user data secure. Appwrite's backend SDKs allow you to securely act on behalf of a user with the same permissions by using JWT authentication.
+When you build backend APIs to extend Clikkle's functionality, these APIs should still **respect access permissions** to keep user data secure. Clikkle's backend SDKs allow you to securely act on behalf of a user with the same permissions by using JWT authentication.
 
 # JWT Authentication {% #jwt %}
 
-[JSON Web Tokens](https://jwt.io/introduction) (JWTs) are a secure means to transfer information or claims between two parties. JWTs act like temporary copies of the user's ID card that allow Appwrite's Server SDKs to access information on behalf of a user.
+[JSON Web Tokens](https://jwt.io/introduction) (JWTs) are a secure means to transfer information or claims between two parties. JWTs act like temporary copies of the user's ID card that allow Clikkle's Server SDKs to access information on behalf of a user.
 
 You need to create a session using the Client SDKs **before** generating a JWT. The JWT will be a stateless proof of claim for the identity of the authenticated user and expire after 15 minutes or when the session is deleted.
 
@@ -24,10 +24,10 @@ You can generate a JWT like this on a [Client SDK](/docs/sdks#client).
 
 {% multicode %}
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const account = new Account(client);
@@ -35,10 +35,10 @@ const account = new Account(client);
 const user = await account.createJWT();
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 final account = Account(client);
@@ -46,10 +46,10 @@ final account = Account(client);
 final jwt = await account.createJWT();
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 let account = Account(client)
@@ -57,11 +57,11 @@ let account = Account(client)
 let jwt = try await account.createJWT()
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 val account = Account(client)
@@ -82,87 +82,87 @@ Your server application can use the JWT to act on behalf of the user by creating
 Use JWTs tokens like this in a [Server SDK](/docs/sdks#server).
 {% multicode %}
 ```js
-const { Client } = require('node-appwrite');
+const { Client } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                  // Your project ID
     .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token
 ```
 
 ```php
-use Appwrite\Client;
+use Clikkle\Client;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')            // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint
     ->setProject('<PROJECT_ID>')                             // Your project ID
     ->setJWT('eyJJ9.eyJ...886ca');                           // Your secret JSON Web Token
 ```
 
 ```python
-from appwrite.client import Client
+from clikkle.client import Client
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
   .set_project('<PROJECT_ID>')                  # Your project ID
   .set_jwt('eyJJ9.eyJ...886ca')                 # Your secret JSON Web Token
 )
 ```
 
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')   # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint
     .set_project('<PROJECT_ID>')                    # Your project ID
     .set_jwt('eyJJ9.eyJ...886ca')                   # Your secret JSON Web Token
 ```
 
 ```deno
-import { Client } from "npm:node-appwrite";
+import { Client } from "npm:node-clikkle";
 
 let client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                     // Your project ID
     .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
 ```
 
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                     // Your project ID
     .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
 ```
 
 ```kotlin
-import io.appwrite.Client
+import io.clikkle.Client
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .setProject("<PROJECT_ID>")                     // Your project ID
     .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
 ```
 
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .setProject("<PROJECT_ID>")                     // Your project ID
     .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
 ```
 
 ```csharp
-using Appwrite;
+using Clikkle;
 
 var client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .SetProject("<PROJECT_ID>")                     // Your project ID
     .SetJWT("eyJJ9.eyJ...886ca");                   // Your secret JSON Web Token
 ```
@@ -191,10 +191,10 @@ If you're authenticated on the client-side as `user-a` and created a JWT `'eyJJ9
 
 {% multicode %}
 ```js
-const { Client } = require('node-appwrite');
+const { Client } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                  // Your project ID
     .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token
 
@@ -207,10 +207,10 @@ const rows = await tablesDB.listRows({
 // ... More code to manipulate the results
 ```
 ```php
-use Appwrite\Client;
+use Clikkle\Client;
 
 $client = (new Client())
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')            // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint
     .setProject('<PROJECT_ID>')                           // Your project ID
     .setJWT('eyJJ9.eyJ...886ca');                          // Your secret JSON Web Tokens
 
@@ -223,12 +223,12 @@ $rows = $tablesDB->listRows(
 // ... More code to manipulate the results
 ```
 ```python
-from appwrite.client import Client
+from clikkle.client import Client
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')              # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')              # Your API Endpoint
   .set_project('<PROJECT_ID>')                             # Your project ID
   .set_jwt('eyJJ9.eyJ...886ca')                             # Your secret JSON Web Token
 )
@@ -242,12 +242,12 @@ rows = tablesDB.list_rows(
 # ... More code to manipulate the results
 ```
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')            # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')            # Your API Endpoint
     .set_project('<PROJECT_ID>')                           # Your project ID
     .set_jwt('eyJJ9.eyJ...886ca')                           # Your secret JSON Web Token
 
@@ -260,10 +260,10 @@ rows = tablesDB.list_rows(
 # ... More code to manipulate the results
 ```
 ```deno
-import { Client } from "npm:node-appwrite";
+import { Client } from "npm:node-clikkle";
 
 let client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                     // Your project ID
     .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
 
@@ -276,10 +276,10 @@ let rows = await tablesDB.listRows({
 // ... More code to manipulate the results
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')    // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
     .setProject('<PROJECT_ID>')                     // Your project ID
     .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
 
@@ -292,10 +292,10 @@ final rows = await tablesDB.listRows(
 // ... More code to manipulate the results
 ```
 ```kotlin
-import io.appwrite.Client
+import io.clikkle.Client
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .setProject("<PROJECT_ID>")                     // Your project ID
     .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
 
@@ -308,10 +308,10 @@ val rows = tablesDB.listRows(
 // ... More code to manipulate the results
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .setProject("<PROJECT_ID>")                     // Your project ID
     .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
     
@@ -324,12 +324,12 @@ let rows = try await tablesDB.listRows(
 // ... More code to manipulate the results
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 var client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")    // Your API Endpoint
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
     .SetProject("<PROJECT_ID>")                     // Your project ID
     .SetJWT("eyJJ9.eyJ...886ca");                   // Your secret JSON Web Token
 
@@ -369,10 +369,10 @@ If the same request is made where the [Server SDK](/docs/sdks#server)'s `client`
 
 {% multicode %}
 ```js
-const { Client } = require('node-appwrite');
+const { Client } = require('node-clikkle');
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                  // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -386,10 +386,10 @@ const rows = await tablesDB.listRows({
 ```
 
 ```php
-use Appwrite\Client;
+use Clikkle\Client;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>')                  // Your project ID
     ->setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -403,11 +403,11 @@ $rows = $tablesDB->listRows(
 ```
 
 ```python
-from appwrite.client import Client
+from clikkle.client import Client
 
 client = Client()
 (client
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .set_project('<PROJECT_ID>')                  // Your project ID
     .set_key('98fd4...a2ad2')                     // Your secret API key
 )
@@ -421,12 +421,12 @@ rows = tablesDB.list_rows(
 // ... More code to manipulate the results
 ```
 ```ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<PROJECT_ID>')                  # Your project ID
     .set_key('98fd4...a2ad2')                     # Your secret API key
 
@@ -439,10 +439,10 @@ rows = tablesDB.list_rows(
 # ... More code to manipulate the results
 ```
 ```deno
-import { Client } from "npm:node-appwrite";
+import { Client } from "npm:node-clikkle";
 
 let client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                  // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -455,10 +455,10 @@ let rows = await tablesDB.listRows({
 // ... More code to manipulate the results
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                  // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -471,10 +471,10 @@ final rows = await tablesDB.listRows(
 // ... More code to manipulate the results
 ```
 ```kotlin
-import io.appwrite.Client
+import io.clikkle.Client
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -487,10 +487,10 @@ val rows = tablesDB.listRows(
 // ... More code to manipulate the results
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
     .setKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -503,12 +503,12 @@ let rows = try await tablesDB.listRows(
 // ... More code to manipulate the results
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 var client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<PROJECT_ID>")                  // Your project ID
     .SetKey('98fd4...a2ad2');                    // Your secret API key
 
@@ -565,4 +565,5 @@ This will return every row regardless of permissions, which could lead to privac
 }
 ```
 
-If you're integrating existing backend services with Appwrite or adding backend endpoints to perform more complex logic, JWT authentication helps them behave similarly to actual Appwrite endpoints.
+If you're integrating existing backend services with Clikkle or adding backend endpoints to perform more complex logic, JWT authentication helps them behave similarly to actual Clikkle endpoints.
+

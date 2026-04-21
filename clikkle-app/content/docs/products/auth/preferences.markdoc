@@ -1,14 +1,14 @@
----
+﻿---
 layout: article
 title: Preferences
-description: Store and manage user preferences in Appwrite using Account API and Teams API for individual and shared settings.
+description: Store and manage user preferences in Clikkle using Account API and Teams API for individual and shared settings.
 ---
 
 Preferences allow you to store settings like theme choice, language selection, or notification preferences that are specific to individual users or shared across teams.
 
 # User preferences {% #user-preferences %}
 
-You can store user preferences on a user's account using Appwrite's [Update Preferences](/docs/references/cloud/client-web/account#updatePrefs) endpoint.
+You can store user preferences on a user's account using Clikkle's [Update Preferences](/docs/references/cloud/client-web/account#updatePrefs) endpoint.
 
 Preferences are stored as a key-value JSON object. The maximum allowed size for preferences is 64kB, and an error will be thrown if this limit is exceeded.
 
@@ -18,10 +18,10 @@ Use the `updatePrefs` method to store user preferences as a JSON object.
 
 {% multicode %}
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const account = new Account(client);
@@ -35,10 +35,10 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 final account = Account(client);
@@ -51,10 +51,10 @@ final user = await account.updatePrefs(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 let account = Account(client)
@@ -67,11 +67,11 @@ let user = try await account.updatePrefs(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 val account = Account(client)
@@ -104,10 +104,10 @@ Retrieve stored preferences with the `getPrefs` method.
 
 {% multicode %}
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const account = new Account(client);
@@ -121,10 +121,10 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 final account = Account(client);
@@ -132,11 +132,11 @@ final account = Account(client);
 final prefs = await account.getPrefs();
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 val account = Account(client)
@@ -144,10 +144,10 @@ val account = Account(client)
 val prefs = account.getPrefs()
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 let account = Account(client)
@@ -170,7 +170,7 @@ Team preferences let you store settings that apply to an entire team of users. T
 Team preferences are stored as a JSON object in the team row and are limited to 64kB of data. All team members can access these shared preferences.
 
 {% arrow_link href="/docs/products/auth/teams" %}
-Learn more about Appwrite Teams
+Learn more about Clikkle Teams
 {% /arrow_link %}
 
 ## Update team preferences
@@ -179,10 +179,10 @@ Store team-wide settings using the `updatePrefs` method with a team ID.
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const teams = new Teams(client);
@@ -203,10 +203,10 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 final teams = Teams(client);
@@ -221,10 +221,10 @@ final team = await teams.updatePrefs(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 let teams = Teams(client)
@@ -239,11 +239,11 @@ let team = try await teams.updatePrefs(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 val teams = Teams(client)
@@ -265,10 +265,10 @@ Fetch team preferences by passing a team ID to the `getPrefs` method.
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const teams = new Teams(client);
@@ -282,10 +282,10 @@ promise.then(function (prefs) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 final teams = Teams(client);
@@ -295,10 +295,10 @@ final prefs = await teams.getPrefs(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 let teams = Teams(client)
@@ -308,11 +308,11 @@ let prefs = try await teams.getPrefs(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 val teams = Teams(client)
@@ -341,5 +341,6 @@ const darkMode = localStorage.getItem('darkMode');
 ```
 
 {% info title="Storing larger data" %}
-For complex preference structures or when storing larger amounts of data, Appwrite Databases offer a flexible solution. [Learn more about Appwrite Databases](/docs/products/databases).
+For complex preference structures or when storing larger amounts of data, Clikkle Databases offer a flexible solution. [Learn more about Clikkle Databases](/docs/products/databases).
 {% /info %}
+

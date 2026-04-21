@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Teams
-description: Master team management in the Appwrite Cloud. Explore team-related functions, permissions, and more.
+description: Master team management in the Clikkle Cloud. Explore team-related functions, permissions, and more.
 ---
 
 Teams are a good way to allow users to share access to resources.
@@ -21,14 +21,14 @@ The creator of the team is also granted the `owner` role. **Only those with the 
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client();
 
 const teams = new Teams(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
 ;
 
@@ -45,14 +45,14 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() { // Init SDK
   Client client = Client();
   Teams teams = Teams(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
   ;
   Future result = teams.create(
@@ -70,10 +70,10 @@ void main() { // Init SDK
 }
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 let teams = Teams(client)
@@ -85,11 +85,11 @@ let team = try await teams.create(
 )
 ```
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 val teams = Teams(client)
@@ -109,14 +109,14 @@ You can invite members to a team by creating team memberships. For example, invi
 
 {% multicode %}
 ```client-web
-import { Client, Teams } from "appwrite";
+import { Client, Teams } from "clikkle";
 
 const client = new Client();
 
 const teams = new Teams(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
 ;
 
@@ -133,14 +133,14 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() { // Init SDK
   Client client = Client();
   Teams teams = Teams(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
   ;
   Future result = teams.createMembership(
@@ -158,10 +158,10 @@ void main() { // Init SDK
 }
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 let teams = Teams(client)
@@ -173,11 +173,11 @@ let membership = try await teams.createMembership(
 )
 ```
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Teams
+import io.clikkle.Client
+import io.clikkle.services.Teams
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 val teams = Teams(client)
@@ -195,10 +195,10 @@ val response = teams.createMembership(
 
 {% partial file="cli-disclaimer.md" /%}
 
-Use the CLI command `appwrite teams create-membership [options]` to invite a new member into your team.
+Use the CLI command `clikkle teams create-membership [options]` to invite a new member into your team.
 
 ```sh
-appwrite teams create-membership --team-id "<TEAM_ID>" --roles --phone "+12065550100" --name "<NAME>" --user-id "<USER_ID>"
+clikkle teams create-membership --team-id "<TEAM_ID>" --roles --phone "+12065550100" --name "<NAME>" --user-id "<USER_ID>"
 ```
 
 You can also get, update, and delete a user's membership. However, you cannot use the CLI to configure permissions for team members.
@@ -230,4 +230,5 @@ These details can be made private:
 - `userName` - The member's name
 - `userEmail` - The member's email address
 - `mfa` - Whether the member has enabled multi-factor authentication
+
 

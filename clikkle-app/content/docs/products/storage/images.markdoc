@@ -1,18 +1,18 @@
----
+﻿---
 layout: article
 title: Image transformations
-description: Optimize image storage and processing with Appwrite. Explore image resizing, transformations, and manipulation to deliver rich media experiences in your apps.
+description: Optimize image storage and processing with Clikkle. Explore image resizing, transformations, and manipulation to deliver rich media experiences in your apps.
 ---
 
-Appwrite provides utilities to manipulate images for previewing images in your apps.
+Clikkle provides utilities to manipulate images for previewing images in your apps.
 
-Appwrite Storage's [preview endpoint](/docs/references/cloud/client-web/storage#getFilePreview) let you manipulate resolution, add borders and the border-radius, add background-color, set the opacity for the image, and get the image in the appropriate output format.
+Clikkle Storage's [preview endpoint](/docs/references/cloud/client-web/storage#getFilePreview) let you manipulate resolution, add borders and the border-radius, add background-color, set the opacity for the image, and get the image in the appropriate output format.
 
 You can manipulate images resolution to display appropriately on responsive websites. You can also adjust the image border, background color, and border-radius to match the theming of your application.
-The Appwrite Storage also allows you to change the format and compression of your images for network transfer optimization and to help you speed your application. You can do all that without caring about how the image was originally uploaded.
+The Clikkle Storage also allows you to change the format and compression of your images for network transfer optimization and to help you speed your application. You can do all that without caring about how the image was originally uploaded.
 
 {% info title="Caching" %}
-When manipulating images in Appwrite, the resulting images are cached by Appwrite and your browser.
+When manipulating images in Clikkle, the resulting images are cached by Clikkle and your browser.
 When you repeatedly use the same transformed images, the performance impact will be minimal.
 {% /info %}
 
@@ -38,14 +38,14 @@ Below you can find all the different parameters offered by the preview endpoint 
 Here are some examples using [Client SDKs](/docs/sdks#client).
 {% multicode %}
 ```client-web
-import { Client, Storage } from "appwrite";
+import { Client, Storage } from "clikkle";
 
 const client = new Client();
 
 const storage = new Storage(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
 ;
 
@@ -64,14 +64,14 @@ const result = storage.getFilePreview({
 console.log(result.href);
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() { // Init SDK
   Client client = Client();
   Storage storage = Storage(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
   ;
   // downloading file
@@ -113,11 +113,11 @@ FutureBuilder(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 func main() async throws {
     let client = Client()
-      .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
       .setProject("<PROJECT_ID>") // Your project ID
     let storage = Storage(client)
     let byteBuffer = try await storage.getFilePreview(
@@ -144,8 +144,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
-import io.appwrite.Client
-import io.appwrite.services.Storage
+import io.clikkle.Client
+import io.clikkle.services.Storage
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -153,7 +153,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val client = Client(applicationContext)
-            .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
             .setProject("<PROJECT_ID>") // Your project ID
 
         val storage = Storage(client)
@@ -178,11 +178,11 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 ```client-react-native
-import { Client, Storage, ImageGravity } from 'react-native-appwrite';
+import { Client, Storage, ImageGravity } from 'react-native-clikkle';
 import { Image } from 'react-native';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const storage = new Storage(client);
@@ -217,3 +217,4 @@ const ImagePreview = () => (
 ```
 
 {% /multicode %}
+

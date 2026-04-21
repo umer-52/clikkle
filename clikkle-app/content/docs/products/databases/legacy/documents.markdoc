@@ -1,9 +1,9 @@
----
+﻿---
 layout: article
 title: Documents
-description: Master document management with Appwrite Databases. Learn how to create, update, and query documents within your collections for dynamic data storage.
+description: Master document management with Clikkle Databases. Learn how to create, update, and query documents within your collections for dynamic data storage.
 ---
-Each piece of data or information in Appwrite Databases is a document.
+Each piece of data or information in Clikkle Databases is a document.
 Documents have a structure defined by the parent collection.
 
 # Create documents {% #create-documents %}
@@ -16,10 +16,10 @@ In most use cases, you will create documents programmatically.
 
 {% multicode %}
 ```client-web
-import { Client, Databases, ID } from "appwrite";
+import { Client, Databases, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const databases = new Databases(client);
@@ -38,11 +38,11 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
     final client = Client()
-        .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
         .setProject('<PROJECT_ID>');
 
     final databases = Databases(client);
@@ -54,18 +54,18 @@ void main() async {
             documentId: ID.unique(),
             data: {}
         );
-    } on AppwriteException catch(e) {
+    } on ClikkleException catch(e) {
         print(e);
     }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
     let client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     let databases = Databases(client)
@@ -83,12 +83,12 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.services.Databases
 
 suspend fun main() {
     val client = Client(applicationContext)
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     val databases = Databases(client)
@@ -101,7 +101,7 @@ suspend fun main() {
             data = mapOf("a" to "b"),
         )
     } catch (e: Exception) {
-        Log.e("Appwrite", "Error: " + e.message)
+        Log.e("Clikkle", "Error: " + e.message)
     }
 }
 ```
@@ -125,7 +125,7 @@ mutation {
 ```
 {% /multicode %}
 
-During testing, you might prefer to create documents in the Appwrite Console.
+During testing, you might prefer to create documents in the Clikkle Console.
 To do so, navigate to the **Documents** tab of your collection and click the **Add document** button.
 
 # List documents {% #list-documents %}
@@ -137,7 +137,7 @@ You must grant **read** permissions to users at the **collection level** before 
 
 Documents can be retrieved using the [List Document](/docs/references/cloud/client-web/databases#listDocuments) endpoint.
 
-Results can be filtered, sorted, and paginated using Appwrite's shared set of query methods.
+Results can be filtered, sorted, and paginated using Clikkle's shared set of query methods.
 You can find a full guide on querying in the [Queries Guide](/docs/products/databases/legacy/queries).
 
 By default, results are limited to the **first 25 items**.
@@ -145,10 +145,10 @@ You can change this through [pagination](/docs/products/databases/legacy/paginat
 
 {% multicode %}
 ```client-web
-import { Client, Databases, Query } from "appwrite";
+import { Client, Databases, Query } from "clikkle";
 
 const client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 const databases = new Databases(client);
@@ -168,11 +168,11 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
     final client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     final databases = Databases(client);
@@ -185,18 +185,18 @@ void main() async {
                 Query.equal('title', 'Avatar')
             ]
         );
-    } on AppwriteException catch(e) {
+    } on ClikkleException catch(e) {
         print(e);
     }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
     let client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     let databases = Databases(client)
@@ -215,13 +215,13 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.Query
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.Databases
 
 suspend fun main() {
     val client = Client(applicationContext)
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     val databases = Databases(client)
@@ -234,8 +234,8 @@ suspend fun main() {
                 Query.equal("title", "Avatar")
             )
         )
-    } catch (e: AppwriteException) {
-        Log.e("Appwrite", "Error: " + e.message)
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
     }
 }
 ```
@@ -266,10 +266,10 @@ In most use cases, you will upsert documents programmatically.
 
 {% multicode %}
 ```client-web
-import { Client, Databases, ID } from "appwrite";
+import { Client, Databases, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const databases = new Databases(client);
@@ -288,11 +288,11 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
     final client = Client()
-        .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
         .setProject('<PROJECT_ID>');
 
     final databases = Databases(client);
@@ -304,18 +304,18 @@ void main() async {
             documentId: ID.unique(),
             data: {}
         );
-    } on AppwriteException catch(e) {
+    } on ClikkleException catch(e) {
         print(e);
     }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
     let client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     let databases = Databases(client)
@@ -333,12 +333,12 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.services.Databases
 
 suspend fun main() {
     val client = Client(applicationContext)
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     val databases = Databases(client)
@@ -351,7 +351,7 @@ suspend fun main() {
             data = mapOf("a" to "b"),
         )
     } catch (e: Exception) {
-        Log.e("Appwrite", "Error: " + e.message)
+        Log.e("Clikkle", "Error: " + e.message)
     }
 }
 ```
@@ -378,7 +378,7 @@ mutation {
 
 
 # Permissions {% #permissions %}
-In Appwrite, permissions can be granted at the collection level and the document level.
+In Clikkle, permissions can be granted at the collection level and the document level.
 Before a user can create a document, you need to grant create permissions to the user.
 
 Read, update, and delete permissions can be granted at both the collection and document level.
@@ -409,3 +409,4 @@ Set custom creation and update timestamps when migrating data or backdating reco
 {% /cards %}
 
 [Learn more about bulk operations](/docs/products/databases/bulk-operations).
+

@@ -1,24 +1,24 @@
----
+﻿---
 layout: article
 title: Databases
-description: Dive deeper into Appwrite Databases and their configuration. Learn how to create, manage, and optimize multiple databases for your application.
+description: Dive deeper into Clikkle Databases and their configuration. Learn how to create, manage, and optimize multiple databases for your application.
 ---
-Databases are the largest organizational unit in Appwrite.
+Databases are the largest organizational unit in Clikkle.
 Each database contains a group of [collections](/docs/products/databases/legacy/collections).
 In future versions, different databases may be backed by a different database technology of your choosing.
 
 # Create in Console {% #create-in-console %}
-The easiest way to create a database using the Appwrite Console.
+The easiest way to create a database using the Clikkle Console.
 You can create a database by navigating to the **Databases** page and clicking **Create database**.
 
 
 
 # Create using Server SDKs {% #create-using-server-sdks %}
-You can programmatically create databases using a [Server SDK](/docs/sdks#server). Appwrite [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
+You can programmatically create databases using a [Server SDK](/docs/sdks#server). Clikkle [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 // Init SDK
 const client = new sdk.Client();
@@ -26,7 +26,7 @@ const client = new sdk.Client();
 const databases = new sdk.Databases(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -40,7 +40,7 @@ promise.then(function (response) {
 });
 ```
 ```deno
-import * as sdk from "npm:node-appwrite";
+import * as sdk from "npm:node-clikkle";
 
 // Init SDK
 let client = new sdk.Client();
@@ -48,7 +48,7 @@ let client = new sdk.Client();
 let databases = new sdk.Databases(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -65,13 +65,13 @@ promise.then(function (response) {
 ```php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Databases;
+use Clikkle\Client;
+use Clikkle\Services\Databases;
 
 $client = new Client();
 
 $client
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<PROJECT_ID>') // Your project ID
     ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
 ;
@@ -81,13 +81,13 @@ $databases = new Databases($client);
 $result = $databases->create('<DATABASE_ID>', '<NAME>');
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.databases import Databases
+from clikkle.client import Client
+from clikkle.services.databases import Databases
 
 client = Client()
 
 (client
-  .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
   .set_project('<PROJECT_ID>') # Your project ID
   .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
 )
@@ -97,12 +97,12 @@ databases = Databases(client)
 result = databases.create('<DATABASE_ID>', '<NAME>')
 ```
 ```ruby
-require 'Appwrite'
+require 'Clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<PROJECT_ID>') # Your project ID
     .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
 
@@ -113,12 +113,12 @@ response = databases.create(database_id: '<DATABASE_ID>', name: '<NAME>')
 puts response.inspect
 ```
 ```csharp
-using Appwrite;
-using Appwrite.Services;
-using Appwrite.Models;
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
 
 var client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<PROJECT_ID>") // Your project ID
     .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -129,14 +129,14 @@ Database result = await databases.Create(
     name: "<NAME>");
 ```
 ```dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 void main() { // Init SDK
   Client client = Client();
   Databases databases = Databases(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
   ;
@@ -155,11 +155,11 @@ void main() { // Init SDK
 }
 ```
 ```kotlin
-import io.appwrite.Client
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.services.Databases
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
 
@@ -171,12 +171,12 @@ val response = databases.create(
 )
 ```
 ```java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Databases;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Databases;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
 
@@ -196,10 +196,10 @@ databases.create(
 );
 ```
 ```swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
     .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
 
@@ -212,3 +212,4 @@ let response = try await databases.create(
 ```
 
 {% /multicode %}
+

@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Atomic numeric operations
 description: Safely increment and decrement numeric fields without race conditions. Perfect for counters, quotas, inventory, and usage metrics in high-concurrency applications.
@@ -38,10 +38,10 @@ Use the `incrementRowColumn` and `decrementRowColumn` methods to perform atomic 
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB } from "appwrite";
+import { Client, TablesDB } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>'); // Your project ID
 
 const tablesDB = new TablesDB(client);
@@ -55,10 +55,10 @@ const result = await tablesDB.incrementRowColumn({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final tablesDB = TablesDB(client);
@@ -72,11 +72,11 @@ final row = await tablesDB.incrementRowColumn(
 );
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let tablesDB = TablesDB(client)
@@ -90,11 +90,11 @@ let row = try await tablesDB.incrementRowColumn(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
 
 val client = Client(applicationContext)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val tablesDB = TablesDB(client)
@@ -108,10 +108,10 @@ val row = tablesDB.incrementRowColumn(
 )
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('<API_KEY>'); // Your secret API key
 
@@ -126,11 +126,11 @@ const result = await tablesDB.incrementRowColumn({
 });
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
 client.set_project('<PROJECT_ID>') # Your project ID
 client.set_key('<API_KEY>') # Your secret API key
 
@@ -171,10 +171,10 @@ Use the `decrementRowColumn` method to decrease numeric fields:
 
 {% multicode %}
 ```client-web
-import { Client, TablesDB } from "appwrite";
+import { Client, TablesDB } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>'); // Your project ID
 
 const tablesDB = new TablesDB(client);
@@ -188,10 +188,10 @@ const result = await tablesDB.decrementRowColumn({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final tablesDB = TablesDB(client);
@@ -205,11 +205,11 @@ final row = await tablesDB.decrementRowColumn(
 );
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let tablesDB = TablesDB(client)
@@ -223,11 +223,11 @@ let row = try await tablesDB.decrementRowColumn(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.TablesDB
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
 
 val client = Client(applicationContext)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val tablesDB = TablesDB(client)
@@ -241,10 +241,10 @@ val row = tablesDB.decrementRowColumn(
 )
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('<API_KEY>'); // Your secret API key
 
@@ -259,11 +259,11 @@ const result = await tablesDB.decrementRowColumn({
 });
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
 client.set_project('<PROJECT_ID>') # Your project ID
 client.set_key('<API_KEY>') # Your secret API key
 
@@ -761,3 +761,4 @@ tablesDB.incrementRowColumn(
 - [Permissions](/docs/products/databases/permissions) - Control access to rows
 - [Queries](/docs/products/databases/queries) - Find rows to update
 - [Relationships](/docs/products/databases/relationships) - Update related rows
+

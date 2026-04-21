@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Add routing 
-description: Add routing to your React Native applicating using Appwrite.
+description: Add routing to your React Native applicating using Clikkle.
 step: 5
 ---
 In this step, you'll add some basic routing to your app. 
@@ -104,3 +104,4 @@ Run the app using the following command.
 ```sh
 npm run start
 ```
+

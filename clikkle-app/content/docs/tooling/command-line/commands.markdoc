@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Commands
-description: Learn about Appwrites CLI and the powerful, feature complete commands to manage Appwrite's auth, databases, functions, storage, and more.
+description: Learn about Clikkles CLI and the powerful, feature complete commands to manage Clikkle's auth, databases, functions, storage, and more.
 ---
 
 {% info title="CLI Version" %}
@@ -9,17 +9,17 @@ All commands are compatible with the latest version of the CLI. We recommend run
 {% /info %}
 
 
-Other than commands to create and push databases, tables, functions, messaging-topics, teams, and buckets, the Appwrite CLI can be used as a Server SDK as well. The Appwrite CLI has a command for every Server API endpoint.
+Other than commands to create and push databases, tables, functions, messaging-topics, teams, and buckets, the Clikkle CLI can be used as a Server SDK as well. The Clikkle CLI has a command for every Server API endpoint.
 
 Commands generally follow the following syntax:
 
 ```sh
-appwrite [COMMAND] [OPTIONS]
+clikkle [COMMAND] [OPTIONS]
 ```
 
 # Commands {% #commands %}
 
-Below is a list of the available commands in the Appwrite CLI. You can get more information on each command by running `appwrite [COMMAND] --help`.
+Below is a list of the available commands in the Clikkle CLI. You can get more information on each command by running `clikkle [COMMAND] --help`.
 
 ## General commands {% #general-commands %}
 
@@ -34,10 +34,10 @@ Below is a list of the available commands in the Appwrite CLI. You can get more 
 * The locale command allows you to customize your app based on your users' location.
 ---
 * `graphql`
-* The graphql command allows you to query and mutate any resource type on your Appwrite server.
+* The graphql command allows you to query and mutate any resource type on your Clikkle server.
 ---
 * `types [options] <output-directory>`
-* The types command generates type definitions based on your Appwrite database schema. Learn more about [type generation](/docs/products/databases/type-generation).
+* The types command generates type definitions based on your Clikkle database schema. Learn more about [type generation](/docs/products/databases/type-generation).
 ---
 * `generate`
 * The generate command creates a type-safe SDK tailored to your project. It detects your project's language and generates typed helpers based on your database schema. Learn more about [SDK generation](/docs/tooling/command-line/generate).
@@ -51,13 +51,13 @@ Below is a list of the available commands in the Appwrite CLI. You can get more 
 * Description
 ---
 * `login [options]`
-* The login command allows you to authenticate into the CLI. This command expects the console account that you use to log into the Appwrite Console.
+* The login command allows you to authenticate into the CLI. This command expects the console account that you use to log into the Clikkle Console.
 ---
 * `logout`
-* The logout command allows you to log out of your Appwrite account.
+* The logout command allows you to log out of your Clikkle account.
 ---
 * `register`
-* Prints link to register an Appwrite account.
+* Prints link to register an Clikkle account.
 ---
 * `whoami`
 * The whomai command gives information about the currently logged-in user.
@@ -71,10 +71,10 @@ Below is a list of the available commands in the Appwrite CLI. You can get more 
 * Description
 ---
 * `init [options]`
-* The init command provides a convenient wrapper for creating and initializing projects, functions, tables, buckets, teams, and messaging-topics in Appwrite.
+* The init command provides a convenient wrapper for creating and initializing projects, functions, tables, buckets, teams, and messaging-topics in Clikkle.
 ---
 * `pull`
-* The pull command helps you pull your Appwrite project, functions, tables, buckets, teams, and messaging-topics.
+* The pull command helps you pull your Clikkle project, functions, tables, buckets, teams, and messaging-topics.
 ---
 * `push`
 * The push command provides a convenient wrapper for pushing your functions, tables, buckets, teams, and topics.
@@ -84,7 +84,7 @@ Below is a list of the available commands in the Appwrite CLI. You can get more 
 ---
 {% /table %}
 
-## Project commands {% #appwrite-project-commands %}
+## Project commands {% #clikkle-project-commands %}
 
 {% table %}
 
@@ -104,7 +104,7 @@ Below is a list of the available commands in the Appwrite CLI. You can get more 
 * The databases command allows you to create structured tables of rows and query and filter lists of rows.
 ---
 * `functions`
-* The functions command allows you to view, create, and manage your Appwrite Functions.
+* The functions command allows you to view, create, and manage your Clikkle Functions.
 ---
 * `messaging`
 * The messaging command allows you to send, create, edit, and delete messages.
@@ -154,42 +154,42 @@ Below is a list of the available commands in the Appwrite CLI. You can get more 
 In case of errors with any command, you can get more information about what went wrong using the `--verbose` flag
 
 ```sh
-appwrite users list --verbose
+clikkle users list --verbose
 ```
 
 # JSON {% #json %}
 By default, output is rendered in a tabular format. To format the output as JSON, use the `--json` flag.
 
 ```sh
-appwrite users list --json
+clikkle users list --json
 ```
 
 # Force {% #force %}
-By default, when pushing or pulling resources, the Appwrite CLI will ask you to confirm destructive operations. Use the `--force` flag to verify all questions.
+By default, when pushing or pulling resources, the Clikkle CLI will ask you to confirm destructive operations. Use the `--force` flag to verify all questions.
 
 ```sh
-appwrite push tables --force
+clikkle push tables --force
 ```
 
 # All {% #all %}
-By default, when pushing or pulling resources, Appwrite CLI would ask you to select specific resources. Use the `--all` flag to select all available options.
+By default, when pushing or pulling resources, Clikkle CLI would ask you to select specific resources. Use the `--all` flag to select all available options.
 
 ```sh
-appwrite pull functions --all
+clikkle pull functions --all
 ```
 
 # Error reporting {% #report %}
 If you encounter errors with any command, you can use the --report flag to generate a GitHub reporting link.
 
 ```sh
-appwrite login --report
+clikkle login --report
 ```
 
 # View on console {% #console-flow %}
 Many resources support the option to view them in the console. Use the `--console` flag to get a direct link to the console, and add the optional `--open` flag to automatically open it in the default browser.
 
 ```sh
-appwrite databases get-row \
+clikkle databases get-row \
   --database-id "<DATABASE_ID>" \
   --table-id "<TABLE_ID>" \
   --row-id "<ROW_ID>" \
@@ -203,8 +203,8 @@ appwrite databases get-row \
 To create a new user in your project, you can use the create command.
 
 ```sh
-appwrite users create --user-id "unique()" \
-    --email hello@appwrite.io \
+clikkle users create --user-id "unique()" \
+    --email hello@clikkle.io \
     --password very_strong_password
 ```
 
@@ -213,7 +213,7 @@ appwrite users create --user-id "unique()" \
 To get a list of all your project users, you can use the list command.
 
 ```sh
-appwrite users list
+clikkle users list
 ```
 
 ## List tables {% #list-tables %}
@@ -221,13 +221,13 @@ appwrite users list
 To get a list of all your [tables](/docs/tooling/command-line/tables), you can use the `list-tables` command.
 
 ```sh
-appwrite databases list-tables --database-id "<DATABASE_ID>"
+clikkle databases list-tables --database-id "<DATABASE_ID>"
 ```
 
 If you wish to parse the output from the CLI, you can request the CLI output in JSON format using the `--json` flag
 
 ```sh
-appwrite databases list-tables --database-id "<DATABASE_ID>" --json
+clikkle databases list-tables --database-id "<DATABASE_ID>" --json
 ```
 
 ## Get table {% #get-table %}
@@ -235,7 +235,7 @@ appwrite databases list-tables --database-id "<DATABASE_ID>" --json
 To get more information on a particular table, you can make use of the `get-table` command and pass in the table-id.
 
 ```sh
-appwrite databases get-table --database-id "<DATABASE_ID>" --table-id "<TABLE_ID>"
+clikkle databases get-table --database-id "<DATABASE_ID>" --table-id "<TABLE_ID>"
 ```
 
 ## Create row {% #create-row %}
@@ -243,8 +243,9 @@ appwrite databases get-table --database-id "<DATABASE_ID>" --table-id "<TABLE_ID
 To create a new row in an existing table, use the `create-row` command.
 
 ```sh
-appwrite databases create-row \
+clikkle databases create-row \
     --database-id "<DATABASE_ID>" --table-id "<TABLE_ID>" \
     --row-id 'unique()' --data '{ "Name": "Iron Man" }' \
     --permissions 'read("any")' 'write("team:abc")' 
 ```
+

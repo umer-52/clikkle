@@ -1,16 +1,16 @@
----
+﻿---
 layout: article
 title: Message templates
 description: Communicate using your brand and voice by customizing email and SMS message templates, localized to your user's language.
 ---
 
-Appwrite uses emails to communicate with users to perform authentication and verification actions. Emails can be customized to fit your app's design and voice.
+Clikkle uses emails to communicate with users to perform authentication and verification actions. Emails can be customized to fit your app's design and voice.
 
-Each Appwrite project can have its own set of unique templates. Templates also support localization, so every template can be written in multiple languages and served depending on the configured locale.
+Each Clikkle project can have its own set of unique templates. Templates also support localization, so every template can be written in multiple languages and served depending on the configured locale.
 
 # Custom SMTP server {% #smtp %}
 
-Appwrite Cloud has a default SMTP server to get you started. This SMTP server sends generic emails and doesn't allow customizing SMTP templates. To use custom SMTP templates, you will need to configure your own SMTP server.
+Clikkle Cloud has a default SMTP server to get you started. This SMTP server sends generic emails and doesn't allow customizing SMTP templates. To use custom SMTP templates, you will need to configure your own SMTP server.
 
 There are many third-party SMTP providers like SendGrid and Mailgun. Before proceeding, pick an SMTP provider, create an account, and obtain **Sender name**, **Sender email**, **Server host**, **Server port**, **Username**, and **Password**.
 
@@ -22,7 +22,7 @@ There are many third-party SMTP providers like SendGrid and Mailgun. Before proc
 
 # Customize templates {% #customize %}
 
-You can customize email templates for each of your projects in the Appwrite Console.
+You can customize email templates for each of your projects in the Clikkle Console.
 
 {% info title="Custom SMTP server required" %}
 The built-in email service does not support custom email templates to prevent malicious templates.
@@ -117,20 +117,20 @@ Here's an example of using these variables in a template.
 
 Each template can have multiple supported locales, displayed in different format and language. This can be configured under the **Template language** selector of each template.
 
-You can send messages in different languages by setting the locale with `client.setLocale()` in the SDKs or the `X-Appwrite-Locale` HTTP header. [View here the list of available locales](https://github.com/appwrite/appwrite/blob/master/app/config/locale/codes.php).
+You can send messages in different languages by setting the locale with `client.setLocale()` in the SDKs or the `X-Clikkle-Locale` HTTP header. [View here the list of available locales](https://github.com/clikkle/clikkle/blob/master/app/config/locale/codes.php).
 
 For example, you can send an email verification in French.
 
 {% multicode %}
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client();
 
 const account = new Account(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setLocale('fr')                             // Your locale
 ;
@@ -147,14 +147,14 @@ promise.then(function (response) {
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() { // Init SDK
   Client client = Client();
   Account account = Account(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')                 // Your project ID
     .setLocale('fr')                             // Your locale
   ;
@@ -170,11 +170,11 @@ void main() { // Init SDK
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setLocale('fr')                             // Your locale
 
@@ -184,10 +184,10 @@ val response = account.createVerification('https://example.com')
 ```
 
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
     .setLocale('fr')                             // Your locale
 
@@ -196,3 +196,4 @@ let account = Account(client)
 let token = try await account.createVerification('https://example.com')
 ```
 {% /multicode %}
+

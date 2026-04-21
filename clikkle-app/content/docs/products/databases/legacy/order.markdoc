@@ -1,10 +1,10 @@
----
+﻿---
 layout: article
 title: Order
-description: Understand how to do data ordering in Appwrite Databases. Learn how to order and sort your database records for efficient data retrieval."
+description: Understand how to do data ordering in Clikkle Databases. Learn how to order and sort your database records for efficient data retrieval."
 ---
 
-You can order results returned by Appwrite Databases by using an order query.
+You can order results returned by Clikkle Databases by using an order query.
 For best performance, create an [index](/docs/products/databases/legacy/collections#indexes) on the column you plan to order by.
 
 # Ordering one column {% #one-column %}
@@ -14,10 +14,10 @@ you can specify the order of the documents returned using the `Query.orderAsc()`
 
 {% multicode %}
 ```client-web
-import { Client, Databases, Query } from "appwrite";
+import { Client, Databases, Query } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const databases = new Databases(client);
@@ -32,11 +32,11 @@ databases.listDocuments(
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
     final client = Client()
-        .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
         .setProject('<PROJECT_ID>');
 
     final databases = Databases(client);
@@ -49,19 +49,19 @@ void main() async {
                 Query.orderAsc('title')
             ]
         );
-    } on AppwriteException catch(e) {
+    } on ClikkleException catch(e) {
         print(e);
     }
 }
 ```
 
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
     let client = Client()
-        .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
         .setProject('<PROJECT_ID>');
 
     let databases = Databases(client)
@@ -80,13 +80,13 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.Query
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.Databases
 
 suspend fun main() {
     val client = Client(applicationContext)
-        .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
         .setProject('<PROJECT_ID>');
 
     val databases = Databases(client)
@@ -99,8 +99,8 @@ suspend fun main() {
                 Query.orderAsc("title")
             ]
         )
-    } catch (e: AppwriteException) {
-        Log.e("Appwrite", e.message)
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", e.message)
     }
 }
 ```
@@ -158,7 +158,7 @@ try {
             Query.orderDesc('year')  // Order by year in descending order
         ]
     );
-} on AppwriteException catch(e) {
+} on ClikkleException catch(e) {
     print(e);
 }
 ```
@@ -176,8 +176,8 @@ try {
             Query.orderDesc("year")  // Order by year in descending order
         ]
     );
-} catch (e: AppwriteException) {
-    Log.e("Appwrite", e.message);
+} catch (e: ClikkleException) {
+    Log.e("Clikkle", e.message);
 }
 ```
 ```swift
@@ -217,14 +217,14 @@ query {
 
 # Ordering by sequence {% #sequence-ordering %}
 
-For numeric ordering based on insertion order, you can use the `$sequence` field, which Appwrite automatically adds to all documents. This field increments with each new insert.
+For numeric ordering based on insertion order, you can use the `$sequence` field, which Clikkle automatically adds to all documents. This field increments with each new insert.
 
 {% multicode %}
 ```client-web
-import { Client, Databases, Query } from "appwrite";
+import { Client, Databases, Query } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const databases = new Databases(client);
@@ -239,11 +239,11 @@ databases.listDocuments(
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
     final client = Client()
-        .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
         .setProject('<PROJECT_ID>');
 
     final databases = Databases(client);
@@ -256,19 +256,19 @@ void main() async {
                 Query.orderAsc('\$sequence')
             ]
         );
-    } on AppwriteException catch(e) {
+    } on ClikkleException catch(e) {
         print(e);
     }
 }
 ```
 
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
     let client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     let databases = Databases(client)
@@ -288,13 +288,13 @@ func main() async throws {
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.Query
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.Databases
 
 suspend fun main() {
     val client = Client(applicationContext)
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     val databases = Databases(client)
@@ -307,8 +307,8 @@ suspend fun main() {
                 Query.orderAsc("\$sequence")
             )
         )
-    } catch (e: AppwriteException) {
-        Log.e("Appwrite", e.message)
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", e.message)
     }
 }
 ```
@@ -334,3 +334,4 @@ The `$sequence` field is useful when you need:
 - Consistent ordering for pagination, especially with high-frequency inserts
 - Reliable insertion order tracking when timestamps might not be precise enough
 - Simple numeric ordering without managing custom counter fields
+

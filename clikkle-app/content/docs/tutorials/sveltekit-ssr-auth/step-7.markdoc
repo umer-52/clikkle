@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: OAuth authentication with SSR
-description: Add authentication to a SvelteKit project using Appwrite.
+description: Add authentication to a SvelteKit project using Clikkle.
 step: 7
 ---
 
@@ -24,9 +24,9 @@ Add a new server route to handle the redirect.
 ```js
 // src/routes/signup/+page.server.js
 
-import { SESSION_COOKIE, createAdminClient, createSessionClient } from "$lib/server/appwrite.js";
+import { SESSION_COOKIE, createAdminClient, createSessionClient } from "$lib/server/clikkle.js";
 import { redirect } from "@sveltejs/kit";
-import { ID, OAuthProvider } from "node-appwrite";
+import { ID, OAuthProvider } from "node-clikkle";
 
 export const actions = {
   // ... existing email sign up action
@@ -52,7 +52,7 @@ Handle the callback and create a session for the user. Create a new server route
 ```js
 // src/routes/oauth/+server.js
 
-import { SESSION_COOKIE, createAdminClient } from "$lib/server/appwrite";
+import { SESSION_COOKIE, createAdminClient } from "$lib/server/clikkle";
 
 export async function GET(event) {
   // We should have a `userId` and `secret` query parameters in the URL
@@ -86,3 +86,4 @@ export async function GET(event) {
   return new Response(null, { status: 302, headers });
 }
 ```
+

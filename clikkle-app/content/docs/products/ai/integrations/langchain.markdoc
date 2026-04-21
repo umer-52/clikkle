@@ -1,21 +1,21 @@
 ---
 layout: article
 title: Integrating LangChain
-description: Learn how to integrate LangChain into your Appwrite project.
+description: Learn how to integrate LangChain into your Clikkle project.
 difficulty: intermediate
 readtime: 15
 ---
 
 # Prerequisites {% #prerequisites %}
 
-- An Appwrite project
-- An Appwrite table
+- An Clikkle project
+- An Clikkle table
 - An [OpenAI API key](https://platform.openai.com/account/api-keys)
 - A [Pinecone API key](https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key)
 - A Pinecone index
 
 {% section #step-1 step=1 title="Create new function" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console) then click on **Functions** in the left sidebar and then click on the **Create Function** button.
+Head to the [Clikkle Console](https://cloud.clikkle.io/console) then click on **Functions** in the left sidebar and then click on the **Create Function** button.
 
 {% only_dark %}
 ![Create function screen](/clikkle/images/docs/functions/dark/template.png)
@@ -25,11 +25,11 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console) then click on 
 ![Create function screen](/clikkle/images/docs/functions/template.png)
 {% /only_light %}
 
-1. In the Appwrite Console's sidebar, click **Functions**.
+1. In the Clikkle Console's sidebar, click **Functions**.
 1. Click **Create function**.
 1. Under **Connect Git repository**, select your provider.
 1. After connecting to GitHub, under **Quick start**, select the **Node.js** starter template.
-1. In the **Variables** step, add the `PINECONE_API_KEY`, generate it [here](https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key). Add the `OPENAI_API_KEY`, generate it [here](https://platform.openai.com/account/api-keys).For the `APPWRITE_API_KEY`, tick the box to **Generate API key on completion**.
+1. In the **Variables** step, add the `PINECONE_API_KEY`, generate it [here](https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key). Add the `OPENAI_API_KEY`, generate it [here](https://platform.openai.com/account/api-keys).For the `CLIKKLE_API_KEY`, tick the box to **Generate API key on completion**.
 1. Follow the step-by-step wizard and create the function.
 {% /section %}
 
@@ -47,7 +47,7 @@ npm install @pinecone-database/pinecone openai @langchain/core @langchain/openai
 For this example, the function will be able to take both `GET` and `POST` requests.
 
 For the `GET` request, return a static HTML page that will have a form to search the Pinecone index. Meanwhile the `POST /search` requests will send the search query to the Pinecone API and return the results.
-All other `POST` requests will trigger the indexing of the Appwrite table into the Pinecone index.
+All other `POST` requests will trigger the indexing of the Clikkle table into the Pinecone index.
 
 Write the code to return the static HTML page, to do this create a new `src/utils.js` file with the following code:
 
@@ -104,8 +104,8 @@ Within the `<html>` tag, Add a `<head>` tag that will define the style and scrip
     <script src="https://unpkg.com/meilisearch@0.34.1"></script>
     <script src="https://unpkg.com/alpinejs" defer></script>
 
-    <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink" />
-    <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink-icons" />
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
 </head>
   
 ```
@@ -127,7 +127,7 @@ And after the `</head>` tag add this `<body>` which will contain the actual form
             class="body-text-1 u-normal u-margin-block-start-8"
             style="max-width: 50rem"
             >
-            Use this demo to verify that the sync between Appwrite Databases and
+            Use this demo to verify that the sync between Clikkle Databases and
             Pinecone was successful. Search your Pinecone vector database using
             the input below.
             </p>
@@ -252,20 +252,20 @@ This code will handle the prompt requests by creating a LangChain sequence that 
 {% /section %}
 
 {% section #step-8 step=8 title="Handle index requests" %}
-The Appwrite table needs to be indexed into the Pinecone index. Create a new file at `src/appwrite.js` with the following code:
+The Clikkle table needs to be indexed into the Pinecone index. Create a new file at `src/clikkle.js` with the following code:
 
 ```js
-import { Client, TablesDB, Query } from 'node-appwrite';
+import { Client, TablesDB, Query } from 'node-clikkle';
 
-export default class AppwriteService {
+export default class ClikkleService {
   constructor() {
     const client = new Client();
     client
       .setEndpoint(
-        process.env.APPWRITE_ENDPOINT ?? 'https://<REGION>.cloud.appwrite.io/v1'
+        process.env.CLIKKLE_ENDPOINT ?? 'https://<REGION>.cloud.clikkle.io/v1'
       )
-      .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
-      .setKey(process.env.APPWRITE_API_KEY);
+      .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+      .setKey(process.env.CLIKKLE_API_KEY);
 
     this.tablesDB = new TablesDB(client);
   }
@@ -304,14 +304,14 @@ export default class AppwriteService {
 The service provides a method to iterate the rows contained within an entire table, fetching the limit of 100 rows per request.
 
 ```js
-const appwrite = new AppwriteService();
+const clikkle = new ClikkleService();
 
-const appwriteRows = await appwrite.getAllRows(
-  process.env.APPWRITE_DATABASE_ID,
-  process.env.APPWRITE_TABLE_ID
+const clikkleRows = await clikkle.getAllRows(
+  process.env.CLIKKLE_DATABASE_ID,
+  process.env.CLIKKLE_TABLE_ID
 );
 
-const rows = appwriteRows.map(
+const rows = clikkleRows.map(
   (row) =>
     new Row({
       metadata: { id: row.$id },
@@ -336,3 +336,4 @@ Within our function handler, the service is instantiated and used to create an a
 Now that the function is deployed, test it by visiting the function URL in your browser.
 This should show the UI created earlier and to test it, write a prompt and click the submit button. After a brief moment you should see the matched results.
 {% /section %}
+

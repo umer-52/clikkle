@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create ideas page
-description: Add pagining and ordering to you SvelteKit application powered by Appwrite Databases.
+description: Add pagining and ordering to you SvelteKit application powered by Clikkle Databases.
 step: 7
 ---
 
@@ -119,3 +119,4 @@ Simple as that! Now, let's create the page itself. Replace the contents in `src/
 ```
 
 With this you have successfully created an Ideas Tracker! You can now submit ideas and view them.
+

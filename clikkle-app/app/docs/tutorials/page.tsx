@@ -1,14 +1,15 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getTutorialCategories } from "@/lib/tutorials-index";
 import { getTutorialIconClass } from "@/lib/docs-icons";
 
-export const metadata = {
-  title: "Tutorials - Docs - Appwrite",
+export const metadata: Metadata = {
+  title: "Tutorials - Docs - Clikkle",
   description:
-    "Follow a simple tutorial to get started with Appwrite in your preferred framework quickly and easily.",
+    "Follow a simple tutorial to get started with Clikkle in your preferred framework quickly and easily.",
 };
 
-/** Appwrite `src/routes/docs/tutorials/+page.svelte` */
+/** Clikkle `src/routes/docs/tutorials/+page.svelte` */
 export default function TutorialsPage() {
   const tutorials = getTutorialCategories();
 

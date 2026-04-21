@@ -1,13 +1,13 @@
 ---
 layout: tutorial
-title: Set up Appwrite
-description: Import and initialize Appwrite for your react application.
+title: Set up Clikkle
+description: Import and initialize Clikkle for your react application.
 step: 3
 ---
 
 ## Create project {% #create-project %}
 
-Head to the [Appwrite Console](https://cloud.appwrite.io/console).
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
@@ -16,7 +16,7 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console).
 ![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
 {% /only_light %}
 
-If this is your first time using Appwrite, create an account and create your first project.
+If this is your first time using Clikkle, create an account and create your first project.
 
 Then, under **Add a platform**, add a **Web app**. The **Hostname** should be localhost. 
 
@@ -29,9 +29,9 @@ Then, under **Add a platform**, add a **Web app**. The **Hostname** should be lo
 
 You can skip optional steps.
 
-## Initialize Appwrite SDK {% #init-sdk %}
+## Initialize Clikkle SDK {% #init-sdk %}
 
-To use Appwrite in our Refine app, we'll need to find our project ID. Find your project's ID in the **Settings** page. 
+To use Clikkle in our Refine app, we'll need to find our project ID. Find your project's ID in the **Settings** page. 
 
 {% only_dark %}
 ![Project settings screen](/clikkle/images/docs/quick-starts/dark/project-id.png)
@@ -40,21 +40,22 @@ To use Appwrite in our Refine app, we'll need to find our project ID. Find your 
 ![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
 {% /only_light %}
 
-Navigate to `src/utility/appwriteClient.ts` and add your API credentials.
+Navigate to `src/utility/clikkleClient.ts` and add your API credentials.
 
 
 ```ts
-import { Account, Appwrite, Storage } from "@refinedev/appwrite";
+import { Account, Clikkle, Storage } from "@refinedev/clikkle";
 
-const APPWRITE_URL = '<YOUR_API_ENDPOINT>'; // Replace with your Appwrite API Endpoint
-const APPWRITE_PROJECT = "<PROJECT_ID>"; // Replace with your project ID
+const CLIKKLE_URL = '<YOUR_API_ENDPOINT>'; // Replace with your Clikkle API Endpoint
+const CLIKKLE_PROJECT = "<PROJECT_ID>"; // Replace with your project ID
 
-const appwriteClient = new Appwrite();
+const clikkleClient = new Clikkle();
 
-appwriteClient.setEndpoint(APPWRITE_URL).setProject(APPWRITE_PROJECT);
-const account = new Account(appwriteClient);
-const storage = new Storage(appwriteClient);
+clikkleClient.setEndpoint(CLIKKLE_URL).setProject(CLIKKLE_PROJECT);
+const account = new Account(clikkleClient);
+const storage = new Storage(clikkleClient);
 
-export { account, appwriteClient, storage };
+export { account, clikkleClient, storage };
 
 ```
+

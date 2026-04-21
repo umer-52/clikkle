@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create app
-description: Create a SvelteKit app project using Appwrite.
+description: Create a SvelteKit app project using Clikkle.
 step: 2
 ---
 
@@ -17,10 +17,10 @@ npm install
 
 ## Add dependencies {% #add-dependencies %}
 
-Install the JavaScript Appwrite SDK.
+Install the JavaScript Clikkle SDK.
 
 ```sh
-npm install appwrite
+npm install clikkle
 ```
 
 You can start the development server to watch your app update in the browser as you make changes.
@@ -30,3 +30,4 @@ npm run dev
 ```
 
 Your app should be available at [http://localhost:5173](http://localhost:5173).
+

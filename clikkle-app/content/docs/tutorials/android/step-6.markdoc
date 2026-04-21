@@ -1,4 +1,4 @@
----
+﻿---
 layout: tutorial
 title: Add database
 description: Add databases and queries to store user data in you Android application.
@@ -7,7 +7,7 @@ step: 6
 
 # Create table {% #create-table %}
 
-In Appwrite, data is stored as a table of rows. Create a table in the [Appwrite Console](https://cloud.appwrite.io/) to store our ideas.
+In Clikkle, data is stored as a table of rows. Create a table in the [Clikkle Console](https://cloud.clikkle.io/) to store our ideas.
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/tutorials/dark/idea-tracker-table.png)
@@ -43,11 +43,11 @@ Create a new file `services/IdeasService.kt` and add the following code to it. R
 ```kotlin
 package <YOUR_ROOT_PACKAGE_HERE>.services
 
-import io.appwrite.Client
-import io.appwrite.ID
-import io.appwrite.Query
-import io.appwrite.models.Row
-import io.appwrite.services.TablesDB
+import io.clikkle.Client
+import io.clikkle.ID
+import io.clikkle.Query
+import io.clikkle.models.Row
+import io.clikkle.services.TablesDB
 
 class IdeaService(client: Client) {
     companion object {
@@ -92,18 +92,18 @@ class IdeaService(client: Client) {
 }
 ```
 
-Update the `services/Appwrite.kt` file to add a new property for the `IdeaService` class.
+Update the `services/Clikkle.kt` file to add a new property for the `IdeaService` class.
 
 Look for `// Add this line 👇` to find where the changes made here.
 
 ```kotlin
-package io.appwrite.tutorialforandroid.services
+package io.clikkle.tutorialforandroid.services
 
 import android.content.Context
-import io.appwrite.Client
+import io.clikkle.Client
 
-object Appwrite {
-    private const val ENDPOINT = "https://<REGION>.cloud.appwrite.io/v1"
+object Clikkle {
+    private const val ENDPOINT = "https://<REGION>.cloud.clikkle.io/v1"
     private const val PROJECT_ID = "<PROJECT_ID>"
 
     private lateinit var client: Client
@@ -123,3 +123,4 @@ object Appwrite {
     }
 }
 ```
+

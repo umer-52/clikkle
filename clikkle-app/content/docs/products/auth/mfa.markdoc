@@ -1,30 +1,30 @@
----
+﻿---
 layout: article
 title: Multi-factor authentication
-description: Add multiple layers of authentication to your applications powered by Appwrite Authentication.
+description: Add multiple layers of authentication to your applications powered by Clikkle Authentication.
 ---
 
 Multi-factor authentication (MFA) greatly increases the security of your apps by adding additional layers of protection.
 When MFA is enabled, a malicious actor needs to compromise multiple authentication factors to gain unauthorized access.
-Appwrite Authentication lets you easily implement MFA in your apps, letting you build more securely and quickly.
+Clikkle Authentication lets you easily implement MFA in your apps, letting you build more securely and quickly.
 
 {% info title="Looking for MFA on your Console account?" %}
 This page covers MFA for your app's end-users.
-If you are looking for MFA on your Appwrite Console account, please refer to the [Console MFA page](/docs/advanced/security/mfa).
+If you are looking for MFA on your Clikkle Console account, please refer to the [Console MFA page](/docs/advanced/security/mfa).
 {% /info %}
 
-Appwrite currently allows two factors of authentication. More factors of authentication will be available soon.
+Clikkle currently allows two factors of authentication. More factors of authentication will be available soon.
 
 Here are the steps to implement MFA in your application.
 
 {% section #display-recover-code step=1 title="Display recovery codes" %}
 
-Initialize your Appwrite SDK's `Client`, `Account`, and `Avatars`.
+Initialize your Clikkle SDK's `Client`, `Account`, and `Avatars`.
 You'll use Avatars API to generate a QR code for the TOTP authenticator app, you can skip this import if you're not using TOTP.
 
 {% multicode %}
 ```client-web
-import { Client, Account, Avatars } from "appwrite";
+import { Client, Account, Avatars } from "clikkle";
 
 const client = new Client();
 
@@ -32,13 +32,13 @@ const account = new Account(client);
 const avatars = new Avatars(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
 ;
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() { // Init SDK
   Client client = Client();
@@ -46,17 +46,17 @@ void main() { // Init SDK
   Avatars avatars = Avatars(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>')             // Your project ID
   ;
 }
 ```
 
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 let account = Account(client)
@@ -64,11 +64,11 @@ let avatars = Avatars(client)
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 val account = Account(client)
@@ -130,7 +130,7 @@ account.createMfaRecoveryCodes(new CoroutineCallback<>((result, error) -> {
         return;
     }
 
-    Log.d("Appwrite", result.recoveryCodes.toString());
+    Log.d("Clikkle", result.recoveryCodes.toString());
 }));
 ```
 {% /multicode %}
@@ -184,7 +184,7 @@ account.updateEmail(
             return;
         }
 
-        Log.d("Appwrite", result.toString());
+        Log.d("Clikkle", result.toString());
     })
 );
 ```
@@ -231,7 +231,7 @@ account.createVerification(
             return;
         }
 
-        Log.d("Appwrite", result.toString());
+        Log.d("Clikkle", result.toString());
     })
 );
 ```
@@ -283,7 +283,7 @@ account.updateVerification(
             return;
         }
 
-        Log.d("Appwrite", result.toString());
+        Log.d("Clikkle", result.toString());
     })
 );
 ```
@@ -335,7 +335,7 @@ account.updatePhone(
             return;
         }
 
-        Log.d("Appwrite", result.toString());
+        Log.d("Clikkle", result.toString());
     })
 );
 ```
@@ -369,7 +369,7 @@ account.createPhoneVerification(new CoroutineCallback<>((result, error) -> {
         return;
     }
 
-    Log.d("Appwrite", result.toString());
+    Log.d("Clikkle", result.toString());
 }));
 ```
 {% /multicode %}
@@ -416,7 +416,7 @@ account.updatePhoneVerification(
             return;
         }
 
-        Log.d("Appwrite", result.toString());
+        Log.d("Clikkle", result.toString());
     })
 );
 ```
@@ -468,7 +468,7 @@ account.createMfaAuthenticator(
             return;
         }
 
-        Log.d("Appwrite", result.toString());
+        Log.d("Clikkle", result.toString());
     })
 );
 ```
@@ -549,7 +549,7 @@ avatars.getQR(
             return;
         }
 
-        Log.d("Appwrite", result.toString());
+        Log.d("Clikkle", result.toString());
     })
 );
 ```
@@ -601,7 +601,7 @@ account.updateMfaAuthenticator(
             return;
         }
 
-        Log.d("Appwrite", result.toString());
+        Log.d("Clikkle", result.toString());
     })
 );
 ```
@@ -745,7 +745,7 @@ result.then((response) {
 ```client-apple
 do {
     let response = try await account.get()
-} catch let error as AppwriteException {
+} catch let error as ClikkleException {
     print(error.message)
     if error.type == "user_more_factors_required" {
         // redirect to perform MFA
@@ -759,7 +759,7 @@ do {
 try {
     val response = account.get()
     println(response)
-} catch (error: AppwriteException) {
+} catch (error: ClikkleException) {
     println(error.message)
     if (error.type == "user_more_factors_required") {
         // redirect to perform MFA
@@ -819,7 +819,7 @@ You will need to save the challenge ID to complete the challenge in a later step
 
 {% tabs %}
 {% tabsitem #email title="Email" %}
-Appwrite will use a verified email on the user's account to send the challenge code via email.
+Clikkle will use a verified email on the user's account to send the challenge code via email.
 Note that this is only valid as a second factor if the user did not initialize their login with email OTP.
 
 {% multicode %}
@@ -865,7 +865,7 @@ val challengeId = response.id
 {% /tabsitem %}
 
 {% tabsitem #phone title="Phone" %}
-Appwrite will use a verified phone number on the user's account to send the challenge code via SMS.
+Clikkle will use a verified phone number on the user's account to send the challenge code via SMS.
 You cannot use this method if the user initialized their login with phone OTP.
 
 {% multicode %}
@@ -959,7 +959,7 @@ val challengeId = response.id
 {% /section %}
 
 {% section #complete-challenge step=8 title="Complete challenge" %}
-Once the user receives the challenge code, you can pass the code back to Appwrite to complete the challenge.
+Once the user receives the challenge code, you can pass the code back to Clikkle to complete the challenge.
 
 {% multicode %}
 ```client-web
@@ -1084,3 +1084,4 @@ let result = try await account.updateMfaChallenge(
 ```
 {% /multicode %}
 {% /section %}
+

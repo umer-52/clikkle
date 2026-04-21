@@ -1,29 +1,29 @@
----
+﻿---
 layout: article
-title: MCP server for Appwrite API
-description: Enable LLMs and code-generation tools to interact with the Appwrite API
+title: MCP server for Clikkle API
+description: Enable LLMs and code-generation tools to interact with the Clikkle API
 ---
 
-The MCP server for Appwrite API allows LLMs and code-generation tools to interact with the Appwrite platform and perform various operations on your Appwrite resources, such as creating users, managing databases, and more, using natural language commands.
+The MCP server for Clikkle API allows LLMs and code-generation tools to interact with the Clikkle platform and perform various operations on your Clikkle resources, such as creating users, managing databases, and more, using natural language commands.
 
 Here are some of the key benefits of using the MCP server:
 
-- **Direct API interaction**: Enables LLMs to perform actions directly on your Appwrite project
-- **Real-time data access**: Allows LLMs to fetch and manipulate live data from your Appwrite instance
+- **Direct API interaction**: Enables LLMs to perform actions directly on your Clikkle project
+- **Real-time data access**: Allows LLMs to fetch and manipulate live data from your Clikkle instance
 - **Simplified workflows**: Facilitates complex operations through simple natural language prompts
-- **Customizable tools**: Offers a range of tools for different Appwrite services, which can be enabled as needed
+- **Customizable tools**: Offers a range of tools for different Clikkle services, which can be enabled as needed
 
 # Pre-requisites {% #pre-requisites %}
 
-## Appwrite API key
+## Clikkle API key
 
-Before launching the MCP server, you must [set up an Appwrite project](https://cloud.appwrite.io) and create an **API key** with the necessary scopes enabled.
+Before launching the MCP server, you must [set up an Clikkle project](https://cloud.clikkle.io) and create an **API key** with the necessary scopes enabled.
 
 {% only_light %}
-![Appwrite API key](/clikkle/images/docs/mcp/appwrite/appwrite-api-secret.png)
+![Clikkle API key](/clikkle/images/docs/mcp/clikkle/clikkle-api-secret.png)
 {% /only_light %}
 {% only_dark %}
-![Appwrite API key](/clikkle/images/docs/mcp/appwrite/dark/appwrite-api-secret.png)
+![Clikkle API key](/clikkle/images/docs/mcp/clikkle/dark/clikkle-api-secret.png)
 {% /only_dark %}
 
 Ensure you save the **API key** along with the **project ID**, **region** and **endpoint URL** from the Settings page of your project as you'll need them later.
@@ -62,7 +62,7 @@ uv
 
 ## Command-line arguments
 
-Database tools are enabled by default. In addition you can pass arguments to `uvx mcp-server-appwrite [args]` to enable other MCP tools for various Appwrite APIs.
+Database tools are enabled by default. In addition you can pass arguments to `uvx mcp-server-clikkle [args]` to enable other MCP tools for various Clikkle APIs.
 
 | Argument | Description |
 | --- | --- |
@@ -75,44 +75,45 @@ Database tools are enabled by default. In addition you can pass arguments to `uv
 | `--locale` | Enables the Locale API |
 | `--avatars` | Enables the Avatars API |
 | `--databases` | Enables the legacy Databases API |
-| `--all` | Enables all Appwrite APIs |
+| `--all` | Enables all Clikkle APIs |
 
 {% info title="Enable only necessary MCP tools" %}
 When an MCP tool is enabled, the tool's definition is passed to the LLM, using up tokens from the model's available context window. As a result, the effective context window is reduced. Some IDEs may return errors if too many tools are enabled for the same reason.
 
-The default Appwrite MCP server ships with only the Databases tools (our most commonly used API) enabled to stay within these limits. Additional tools can be enabled using the flags above.
+The default Clikkle MCP server ships with only the Databases tools (our most commonly used API) enabled to stay within these limits. Additional tools can be enabled using the flags above.
 {% /info %}
 
 # Usage {% #usage %}
 
-Once configured, your AI assistant will have access to your Appwrite project. You can ask questions like:
+Once configured, your AI assistant will have access to your Clikkle project. You can ask questions like:
 
 ## Example 1: List users
 
 Run the following prompt in your preferred code editor/LLM after enabling the MCP server: 
 
 ```
-List users in my Appwrite project
+List users in my Clikkle project
 ```
 
-![List users in Appwrite project](/clikkle/images/docs/mcp/claude-desktop/claude-list-users.png)
+![List users in Clikkle project](/clikkle/images/docs/mcp/claude-desktop/claude-list-users.png)
 
 ## Example 2: Search a site
 
 Run the following prompt in your preferred code editor/LLM after enabling the MCP server: 
 
 ```
-Get the details of my portfolio site from Appwrite
+Get the details of my portfolio site from Clikkle
 ```
 
-![Search for portfolio site in Appwrite project](/clikkle/images/docs/mcp/vscode/copilot-chat.png)
+![Search for portfolio site in Clikkle project](/clikkle/images/docs/mcp/vscode/copilot-chat.png)
 
 ## Example 3: Create a user
 
 Run the following prompt in your preferred code editor/LLM after enabling the MCP server: 
 
 ```
-Add a user john.doe@example.com to the Appwrite project
+Add a user john.doe@example.com to the Clikkle project
 ```
 
-![Create user in Appwrite project](/clikkle/images/docs/mcp/cursor/cursor-create-user.png)
+![Create user in Clikkle project](/clikkle/images/docs/mcp/cursor/cursor-create-user.png)
+

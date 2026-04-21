@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Add a server hook
-description: Add authentication to a SvelteKit project using Appwrite.
+description: Add authentication to a SvelteKit project using Clikkle.
 step: 4
 ---
 
@@ -11,11 +11,11 @@ Create a new file in the `src` directory called `hooks.server.js`:
 
 ```js
 // src/hooks.server.js
-import { createSessionClient } from '$lib/server/appwrite';
+import { createSessionClient } from '$lib/server/clikkle';
 
 export async function handle({ event, resolve }) {
   try {
-    // Use our helper function to create the Appwrite client.
+    // Use our helper function to create the Clikkle client.
     const { account } = createSessionClient(event);
     // Store the current logged in user in locals,
     // for easy access in our other routes.
@@ -32,7 +32,7 @@ To ensure the `locals` object is typed correctly, we can add a type definition f
 ```ts
 // env.d.ts
 
-import type { Models } from "node-appwrite";
+import type { Models } from "node-clikkle";
 
 // See https://kit.svelte.dev/docs/types#app
 // for information about these interfaces
@@ -71,3 +71,4 @@ export async function load({ locals }) {
 ```
 
 When a user visits the home page, they will be redirected to the sign up page if they are not logged in, or to the account page if they are logged in.
+

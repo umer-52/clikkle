@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Favicons
 description: Fetch favicons from remote websites for link previews and bookmark displays.
@@ -12,10 +12,10 @@ Retrieve a favicon from a remote website URL.
 
 {% multicode %}
 ```client-web
-import { Client, Avatars } from "appwrite";
+import { Client, Avatars } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -29,10 +29,10 @@ const result = avatars.getFavicon({
 console.log(result); // Resource URL
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final avatars = Avatars(client);
@@ -49,10 +49,10 @@ Future result = avatars.getFavicon(
 });
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let avatars = Avatars(client)
@@ -64,11 +64,11 @@ let byteBuffer = try await avatars.getFavicon(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Avatars
+import io.clikkle.Client
+import io.clikkle.services.Avatars
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val avatars = Avatars(client)
@@ -80,10 +80,10 @@ val result = avatars.getFavicon(
 )
 ```
 ```client-react-native
-import { Client, Avatars } from 'react-native-appwrite';
+import { Client, Avatars } from 'react-native-clikkle';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -212,4 +212,5 @@ Favicons are commonly used for:
 - **Referral tracking**: Display source website icons in analytics and referral reports
 - **Content aggregation**: Show website icons in RSS feed readers and content aggregators
 - **Social media**: Display website icons in social media link previews and embeds
+
 

@@ -1,15 +1,15 @@
----
+﻿---
 layout: article
 title: Start with React
-description: Build React apps with Appwrite and learn how to use our powerful backend to add authentication, user management, file storage, and more.
+description: Build React apps with Clikkle and learn how to use our powerful backend to add authentication, user management, file storage, and more.
 difficulty: beginner
 readtime: 3
 back: /docs/quick-starts
 ---
 
-Learn how to setup your first React project powered by Appwrite.
+Learn how to setup your first React project powered by Clikkle.
 {% section #step-1 step=1 title="Create project" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console).
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
@@ -18,7 +18,7 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console).
 ![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
 {% /only_light %}
 
-If this is your first time using Appwrite, create an account and create your first project.
+If this is your first time using Clikkle, create an account and create your first project.
 
 Then, under **Add a platform**, add a **Web app**. The **Hostname** should be `localhost`.
 
@@ -41,15 +41,15 @@ Create a Vite project.
 npm create vite@latest my-app -- --template react && cd my-app
 ```
 {% /section %}
-{% section #step-3 step=3 title="Install Appwrite" %}
+{% section #step-3 step=3 title="Install Clikkle" %}
 
-Install the JavaScript Appwrite SDK.
+Install the JavaScript Clikkle SDK.
 
 ```sh
-npm install appwrite
+npm install clikkle
 ```
 {% /section %}
-{% section #step-4 step=4 title="Import Appwrite" %}
+{% section #step-4 step=4 title="Import Clikkle" %}
 Find your project's ID in the **Settings** page.
 
 {% only_dark %}
@@ -58,19 +58,19 @@ Find your project's ID in the **Settings** page.
 {% only_light %}
 ![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
 {% /only_light %}
-Create a new file `src/lib/appwrite.js` and add the following code to it, replace `<PROJECT_ID>` with your project ID.
+Create a new file `src/lib/clikkle.js` and add the following code to it, replace `<PROJECT_ID>` with your project ID.
 
 ```client-web
-import { Client, Account} from 'appwrite';
+import { Client, Account} from 'clikkle';
 
 export const client = new Client();
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>'); // Replace with your project ID
 
 export const account = new Account(client);
-export { ID } from 'appwrite';
+export { ID } from 'clikkle';
 ```
 {% /section %}
 {% section #step-5 step=5 title="Create a login page" %}
@@ -78,7 +78,7 @@ Add the following code to `src/App.jsx`.
 
 ```js
 import React, { useState } from 'react';
-import { account, ID } from './lib/appwrite';
+import { account, ID } from './lib/clikkle';
 
 const App = () => {
   const [loggedInUser, setLoggedInUser] = useState(null);
@@ -147,3 +147,4 @@ export default App;
 {% section #step-6 step=6 title="All set" %}
 Run your project with `npm run dev -- --open --port 3000` and open [Localhost on Port 3000](http://localhost:3000) in your browser.
 {% /section %}
+

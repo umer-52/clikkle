@@ -1,23 +1,23 @@
 ---
 layout: article
 title: Integrating LMNT
-description: Learn how to integrate LMNT into your Appwrite project.
+description: Learn how to integrate LMNT into your Clikkle project.
 difficulty: intermediate
 readtime: 15
 ---
 
 LMNT is a text-to-speech tool that can generate natural-sounding audio from text. It's an excellent tool for dubbing content, creating audiobooks, or even for accessibility.
 
-Integrating LMNT into your Appwrite project is simple. This tutorial will guide you through setting up the LMNT API and incorporating it into your Appwrite project.
+Integrating LMNT into your Clikkle project is simple. This tutorial will guide you through setting up the LMNT API and incorporating it into your Clikkle project.
 
 # Prerequisites {% #prerequisites %}
 
-- An Appwrite Project
-- An Appwrite Bucket
+- An Clikkle Project
+- An Clikkle Bucket
 - An [LMNT API Key](https://app.lmnt.com/account)
 
 {% section #step-1 step=1 title="Create new function" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console), click on **Functions** in the left sidebar and click the **Create Function** button.
+Head to the [Clikkle Console](https://cloud.clikkle.io/console), click on **Functions** in the left sidebar and click the **Create Function** button.
 
 {% only_dark %}
 ![Create function screen](/clikkle/images/docs/functions/dark/template.png)
@@ -27,21 +27,21 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console), click on **Fu
 ![Create function screen](/clikkle/images/docs/functions/template.png)
 {% /only_light %}
 
-1. In the Appwrite Console's sidebar, click **Functions**.
+1. In the Clikkle Console's sidebar, click **Functions**.
 2. Click **Create function**.
 3. Under **Connect Git repository**, select your provider.
 4. After connecting to GitHub, under **Quick start**, select the **Node.js** starter template.
-5. In the **Variables** step, add `APPWRITE_BUCKET_ID`, `LMNT_API_KEY`. Generate your LMNT Key [here](https://app.lmnt.com/account). For the `APPWRITE_API_KEY`, tick the box to **Generate API key on completion**.
+5. In the **Variables** step, add `CLIKKLE_BUCKET_ID`, `LMNT_API_KEY`. Generate your LMNT Key [here](https://app.lmnt.com/account). For the `CLIKKLE_API_KEY`, tick the box to **Generate API key on completion**.
 6. Follow the step-by-step wizard and create the Function.
 {% /section %}
 
 {% section #step-2 step=2 title="Add dependencies" %}
 Once the Function is created, please navigate to the freshly created repository and clone it to your local machine.
 
-Install the `lmnt-node` package to make requests to the LMNT API and `node-appwrite` package to upload the generated audio files to Appwrite Storage.
+Install the `lmnt-node` package to make requests to the LMNT API and `node-clikkle` package to upload the generated audio files to Clikkle Storage.
 
 ```bash
-npm install lmnt-node node-appwrite
+npm install lmnt-node node-clikkle
 ```
 {% /section %}
 
@@ -77,9 +77,9 @@ import { getStaticFile } from './utils.js';
 export default async ({ req, res, error }) => {
   throwIfMissing(process.env, [
     "LMNT_API_KEY",
-    "APPWRITE_API_KEY",
-    "APPWRITE_BUCKET_ID",
-    "APPWRITE_FUNCTION_PROJECT_ID"
+    "CLIKKLE_API_KEY",
+    "CLIKKLE_BUCKET_ID",
+    "CLIKKLE_FUNCTION_PROJECT_ID"
   ]);
 
   if (req.method === 'GET') {
@@ -90,7 +90,7 @@ export default async ({ req, res, error }) => {
 };
 ```
 
-A check is also included to ensure that the `LMNT_API_KEY`, `APPWRITE_API_KEY` and `APPWRITE_BUCKET_ID` environment variables are set.
+A check is also included to ensure that the `LMNT_API_KEY`, `CLIKKLE_API_KEY` and `CLIKKLE_BUCKET_ID` environment variables are set.
 {% /section %}
 
 {% section #step-5 step=5 title="Create web page" %}
@@ -133,8 +133,8 @@ Within the `<html>` tag, Add a `<head>` tag that will define the style and scrip
 
   <script src="//unpkg.com/alpinejs" defer></script>
 
-  <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink" />
-  <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink-icons" />
+  <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+  <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
 </head>
 ```
 
@@ -200,29 +200,29 @@ And after the `</head>` tag add this `<body>` which will contain the actual form
 </body>
 ```
 
-All of this together will render a form that will submit your text to the Appwrite Function through a `POST` request. The Appwrite function will then call LMNT's API, upload the audio to Appwrite Storage and return the URL, which will be displayed on your page.
+All of this together will render a form that will submit your text to the Clikkle Function through a `POST` request. The Clikkle function will then call LMNT's API, upload the audio to Clikkle Storage and return the URL, which will be displayed on your page.
 {% /section %}
 
 {% section #step-6 step=6 title="Handle POST Request" %}
 Next, you'll add the methods necessary to integrate with the LMNT API.
 
-Import the `Speech` class from `lmnt-node`, and the required features from the Appwrite Node.js SDK at the top of the `main.js` file.
+Import the `Speech` class from `lmnt-node`, and the required features from the Clikkle Node.js SDK at the top of the `main.js` file.
 
 ```js
-import { Client, Storage, ID, Permission, Role } from "node-appwrite";
-import { InputFile } from "node-appwrite/file";
+import { Client, Storage, ID, Permission, Role } from "node-clikkle";
+import { InputFile } from "node-clikkle/file";
 import Speech from 'lmnt-node';
 ```
 
-Next, add code to validate the body of the request and initialize the Appwrite SDK also within `main.js` following the previously added GET handler:
+Next, add code to validate the body of the request and initialize the Clikkle SDK also within `main.js` following the previously added GET handler:
 
 ```js
-const endpoint = process.env.APPWRITE_ENDPOINT ?? "https://<REGION>.cloud.appwrite.io/v1";
+const endpoint = process.env.CLIKKLE_ENDPOINT ?? "https://<REGION>.cloud.clikkle.io/v1";
 
 const client = new Client()
   .setEndpoint(endpoint)
-  .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
-  .setKey(process.env.APPWRITE_API_KEY);
+  .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+  .setKey(process.env.CLIKKLE_API_KEY);
 
 if (!req.body.text || typeof req.body.text !== "string") {
   return res.json({ ok: false, error: "Missing required field `text`" }, 400);
@@ -240,29 +240,29 @@ This code will send the prompt to the LMNT API and return the audio as a blob. A
 
 {% /section %}
 
-{% section #step-7 step=7 title="Store Audio in Appwrite Storage" %}
-Store the audio file in Appwrite Storage for easy retrieval later:
+{% section #step-7 step=7 title="Store Audio in Clikkle Storage" %}
+Store the audio file in Clikkle Storage for easy retrieval later:
 
 ```js
 const storage = new Storage(client);
 
 const file = await storage.createFile({
-  bucketId: process.env.APPWRITE_BUCKET_ID,
+  bucketId: process.env.CLIKKLE_BUCKET_ID,
   fileId: ID.unique(),
   file: InputFile.fromBuffer(new Blob([response.audio]), "audio.mp3"),
   permissions: [Permission.read(Role.any())],
 });
 ```
 
-To show it to the user, parse the download URL from Appwrite and return it in the response:
+To show it to the user, parse the download URL from Clikkle and return it in the response:
 
 ```js
-const url = `${endpoint}/storage/buckets/${process.env.APPWRITE_BUCKET_ID}/files/${file.$id}/view?project=${process.env.APPWRITE_FUNCTION_PROJECT_ID}`;
+const url = `${endpoint}/storage/buckets/${process.env.CLIKKLE_BUCKET_ID}/files/${file.$id}/view?project=${process.env.CLIKKLE_FUNCTION_PROJECT_ID}`;
 
 return res.json({ ok: true, response: url });
 ```
 
-This should finish up the Function. Deploy it to Appwrite by pushing it to the git repository created earlier.
+This should finish up the Function. Deploy it to Clikkle by pushing it to the git repository created earlier.
 {% /section %}
 
 {% section #step-8 step=8 title="Test the function" %}
@@ -271,3 +271,4 @@ This should show the UI created earlier. To test it, write a prompt and click th
 
 ![Testing the function](/clikkle/images/docs/ai/integrations/lmnt/demo.png)
 {% /section %}
+

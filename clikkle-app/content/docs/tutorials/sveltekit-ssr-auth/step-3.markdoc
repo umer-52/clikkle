@@ -1,35 +1,35 @@
 ---
 layout: tutorial
 title: Initialize SDK
-description: Add authentication to a SvelteKit project using Appwrite.
+description: Add authentication to a SvelteKit project using Clikkle.
 step: 3
 ---
-Before you can use Appwrite, you need to create the Appwrite `Client` and set the project ID and endpoint. 
-The client is then used to create services like `Databases` and `Account`, so they all point to the same Appwrite project.
+Before you can use Clikkle, you need to create the Clikkle `Client` and set the project ID and endpoint. 
+The client is then used to create services like `Databases` and `Account`, so they all point to the same Clikkle project.
 
-Create a function to build services you need in a file like `src/lib/server/appwrite.js` and **exporting the instances**.
+Create a function to build services you need in a file like `src/lib/server/clikkle.js` and **exporting the instances**.
 
 As part of the function, set the current user's session if they are logged in. This is done by accessing the session cookie from the request and calling the `setSession(session)` with the cookie value.
 
-{% info title="Appwrite client security" %}
-Notice that `createAppwriteClient` returns **a new instance** of the Appwrite Client.
-When using Appwrite in server-integrations, it's important to **never share a `Client` instance** between two requests.
+{% info title="Clikkle client security" %}
+Notice that `createClikkleClient` returns **a new instance** of the Clikkle Client.
+When using Clikkle in server-integrations, it's important to **never share a `Client` instance** between two requests.
 Doing so could create security vulnerabilities.
 {% /info %}
 
 ```js
-// src/lib/server/appwrite.js
-import { Client, Account } from 'node-appwrite';
-import { APPWRITE_KEY } from '$env/static/private';
-import { PUBLIC_APPWRITE_ENDPOINT, PUBLIC_APPWRITE_PROJECT } from '$env/static/public';
+// src/lib/server/clikkle.js
+import { Client, Account } from 'node-clikkle';
+import { CLIKKLE_KEY } from '$env/static/private';
+import { PUBLIC_CLIKKLE_ENDPOINT, PUBLIC_CLIKKLE_PROJECT } from '$env/static/public';
 
 export const SESSION_COOKIE = 'my-custom-session';
 
 export function createAdminClient() {
     const client = new Client()
-        .setEndpoint(PUBLIC_APPWRITE_ENDPOINT)
-        .setProject(PUBLIC_APPWRITE_PROJECT)
-        .setKey(APPWRITE_KEY); // Set the Appwrite API key!
+        .setEndpoint(PUBLIC_CLIKKLE_ENDPOINT)
+        .setProject(PUBLIC_CLIKKLE_PROJECT)
+        .setKey(CLIKKLE_KEY); // Set the Clikkle API key!
 
     // Return the services we want to use.
     return {
@@ -41,8 +41,8 @@ export function createAdminClient() {
 
 export function createSessionClient(event) {
     const client = new Client()
-        .setEndpoint(PUBLIC_APPWRITE_ENDPOINT)
-        .setProject(PUBLIC_APPWRITE_PROJECT);
+        .setEndpoint(PUBLIC_CLIKKLE_ENDPOINT)
+        .setProject(PUBLIC_CLIKKLE_PROJECT);
 
     // Extract our custom domain's session cookie from the request
     const session = event.cookies.get(SESSION_COOKIE);
@@ -63,18 +63,18 @@ export function createSessionClient(event) {
 
 ## Environment variables {% #environment-variables %}
 
-`APPWRITE_KEY`, `PUBLIC_APPWRITE_ENDPOINT` and `PUBLIC_APPWRITE_PROJECT_ID` are environment variables that are exported in your project's [.env file](https://kit.svelte.dev/docs/modules#$env-dynamic-public).
+`CLIKKLE_KEY`, `PUBLIC_CLIKKLE_ENDPOINT` and `PUBLIC_CLIKKLE_PROJECT_ID` are environment variables that are exported in your project's [.env file](https://kit.svelte.dev/docs/modules#$env-dynamic-public).
 
 For example, your `.env` might look something similar to this.
 
 ```text
-APPWRITE_KEY=<YOUR_API_KEY>
-PUBLIC_APPWRITE_ENDPOINT=https://<REGION>.cloud.appwrite.io/v1
-PUBLIC_APPWRITE_PROJECT=<PROJECT_ID>
+CLIKKLE_KEY=<YOUR_API_KEY>
+PUBLIC_CLIKKLE_ENDPOINT=https://<REGION>.cloud.clikkle.io/v1
+PUBLIC_CLIKKLE_PROJECT=<PROJECT_ID>
 ```
 
-The `PUBLIC_APPWRITE_ENDPOINT` is the endpoint of your Appwrite project, and the `PUBLIC_APPWRITE_PROJECT` is the ID of the project you want to use. 
-You can get the values for these variables from the Appwrite console. 
+The `PUBLIC_CLIKKLE_ENDPOINT` is the endpoint of your Clikkle project, and the `PUBLIC_CLIKKLE_PROJECT` is the ID of the project you want to use. 
+You can get the values for these variables from the Clikkle console. 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
 {% /only_dark %}
@@ -82,7 +82,7 @@ You can get the values for these variables from the Appwrite console.
 ![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
 {% /only_light %}
 
-The `APPWRITE_KEY` is an Appwrite API key with the necessary permissions to read and write accounts and sessions.
+The `CLIKKLE_KEY` is an Clikkle API key with the necessary permissions to read and write accounts and sessions.
 
 For this tutorial you'll need an API key with the following scopes:
 
@@ -96,3 +96,4 @@ For this tutorial you'll need an API key with the following scopes:
 {% only_light %}
 ![Server integrations](/clikkle/images/docs/quick-starts/integrate-server.png)
 {% /only_light %}
+

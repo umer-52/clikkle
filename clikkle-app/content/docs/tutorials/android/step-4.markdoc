@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Add authentication
-description: Add Appwrite authentication to you Android app.
+description: Add Clikkle authentication to you Android app.
 step: 4
 ---
 
@@ -15,11 +15,11 @@ Add the following code to it.
 ```kotlin
 package <YOUR_ROOT_PACKAGE_HERE>.services
 
-import io.appwrite.Client
-import io.appwrite.ID
-import io.appwrite.models.User
-import io.appwrite.exceptions.AppwriteException
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.ID
+import io.clikkle.models.User
+import io.clikkle.exceptions.ClikkleException
+import io.clikkle.services.Account
 
 class AccountService(client: Client) {
     private val account = Account(client)
@@ -27,7 +27,7 @@ class AccountService(client: Client) {
     suspend fun getLoggedIn(): User<Map<String, Any>>? {
         return try {
             account.get()
-        } catch (e: AppwriteException) {
+        } catch (e: ClikkleException) {
             null
         }
     }
@@ -39,7 +39,7 @@ class AccountService(client: Client) {
                 password = password
             )
             getLoggedIn()
-        } catch (e: AppwriteException) {
+        } catch (e: ClikkleException) {
             null
         }
     }
@@ -52,7 +52,7 @@ class AccountService(client: Client) {
                 password = password
             )
             login(email, password)
-        } catch (e: AppwriteException) {
+        } catch (e: ClikkleException) {
             null
         }
     }
@@ -63,13 +63,13 @@ class AccountService(client: Client) {
 }
 ```
 
-We can now use this service to login, register and logout a user. Integrate the service to the `/services/Appwrite.kt` file.
+We can now use this service to login, register and logout a user. Integrate the service to the `/services/Clikkle.kt` file.
 
 Look for `// Add this line 👇` to find where the changes made here.
 
 ```kotlin
-object Appwrite {
-    private const val ENDPOINT = "https://<REGION>.cloud.appwrite.io/v1"
+object Clikkle {
+    private const val ENDPOINT = "https://<REGION>.cloud.clikkle.io/v1"
     private const val PROJECT_ID = "<PROJECT_ID>"
 
     private lateinit var client: Client
@@ -121,7 +121,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.unit.dp
-import io.appwrite.models.User
+import io.clikkle.models.User
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -218,3 +218,4 @@ fun UserScreen(
     }
 }
 ```
+

@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create project
-description: Add authentication to a SvelteKit project using Appwrite.
+description: Add authentication to a SvelteKit project using Clikkle.
 step: 2
 ---
 
@@ -43,11 +43,12 @@ cd my-svelte-project
 npm install
 ```
 
-## Install Appwrite {% #install-appwrite %}
+## Install Clikkle {% #install-clikkle %}
 
-Appwrite provides a Node SDK that can be used in your Svelte apps. You can use Appwrite by installing the Node SDK as an NPM package. 
-The Node SDK is intended for server-side use. If you want to use Appwrite in a client-side application, you should [use the Web SDK instead](/docs/tutorials/sveltekit-csr-auth).
+Clikkle provides a Node SDK that can be used in your Svelte apps. You can use Clikkle by installing the Node SDK as an NPM package. 
+The Node SDK is intended for server-side use. If you want to use Clikkle in a client-side application, you should [use the Web SDK instead](/docs/tutorials/sveltekit-csr-auth).
 
 ```sh
-npm install node-appwrite
+npm install node-clikkle
 ```
+

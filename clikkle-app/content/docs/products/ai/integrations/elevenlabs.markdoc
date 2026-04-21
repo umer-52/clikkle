@@ -1,22 +1,22 @@
 ---
 layout: article
 title: Integrating ElevenLabs
-description: Learn how to integrate ElevenLabs into your Appwrite project.
+description: Learn how to integrate ElevenLabs into your Clikkle project.
 difficulty: intermediate
 readtime: 15
 ---
 
 ElevenLabs is an text to speech tool that can generate natural sounding audio from text. It's an excellent tool for dubbing content, creating audiobooks, or even for accessibility purposes.
 
-Integrating ElevenLabs into your Appwrite project is simple. This tutorial will guide you through the process of setting up the ElevenLabs API and integrating it into your Appwrite project.
+Integrating ElevenLabs into your Clikkle project is simple. This tutorial will guide you through the process of setting up the ElevenLabs API and integrating it into your Clikkle project.
 
 # Prerequisites {% #prerequisites %}
 
-- An Appwrite Project
+- An Clikkle Project
 - An [ElevenLabs API Key](https://elevenlabs.io/)
 
 {% section #step-1 step=1 title="Create new function" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console) then click on **Functions** in the left sidebar and then click on the **Create Function** button.
+Head to the [Clikkle Console](https://cloud.clikkle.io/console) then click on **Functions** in the left sidebar and then click on the **Create Function** button.
 
 {% only_dark %}
 ![Create function screen](/clikkle/images/docs/functions/dark/template.png)
@@ -26,21 +26,21 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console) then click on 
 ![Create function screen](/clikkle/images/docs/functions/template.png)
 {% /only_light %}
 
-1. In the Appwrite Console's sidebar, click **Functions**.
+1. In the Clikkle Console's sidebar, click **Functions**.
 1. Click **Create function**.
 1. Under **Connect Git repository**, select your provider.
 1. After connecting to GitHub, under **Quick start**, select the **Node.js** starter template.
-1. In the **Variables** step, add the `ELEVENLABS_API_KEY`, generate it [here](https://elevenlabs.io/). For the `APPWRITE_API_KEY`, tick the box to **Generate API key on completion**.
+1. In the **Variables** step, add the `ELEVENLABS_API_KEY`, generate it [here](https://elevenlabs.io/). For the `CLIKKLE_API_KEY`, tick the box to **Generate API key on completion**.
 1. Follow the step-by-step wizard and create the function.
 {% /section %}
 
 {% section #step-2 step=2 title="Add dependencies" %}
 Once the function is created, navigate to the freshly created repository and clone it to your local machine.
 
-Install the `undici` package to make requests to the ElevenLabs API and `node-appwrite` package to upload the generated audio files to Appwrite Storage.
+Install the `undici` package to make requests to the ElevenLabs API and `node-clikkle` package to upload the generated audio files to Clikkle Storage.
 
 ```bash
-npm install undici node-appwrite
+npm install undici node-clikkle
 ```
 {% /section %}
 
@@ -82,7 +82,7 @@ export default async ({ req, res, error }) => {
 };
 ```
 
-A check is also included to ensure that the `ELEVENLABS_API_KEY`, `APPWRITE_API_KEY` and `APPWRITE_BUCKET_ID` environment variables is set.
+A check is also included to ensure that the `ELEVENLABS_API_KEY`, `CLIKKLE_API_KEY` and `CLIKKLE_BUCKET_ID` environment variables is set.
 {% /section %}
 
 {% section #step-5 step=5 title="Create web page" %}
@@ -125,8 +125,8 @@ Within the `<html>` tag, Add a `<head>` tag that will define the style and scrip
 
   <script src="//unpkg.com/alpinejs" defer></script>
 
-  <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink" />
-  <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink-icons" />
+  <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+  <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
 </head>
 ```
 
@@ -192,27 +192,27 @@ And after the `</head>` tag add this `<body>` which will contain the actual form
 </body>
 ```
 
-All of this together will render a form that will submit your text to the Appwrite function through a POST request which you'll create next. The Appwrite function will call ElevenLabs's API, upload the audio to Appwrite Storage and return the URL, which will be displayed on your page.
+All of this together will render a form that will submit your text to the Clikkle function through a POST request which you'll create next. The Clikkle function will call ElevenLabs's API, upload the audio to Clikkle Storage and return the URL, which will be displayed on your page.
 {% /section %}
 
 {% section #step-6 step=6 title="Handle POST Request" %}
 Add methods necessary to integrate with the ElevenLabs API:
 
-Import `fetch`, and the required features from the Appwrite Node.js SDK at the top of the `main.js` file
+Import `fetch`, and the required features from the Clikkle Node.js SDK at the top of the `main.js` file
 
 ```js
-import { Client, Storage, ID, Permission, Role } from "node-appwrite";
-import { InputFile } from "node-appwrite/file";
+import { Client, Storage, ID, Permission, Role } from "node-clikkle";
+import { InputFile } from "node-clikkle/file";
 import { fetch } from "undici";
 ```
 
-Next add code to validate the body of the request and initialize the Appwrite SDK:
+Next add code to validate the body of the request and initialize the Clikkle SDK:
 
 ```js
 const client = new Client()
-  .setEndpoint(process.env.APPWRITE_ENDPOINT ?? "https://<REGION>.cloud.appwrite.io/v1")
-  .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
-  .setKey(process.env.APPWRITE_API_KEY);
+  .setEndpoint(process.env.CLIKKLE_ENDPOINT ?? "https://<REGION>.cloud.clikkle.io/v1")
+  .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+  .setKey(process.env.CLIKKLE_API_KEY);
 
 if (!req.body.text || typeof req.body.text !== "string") {
   return res.json({ ok: false, error: "Missing required field `text`" }, 400);
@@ -251,29 +251,29 @@ This code will send the prompt to the ElevenLabs API and return the audio as a b
 additionally it'll also catch any errors we could encounter and reports them for easy debugging.
 {% /section %}
 
-{% section #step-7 step=7 title="Store Audio in Appwrite Storage" %}
-Store the audio file in Appwrite Storage for easy retrieval later:
+{% section #step-7 step=7 title="Store Audio in Clikkle Storage" %}
+Store the audio file in Clikkle Storage for easy retrieval later:
 
 ```js
 const storage = new Storage(client);
 
 const file = await storage.createFile({
-  bucketId: process.env.APPWRITE_BUCKET_ID,
+  bucketId: process.env.CLIKKLE_BUCKET_ID,
   fileId: ID.unique(),
   file: InputFile.fromBuffer(await response.blob(), "audio.mp3"),
   permissions: [Permission.read(Role.any())],
 });
 ```
 
-To show it to the user, parse the download URL from Appwrite and return it in the response:
+To show it to the user, parse the download URL from Clikkle and return it in the response:
 
 ```js
-const url = `${process.env.APPWRITE_ENDPOINT}/storage/buckets/${process.env.APPWRITE_BUCKET_ID}/files/${file.$id}/view?project=${process.env.APPWRITE_FUNCTION_PROJECT_ID}`;
+const url = `${process.env.CLIKKLE_ENDPOINT}/storage/buckets/${process.env.CLIKKLE_BUCKET_ID}/files/${file.$id}/view?project=${process.env.CLIKKLE_FUNCTION_PROJECT_ID}`;
 
 return res.json({ ok: true, response: url });
 ```
 
-This should finish up the function, Deploy it to Appwrite by pushing to the git repository created earlier.
+This should finish up the function, Deploy it to Clikkle by pushing to the git repository created earlier.
 {% /section %}
 
 {% section #step-8 step=8 title="Test the function" %}
@@ -282,3 +282,4 @@ This should show the UI created earlier and to test it, write a prompt and click
 
 ![Testing the function](/clikkle/images/docs/ai/integrations/elevenlabs/demo.png)
 {% /section %}
+

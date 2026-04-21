@@ -1,22 +1,22 @@
 ---
 layout: article
 title: Integrating OpenAI
-description: Learn how to integrate OpenAI into your Appwrite project.
+description: Learn how to integrate OpenAI into your Clikkle project.
 difficulty: intermediate
 readtime: 15
 ---
 
-The OpenAI API is a powerful tool that can be used to generate text, images, and more. This tutorial will guide you through the process of setting up the OpenAI API and integrating it into your Appwrite project.
+The OpenAI API is a powerful tool that can be used to generate text, images, and more. This tutorial will guide you through the process of setting up the OpenAI API and integrating it into your Clikkle project.
 
-We'll create a simple function that takes a text prompt and generates a completion using OpenAI's GPT-3 model. Then, using Appwrite functions we'll create a user interface that allows users to input text and see the generated completion.
+We'll create a simple function that takes a text prompt and generates a completion using OpenAI's GPT-3 model. Then, using Clikkle functions we'll create a user interface that allows users to input text and see the generated completion.
 
 # Prerequisites {% #prerequisites %}
 
-- An Appwrite Project
+- An Clikkle Project
 - An [OpenAI API Key](https://platform.openai.com/account/api-keys)
 
 {% section #step-1 step=1 title="Create new function" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console) then click on **Functions** in the left sidebar and then click on the **Create Function** button.
+Head to the [Clikkle Console](https://cloud.clikkle.io/console) then click on **Functions** in the left sidebar and then click on the **Create Function** button.
 
 {% only_dark %}
 ![Create function screen](/clikkle/images/docs/functions/dark/template.png)
@@ -26,7 +26,7 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console) then click on 
 ![Create function screen](/clikkle/images/docs/functions/template.png)
 {% /only_light %}
 
-1. In the Appwrite Console's sidebar, click **Functions**.
+1. In the Clikkle Console's sidebar, click **Functions**.
 1. Click **Create function**.
 1. Under **Connect Git repository**, select your provider.
 1. After connecting to GitHub, under **Quick start**, select the **Node.js** starter template.
@@ -119,8 +119,8 @@ Create a HTML web page that the function will serve. Create a new file at `stati
 
     <script src="//unpkg.com/alpinejs" defer></script>
 
-    <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink" />
-    <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink-icons" />
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
   </head>
 </html>
 ```
@@ -189,7 +189,7 @@ After the `</head>` tag add a `<body>` containing the visible form:
 </body>
 ```
 
-The form will allows users to submit your text to the Appwrite function through a POST request. The Appwrite function will call the OpenAI API, and return the response to the user.
+The form will allows users to submit your text to the Clikkle function through a POST request. The Clikkle function will call the OpenAI API, and return the response to the user.
 {% /section %}
 
 {% section #step-6 step=6 title="Handle POST request" %}
@@ -201,13 +201,13 @@ Import `openai` at the top of the `main.js` file.
 import { OpenAIApi, Configuration } from 'openai';
 ```
 
-Add code to validate the body of the request and initialize the Appwrite SDK:
+Add code to validate the body of the request and initialize the Clikkle SDK:
 
 ```js
 const client = new Client()
-  .setEndpoint(process.env.APPWRITE_ENDPOINT ?? "https://<REGION>.cloud.appwrite.io/v1")
-  .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
-  .setKey(process.env.APPWRITE_API_KEY);
+  .setEndpoint(process.env.CLIKKLE_ENDPOINT ?? "https://<REGION>.cloud.clikkle.io/v1")
+  .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+  .setKey(process.env.CLIKKLE_API_KEY);
 
 if (!req.body.prompt && typeof req.body.prompt !== "string") {
   return res.json({ ok: false, error: "Missing required field `prompt`" }, 400);
@@ -241,3 +241,4 @@ try {
 Now that the function is deployed, test it by visiting the function URL in your browser.
 This should show the UI created earlier and to test it, write a prompt and click the submit button. After a brief moment you should see the generated text from the OpenAI API.
 {% /section %}
+

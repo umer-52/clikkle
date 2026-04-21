@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Payment methods
 description: Retrieve payment method logos for checkout flows and transaction displays.
@@ -12,10 +12,10 @@ Retrieve a payment method or credit card logo by code.
 
 {% multicode %}
 ```client-web
-import { Client, Avatars, CreditCard } from "appwrite";
+import { Client, Avatars, CreditCard } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -29,10 +29,10 @@ const result = avatars.getCreditCard({
 console.log(result); // Resource URL
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final avatars = Avatars(client);
@@ -49,10 +49,10 @@ Future result = avatars.getCreditCard(
 });
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let avatars = Avatars(client)
@@ -64,12 +64,12 @@ let byteBuffer = try await avatars.getCreditCard(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Avatars
-import io.appwrite.enums.CreditCard
+import io.clikkle.Client
+import io.clikkle.services.Avatars
+import io.clikkle.enums.CreditCard
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val avatars = Avatars(client)
@@ -81,10 +81,10 @@ val result = avatars.getCreditCard(
 )
 ```
 ```client-react-native
-import { Client, Avatars } from 'react-native-appwrite';
+import { Client, Avatars } from 'react-native-clikkle';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -115,7 +115,7 @@ Common payment method codes include:
 
 {% multicode %}
 ```client-web
-import { CreditCard } from "appwrite";
+import { CreditCard } from "clikkle";
 
 // Visa
 const visa = avatars.getCreditCard({
@@ -146,7 +146,7 @@ const discover = avatars.getCreditCard({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 // Visa
 Future visa = avatars.getCreditCard(
@@ -177,7 +177,7 @@ Future discover = avatars.getCreditCard(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 // Visa
 let visa = try await avatars.getCreditCard(
@@ -208,7 +208,7 @@ let discover = try await avatars.getCreditCard(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.enums.CreditCard
+import io.clikkle.enums.CreditCard
 
 // Visa
 val visa = avatars.getCreditCard(
@@ -249,4 +249,5 @@ Payment method logos are commonly used for:
 - **Transaction history**: Display payment method used for each transaction
 - **Subscription management**: Show payment methods associated with subscriptions
 - **Billing information**: Display payment method logos in invoices and receipts
+
 

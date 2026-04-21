@@ -1,15 +1,15 @@
 ---
 layout: article
 title: Start with Refine
-description: Build Refine apps with Appwrite and learn how to use our powerful backend to add authentication, user management, file storage, and more.
+description: Build Refine apps with Clikkle and learn how to use our powerful backend to add authentication, user management, file storage, and more.
 difficulty: beginner
 readtime: 3
 back: /docs/quick-starts
 ---
 
-Learn how to setup your first Refine project powered by Appwrite.
+Learn how to setup your first Refine project powered by Clikkle.
 {% section #step-1 step=1 title="Create project" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console).
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
@@ -18,7 +18,7 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console).
 ![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
 {% /only_light %}
 
-If this is your first time using Appwrite, create an account and create your first project.
+If this is your first time using Clikkle, create an account and create your first project.
 
 Then, under **Add a platform**, add a **Web app**. The **Hostname** should be `localhost`. 
 
@@ -35,26 +35,26 @@ You can skip optional steps.
 
 {% /section %}
 {% section #step-2 step=2 title="Create Refine project" %}
-Create a Refine project with Appwrite support.
+Create a Refine project with Clikkle support.
 
 ```sh
-npm create refine-app@latest -- --preset refine-appwrite
+npm create refine-app@latest -- --preset refine-clikkle
 ```
 {% /section %}
-{% section #step-3 step=3 title="Install Appwrite" %}
+{% section #step-3 step=3 title="Install Clikkle" %}
 
 
-Using the `refine-appwrite` preset eliminates the need for extra dependencies for a quick start.
+Using the `refine-clikkle` preset eliminates the need for extra dependencies for a quick start.
 
-If you want to integrate Appwrite into an existing Refine app, simply use this command:
+If you want to integrate Clikkle into an existing Refine app, simply use this command:
 ```sh
-npm install @refinedev/appwrite
+npm install @refinedev/clikkle
 ```
-Then follow [this guide on the Refine documentation site](https://refine.dev/docs/packages/documentation/data-providers/appwrite).
+Then follow [this guide on the Refine documentation site](https://refine.dev/docs/packages/documentation/data-providers/clikkle).
 
 
 {% /section %}
-{% section #step-4 step=4 title="Import Appwrite" %}
+{% section #step-4 step=4 title="Import Clikkle" %}
 Find your project's ID in the **Settings** page. 
 
 {% only_dark %}
@@ -63,22 +63,22 @@ Find your project's ID in the **Settings** page.
 {% only_light %}
 ![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
 {% /only_light %}
-Navigate to `src/utility/appwriteClient.ts` and add your API credentials.
+Navigate to `src/utility/clikkleClient.ts` and add your API credentials.
 
 
 ```ts
-import { Account, Appwrite, Storage } from "@refinedev/appwrite";
+import { Account, Clikkle, Storage } from "@refinedev/clikkle";
 
-const APPWRITE_URL = '<YOUR_API_ENDPOINT>'; // Replace with your Appwrite API Endpoint
-const APPWRITE_PROJECT = "<PROJECT_ID>"; // Replace with your project ID
+const CLIKKLE_URL = '<YOUR_API_ENDPOINT>'; // Replace with your Clikkle API Endpoint
+const CLIKKLE_PROJECT = "<PROJECT_ID>"; // Replace with your project ID
 
-const appwriteClient = new Appwrite();
+const clikkleClient = new Clikkle();
 
-appwriteClient.setEndpoint(APPWRITE_URL).setProject(APPWRITE_PROJECT);
-const account = new Account(appwriteClient);
-const storage = new Storage(appwriteClient);
+clikkleClient.setEndpoint(CLIKKLE_URL).setProject(CLIKKLE_PROJECT);
+const account = new Account(clikkleClient);
+const storage = new Storage(clikkleClient);
 
-export { account, appwriteClient, storage };
+export { account, clikkleClient, storage };
 
 ```
 {% /section %}
@@ -88,7 +88,7 @@ Replace the code in `src/App.tsx` with the following.
 
 ```client-web
 import { Authenticated, Refine } from '@refinedev/core';
-import { dataProvider, liveProvider } from '@refinedev/appwrite';
+import { dataProvider, liveProvider } from '@refinedev/clikkle';
 import {
     AuthPage,
     ErrorComponent,
@@ -105,7 +105,7 @@ import '@refinedev/antd/dist/reset.css';
 import { App as AntdApp, ConfigProvider } from 'antd';
 import { BrowserRouter, Outlet, Route, Routes } from 'react-router-dom';
 
-import { appwriteClient } from './utility';
+import { clikkleClient } from './utility';
 import { authProvider } from './authProvider';
 
 const App: React.FC = () => {
@@ -114,11 +114,11 @@ const App: React.FC = () => {
             <ConfigProvider theme={RefineThemes.Blue}>
                 <AntdApp>
                     <Refine
-                        dataProvider={dataProvider(appwriteClient, {
-                            databaseId: '<APPWRITE_DATABASE_ID>',
+                        dataProvider={dataProvider(clikkleClient, {
+                            databaseId: '<CLIKKLE_DATABASE_ID>',
                         })}
-                        liveProvider={liveProvider(appwriteClient, {
-                            databaseId: '<APPWRITE_DATABASE_ID>',
+                        liveProvider={liveProvider(clikkleClient, {
+                            databaseId: '<CLIKKLE_DATABASE_ID>',
                         })}
                         authProvider={authProvider}
                         routerProvider={routerProvider}
@@ -142,7 +142,7 @@ const App: React.FC = () => {
                             <Route
                                 element={
                                     <Authenticated fallback={<Outlet />}>
-                                        <NavigateToResource resource="<APPWRITE_TABLE_ID>" />
+                                        <NavigateToResource resource="<CLIKKLE_TABLE_ID>" />
                                     </Authenticated>
                                 }
                             >
@@ -179,3 +179,4 @@ export default App;
 {% section #step-6 step=6 title="All set" %}
 Run your project with `npm run dev -- --open --port 3000` and open [Localhost on Port 3000](http://localhost:3000) in your browser.
 {% /section %}
+

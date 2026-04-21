@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Build an ideas tracker with SvelteKit
-description: Build a SvelteKit project using Appwrite.
+description: Build a SvelteKit project using Clikkle.
 step: 1
 difficulty: beginner
 back: /docs/tutorials
@@ -11,7 +11,7 @@ category: Web
 ---
 
 **Idea tracker**: an app to track all the side project ideas that you'll start, but probably never finish.
-In this tutorial, you will build Idea tracker with Appwrite and SvelteKit.
+In this tutorial, you will build Idea tracker with Clikkle and SvelteKit.
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/tutorials/dark/idea-tracker.png)
@@ -32,3 +32,4 @@ This tutorial will introduce the following concepts:
 ## Prerequisites {% #prerequisites %}
 1. Basic knowledge of JavaScript and Svelte.
 2. Have [Node.js](https://nodejs.org/en) and [NPM](https://www.npmjs.com/) installed on your computer
+

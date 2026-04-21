@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Checking auth status
-description: Learn how to check a user's authentication status in your Appwrite application and handle authentication flow appropriately.
+description: Learn how to check a user's authentication status in your Clikkle application and handle authentication flow appropriately.
 ---
 
 One of the first things your application needs to do when starting up is to check if the user is authenticated. This is an important step in creating a great user experience, as it determines whether to show login screens or protected content.
@@ -12,10 +12,10 @@ The recommended approach for checking authentication status is to use the `accou
 
 {% multicode %}
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const account = new Account(client);
@@ -40,11 +40,11 @@ async function checkAuthStatus() {
 checkAuthStatus();
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void checkAuthStatus() async {
   final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
   final account = Account(client);
@@ -63,13 +63,13 @@ void checkAuthStatus() async {
 // Call this function when your app initializes
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
-import io.appwrite.exceptions.AppwriteException
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.exceptions.ClikkleException
 
 class AuthManager {
     private val client = Client(context)
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     private val account = Account(client)
@@ -80,7 +80,7 @@ class AuthManager {
             Log.d("Auth", "User is authenticated: ${user.name}")
             // Proceed with your authenticated app flow
             true
-        } catch (e: AppwriteException) {
+        } catch (e: ClikkleException) {
             Log.e("Auth", "User is not authenticated: ${e.message}")
             // Redirect to login page or show login UI
             false
@@ -91,11 +91,11 @@ class AuthManager {
 // Call this function when your app initializes
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 func checkAuthStatus() {
     let client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     let account = Account(client)
@@ -144,3 +144,4 @@ In a typical application flow:
 - Handle both authenticated and unauthenticated states gracefully
 - Show appropriate loading states while checking authentication
 - Implement proper error handling to avoid showing error messages to users
+

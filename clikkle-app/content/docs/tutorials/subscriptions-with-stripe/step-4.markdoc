@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Configure web platform
-description: Add paid app subscription plans to your app with Stripe and Appwrite Functions.
+description: Add paid app subscription plans to your app with Stripe and Clikkle Functions.
 step: 4
 ---
 
@@ -34,4 +34,5 @@ You don't need to follow the remaining screens, so you can click on **Skip optio
 Navigate to your Stripe dashboard, under **Developers**, go to the **Webhooks** tab.
 Click on the webhook we added earlier, under the three-dot menu, click **Update details**.
 
-Update the **Endpoint URL** to `https://<YOUR_FUNCTION_DOMAIN>/webhook`. For example, `https://6579ea96aa28a5cfb66a.fra.appwrite.run/webhook`
+Update the **Endpoint URL** to `https://<YOUR_FUNCTION_DOMAIN>/webhook`. For example, `https://6579ea96aa28a5cfb66a.fra.clikkle.run/webhook`
+

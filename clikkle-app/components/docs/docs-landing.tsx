@@ -11,37 +11,37 @@ const tutorials = [
     href: "/docs/tutorials/react",
     cover: "/clikkle/images/tutorials/react.png",
     title: "React tutorial",
-    description: "Learn Appwrite Auth, Databases, and more with React.",
+    description: "Learn Clikkle Auth, Databases, and more with React.",
   },
   {
     href: "/docs/tutorials/nextjs",
     cover: "/clikkle/images/tutorials/nextjs.png",
     title: "Next.js tutorial",
-    description: "Learn Appwrite Auth, Databases, and more with Next.js.",
+    description: "Learn Clikkle Auth, Databases, and more with Next.js.",
   },
   {
     href: "/docs/tutorials/sveltekit",
     cover: "/clikkle/images/tutorials/svelte.png",
     title: "SvelteKit tutorial",
-    description: "Learn Appwrite Auth, Databases, and more with SvelteKit.",
+    description: "Learn Clikkle Auth, Databases, and more with SvelteKit.",
   },
   {
     href: "/docs/tutorials/vue",
     cover: "/clikkle/images/tutorials/vue.png",
     title: "Vue tutorial",
-    description: "Learn Appwrite Auth, Databases, and more with Vue.",
+    description: "Learn Clikkle Auth, Databases, and more with Vue.",
   },
   {
     href: "/docs/tutorials/android",
     cover: "/clikkle/images/tutorials/android.png",
     title: "Android tutorial",
-    description: "Learn Appwrite Auth, Databases, and more with Android.",
+    description: "Learn Clikkle Auth, Databases, and more with Android.",
   },
   {
     href: "/docs/tutorials/flutter",
     cover: "/clikkle/images/tutorials/flutter.png",
     title: "Flutter tutorial",
-    description: "Learn Appwrite Auth, Databases, and more with Flutter.",
+    description: "Learn Clikkle Auth, Databases, and more with Flutter.",
   },
 ];
 
@@ -211,22 +211,22 @@ const migrations = [
   {
     href: "/docs/advanced/migrations/self-hosted",
     title: "Self-hosted",
-    description: "Move data from self-hosted to Appwrite Cloud.",
+    description: "Move data from self-hosted to Clikkle Cloud.",
   },
   {
     href: "/docs/advanced/migrations/firebase",
     title: "Firebase",
-    description: "Migrate users and data from Firebase to Appwrite.",
+    description: "Migrate users and data from Firebase to Clikkle.",
   },
   {
     href: "/docs/advanced/migrations/supabase",
     title: "Supabase",
-    description: "Migrate users and data from Supabase to Appwrite.",
+    description: "Migrate users and data from Supabase to Clikkle.",
   },
   {
     href: "/docs/advanced/migrations/nhost",
     title: "Nhost",
-    description: "Migrate users and data from NHost to Appwrite.",
+    description: "Migrate users and data from NHost to Clikkle.",
   },
 ];
 
@@ -366,7 +366,7 @@ function TutorialCarousel() {
   );
 }
 
-/** Appwrite `src/routes/docs/+page.svelte` — `web-main-section` + `web-hero` live in `DocsShell` */
+/** Clikkle `src/routes/docs/+page.svelte` — `web-main-section` + `web-hero` live in `DocsShell` */
 export function DocsLandingContent() {
   return (
     <>
@@ -400,7 +400,7 @@ export function DocsLandingContent() {
           Docs<span className="text-[#2D63FF]">_ </span>
         </h1>
         <p className="text-description max-w-[600px] text-secondary">
-          Appwrite helps you build secure and scalable apps, faster. Leverage Appwrite&apos;s
+          Clikkle helps you build secure and scalable apps, faster. Leverage Clikkle&apos;s
           powerful APIs to stop fighting technologies and start delivering value.
         </p>
 
@@ -458,7 +458,7 @@ export function DocsLandingContent() {
         </h2>
         <p className="text-description mt-4 max-w-[600px] text-secondary">
           All the core functionalities you need with a scalable and flexible API. Explore
-          Appwrite&apos;s product offerings.
+          Clikkle&apos;s product offerings.
         </p>
         <div className="mt-6">
           <ul className="web-grid-row-4 web-grid-row-4-mobile-1">
@@ -476,8 +476,8 @@ export function DocsLandingContent() {
           Build faster with AI
         </h2>
         <p className="text-description mt-4 max-w-[600px] text-secondary">
-          Appwrite&apos;s Model Context Protocol (MCP) server lets LLMs interact directly with your
-          Appwrite API.
+          Clikkle&apos;s Model Context Protocol (MCP) server lets LLMs interact directly with your
+          Clikkle API.
         </p>
         <div className="mt-6 grid grid-cols-1 gap-8 md:grid-cols-2">
           {mcpTools.map((t) => (
@@ -491,7 +491,7 @@ export function DocsLandingContent() {
           Explore ways to integrate
         </h2>
         <p className="text-description mt-4 max-w-[600px] text-secondary">
-          Choose how you integrate with Appwrite. Explore references for the Appwrite SDK, REST API,
+          Choose how you integrate with Clikkle. Explore references for the Clikkle SDK, REST API,
           GraphQL API, or Realtime API.
         </p>
         <div className="mt-6">
@@ -507,7 +507,7 @@ export function DocsLandingContent() {
 
       <section className="web-hero is-align-start is-no-max-width mt-12 pb-20">
         <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
-          Migrate to Appwrite
+          Migrate to Clikkle
         </h2>
         <p className="text-description mt-4 max-w-[600px] text-secondary">
           Own your data with automatic data migrations.

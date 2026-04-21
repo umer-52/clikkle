@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Payload
-description: Understand the structure of Appwrite Realtime subscription payloads and learn how to work with the response data.
+description: Understand the structure of Clikkle Realtime subscription payloads and learn how to work with the response data.
 ---
 
 When you receive an update from a Realtime subscription, the payload contains information about the event and the affected resource. Understanding this structure helps you handle updates effectively in your application.
@@ -17,7 +17,7 @@ The payload from the subscription will contain the following properties:
 ---
 * events
 * string[]
-* The [Appwrite events](/docs/advanced/platform/events) that triggered this update.
+* The [Clikkle events](/docs/advanced/platform/events) that triggered this update.
 ---
 * channels
 * string[]
@@ -83,7 +83,7 @@ The response will look like this:
     "enum": "apple",
     "stringDefault": "default",
     "datetime": "2023-01-19T10:27:09.428+00:00",
-    "url": "https://appwrite.io",
+    "url": "https://clikkle.io",
     "$id": "63c98b9baea0938e1206",
     "$createdAt": "2023-01-19T18:27:39.715+00:00",
     "$updatedAt": "2023-01-19T18:30:04.040+00:00",
@@ -93,3 +93,4 @@ The response will look like this:
   }
 }
 ```
+

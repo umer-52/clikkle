@@ -1,60 +1,60 @@
----
+﻿---
 layout: article
 title: Start with Avatars
-description: Get started quickly with Appwrite Avatars. Learn how to generate user initials, QR codes, and other avatar images in minutes.
+description: Get started quickly with Clikkle Avatars. Learn how to generate user initials, QR codes, and other avatar images in minutes.
 difficulty: beginner
 readtime: 5
 ---
 
-You can start using Appwrite Avatars immediately. The service is publicly accessible and does not require authentication or API keys.
+You can start using Clikkle Avatars immediately. The service is publicly accessible and does not require authentication or API keys.
 
 # Initialize the client {% #initialize-client %}
 
-First, initialize the Appwrite client with your project endpoint and project ID.
+First, initialize the Clikkle client with your project endpoint and project ID.
 
 {% multicode %}
 ```client-web
-import { Client, Avatars } from "appwrite";
+import { Client, Avatars } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final avatars = Avatars(client);
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let avatars = Avatars(client)
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Avatars
+import io.clikkle.Client
+import io.clikkle.services.Avatars
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val avatars = Avatars(client)
 ```
 ```client-react-native
-import { Client, Avatars } from 'react-native-appwrite';
+import { Client, Avatars } from 'react-native-clikkle';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -179,7 +179,7 @@ Retrieve a country flag icon by country code. This is useful for displaying user
 
 {% multicode %}
 ```client-web
-import { Flag } from "appwrite";
+import { Flag } from "clikkle";
 
 const result = avatars.getFlag({
     code: Flag.UnitedStates,
@@ -209,7 +209,7 @@ let byteBuffer = try await avatars.getFlag(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.enums.Flag
+import io.clikkle.enums.Flag
 
 val result = avatars.getFlag(
     code = Flag.UNITED_STATES,
@@ -235,4 +235,5 @@ Now that you've generated your first avatars, explore more advanced features:
 - Learn about [user initials](/docs/products/avatars/initials) customization
 - Discover [QR code](/docs/products/avatars/qr-codes) options
 - Explore [image manipulation](/docs/products/avatars/image-manipulation) capabilities
+
 

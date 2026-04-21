@@ -1,10 +1,10 @@
----
+﻿---
 layout: article
 title: Timestamp overrides
 description: Set custom $createdAt and $updatedAt timestamps for your documents when using server SDKs.
 ---
 
-When creating or updating documents, Appwrite automatically sets `$createdAt` and `$updatedAt` timestamps. However, there are scenarios where you might need to set these timestamps manually, such as when migrating data from another system or backfilling historical records.
+When creating or updating documents, Clikkle automatically sets `$createdAt` and `$updatedAt` timestamps. However, there are scenarios where you might need to set these timestamps manually, such as when migrating data from another system or backfilling historical records.
 
 {% info title="Server SDKs required" %}
 To manually set `$createdAt` and `$updatedAt`, you must use a **server SDK** with an **API key**. These attributes can be passed inside the `data` parameter on any of the create, update, or upsert routes (single or bulk).
@@ -12,7 +12,7 @@ To manually set `$createdAt` and `$updatedAt`, you must use a **server SDK** wit
 
 # Setting custom timestamps {% #setting-custom-timestamps %}
 
-You can override a document's timestamps by providing ISO 8601 strings (for example, `2025-08-10T12:34:56.000Z`) in the `data` payload. If these attributes are not provided, Appwrite will set them automatically.
+You can override a document's timestamps by providing ISO 8601 strings (for example, `2025-08-10T12:34:56.000Z`) in the `data` payload. If these attributes are not provided, Clikkle will set them automatically.
 
 Custom timestamps work with all document operations: create, update, upsert, and their bulk variants.
 
@@ -24,10 +24,10 @@ When working with individual documents, you can set custom timestamps during cre
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>')
     .setKey('<API_KEY>');
 
@@ -45,12 +45,12 @@ await databases.createDocument(
 );
 ```
 ```server-php
-use Appwrite\Client;
-use Appwrite\ID;
-use Appwrite\Services\Databases;
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     ->setProject('<YOUR_PROJECT_ID>')
     ->setKey('<YOUR_API_KEY>');
 
@@ -68,11 +68,11 @@ $databases->createDocument(
 );
 ```
 ```server-swift
-import Appwrite
+import Clikkle
 import Foundation
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
     .setKey("<YOUR_API_KEY>")
 
@@ -101,13 +101,13 @@ do {
 }
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.databases import Databases
-from appwrite.id import ID
+from clikkle.client import Client
+from clikkle.services.databases import Databases
+from clikkle.id import ID
 from datetime import datetime, timezone
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
 client.set_project('<PROJECT_ID>')
 client.set_key('<API_KEY>')
 
@@ -127,13 +127,13 @@ databases.create_document(
 )
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 require 'time'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
     .set_project('<YOUR_PROJECT_ID>')
     .set_key('<YOUR_API_KEY>')
 
@@ -153,12 +153,12 @@ databases.create_document(
 )
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Models;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
 
 Client client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .SetProject("<YOUR_PROJECT_ID>")
     .SetKey("<YOUR_API_KEY>");
 
@@ -179,10 +179,10 @@ await databases.CreateDocument(
 );
 ```
 ```server-dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>')
     .setKey('<YOUR_API_KEY>');
 
@@ -244,11 +244,11 @@ databases.update_document(
 )
 ```
 ```server-swift
-import Appwrite
+import Clikkle
 import Foundation
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
     .setKey("<YOUR_API_KEY>")
 
@@ -274,12 +274,12 @@ do {
 }
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
     .set_project('<YOUR_PROJECT_ID>')
     .set_key('<YOUR_API_KEY>')
 
@@ -298,12 +298,12 @@ databases.update_document(
 )
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Models;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
 
 Client client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .SetProject("<YOUR_PROJECT_ID>")
     .SetKey("<YOUR_API_KEY>");
 
@@ -323,10 +323,10 @@ await databases.UpdateDocument(
 );
 ```
 ```server-dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>')
     .setKey('<YOUR_API_KEY>');
 
@@ -394,12 +394,12 @@ databases.create_documents(
 )
 ```
 ```server-php
-use Appwrite\Client;
-use Appwrite\ID;
-use Appwrite\Services\Databases;
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     ->setProject('<YOUR_PROJECT_ID>')
     ->setKey('<YOUR_API_KEY>');
 
@@ -425,11 +425,11 @@ $databases->createDocuments(
 );
 ```
 ```server-swift
-import Appwrite
+import Clikkle
 import Foundation
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
     .setKey("<YOUR_API_KEY>")
 
@@ -466,12 +466,12 @@ do {
 }
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
     .set_project('<YOUR_PROJECT_ID>')
     .set_key('<YOUR_API_KEY>')
 
@@ -500,12 +500,12 @@ databases.create_documents(
 )
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Models;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
 
 Client client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .SetProject("<YOUR_PROJECT_ID>")
     .SetKey("<YOUR_API_KEY>");
 
@@ -537,10 +537,10 @@ await databases.CreateDocuments(
 );
 ```
 ```server-dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>')
     .setKey('<YOUR_API_KEY>');
 
@@ -602,12 +602,12 @@ databases.upsert_documents(
 )
 ```
 ```server-php
-use Appwrite\Client;
-use Appwrite\ID;
-use Appwrite\Services\Databases;
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     ->setProject('<YOUR_PROJECT_ID>')
     ->setKey('<YOUR_API_KEY>');
 
@@ -627,11 +627,11 @@ $databases->upsertDocuments(
 );
 ```
 ```server-swift
-import Appwrite
+import Clikkle
 import Foundation
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<YOUR_PROJECT_ID>")
     .setKey("<YOUR_API_KEY>")
 
@@ -661,13 +661,13 @@ do {
 }
 ```
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 require 'time'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
     .set_project('<YOUR_PROJECT_ID>')
     .set_key('<YOUR_API_KEY>')
 
@@ -689,12 +689,12 @@ databases.upsert_documents(
 )
 ```
 ```server-dotnet
-using Appwrite;
-using Appwrite.Models;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
 
 Client client = new Client()
-    .SetEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .SetProject("<YOUR_PROJECT_ID>")
     .SetKey("<YOUR_API_KEY>");
 
@@ -719,10 +719,10 @@ await databases.UpsertDocuments(
 );
 ```
 ```server-dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<YOUR_PROJECT_ID>')
     .setKey('<YOUR_API_KEY>');
 
@@ -1033,6 +1033,7 @@ await databases.upsertDocument(
 
 {% info title="Timestamp format and usage" %}
 - Values must be valid ISO 8601 date-time strings (UTC recommended). Using `toISOString()` (JavaScript) or `datetime.isoformat()` (Python) is a good default.
-- You can set either or both attributes as needed. If omitted, Appwrite sets them automatically.
+- You can set either or both attributes as needed. If omitted, Clikkle sets them automatically.
 {% /info %}
+
 

@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create sign up page
-description: Add authentication to a SvelteKit project using Appwrite.
+description: Add authentication to a SvelteKit project using Clikkle.
 step: 5
 ---
 
@@ -18,14 +18,14 @@ We can now implement our sign up page. Create a `+page.svelte` file in the `src/
 
 ```
 
-This is an HTML form with an email and password input. When the form is submitted, we want to send the email and password to Appwrite to authenticate the user. To use SvelteKit form actions we create a `+page.server.js` file in the same directory:
+This is an HTML form with an email and password input. When the form is submitted, we want to send the email and password to Clikkle to authenticate the user. To use SvelteKit form actions we create a `+page.server.js` file in the same directory:
 
 ```javascript
 // src/routes/signup/+page.server.js
 
-import { SESSION_COOKIE, createAdminClient } from "$lib/server/appwrite.js";
+import { SESSION_COOKIE, createAdminClient } from "$lib/server/clikkle.js";
 import { redirect } from "@sveltejs/kit";
-import { ID, OAuthProvider } from "node-appwrite";
+import { ID, OAuthProvider } from "node-clikkle";
 
 export const actions = {
   signup: async ({ request, cookies }) => {
@@ -35,7 +35,7 @@ export const actions = {
     const password = form.get("password");
     const name = form.get("name");
 
-    // Create the Appwrite client.
+    // Create the Clikkle client.
     const { account } = createAdminClient();
 
     // Create the session using the client
@@ -63,3 +63,4 @@ export const actions = {
   },
 };
 ```
+

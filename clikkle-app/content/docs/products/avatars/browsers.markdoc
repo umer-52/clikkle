@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Browser icons
 description: Retrieve browser icons for displaying user agent information and device compatibility.
@@ -12,10 +12,10 @@ Retrieve a browser icon by browser code.
 
 {% multicode %}
 ```client-web
-import { Client, Avatars, Browser } from "appwrite";
+import { Client, Avatars, Browser } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -29,10 +29,10 @@ const result = avatars.getBrowser({
 console.log(result); // Resource URL
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final avatars = Avatars(client);
@@ -49,10 +49,10 @@ Future result = avatars.getBrowser(
 });
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let avatars = Avatars(client)
@@ -64,12 +64,12 @@ let byteBuffer = try await avatars.getBrowser(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Avatars
-import io.appwrite.enums.Browser
+import io.clikkle.Client
+import io.clikkle.services.Avatars
+import io.clikkle.enums.Browser
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val avatars = Avatars(client)
@@ -81,10 +81,10 @@ val result = avatars.getBrowser(
 )
 ```
 ```client-react-native
-import { Client, Avatars } from 'react-native-appwrite';
+import { Client, Avatars } from 'react-native-clikkle';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -115,7 +115,7 @@ Common browser codes include:
 
 {% multicode %}
 ```client-web
-import { Browser } from "appwrite";
+import { Browser } from "clikkle";
 
 // Chrome
 const chrome = avatars.getBrowser({
@@ -153,7 +153,7 @@ const opera = avatars.getBrowser({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 // Chrome
 Future chrome = avatars.getBrowser(
@@ -191,7 +191,7 @@ Future opera = avatars.getBrowser(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 // Chrome
 let chrome = try await avatars.getBrowser(
@@ -229,7 +229,7 @@ let opera = try await avatars.getBrowser(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.enums.Browser
+import io.clikkle.enums.Browser
 
 // Chrome
 val chrome = avatars.getBrowser(
@@ -278,4 +278,5 @@ Browser icons are commonly used for:
 - **Compatibility indicators**: Display supported browsers for features or content
 - **Security logs**: Visualize login attempts and session information by browser
 - **User activity**: Display browser information in activity feeds and audit logs
+
 

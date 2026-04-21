@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Add server middleware
-description: Add authentication to a Nuxt project using Appwrite.
+description: Add authentication to a Nuxt project using Clikkle.
 step: 4
 ---
 
@@ -10,7 +10,7 @@ Nuxt server middle are functions that run on the server before a route is displa
 Create a new file in the `server/middleware` directory called `auth.js`.
 ```js
 // server/middleware/auth.js
-import { createSessionClient } from "../lib/appwrite";
+import { createSessionClient } from "../lib/clikkle";
 
 export default defineEventHandler(async (event) => {
   const { account } = createSessionClient(event);
@@ -24,7 +24,7 @@ export default defineEventHandler(async (event) => {
 To ensure the `context` object is typed correctly, we can add a type definition for it in the `env.d.ts` file:
 
 ```ts
-import type { Models } from "node-appwrite";
+import type { Models } from "node-clikkle";
 
 declare module "h3" {
   interface H3EventContext {
@@ -46,3 +46,4 @@ export default defineEventHandler(async (event) => {
 ```
 
 When a user visits the home page, they will be redirected to the sign up page if they are not logged in, or to the account page if they are logged in.
+

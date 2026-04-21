@@ -1,11 +1,11 @@
----
+﻿---
 layout: article
 title: Start with Databases
-description: Get started with Appwrite Databases. Follow a step-by-step guide to create your first database, define collections, and perform basic data operations.
+description: Get started with Clikkle Databases. Follow a step-by-step guide to create your first database, define collections, and perform basic data operations.
 ---
 
 {% section #create-database step=1 title="Create database" %}
-Head to your [Appwrite Console](https://cloud.appwrite.io/console/) and create a database and name it `Oscar`.
+Head to your [Clikkle Console](https://cloud.clikkle.io/console/) and create a database and name it `Oscar`.
 Optionally, add a custom database ID.
 {% /section %}
 
@@ -30,10 +30,10 @@ Then, in the `My books` collection, copy the collection ID, and replace `<COLLEC
 
 {% multicode %}
 ```client-web
-import { Client, Databases, ID } from "appwrite";
+import { Client, Databases, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const databases = new Databases(client);
@@ -52,11 +52,11 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
     final client = Client()
-        .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
         .setProject('<PROJECT_ID>');
 
     final databases = Databases(client);
@@ -68,18 +68,18 @@ void main() async {
             documentId: ID.unique(),
             data: { "title": "Hamlet" }
         );
-    } on AppwriteException catch(e) {
+    } on ClikkleException catch(e) {
         print(e);
     }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws {
     let client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     let databases = Databases(client)
@@ -97,12 +97,12 @@ func main() async throws {
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.services.Databases
 
 suspend fun main() {
     val client = Client(applicationContext)
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     val databases = Databases(client)
@@ -115,7 +115,7 @@ suspend fun main() {
             data = mapOf("title" to "hamlet"),
         )
     } catch (e: Exception) {
-        Log.e("Appwrite", "Error: " + e.message)
+        Log.e("Clikkle", "Error: " + e.message)
     }
 }
 ```
@@ -143,10 +143,10 @@ To read and query data from your collection, use the `listDocuments` endpoint.
 Like the previous step, replace `<PROJECT_ID>`, `<DATABASE_ID>`, and`<COLLECTION_ID>` with their respective IDs.
 {% multicode %}
 ```client-web
-import { Client, Databases, Query } from "appwrite";
+import { Client, Databases, Query } from "clikkle";
 
 const client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 const databases = new Databases(client);
@@ -166,11 +166,11 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() async {
     final client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     final databases = Databases(client);
@@ -183,18 +183,18 @@ void main() async {
                 Query.equal('title', 'Hamlet')
             ]
         );
-    } on AppwriteException catch(e) {
+    } on ClikkleException catch(e) {
         print(e);
     }
 }
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 func main() async throws{
     let client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     let databases = Databases(client)
@@ -213,13 +213,13 @@ func main() async throws{
 }
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.Query
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.Databases
 
 suspend fun main() {
     val client = Client(applicationContext)
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
     val databases = Databases(client)
@@ -232,11 +232,12 @@ suspend fun main() {
                 Query.equal("title", "Hamlet")
             )
         )
-    } catch (e: AppwriteException) {
-        Log.e("Appwrite", "Error: " + e.message)
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
     }
 }
 ```
 
 {% /multicode %}
 {% /section %}
+

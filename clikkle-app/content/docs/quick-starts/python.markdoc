@@ -1,16 +1,16 @@
----
+﻿---
 layout: article
 title: Start with Python
-description: Learn to get started with server integrations with Appwrite Python SDK.
+description: Learn to get started with server integrations with Clikkle Python SDK.
 difficulty: beginner
 readtime: 5
 back: /docs/quick-starts
 ---
-Learn how to setup your first Python project powered by Appwrite.
+Learn how to setup your first Python project powered by Clikkle.
 {% section #step-1 step=1 title="Create project" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console).
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
 
-If this is your first time using Appwrite, create an account and create your first project.
+If this is your first time using Clikkle, create an account and create your first project.
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
@@ -70,22 +70,22 @@ source .venv/bin/activate
 Finally, create a file `my_app.py`.
 
 {% /section %}
-{% section #step-3 step=3 title="Install Appwrite" %}
+{% section #step-3 step=3 title="Install Clikkle" %}
 
-Install the Python Appwrite SDK.
+Install the Python Clikkle SDK.
 
 ```sh
-pip install appwrite
+pip install clikkle
 ```
 
 Or with `uv`:
 
 ```sh
-uv add appwrite
+uv add clikkle
 ```
 
 {% /section %}
-{% section #step-4 step=4 title="Import Appwrite" %}
+{% section #step-4 step=4 title="Import Clikkle" %}
 
 Find your project ID in the **Settings** page. Also, click on the **View API Keys** button to find the API key that was created earlier.
 
@@ -96,15 +96,15 @@ Find your project ID in the **Settings** page. Also, click on the **View API Key
 ![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
 {% /only_light %}
 
-Open `my_app.py` and initialize the Appwrite Client. Replace `<PROJECT_ID>` with your project ID and `<YOUR_API_KEY>` with your API key.
+Open `my_app.py` and initialize the Clikkle Client. Replace `<PROJECT_ID>` with your project ID and `<YOUR_API_KEY>` with your API key.
 
 ```py
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.id import ID
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.id import ID
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1')
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
 client.set_project('<PROJECT_ID>')
 client.set_key('<YOUR_API_KEY>')
 ```
@@ -112,7 +112,7 @@ client.set_key('<YOUR_API_KEY>')
 {% /section %}
 {% section #step-5 step=5 title="Initialize database" %}
 
-Once the Appwrite Client is initialized, define a Pydantic model for type-safe data access and create a function to configure a todo table.
+Once the Clikkle Client is initialized, define a Pydantic model for type-safe data access and create a function to configure a todo table.
 
 ```py
 from pydantic import BaseModel
@@ -220,7 +220,7 @@ Create a function to retrieve the mock todo data,
 then execute the functions in `_main_`.
 
 ```py
-from appwrite.query import Query
+from clikkle.query import Query
 
 def get_todos():
   # Retrieve rows with type-safe access (default limit is 25)
@@ -278,3 +278,4 @@ if __name__ == "__main__":
 Run your project with `python my_app.py` and view the response in your console.
 
 {% /section %}
+

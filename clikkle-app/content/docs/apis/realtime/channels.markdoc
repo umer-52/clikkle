@@ -1,10 +1,10 @@
----
+﻿---
 layout: article
 title: Channels
-description: Explore the available Realtime channels and learn how to use Channel helpers for type-safe subscriptions in Appwrite.
+description: Explore the available Realtime channels and learn how to use Channel helpers for type-safe subscriptions in Clikkle.
 ---
 
-Channels define which Appwrite resources you want to subscribe to. When subscribing to a channel, you will receive callbacks for events related to that channel's resources. The Appwrite SDKs provide a `Channel` helper class to build type-safe channel subscriptions using a fluent API.
+Channels define which Clikkle resources you want to subscribe to. When subscribing to a channel, you will receive callbacks for events related to that channel's resources. The Clikkle SDKs provide a `Channel` helper class to build type-safe channel subscriptions using a fluent API.
 
 # Channel helpers {% #channel-helpers %}
 
@@ -12,10 +12,10 @@ Instead of manually writing channel strings, you can use the `Channel` helper cl
 
 {% multicode %}
 ```client-web
-import { Client, Realtime, Channel } from "appwrite";
+import { Client, Realtime, Channel } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const realtime = new Realtime(client);
@@ -35,10 +35,10 @@ const rowSubscription = await realtime.subscribe(
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final realtime = Realtime(client);
@@ -53,10 +53,10 @@ final docSubscription = realtime.subscribe([
 ```
 
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let realtime = Realtime(client)
@@ -75,12 +75,12 @@ let docSubscription = realtime.subscribe(
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Realtime
-import io.appwrite.extensions.Channel
+import io.clikkle.Client
+import io.clikkle.services.Realtime
+import io.clikkle.extensions.Channel
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val realtime = Realtime(client)
@@ -99,16 +99,16 @@ val docSubscription = realtime.subscribe(
 ```
 
 ```client-android-java
-import io.appwrite.Channel;
-import io.appwrite.ChannelKt;
-import io.appwrite.Client;
-import io.appwrite.models.RealtimeResponseEvent;
-import io.appwrite.models.RealtimeSubscription;
-import io.appwrite.services.Realtime;
+import io.clikkle.Channel;
+import io.clikkle.ChannelKt;
+import io.clikkle.Client;
+import io.clikkle.models.RealtimeResponseEvent;
+import io.clikkle.models.RealtimeSubscription;
+import io.clikkle.services.Realtime;
 import kotlin.Unit;
 
 Client client = new Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 Realtime realtime = new Realtime(client);
@@ -220,3 +220,4 @@ You can also filter events by appending event methods to the channel helpers:
 - `.delete()` - Listen only to delete events
 
 For example, `Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>').update()` will only trigger on row updates.
+

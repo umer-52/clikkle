@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create account page
-description: Add authentication to a Nuxt project using Appwrite.
+description: Add authentication to a Nuxt project using Clikkle.
 step: 6
 ---
 
@@ -59,7 +59,7 @@ This page will display the user's email, name, and ID. It also contains a form t
 
 ```javascript
 // server/routes/api/signout.post.js
-import { SESSION_COOKIE, createSessionClient } from "~/server/lib/appwrite";
+import { SESSION_COOKIE, createSessionClient } from "~/server/lib/clikkle";
 
 export default defineEventHandler(async (event) => {
   const { account } = createSessionClient(event);
@@ -70,3 +70,4 @@ export default defineEventHandler(async (event) => {
   await sendRedirect(event, "/signup");
 });
 ```
+

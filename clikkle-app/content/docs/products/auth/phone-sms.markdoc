@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Phone (SMS) login
-description: Enhance security with SMS and phone authentication in Appwrite. Add multi-factor authentication via SMS, verify phone numbers, and protect user accounts.
+description: Enhance security with SMS and phone authentication in Clikkle. Add multi-factor authentication via SMS, verify phone numbers, and protect user accounts.
 ---
 
 {% info title="Note" %}
@@ -21,10 +21,10 @@ Send an SMS message to initiate the authentication process. If the phone number 
 {% multicode %}
 
 ```client-web
-import { Client, Account, ID } from "appwrite";
+import { Client, Account, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const account = new Account(client);
@@ -38,10 +38,10 @@ const userId = token.userId;
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final account = Account(client);
@@ -54,10 +54,10 @@ final token = await account.createPhoneToken(
 final userId = token.userId;
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 let account = Account(client);
@@ -71,12 +71,12 @@ let userId = token.userId;
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.ID
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 val account = Account(client);
@@ -109,10 +109,10 @@ After initiating the phone authentication process, the returned user ID and secr
 {% multicode %}
 
 ```client-web
-import { Client, Account, ID } from "appwrite";
+import { Client, Account, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const account = new Account(client);
@@ -124,10 +124,10 @@ const session = await account.createSession({
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final account = Account(client);
@@ -138,10 +138,10 @@ final session = await account.createSession(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 let account = Account(client);
@@ -152,12 +152,12 @@ let session = try await account.createSession(
 );
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.ID
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 val account = Account(client);
@@ -182,3 +182,4 @@ mutation {
 {% /multicode %}
 
 After the secret is verified, a session will be created.
+

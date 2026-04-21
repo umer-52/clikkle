@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title: Create CRUD pages
-description: Add database queries and CRUD pages using Appwrite in your Refine application.
+description: Add database queries and CRUD pages using Clikkle in your Refine application.
 step: 6
 ---
 
@@ -11,7 +11,7 @@ We're going to add CRUD pages to our admin panel so you can list, create, and vi
 ## List page {% #list-page %}
 
 
- First, create a listing page to show Appwrite API data in a table by copying the code below into `src/pages/posts` and saving it as `list.tsx`.
+ First, create a listing page to show Clikkle API data in a table by copying the code below into `src/pages/posts` and saving it as `list.tsx`.
 
 ```ts
 import { IResourceComponentsProps } from "@refinedev/core";
@@ -68,7 +68,7 @@ export const PostList: React.FC<IResourceComponentsProps> = () => {
 
 ## Create page {% #create-page %}
 
- Create a new record page for the Appwrite API by copying the following code and saving it as `create.tsx`.
+ Create a new record page for the Clikkle API by copying the following code and saving it as `create.tsx`.
 
 
 ```ts
@@ -238,7 +238,7 @@ Simply, paste the following into `App.tsx`.
 
 ```ts
 import { Authenticated, Refine } from "@refinedev/core";
-import { dataProvider, liveProvider } from "@refinedev/appwrite";
+import { dataProvider, liveProvider } from "@refinedev/clikkle";
 import {
   AuthPage,
   ErrorComponent,
@@ -257,7 +257,7 @@ import "@refinedev/antd/dist/reset.css";
 import { App as AntdApp, ConfigProvider } from "antd";
 import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
 
-import { appwriteClient } from "./utility";
+import { clikkleClient } from "./utility";
 import { authProvider } from "./authProvider";
 import { PostCreate, PostEdit, PostList, PostShow } from "./pages/posts";
 
@@ -266,17 +266,17 @@ const App: React.FC = () => (
     <ConfigProvider theme={RefineThemes.Blue}>
       <AntdApp>
         <Refine
-          dataProvider={dataProvider(appwriteClient, {
-            databaseId: "<APPWRITE_DATABASE_ID>",
+          dataProvider={dataProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
           })}
-          liveProvider={liveProvider(appwriteClient, {
-            databaseId: "<APPWRITE_DATABASE_ID>",
+          liveProvider={liveProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
           })}
           authProvider={authProvider}
           routerProvider={routerProvider}
           resources={[
             {
-              name: "<APPWRITE_TABLE_ID>",
+              name: "<CLIKKLE_TABLE_ID>",
               list: "/posts",
               create: "/posts/create",
               edit: "/posts/edit/:id",
@@ -309,7 +309,7 @@ const App: React.FC = () => (
                 index
                 element={
                   <NavigateToResource 
-                    resource="<APPWRITE_TABLE_ID>" 
+                    resource="<CLIKKLE_TABLE_ID>" 
                   />
                 }
               />
@@ -326,7 +326,7 @@ const App: React.FC = () => (
               element={
                 <Authenticated fallback={<Outlet />}>
                   <NavigateToResource
-                    resource="<APPWRITE_TABLE_ID>" 
+                    resource="<CLIKKLE_TABLE_ID>" 
                   />
                 </Authenticated>
               }
@@ -362,4 +362,5 @@ const App: React.FC = () => (
 
 export default App;
 ```
+
 

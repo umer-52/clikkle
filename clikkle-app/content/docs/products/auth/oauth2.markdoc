@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: OAuth 2 login
-description: Integrate OAuth2 authentication seamlessly with Appwrite. Learn how to connect your application with third-party OAuth2 providers for secure user login and access.
+description: Integrate OAuth2 authentication seamlessly with Clikkle. Learn how to connect your application with third-party OAuth2 providers for secure user login and access.
 ---
 
 OAuth authentication allows users to log in using accounts from other popular services. This can be convenient for users because they can start using your app without creating a new account. It can also be more secure, because the user has one less password that could become vulnerable.
@@ -9,20 +9,20 @@ OAuth authentication allows users to log in using accounts from other popular se
 When using OAuth to authenticate, the authentication request is initiated from the client application. The user is then redirected to an OAuth 2 provider to complete the authentication step, and finally, the user is redirected back to the client application.
 
 {% info title="Identities and OAuth2" %}
-OAuth2 login creates an **identity** in Appwrite, allowing users to connect multiple providers to a single account. Learn more in [Identities](/docs/products/auth/identities).
+OAuth2 login creates an **identity** in Clikkle, allowing users to connect multiple providers to a single account. Learn more in [Identities](/docs/products/auth/identities).
 {% /info %}
 
 # Configure OAuth 2 login {% #configure %}
 
 Before using OAuth 2 login, you need to enable and configure an OAuth 2 login provider.
 
-1. Navigate to your Appwrite project.
+1. Navigate to your Clikkle project.
 2. Navigate to **Auth** > **Settings**.
 3. Find and open the OAuth provider.
 4. In the OAuth 2 settings modal, use the toggle to enable the provider.
 5. Create and OAuth 2 app on the provider's developer platform.
-6. Copy information from your OAuth2 provider's developer platform to fill the **OAuth2 Settings** modal in the Appwrite Console.
-7. Configure redirect URL in your OAuth 2 provider's developer platform. Set it to URL provided to you by **OAuth2 Settings** modal in Appwrite Console.
+6. Copy information from your OAuth2 provider's developer platform to fill the **OAuth2 Settings** modal in the Clikkle Console.
+7. Configure redirect URL in your OAuth 2 provider's developer platform. Set it to URL provided to you by **OAuth2 Settings** modal in Clikkle Console.
 
 # Initialize OAuth 2 login {% #init %}
 
@@ -37,10 +37,10 @@ The scope is provider-specific and can be found in the provider's documentation.
 {% tabs %}
 {% tabsitem #js title="Javascript" %}
 ```client-web
-import { Client, Account, OAuthProvider } from "appwrite";
+import { Client, Account, OAuthProvider } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const account = new Account(client);
@@ -57,7 +57,7 @@ account.createOAuth2Session({
 
 {% tabsitem #flutter title="Flutter" %}
 
-For Android, add the following activity inside the `<application>` tag in your `AndroidManifest.xml`. Replace `<PROJECT_ID>` with your actual Appwrite project ID.
+For Android, add the following activity inside the `<application>` tag in your `AndroidManifest.xml`. Replace `<PROJECT_ID>` with your actual Clikkle project ID.
 
 ```xml
 <!-- Add this inside the <application> tag, along side the existing <activity> tags -->
@@ -66,7 +66,7 @@ For Android, add the following activity inside the `<application>` tag in your `
     <action android:name="android.intent.action.VIEW" />
     <category android:name="android.intent.category.DEFAULT" />
     <category android:name="android.intent.category.BROWSABLE" />
-    <data android:scheme="appwrite-callback-<PROJECT_ID>" />
+    <data android:scheme="clikkle-callback-<PROJECT_ID>" />
   </intent-filter>
 </activity>
 ```
@@ -74,11 +74,11 @@ For Android, add the following activity inside the `<application>` tag in your `
 No other configuration is required for iOS.
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
-import 'package:appwrite/enums.dart';
+import 'package:clikkle/clikkle.dart';
+import 'package:clikkle/enums.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 final account = Account(client);
@@ -101,10 +101,10 @@ For Apple, add the following URL scheme to your `Info.plist`.
     <key>CFBundleTypeRole</key>
     <string>Editor</string>
     <key>CFBundleURLName</key>
-    <string>io.appwrite</string>
+    <string>io.clikkle</string>
     <key>CFBundleURLSchemes</key>
     <array>
-        <string>appwrite-callback-<PROJECT_ID></string>
+        <string>clikkle-callback-<PROJECT_ID></string>
     </array>
 </dict>
 </array>
@@ -114,7 +114,7 @@ If you're using UIKit, you'll also need to add a hook to your `SceneDelegate.swi
 ```client-apple
 func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
     guard let url = URLContexts.first?.url,
-        url.absoluteString.contains("appwrite-callback") else {
+        url.absoluteString.contains("clikkle-callback") else {
         return
     }
     WebAuthComponent.handleIncomingCookie(from: url)
@@ -122,11 +122,11 @@ func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>)
 ```
 
 ```client-apple
-import Appwrite
-import AppwriteEnums
+import Clikkle
+import ClikkleEnums
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                // Your project ID
 
 let account = Account(client)
@@ -141,26 +141,26 @@ try await account.createOAuth2Session(
 
 {% tabsitem #android title="Android" %}
 For Android, add the following activity inside the `<application>` tag in your `AndroidManifest.xml`.
-Replace `<PROJECT_ID>` with your actual Appwrite project ID.
+Replace `<PROJECT_ID>` with your actual Clikkle project ID.
 
 ```xml
 <!-- Add this inside the `<application>` tag, along side the existing `<activity>` tags -->
-<activity android:name="io.appwrite.views.CallbackActivity" android:exported="true">
+<activity android:name="io.clikkle.views.CallbackActivity" android:exported="true">
   <intent-filter android:label="android_web_auth">
     <action android:name="android.intent.action.VIEW" />
     <category android:name="android.intent.category.DEFAULT" />
     <category android:name="android.intent.category.BROWSABLE" />
-    <data android:scheme="appwrite-callback-<PROJECT_ID>" />
+    <data android:scheme="clikkle-callback-<PROJECT_ID>" />
   </intent-filter>
 </activity>
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
-import io.appwrite.enums.OAuthProvider
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.enums.OAuthProvider
 
 val client = Client(context)                     // Activity or application context
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 val account = Account(client)
@@ -174,12 +174,12 @@ account.createOAuth2Session(
 {% /tabsitem %}
 
 {% tabsitem #react-native title="React Native" %}
-If using Expo, set the URL scheme to `appwrite-callback-<PROJECT_ID>` in your `app.json` file.
+If using Expo, set the URL scheme to `clikkle-callback-<PROJECT_ID>` in your `app.json` file.
 
 ```json
 {
   "expo": {
-    "scheme": "appwrite-callback-<PROJECT_ID>"
+    "scheme": "clikkle-callback-<PROJECT_ID>"
   }
 }
 ```
@@ -187,12 +187,12 @@ If using Expo, set the URL scheme to `appwrite-callback-<PROJECT_ID>` in your `a
 Then, create a deep link, pass it to `account.createOAuth2Token()` method to create the login URL, open the URL in a browser, listen for the redirect, and finally create a session with the secret.
 
 ```client-react-native
-import { Client, Account, OAuthProvider } from "appwrite";
+import { Client, Account, OAuthProvider } from "clikkle";
 import { makeRedirectUri } from 'expo-auth-session'
 import * as WebBrowser from 'expo-web-browser';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                          // Your project ID
 
 const account = new Account(client);
@@ -200,7 +200,7 @@ const account = new Account(client);
 // Create deep link that works across Expo environments
 // Ensure localhost is used for the hostname to validation error for success/failure URLs
 const deepLink = new URL(makeRedirectUri({ preferLocalhost: true }));
-const scheme = `${deepLink.protocol}//`; // e.g. 'exp://' or 'appwrite-callback-<PROJECT_ID>://'
+const scheme = `${deepLink.protocol}//`; // e.g. 'exp://' or 'clikkle-callback-<PROJECT_ID>://'
 
 // Start OAuth flow
 const loginUrl = await account.createOAuth2Token({
@@ -243,7 +243,7 @@ Replace `[SESSION_ID]` with either `"current"` to get or update the active sessi
 
 {% multicode %}
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client();
 
@@ -260,10 +260,10 @@ console.log(session.providerAccessToken);
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');               // Your project ID
 
 final account = Account(client);
@@ -278,10 +278,10 @@ print(session.providerUid);
 print(session.providerAccessToken);
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 let account = Account(client)
@@ -296,11 +296,11 @@ print(session.providerUid);
 print(session.providerAccessToken);
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 val account = Account(client)
@@ -331,7 +331,7 @@ You can use the `providerAccessToken` to make requests to your OAuth 2 provider.
 # Refresh tokens {% #refresh-tokens %}
 
 OAuth 2 sessions expire to protect from security risks.
-This means the OAuth 2 session with a provider may expire, even when an Appwrite session remains active.
+This means the OAuth 2 session with a provider may expire, even when an Clikkle session remains active.
 OAuth 2 sessions should be refreshed periodically so access tokens don't expire.
 
 Check the value of `providerAccessTokenExpiry` to know if the token is expired or is about to expire.
@@ -351,10 +351,10 @@ promise.then(function (response) {
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                // Your project ID
 
 Account account = Account(client);
@@ -364,10 +364,10 @@ final result = await account.updateSession(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>") // Your project ID
 
 let account = Account(client)
@@ -377,11 +377,11 @@ let session = try await account.updateSession(
 );
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                 // Your project ID
 
 val account = Account(client)
@@ -396,3 +396,4 @@ val response = account.updateSession(
 {% info title="GraphQL" %}
 OAuth 2 is not available through the GraphQL API. You can use the REST API or any Client SDK instead.
 {% /info %}
+

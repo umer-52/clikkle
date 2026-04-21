@@ -1,24 +1,24 @@
 ---
 layout: tutorial
 title: Initialize SDK
-description: Add authentication to a Next.js project using Appwrite.
+description: Add authentication to a Next.js project using Clikkle.
 step: 3
 ---
-Before you can use Appwrite, you need to create the Appwrite `Client` and set the project ID and endpoint. 
-The client is then used to create services like `Databases` and `Account`, so they all point to the same Appwrite project.
+Before you can use Clikkle, you need to create the Clikkle `Client` and set the project ID and endpoint. 
+The client is then used to create services like `Databases` and `Account`, so they all point to the same Clikkle project.
 
-Create a function to build services you need in a file like `src/lib/server/appwrite.js` and **exporting the instances**.
+Create a function to build services you need in a file like `src/lib/server/clikkle.js` and **exporting the instances**.
 
 ```js
-// src/lib/server/appwrite.js
+// src/lib/server/clikkle.js
 "use server";
-import { Client, Account } from "node-appwrite";
+import { Client, Account } from "node-clikkle";
 import { cookies } from "next/headers";
 
 export async function createSessionClient() {
   const client = new Client()
-    .setEndpoint(process.env.NEXT_PUBLIC_APPWRITE_ENDPOINT)
-    .setProject(process.env.NEXT_PUBLIC_APPWRITE_PROJECT);
+    .setEndpoint(process.env.NEXT_PUBLIC_CLIKKLE_ENDPOINT)
+    .setProject(process.env.NEXT_PUBLIC_CLIKKLE_PROJECT);
 
   const session = await cookies().get("my-custom-session");
   if (!session || !session.value) {
@@ -36,9 +36,9 @@ export async function createSessionClient() {
 
 export async function createAdminClient() {
   const client = new Client()
-    .setEndpoint(process.env.NEXT_PUBLIC_APPWRITE_ENDPOINT)
-    .setProject(process.env.NEXT_PUBLIC_APPWRITE_PROJECT)
-    .setKey(process.env.NEXT_APPWRITE_KEY);
+    .setEndpoint(process.env.NEXT_PUBLIC_CLIKKLE_ENDPOINT)
+    .setProject(process.env.NEXT_PUBLIC_CLIKKLE_PROJECT)
+    .setKey(process.env.NEXT_CLIKKLE_KEY);
 
   return {
     get account() {
@@ -50,26 +50,26 @@ export async function createAdminClient() {
 
 As part of the function, set the current user's session if they are logged in. This is done by accessing the session cookie from the request and calling the `setSession(session)` with the cookie value.
 
-{% info title="Appwrite client security" %}
-Notice that `createAdminClient` and `createSessionClient` returns **a new instance** of the Appwrite Client.
-When using Appwrite in server-integrations, it's important to **never share a `Client` instance** between two requests.
+{% info title="Clikkle client security" %}
+Notice that `createAdminClient` and `createSessionClient` returns **a new instance** of the Clikkle Client.
+When using Clikkle in server-integrations, it's important to **never share a `Client` instance** between two requests.
 Doing so could create security vulnerabilities.
 {% /info %}
 
 ## Environment variables {% #environment-variables %}
 
-`NEXT_APPWRITE_KEY`, `NEXT_PUBLIC_APPWRITE_ENDPOINT` and `NEXT_PUBLIC_APPWRITE_PROJECT` are environment variables that are exported in your project's [.env file](https://kit.svelte.dev/docs/modules#$env-dynamic-public).
+`NEXT_CLIKKLE_KEY`, `NEXT_PUBLIC_CLIKKLE_ENDPOINT` and `NEXT_PUBLIC_CLIKKLE_PROJECT` are environment variables that are exported in your project's [.env file](https://kit.svelte.dev/docs/modules#$env-dynamic-public).
 
 For example, your `.env` might look something similar to this.
 
 ```env
-NEXT_APPWRITE_KEY=<YOUR_API_KEY>
-NEXT_PUBLIC_APPWRITE_ENDPOINT=https://<REGION>.cloud.appwrite.io/v1
-NEXT_PUBLIC_APPWRITE_PROJECT=<PROJECT_ID>
+NEXT_CLIKKLE_KEY=<YOUR_API_KEY>
+NEXT_PUBLIC_CLIKKLE_ENDPOINT=https://<REGION>.cloud.clikkle.io/v1
+NEXT_PUBLIC_CLIKKLE_PROJECT=<PROJECT_ID>
 ```
 
-The `NEXT_PUBLIC_APPWRITE_ENDPOINT` is the endpoint of your appwrite instance , and the `NEXT_PUBLIC_APPWRITE_PROJECT` is the ID of the project you want to use. 
-You can get the values for these variables from the Appwrite console. 
+The `NEXT_PUBLIC_CLIKKLE_ENDPOINT` is the endpoint of your clikkle instance , and the `NEXT_PUBLIC_CLIKKLE_PROJECT` is the ID of the project you want to use. 
+You can get the values for these variables from the Clikkle console. 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
 {% /only_dark %}
@@ -77,7 +77,7 @@ You can get the values for these variables from the Appwrite console.
 ![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
 {% /only_light %}
 
-The `NEXT_APPWRITE_KEY` is an Appwrite API key with the necessary permissions to create new sessions.
+The `NEXT_CLIKKLE_KEY` is an Clikkle API key with the necessary permissions to create new sessions.
 
 For this tutorial you'll need an API key with the following scopes:
 
@@ -91,4 +91,5 @@ For this tutorial you'll need an API key with the following scopes:
 {% only_light %}
 ![Server integrations](/clikkle/images/docs/quick-starts/integrate-server.png)
 {% /only_light %}
+
 

@@ -1,14 +1,14 @@
----
+﻿---
 layout: article
 title: Deploy manually
-description: Learn to deploy Appwrite functions manually from the Appwrite CLI or the Appwrite Console.
+description: Learn to deploy Clikkle functions manually from the Clikkle CLI or the Clikkle Console.
 ---
 
-Appwrite Functions are mini-applications in Appwrite with their own endpoints. 
+Clikkle Functions are mini-applications in Clikkle with their own endpoints. 
 Each function can have many deployments, which can be thought of as versions of the mini-application.
 
 While we recommend you create deployments through [automatic Git deployments](/docs/products/functions/deploy-from-git),
-you can also create deployments manually or through the Appwrite CLI.
+you can also create deployments manually or through the Clikkle CLI.
 
 # CLI  {% #cli %} 
 
@@ -16,15 +16,15 @@ you can also create deployments manually or through the Appwrite CLI.
 
 ## Configure CLI deployments {% #configure-cli-deployments %}
 If you need to target a different project, API endpoint, change the path or entry point of your function, or update any of the other configuration options, 
-you can do so by editing the `appwrite.config.json` file.
+you can do so by editing the `clikkle.config.json` file.
 
-{% arrow_link href="/docs/tooling/command-line/functions#appwritejson" %}
-Learn more about appwrite.config.json
+{% arrow_link href="/docs/tooling/command-line/functions#clikklejson" %}
+Learn more about clikkle.config.json
 {% /arrow_link %}
 
 # Manual Deployment {% #manual %} 
 
-You can upload your functions to be deployed using the Appwrite Console. The example below shows a simple Node.js function.
+You can upload your functions to be deployed using the Clikkle Console. The example below shows a simple Node.js function.
 
 ```text
 .
@@ -47,7 +47,7 @@ First, navigate inside the folder that contains your dependency file. Package yo
 {% /multicode %}
 
 
-Next, navigate to your Appwrite Console and upload the function.
+Next, navigate to your Clikkle Console and upload the function.
 
 1. Navigate to the function you want to deploy.
 2. Click **Create deployment**.
@@ -68,3 +68,4 @@ These commands will be ran before the function is built and can be used to insta
 
 - If you're missing some code files at build time, make sure they are included in the **Root directory**. 
 Only files in the root directory folder will be copied to the executor.
+

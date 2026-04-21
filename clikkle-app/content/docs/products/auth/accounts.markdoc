@@ -1,10 +1,10 @@
----
+﻿---
 layout: article
 title: Accounts
-description: Unlock advanced user management - Appwrite's Account API for seamless signups, authentication, and dynamic permissions.
+description: Unlock advanced user management - Clikkle's Account API for seamless signups, authentication, and dynamic permissions.
 ---
 
-Appwrite Account API is used for user signup and login in client applications.
+Clikkle Account API is used for user signup and login in client applications.
 Users can be organized into teams and be given labels, so they can be given different permissions and access different resources.
 
 {% partial file="account-vs-user.md" /%}
@@ -34,5 +34,6 @@ individual users using the `Role.user(<USER_ID>, <STATUS>)` role.
 {% arrow_link href="/docs/advanced/platform/permissions" %}
 Learn more about permissions
 {% /arrow_link %}
+
 
 

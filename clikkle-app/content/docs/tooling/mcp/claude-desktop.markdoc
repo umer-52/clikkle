@@ -1,10 +1,10 @@
 ---
 layout: article
-title: Appwrite MCP and Claude Desktop
-description: Learn how to add the Appwrite MCP servers to Claude Desktop to interact with both the Appwrite API and documentation.
+title: Clikkle MCP and Claude Desktop
+description: Learn how to add the Clikkle MCP servers to Claude Desktop to interact with both the Clikkle API and documentation.
 ---
 
-Learn how you can add the Appwrite MCP servers to Claude Desktop to interact with both the Appwrite API and documentation.
+Learn how you can add the Clikkle MCP servers to Claude Desktop to interact with both the Clikkle API and documentation.
 
 Before you begin, ensure you have the following **pre-requisites** installed on your system:
 
@@ -40,16 +40,16 @@ Add the API server to your configuration:
 ```json
 {
     "mcpServers": {
-        "appwrite-api": {
+        "clikkle-api": {
             "command": "uvx",
             "args": [
-                "mcp-server-appwrite",
+                "mcp-server-clikkle",
                 "--users"
             ],
             "env": {
-                "APPWRITE_PROJECT_ID": "your-project-id",
-                "APPWRITE_API_KEY": "your-api-key",
-                "APPWRITE_ENDPOINT": "https://<REGION>.cloud.appwrite.io/v1"
+                "CLIKKLE_PROJECT_ID": "your-project-id",
+                "CLIKKLE_API_KEY": "your-api-key",
+                "CLIKKLE_ENDPOINT": "https://<REGION>.cloud.clikkle.io/v1"
             }
         }
     }
@@ -57,9 +57,9 @@ Add the API server to your configuration:
 ```
 
 **Configuration:**
-- Replace `your-project-id` with your actual Appwrite project ID
-- Replace `your-api-key` with your Appwrite API key
-- Replace `<REGION>` with your Appwrite Cloud region (e.g., `nyc`, `fra`)
+- Replace `your-project-id` with your actual Clikkle project ID
+- Replace `your-api-key` with your Clikkle API key
+- Replace `<REGION>` with your Clikkle Cloud region (e.g., `nyc`, `fra`)
 
 {% /tabsitem %}
 
@@ -70,11 +70,11 @@ Add the docs server to your configuration:
 ```json
 {
   "mcpServers": {
-    "appwrite-docs": {
+    "clikkle-docs": {
       "command": "npx",
       "args": [
         "mcp-remote",
-        "https://mcp-for-docs.appwrite.io"
+        "https://mcp-for-docs.clikkle.io"
       ]
     }
   }
@@ -98,9 +98,9 @@ To enable additional API tools, learn more about [command-line arguments](/docs/
 
 {% section #step-2 step=2 title="Verify MCP tools" %}
 
-Restart the Claude Desktop app, click on the MCP tools button (at the bottom right section of the prompt input) and click on it to view available Appwrite MCP tools.
+Restart the Claude Desktop app, click on the MCP tools button (at the bottom right section of the prompt input) and click on it to view available Clikkle MCP tools.
 
-![Appwrite MCP tools](/clikkle/images/docs/mcp/claude-desktop/claude-mcp-tools.png)
+![Clikkle MCP tools](/clikkle/images/docs/mcp/claude-desktop/claude-mcp-tools.png)
 
 {% info title="uvx ENOENT error" %}
 
@@ -118,7 +118,7 @@ Try out the following example prompts based on the MCP server you have configure
 {% tabsitem #test-api title="API server" %}
 
 **Example prompts:**
-- `Create a new user in my Appwrite project`
+- `Create a new user in my Clikkle project`
 - `List all databases in my project`
 - `Show me the collections in my database`
 - `Create a new document in my collection`
@@ -129,16 +129,17 @@ Try out the following example prompts based on the MCP server you have configure
 {% tabsitem #test-docs title="Docs server" %}
 
 **Example prompts:**
-- `How do I set up real-time subscriptions in Appwrite?`
+- `How do I set up real-time subscriptions in Clikkle?`
 - `Show me how to authenticate users with OAuth`
 - `What are the best practices for database queries?`
-- `How do I implement file uploads with Appwrite Storage?`
-- `Show me an example of using Appwrite Functions`
+- `How do I implement file uploads with Clikkle Storage?`
+- `Show me an example of using Clikkle Functions`
 
 {% /tabsitem %}
 
 {% /tabs %}
 
-![List users in Appwrite project](/clikkle/images/docs/mcp/claude-desktop/claude-list-users.png)
+![List users in Clikkle project](/clikkle/images/docs/mcp/claude-desktop/claude-list-users.png)
 
 {% /section %}
+

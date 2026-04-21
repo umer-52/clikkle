@@ -1,20 +1,20 @@
----
+﻿---
 layout: article
 title: Start with Authentication
-description: Effortlessly add authentication to your apps - simple signup & login in just minutes with Appwrite Authentication
+description: Effortlessly add authentication to your apps - simple signup & login in just minutes with Clikkle Authentication
 ---
-You can get up and running with Appwrite Authentication in minutes.
+You can get up and running with Clikkle Authentication in minutes.
 You can add basic email and password authentication to your app with just a few lines of code.
 
 {% section #sign-up step=1 title="Signup" %}
-You can use the Appwrite [Client SDKs](/docs/sdks#client) to create an account using email and password.
+You can use the Clikkle [Client SDKs](/docs/sdks#client) to create an account using email and password.
 
 {% multicode %}
 ```client-web
-import { Client, Account, ID } from "appwrite";
+import { Client, Account, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const account = new Account(client);
@@ -26,10 +26,10 @@ const user = await account.create({
 });
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 final account = Account(client);
@@ -41,10 +41,10 @@ final user = await account.create(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 let account = Account(client)
@@ -56,12 +56,12 @@ let user = try await account.create(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
-import io.appwrite.ID
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.ID
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<PROJECT_ID>")                  // Your project ID
 
 val account = Account(client)
@@ -83,9 +83,9 @@ mutation {
 ```
 
 ```client-react-native
-import { Client, Account, ID } from "appwrite";
+import { Client, Account, ID } from "clikkle";
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const account = new Account(client);
@@ -155,7 +155,7 @@ const session = await account.createEmailPasswordSession({
 {% section #check-authentication-state step=3 title="Check authentication state" %}
 After logging in, you can check the authentication state of the user.
 
-Appwrite's SDKs are stateless, so you need to manage the session state in your app. 
+Clikkle's SDKs are stateless, so you need to manage the session state in your app. 
 You can use the [Get Account](/docs/references/cloud/client-web/account#get) method to check if the user is logged in.
 
 {% multicode %}
@@ -187,7 +187,7 @@ do {
 return try {
     val user = account.get()
     // Logged in
-} catch (e: AppwriteException) {
+} catch (e: ClikkleException) {
     // Not logged in
 }
 ```
@@ -250,7 +250,7 @@ import "./index.css";
 
 import Login from "./Login";
 import Protected from "./Protected";
-import { account } from "./lib/appwrite";
+import { account } from "./lib/clikkle";
 import { redirect } from "react-router-dom";
 
 
@@ -284,7 +284,7 @@ You can use [Vue router](https://router.vuejs.org/) wiht a [Pinia store](https:/
 
 First, create a simple Pinia store to manage the authentication state.
 ```client-web
-import { account, ID, type Models } from '@/lib/appwrite'
+import { account, ID, type Models } from '@/lib/clikkle'
 import type { register } from 'module';
 import { defineStore } from 'pinia'
 
@@ -346,7 +346,7 @@ import { Injectable } from '@angular/core';
 import { ActivatedRouteSnapshot, CanActivate, RouterStateSnapshot, UrlTree, Router } from '@angular/router';
 import { Observable, from, of } from 'rxjs';
 import { catchError, map } from 'rxjs/operators';
-import { account } from './lib/appwrite';
+import { account } from './lib/clikkle';
 
 @Injectable({
   providedIn: 'root'
@@ -376,7 +376,7 @@ export class AuthGuardGuard implements CanActivate {
 In the root level `+layout.svelte` file, you can check the authentication state before rendering a route.
 ```client-web
 // src/routes/+layout.js
-import { appwrite } from "$lib/appwrite";
+import { clikkle } from "$lib/clikkle";
 
 // Turn off SSR globally, turning the project into a static site
 export const ssr = false;
@@ -384,7 +384,7 @@ export const ssr = false;
 export const load = async () => {
   try {
     return {
-      account: await appwrite.account.get(),
+      account: await clikkle.account.get(),
     };
   } catch {
     return {
@@ -422,17 +422,17 @@ First, create a `ChangeNotifier` to manage the authentication state.
 
 ```client-flutter
 import 'package:flutter/material.dart';
-import 'package:appwrite/appwrite.dart' show Client, ID;
-import 'package:appwrite/appwrite.dart' as Appwrite;
-import 'package:appwrite/models.dart' show User;
+import 'package:clikkle/clikkle.dart' show Client, ID;
+import 'package:clikkle/clikkle.dart' as Clikkle;
+import 'package:clikkle/models.dart' show User;
 
 class Account extends ChangeNotifier {
-  final Appwrite.Account _account;
+  final Clikkle.Account _account;
 
   User? _user;
   User? get user => _user;
 
-  Account(Client client) : _account = Appwrite.Account(client);
+  Account(Client client) : _account = Clikkle.Account(client);
 
   Future<void> init() async {
     try {
@@ -485,14 +485,14 @@ final router = GoRouter(
 {% tabsitem #apple title="Apple" %}
 For Apple platforms, this example uses a `NavigationStack` but you can use similar concepts with other navigation methods.
 
-Initialize Appwrite and create an `AppwriteService`.
+Initialize Clikkle and create an `ClikkleService`.
 ```client-apple
 import Foundation
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 import JSONCodable
 
-class Appwrite {
+class Clikkle {
     var client: Client
     var account: Account
     var tablesDB: TablesDB
@@ -501,7 +501,7 @@ class Appwrite {
 
     public init() {
         self.client = Client()
-            .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
             .setProject("<PROJECT_ID>")
         
         self.account = Account(client)
@@ -522,7 +522,7 @@ import SwiftUI
 
 struct SplashView: View {
     @EnvironmentObject private var router: Router
-    @EnvironmentObject private var AppwriteService: AppwriteService
+    @EnvironmentObject private var ClikkleService: ClikkleService
 
     var body: some View {
         NavigationStack(path: $router.routes) {
@@ -532,7 +532,7 @@ struct SplashView: View {
                     .fontWeight(.bold)
                     .padding()
             }.task {
-                let user = await self.AppwriteService.getUser();
+                let user = await self.ClikkleService.getUser();
 
                 if !user {
                     router.pushReplacement(.login)
@@ -565,13 +565,13 @@ final class Router: ObservableObject {
 ```
 {% /tabsitem %}
 {% tabsitem #android title="Android" %}
-Create some Appwrite Service, for example, `AppwriteService` to manage the authentication state.
-You can find a version of this example in the [Appwrite Android tutorial](/docs/tutorials/android/step-1).
+Create some Clikkle Service, for example, `ClikkleService` to manage the authentication state.
+You can find a version of this example in the [Clikkle Android tutorial](/docs/tutorials/android/step-1).
 ```client-android-kotlin
 //... imports
 
-object Appwrite {
-    private const val ENDPOINT = "https://<REGION>.cloud.appwrite.io/v1"
+object Clikkle {
+    private const val ENDPOINT = "https://<REGION>.cloud.clikkle.io/v1"
     private const val PROJECT_ID = "<PROJECT_ID>"
 
     private lateinit var client: Client
@@ -596,7 +596,7 @@ class AccountService(client: Client) {
     suspend fun getLoggedIn(): User<Map<String, Any>>? {
         return try {
             account.get()
-        } catch (e: AppwriteException) {
+        } catch (e: ClikkleException) {
             null
         }
     }   
@@ -627,20 +627,20 @@ private fun AppContent(accountService: AccountService) {
 }
 ```
 
-In the `MainActivity` class, initialize the Appwrite service and display the `AppContent` based on the authentication state.
+In the `MainActivity` class, initialize the Clikkle service and display the `AppContent` based on the authentication state.
 
 ```client-android-kotlin
 // ...imports 
-In the `MainActivity` class, initialize the Appwrite service.
+In the `MainActivity` class, initialize the Clikkle service.
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        Appwrite.init(applicationContext)
+        Clikkle.init(applicationContext)
 
         setContent {
             // Update this line 👇
-            AppContent(Appwrite.account)
+            AppContent(Clikkle.account)
         }
     }
 }
@@ -648,7 +648,7 @@ class MainActivity : ComponentActivity() {
 {% /tabsitem %}
 {% tabsitem #react-native title="React Native" %}
 This example will use `@react-navigation/native` and `@react-navigation/native-stack` to manage the authentication state and redirect users to the login page if they are not authenticated.
-You can find a version of this example in the [Appwrite Android tutorial](/docs/tutorials/android/step-1).
+You can find a version of this example in the [Clikkle Android tutorial](/docs/tutorials/android/step-1).
 
 Create a `UserContext` to manage the authentication state.
 ```client-react-native
@@ -703,3 +703,4 @@ export function Router() {
 {% /accordion_item %}
 {% /accordion %}
 {% /section %}
+

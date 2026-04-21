@@ -1,12 +1,12 @@
----
+﻿---
 layout: tutorial
 title: Add database
 description: Add databases and queries for ideas in your Next.js project.
 step: 6
 ---
 
-In Appwrite, data is stored as a table of rows. 
-Create a new database and table in the [Appwrite Console](https://cloud.appwrite.io/) to store the ideas.
+In Clikkle, data is stored as a table of rows. 
+Create a new database and table in the [Clikkle Console](https://cloud.clikkle.io/) to store the ideas.
 
 {% only_dark %}
 ![Create table screen](/clikkle/images/docs/tutorials/dark/idea-tracker-table.png)
@@ -38,7 +38,7 @@ For security, we won't grant table-level **Update** and **Delete** permissions t
 
 ## Environment variables {% #environment-variables %}
 
-Just like when we set up the connection to Appwrite in [step 3](/docs/tutorials/nextjs/step-3), we need to keep the variables with the table id secret.
+Just like when we set up the connection to Clikkle in [step 3](/docs/tutorials/nextjs/step-3), we need to keep the variables with the table id secret.
 Open the `.env.local` file and add your database id and your table id to it.
 
 ```
@@ -58,8 +58,8 @@ Create a new file `hooks/useIdeas.ts` and add the following code.
 // hooks/useIdeas.ts
 
 import { useState, useEffect } from 'react';
-import { ID, Query, Permission, type Models } from 'appwrite';
-import { tablesDB } from '../lib/appwrite';
+import { ID, Query, Permission, type Models } from 'clikkle';
+import { tablesDB } from '../lib/clikkle';
 
 const databaseId = process.env.NEXT_PUBLIC_DATABASE_ID!;
 const tableId = process.env.NEXT_PUBLIC_TABLE_ID!;
@@ -135,3 +135,4 @@ export function useIdeas() {
 ```
 
 Now we can call the `useIdeas()` hook from the home page.
+

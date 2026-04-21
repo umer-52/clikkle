@@ -1,12 +1,12 @@
----
+﻿---
 layout: tutorial
 title: Add database
 description: Add databases and queries to store user data in you SvelteKit project.
 step: 6
 ---
 # Create table {% #create-table %}
-In Appwrite, data is stored as a table of rows.
-Create a table inside a database in the [Appwrite Console](https://cloud.appwrite.io/) to store our ideas.
+In Clikkle, data is stored as a table of rows.
+Create a table inside a database in the [Clikkle Console](https://cloud.clikkle.io/) to store our ideas.
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/tutorials/dark/idea-tracker-table.png)
@@ -34,8 +34,8 @@ Let's create some methods to manage ideas in our app.
 Create a new file `src/lib/ideas.js` and add the following code:
 
 ```client-web
-import { ID, Query } from 'appwrite';
-import { tablesDB } from '$lib/appwrite';
+import { ID, Query } from 'clikkle';
+import { tablesDB } from '$lib/clikkle';
 
 const IDEAS_DATABASE_ID = '<YOUR_DATABASE_ID>'; // Replace with your database ID
 const IDEAS_TABLE_ID = '<YOUR_TABLE_ID>'; // Replace with your table ID
@@ -71,4 +71,5 @@ export async function deleteIdea(id) {
 }
 ```
 
-Remember to use a store to hold data returned from Appwrite Databases, so your components can be updated when the data changes.
+Remember to use a store to hold data returned from Clikkle Databases, so your components can be updated when the data changes.
+

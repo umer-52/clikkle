@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create ideas page
-description: Add database queries and pagination using Appwrite in your React Native application.
+description: Add database queries and pagination using Clikkle in your React Native application.
 step: 7
 ---
 
@@ -129,3 +129,4 @@ const styles = StyleSheet.create({
     },
 });
 ```
+

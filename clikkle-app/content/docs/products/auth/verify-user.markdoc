@@ -1,10 +1,10 @@
----
+﻿---
 layout: article
 title: Verify user
-description: Learn about Appwrite's email and phone verification system, including verification flows and role-based access control.
+description: Learn about Clikkle's email and phone verification system, including verification flows and role-based access control.
 ---
 
-User verification in Appwrite allows you to verify user email addresses and phone numbers. Users don't need to be verified to log in, but you can restrict resource access to verified users only using permissions.
+User verification in Clikkle allows you to verify user email addresses and phone numbers. Users don't need to be verified to log in, but you can restrict resource access to verified users only using permissions.
 
 # Verify email {% #verify-email %}
 
@@ -12,10 +12,10 @@ To verify a user's email, first ensure the user is logged in so that the verific
 
 {% multicode %}
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>') // Your project ID
 
 const account = new Account(client);
@@ -32,11 +32,11 @@ promise.then(function (response) {
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() {
   Client client = Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
   Account account = Account(client);
@@ -54,10 +54,10 @@ void main() {
 ```
 
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let account = Account(client)
@@ -68,11 +68,11 @@ let token = try await account.createVerification(
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client(context)
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val account = Account(client)
@@ -89,10 +89,10 @@ Next, implement the verification page that handles the redirect.
 
 {% multicode %}
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const account = new Account(client);
@@ -114,11 +114,11 @@ promise.then(function (response) {
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() {
   Client client = Client()
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
   Account account = Account(client);
@@ -137,10 +137,10 @@ void main() {
 ```
 
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let account = Account(client)
@@ -152,11 +152,11 @@ let response = try await account.updateVerification(
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Account
+import io.clikkle.Client
+import io.clikkle.services.Account
 
 val client = Client(context)
-    .setEndpoint("https://cloud.appwrite.io/v1")
+    .setEndpoint("https://cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val account = Account(client)
@@ -287,3 +287,4 @@ The following events are triggered during the verification process:
 - `users.*.verification.*.update` - Triggers when a verification token for a user is validated
 
 Each event returns a Token Object.
+

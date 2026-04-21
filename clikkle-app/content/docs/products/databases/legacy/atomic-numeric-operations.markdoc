@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Atomic numeric operations
 description: Safely increment and decrement numeric fields without race conditions. Perfect for counters, quotas, inventory, and usage metrics in high-concurrency applications.
@@ -38,10 +38,10 @@ Use the `incrementDocumentColumn` and `decrementDocumentColumn` methods to perfo
 
 {% multicode %}
 ```client-web
-import { Client, Databases } from "appwrite";
+import { Client, Databases } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>'); // Your project ID
 
 const databases = new Databases(client);
@@ -55,10 +55,10 @@ const result = await databases.incrementDocumentColumn(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final databases = Databases(client);
@@ -72,11 +72,11 @@ final document = await databases.incrementDocumentColumn(
 );
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let databases = Databases(client)
@@ -90,11 +90,11 @@ let document = try await databases.incrementDocumentColumn(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.services.Databases
 
 val client = Client(applicationContext)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val databases = Databases(client)
@@ -108,10 +108,10 @@ val document = databases.incrementDocumentColumn(
 )
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('<API_KEY>'); // Your secret API key
 
@@ -126,11 +126,11 @@ const result = await databases.incrementDocumentColumn(
 );
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.databases import Databases
+from clikkle.client import Client
+from clikkle.services.databases import Databases
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
 client.set_project('<PROJECT_ID>') # Your project ID
 client.set_key('<API_KEY>') # Your secret API key
 
@@ -171,10 +171,10 @@ Use the `decrementDocumentColumn` method to decrease numeric fields:
 
 {% multicode %}
 ```client-web
-import { Client, Databases } from "appwrite";
+import { Client, Databases } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>'); // Your project ID
 
 const databases = new Databases(client);
@@ -188,10 +188,10 @@ const result = await databases.decrementDocumentColumn(
 );
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final databases = Databases(client);
@@ -205,11 +205,11 @@ final document = await databases.decrementDocumentColumn(
 );
 ```
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let databases = Databases(client)
@@ -223,11 +223,11 @@ let document = try await databases.decrementDocumentColumn(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Databases
+import io.clikkle.Client
+import io.clikkle.services.Databases
 
 val client = Client(applicationContext)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val databases = Databases(client)
@@ -241,10 +241,10 @@ val document = databases.decrementDocumentColumn(
 )
 ```
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
     .setKey('<API_KEY>'); // Your secret API key
 
@@ -259,11 +259,11 @@ const result = await databases.decrementDocumentColumn(
 );
 ```
 ```server-python
-from appwrite.client import Client
-from appwrite.services.databases import Databases
+from clikkle.client import Client
+from clikkle.services.databases import Databases
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
 client.set_project('<PROJECT_ID>') # Your project ID
 client.set_key('<API_KEY>') # Your secret API key
 
@@ -578,3 +578,4 @@ update_result = databases.update_document(
 - [Permissions](/docs/products/databases/legacy/permissions) - Control access to documents
 - [Queries](/docs/products/databases/legacy/queries) - Find documents to update
 - [Relationships](/docs/products/databases/legacy/relationships) - Update related documents
+

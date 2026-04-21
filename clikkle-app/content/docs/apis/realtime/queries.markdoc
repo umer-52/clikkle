@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Queries
 description: Filter realtime events using queries. Use familiar SDK query methods to receive only the updates that match your conditions.
@@ -8,10 +8,10 @@ You can filter realtime events by passing queries as a third parameter when subs
 
 {% multicode %}
 ```client-web
-import { Client, Realtime, Channel, Query } from "appwrite";
+import { Client, Realtime, Channel, Query } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const realtime = new Realtime(client);
@@ -44,10 +44,10 @@ const otherVotes = await realtime.subscribe(
 ```
 
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final realtime = Realtime(client);
@@ -83,11 +83,11 @@ otherVotes.stream.listen((response) {
 ```
 
 ```client-apple
-import Appwrite
-import AppwriteModels
+import Clikkle
+import ClikkleModels
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let realtime = Realtime(client)
@@ -119,13 +119,13 @@ let otherVotes = realtime.subscribe(
 ```
 
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.Query
-import io.appwrite.services.Realtime
-import io.appwrite.extensions.Channel
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.Realtime
+import io.clikkle.extensions.Channel
 
 val client = Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val realtime = Realtime(client)
@@ -157,17 +157,17 @@ val otherVotes = realtime.subscribe(
 ```
 
 ```client-android-java
-import io.appwrite.Client;
-import io.appwrite.Query;
-import io.appwrite.models.RealtimeResponseEvent;
-import io.appwrite.models.RealtimeSubscription;
-import io.appwrite.services.Realtime;
+import io.clikkle.Client;
+import io.clikkle.Query;
+import io.clikkle.models.RealtimeResponseEvent;
+import io.clikkle.models.RealtimeSubscription;
+import io.clikkle.services.Realtime;
 import java.util.Arrays;
 import java.util.HashSet;
 import kotlin.Unit;
 
 Client client = new Client(context)
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>");
 
 Realtime realtime = new Realtime(client);
@@ -223,3 +223,4 @@ The following query methods are supported for realtime filtering:
 * Logical
 * `Query.and()`, `Query.or()`
 {% /table %}
+

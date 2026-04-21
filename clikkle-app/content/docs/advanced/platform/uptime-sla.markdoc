@@ -1,10 +1,10 @@
 ---
 layout: article
 title: Uptime SLA
-description: Learn about Appwrite's uptime service level agreement and commitments for different subscription plans.
+description: Learn about Clikkle's uptime service level agreement and commitments for different subscription plans.
 ---
 
-This Uptime Service Level Agreement ("SLA") describes the uptime commitments and related service credit terms provided by APPWRITE ("we," "us," or "our") to users of our products and services ("you" or "user"). By using our services, you agree to the terms of this SLA.
+This Uptime Service Level Agreement ("SLA") describes the uptime commitments and related service credit terms provided by CLIKKLE ("we," "us," or "our") to users of our products and services ("you" or "user"). By using our services, you agree to the terms of this SLA.
 
 # Uptime commitments {% #uptime-commitments %}
 
@@ -17,7 +17,7 @@ We commit to maintaining the following monthly uptime percentages based on your 
 | **Scale** | 99.9% |
 | **Enterprise** | 99.95% |
 
-Uptime is measured only for the specific Appwrite services your organization actively uses. An outage affecting services that your organization does not use will not be counted as downtime under this SLA.
+Uptime is measured only for the specific Clikkle services your organization actively uses. An outage affecting services that your organization does not use will not be counted as downtime under this SLA.
 
 # Allowed downtime {% #allowed-downtime %}
 
@@ -44,7 +44,7 @@ Credits are calculated based on the monthly fee for your base subscription plan 
 
 # Credit request procedure {% #credit-request-procedure %}
 
-To receive service credits, you must submit a support ticket within **30 days** of the incident via the Appwrite Console, providing relevant data, logs, or screenshots.
+To receive service credits, you must submit a support ticket within **30 days** of the incident via the Clikkle Console, providing relevant data, logs, or screenshots.
 
 # SLA exclusions {% #sla-exclusions %}
 
@@ -63,3 +63,4 @@ We continuously strive to exceed the commitments outlined in this SLA by improvi
 {% partial file="policy-modifications.md" /%}
 
 {% partial file="policy-contact-us.md" /%}
+

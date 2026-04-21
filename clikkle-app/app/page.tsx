@@ -17,7 +17,7 @@ export default function Home() {
     <main>
       {/* 1. Hero — matches hero.svelte */}
       <HeroSection
-        title="Built for the first soloClikk"
+        title="Built for the first solocorn"
         subtitle="All-in-one, open-source infrastructure. Build in minutes, bring any framework, and scale affordably. Auth, Database, Storage, Functions, Realtime, Messaging & Hosting included."
       />
 

@@ -1,22 +1,22 @@
 ---
 layout: article
-title: Integrating TensorFlow with Appwrite
-description: Learn how to integrate TensorFlow into your Appwrite project.
+title: Integrating TensorFlow with Clikkle
+description: Learn how to integrate TensorFlow into your Clikkle project.
 difficulty: intermediate
 readtime: 15
 ---
 
-The TensorFlow API allows you to create powerful machine learning models for various tasks. This tutorial will guide you through the process of setting up a TensorFlow-based text generation model and integrating it into your Appwrite project.
+The TensorFlow API allows you to create powerful machine learning models for various tasks. This tutorial will guide you through the process of setting up a TensorFlow-based text generation model and integrating it into your Clikkle project.
 
-We'll create a function that uses TensorFlow to generate text completions based on a given prompt. Using Appwrite functions, we'll build a user interface that allows users to input text and see the generated completion.
+We'll create a function that uses TensorFlow to generate text completions based on a given prompt. Using Clikkle functions, we'll build a user interface that allows users to input text and see the generated completion.
 
 # Prerequisites {% #prerequisites %}
 
-- An Appwrite Project
+- An Clikkle Project
 - Basic knowledge of Python and TensorFlow
 
 {% section #step-1 step=1 title="Create new function" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console), click on **Functions** in the left sidebar, and then click on the **Create Function** button.
+Head to the [Clikkle Console](https://cloud.clikkle.io/console), click on **Functions** in the left sidebar, and then click on the **Create Function** button.
 
 {% only_dark %}
 ![Create function screen](/clikkle/images/docs/functions/dark/template.png)
@@ -26,11 +26,11 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console), click on **Fu
 ![Create function screen](/clikkle/images/docs/functions/template.png)
 {% /only_light %}
 
-1. In the Appwrite Console's sidebar, click **Functions**.
+1. In the Clikkle Console's sidebar, click **Functions**.
 1. Click **Create function**.
 1. Under **Connect Git repository**, select your provider.
 1. After connecting to GitHub, under **Quick start**, select the **Python ML** starter template.
-1. In the **Variables** step, add any necessary variables like `APPWRITE_API_KEY`, `APPWRITE_ENDPOINT`, and `APPWRITE_FUNCTION_PROJECT_ID`.
+1. In the **Variables** step, add any necessary variables like `CLIKKLE_API_KEY`, `CLIKKLE_ENDPOINT`, and `CLIKKLE_FUNCTION_PROJECT_ID`.
 1. Follow the step-by-step wizard to create the function.
 {% /section %}
 
@@ -260,8 +260,8 @@ Create a HTML web page that the function will serve. Create a new file at `stati
 
     <script src="//unpkg.com/alpinejs" defer></script>
 
-    <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink" />
-    <link rel="stylesheet" href="https://unpkg.com/@appwrite.io/pink-icons" />
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
   </head>
   <body class="theme-dark">
     <main class="main-content">
@@ -323,7 +323,7 @@ Create a HTML web page that the function will serve. Create a new file at `stati
 </html>
 ```
 
-The form will allow users to submit their text to the Appwrite function through a POST request. The Appwrite function will call the TensorFlow model and return the generated text to the user.
+The form will allow users to submit their text to the Clikkle function through a POST request. The Clikkle function will call the TensorFlow model and return the generated text to the user.
 {% /section %}
 
 {% section #step-9 step=9 title="Test the function" %}
@@ -331,4 +331,5 @@ Now that the function is deployed, test it by visiting the function URL in your 
 This should show the UI created earlier. To test it, write a prompt and click the submit button. After a brief moment, you should see the generated text from the TensorFlow model.
 {% /section %}
 
-This concludes the tutorial on integrating TensorFlow with Appwrite. You now have a working example of a text generation model integrated with Appwrite functions!
+This concludes the tutorial on integrating TensorFlow with Clikkle. You now have a working example of a text generation model integrated with Clikkle functions!
+

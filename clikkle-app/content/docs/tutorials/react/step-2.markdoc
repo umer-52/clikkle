@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create app
-description: Create a React app project and integrate with Appwrite.
+description: Create a React app project and integrate with Clikkle.
 step: 2
 ---
 
@@ -15,10 +15,10 @@ npm create vite@latest -- --template react ideas-tracker && cd ideas-tracker
 
 ## Add dependencies {% #add-dependencies %}
 
-Install the JavaScript Appwrite SDK.
+Install the JavaScript Clikkle SDK.
 
 ```sh
-npm install appwrite
+npm install clikkle
 ```
 
 You can start the development server to watch your app update in the browser as you make changes.
@@ -26,3 +26,4 @@ You can start the development server to watch your app update in the browser as 
 ```sh
 npm run dev -- --open --port 3000
 ```
+

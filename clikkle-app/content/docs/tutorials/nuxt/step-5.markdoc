@@ -1,4 +1,4 @@
----
+﻿---
 layout: tutorial
 title: Add navigation
 description: Add navigation to your app.
@@ -49,8 +49,8 @@ Open `app.vue` from the root directory and add the navigation bar.
 <!-- app.vue -->
 
 <script setup>
-import "@appwrite.io/pink";
-import "@appwrite.io/pink-icons";
+import "@clikkle.io/pink";
+import "@clikkle.io/pink-icons";
 </script>
 
 <template>
@@ -65,3 +65,4 @@ import "@appwrite.io/pink-icons";
 ```
 
 Have a look in the browser at both the main page and the login page to test the new functionality.
+

@@ -1,11 +1,11 @@
 ---
 layout: article
 title: Examples
-description: Accelerate your serverless development with Appwrite Functions examples. Access a library of code samples and use cases to jumpstart your projects.
+description: Accelerate your serverless development with Clikkle Functions examples. Access a library of code samples and use cases to jumpstart your projects.
 ---
 
 
-Appwrite Functions is all about flexibility. Behind the simple workflow hides some useful examples that can help you accomplish your goals faster. Take a look at the following.
+Clikkle Functions is all about flexibility. Behind the simple workflow hides some useful examples that can help you accomplish your goals faster. Take a look at the following.
 
 {% section #currency-conversion step=1 title="Currency conversion API" %}
 
@@ -24,7 +24,7 @@ Install the `undici` library. This library includes a `fetch` function that you 
 ```bash
 npm install undici
 ```
-Finally, add `npm install` to your function's build commands in the Appwrite Console.
+Finally, add `npm install` to your function's build commands in the Clikkle Console.
 {% /tabsitem %}
 
 {% tabsitem #php title="PHP" %}
@@ -40,7 +40,7 @@ Install the `guzzlehttp/guzzle` library. This library includes a `get` function 
 composer require guzzlehttp/guzzle
 ```
 
-Finally, add `composer install` to your function's build commands in the Appwrite Console.
+Finally, add `composer install` to your function's build commands in the Clikkle Console.
 
 {% /tabsitem %}
 
@@ -59,7 +59,7 @@ echo "requests" >> requirements.txt
 pip install -r requirements.txt
 ```
 
-Finally, add `pip install -r requirements.txt` to your function's build commands in the Appwrite Console.
+Finally, add `pip install -r requirements.txt` to your function's build commands in the Clikkle Console.
 
 {% /tabsitem %}
 {% tabsitem #dart title="Dart" %}
@@ -67,8 +67,8 @@ Finally, add `pip install -r requirements.txt` to your function's build commands
 Create a `pubspec.yaml` file with the following contents. This file is used to manage your Dart project's dependencies.
 
 ```yaml
-name: appwrite_function
-description: Appwrite Function
+name: clikkle_function
+description: Clikkle Function
 version: 1.0.0
 environment:
   sdk: '>=2.12.0 <3.0.0'
@@ -80,7 +80,7 @@ Install the `http` library. This library includes a `get` function that you can 
 pub install http
 ```
 
-Finally, add `pub get` to your function's build commands in the Appwrite Console.
+Finally, add `pub get` to your function's build commands in the Clikkle Console.
 
 {% /tabsitem %}
 {% tabsitem #ruby title="Ruby" %}
@@ -98,7 +98,7 @@ echo "gem 'httparty'" >> Gemfile
 bundle install
 ```
 
-Finally, add `bundle install` to your function's build commands in the Appwrite Console.
+Finally, add `bundle install` to your function's build commands in the Clikkle Console.
 {% /tabsitem %}
 
 {% /tabs %}
@@ -134,9 +134,9 @@ export default async function ({ req, res }) {
 
 require(__DIR__ . '/../vendor/autoload.php');
 
-use Appwrite\Client;
-use Appwrite\Exception;
-use Appwrite\Services\Database;
+use Clikkle\Client;
+use Clikkle\Exception;
+use Clikkle\Services\Database;
 use GuzzleHttp\Client as GuzzleClient;
 
 return function ($context) {
@@ -235,7 +235,7 @@ end
 
 {% section #voting-system step=2 title="Voting system" %}
 
-Here's a simple voting system that allows users to vote on various topics. Appwrite Functions and the server SDK are used to enforce voting rules and prevent multiple votes from the same user for a single topic.
+Here's a simple voting system that allows users to vote on various topics. Clikkle Functions and the server SDK are used to enforce voting rules and prevent multiple votes from the same user for a single topic.
 
 ## Prerequisites
 
@@ -258,7 +258,7 @@ Create a Votes table with the following columns:
 ## Code
 {% multicode %}
 ```server-nodejs
-import { Client, TablesDB, Query, ID } from 'node-appwrite';
+import { Client, TablesDB, Query, ID } from 'node-clikkle';
 
 export default async function ({ req, res }) {
   const vote = {
@@ -274,8 +274,8 @@ export default async function ({ req, res }) {
   // Set project and set API key
   const client = new Client();
   client
-    .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
-    .setKey(req.headers['x-appwrite-key']);
+    .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+    .setKey(req.headers['x-clikkle-key']);
 
   const tablesDB = new TablesDB(client);
 
@@ -307,9 +307,9 @@ export default async function ({ req, res }) {
 };
 ```
 ```python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.query import Query
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.query import Query
 import os
 
 def main(context):
@@ -325,8 +325,8 @@ def main(context):
     # Set project and set API key
     client = (
         Client()
-        .set_project(os.environ['APPWRITE_FUNCTION_PROJECT_ID'])
-        .set_key(context.req.headers['x-appwrite-key'])
+        .set_project(os.environ['CLIKKLE_FUNCTION_PROJECT_ID'])
+        .set_key(context.req.headers['x-clikkle-key'])
     )
 
     tablesDB = TablesDB(client)
@@ -355,10 +355,10 @@ def main(context):
 
 require(__DIR__ . '/../vendor/autoload.php');
 
-use Appwrite\Client;
-use Appwrite\Exception;
-use Appwrite\Services\Database;
-use Appwrite\Query;
+use Clikkle\Client;
+use Clikkle\Exception;
+use Clikkle\Services\Database;
+use Clikkle\Query;
 
 return function ($context) {
     $vote = [
@@ -374,8 +374,8 @@ return function ($context) {
     // Set project and set API key
     $client = new Client();
     $client
-        ->setProject(getenv('APPWRITE_FUNCTION_PROJECT_ID'))
-        ->setKey($context->req->headers['x-appwrite-key']);
+        ->setProject(getenv('CLIKKLE_FUNCTION_PROJECT_ID'))
+        ->setKey($context->req->headers['x-clikkle-key']);
 
     $tablesDB = new TablesDB($client);
 
@@ -406,7 +406,7 @@ return function ($context) {
 ```
 ```dart
 import 'dart:async';
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 import 'dart:io';
 
 Future main(final context) async {
@@ -422,8 +422,8 @@ Future main(final context) async {
 
     // Set project and set API key
     final client = Client()
-        .setProject(Platform.environment['APPWRITE_FUNCTION_PROJECT_ID'])
-        .setKey(context.req.headers['x-appwrite-key']);
+        .setProject(Platform.environment['CLIKKLE_FUNCTION_PROJECT_ID'])
+        .setKey(context.req.headers['x-clikkle-key']);
 
     final tablesDB = TablesDB(client);
 
@@ -453,7 +453,7 @@ Future main(final context) async {
 }
 ```
 ```ruby
-require "appwrite"
+require "clikkle"
 
 def main(context)
     vote = {
@@ -467,16 +467,16 @@ def main(context)
     end
 
     # Set project and set API key
-    client = Appwrite::Client.new()
+    client = Clikkle::Client.new()
     client
-        .set_project(ENV['APPWRITE_FUNCTION_PROJECT_ID'])
-        .set_key(context.req.headers['x-appwrite-key'])
+        .set_project(ENV['CLIKKLE_FUNCTION_PROJECT_ID'])
+        .set_key(context.req.headers['x-clikkle-key'])
 
-    tablesDB = Appwrite::TablesDB.new(client)
+    tablesDB = Clikkle::TablesDB.new(client)
 
     existing_votes = tablesDB.list_rows('<DATABASE_ID>', '<VOTES_TABLE_ID>', [
-        Appwrite::Query.equal('userId', vote['userId']),
-        Appwrite::Query.equal('topicId', vote['topicId'])
+        Clikkle::Query.equal('userId', vote['userId']),
+        Clikkle::Query.equal('topicId', vote['topicId'])
     ])
 
     if existing_votes['total'] > 0
@@ -523,7 +523,7 @@ Create a Messages table with the following columns:
 {% multicode %}
 
 ```server-nodejs
-import { Client, TablesDB, Query, ID } from 'node-appwrite';
+import { Client, TablesDB, Query, ID } from 'node-clikkle';
 import querystring from 'node:querystring';
 
 const html = `<!doctype html>
@@ -558,8 +558,8 @@ export default async function ({ req, res }) {
 
     // Set project and set API key
     const client = new Client()
-      .setProject(process.env.APPWRITE_FUNCTION_PROJECT_ID)
-      .setKey(req.headers['x-appwrite-key']);
+      .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+      .setKey(req.headers['x-clikkle-key']);
 
     const tablesDB = new TablesDB(client);
     const row = await tablesDB.createRow({
@@ -577,9 +577,9 @@ export default async function ({ req, res }) {
 ```
 
 ```python
-from appwrite.client import Client
-from appwrite.services.tables_db import TablesDB
-from appwrite.query import Query
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+from clikkle.query import Query
 from urllib.parse import parse_qs
 import os
 
@@ -616,8 +616,8 @@ def main(context):
         # Set project and set API key
         client = (
           Client()
-            .set_project(os.environ["APPWRITE_FUNCTION_PROJECT_ID"])
-            .set_key(context.req.headers["x-appwrite-key"])
+            .set_project(os.environ["CLIKKLE_FUNCTION_PROJECT_ID"])
+            .set_key(context.req.headers["x-clikkle-key"])
         )
 
         tablesDB = TablesDB(client)
@@ -633,9 +633,9 @@ def main(context):
 
 require(__DIR__ . '/../vendor/autoload.php');
 
-use Appwrite\Client;
-use Appwrite\Exception;
-use Appwrite\Services\TablesDB;
+use Clikkle\Client;
+use Clikkle\Exception;
+use Clikkle\Services\TablesDB;
 
 $html = '<!doctype html>
 <html lang="en">
@@ -671,8 +671,8 @@ return function ($context) {
 
     // Set project and set API key
     $client = (new Client())
-         ->setProject(getenv('APPWRITE_FUNCTION_PROJECT_ID'))
-         ->setKey($context->req->headers['x-appwrite-key']);
+         ->setProject(getenv('CLIKKLE_FUNCTION_PROJECT_ID'))
+         ->setKey($context->req->headers['x-clikkle-key']);
 
     $tablesDB = new TablesDB($client);
     $row = $tablesDB->createRow('<DATABASE_ID>', '<MESSAGES_TABLE_ID>', ID::unique(), $message);
@@ -685,7 +685,7 @@ return function ($context) {
 ```
 
 ```ruby
-require "appwrite"
+require "clikkle"
 
 html = '''<!doctype html>
 <html lang="en">
@@ -719,11 +719,11 @@ def main(context)
         }
 
         # Set project and set API key
-        client = Appwrite::Client.new
-            .set_project(ENV['APPWRITE_FUNCTION_PROJECT_ID'])
-            .set_key(context.req.headers['x-appwrite-key'])
+        client = Clikkle::Client.new
+            .set_project(ENV['CLIKKLE_FUNCTION_PROJECT_ID'])
+            .set_key(context.req.headers['x-clikkle-key'])
 
-        tablesDB = Appwrite::TablesDB.new(client)
+        tablesDB = Clikkle::TablesDB.new(client)
         row = tablesDB.create_row('<DATABASE_ID>', '<MESSAGES_TABLE_ID>', ID.unique(), message)
 
         return context.res.text("Message sent")
@@ -735,7 +735,7 @@ end
 
 ```dart
 import 'dart:async';
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Future main(final context) async {
     final html = '''<!doctype html>
@@ -770,8 +770,8 @@ Future main(final context) async {
 
         // Set project and set API key
         final client = Client()
-          .setProject(Platform.environment['APPWRITE_FUNCTION_PROJECT_ID'])
-          .setKey(context.req.headers['x-appwrite-key']);
+          .setProject(Platform.environment['CLIKKLE_FUNCTION_PROJECT_ID'])
+          .setKey(context.req.headers['x-clikkle-key']);
 
         final tablesDB = TablesDB(client);
         final row = await tablesDB.createRow('<DATABASE_ID>', '<MESSAGES_TABLE_ID>', ID.unique(), message);
@@ -787,3 +787,4 @@ Future main(final context) async {
 
 Use the function by navigating to the function URL in the browser. Submit the form to store the message in the table.
 {% /section %}
+

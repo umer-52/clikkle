@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: Image proxy
 description: Transform remote images with resizing, cropping, and quality adjustments for optimal display and performance.
@@ -12,10 +12,10 @@ Fetch and transform an image from a remote URL with various transformation optio
 
 {% multicode %}
 ```client-web
-import { Client, Avatars } from "appwrite";
+import { Client, Avatars } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -30,10 +30,10 @@ const result = avatars.getImage({
 console.log(result); // Resource URL
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 final client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 final avatars = Avatars(client);
@@ -51,10 +51,10 @@ Future result = avatars.getImage(
 });
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 let avatars = Avatars(client)
@@ -67,11 +67,11 @@ let byteBuffer = try await avatars.getImage(
 )
 ```
 ```client-android-kotlin
-import io.appwrite.Client
-import io.appwrite.services.Avatars
+import io.clikkle.Client
+import io.clikkle.services.Avatars
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
     .setProject("<PROJECT_ID>")
 
 val avatars = Avatars(client)
@@ -84,10 +84,10 @@ val result = avatars.getImage(
 )
 ```
 ```client-react-native
-import { Client, Avatars } from 'react-native-appwrite';
+import { Client, Avatars } from 'react-native-clikkle';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const avatars = new Avatars(client);
@@ -426,5 +426,6 @@ Image proxy is commonly used for:
 - **Format optimization**: Convert images to modern formats like WebP or AVIF for better compression
 - **Performance optimization**: Reduce image file sizes while maintaining acceptable quality
 - **Content delivery**: Transform images on-the-fly for CDN delivery and caching
-- **Secure content serving**: Serve untrusted user content securely through Appwrite's trusted proxy with proper SSL certification, protecting your application from mixed content warnings and security vulnerabilities
+- **Secure content serving**: Serve untrusted user content securely through Clikkle's trusted proxy with proper SSL certification, protecting your application from mixed content warnings and security vulnerabilities
+
 

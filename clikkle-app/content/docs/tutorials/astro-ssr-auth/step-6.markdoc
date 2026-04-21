@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create account page
-description: Add authentication to a Astro project using Appwrite.
+description: Add authentication to a Astro project using Clikkle.
 step: 6
 ---
 
@@ -9,7 +9,7 @@ Now the end-user is able to sign up, we can create the account page. This page w
 
 ```js
 ---
-import { SESSION_COOKIE, createSessionClient } from "../server/appwrite";
+import { SESSION_COOKIE, createSessionClient } from "../server/clikkle";
 
 // Redirect the user if not signed in
 const { user } = Astro.locals;
@@ -22,7 +22,7 @@ if (Astro.request.method === "POST") {
   // Create session client
   const { account } = createSessionClient(Astro.request);
 
-  // Delete the Appwrite session
+  // Delete the Clikkle session
   await account.deleteSession({ sessionId: 'current' });
 
   // Delete the session cookie
@@ -48,3 +48,4 @@ if (Astro.request.method === "POST") {
   <button type="submit">Sign out</button>
 </form>
 ```
+

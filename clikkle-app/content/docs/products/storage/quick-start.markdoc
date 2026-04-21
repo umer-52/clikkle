@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Start with Storage
-description: Get started quickly with Appwrite Storage. Follow step-by-step instructions to set up storage, upload files, and integrate cloud storage into your projects
+description: Get started quickly with Clikkle Storage. Follow step-by-step instructions to set up storage, upload files, and integrate cloud storage into your projects
 difficulty: beginner
 readtime: 5
 ---
@@ -9,7 +9,7 @@ readtime: 5
 You can create your first bucket, upload, and download your first file in minutes.
 
 # Create bucket {% #create-bucket %}
-You can create a bucket in the Appwrite Console by navigating to **Storage** > **Create bucket**.
+You can create a bucket in the Clikkle Console by navigating to **Storage** > **Create bucket**.
 
 In your bucket, navigate to **Settings** > **Permissions**, then add a new **Any** role with **CREATE** and **READ** permissions.
 This allows anyone to create and read files in this bucket.
@@ -20,10 +20,10 @@ To upload a file, add this to your app. For web apps, you can use the File objec
 
 {% multicode %}
   ```client-web
-  import { Client, Storage, ID } from "appwrite";
+  import { Client, Storage, ID } from "clikkle";
 
   const client = new Client()
-      .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
       .setProject('<PROJECT_ID>');
 
   const storage = new Storage(client);
@@ -42,11 +42,11 @@ To upload a file, add this to your app. For web apps, you can use the File objec
   ```
 
   ```server-nodejs
-  const sdk = require('node-appwrite');
-  const { InputFile } = require('node-appwrite/file');
+  const sdk = require('node-clikkle');
+  const { InputFile } = require('node-clikkle/file');
 
   const client = new sdk.Client()
-      .setEndpoint('https://cloud.appwrite.io/v1')
+      .setEndpoint('https://cloud.clikkle.io/v1')
       .setProject('<PROJECT_ID>')
       .setKey('<API_KEY>');
 
@@ -61,11 +61,11 @@ To upload a file, add this to your app. For web apps, you can use the File objec
   ```
 
   ```client-flutter
-  import 'package:appwrite/appwrite.dart';
+  import 'package:clikkle/clikkle.dart';
 
   void main() { // Init SDK
     final client = Client()
-      .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
       .setProject('<PROJECT_ID>');
 
     final storage = Storage(client);
@@ -78,11 +78,11 @@ To upload a file, add this to your app. For web apps, you can use the File objec
   }
   ```
   ```client-apple
-  import Appwrite
+  import Clikkle
 
   func main() async throws {
       let client = Client()
-        .setEndpoint("https://<REGION>.cloud.appwrite.io/v1")
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
         .setProject("<PROJECT_ID>")
 
       let storage = Storage(client)
@@ -98,12 +98,12 @@ To upload a file, add this to your app. For web apps, you can use the File objec
   }
   ```
   ```client-android-kotlin
-  import io.appwrite.Client
-  import io.appwrite.services.Storage
+  import io.clikkle.Client
+  import io.clikkle.services.Storage
 
   suspend fun main() {
       val client = Client(applicationContext)
-          .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+          .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
           .setProject("<PROJECT_ID>") // Your project ID
 
       val storage = Storage(client)
@@ -117,10 +117,10 @@ To upload a file, add this to your app. For web apps, you can use the File objec
   ```
 
   ```client-react-native
-  import { Client, Storage, ID } from 'react-native-appwrite';
+  import { Client, Storage, ID } from 'react-native-clikkle';
 
   const client = new Client()
-      .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
       .setProject('<PROJECT_ID>');
 
   const storage = new Storage(client);
@@ -147,7 +147,7 @@ To upload a file, add this to your app. For web apps, you can use the File objec
   POST /v1/storage/buckets/{bucketId}/files HTTP/1.1
   Content-Type: multipart/form-data; boundary="cec8e8123c05ba25"
   Content-Length: *Length of your entity body in bytes*
-  X-Appwrite-Project: <PROJECT_ID>
+  X-Clikkle-Project: <PROJECT_ID>
 
   --cec8e8123c05ba25
   Content-Disposition: form-data; name="operations"
@@ -174,14 +174,14 @@ To download a file, use the `getFileDownload` method.
 
 {% multicode %}
 ```client-web
-import { Client, Storage } from "appwrite";
+import { Client, Storage } from "clikkle";
 
 const client = new Client();
 
 const storage = new Storage(client);
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
 ;
 
@@ -193,14 +193,14 @@ const result = storage.getFileDownload({
 console.log(result); // Resource URL
 ```
 ```client-flutter
-import 'package:appwrite/appwrite.dart';
+import 'package:clikkle/clikkle.dart';
 
 void main() { // Init SDK
   Client client = Client();
   Storage storage = Storage(client);
 
   client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>') // Your project ID
   ;
   // downloading file
@@ -231,11 +231,11 @@ FutureBuilder(
 );
 ```
 ```client-apple
-import Appwrite
+import Clikkle
 
 func main() async throws {
     let client = Client()
-      .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
       .setProject("<PROJECT_ID>") // Your project ID
     let storage = Storage(client)
     let byteBuffer = try await storage.getFileDownload(
@@ -251,8 +251,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
-import io.appwrite.Client
-import io.appwrite.services.Storage
+import io.clikkle.Client
+import io.clikkle.services.Storage
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -260,7 +260,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val client = Client(applicationContext)
-            .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
             .setProject("<PROJECT_ID>") // Your project ID
 
         val storage = Storage(client)
@@ -275,10 +275,10 @@ class MainActivity : AppCompatActivity() {
 ```
 
 ```client-react-native
-import { Client, Storage } from 'react-native-appwrite';
+import { Client, Storage } from 'react-native-clikkle';
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const storage = new Storage(client);
@@ -291,3 +291,4 @@ const result = storage.getFileDownload({
 console.log(result); // Resource URL
 ```
 {% /multicode %}
+

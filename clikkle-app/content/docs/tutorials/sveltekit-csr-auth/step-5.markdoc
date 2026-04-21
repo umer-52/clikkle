@@ -1,7 +1,7 @@
----
+﻿---
 layout: tutorial
 title: Create login page
-description: Add Authentication to a SvelteKit project using Appwrite.
+description: Add Authentication to a SvelteKit project using Clikkle.
 step: 5
 ---
 
@@ -28,7 +28,7 @@ Now we just need to create a form to let the user input sign in data.
 <!-- src/routes/login/+page.svelte -->
 <script>
 	import { invalidateAll } from '$app/navigation';
-	import { appwrite } from '$lib/appwrite';
+	import { clikkle } from '$lib/clikkle';
 
 	/** @type {string|null} */
 	let formError = null;
@@ -52,13 +52,13 @@ Now we just need to create a form to let the user input sign in data.
 		}
 
 		try {
-			await appwrite.account.createEmailPasswordSession({
+			await clikkle.account.createEmailPasswordSession({
 				email,
 				password
 			});
 			await invalidateAll();
 		} catch (e) {
-			formError = /** @type {import('appwrite').AppwriteException} */ (e).message;
+			formError = /** @type {import('clikkle').ClikkleException} */ (e).message;
 		}
 	}
 </script>
@@ -84,3 +84,4 @@ Now we just need to create a form to let the user input sign in data.
 
 And that's it. When the user successfully logs in, we use `invalidateAll` to re-run the relevant `load` functions. In this case, the functions inside `src/routes/login/+page.js` and `src/routes/+layout.js`.
 This means that the `account` data will be updated, no longer being `null`, and so the login `load` function will redirect the user to the home page.
+

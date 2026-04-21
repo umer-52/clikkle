@@ -1,15 +1,15 @@
----
+﻿---
 layout: article
 title: Start with Web
-description: Build JavaScript or Typescript web apps with Appwrite. Add authentication, user management, file storage, and more. Read our guide to get started!
+description: Build JavaScript or Typescript web apps with Clikkle. Add authentication, user management, file storage, and more. Read our guide to get started!
 difficulty: beginner
 readtime: 3
 back: /docs/quick-starts
 ---
 
-Learn how to add Appwrite to your web apps.
+Learn how to add Clikkle to your web apps.
 {% section #step-1 step=1 title="Create project" %}
-Head to the [Appwrite Console](https://cloud.appwrite.io/console).
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
 
 {% only_dark %}
 ![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
@@ -18,7 +18,7 @@ Head to the [Appwrite Console](https://cloud.appwrite.io/console).
 ![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
 {% /only_light %}
 
-If this is your first time using Appwrite, create an account and create your first project.
+If this is your first time using Clikkle, create an account and create your first project.
 
 Then, under **Add a platform**, add a **Web app**.
 The **Hostname** should be `localhost` or the domain on which you're hosting your web app.
@@ -35,63 +35,63 @@ The **Hostname** should be `localhost` or the domain on which you're hosting you
 You can skip optional steps.
 
 {% /section %}
-{% section #step-2 step=2 title="Install Appwrite" %}
-You can install the Appwrite Web SDK using a package manager.
+{% section #step-2 step=2 title="Install Clikkle" %}
+You can install the Clikkle Web SDK using a package manager.
 ```sh
-npm install appwrite
+npm install clikkle
 ```
 
-You can also add the Appwrite Web SDK using CDN by adding a script tag to your HTML file. The SDK will be available globally through the `Appwrite` namespace.
+You can also add the Clikkle Web SDK using CDN by adding a script tag to your HTML file. The SDK will be available globally through the `Clikkle` namespace.
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/appwrite@17.0.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/clikkle@17.0.0"></script>
 ```
 {% /section %}
-{% section #step-3 step=3 title="Initialize Appwrite" %}
+{% section #step-3 step=3 title="Initialize Clikkle" %}
 
-If you installed via npm, you can import `Client` and `Account` from the Appwrite SDK.
+If you installed via npm, you can import `Client` and `Account` from the Clikkle SDK.
 
 ```client-web
-import { Client, Account } from 'appwrite';
+import { Client, Account } from 'clikkle';
 
 export const client = new Client();
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>'); // Replace with your project ID
 
 export const account = new Account(client);
-export { ID } from 'appwrite';
+export { ID } from 'clikkle';
 ```
 
-If you're using CDN, the library loads directly in your browser as a global object, so you access it through Appwrite instead of imports.
+If you're using CDN, the library loads directly in your browser as a global object, so you access it through Clikkle instead of imports.
 
 ```js
-const client = new Appwrite.Client()
+const client = new Clikkle.Client()
 
 client
-    .setEndpoint('https://cloud.appwrite.io/v1')
+    .setEndpoint('https://cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>') // Replace with your project ID
 
-const account = new Appwrite.Account(client)
-const tablesDB = new Appwrite.TablesDB(client)
+const account = new Clikkle.Account(client)
+const tablesDB = new Clikkle.TablesDB(client)
 ```
 {% /section %}
 
 {% section #step-4 step=4 title="Using TypeScript" %}
-If you prefer TypeScript, you can import TypeScript models from the Appwrite SDK.
+If you prefer TypeScript, you can import TypeScript models from the Clikkle SDK.
 
 ```ts
-// appwrite.ts
+// clikkle.ts
 
-import { Client, TablesDB, Account } from "appwrite";
-// Import type models for Appwrite
-import { type Models } from 'appwrite';
+import { Client, TablesDB, Account } from "clikkle";
+// Import type models for Clikkle
+import { type Models } from 'clikkle';
 
 const client: Client = new Client();
 
 client
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>'); // Replace with your project ID
 
 export const account: Account = new Account(client);
@@ -130,43 +130,43 @@ const ideas = response.rows as Idea[];
 {% /section %}
 
 {% section #step-6 step=6 title="All set" %}
-The Appwrite SDK works with your favorite Web frameworks.
+The Clikkle SDK works with your favorite Web frameworks.
 
-Learn to use Appwrite by adding authentication to a simple web app.
+Learn to use Clikkle by adding authentication to a simple web app.
 {% cards %}
 {% cards_item href="/docs/quick-starts/nextjs" title="Next.js" %}
-Get started with Appwrite and Next.js
+Get started with Clikkle and Next.js
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/react" title="React" %}
-Get started with Appwrite and React
+Get started with Clikkle and React
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/vue" title="Vue.js" %}
-Get started with Appwrite and Vue.js
+Get started with Clikkle and Vue.js
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/nuxt" title="Nuxt" %}
-Get started with Appwrite and Nuxt
+Get started with Clikkle and Nuxt
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/sveltekit" title="SvelteKit" %}
-Get started with Appwrite and SvelteKit
+Get started with Clikkle and SvelteKit
 {% /cards_item %}
 {% cards_item href="/docs/quick-starts/angular" title="Angular" %}
-Get started with Appwrite and Angular
+Get started with Clikkle and Angular
 {% /cards_item %}
 {% /cards %}
 
-Learn to use Appwrite by building an idea tracker app.
+Learn to use Clikkle by building an idea tracker app.
 {% cards %}
 {% cards_item href="/docs/tutorials/react" title="React" %}
-Get started with Appwrite and React
+Get started with Clikkle and React
 {% /cards_item %}
 {% cards_item href="/docs/tutorials/vue" title="Vue.js" %}
-Get started with Appwrite and Vue.js
+Get started with Clikkle and Vue.js
 {% /cards_item %}
 {% cards_item href="/docs/tutorials/nuxt" title="Nuxt" %}
-Get started with Appwrite and Nuxt
+Get started with Clikkle and Nuxt
 {% /cards_item %}
 {% cards_item href="/docs/tutorials/sveltekit" title="SvelteKit" %}
-Get started with Appwrite and SvelteKit
+Get started with Clikkle and SvelteKit
 {% /cards_item %}
 {% /cards %}
 {% /section %}
@@ -183,10 +183,10 @@ interface User {
     isVerified: boolean;
 }
 
-import { Client, TablesDB } from "appwrite";
+import { Client, TablesDB } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1')
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
     .setProject('<PROJECT_ID>');
 
 const databases = new TablesDB(client);
@@ -207,7 +207,8 @@ try {
 ```
 
 {% info title="Generate types automatically" %}
-Use the [Appwrite CLI](/docs/products/databases/type-generation) to generate TypeScript interfaces automatically: `appwrite types ./types`
+Use the [Clikkle CLI](/docs/products/databases/type-generation) to generate TypeScript interfaces automatically: `clikkle types ./types`
 {% /info %}
 
 {% /section %}
+

@@ -8,10 +8,10 @@ step: 4
 ## Authentication provider {% #authentication-provider %}
 
 
-Upon [creating a new project](https://refine.dev/docs/getting-started/quickstart/) with Appwrite preset, the CLI automatically creates [Auth Provider](https://refine.dev/docs/tutorial/understanding-authprovider/index/#what-is-auth-provider) file.
+Upon [creating a new project](https://refine.dev/docs/getting-started/quickstart/) with Clikkle preset, the CLI automatically creates [Auth Provider](https://refine.dev/docs/tutorial/understanding-authprovider/index/#what-is-auth-provider) file.
 
 
-You'll see a file named [`src/authProvider.ts`](https://github.com/refinedev/refine/blob/master/examples/data-provider-appwrite-tutorial-docs/src/utility/authProvider.ts) created by CLI. This auto-generated file contains pre-defined functions using Appwrite Authentication methods internally to perform authentication and authorization operations.
+You'll see a file named [`src/authProvider.ts`](https://github.com/refinedev/refine/blob/master/examples/data-provider-clikkle-tutorial-docs/src/utility/authProvider.ts) created by CLI. This auto-generated file contains pre-defined functions using Clikkle Authentication methods internally to perform authentication and authorization operations.
 
 
 The auth provider registered to the Refine app by default in the `src/App.tsx`.
@@ -62,7 +62,7 @@ Update `src/App.tsx` to the following code.
 
 ```ts
 import { Authenticated, Refine } from "@refinedev/core";
-import { dataProvider, liveProvider } from "@refinedev/appwrite";
+import { dataProvider, liveProvider } from "@refinedev/clikkle";
 import {
   AuthPage,
   ErrorComponent,
@@ -79,7 +79,7 @@ import "@refinedev/antd/dist/reset.css";
 import { App as AntdApp, ConfigProvider } from "antd";
 import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
 
-import { appwriteClient } from "./utility";
+import { clikkleClient } from "./utility";
 import { authProvider } from "./authProvider";
 
 const App: React.FC = () => (
@@ -87,11 +87,11 @@ const App: React.FC = () => (
     <ConfigProvider theme={RefineThemes.Blue}>
       <AntdApp>
         <Refine
-          dataProvider={dataProvider(appwriteClient, {
-            databaseId: "<APPWRITE_DATABASE_ID>",
+          dataProvider={dataProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
           })}
-          liveProvider={liveProvider(appwriteClient, {
-            databaseId: "<APPWRITE_DATABASE_ID>",
+          liveProvider={liveProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
           })}
           authProvider={authProvider}
           routerProvider={routerProvider}
@@ -114,7 +114,7 @@ const App: React.FC = () => (
               element={
                 <Authenticated fallback={<Outlet />}>
                   <NavigateToResource 
-                    resource="<APPWRITE_TABLE_ID>" 
+                    resource="<CLIKKLE_TABLE_ID>" 
                   />
                 </Authenticated>
               }
@@ -160,6 +160,7 @@ When you refresh the page, the login screen appears.
 ![Refine login screen](/clikkle/images/docs/tutorials/refine/refine-login-page.png)
 
 
-We'll activate the authentication mechanisim with Appwrite in the next section.
+We'll activate the authentication mechanisim with Clikkle in the next section.
+
 
 

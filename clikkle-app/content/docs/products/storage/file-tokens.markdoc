@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: File tokens
 description: Easily share files with external users using file tokens.
@@ -8,9 +8,9 @@ File tokens are a type of secret that allow you to share files publicly with any
 
 # File tokens vs secure cookies
 
-Currently, Appwrite uses secure cookies to manage sessions for users, which are essential for any Appwrite products with permissions configured. However, because the cookies sent to the users of apps consuming the Appwrite API are considered third-party cookies, certain browsers tend to block them due to their default privacy settings, creating a bad user experience.
+Currently, Clikkle uses secure cookies to manage sessions for users, which are essential for any Clikkle products with permissions configured. However, because the cookies sent to the users of apps consuming the Clikkle API are considered third-party cookies, certain browsers tend to block them due to their default privacy settings, creating a bad user experience.
 
-One way to circumvent this issue in the past was to connect a custom domain to your Appwrite project, as browsers don't inherently block any cookies returned by subdomains of your app. File tokens offer an alternative, simpler path for file sharing in Appwrite Storage, as they don't depend on the session for authorization to share data.
+One way to circumvent this issue in the past was to connect a custom domain to your Clikkle project, as browsers don't inherently block any cookies returned by subdomains of your app. File tokens offer an alternative, simpler path for file sharing in Clikkle Storage, as they don't depend on the session for authorization to share data.
 
 # Create file tokens
 
@@ -41,14 +41,14 @@ You can then click on the three-dots menu, click on **Copy URL** and get the tok
 
 {% tabsitem #server-sdk title="Server SDK" %}
 
-You can create file tokens programmatically using a [Server SDK](/docs/references/cloud/server-nodejs/tokens#createFileToken). Appwrite's Server SDKs require an [API key](/docs/advanced/platform/api-keys) with the `tokens.write` scope enabled.
+You can create file tokens programmatically using a [Server SDK](/docs/references/cloud/server-nodejs/tokens#createFileToken). Clikkle's Server SDKs require an [API key](/docs/advanced/platform/api-keys) with the `tokens.write` scope enabled.
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -62,11 +62,11 @@ const result = await tokens.createFileToken(
 ```
 
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tokens import Tokens
+from clikkle.client import Client
+from clikkle.services.tokens import Tokens
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
 client.set_project('<YOUR_PROJECT_ID>') # Your project ID
 client.set_key('<YOUR_API_KEY>') # Your secret API key
 
@@ -80,10 +80,10 @@ result = tokens.create_file_token(
 ```
 
 ```server-dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -99,11 +99,11 @@ ResourceToken result = await tokens.createFileToken(
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Tokens;
+use Clikkle\Client;
+use Clikkle\Services\Tokens;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<YOUR_PROJECT_ID>') // Your project ID
     ->setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -117,12 +117,12 @@ $result = $tokens->createFileToken(
 ```
 
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<YOUR_PROJECT_ID>') # Your project ID
     .set_key('<YOUR_API_KEY>') # Your secret API key
 
@@ -136,12 +136,12 @@ result = tokens.create_file_token(
 ```
 
 ```server-dotnet
-using Appwrite;
-using Appwrite.Models;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
 
 Client client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<YOUR_PROJECT_ID>") // Your project ID
     .SetKey("<YOUR_API_KEY>"); // Your secret API key
 
@@ -155,10 +155,10 @@ ResourceToken result = await tokens.CreateFileToken(
 ```
 
 ```server-deno
-import { Client, Tokens } from "npm:node-appwrite";
+import { Client, Tokens } from "npm:node-clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -176,14 +176,14 @@ package main
 
 import (
     "fmt"
-    "github.com/appwrite/sdk-for-go/client"
-    "github.com/appwrite/sdk-for-go/tokens"
+    "github.com/clikkle/sdk-for-go/client"
+    "github.com/clikkle/sdk-for-go/tokens"
 )
 
 func main() {
     client := client.NewClient()
 
-    client.SetEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    client.SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     client.SetProject("<YOUR_PROJECT_ID>") // Your project ID
     client.SetKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -203,10 +203,10 @@ func main() {
 ```
 
 ```server-swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -220,12 +220,12 @@ let resourceToken = try await tokens.createFileToken(
 ```
 
 ```server-kotlin
-import io.appwrite.Client
-import io.appwrite.coroutines.CoroutineCallback
-import io.appwrite.services.Tokens
+import io.clikkle.Client
+import io.clikkle.coroutines.CoroutineCallback
+import io.clikkle.services.Tokens
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -239,12 +239,12 @@ val response = tokens.createFileToken(
 ```
 
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Tokens;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Tokens;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>"); // Your secret API key
 
@@ -285,11 +285,11 @@ mutation {
 
 ```server-rest
 POST /v1/tokens/buckets/{bucketId}/files/{fileId} HTTP/1.1
-Host: cloud.appwrite.io
+Host: cloud.clikkle.io
 Content-Type: application/json
-X-Appwrite-Response-Format: 1.7.0
-X-Appwrite-Project: <YOUR_PROJECT_ID>
-X-Appwrite-Key: <YOUR_API_KEY>
+X-Clikkle-Response-Format: 1.7.0
+X-Clikkle-Project: <YOUR_PROJECT_ID>
+X-Clikkle-Key: <YOUR_API_KEY>
 
 {
   "expire": 
@@ -297,13 +297,13 @@ X-Appwrite-Key: <YOUR_API_KEY>
 ```
 {% /multicode %}
 
-The created token can then be used along with Appwrite Storage's [view](/docs/references/cloud/server-nodejs/storage#getFileView), [preview](/docs/references/cloud/server-nodejs/storage#getFilePreview), and [download](/docs/references/cloud/server-nodejs/storage#getFileDownload) endpoints.
+The created token can then be used along with Clikkle Storage's [view](/docs/references/cloud/server-nodejs/storage#getFileView), [preview](/docs/references/cloud/server-nodejs/storage#getFilePreview), and [download](/docs/references/cloud/server-nodejs/storage#getFileDownload) endpoints.
 {% /tabsitem %}
 {% /tabs %}
 
 # List all file tokens
 
-You can use the Appwrite Console or one of the Server SDKs to view all created file tokens, their expiry dates and the time each token was last accessed at.
+You can use the Clikkle Console or one of the Server SDKs to view all created file tokens, their expiry dates and the time each token was last accessed at.
 
 {% tabs %}
 {% tabsitem #console title="Console" %}
@@ -321,14 +321,14 @@ Head to the **Storage** page, open a file inside a bucket, and scroll down to th
 
 {% tabsitem #server-sdk title="Server SDK" %}
 
-You can list all file tokens programmatically using a [Server SDK](/docs/references/cloud/server-nodejs/tokens#list). Appwrite's Server SDKs require an [API key](/docs/advanced/platform/api-keys) with the `tokens.read` scope enabled.
+You can list all file tokens programmatically using a [Server SDK](/docs/references/cloud/server-nodejs/tokens#list). Clikkle's Server SDKs require an [API key](/docs/advanced/platform/api-keys) with the `tokens.read` scope enabled.
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -342,11 +342,11 @@ const result = await tokens.list(
 ```
 
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tokens import Tokens
+from clikkle.client import Client
+from clikkle.services.tokens import Tokens
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
 client.set_project('<YOUR_PROJECT_ID>') # Your project ID
 client.set_key('<YOUR_API_KEY>') # Your secret API key
 
@@ -360,10 +360,10 @@ result = tokens.list(
 ```
 
 ```server-dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -379,11 +379,11 @@ ResourceTokenList result = await tokens.list(
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Tokens;
+use Clikkle\Client;
+use Clikkle\Services\Tokens;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<YOUR_PROJECT_ID>') // Your project ID
     ->setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -397,12 +397,12 @@ $result = $tokens->list(
 ```
 
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<YOUR_PROJECT_ID>') # Your project ID
     .set_key('<YOUR_API_KEY>') # Your secret API key
 
@@ -416,12 +416,12 @@ result = tokens.list(
 ```
 
 ```server-dotnet
-using Appwrite;
-using Appwrite.Models;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
 
 Client client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<YOUR_PROJECT_ID>") // Your project ID
     .SetKey("<YOUR_API_KEY>"); // Your secret API key
 
@@ -435,10 +435,10 @@ ResourceTokenList result = await tokens.List(
 ```
 
 ```server-deno
-import { Client, Tokens } from "npm:node-appwrite";
+import { Client, Tokens } from "npm:node-clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -456,14 +456,14 @@ package main
 
 import (
     "fmt"
-    "github.com/appwrite/sdk-for-go/client"
-    "github.com/appwrite/sdk-for-go/tokens"
+    "github.com/clikkle/sdk-for-go/client"
+    "github.com/clikkle/sdk-for-go/tokens"
 )
 
 func main() {
     client := client.NewClient()
 
-    client.SetEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    client.SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     client.SetProject("<YOUR_PROJECT_ID>") // Your project ID
     client.SetKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -483,10 +483,10 @@ func main() {
 ```
 
 ```server-swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -500,12 +500,12 @@ let resourceTokenList = try await tokens.list(
 ```
 
 ```server-kotlin
-import io.appwrite.Client
-import io.appwrite.coroutines.CoroutineCallback
-import io.appwrite.services.Tokens
+import io.clikkle.Client
+import io.clikkle.coroutines.CoroutineCallback
+import io.clikkle.services.Tokens
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -519,12 +519,12 @@ val response = tokens.list(
 ```
 
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Tokens;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Tokens;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>"); // Your secret API key
 
@@ -547,10 +547,10 @@ tokens.list(
 
 ```server-rest
 GET /v1/tokens/buckets/{bucketId}/files/{fileId} HTTP/1.1
-Host: cloud.appwrite.io
-X-Appwrite-Response-Format: 1.7.0
-X-Appwrite-Project: <YOUR_PROJECT_ID>
-X-Appwrite-Key: <YOUR_API_KEY>
+Host: cloud.clikkle.io
+X-Clikkle-Response-Format: 1.7.0
+X-Clikkle-Project: <YOUR_PROJECT_ID>
+X-Clikkle-Key: <YOUR_API_KEY>
 ```
 {% /multicode %}
 
@@ -637,10 +637,10 @@ tokens.get(
 
 ```server-rest
 GET /v1/tokens/{tokenId} HTTP/1.1
-Host: cloud.appwrite.io
-X-Appwrite-Response-Format: 1.7.0
-X-Appwrite-Project: <YOUR_PROJECT_ID>
-X-Appwrite-Key: <YOUR_API_KEY>
+Host: cloud.clikkle.io
+X-Clikkle-Response-Format: 1.7.0
+X-Clikkle-Project: <YOUR_PROJECT_ID>
+X-Clikkle-Key: <YOUR_API_KEY>
 ```
 {% /multicode %}
 
@@ -669,14 +669,14 @@ Head to the **Storage** page, open a file inside a bucket, and scroll down to th
 
 {% tabsitem #server-sdk title="Server SDK" %}
 
-You can update file token expiry programmatically using a [Server SDK](/docs/references/cloud/server-nodejs/tokens#update). Appwrite's Server SDKs require an [API key](/docs/advanced/platform/api-keys) with the `tokens.write` scope enabled.
+You can update file token expiry programmatically using a [Server SDK](/docs/references/cloud/server-nodejs/tokens#update). Clikkle's Server SDKs require an [API key](/docs/advanced/platform/api-keys) with the `tokens.write` scope enabled.
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -689,11 +689,11 @@ const result = await tokens.update(
 ```
 
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tokens import Tokens
+from clikkle.client import Client
+from clikkle.services.tokens import Tokens
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
 client.set_project('<YOUR_PROJECT_ID>') # Your project ID
 client.set_key('<YOUR_API_KEY>') # Your secret API key
 
@@ -706,10 +706,10 @@ result = tokens.update(
 ```
 
 ```server-dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -724,11 +724,11 @@ ResourceToken result = await tokens.update(
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Tokens;
+use Clikkle\Client;
+use Clikkle\Services\Tokens;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<YOUR_PROJECT_ID>') // Your project ID
     ->setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -741,12 +741,12 @@ $result = $tokens->update(
 ```
 
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<YOUR_PROJECT_ID>') # Your project ID
     .set_key('<YOUR_API_KEY>') # Your secret API key
 
@@ -759,12 +759,12 @@ result = tokens.update(
 ```
 
 ```server-dotnet
-using Appwrite;
-using Appwrite.Models;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
 
 Client client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<YOUR_PROJECT_ID>") // Your project ID
     .SetKey("<YOUR_API_KEY>"); // Your secret API key
 
@@ -777,10 +777,10 @@ ResourceToken result = await tokens.Update(
 ```
 
 ```server-deno
-import { Client, Tokens } from "npm:node-appwrite";
+import { Client, Tokens } from "npm:node-clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -797,14 +797,14 @@ package main
 
 import (
     "fmt"
-    "github.com/appwrite/sdk-for-go/client"
-    "github.com/appwrite/sdk-for-go/tokens"
+    "github.com/clikkle/sdk-for-go/client"
+    "github.com/clikkle/sdk-for-go/tokens"
 )
 
 func main() {
     client := client.NewClient()
 
-    client.SetEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    client.SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     client.SetProject("<YOUR_PROJECT_ID>") // Your project ID
     client.SetKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -823,10 +823,10 @@ func main() {
 ```
 
 ```server-swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -839,12 +839,12 @@ let resourceToken = try await tokens.update(
 ```
 
 ```server-kotlin
-import io.appwrite.Client
-import io.appwrite.coroutines.CoroutineCallback
-import io.appwrite.services.Tokens
+import io.clikkle.Client
+import io.clikkle.coroutines.CoroutineCallback
+import io.clikkle.services.Tokens
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -857,12 +857,12 @@ val response = tokens.update(
 ```
 
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Tokens;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Tokens;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>"); // Your secret API key
 
@@ -901,11 +901,11 @@ mutation {
 
 ```server-rest
 PATCH /v1/tokens/{tokenId} HTTP/1.1
-Host: cloud.appwrite.io
+Host: cloud.clikkle.io
 Content-Type: application/json
-X-Appwrite-Response-Format: 1.7.0
-X-Appwrite-Project: <YOUR_PROJECT_ID>
-X-Appwrite-Key: <YOUR_API_KEY>
+X-Clikkle-Response-Format: 1.7.0
+X-Clikkle-Project: <YOUR_PROJECT_ID>
+X-Clikkle-Key: <YOUR_API_KEY>
 
 {
   "expire": 
@@ -918,7 +918,7 @@ X-Appwrite-Key: <YOUR_API_KEY>
 
 # Delete file tokens
 
-You can use the Appwrite Console or one of the Server SDKs to delete a file token.
+You can use the Clikkle Console or one of the Server SDKs to delete a file token.
 
 {% tabs %}
 {% tabsitem #console title="Console" %}
@@ -936,14 +936,14 @@ Head to the **Storage** page, open a file inside a bucket, and scroll down to th
 
 {% tabsitem #server-sdk title="Server SDK" %}
 
-You can delete a file token programmatically using a [Server SDK](/docs/references/cloud/server-nodejs/tokens#delete). Appwrite's Server SDKs require an [API key](/docs/advanced/platform/api-keys) with the `tokens.write` scope enabled.
+You can delete a file token programmatically using a [Server SDK](/docs/references/cloud/server-nodejs/tokens#delete). Clikkle's Server SDKs require an [API key](/docs/advanced/platform/api-keys) with the `tokens.write` scope enabled.
 
 {% multicode %}
 ```server-nodejs
-const sdk = require('node-appwrite');
+const sdk = require('node-clikkle');
 
 const client = new sdk.Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -955,11 +955,11 @@ const result = await tokens.delete(
 ```
 
 ```server-python
-from appwrite.client import Client
-from appwrite.services.tokens import Tokens
+from clikkle.client import Client
+from clikkle.services.tokens import Tokens
 
 client = Client()
-client.set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
 client.set_project('<YOUR_PROJECT_ID>') # Your project ID
 client.set_key('<YOUR_API_KEY>') # Your secret API key
 
@@ -971,10 +971,10 @@ result = tokens.delete(
 ```
 
 ```server-dart
-import 'package:dart_appwrite/dart_appwrite.dart';
+import 'package:dart_clikkle/dart_clikkle.dart';
 
 Client client = Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -988,11 +988,11 @@ await tokens.delete(
 ```server-php
 <?php
 
-use Appwrite\Client;
-use Appwrite\Services\Tokens;
+use Clikkle\Client;
+use Clikkle\Services\Tokens;
 
 $client = (new Client())
-    ->setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     ->setProject('<YOUR_PROJECT_ID>') // Your project ID
     ->setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -1004,12 +1004,12 @@ $result = $tokens->delete(
 ```
 
 ```server-ruby
-require 'appwrite'
+require 'clikkle'
 
-include Appwrite
+include Clikkle
 
 client = Client.new
-    .set_endpoint('https://<REGION>.cloud.appwrite.io/v1') # Your API Endpoint
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
     .set_project('<YOUR_PROJECT_ID>') # Your project ID
     .set_key('<YOUR_API_KEY>') # Your secret API key
 
@@ -1021,12 +1021,12 @@ result = tokens.delete(
 ```
 
 ```server-dotnet
-using Appwrite;
-using Appwrite.Models;
-using Appwrite.Services;
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
 
 Client client = new Client()
-    .SetEndPoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .SetProject("<YOUR_PROJECT_ID>") // Your project ID
     .SetKey("<YOUR_API_KEY>"); // Your secret API key
 
@@ -1038,10 +1038,10 @@ await tokens.Delete(
 ```
 
 ```server-deno
-import { Client, Tokens } from "npm:node-appwrite";
+import { Client, Tokens } from "npm:node-clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<YOUR_PROJECT_ID>') // Your project ID
     .setKey('<YOUR_API_KEY>'); // Your secret API key
 
@@ -1057,14 +1057,14 @@ package main
 
 import (
     "fmt"
-    "github.com/appwrite/sdk-for-go/client"
-    "github.com/appwrite/sdk-for-go/tokens"
+    "github.com/clikkle/sdk-for-go/client"
+    "github.com/clikkle/sdk-for-go/tokens"
 )
 
 func main() {
     client := client.NewClient()
 
-    client.SetEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    client.SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     client.SetProject("<YOUR_PROJECT_ID>") // Your project ID
     client.SetKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -1082,10 +1082,10 @@ func main() {
 ```
 
 ```server-swift
-import Appwrite
+import Clikkle
 
 let client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -1097,12 +1097,12 @@ let result = try await tokens.delete(
 ```
 
 ```server-kotlin
-import io.appwrite.Client
-import io.appwrite.coroutines.CoroutineCallback
-import io.appwrite.services.Tokens
+import io.clikkle.Client
+import io.clikkle.coroutines.CoroutineCallback
+import io.clikkle.services.Tokens
 
 val client = Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>") // Your secret API key
 
@@ -1114,12 +1114,12 @@ val response = tokens.delete(
 ```
 
 ```server-java
-import io.appwrite.Client;
-import io.appwrite.coroutines.CoroutineCallback;
-import io.appwrite.services.Tokens;
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Tokens;
 
 Client client = new Client()
-    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
     .setProject("<YOUR_PROJECT_ID>") // Your project ID
     .setKey("<YOUR_API_KEY>"); // Your secret API key
 
@@ -1150,13 +1150,14 @@ mutation {
 
 ```server-rest
 DELETE /v1/tokens/{tokenId} HTTP/1.1
-Host: cloud.appwrite.io
+Host: cloud.clikkle.io
 Content-Type: application/json
-X-Appwrite-Response-Format: 1.7.0
-X-Appwrite-Project: <YOUR_PROJECT_ID>
-X-Appwrite-Key: <YOUR_API_KEY>
+X-Clikkle-Response-Format: 1.7.0
+X-Clikkle-Project: <YOUR_PROJECT_ID>
+X-Clikkle-Key: <YOUR_API_KEY>
 ```
 {% /multicode %}
 
 {% /tabsitem %}
 {% /tabs %}
+

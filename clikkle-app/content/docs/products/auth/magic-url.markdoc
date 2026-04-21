@@ -1,7 +1,7 @@
----
+﻿---
 layout: article
 title: Magic URL login
-description: Add magic URL to your authentication in Appwrite. Explore the convenience of passwordless login and email-based authentication using magic links.
+description: Add magic URL to your authentication in Clikkle. Explore the convenience of passwordless login and email-based authentication using magic links.
 ---
 
 Magic URL is a password-less way to authenticate users. When a user logs in by providing their email, they will receive an email with a "magic" link that contains a secret used to log in the user. The user can simply click the link to be logged in.
@@ -12,10 +12,10 @@ Initialize the log in process with the [Create Magic URL Token](/docs/references
 
 {% multicode %}
 ```client-web
-import { Client, Account, ID } from "appwrite";
+import { Client, Account, ID } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                 // Your project ID
 
 const account = new Account(client);
@@ -55,10 +55,10 @@ After the user clicks the magic link in their email, they will be redirected to 
 {% multicode %}
 
 ```client-web
-import { Client, Account } from "appwrite";
+import { Client, Account } from "clikkle";
 
 const client = new Client()
-    .setEndpoint('https://<REGION>.cloud.appwrite.io/v1') // Your API Endpoint
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
     .setProject('<PROJECT_ID>');                // Your project ID
 
 const account = new Account(client);
@@ -87,3 +87,4 @@ mutation {
 }
 ```
 {% /multicode %}
+

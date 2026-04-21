@@ -1,14 +1,14 @@
----
+﻿---
 layout: article
 title: Runtimes
-description: Choose the right runtime environment for your serverless functions in Appwrite. Explore available runtimes, dependencies, and runtime-specific considerations.
+description: Choose the right runtime environment for your serverless functions in Clikkle. Explore available runtimes, dependencies, and runtime-specific considerations.
 ---
 
-Appwrite Functions supports an extensive list of runtimes to meet your unique tech preferences. Not all runtimes are available on Appwrite Cloud yet. Check the list below to know which ones are available on Appwrite Cloud.
+Clikkle Functions supports an extensive list of runtimes to meet your unique tech preferences. Not all runtimes are available on Clikkle Cloud yet. Check the list below to know which ones are available on Clikkle Cloud.
 
 # Available runtimes {% #available-runtimes %}
-Below is a list of available Functions runtimes. The Appwrite team continually adds support for new runtimes.
-While still in beta, Appwrite Cloud has limited support for Cloud runtimes. As we continue to improve our Cloud offering, we will add support for more runtimes.
+Below is a list of available Functions runtimes. The Clikkle team continually adds support for new runtimes.
+While still in beta, Clikkle Cloud has limited support for Cloud runtimes. As we continue to improve our Cloud offering, we will add support for more runtimes.
 
 {% tabs %}
 {% tabsitem #all title="All runtimes" %}
@@ -223,3 +223,4 @@ While still in beta, Appwrite Cloud has limited support for Cloud runtimes. As w
 {% /table %}
 {% /tabsitem %}
 {% /tabs %}
+
