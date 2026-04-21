@@ -19,7 +19,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .blog-feature-article-image {
@@ -57,7 +57,8 @@
 
 .blog-author-info {
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  gap: 6px;
 }
 
 /* Metadata list */
@@ -179,8 +180,8 @@
   font-size: 0.875rem;
   line-height: 1.4;
   color: var(--color-secondary);
-  background: transparent;
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: var(--color-greyscale-750);
+  /* border: 1px solid rgba(255, 255, 255, 0.08); */
   cursor: pointer;
   transition: all 200ms ease;
 }

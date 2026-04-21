@@ -103,7 +103,7 @@ export function CustomerStories() {
                 height={100}
                 className={cn(
                   "h-5 shrink-0 opacity-100 transition-all duration-[250ms] [grid-area:stack] object-contain lg:h-12",
-                  "justify-self-center self-center brightness-50",
+                  "justify-self-center self-center",
                   isActive ? "invisible opacity-0" : "",
                 )}
               />
@@ -127,7 +127,7 @@ export function CustomerStories() {
 
                 <span
                   className={cn(
-                    "font-aeonik-pro text-title text-primary flex h-fit flex-wrap gap-2 overflow-hidden text-left text-pretty md:h-[3lh] lg:w-[20ch]",
+                    "font-aeonik-pro text-title text-primary text-5xl flex h-fit flex-wrap gap-2 overflow-hidden text-left text-pretty md:h-[3lh] lg:w-[20ch]",
                     { "animate-fade-in": isActive },
                   )}
                 >
@@ -154,7 +154,7 @@ export function CustomerStories() {
                       <span className="text-caption text-primary text-left font-medium text-pretty">
                         {study.name}
                         <span className="hidden md:inline">,</span>{" "}
-                        <span className="text-secondary block md:inline">
+                        <span className="text-secondary block md:inline ">
                           {study.title}
                         </span>
                       </span>

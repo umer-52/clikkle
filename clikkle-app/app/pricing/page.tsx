@@ -67,7 +67,7 @@ function PricingCardsGrid() {
                     </div>
                     <a
                       href={CLOUD_REGISTER}
-                      className="web-btn web-btn-secondary pricing-card__cta is-full-width"
+                      className="web-btn web-btn--appwrite-secondary pricing-card__cta is-full-width"
                     >
                       <span className="pricing-card__btn-label text-sub-body font-medium">
                         Start building
@@ -113,7 +113,7 @@ function PricingCardsGrid() {
                         <h2 id="pro" className="pricing-card__name text-label text-primary font-aeonik-pro">
                           Pro
                         </h2>
-                        <span className="pricing-inline-tag web-inline-tag">Most popular</span>
+                        <span className="pricing-inline-tag web-inline-tag bg-primary-dark/50!">Most popular</span>
                       </div>
                       <div className="pricing-card__price-stack pricing-card__price-stack--pro">
                         <span className="pricing-card__price-from">From</span>
@@ -198,7 +198,7 @@ function PricingCardsGrid() {
                     </div>
                     <Link
                       href="/contact-us/enterprise"
-                      className="web-btn web-btn-secondary pricing-card__cta is-full-width"
+                      className="web-btn web-btn--appwrite-secondary pricing-card__cta is-full-width"
                     >
                       <span className="pricing-card__btn-label text-sub-body font-medium">
                         Contact us
@@ -467,10 +467,12 @@ export default function PricingPage() {
             */}
             <div className="web-hero pricing-web-hero">
               <h1 className="pricing-svelte-h1 text-display font-aeonik-pro">
-                Pricing
+                Everything your app needs,
+                <br />
+                one subscription
               </h1>
-              <p className="pricing-svelte-subtitle text-description max-w-sm">
-                Clikkle offers simple and transparent pricing plans with no surprises.
+              <p className="pricing-svelte-subtitle text-description">
+                Build, deploy, and observe your app from one platform, all under one subscription.
               </p>
             </div>
           </section>

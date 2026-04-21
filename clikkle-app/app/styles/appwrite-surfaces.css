@@ -3,6 +3,7 @@
 body.light,
 body[data-theme="light"],
 [data-theme="light"] {
+    --radius-xs: 0.2rem;
     --radius-sm: 0.5rem;
     --radius-md: 0.75rem;
     --radius-lg: 1rem;
@@ -20,6 +21,7 @@ body[data-theme="light"],
 body.dark,
 body[data-theme="dark"],
 [data-theme="dark"] {
+    --radius-xs: 0.2rem;
     --radius-sm: 0.5rem;
     --radius-md: 0.75rem;
     --radius-lg: 1rem;

@@ -27,7 +27,7 @@ export function HeroSection({
       <div
         className={cn(
           "animate-lighting pointer-events-none absolute top-0 left-0 -z-10 h-screen w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full",
-          "bg-[image:radial-gradient(ellipse_420px_56px_at_12%_28%,_rgba(45,_99,_255,_0.3)_0%,_rgba(45,_99,_255,_0)_72%),_radial-gradient(ellipse_1100px_180px_at_18%_42%,rgba(45,_99,_255,_0.15)_0%,_rgba(45,_99,_255,_0)_72%),_radial-gradient(ellipse_1200px_200px_at_32%_32%,_rgba(30,_58,_138,_0.18)_0%,_rgba(30,_58,_138,_0)_72%)]",
+          "bg-[radial-gradient(ellipse_420px_56px_at_12%_28%,rgba(45,99,255,0.3)_0%,rgba(45,99,255,0)_72%),radial-gradient(ellipse_1100px_180px_at_18%_42%,rgba(45,99,255,0.15)_0%,rgba(45,99,255,0)_72%),radial-gradient(ellipse_1200px_200px_at_32%_32%,rgba(30,58,138,0.18)_0%,rgba(30,58,138,0)_72%)]",
           "bg-position-[0%_0%]"
         )}
         aria-hidden

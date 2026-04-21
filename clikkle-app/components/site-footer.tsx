@@ -121,7 +121,7 @@ function FooterLink({
   rel?: string;
 }) {
   return (
-    <Link className="site-footer__link text-sub-body text-primary transition-colors hover:text-accent" href={href} target={target} rel={rel}>
+    <Link className="site-footer__link text-sub-body text-(--color-gray-300) transition-colors hover:text-accent" href={href} target={target} rel={rel}>
       {label}
     </Link>
   );
@@ -221,8 +221,8 @@ export function SiteFooter({ noOuterContainer = false, footerNavNoTopBorder = fa
           <Image
             src={withBasePath("/2-version/Clikkle core (V1 White Text).png")}
             alt="Clikkle"
-            width={130}
-            height={24}
+            width={140}
+            height={34}
             priority={false}
             className="site-footer__brand-lockup object-contain"
           />
@@ -231,7 +231,7 @@ export function SiteFooter({ noOuterContainer = false, footerNavNoTopBorder = fa
         <ul className="web-footer-nav-main-list">
           {Object.entries(links).map(([title, items]) => (
             <li key={`desktop-${title}`} className="min-w-0">
-              <h2 className="web-footer-nav-main-title text-caption font-medium uppercase text-secondary">{title}</h2>
+              <h2 className="web-footer-nav-main-title text-caption font-medium text-sm! uppercase text-secondary">{title}</h2>
               <ul className="site-footer__link-list flex flex-col gap-2.5 text-sub-body">
                 {items.map(({ href, label, target, rel }) => (
                   <li key={label}>

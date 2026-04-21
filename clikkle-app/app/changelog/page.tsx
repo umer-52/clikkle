@@ -34,7 +34,7 @@ export default function ChangelogPage() {
                   */}
                   <div className="grid gap-5">
                     <time
-                      className="text-eyebrow px-4 uppercase text-[var(--color-text-muted)] sm:px-0 dark:text-white/50"
+                      className="text-eyebrow px-4 uppercase text-(--color-text-muted) sm:px-0 dark:text-white/50"
                       dateTime={entry.date}
                     >
                       {formatChangelogDate(entry.date)}
@@ -63,47 +63,49 @@ export default function ChangelogPage() {
                           {entry.title}
                         </Link>
                       </h2>
-                      <ReactMarkdown
-                        components={{
-                          a: ({ href, children }) => (
-                            <Link
-                              href={href || "#"}
-                              className="font-medium text-[var(--color-brand-primary)] underline decoration-[color-mix(in_srgb,var(--color-brand-primary)_45%,transparent)] underline-offset-[0.3125rem] transition-colors hover:text-[color-mix(in_srgb,var(--color-brand-primary)_85%,white)] hover:decoration-[var(--color-brand-primary)]"
-                            >
-                              {children}
-                            </Link>
-                          ),
-                          code: ({
-                            className,
-                            children,
-                            ...props
-                          }) => {
-                            const isInline = !className;
-                            if (isInline) {
+                      <div className="text-secondary">
+                        <ReactMarkdown
+                          components={{
+                            a: ({ href, children }) => (
+                              <Link
+                                href={href || "#"}
+                                className="font-medium text-(--color-brand-primary) underline decoration-[color-mix(in_srgb,var(--color-brand-primary)_45%,transparent)] underline-offset-[0.3125rem] transition-colors hover:text-[color-mix(in_srgb,var(--color-brand-primary)_85%,white)] hover:decoration-(--color-brand-primary)"
+                              >
+                                {children}
+                              </Link>
+                            ),
+                            code: ({
+                              className,
+                              children,
+                              ...props
+                            }) => {
+                              const isInline = !className;
+                              if (isInline) {
+                                return (
+                                  <code
+                                    className="changelog-inline-code not-prose"
+                                    {...props}
+                                  >
+                                    {children}
+                                  </code>
+                                );
+                              }
                               return (
-                                <code
-                                  className="changelog-inline-code not-prose"
-                                  {...props}
-                                >
+                                <code className={className} {...props}>
                                   {children}
                                 </code>
                               );
-                            }
-                            return (
-                              <code className={className} {...props}>
+                            },
+                            pre: ({ children }) => (
+                              <pre className="changelog-code-block not-prose">
                                 {children}
-                              </code>
-                            );
-                          },
-                          pre: ({ children }) => (
-                            <pre className="changelog-code-block not-prose">
-                              {children}
-                            </pre>
-                          ),
-                        }}
-                      >
-                        {entry.body}
-                      </ReactMarkdown>
+                              </pre>
+                            ),
+                          }}
+                        >
+                          {entry.body}
+                        </ReactMarkdown>
+                      </div>
                     </div>
                   </div>
                 </li>
@@ -129,7 +131,7 @@ export default function ChangelogPage() {
 
       {/* PreFooter + site footer */}
       <div className="dark relative overflow-hidden pt-10">
-        <div className="pt-[7.5rem]">
+        <div className="pt-30">
           <div className="container">
             <PreFooter headingId="changelog-pre-footer-heading" />
             <SiteFooter noOuterContainer />

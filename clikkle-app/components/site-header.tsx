@@ -226,7 +226,7 @@ export function SiteHeader() {
               aria-label="Star Clikkle on GitHub"
             >
               <Star className="size-4 shrink-0" aria-hidden strokeWidth={1.5} />
-              <span className="text">Star on GitHub</span>
+              <span className="text text-secondary">Star on GitHub</span>
               <span className="web-inline-tag">{GITHUB_STARS}</span>
             </a>
 

@@ -52,12 +52,12 @@ export function PricingSection({
   return (
     <div
       className={cn(
-        "pricing-home-section relative -mt-6 -mb-12 flex min-h-[650px] w-full items-center justify-center overflow-x-hidden pt-40 md:mb-0 md:pb-10",
+        "pricing-home-section relative -mt-6 -mb-12 flex w-full items-center justify-center pt-44 md:mb-0 md:pb-32",
         !showFullHeader && "pt-10",
         className
       )}
     >
-      <div className="container flex w-full flex-col items-center justify-center gap-16 lg:gap-24">
+      <div className="container flex w-full flex-col items-center justify-center gap-10 lg:gap-14">
         <div
           className={cn(
             "animate-lighting pointer-events-none absolute top-0 left-0 -z-10 h-screen w-full overflow-hidden blur-3xl",
@@ -88,7 +88,7 @@ export function PricingSection({
 
         <div className={cn(
           'border-smooth divide-smooth grid min-h-75 w-full max-w-[90rem] grid-cols-1 divide-y divide-dashed rounded-3xl border border-white/[0.08] bg-[#1c1c1e] backdrop-blur-lg',
-          'md:grid-cols-2 md:gap-y-12 md:divide-y-0 md:px-4 md:py-8 lg:px-12 lg:py-14',
+          'md:grid-cols-2 md:gap-y-12 md:divide-y-0 md:px-4 md:py-8 lg:px-0 lg:py-8',
           lgCols,
           'lg:divide-x lg:divide-solid'
         )}>
@@ -99,19 +99,19 @@ export function PricingSection({
                 <div className="flex items-center gap-2.5">
                   <span className="text-description text-secondary font-medium">{name}</span>
                   {tag && (
-                    <span className="text-caption rounded-full bg-[var(--color-brand-primary)] px-2.5 py-0.5 font-medium text-white">
+                    <span className="text-caption text-[13px]! rounded-sm bg-(--color-brand-primary)/50 px-2 py-0.5 font-medium text-white">
                       {tag}
                     </span>
                   )}
                 </div>
                 <div className="flex flex-1 flex-col">
-                  <span className="font-aeonik-pro text-primary text-[clamp(2.25rem,2rem+1.5vw,3rem)] leading-[1.1] tracking-tight">
+                  <span className="font-aeonik-pro text-primary text-[clamp(2.25rem,2rem+1.5vw,3rem)] leading-[1.1] tracking-tight flex items-end gap-2">
                     {price}
                     {subtitle && (
-                      <span className="text-caption text-secondary -ml-1 align-middle font-sans font-medium">{subtitle}</span>
+                      <span className="text-caption text-secondary mb-1! align-middle font-sans font-medium">{subtitle}</span>
                     )}
                   </span>
-                  <p className="text-caption text-secondary mt-4 mb-0 block font-medium">
+                  <p className="text-caption text-secondary mt-4! mb-0 block font-medium">
                     {description}
                   </p>
                 </div>

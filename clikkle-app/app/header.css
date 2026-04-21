@@ -99,7 +99,7 @@ html.light .aw-close-button:hover {
     /* Desktop: centered column + gutters — see `@media (min-width: 1024px)` (matches docs `web-main-header-wrapper`). */
     width: 100%;
     margin-inline: auto;
-    padding-inline: var(--container-padding-inline) !important;
+    /* padding-inline: var(--container-padding-inline) !important; */ /* REMOVED due to extra spacing */
 }
 
 /*
@@ -168,7 +168,7 @@ html.light .aw-close-button:hover {
 .aw-header-link,
 .aw-mobile-link {
     position: relative;
-    color: rgba(250, 250, 251, 0.92);
+    color: var(--color-gray-300);
     font-family: var(--font-family-primary, 'Inter', sans-serif);
     font-size: 16px; /* `Main.svelte` `.aw-header-link` */
     font-weight: 500;
@@ -207,7 +207,7 @@ html.light .aw-close-button:hover {
     align-items: center;
     justify-content: flex-end;
     margin-inline-start: auto;
-    gap: 12px; /* `Main.svelte` `.aw-header-actions` */
+    gap: 20px; /* `Main.svelte` `.aw-header-actions` */
     flex-shrink: 0;
 }
 
@@ -281,10 +281,9 @@ html.light .aw-close-button:hover {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    min-inline-size: 3.75rem;
     margin-inline-end: 0;
-    padding: 4px 8px;
-    border-radius: var(--radius-full); /* `Main.svelte` */
+    padding: 2px 4px;
+    border-radius: var(--radius-xs); /* `Main.svelte` */
     background: rgba(255, 255, 255, 0.1);
     color: rgba(250, 250, 251, 0.65);
     font-size: 14px;
@@ -473,7 +472,7 @@ html.light .aw-close-button:hover {
 
 @media (min-width: 1280px) {
     .aw-header {
-        padding-inline: 2rem;
+        padding-inline: 4rem;
     }
 }
 

@@ -16,8 +16,8 @@
 .site-footer__brand-lockup {
   display: block;
   flex-shrink: 0;
-  width: 8.125rem; /* 130px */
-  height: 1.5rem; /* 24px */
+  width: 9rem; /* 130px */
+  height: 2rem; /* 24px */
   object-fit: contain;
   object-position: left center;
 }

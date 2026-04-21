@@ -24,7 +24,7 @@ function ClikkleIcon({ className }: { className?: string }) {
 function CustomerHero() {
   return (
     <header className="customers-category-header">
-      <div className="customers-category-header__glow" aria-hidden="true" />
+      {/* <div className="customers-category-header__glow" aria-hidden="true" /> */}
       <div className="customers-category-header__content">
         <h1 className="customers-category-header__title text-display font-aeonik-pro text-primary">
           Customer Stories

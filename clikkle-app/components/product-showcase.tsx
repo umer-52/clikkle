@@ -45,7 +45,7 @@ export function ProductShowcase() {
                   <Link
                       key={product.label}
                       href={product.href}
-                      className="bg-greyscale-800 hover:bg-greyscale-750/50 flex h-full w-fit items-center justify-center gap-2 rounded-full px-3 backdrop-blur-lg transition-opacity"
+                      className="bg-greyscale-600/20 hover:bg-greyscale-600/30 flex h-full w-fit items-center justify-center gap-2 rounded-full px-3 backdrop-blur-lg transition-opacity"
                   >
                       <span className="text-primary text-caption flex items-center justify-center gap-1 font-medium">
                           <img loading="lazy"

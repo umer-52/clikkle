@@ -52,7 +52,7 @@ export function PreFooter({ headingId = "pre-footer-heading" }: PreFooterProps) 
           <section className="pre-footer-hero web-hero flex flex-col items-center justify-center gap-y-8">
             <h2
               id={headingId}
-              className="text-display font-aeonik-pro text-primary max-w-[500px] text-center"
+              className="text-display font-aeonik-pro text-primary max-w-125 text-center"
             >
               Start building with Clikkle today
             </h2>
@@ -68,7 +68,7 @@ export function PreFooter({ headingId = "pre-footer-heading" }: PreFooterProps) 
               </div>
             </header>
 
-            <ul className="pre-footer-strip-plans web-strip-plans">
+            <ul className="pre-footer-strip-plans web-strip-plans mt-6!">
               {plans.map((plan) => (
                 <li key={plan.name} className="pre-footer-strip-item web-strip-plans-item">
                   <div className="pre-footer-strip-row web-strip-plans-row md:grid! md:grid-cols-3!">
@@ -99,7 +99,7 @@ export function PreFooter({ headingId = "pre-footer-heading" }: PreFooterProps) 
                       className={
                         plan.variant === "primary"
                           ? "web-btn web-btn-primary w-full self-end"
-                          : "web-btn web-btn-secondary w-full self-end"
+                          : "web-btn web-btn--appwrite-secondary w-full self-end"
                       }
                     >
                       <span className="text px-2">{plan.buttonText}</span>

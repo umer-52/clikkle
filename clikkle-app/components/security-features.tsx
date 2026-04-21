@@ -61,7 +61,7 @@ const features = [
 
 export function SecurityFeatures() {
   return (
-    <div className="light bg-[#EDEDF0] pt-20 pb-12 md:pt-40">
+    <div className="light pt-20 pb-12 md:pt-40">
       <div className="container mx-auto">
         <section className="flex flex-col gap-4 lg:flex-row lg:items-baseline lg:gap-x-20">
           <h2 className="text-title font-aeonik-pro text-primary max-w-[700px] text-3xl leading-12 text-pretty sm:text-4xl md:text-5xl">
@@ -69,7 +69,7 @@ export function SecurityFeatures() {
             <span className="whitespace-nowrap">security and compliance</span>
             <span className="text-accent">_</span>
           </h2>
-          <p className="text-secondary text-description mt-4 max-w-full font-medium lg:max-w-xl">
+          <p className="text-light-secondary text-description mt-4 max-w-full font-medium lg:max-w-xl">
             With a security-first approach, we ensure your products and users
             are safe by default, making it easy for you to adhere to strict
             safety policies.
@@ -95,7 +95,7 @@ export function SecurityFeatures() {
                   className="h-4 w-4 transition-all group-hover:translate-x-0.5 group-hover:opacity-100 group-focus:translate-x-0.5 group-focus:opacity-100 xl:opacity-0"
                 />
               </h3>
-              <p className="text-secondary mt-1">{box.description}</p>
+              <p className="text-light-secondary mt-1">{box.description}</p>
             </Link>
           ))}
         </div>

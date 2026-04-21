@@ -858,7 +858,7 @@
     --color-card: var(--bg-elevated);
     --color-subtle: var(--color-greyscale-800);
 
-    background-color: var(--bg-primary);
+    background-color: var(--color-gray-200) !important;
     color: var(--color-text-primary);
 }
 
@@ -875,7 +875,7 @@
 html.dark body {
     position: relative;
 }
-
+/* 
 html.dark body::before {
     content: '';
     position: fixed;
@@ -890,7 +890,7 @@ html.dark body::before {
     filter: blur(48px);
     opacity: 0;
     animation: lighting 1.25s ease-out forwards;
-}
+} */
 
 /*
  * Appwrite docs: no global atmospheric layer — lighting is only on marketing heroes
@@ -1102,6 +1102,9 @@ html.dark #main-content > main[class*='--bg-primary'] {
 
 /* Hard override: `text-secondary` should use fixed tone, not token indirection. */
 .text-secondary {
-    color: #9b9ba7;
+    color: var(--color-gray-400);
 }
 
+.text-light-secondary {
+    color: var(--color-gray-600);
+}

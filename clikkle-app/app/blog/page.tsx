@@ -160,7 +160,7 @@ export default function BlogPage() {
 
             {/* Featured article */}
             {featuredAuthor && (
-              <article className="blog-feature-article mt-14 md:mt-16">
+              <article className="blog-feature-article mt-14 md:mt-12">
                 <Link
                   href={featuredPost.href}
                   className="blog-feature-article-image h-fit overflow-hidden rounded-3xl"
@@ -201,7 +201,7 @@ export default function BlogPage() {
                             {featuredAuthor.name}
                           </Link>
                         </span>
-                        <ul className="web-metadata text-caption blog-is-not-mobile">
+                        <ul className="web-metadata text-secondary text-xs blog-is-not-mobile">
                           <li>{featuredPost.timeToRead} min</li>
                         </ul>
                       </div>
@@ -209,7 +209,7 @@ export default function BlogPage() {
                   </div>
                   <Link
                     href={featuredPost.href}
-                    className="web-btn web-btn-secondary mt-8"
+                    className="web-btn web-btn--appwrite-secondary mt-8 w-fit"
                   >
                     <span>Read article</span>
                   </Link>

@@ -30,7 +30,7 @@ export function AIWorkflows() {
   }, []);
 
   return (
-    <div className="border-smooth border-t pb-16">
+    <div className="border-smooth border-t pb-[5.5rem]">
       <div className="container pt-20 pb-0">
         <h2 className="font-aeonik-pro text-title text-primary sm:text-subtitle mb-12">
           Streamline your AI workflows<span className="text-accent">_</span>

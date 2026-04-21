@@ -4,30 +4,37 @@
   position: relative;
   overflow: hidden;
   background-color: var(--bg-primary);
+  background-image:
+    radial-gradient(140% 120% at 16% 38%, rgba(45, 99, 255, 0.24) 0%, rgba(45, 99, 255, 0) 58%),
+    radial-gradient(120% 110% at 78% 28%, rgba(72, 132, 255, 0.14) 0%, rgba(72, 132, 255, 0) 60%),
+    radial-gradient(130% 130% at 50% 100%, rgba(30, 58, 138, 0.24) 0%, rgba(30, 58, 138, 0) 62%);
+  background-repeat: no-repeat;
   padding-block: 0 2.5rem;
 }
 
 .pre-footer-bg {
   position: absolute;
-  top: clamp(300px, 50vw, 50%);
-  left: clamp(300px, 50vw, 50%);
-  transform: translate(-58%, -72%);
-  width: clamp(1200px, 200vw, 3000px);
+  top: 52%;
+  left: 50%;
+  transform: translate(-50%, -52%);
+  width: clamp(1500px, 220vw, 3800px);
   aspect-ratio: 1;
   max-inline-size: unset;
   max-block-size: unset;
-  filter: blur(100px);
+  filter: blur(140px);
   z-index: 0;
   pointer-events: none;
-  opacity: 0.32;
-  background: radial-gradient(ellipse at 45% 40%, rgba(45, 99, 255, 0.18) 0%, transparent 55%),
-    radial-gradient(ellipse at 60% 55%, rgba(30, 58, 138, 0.14) 0%, transparent 50%);
+  opacity: 0.56;
+  background:
+    radial-gradient(ellipse at 40% 38%, rgba(45, 99, 255, 0.34) 0%, transparent 30%),
+    radial-gradient(ellipse at 40% 30%, rgba(72, 132, 255, 0.2) 0%, transparent 30%),
+    radial-gradient(ellipse at 40% 45%, rgba(30, 58, 138, 0.26) 0%, transparent 30%);
 }
 
 .pre-footer-wrap {
   position: relative;
   z-index: 1;
-  max-width: calc(1100px + 3rem);
+  max-width: calc(1300px + 3rem);
   margin-inline: auto;
   padding-inline: 1.5rem;
 }
@@ -136,7 +143,7 @@
 }
 
 .pre-footer-strip-item {
-  padding-block: 1.5rem;
+  padding-block: 2.5rem;
 }
 
 .pre-footer-strip-item:first-child {
@@ -190,11 +197,11 @@
   padding-inline: 0.25rem;
   border-radius: 0.25rem;
   line-height: 1;
-  font-size: 0.8125rem;
+  font-size: 0.9rem;
   font-weight: 500;
-  color: #93c5fd;
+  color: white;
   background-color: rgba(45, 99, 255, 0.14);
-  border: 1px solid rgba(45, 99, 255, 0.35);
+  /* border: 1px solid rgba(45, 99, 255, 0.35); */
   white-space: nowrap;
 }
 
