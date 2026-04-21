@@ -94,10 +94,10 @@ export function ScaleSection() {
         <div className="relative z-[100] w-fit max-w-full md:w-full md:max-w-xl">
           <h2 className="font-aeonik-pro text-title text-primary tracking-tighter text-pretty">
             Thousands of developers{" "}
-            <span className="text-secondary">scale with Clikkle</span>
+            <span className="text-light-secondary">scale with Clikkle</span>
             <span className="text-accent">_</span>
           </h2>
-          <p className="text-secondary border-accent mt-5 border-l-2 pl-4 font-medium md:pr-28">
+          <p className="text-light-secondary border-accent mt-5 border-l-2 pl-4 font-medium md:pr-28">
             <span className="text-accent">&ldquo;</span>
             The switch to using Clikkle brought{" "}
             <span className="text-accent font-semibold">infinite</span>{" "}
@@ -118,7 +118,7 @@ export function ScaleSection() {
               <span className="text-sub-body text-primary font-medium">
                 {testimonial.name},
               </span>
-              <span className="text-sub-body text-secondary font-medium">
+              <span className="text-sub-body text-light-secondary font-medium">
                 {testimonial.title} at {testimonial.company}
               </span>
             </div>
@@ -135,7 +135,7 @@ export function ScaleSection() {
                   {animatedValues[i]}
                   {stat.suffix}
                 </span>
-                <span className="text-body text-secondary block pl-4">
+                <span className="text-body text-light-secondary block pl-4">
                   {stat.description}
                 </span>
               </div>
@@ -163,7 +163,7 @@ export function ScaleSection() {
                       {animatedValues[i]}
                       {stat.suffix}
                     </span>
-                    <span className="text-body text-secondary block pl-4">
+                    <span className="text-body text-light-secondary block pl-4">
                       {stat.description}
                     </span>
                   </div>

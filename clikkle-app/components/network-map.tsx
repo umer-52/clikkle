@@ -15,7 +15,7 @@ export function NetworkMap() {
         <h2 className="text-primary font-aeonik-pro text-title">
           The Clikkle Network<span className="text-accent">_</span>
         </h2>
-        <p className="text-description text-secondary max-w-[90%] font-medium md:max-w-[75%] lg:max-w-[40%]">
+        <p className="text-description text-light-secondary max-w-[90%] font-medium md:max-w-[75%] lg:max-w-[40%]">
           Pick one of our many cloud regions or edges to meet your project&apos;s
           needs and reduce latency.
         </p>

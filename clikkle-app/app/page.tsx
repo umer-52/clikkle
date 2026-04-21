@@ -54,7 +54,7 @@ export default function Home() {
       <NetworkMap />
 
       {/* 9. Scale / stats — `src/routes/[variation]/+page.svelte`: `light bg-[#EDEDF0]` wraps Map+Scale */}
-      <div className="light bg-[#EDEDF0]">
+      <div className="light">
         <ScaleSection />
       </div>
 

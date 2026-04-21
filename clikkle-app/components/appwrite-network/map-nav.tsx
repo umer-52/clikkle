@@ -84,7 +84,7 @@ export function MapNav({ activeSegment, onValueChange, theme = 'dark' }: MapNavP
 
             <p
                 className={cn(
-                    'text-caption text-secondary px-4',
+                    'text-caption text-light-secondary text-sm px-4',
                     theme === 'dark' && 'text-white/70'
                 )}
             >
