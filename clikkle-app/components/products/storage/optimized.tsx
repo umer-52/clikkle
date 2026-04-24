@@ -19,7 +19,7 @@ export function Optimized() {
                     <Button
                         asChild
                         variant="secondary"
-                        className="w-full md:w-auto"
+                        className="w-full md:w-auto web-btn web-btn-secondary-dark ring-0!"
                     >
                         <Link href="/docs/products/storage/images">
                             Learn more

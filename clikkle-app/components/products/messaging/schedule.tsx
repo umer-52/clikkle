@@ -164,10 +164,10 @@ export function Schedule() {
             </div>
 
             {/* Text below */}
-            <h3 className="text-2xl lg:text-3xl font-aeonik-pro text-white text-center lg:text-center mt-[4.5rem]">
+            <h3 className="text-2xl lg:text-5xl font-aeonik-pro text-white text-center lg:text-center mt-[4.5rem]">
                 Schedule your messages
             </h3>
-            <p className="text-white/50 text-base font-medium text-center lg:text-center mt-6 max-w-[20rem] mx-auto">
+            <p className="text-white/50 text-lg font-medium text-center lg:text-center mt-6 max-w-[20rem] mx-auto">
                 Send messages immediately or schedule them for future delivery.
             </p>
         </Step>

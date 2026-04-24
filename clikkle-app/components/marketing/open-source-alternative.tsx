@@ -86,16 +86,16 @@ export function OpenSourceAlternative({ platforms = ['Auth0', 'Firebase', 'Supab
                     <div className="mx-auto mt-6 flex w-full flex-col items-center justify-center gap-4 md:flex-row">
                         <Link
                             href="https://github.com/clikkle"
-                            className="inline-flex w-full md:w-fit items-center justify-center gap-2 rounded-lg border border-[#19191C]/10 bg-white px-6 py-3 font-semibold text-[#19191C] shadow-[inset_0_1px_0_rgba(255,255,255,0.9),0_2px_8px_rgba(0,0,0,0.06)] transition-colors hover:bg-black/5"
+                            className="inline-flex w-full web-btn web-btn-secondary-light md:w-fit items-center justify-center gap-2 rounded-sm px-6 py-3 font-semibold shadow-[inset_0_1px_0_rgba(255,255,255,0.9),0_2px_8px_rgba(0,0,0,0.06)] transition-colors"
                         >
                             <Github className="w-5 h-5" />
                             Star on GitHub
                         </Link>
                         <Link
                             href="https://discord.gg/clikkle"
-                            className="inline-flex w-full md:w-fit items-center justify-center gap-2 rounded-lg bg-[#5865F2] px-6 py-3 font-semibold text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.15),0_4px_12px_rgba(88,101,242,0.35)] transition-colors hover:bg-[#5865F2]/90"
+                            className="inline-flex w-full web-btn web-btn-secondary-light md:w-fit items-center justify-center gap-2 rounded-sm px-6 py-3 font-semibold shadow-[inset_0_1px_0_rgba(255,255,255,0.15),0_4px_12px_rgba(88,101,242,0.35)] transition-colors"
                         >
-                            <MessageSquare className="w-5 h-5 fill-white" />
+                            <MessageSquare className="w-5 h-5 fill-accent" />
                             Join Discord
                         </Link>
                     </div>

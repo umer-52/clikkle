@@ -70,22 +70,22 @@ export function ProductHero({
                             <Button
                                 asChild
                                 variant="secondary"
-                                className="!w-full md:!w-fit"
+                                className="!w-full md:!w-fit web-btn web-btn-secondary-dark ring-0!"
                             >
                                 <Link href={secondaryCta.url}>{secondaryCta.label}</Link>
                             </Button>
                         )}
                     </div>
                 </div>
-                
+
                 {/* Fallback to standard img tag for easier layout matching with Clikkle's approach, though next/image is preferred */}
-                <img className={cn({ 'hidden md:block': mobileImage })} 
-                    src={typeof image.url === 'string' ? image.url : (image.url as any).src} 
+                <img className={cn({ 'hidden md:block': mobileImage })}
+                    src={typeof image.url === 'string' ? image.url : (image.url as any).src}
                     alt={image.alt ?? ''} />
-                
+
                 {mobileImage && (
-                    <img className="block md:hidden" 
-                        src={typeof mobileImage.url === 'string' ? mobileImage.url : (mobileImage.url as any).src} 
+                    <img className="block md:hidden"
+                        src={typeof mobileImage.url === 'string' ? mobileImage.url : (mobileImage.url as any).src}
                         alt={mobileImage.alt ?? ''} />
                 )}
             </div>

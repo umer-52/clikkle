@@ -134,15 +134,15 @@ export function Permissions() {
             <div className="container">
                 <div className="mx-auto flex max-w-[500px] flex-col items-center justify-center gap-4 text-center">
                     <h2 className="text-title font-aeonik-pro text-primary text-[#19191C] dark:text-[#E8E8EB]">
-                        Protect your files and set permissions
+                        Protect your files and <br/> set permissions
                     </h2>
-                    <p className="text-main-body max-w-[380px] mx-auto font-medium text-[#434347] dark:text-[#A0A0A5]">
+                    <p className="text-main-body max-w-[470px] mx-auto font-medium text-[#434347] dark:text-[#A0A0A5]">
                         Set up file encryption and granular user permissions in your storage infrastructure
                     </p>
                     <Button
                         asChild
                         variant="secondary"
-                        className="mx-auto mt-4 w-full md:w-auto"
+                        className="mx-auto mt-4 w-full md:w-auto web-btn web-btn-secondary-dark ring-0!"
                     >
                         <Link href="/docs/products/storage/permissions">
                             Learn more

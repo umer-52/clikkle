@@ -57,7 +57,7 @@ export default async function StoragePage() {
                         <div className="container">
                             <div className="web-hero is-center !max-w-3xl mx-auto">
                                 <span
-                                    className="text-eyebrow font-aeonik-fono rounded-md px-3 py-1.5 font-medium uppercase text-white"
+                                    className="text-eyebrow font-aeonik-fono rounded-sm px-3 py-1.5 font-medium uppercase text-white shadow-[4px_5px_0_0px_rgba(45,99,255,0.3)]"
                                     style={{
                                         background: 'linear-gradient(135deg, #2d63ff 0%, #1d4ed8 100%)'
                                     }}
@@ -75,7 +75,7 @@ export default async function StoragePage() {
                                     href="/docs/products/storage/buckets"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="web-btn web-btn-outline mx-auto mt-4 !w-full md:!w-fit"
+                                    className="web-btn web-btn-secondary-light mx-auto mt-4 !w-full md:!w-fit"
                                 >
                                     Learn more
                                 </Link>
@@ -148,14 +148,14 @@ export default async function StoragePage() {
                             <div className="grid grid-cols-1 gap-16 lg:grid-cols-2">
                                 <div className="web-hero is-align-start mx-auto md:mb-0 lg:!max-w-md">
                                     <span
-                                        className="text-eyebrow font-aeonik-fono rounded-md px-3 py-1.5 font-medium uppercase text-white"
+                                        className="text-eyebrow font-aeonik-fono rounded-sm px-3 py-1.5 font-medium uppercase text-white shadow-[4px_5px_0_0px_rgba(45,99,255,0.3)]"
                                         style={{
                                             background: 'linear-gradient(135deg, #2d63ff 0%, #1d4ed8 100%)'
                                         }}
                                     >
                                         APIs_
                                     </span>
-                                    <h2 className="text-title font-aeonik-pro text-primary">
+                                    <h2 className="text-title font-aeonik-pro text-primary mt-7 mb-5">
                                         What you can do with Storage APIs
                                     </h2>
                                     <p className="text-main-body mt-0 font-medium text-secondary">
@@ -166,7 +166,7 @@ export default async function StoragePage() {
                                         href="/docs/references/cloud/client-web/storage"
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="web-btn web-btn-primary mt-4 !w-full md:!w-fit"
+                                        className="web-btn web-btn-primary mt-9 mt-4 !w-full md:!w-fit"
                                     >
                                         View docs
                                     </Link>

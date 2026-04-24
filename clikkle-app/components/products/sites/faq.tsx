@@ -31,7 +31,7 @@ export function SitesFaq() {
 
     return (
         <div className="container grid grid-cols-1 justify-between pt-20 md:grid-cols-12">
-            <h2 className="text-white text-2xl lg:text-3xl font-aeonik-pro mt-10 md:col-span-4">FAQ</h2>
+            <h2 className="text-white text-2xl lg:text-5xl font-aeonik-pro mt-10 md:col-span-4">FAQ</h2>
             <ul className="w-full divide-y divide-white/5 md:col-span-8">
                 {faqItems.map((item, index) => (
                     <li key={index}>
@@ -39,7 +39,7 @@ export function SitesFaq() {
                             className="flex w-full items-center justify-between gap-2.5 py-6 text-left cursor-pointer"
                             onClick={() => setOpenIndex(openIndex === index ? -1 : index)}
                         >
-                            <span className="text-base font-semibold text-white">
+                            <span className="text-2xl font-semibold text-white">
                                 {item.question}
                             </span>
                             <ChevronDown
@@ -51,7 +51,7 @@ export function SitesFaq() {
                         {openIndex === index && (
                             <div className="pb-6">
                                 <p
-                                    className="text-white/50 text-sm leading-relaxed"
+                                    className="text-white/50 text-lg leading-relaxed"
                                     dangerouslySetInnerHTML={{ __html: item.answer }}
                                 />
                             </div>

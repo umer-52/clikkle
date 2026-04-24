@@ -52,11 +52,11 @@ const allProducts = {
 
 export function ProductCards({ currentProduct }: ProductCardsProps) {
     const products = Object.entries(allProducts)
-        .filter(([key]) => key !== currentProduct)
+        .filter(([key]) => key !== currentProduct || (currentProduct == 'Auth' && key === 'sites'))
         .map(([_, value]) => value);
 
     return (
-        <section className="border-smooth border-t py-20 md:py-40">
+        <section className="border-smooth border-t border-b-0! border-b-transparent! py-20 md:py-40">
             <div className="container max-md:px-5!">
                 <h4 className="text-label text-primary text-center">Keep exploring our products</h4>
                 <div className="mt-8 grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">

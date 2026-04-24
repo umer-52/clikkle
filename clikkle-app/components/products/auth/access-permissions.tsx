@@ -23,9 +23,9 @@ export function AccessPermissions() {
             <div className="container">
                 <div className="mx-auto mb-20 flex max-w-md flex-col items-center justify-center gap-y-4 text-center">
                     <span
-                        className="text-eyebrow font-aeonik-fono rounded-md px-3 py-1.5 font-medium uppercase text-white"
+                        className="text-eyebrow font-aeonik-fono rounded-[0.4rem] px-3 py-1.5 font-medium uppercase text-white shadow-[4px_5px_0_0px_rgba(45,99,255,0.3)]"
                         style={{
-                            background: 'linear-gradient(135deg, #2d63ff 0%, #1d4ed8 100%)'
+                            background: 'linear-gradient(135deg, #3B82F6 0%, #2D63FF 72%, #2563EB 100%)'
                         }}
                     >
                         Access_
@@ -38,7 +38,7 @@ export function AccessPermissions() {
                     </p>
                     <Link
                         href="/docs/products/auth/teams"
-                        className="web-btn web-btn-outline mt-2 !w-full md:!w-fit"
+                        className="web-btn web-btn-secondary-light mt-2 !w-full md:!w-fit"
                     >
                         Learn more
                     </Link>

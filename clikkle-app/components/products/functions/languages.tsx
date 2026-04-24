@@ -74,7 +74,7 @@ export async function Languages() {
                     <Button
                         asChild
                         variant="secondary"
-                        className="mt-8 w-full md:w-auto text-black bg-white hover:bg-white/90"
+                        className="mt-8 w-full md:w-fit web-btn web-btn-secondary-dark ring-0!"
                     >
                         <Link href="/docs/products/functions/runtimes">
                             Learn more

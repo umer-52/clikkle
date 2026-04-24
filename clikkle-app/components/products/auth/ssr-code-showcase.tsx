@@ -180,7 +180,7 @@ export async function SSRCodeShowcase() {
             <div className="container grid grid-cols-1 gap-8 lg:grid-cols-2">
                 <div className="mb-10 flex flex-col">
                     <span
-                        className="text-micro font-aeonik-fono mr-auto ml-0 rounded-md px-3 py-1.5 font-medium uppercase text-white"
+                        className="text-micro font-aeonik-fono mr-auto ml-0 rounded-sm px-3 py-1.5 font-medium uppercase text-white shadow-[4px_5px_0_0px_rgba(45,99,255,0.3)]"
                         style={{
                             background: 'linear-gradient(135deg, #2d63ff 0%, #1d4ed8 100%)'
                         }}
@@ -202,7 +202,7 @@ export async function SSRCodeShowcase() {
                                 <a
                                     href={platform.href}
                                     title={`${platform.name} quick start`}
-                                    className="platform flex size-14 items-center justify-center rounded-lg bg-white p-2 shadow-[0px_5.35px_10.7px_rgba(0,0,0,0.02)] backdrop-blur-[16.7px] transition-opacity hover:opacity-90"
+                                    className="platform flex size-14 items-center justify-center rounded-sm bg-white p-2 shadow-[0px_5.35px_10.7px_rgba(0,0,0,0.02)] backdrop-blur-[16.7px] transition-opacity hover:opacity-90"
                                 >
                                     <Image
                                         src={platform.image}
@@ -215,7 +215,7 @@ export async function SSRCodeShowcase() {
                             </li>
                         ))}
                     </ul>
-                    <Link href="/docs/sdks#server" className="web-btn web-btn-outline mt-8 w-fit">
+                    <Link href="/docs/sdks#server" className="web-btn web-btn-secondary-light mt-8 w-fit">
                         Learn more
                     </Link>
                 </div>

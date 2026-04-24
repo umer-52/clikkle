@@ -33,7 +33,7 @@ export function OpenSource() {
                         </p>
                         <Link
                             href="/"
-                            className="web-btn web-btn-outline mx-auto mt-4 !w-full md:!w-fit"
+                            className="web-btn web-btn-secondary-light mx-auto mt-4 !w-full md:!w-fit"
                         >
                             Join the community
                         </Link>

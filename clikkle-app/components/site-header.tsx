@@ -123,9 +123,9 @@ export function SiteHeader() {
   /* Inline surface so Turbopack/Tailwind layer order cannot strip glass (tokens from `appwrite-pink-design-system.css`). */
   const headerChromeStyle: CSSProperties = isScrolled
     ? {
-        backgroundColor: "var(--color-background-glass)",
+        backgroundColor: "rgba(15, 15, 19, 0.3)",
         WebkitBackdropFilter: "blur(24px)",
-        backdropFilter: "blur(24px)",
+        backdropFilter: "blur(9px)",
       }
     : {
         backgroundColor: "var(--aw-header-top-bg)",

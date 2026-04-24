@@ -110,8 +110,8 @@
 
 .pricing-svelte-h1 {
   font-family: var(--font-aeonik-pro, 'Inter', sans-serif);
-  font-size: var(--text-display);
-  line-height: var(--text-display--line-height);
+  font-size: 3rem;
+  line-height: 3.5rem;
   letter-spacing: var(--text-display--letter-spacing);
   font-weight: 300;
   max-width: 56.25rem;

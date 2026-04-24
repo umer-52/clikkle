@@ -15,11 +15,11 @@ export function CreateStep() {
             </div>
 
             {/* Text */}
-            <div className="relative z-10 mx-auto -mt-24 flex max-w-md flex-col gap-4 text-center">
-                <h2 className="text-2xl md:text-3xl text-white font-aeonik-pro">
+            <div className="relative z-10 mx-auto flex max-w-md flex-col gap-4 text-center">
+                <h2 className="text-2xl md:text-5xl text-white font-aeonik-pro">
                     Clone a template or connect to your Git repository
                 </h2>
-                <p className="text-white/50 text-base font-medium">
+                <p className="text-white/50 text-lg font-medium">
                     Use one of the pre-built Sites templates or import an existing project using Git.
                 </p>
             </div>

@@ -71,7 +71,7 @@ export function AuthSdkMigration() {
                     <p className="text-main-body font-medium text-secondary">
                         Integrate Auth seamlessly into your projects with your favorite technology.
                     </p>
-                    <Link href="/docs/sdks" className="web-btn web-btn-outline mt-2 !w-full md:!w-fit">
+                    <Link href="/docs/sdks" className="web-btn web-btn-secondary-light mt-2 !w-full md:!w-fit">
                         Learn more
                     </Link>
                 </div>
@@ -109,7 +109,7 @@ export function AuthSdkMigration() {
                     <p className="text-main-body font-medium text-secondary">
                         Use Clikkle&apos;s migration process to transfer your existing users with a few clicks.
                     </p>
-                    <Link href="/docs" className="web-btn web-btn-outline mt-2 !w-full md:!w-fit">
+                    <Link href="/docs" className="web-btn web-btn-secondary-light mt-2 !w-full md:!w-fit">
                         Learn more
                     </Link>
                 </div>
@@ -151,13 +151,13 @@ export function AuthOpenSourceSection() {
                     <div className="mx-auto mt-2 flex w-full flex-col items-center justify-center gap-2 md:flex-row">
                         <a
                             href="https://github.com/clikkle"
-                            className="web-btn web-btn-outline h-10 !w-full md:!w-fit"
+                            className="web-btn web-btn-secondary-light h-10 !w-full md:!w-fit"
                         >
                             <Github className="web-btn-icon" aria-hidden /> Star on GitHub
                         </a>
                         <a
                             href="https://discord.gg/clikkle"
-                            className="web-btn web-btn-primary h-10 !w-full md:!w-fit border-[#5865F2] !bg-[#5865F2] hover:!brightness-110"
+                            className="web-btn web-btn-secondary-light h-10 !w-full md:!w-fit"
                             style={{ borderColor: '#5865F2' }}
                         >
                             <MessageSquare className="web-btn-icon" aria-hidden /> Join Discord

@@ -176,8 +176,8 @@ export function IntegrateStep() {
 
             {/* Text */}
             <div className="mx-auto flex flex-col gap-4 text-center mt-8">
-                <h2 className="text-2xl lg:text-3xl text-white font-aeonik-pro">Integrate your backend</h2>
-                <p className="text-white/50 text-base font-medium mx-auto">
+                <h2 className="text-2xl lg:text-5xl text-white font-aeonik-pro">Integrate your backend</h2>
+                <p className="text-white/50 text-lg font-medium mx-auto">
                     Easily integrate Clikkle&apos;s backend products with your site.<br />Zero configuration needed.
                 </p>
             </div>

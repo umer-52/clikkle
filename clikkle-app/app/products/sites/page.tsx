@@ -70,13 +70,13 @@ export default function SitesPage() {
                         <div className="flex flex-col md:flex-row items-center gap-2">
                             <Link
                                 href="https://cloud.clikkle.com"
-                                className="web-btn web-btn-primary w-full md:w-auto ![background-image:none] !border-transparent !bg-white !text-black shadow hover:!bg-white/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+                                className="web-btn web-btn-primary w-full md:w-auto shadow focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                             >
                                 Start for free
                             </Link>
                             <Link
                                 href="/docs/products/sites"
-                                className="web-btn web-btn-secondary w-full md:w-auto shadow-sm focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+                                className="web-btn web-btn-secondary-dark w-full md:w-auto shadow-sm focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                             >
                                 Read the docs
                             </Link>

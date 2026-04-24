@@ -129,10 +129,10 @@ export function Draft() {
 
             {/* Text below */}
             <div className="lg:absolute lg:bottom-[7.5rem] lg:left-20 max-w-lg mt-8 lg:mt-0">
-                <h3 className="text-2xl lg:text-3xl font-aeonik-pro text-white">
+                <h3 className="text-2xl lg:text-5xl font-aeonik-pro text-white">
                     Draft and preview your message before delivering it
                 </h3>
-                <p className="text-white/50 mt-6 text-base font-medium">
+                <p className="text-white/50 mt-6 text-lg font-medium">
                     See a preview of your crafted messages on the Console before sending them to
                     your audience.
                 </p>

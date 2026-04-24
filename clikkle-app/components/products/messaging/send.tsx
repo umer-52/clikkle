@@ -24,8 +24,8 @@ export function Send() {
                     <img src="/clikkle/images/products/messaging/android.svg"
                         alt="Android notification"
                         className="w-[300px] lg:w-[390px] h-auto object-contain mx-auto lg:mx-0 opacity-0 lg:opacity-100 hidden lg:block" loading="lazy" />
-                    <div className="lg:absolute lg:top-1/4">
-                    <h3 className="text-2xl lg:text-3xl font-aeonik-pro text-white max-w-[31.25rem] relative z-[1000] lg:pl-8">
+                    <div className="lg:absolute lg:top-[70%] left-10">
+                    <h3 className="text-2xl lg:text-5xl font-aeonik-pro text-white max-w-[35rem] relative z-[1000] lg:pl-8">
                         Communicate across multiple channels
                     </h3>
                         <p className="text-white/50 mt-4 pb-8 relative z-[1000] lg:pl-8 text-center lg:text-left mx-auto max-w-[90%] lg:max-w-none">

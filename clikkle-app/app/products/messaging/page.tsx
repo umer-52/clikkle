@@ -27,18 +27,18 @@ export default function MessagingPage() {
                 <div className="absolute top-0 right-0 w-[800px] h-[800px] bg-[#E580FE] opacity-20 blur-[120px] rounded-full pointer-events-none translate-x-1/2 -translate-y-1/2" />
                 
                 <div className="container relative z-10">
-                    <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-[5.625rem] min-h-[500px] lg:min-h-[700px]">
+                    <div className="grid grid-cols-1 lg:grid-cols-2 items-center gap-16 lg:gap-[5.625rem] min-h-[300px]">
                         <div>
                             <div className="flex items-center gap-4 mb-6">
                                 <img src={withBasePath("/icons-black/Messaging.png")} alt="Messaging" className="w-8 h-8" loading="lazy" />
                                 <span className="text-xs font-aeonik-fono text-white tracking-widest uppercase">
                                     Messaging<span className="text-[#FE9567]">_</span>
                                 </span>
-                                <span className="text-[10px] font-bold tracking-widest text-[#19191C] bg-white px-2 py-0.5 rounded-sm uppercase">
+                                <span className="rounded-full border border-[#2D63FF]/45 bg-[#2D63FF]/10 px-2.5 py-1 text-[12px] font-bold tracking-widest text-white/90 uppercase">
                                     BETA
                                 </span>
                             </div>
-                            <h1 className="text-display font-aeonik-pro text-white leading-tight">
+                            <h1 className="text-display font-aeonik-pro text-white leading-xxxl">
                                 Open source messaging service for developers
                             </h1>
                             <p className="text-main-body text-white/60 mt-5 max-w-lg font-medium">
@@ -48,13 +48,13 @@ export default function MessagingPage() {
                             <div className="mt-8 flex flex-col sm:flex-row items-center gap-2">
                                 <Link
                                     href="https://cloud.clikkle.com"
-                                    className="web-btn web-btn-primary w-full sm:w-auto ![background-image:none] !border-transparent !bg-white !text-black shadow hover:!bg-white/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+                                    className="web-btn web-btn-primary w-full sm:w-auto border-transparent! shadow focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                                 >
                                     Get started
                                 </Link>
                                 <Link
                                     href="/docs/products/messaging"
-                                    className="web-btn web-btn-secondary w-full sm:w-auto shadow-sm focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+                                    className="web-btn web-btn-secondary-dark bg-transparent w-full sm:w-auto shadow-sm focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                                 >
                                     Documentation
                                 </Link>
@@ -62,7 +62,7 @@ export default function MessagingPage() {
                         </div>
 
                         <div className="relative h-full w-full flex justify-center lg:justify-end">
-                            <img className="h-full max-h-[700px] w-auto object-contain lg:translate-y-[150px]"
+                            <img className="min-h-237.5 min-w-175 -top-72 -right-52 absolute object-contain lg:translate-y-37.5"
                                 src="/clikkle/images/products/messaging/phone.png"
                                 alt="Phone mockup" loading="lazy" />
                         </div>
@@ -175,7 +175,7 @@ export default function MessagingPage() {
             <div className="relative z-[1] bg-[var(--bg-primary)] pt-10">
                 <div className="container py-20">
                     <div className="flex flex-col items-start">
-                        <span className="text-xs font-aeonik-fono px-3 py-1 bg-white/10 text-white uppercase rounded-full w-fit mb-4 tracking-widest">
+                        <span className="text-xs font-aeonik-fono px-3 py-1 bg-accent text-white uppercase rounded-sm w-fit mb-4 tracking-widest shadow-[3px_4px_0_0px_rgba(255,255,255,0.03)]">
                             SDKs_
                         </span>
                         <h2 className="text-display font-aeonik-pro text-white max-w-[700px]">
@@ -234,7 +234,7 @@ await messaging.createPush(
 
             <ProductCards currentProduct="messaging" />
 
-            <div className="border-smooth relative border-t border-black/10 bg-[var(--bg-primary)]">
+            <div className="relative bg-[var(--bg-primary)]">
                 <div className="container pb-16">
                     <PreFooter headingId="messaging-pre-footer-heading" />
                     <SiteFooter noOuterContainer />

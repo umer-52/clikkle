@@ -16,9 +16,9 @@ export function DeployStep() {
             </div>
 
             {/* Text */}
-            <div className="relative z-10 mx-auto -mt-24 flex max-w-md flex-col gap-4 text-center">
-                <h2 className="text-2xl md:text-3xl text-white font-aeonik-pro">Deploy your site</h2>
-                <p className="text-white/50 text-base font-medium">
+            <div className="relative z-10 mx-auto flex max-w-md flex-col gap-4 text-center">
+                <h2 className="text-2xl md:text-5xl text-white font-aeonik-pro">Deploy your site</h2>
+                <p className="text-white/50 text-lg font-medium">
                     Easily deploy your website and web apps using Git, CLI, or manually. Monitor your
                     deployment logs to ensure a stable connection with the Clikkle network.
                 </p>

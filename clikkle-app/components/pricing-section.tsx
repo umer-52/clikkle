@@ -52,7 +52,7 @@ export function PricingSection({
   return (
     <div
       className={cn(
-        "pricing-home-section relative -mt-6 -mb-12 flex w-full items-center justify-center pt-44 md:mb-0 md:pb-32",
+        "pricing-home-section relative -mt-6 -mb-12 flex w-full items-center justify-center pt-44 md:mb-0 md:pb-12",
         !showFullHeader && "pt-10",
         className
       )}

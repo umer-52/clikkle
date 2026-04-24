@@ -264,10 +264,10 @@ export function Target() {
 
             {/* Text below */}
             <div className="mt-4 flex flex-col items-center gap-6 text-center lg:text-center">
-                <h3 className="text-2xl lg:text-3xl font-aeonik-pro text-white">
+                <h3 className="text-2xl lg:text-5xl font-aeonik-pro text-white">
                     Target and group your subscribers
                 </h3>
-                <p className="text-white/50 text-base font-medium max-w-[580px]">
+                <p className="text-white/50 text-lg font-medium max-w-[500px]">
                     Segment your users based on topics using list subscriptions to send focused
                     messages.
                 </p>

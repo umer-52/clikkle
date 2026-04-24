@@ -65,7 +65,7 @@ export function AIWorkflows() {
       <div className="border-smooth border-y border-dashed">
         <div className="container">
           <div className="hidden sm:block">
-            <div className="flex overflow-clip">
+            <div className="flex overflow-visible">
               {tools.map((tool, i) => (
                 <div
                   key={tool.name}
@@ -90,7 +90,7 @@ export function AIWorkflows() {
                   />
                   <div className="absolute inset-0 bg-gradient-to-tl from-[var(--primary-color)]/5 to-transparent opacity-0 transition-opacity group-hover:opacity-100" />
                   <span
-                    className="text-primary pointer-events-none absolute top-full z-10 mt-2 hidden whitespace-nowrap rounded-md bg-[#EDEDF0] px-2.5 py-1 text-sm md:block dark:bg-[var(--color-greyscale-900)]"
+                    className="text-primary pointer-events-none absolute top-full left-1/2 z-20 mt-2 hidden -translate-x-1/2 translate-y-1 whitespace-nowrap rounded-md px-2.5 py-1 text-sm opacity-0 transition-all duration-200 group-hover:translate-y-0 group-hover:opacity-100 md:block"
                     role="tooltip"
                   >
                     {tool.name}
@@ -136,7 +136,7 @@ export function AIWorkflows() {
                         <div className="absolute inset-0 bg-gradient-to-tl from-[var(--primary-color)]/5 to-transparent" />
                         <span
                           className={cn(
-                            "text-primary absolute top-full z-10 mt-2 whitespace-nowrap rounded-md bg-[#EDEDF0] px-2.5 py-1 text-sm dark:bg-[var(--color-greyscale-900)]",
+                            "text-primary absolute top-full z-10 mt-2 whitespace-nowrap rounded-md px-2.5 py-1 text-sm",
                             i === tools.length - 1 ? "right-0" : "left-1/2 -translate-x-1/2"
                           )}
                         >
