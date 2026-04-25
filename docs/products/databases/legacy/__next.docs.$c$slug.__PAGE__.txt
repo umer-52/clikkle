@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+3:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":["$L2",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+5:null
+2:E{"digest":"NEXT_REDIRECT;replace;/docs/products/databases/legacy/databases;307;"}

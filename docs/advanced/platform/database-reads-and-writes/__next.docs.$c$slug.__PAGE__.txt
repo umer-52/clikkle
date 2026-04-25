@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+17:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+18:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+1b:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:Ta56,---
+layout: article
+title: Database Reads and Writes
+description: Learn how Clikkle handles database reads and writes and their associated costs.
+---
+{% info title="Note" %}
+Updated pricing will take effect on April 10th, 2025. Check out this [blog post](/blog/post/announcing-database-reads-and-writes-pricing) for more information.
+{% /info %}
+
+Clikkle provides powerful database capabilities through its [Database API](/docs/products/databases), allowing you to perform read and write operations across your application data. Understanding how these operations are counted and billed is essential for planning your application's scalability.
+
+## Database Operations
+
+Database operations in Clikkle are categorized into two types:
+
+**Read Operations**: Any action that retrieves data from your database, including:
+- Fetching rows with `getRow` or `listRows`.
+
+**Write Operations**: Any action that modifies data in your database, including:
+- Creating rows with `createRow`.
+- Updating rows with `updateRow`.
+- Deleting rows with `deleteRow`.
+
+How it works:
+1. Perform database operations through the Clikkle SDK or API.
+2. Clikkle automatically tracks and logs these operations.
+3. Operations are counted based on the number of rows affected, not API calls.
+4. Quotas are refreshed monthly based on your subscription plan.
+
+For example, if you fetch a table of 50 rows with a single API call, this counts as 50 read operations, not as a single operation. If your query returns no rows, this counts as a single operation.
+
+## Pricing
+
+### Free Plan
+- **Included**: 500,000 read operations and 250,000 write operations per month.
+- **Overage**: Not available (operations are throttled when limits are reached).
+
+### Pro and Scale Plans
+- **Included**: 1,750,000 read operations and 750,000 write operations per month.
+- **Overage**: $0.060 per 100,000 additional read operations and $0.10 per 100,000 additional write operations.
+
+### Enterprise Plan
+- **Included**: Unlimited read and write operations.
+- **Overage**: Not applicable.
+
+For detailed information about the different pricing options and features, please visit the [pricing page](/pricing).
+
+## Best Practices
+
+To optimize your database operations and control costs:
+1. **Use efficient queries**: Filter data on the server side rather than retrieving large datasets and filtering client-side.
+2. **Implement pagination**: Use the `limit` and `offset` parameters to retrieve only the data you need.
+3. **Monitor usage**: Keep track of your database operations through the Clikkle Console.
+4. **Consider caching**: Cache frequently accessed data to reduce repeated read operations.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Database Reads and Writes"}]]}],"$L4"]}]]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:Ta56,---
+layout: article
+title: Database Reads and Writes
+description: Learn how Clikkle handles database reads and writes and their associated costs.
+---
+{% info title="Note" %}
+Updated pricing will take effect on April 10th, 2025. Check out this [blog post](/blog/post/announcing-database-reads-and-writes-pricing) for more information.
+{% /info %}
+
+Clikkle provides powerful database capabilities through its [Database API](/docs/products/databases), allowing you to perform read and write operations across your application data. Understanding how these operations are counted and billed is essential for planning your application's scalability.
+
+## Database Operations
+
+Database operations in Clikkle are categorized into two types:
+
+**Read Operations**: Any action that retrieves data from your database, including:
+- Fetching rows with `getRow` or `listRows`.
+
+**Write Operations**: Any action that modifies data in your database, including:
+- Creating rows with `createRow`.
+- Updating rows with `updateRow`.
+- Deleting rows with `deleteRow`.
+
+How it works:
+1. Perform database operations through the Clikkle SDK or API.
+2. Clikkle automatically tracks and logs these operations.
+3. Operations are counted based on the number of rows affected, not API calls.
+4. Quotas are refreshed monthly based on your subscription plan.
+
+For example, if you fetch a table of 50 rows with a single API call, this counts as 50 read operations, not as a single operation. If your query returns no rows, this counts as a single operation.
+
+## Pricing
+
+### Free Plan
+- **Included**: 500,000 read operations and 250,000 write operations per month.
+- **Overage**: Not available (operations are throttled when limits are reached).
+
+### Pro and Scale Plans
+- **Included**: 1,750,000 read operations and 750,000 write operations per month.
+- **Overage**: $0.060 per 100,000 additional read operations and $0.10 per 100,000 additional write operations.
+
+### Enterprise Plan
+- **Included**: Unlimited read and write operations.
+- **Overage**: Not applicable.
+
+For detailed information about the different pricing options and features, please visit the [pricing page](/pricing).
+
+## Best Practices
+
+To optimize your database operations and control costs:
+1. **Use efficient queries**: Filter data on the server side rather than retrieving large datasets and filtering client-side.
+2. **Implement pagination**: Use the `limit` and `offset` parameters to retrieve only the data you need.
+3. **Monitor usage**: Keep track of your database operations through the Clikkle Console.
+4. **Consider caching**: Cache frequently accessed data to reduce repeated read operations.
+
+4:["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Note"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Updated pricing will take effect on April 10th, 2025. Check out this ",["$","$Le",null,{"href":"/blog/post/announcing-database-reads-and-writes-pricing","children":"blog post"}]," for more information."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle provides powerful database capabilities through its ",["$","$Le",null,{"href":"/docs/products/databases","children":"Database API"}],", allowing you to perform read and write operations across your application data. Understanding how these operations are counted and billed is essential for planning your application's scalability."]}],["$","$Lf",null,{"level":2,"children":"Database Operations"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Database operations in Clikkle are categorized into two types:"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Read Operations"}],": Any action that retrieves data from your database, including:"]}],["$","ul",null,{"className":"web-pink-dots","children":["$","li",null,{"children":["Fetching rows with ",["$","code",null,{"children":"getRow"}]," or ",["$","code",null,{"children":"listRows"}],"."]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Write Operations"}],": Any action that modifies data in your database, including:"]}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["Creating rows with ",["$","code",null,{"children":"createRow"}],"."]}],["$","li",null,{"children":["Updating rows with ",["$","code",null,{"children":"updateRow"}],"."]}],["$","li",null,{"children":["Deleting rows with ",["$","code",null,{"children":"deleteRow"}],"."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"How it works:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":"Perform database operations through the Clikkle SDK or API."}],["$","li",null,{"children":"Clikkle automatically tracks and logs these operations."}],["$","li",null,{"children":"Operations are counted based on the number of rows affected, not API calls."}],["$","li",null,{"children":"Quotas are refreshed monthly based on your subscription plan."}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For example, if you fetch a table of 50 rows with a single API call, this counts as 50 read operations, not as a single operation. If your query returns no rows, this counts as a single operation."}],["$","$Lf",null,{"level":2,"children":"Pricing"}],["$","$Lf",null,{"level":3,"children":"Free Plan"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Included"}],": 500,000 read operations and 250,000 write operations per month."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Overage"}],": Not available (operations are throttled when limits are reached)."]}]]}],["$","$Lf",null,{"level":3,"children":"Pro and Scale Plans"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Included"}],": 1,750,000 read operations and 750,000 write operations per month."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Overage"}],": $0.060 per 100,000 additional read operations and $0.10 per 100,000 additional write operations."]}]]}],"$L10","$L11","$L12","$L13","$L14","$L15"]}]}]]}],"$L16"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L17",null,{"items":[{"id":"database-operations","title":"Database Operations","level":2},{"id":"pricing","title":"Pricing","level":2},{"id":"free-plan","title":"Free Plan","level":3},{"id":"pro-and-scale-plans","title":"Pro and Scale Plans","level":3},{"id":"enterprise-plan","title":"Enterprise Plan","level":3},{"id":"best-practices","title":"Best Practices","level":2}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+10:["$","$Lf",null,{"level":3,"children":"Enterprise Plan"}]
+11:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Included"}],": Unlimited read and write operations."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Overage"}],": Not applicable."]}]]}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For detailed information about the different pricing options and features, please visit the ",["$","$Le",null,{"href":"/pricing","children":"pricing page"}],"."]}]
+13:["$","$Lf",null,{"level":2,"children":"Best Practices"}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To optimize your database operations and control costs:"}]
+15:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Use efficient queries"}],": Filter data on the server side rather than retrieving large datasets and filtering client-side."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Implement pagination"}],": Use the ",["$","code",null,{"children":"limit"}]," and ",["$","code",null,{"children":"offset"}]," parameters to retrieve only the data you need."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Monitor usage"}],": Keep track of your database operations through the Clikkle Console."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Consider caching"}],": Cache frequently accessed data to reduce repeated read operations."]}]]}]
+16:["$","$L1b",null,{}]
+1a:null

@@ -1,0 +1,58 @@
+# AttributeFloat
+
+AttributeFloat
+
+## Properties
+
+| Name | Type | Description |
+|------|------|-------------|
+| key | string | Attribute Key. |
+| type | string | Attribute type. |
+| status | string | Attribute status. Possible values: `available`, `processing`, `deleting`, `stuck`, or `failed` |
+| error | string | Error message. Displays error generated on failure of creating or deleting an attribute. |
+| required | boolean | Is attribute required? |
+| array | boolean | Is attribute an array? |
+| $createdAt | string | Attribute creation date in ISO 8601 format. |
+| $updatedAt | string | Attribute update date in ISO 8601 format. |
+| min | number | Minimum value to enforce for new documents. |
+| max | number | Maximum value to enforce for new documents. |
+| default | number | Default value for attribute when not provided. Cannot be set when attribute is required. |
+
+## Example
+
+### REST
+
+```json
+{
+  "key": "percentageCompleted",
+  "type": "double",
+  "status": "available",
+  "error": "string",
+  "required": true,
+  "array": false,
+  "$createdAt": "2020-10-15T06:38:00.000+00:00",
+  "$updatedAt": "2020-10-15T06:38:00.000+00:00",
+  "min": 1.5,
+  "max": 10.5,
+  "default": 2.5
+}
+```
+
+### GraphQL
+
+```json
+{
+  "key": "percentageCompleted",
+  "type": "double",
+  "status": "available",
+  "error": "string",
+  "required": true,
+  "array": false,
+  "_createdAt": "2020-10-15T06:38:00.000+00:00",
+  "_updatedAt": "2020-10-15T06:38:00.000+00:00",
+  "min": 1.5,
+  "max": 10.5,
+  "default": 2.5
+}
+```
+

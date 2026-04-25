@@ -1,0 +1,155 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+1c:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:Tee9,---
+layout: article
+title: Caching
+description: Learn how Clikkle uses smart caching strategies at the region, edge, and CDN levels to optimize performance and protect dynamic APIs, with advanced options for enterprise customers.
+---
+
+Clikkle employs a multi-layered caching approach to enhance the performance of your applications. By utilizing caching at the **region**, **edge**, and **CDN** levels, Clikkle ensures faster response times, optimized resource usage, and efficient handling of dynamic workloads.
+
+# Region-level {% #region-level %}
+
+At the region level, Clikkle provides smart in-memory caching for various resources:  
+
+- **Documents**: Frequently accessed rows are cached in memory and automatically purged when updated, ensuring data consistency without manual intervention.  
+- **Storage files**: Frequently accessed files are cached in memory to reduce disk reads and improve performance.  
+- **Image transformations**: Processed images (e.g., resized or converted) are cached in memory for faster repeated requests, reducing processing overhead.  
+
+Region-level caching is tightly integrated with Clikkle's APIs, optimizing performance while preserving data integrity.
+
+# Edge-level {% #edge-level %}
+
+At the edge, Clikkle employs smart caching for specific use cases:  
+
+- **Compute builds**: Caches build artifacts for faster deployments and reduced latency during function executions.  
+- **Cold starts**: Pre-loads frequently accessed resources, reducing latency for new requests and improving application responsiveness.  
+
+Edge-level caching complements region-level caching, ensuring optimal performance for globally distributed applications.
+
+# Private caching {% #cdn-caching %}
+Clikkle's CDN layer includes **private caching**, a caching strategy designed to handle the dynamic and permission-sensitive nature of Clikkle's APIs and resources securely.
+
+**What is private caching?**  
+
+In the HTTP context, private caching allows responses to be cached but ensures they are only served to the specific user or client that requested them. This is achieved using HTTP headers that control caching behavior. For example:  
+
+- `Cache-Control: private, max-age=3600`  
+  Indicates that the response can be cached, but only in a private cache (e.g., the user's browser).  
+
+- `Cache-Control: no-store`  
+  Ensures that no part of the response is cached, useful for highly sensitive or frequently changing data.  
+
+- `Vary: Authorization`  
+  Signals that the cached response varies based on the `Authorization` header, ensuring permission-specific responses are cached and served appropriately.
+
+**Why use private caching?**
+
+Clikkle's APIs often deliver personalized or restricted content based on user roles and permissions. Private caching ensures:  
+
+- **Security**: Sensitive resources are securely cached and only served to the correct user.  
+- **Permission awareness**: API responses are tailored to each user's permissions, ensuring consistent behavior.  
+- **Performance**: By caching user-specific responses, private caching reduces backend load while maintaining secure and accurate data delivery.  
+
+This approach prevents the accidental exposure of user-specific or restricted data through shared caches while still enabling performance optimizations where possible.
+
+# Caching rules {% #custom-caching %}
+
+Enterprise customers can collaborate with their Clikkle success manager to define custom caching rules tailored to their applications. This includes:  
+- Setting custom caching durations for specific resources.  
+- Defining exclusion rules for sensitive or frequently changing data.  
+- Optimizing cache invalidation strategies for complex workflows.
+
+For more information on upgrading to the enterprise plan, [contact sales](https://clikkle.io/contact-us/enterprise).
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:Tee9,---
+layout: article
+title: Caching
+description: Learn how Clikkle uses smart caching strategies at the region, edge, and CDN levels to optimize performance and protect dynamic APIs, with advanced options for enterprise customers.
+---
+
+Clikkle employs a multi-layered caching approach to enhance the performance of your applications. By utilizing caching at the **region**, **edge**, and **CDN** levels, Clikkle ensures faster response times, optimized resource usage, and efficient handling of dynamic workloads.
+
+# Region-level {% #region-level %}
+
+At the region level, Clikkle provides smart in-memory caching for various resources:  
+
+- **Documents**: Frequently accessed rows are cached in memory and automatically purged when updated, ensuring data consistency without manual intervention.  
+- **Storage files**: Frequently accessed files are cached in memory to reduce disk reads and improve performance.  
+- **Image transformations**: Processed images (e.g., resized or converted) are cached in memory for faster repeated requests, reducing processing overhead.  
+
+Region-level caching is tightly integrated with Clikkle's APIs, optimizing performance while preserving data integrity.
+
+# Edge-level {% #edge-level %}
+
+At the edge, Clikkle employs smart caching for specific use cases:  
+
+- **Compute builds**: Caches build artifacts for faster deployments and reduced latency during function executions.  
+- **Cold starts**: Pre-loads frequently accessed resources, reducing latency for new requests and improving application responsiveness.  
+
+Edge-level caching complements region-level caching, ensuring optimal performance for globally distributed applications.
+
+# Private caching {% #cdn-caching %}
+Clikkle's CDN layer includes **private caching**, a caching strategy designed to handle the dynamic and permission-sensitive nature of Clikkle's APIs and resources securely.
+
+**What is private caching?**  
+
+In the HTTP context, private caching allows responses to be cached but ensures they are only served to the specific user or client that requested them. This is achieved using HTTP headers that control caching behavior. For example:  
+
+- `Cache-Control: private, max-age=3600`  
+  Indicates that the response can be cached, but only in a private cache (e.g., the user's browser).  
+
+- `Cache-Control: no-store`  
+  Ensures that no part of the response is cached, useful for highly sensitive or frequently changing data.  
+
+- `Vary: Authorization`  
+  Signals that the cached response varies based on the `Authorization` header, ensuring permission-specific responses are cached and served appropriately.
+
+**Why use private caching?**
+
+Clikkle's APIs often deliver personalized or restricted content based on user roles and permissions. Private caching ensures:  
+
+- **Security**: Sensitive resources are securely cached and only served to the correct user.  
+- **Permission awareness**: API responses are tailored to each user's permissions, ensuring consistent behavior.  
+- **Performance**: By caching user-specific responses, private caching reduces backend load while maintaining secure and accurate data delivery.  
+
+This approach prevents the accidental exposure of user-specific or restricted data through shared caches while still enabling performance optimizations where possible.
+
+# Caching rules {% #custom-caching %}
+
+Enterprise customers can collaborate with their Clikkle success manager to define custom caching rules tailored to their applications. This includes:  
+- Setting custom caching durations for specific resources.  
+- Defining exclusion rules for sensitive or frequently changing data.  
+- Optimizing cache invalidation strategies for complex workflows.
+
+For more information on upgrading to the enterprise plan, [contact sales](https://clikkle.io/contact-us/enterprise).
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Caching"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle employs a multi-layered caching approach to enhance the performance of your applications. By utilizing caching at the ",["$","strong",null,{"children":"region"}],", ",["$","strong",null,{"children":"edge"}],", and ",["$","strong",null,{"children":"CDN"}]," levels, Clikkle ensures faster response times, optimized resource usage, and efficient handling of dynamic workloads."]}],["$","$Le",null,{"id":"region-level","level":1,"children":"Region-level "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"At the region level, Clikkle provides smart in-memory caching for various resources:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Documents"}],": Frequently accessed rows are cached in memory and automatically purged when updated, ensuring data consistency without manual intervention."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Storage files"}],": Frequently accessed files are cached in memory to reduce disk reads and improve performance."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Image transformations"}],": Processed images (e.g., resized or converted) are cached in memory for faster repeated requests, reducing processing overhead."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Region-level caching is tightly integrated with Clikkle's APIs, optimizing performance while preserving data integrity."}],["$","$Le",null,{"id":"edge-level","level":1,"children":"Edge-level "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"At the edge, Clikkle employs smart caching for specific use cases:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Compute builds"}],": Caches build artifacts for faster deployments and reduced latency during function executions."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Cold starts"}],": Pre-loads frequently accessed resources, reducing latency for new requests and improving application responsiveness."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Edge-level caching complements region-level caching, ensuring optimal performance for globally distributed applications."}],["$","$Le",null,{"id":"cdn-caching","level":1,"children":"Private caching "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle's CDN layer includes ",["$","strong",null,{"children":"private caching"}],", a caching strategy designed to handle the dynamic and permission-sensitive nature of Clikkle's APIs and resources securely."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","strong",null,{"children":"What is private caching?"}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"In the HTTP context, private caching allows responses to be cached but ensures they are only served to the specific user or client that requested them. This is achieved using HTTP headers that control caching behavior. For example:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$Lf","$L10","Indicates that the response can be cached, but only in a private cache (e.g., the user's browser)."]}]}],"$L11","$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]}]]}],"$L1b"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1c",null,{"items":[{"id":"region-level","title":"Region-level","level":1},{"id":"edge-level","title":"Edge-level","level":1},{"id":"cdn-caching","title":"Private caching","level":1},{"id":"custom-caching","title":"Caching rules","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+f:["$","code",null,{"children":"Cache-Control: private, max-age=3600"}]
+10:["$","br",null,{}]
+11:["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","code",null,{"children":"Cache-Control: no-store"}],["$","br",null,{}],"Ensures that no part of the response is cached, useful for highly sensitive or frequently changing data."]}]}]
+12:["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","code",null,{"children":"Vary: Authorization"}],["$","br",null,{}],"Signals that the cached response varies based on the ",["$","code",null,{"children":"Authorization"}]," header, ensuring permission-specific responses are cached and served appropriately."]}]}]
+13:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","strong",null,{"children":"Why use private caching?"}]}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's APIs often deliver personalized or restricted content based on user roles and permissions. Private caching ensures:"}]
+15:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Security"}],": Sensitive resources are securely cached and only served to the correct user."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Permission awareness"}],": API responses are tailored to each user's permissions, ensuring consistent behavior."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Performance"}],": By caching user-specific responses, private caching reduces backend load while maintaining secure and accurate data delivery."]}]]}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This approach prevents the accidental exposure of user-specific or restricted data through shared caches while still enabling performance optimizations where possible."}]
+17:["$","$Le",null,{"id":"custom-caching","level":1,"children":"Caching rules "}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Enterprise customers can collaborate with their Clikkle success manager to define custom caching rules tailored to their applications. This includes:"}]
+19:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Setting custom caching durations for specific resources."}],["$","li",null,{"children":"Defining exclusion rules for sensitive or frequently changing data."}],["$","li",null,{"children":"Optimizing cache invalidation strategies for complex workflows."}]]}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For more information on upgrading to the enterprise plan, ",["$","a",null,{"href":"https://clikkle.io/contact-us/enterprise","children":"contact sales"}],"."]}]
+1b:["$","$L20",null,{}]
+1f:null

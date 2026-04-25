@@ -1,0 +1,789 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+e:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+f:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1a:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1b:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+23:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+24:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+25:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+26:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+3:T2520,---
+layout: article
+title: Start with Databases
+description: Get started with Clikkle Databases. Follow a step-by-step guide to create your first database, define tables, and perform basic data operations.
+---
+
+
+{% section #create-database step=1 title="Create database" %}
+Head to your [Clikkle Console](https://cloud.clikkle.io/console/) and create a database and name it `Oscar`.
+Optionally, add a custom database ID.
+{% /section %}
+
+{% section #create-table step=2 title="Create table" %}
+Create a table and name it `My books`. Optionally, add a custom table ID.
+
+Navigate to **Columns** and create columns by clicking **Create column** and select **String**.
+Columns define the structure of your table's rows. Enter **Column key** and **Size**. For example, `title` and `100`.
+
+Navigate to **Settings** > **Permissions** and add a new role **Any**.
+Check the **CREATE** and **READ** permissions, so anyone can create and read rows.
+{% /section %}
+
+
+{% section #create-rows step=3 title="Create rows" %}
+To create a row use the `createRow` method.
+
+In the **Settings** menu, find your project ID and replace `<PROJECT_ID>` in the example.
+
+Navigate to the `Oscar` database, copy the database ID, and replace `<DATABASE_ID>`.
+Then, in the `My books` table, copy the table ID, and replace `<TABLE_ID>`.
+
+{% multicode %}
+```client-web
+import { Client, ID, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.createRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: ID.unique(),
+    data: { title: "Hamlet" }
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final row = tablesDB.createRow(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            rowId: ID.unique(),
+            data: { "title": "Hamlet" }
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let row = try await tablesDB.createRow(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            rowId: ID.unique(),
+            data: ["title" : "hamlet"]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val row = tablesDB.createRow(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            rowId = ID.unique(),
+            data = mapOf("title" to "hamlet"),
+        )
+    } catch (e: Exception) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+{% /multicode %}
+
+The response should look similar to this.
+
+```json
+{
+    "title": "Hamlet",
+    "$id": "65013138dcd8618e80c4",
+    "$permissions": [],
+    "$createdAt": "2023-09-13T03:49:12.905+00:00",
+    "$updatedAt": "2023-09-13T03:49:12.905+00:00",
+    "$databaseId": "650125c64b3c25ce4bc4",
+    "$tableId": "650125cff227cf9f95ad"
+}
+```
+
+{% /section %}
+
+{% section #list-rows step=4 title="List rows" %}
+To read and query data from your table, use the `listRows` endpoint.
+
+Like the previous step, replace `<PROJECT_ID>`, `<DATABASE_ID>`, and `<TABLE_ID>` with their respective IDs.
+{% multicode %}
+```client-web
+import { Client, Query, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.listRows({
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    queries: [
+        Query.equal('title', 'Hamlet')
+    ]
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final rows = await tablesDB.listRows(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            queries: [
+                Query.equal('title', 'Hamlet')
+            ]
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws{
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let rows = try await tablesDB.listRows(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            queries: [
+                Query.equal("title", value: "Hamlet")
+            ]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val rows = tablesDB.listRows(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            queries = listOf(
+                Query.equal("title", "Hamlet")
+            )
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+
+{% /multicode %}
+{% /section %}
+
+{% section #type-safety step=5 title="Type safety with models" %}
+For added type safety and better development experience, mobile and native SDKs support custom model types with the `nestedType` parameter.
+
+Define a data class or model that matches your table structure:
+
+{% multicode %}
+```client-android-kotlin
+data class Book(
+    val title: String,
+    val author: String? = null,
+    val pages: Int? = null,
+    val isAvailable: Boolean = true
+)
+
+val tablesDB = TablesDB(client)
+
+try {
+    // Use nestedType for type-safe responses
+    val books = tablesDB.listRows(
+        databaseId = "<DATABASE_ID>",
+        tableId = "<TABLE_ID>",
+        nestedType = Book::class.java
+    )
+
+    for (book in books.rows) {
+        Log.d("Clikkle", "Book: ${book.title} by ${book.author}")
+    }
+} catch (e: ClikkleException) {
+    Log.e("Clikkle", "Error: ${e.message}")
+}
+```
+```client-apple
+struct Book: Codable {
+    let title: String
+    let author: String?
+    let pages: Int?
+    let isAvailable: Bool
+}
+
+let tablesDB = TablesDB(client)
+
+do {
+    // Use nestedType for type-safe responses
+    let books = try await tablesDB.listRows(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        nestedType: Book.self
+    )
+
+    for book in books.rows {
+        print("Book: \(book.title) by \(book.author ?? "Unknown")")
+    }
+} catch {
+    print(error.localizedDescription)
+}
+```
+```client-web
+// Web SDK supports generics for type safety
+interface Book {
+    title: string;
+    author?: string;
+    pages?: number;
+    isAvailable: boolean;
+}
+
+const tablesDB = new TablesDB(client);
+
+try {
+    const books = await tablesDB.listRows<Book>({
+        databaseId: '<DATABASE_ID>',
+        tableId: '<TABLE_ID>'
+    });
+
+    books.rows.forEach(book => {
+        console.log(`Book: ${book.title} by ${book.author}`);
+    });
+} catch (error) {
+    console.log(error);
+}
+```
+{% /multicode %}
+
+{% info title="Automatic type generation" %}
+You can automatically generate type definitions for your tables using the [Clikkle CLI type generation](/docs/products/databases/type-generation) feature. Run `clikkle types collection` to generate models for your collections.
+{% /info %}
+
+### Model methods
+
+Models returned by native SDKs include helpful methods for data manipulation:
+
+{% tabs %}
+{% tabsitem #kotlin title="Kotlin/Java" %}
+```kotlin
+val book = books.rows.first()
+
+// Convert to Map for debugging or manual manipulation
+val bookMap = book.toMap()
+Log.d("Clikkle", bookMap.toString())
+
+// Create model from Map
+val bookData = mapOf(
+    "title" to "The Great Gatsby",
+    "author" to "F. Scott Fitzgerald"
+)
+val newBook = Book.from(bookData, Book::class.java)
+```
+{% /tabsitem %}
+
+{% tabsitem #swift title="Swift" %}
+```swift
+let book = books.rows.first!
+
+// Convert to dictionary for debugging
+let bookMap = book.toMap()
+print(bookMap)
+
+// Create model from dictionary
+let bookData: [String: Any] = [
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+]
+let newBook = Book.from(map: bookData)
+
+// Encode to JSON
+let jsonData = try JSONEncoder().encode(book)
+let jsonString = String(data: jsonData, encoding: .utf8)
+```
+{% /tabsitem %}
+{% /tabs %}
+
+{% /section %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T2520,---
+layout: article
+title: Start with Databases
+description: Get started with Clikkle Databases. Follow a step-by-step guide to create your first database, define tables, and perform basic data operations.
+---
+
+
+{% section #create-database step=1 title="Create database" %}
+Head to your [Clikkle Console](https://cloud.clikkle.io/console/) and create a database and name it `Oscar`.
+Optionally, add a custom database ID.
+{% /section %}
+
+{% section #create-table step=2 title="Create table" %}
+Create a table and name it `My books`. Optionally, add a custom table ID.
+
+Navigate to **Columns** and create columns by clicking **Create column** and select **String**.
+Columns define the structure of your table's rows. Enter **Column key** and **Size**. For example, `title` and `100`.
+
+Navigate to **Settings** > **Permissions** and add a new role **Any**.
+Check the **CREATE** and **READ** permissions, so anyone can create and read rows.
+{% /section %}
+
+
+{% section #create-rows step=3 title="Create rows" %}
+To create a row use the `createRow` method.
+
+In the **Settings** menu, find your project ID and replace `<PROJECT_ID>` in the example.
+
+Navigate to the `Oscar` database, copy the database ID, and replace `<DATABASE_ID>`.
+Then, in the `My books` table, copy the table ID, and replace `<TABLE_ID>`.
+
+{% multicode %}
+```client-web
+import { Client, ID, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.createRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: ID.unique(),
+    data: { title: "Hamlet" }
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final row = tablesDB.createRow(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            rowId: ID.unique(),
+            data: { "title": "Hamlet" }
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let row = try await tablesDB.createRow(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            rowId: ID.unique(),
+            data: ["title" : "hamlet"]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val row = tablesDB.createRow(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            rowId = ID.unique(),
+            data = mapOf("title" to "hamlet"),
+        )
+    } catch (e: Exception) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+{% /multicode %}
+
+The response should look similar to this.
+
+```json
+{
+    "title": "Hamlet",
+    "$id": "65013138dcd8618e80c4",
+    "$permissions": [],
+    "$createdAt": "2023-09-13T03:49:12.905+00:00",
+    "$updatedAt": "2023-09-13T03:49:12.905+00:00",
+    "$databaseId": "650125c64b3c25ce4bc4",
+    "$tableId": "650125cff227cf9f95ad"
+}
+```
+
+{% /section %}
+
+{% section #list-rows step=4 title="List rows" %}
+To read and query data from your table, use the `listRows` endpoint.
+
+Like the previous step, replace `<PROJECT_ID>`, `<DATABASE_ID>`, and `<TABLE_ID>` with their respective IDs.
+{% multicode %}
+```client-web
+import { Client, Query, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.listRows({
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    queries: [
+        Query.equal('title', 'Hamlet')
+    ]
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final rows = await tablesDB.listRows(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            queries: [
+                Query.equal('title', 'Hamlet')
+            ]
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws{
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let rows = try await tablesDB.listRows(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            queries: [
+                Query.equal("title", value: "Hamlet")
+            ]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val rows = tablesDB.listRows(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            queries = listOf(
+                Query.equal("title", "Hamlet")
+            )
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+
+{% /multicode %}
+{% /section %}
+
+{% section #type-safety step=5 title="Type safety with models" %}
+For added type safety and better development experience, mobile and native SDKs support custom model types with the `nestedType` parameter.
+
+Define a data class or model that matches your table structure:
+
+{% multicode %}
+```client-android-kotlin
+data class Book(
+    val title: String,
+    val author: String? = null,
+    val pages: Int? = null,
+    val isAvailable: Boolean = true
+)
+
+val tablesDB = TablesDB(client)
+
+try {
+    // Use nestedType for type-safe responses
+    val books = tablesDB.listRows(
+        databaseId = "<DATABASE_ID>",
+        tableId = "<TABLE_ID>",
+        nestedType = Book::class.java
+    )
+
+    for (book in books.rows) {
+        Log.d("Clikkle", "Book: ${book.title} by ${book.author}")
+    }
+} catch (e: ClikkleException) {
+    Log.e("Clikkle", "Error: ${e.message}")
+}
+```
+```client-apple
+struct Book: Codable {
+    let title: String
+    let author: String?
+    let pages: Int?
+    let isAvailable: Bool
+}
+
+let tablesDB = TablesDB(client)
+
+do {
+    // Use nestedType for type-safe responses
+    let books = try await tablesDB.listRows(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        nestedType: Book.self
+    )
+
+    for book in books.rows {
+        print("Book: \(book.title) by \(book.author ?? "Unknown")")
+    }
+} catch {
+    print(error.localizedDescription)
+}
+```
+```client-web
+// Web SDK supports generics for type safety
+interface Book {
+    title: string;
+    author?: string;
+    pages?: number;
+    isAvailable: boolean;
+}
+
+const tablesDB = new TablesDB(client);
+
+try {
+    const books = await tablesDB.listRows<Book>({
+        databaseId: '<DATABASE_ID>',
+        tableId: '<TABLE_ID>'
+    });
+
+    books.rows.forEach(book => {
+        console.log(`Book: ${book.title} by ${book.author}`);
+    });
+} catch (error) {
+    console.log(error);
+}
+```
+{% /multicode %}
+
+{% info title="Automatic type generation" %}
+You can automatically generate type definitions for your tables using the [Clikkle CLI type generation](/docs/products/databases/type-generation) feature. Run `clikkle types collection` to generate models for your collections.
+{% /info %}
+
+### Model methods
+
+Models returned by native SDKs include helpful methods for data manipulation:
+
+{% tabs %}
+{% tabsitem #kotlin title="Kotlin/Java" %}
+```kotlin
+val book = books.rows.first()
+
+// Convert to Map for debugging or manual manipulation
+val bookMap = book.toMap()
+Log.d("Clikkle", bookMap.toString())
+
+// Create model from Map
+val bookData = mapOf(
+    "title" to "The Great Gatsby",
+    "author" to "F. Scott Fitzgerald"
+)
+val newBook = Book.from(bookData, Book::class.java)
+```
+{% /tabsitem %}
+
+{% tabsitem #swift title="Swift" %}
+```swift
+let book = books.rows.first!
+
+// Convert to dictionary for debugging
+let bookMap = book.toMap()
+print(bookMap)
+
+// Create model from dictionary
+let bookData: [String: Any] = [
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald"
+]
+let newBook = Book.from(map: bookData)
+
+// Encode to JSON
+let jsonData = try JSONEncoder().encode(book)
+let jsonString = String(data: jsonData, encoding: .utf8)
+```
+{% /tabsitem %}
+{% /tabs %}
+
+{% /section %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Start with Databases"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"New API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This is a relatively new API. For details on the previous version and its terminology, see the legacy"," ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/quick-start","className":"web-link underline","children":"Collections API documentation"}],"."]}]]}],null,["$","$Le",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","$Lf",null,{"id":"create-database","step":1,"title":"Create database","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to your ",["$","a",null,{"href":"https://cloud.clikkle.io/console/","children":"Clikkle Console"}]," and create a database and name it ",["$","code",null,{"children":"Oscar"}],"."," ","Optionally, add a custom database ID."]}]}],["$","$Lf",null,{"id":"create-table","step":2,"title":"Create table","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a table and name it ",["$","code",null,{"children":"My books"}],". Optionally, add a custom table ID."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Navigate to ",["$","strong",null,{"children":"Columns"}]," and create columns by clicking ",["$","strong",null,{"children":"Create column"}]," and select ",["$","strong",null,{"children":"String"}],"."," ","Columns define the structure of your table's rows. Enter ",["$","strong",null,{"children":"Column key"}]," and ",["$","strong",null,{"children":"Size"}],". For example, ",["$","code",null,{"children":"title"}]," and ",["$","code",null,{"children":"100"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Navigate to ",["$","strong",null,{"children":"Settings"}]," > ",["$","strong",null,{"children":"Permissions"}]," and add a new role ",["$","strong",null,{"children":"Any"}],"."," ","Check the ",["$","strong",null,{"children":"CREATE"}]," and ",["$","strong",null,{"children":"READ"}]," permissions, so anyone can create and read rows."]}]]}],["$","$Lf",null,{"id":"create-rows","step":3,"title":"Create rows","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To create a row use the ",["$","code",null,{"children":"createRow"}]," method."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In the ",["$","strong",null,{"children":"Settings"}]," menu, find your project ID and replace ",["$","code",null,{"children":"<PROJECT_ID>"}]," in the example."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Navigate to the ",["$","code",null,{"children":"Oscar"}]," database, copy the database ID, and replace ",["$","code",null,{"children":"<DATABASE_ID>"}],"."," ","Then, in the ",["$","code",null,{"children":"My books"}]," table, copy the table ID, and replace ",["$","code",null,{"children":"<TABLE_ID>"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, ID, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.createRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: ID.unique(),\n    data: { title: \"Hamlet\" }\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"import { Client, ID, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.createRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: ID.unique(),\n    data: { title: \"Hamlet\" }\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],"$L12","$L13","$L14"]}],"$L15","$L16"]}],"$L17","$L18"]}]}]]}],"$L19"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1a",null,{"items":[{"id":"create-database","title":"Create database","level":2},{"id":"create-table","title":"Create table","level":2},{"id":"create-rows","title":"Create rows","level":2},{"id":"list-rows","title":"List rows","level":2},{"id":"type-safety","title":"Type safety with models","level":2},{"id":"model-methods","title":"Model methods","level":3}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+12:["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final row = tablesDB.createRow(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            rowId: ID.unique(),\n            data: { \"title\": \"Hamlet\" }\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final row = tablesDB.createRow(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            rowId: ID.unique(),\n            data: { \"title\": \"Hamlet\" }\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n"}]
+13:["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let row = try await tablesDB.createRow(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            rowId: ID.unique(),\n            data: [\"title\" : \"hamlet\"]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let row = try await tablesDB.createRow(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            rowId: ID.unique(),\n            data: [\"title\" : \"hamlet\"]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n"}]
+14:["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val row = tablesDB.createRow(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            rowId = ID.unique(),\n            data = mapOf(\"title\" to \"hamlet\"),\n        )\n    } catch (e: Exception) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val row = tablesDB.createRow(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            rowId = ID.unique(),\n            data = mapOf(\"title\" to \"hamlet\"),\n        )\n    } catch (e: Exception) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n"}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The response should look similar to this."}]
+16:["$","$L11",null,{"language":"json","content":"{\n    \"title\": \"Hamlet\",\n    \"$id\": \"65013138dcd8618e80c4\",\n    \"$permissions\": [],\n    \"$createdAt\": \"2023-09-13T03:49:12.905+00:00\",\n    \"$updatedAt\": \"2023-09-13T03:49:12.905+00:00\",\n    \"$databaseId\": \"650125c64b3c25ce4bc4\",\n    \"$tableId\": \"650125cff227cf9f95ad\"\n}\n","children":"{\n    \"title\": \"Hamlet\",\n    \"$id\": \"65013138dcd8618e80c4\",\n    \"$permissions\": [],\n    \"$createdAt\": \"2023-09-13T03:49:12.905+00:00\",\n    \"$updatedAt\": \"2023-09-13T03:49:12.905+00:00\",\n    \"$databaseId\": \"650125c64b3c25ce4bc4\",\n    \"$tableId\": \"650125cff227cf9f95ad\"\n}\n"}]
+17:["$","$Lf",null,{"id":"list-rows","step":4,"title":"List rows","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To read and query data from your table, use the ",["$","code",null,{"children":"listRows"}]," endpoint."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Like the previous step, replace ",["$","code",null,{"children":"<PROJECT_ID>"}],", ",["$","code",null,{"children":"<DATABASE_ID>"}],", and ",["$","code",null,{"children":"<TABLE_ID>"}]," with their respective IDs."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Query, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.listRows({\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    queries: [\n        Query.equal('title', 'Hamlet')\n    ]\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"import { Client, Query, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.listRows({\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    queries: [\n        Query.equal('title', 'Hamlet')\n    ]\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final rows = await tablesDB.listRows(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            queries: [\n                Query.equal('title', 'Hamlet')\n            ]\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final rows = await tablesDB.listRows(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            queries: [\n                Query.equal('title', 'Hamlet')\n            ]\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws{\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let rows = try await tablesDB.listRows(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            queries: [\n                Query.equal(\"title\", value: \"Hamlet\")\n            ]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws{\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let rows = try await tablesDB.listRows(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            queries: [\n                Query.equal(\"title\", value: \"Hamlet\")\n            ]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n"}],"$L1e"]}]]}]
+18:["$","$Lf",null,{"id":"type-safety","step":5,"title":"Type safety with models","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For added type safety and better development experience, mobile and native SDKs support custom model types with the ",["$","code",null,{"children":"nestedType"}]," parameter."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Define a data class or model that matches your table structure:"}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-android-kotlin","content":"data class Book(\n    val title: String,\n    val author: String? = null,\n    val pages: Int? = null,\n    val isAvailable: Boolean = true\n)\n\nval tablesDB = TablesDB(client)\n\ntry {\n    // Use nestedType for type-safe responses\n    val books = tablesDB.listRows(\n        databaseId = \"<DATABASE_ID>\",\n        tableId = \"<TABLE_ID>\",\n        nestedType = Book::class.java\n    )\n\n    for (book in books.rows) {\n        Log.d(\"Clikkle\", \"Book: ${book.title} by ${book.author}\")\n    }\n} catch (e: ClikkleException) {\n    Log.e(\"Clikkle\", \"Error: ${e.message}\")\n}\n","children":"data class Book(\n    val title: String,\n    val author: String? = null,\n    val pages: Int? = null,\n    val isAvailable: Boolean = true\n)\n\nval tablesDB = TablesDB(client)\n\ntry {\n    // Use nestedType for type-safe responses\n    val books = tablesDB.listRows(\n        databaseId = \"<DATABASE_ID>\",\n        tableId = \"<TABLE_ID>\",\n        nestedType = Book::class.java\n    )\n\n    for (book in books.rows) {\n        Log.d(\"Clikkle\", \"Book: ${book.title} by ${book.author}\")\n    }\n} catch (e: ClikkleException) {\n    Log.e(\"Clikkle\", \"Error: ${e.message}\")\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"struct Book: Codable {\n    let title: String\n    let author: String?\n    let pages: Int?\n    let isAvailable: Bool\n}\n\nlet tablesDB = TablesDB(client)\n\ndo {\n    // Use nestedType for type-safe responses\n    let books = try await tablesDB.listRows(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        nestedType: Book.self\n    )\n\n    for book in books.rows {\n        print(\"Book: \\(book.title) by \\(book.author ?? \"Unknown\")\")\n    }\n} catch {\n    print(error.localizedDescription)\n}\n","children":"struct Book: Codable {\n    let title: String\n    let author: String?\n    let pages: Int?\n    let isAvailable: Bool\n}\n\nlet tablesDB = TablesDB(client)\n\ndo {\n    // Use nestedType for type-safe responses\n    let books = try await tablesDB.listRows(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        nestedType: Book.self\n    )\n\n    for book in books.rows {\n        print(\"Book: \\(book.title) by \\(book.author ?? \"Unknown\")\")\n    }\n} catch {\n    print(error.localizedDescription)\n}\n"}],["$","$L11",null,{"language":"client-web","content":"// Web SDK supports generics for type safety\ninterface Book {\n    title: string;\n    author?: string;\n    pages?: number;\n    isAvailable: boolean;\n}\n\nconst tablesDB = new TablesDB(client);\n\ntry {\n    const books = await tablesDB.listRows<Book>({\n        databaseId: '<DATABASE_ID>',\n        tableId: '<TABLE_ID>'\n    });\n\n    books.rows.forEach(book => {\n        console.log(`Book: ${book.title} by ${book.author}`);\n    });\n} catch (error) {\n    console.log(error);\n}\n","children":"// Web SDK supports generics for type safety\ninterface Book {\n    title: string;\n    author?: string;\n    pages?: number;\n    isAvailable: boolean;\n}\n\nconst tablesDB = new TablesDB(client);\n\ntry {\n    const books = await tablesDB.listRows<Book>({\n        databaseId: '<DATABASE_ID>',\n        tableId: '<TABLE_ID>'\n    });\n\n    books.rows.forEach(book => {\n        console.log(`Book: ${book.title} by ${book.author}`);\n    });\n} catch (error) {\n    console.log(error);\n}\n"}]]}],"$L1f","$L20","$L21","$L22"]}]
+19:["$","$L23",null,{}]
+1d:null
+1e:["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.Query\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val rows = tablesDB.listRows(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            queries = listOf(\n                Query.equal(\"title\", \"Hamlet\")\n            )\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.Query\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val rows = tablesDB.listRows(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            queries = listOf(\n                Query.equal(\"title\", \"Hamlet\")\n            )\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n"}]
+1f:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Automatic type generation"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can automatically generate type definitions for your tables using the ",["$","$Ld",null,{"href":"/docs/products/databases/type-generation","children":"Clikkle CLI type generation"}]," feature. Run ",["$","code",null,{"children":"clikkle types collection"}]," to generate models for your collections."]}]]}]
+20:["$","$L24",null,{"level":3,"children":"Model methods"}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Models returned by native SDKs include helpful methods for data manipulation:"}]
+22:["$","$L25",null,{"children":[["$","$L26",null,{"id":"kotlin","title":"Kotlin/Java","children":["$","$L11",null,{"language":"kotlin","content":"val book = books.rows.first()\n\n// Convert to Map for debugging or manual manipulation\nval bookMap = book.toMap()\nLog.d(\"Clikkle\", bookMap.toString())\n\n// Create model from Map\nval bookData = mapOf(\n    \"title\" to \"The Great Gatsby\",\n    \"author\" to \"F. Scott Fitzgerald\"\n)\nval newBook = Book.from(bookData, Book::class.java)\n","children":"val book = books.rows.first()\n\n// Convert to Map for debugging or manual manipulation\nval bookMap = book.toMap()\nLog.d(\"Clikkle\", bookMap.toString())\n\n// Create model from Map\nval bookData = mapOf(\n    \"title\" to \"The Great Gatsby\",\n    \"author\" to \"F. Scott Fitzgerald\"\n)\nval newBook = Book.from(bookData, Book::class.java)\n"}]}],["$","$L26",null,{"id":"swift","title":"Swift","children":["$","$L11",null,{"language":"swift","content":"let book = books.rows.first!\n\n// Convert to dictionary for debugging\nlet bookMap = book.toMap()\nprint(bookMap)\n\n// Create model from dictionary\nlet bookData: [String: Any] = [\n    \"title\": \"The Great Gatsby\",\n    \"author\": \"F. Scott Fitzgerald\"\n]\nlet newBook = Book.from(map: bookData)\n\n// Encode to JSON\nlet jsonData = try JSONEncoder().encode(book)\nlet jsonString = String(data: jsonData, encoding: .utf8)\n","children":"let book = books.rows.first!\n\n// Convert to dictionary for debugging\nlet bookMap = book.toMap()\nprint(bookMap)\n\n// Create model from dictionary\nlet bookData: [String: Any] = [\n    \"title\": \"The Great Gatsby\",\n    \"author\": \"F. Scott Fitzgerald\"\n]\nlet newBook = Book.from(map: bookData)\n\n// Encode to JSON\nlet jsonData = try JSONEncoder().encode(book)\nlet jsonString = String(data: jsonData, encoding: .utf8)\n"}]}]]}]

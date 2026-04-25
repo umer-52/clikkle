@@ -1,0 +1,273 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+28:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+29:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+2a:"$Sreact.suspense"
+2c:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T1a82,---
+layout: article
+title: Web application firewall (WAF)
+description: Clikkle's Web Application Firewall (WAF) provides enterprise-grade protection against web vulnerabilities like SQL injection, XSS, and DDoS attacks.
+---
+
+The Web Application Firewall (WAF) is a critical feature of the Clikkle Network, designed to protect applications from common web vulnerabilities and attacks. Available exclusively to enterprise customers, WAF can be configured through your Clikkle success manager to meet the specific security needs of your application.
+
+{% info title="Availability" %}
+The WAF feature is available exclusively to enterprise customers as part of the Clikkle enterprise offering. Setup and configuration are managed through your dedicated Clikkle success manager, who ensures that the WAF aligns with your application's requirements and evolves with emerging security threats.
+{% /info %}
+
+The WAF functions as a protective barrier at the application layer (Layer 7) of the OSI model, where it inspects and filters HTTP/HTTPS traffic in real-time. It is specifically designed to safeguard your application by analyzing request headers, payloads, and query strings to identify malicious patterns or anomalies. The WAF intercepts traffic before it reaches your application, blocking threats such as:
+
+- SQL injection: Malicious input targeting database queries is identified and neutralized by inspecting payloads and request parameters.
+- Cross-site scripting (XSS): WAF detects and blocks scripts attempting to manipulate or steal client-side data through injection into the DOM or other contexts.
+- Cross-site request forgery (CSRF): By analyzing session headers and request origins, the WAF ensures only legitimate actions are processed.
+- DDoS attacks: Although primarily focused on Layer 7 attacks, the WAF works in tandem with other mitigation systems to handle floods of application-level requests.
+
+# Design {% #design %}
+
+1. **Traffic inspection**
+   The WAF analyzes all incoming HTTP/HTTPS requests in real-time, matching them against a dynamic set of security rules.  
+
+2. **Threat mitigation**
+   Suspicious requests are blocked before they reach your application, ensuring uninterrupted service and secure user interactions.  
+
+3. **Custom rules**
+   Enterprise customers can work with their success manager to define custom rules tailored to their specific application requirements.  
+
+# Key features {% #key-features %}
+
+- Real-time protection: Continuous monitoring and blocking of malicious traffic.  
+- Customizable rulesets: Configure WAF policies to align with your application's unique architecture.  
+- Compliance support: Meet security standards and regulatory requirements by safeguarding sensitive data.  
+- Seamless integration: Fully integrated into the Clikkle network, ensuring optimal performance and low-latency security enforcement.  
+
+# Getting started {% #getting-started %}
+
+If you're an enterprise customer, reach out to your success manager to enable WAF for your applications. They'll guide you through the setup process, help configure custom rules, and ensure your application is fully protected.  
+
+For more information on upgrading to the enterprise plan, [contact sales](https://clikkle.io/contact-us/enterprise).
+
+## Configuration {% #configuration %}
+
+Clikkle's WAF is designed to adapt to the specific needs of your applications. Tailored rules and actions can be implemented to address evolving security threats and traffic patterns effectively.
+
+### Rules {% #rules %}
+
+The WAF supports the creation of fine-grained rules using logical expressions. These rules define how incoming traffic is inspected and handled.
+
+1. **Expression-based rules**  
+   Use logical expressions to create granular filters for incoming requests. These expressions operate on HTTP request fields, headers, cookies, and metadata.  
+
+   Examples of configurable expressions:  
+   - **URL matching**: Block or allow traffic based on URL patterns (e.g., `/v1/functions/*`).  
+   - **Request method**: Filter traffic based on HTTP methods (e.g., `GET`, `POST`, `PUT`).  
+   - **Header inspection**: Inspect headers like `User-Agent`, `Authorization`, or `X-Forwarded-For`.  
+   - **Cookie validation**: Check for specific cookies or validate their values to identify bot or malicious traffic.  
+   - **Rate limiting**: Match requests based on IP or session-level rate thresholds.  
+   - **Geolocation rules**: Allow or block traffic based on the geographic location of the user.  
+
+2. **Regular expressions (Regex)**  
+   Use regex patterns for more advanced filtering, such as matching complex URL structures, payloads, or specific query parameters.  
+
+3. **IP Filtering**  
+   Define rules to block, allow, or challenge traffic from specific IP ranges or CIDR blocks.  
+
+### Actions {% #actions %}
+
+Based on the defined rules, the WAF can perform various actions to handle traffic appropriately.  
+
+1. **Allow**  
+   Allows the request to pass through to the backend without modification.  
+
+2. **Block**  
+   Rejects the request entirely, responding with an appropriate HTTP status code (e.g., `403 Forbidden`).  
+
+3. **Challenge**  
+   Issues a challenge (e.g., CAPTCHA) to validate whether the request originates from a legitimate user.  
+
+4. **Redirect**  
+   Redirects the request to a specified URL. Useful for handling deprecated endpoints or re-routing unauthorized traffic.  
+
+5. **Log**  
+   Records the request in detailed logs for further analysis without altering the request flow.  
+
+6. **Rate limiting**  
+   Throttles traffic from specific IPs or sessions that exceed defined thresholds, reducing the risk of abuse or overload.  
+
+7. **Modify request**  
+   Dynamically alters request components, such as headers, query parameters, or cookies.  
+
+### Examples {% #examples %}
+
+#### Blocking malicious bots
+- **Expression**: Match requests with suspicious `User-Agent` strings or invalid headers.  
+- **Action**: Block or issue a CAPTCHA challenge to confirm legitimate traffic.  
+
+#### Preventing SQL injection
+- **Expression**: Match payloads or query strings containing SQL keywords like `SELECT`, `DROP`, or `--`.  
+- **Action**: Block the request and log it for analysis.  
+
+#### Rate limiting by endpoint
+- **Expression**: Limit requests to sensitive endpoints (e.g., `/login`) to prevent abuse.  
+- **Action**: Throttle or temporarily block repeated requests from the same IP.  
+
+#### Geo-based blocking
+- **Expression**: Match requests originating from specific regions or countries.  
+- **Action**: Block or redirect users to a region-specific notice page.  
+
+#### Header enforcement
+- **Expression**: Check for required headers (e.g., `Authorization`) on API requests.  
+- **Action**: Block requests missing critical headers.  
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T1a82,---
+layout: article
+title: Web application firewall (WAF)
+description: Clikkle's Web Application Firewall (WAF) provides enterprise-grade protection against web vulnerabilities like SQL injection, XSS, and DDoS attacks.
+---
+
+The Web Application Firewall (WAF) is a critical feature of the Clikkle Network, designed to protect applications from common web vulnerabilities and attacks. Available exclusively to enterprise customers, WAF can be configured through your Clikkle success manager to meet the specific security needs of your application.
+
+{% info title="Availability" %}
+The WAF feature is available exclusively to enterprise customers as part of the Clikkle enterprise offering. Setup and configuration are managed through your dedicated Clikkle success manager, who ensures that the WAF aligns with your application's requirements and evolves with emerging security threats.
+{% /info %}
+
+The WAF functions as a protective barrier at the application layer (Layer 7) of the OSI model, where it inspects and filters HTTP/HTTPS traffic in real-time. It is specifically designed to safeguard your application by analyzing request headers, payloads, and query strings to identify malicious patterns or anomalies. The WAF intercepts traffic before it reaches your application, blocking threats such as:
+
+- SQL injection: Malicious input targeting database queries is identified and neutralized by inspecting payloads and request parameters.
+- Cross-site scripting (XSS): WAF detects and blocks scripts attempting to manipulate or steal client-side data through injection into the DOM or other contexts.
+- Cross-site request forgery (CSRF): By analyzing session headers and request origins, the WAF ensures only legitimate actions are processed.
+- DDoS attacks: Although primarily focused on Layer 7 attacks, the WAF works in tandem with other mitigation systems to handle floods of application-level requests.
+
+# Design {% #design %}
+
+1. **Traffic inspection**
+   The WAF analyzes all incoming HTTP/HTTPS requests in real-time, matching them against a dynamic set of security rules.  
+
+2. **Threat mitigation**
+   Suspicious requests are blocked before they reach your application, ensuring uninterrupted service and secure user interactions.  
+
+3. **Custom rules**
+   Enterprise customers can work with their success manager to define custom rules tailored to their specific application requirements.  
+
+# Key features {% #key-features %}
+
+- Real-time protection: Continuous monitoring and blocking of malicious traffic.  
+- Customizable rulesets: Configure WAF policies to align with your application's unique architecture.  
+- Compliance support: Meet security standards and regulatory requirements by safeguarding sensitive data.  
+- Seamless integration: Fully integrated into the Clikkle network, ensuring optimal performance and low-latency security enforcement.  
+
+# Getting started {% #getting-started %}
+
+If you're an enterprise customer, reach out to your success manager to enable WAF for your applications. They'll guide you through the setup process, help configure custom rules, and ensure your application is fully protected.  
+
+For more information on upgrading to the enterprise plan, [contact sales](https://clikkle.io/contact-us/enterprise).
+
+## Configuration {% #configuration %}
+
+Clikkle's WAF is designed to adapt to the specific needs of your applications. Tailored rules and actions can be implemented to address evolving security threats and traffic patterns effectively.
+
+### Rules {% #rules %}
+
+The WAF supports the creation of fine-grained rules using logical expressions. These rules define how incoming traffic is inspected and handled.
+
+1. **Expression-based rules**  
+   Use logical expressions to create granular filters for incoming requests. These expressions operate on HTTP request fields, headers, cookies, and metadata.  
+
+   Examples of configurable expressions:  
+   - **URL matching**: Block or allow traffic based on URL patterns (e.g., `/v1/functions/*`).  
+   - **Request method**: Filter traffic based on HTTP methods (e.g., `GET`, `POST`, `PUT`).  
+   - **Header inspection**: Inspect headers like `User-Agent`, `Authorization`, or `X-Forwarded-For`.  
+   - **Cookie validation**: Check for specific cookies or validate their values to identify bot or malicious traffic.  
+   - **Rate limiting**: Match requests based on IP or session-level rate thresholds.  
+   - **Geolocation rules**: Allow or block traffic based on the geographic location of the user.  
+
+2. **Regular expressions (Regex)**  
+   Use regex patterns for more advanced filtering, such as matching complex URL structures, payloads, or specific query parameters.  
+
+3. **IP Filtering**  
+   Define rules to block, allow, or challenge traffic from specific IP ranges or CIDR blocks.  
+
+### Actions {% #actions %}
+
+Based on the defined rules, the WAF can perform various actions to handle traffic appropriately.  
+
+1. **Allow**  
+   Allows the request to pass through to the backend without modification.  
+
+2. **Block**  
+   Rejects the request entirely, responding with an appropriate HTTP status code (e.g., `403 Forbidden`).  
+
+3. **Challenge**  
+   Issues a challenge (e.g., CAPTCHA) to validate whether the request originates from a legitimate user.  
+
+4. **Redirect**  
+   Redirects the request to a specified URL. Useful for handling deprecated endpoints or re-routing unauthorized traffic.  
+
+5. **Log**  
+   Records the request in detailed logs for further analysis without altering the request flow.  
+
+6. **Rate limiting**  
+   Throttles traffic from specific IPs or sessions that exceed defined thresholds, reducing the risk of abuse or overload.  
+
+7. **Modify request**  
+   Dynamically alters request components, such as headers, query parameters, or cookies.  
+
+### Examples {% #examples %}
+
+#### Blocking malicious bots
+- **Expression**: Match requests with suspicious `User-Agent` strings or invalid headers.  
+- **Action**: Block or issue a CAPTCHA challenge to confirm legitimate traffic.  
+
+#### Preventing SQL injection
+- **Expression**: Match payloads or query strings containing SQL keywords like `SELECT`, `DROP`, or `--`.  
+- **Action**: Block the request and log it for analysis.  
+
+#### Rate limiting by endpoint
+- **Expression**: Limit requests to sensitive endpoints (e.g., `/login`) to prevent abuse.  
+- **Action**: Throttle or temporarily block repeated requests from the same IP.  
+
+#### Geo-based blocking
+- **Expression**: Match requests originating from specific regions or countries.  
+- **Action**: Block or redirect users to a region-specific notice page.  
+
+#### Header enforcement
+- **Expression**: Check for required headers (e.g., `Authorization`) on API requests.  
+- **Action**: Block requests missing critical headers.  
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Web application firewall (WAF)"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The Web Application Firewall (WAF) is a critical feature of the Clikkle Network, designed to protect applications from common web vulnerabilities and attacks. Available exclusively to enterprise customers, WAF can be configured through your Clikkle success manager to meet the specific security needs of your application."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Availability"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The WAF feature is available exclusively to enterprise customers as part of the Clikkle enterprise offering. Setup and configuration are managed through your dedicated Clikkle success manager, who ensures that the WAF aligns with your application's requirements and evolves with emerging security threats."}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The WAF functions as a protective barrier at the application layer (Layer 7) of the OSI model, where it inspects and filters HTTP/HTTPS traffic in real-time. It is specifically designed to safeguard your application by analyzing request headers, payloads, and query strings to identify malicious patterns or anomalies. The WAF intercepts traffic before it reaches your application, blocking threats such as:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"SQL injection: Malicious input targeting database queries is identified and neutralized by inspecting payloads and request parameters."}],["$","li",null,{"children":"Cross-site scripting (XSS): WAF detects and blocks scripts attempting to manipulate or steal client-side data through injection into the DOM or other contexts."}],["$","li",null,{"children":"Cross-site request forgery (CSRF): By analyzing session headers and request origins, the WAF ensures only legitimate actions are processed."}],["$","li",null,{"children":"DDoS attacks: Although primarily focused on Layer 7 attacks, the WAF works in tandem with other mitigation systems to handle floods of application-level requests."}]]}],["$","$Le",null,{"id":"design","level":1,"children":"Design "}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Traffic inspection"}]," ","The WAF analyzes all incoming HTTP/HTTPS requests in real-time, matching them against a dynamic set of security rules."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Threat mitigation"}]," ","Suspicious requests are blocked before they reach your application, ensuring uninterrupted service and secure user interactions."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Custom rules"}]," ","Enterprise customers can work with their success manager to define custom rules tailored to their specific application requirements."]}]}]]}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}]]}],"$L27"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L28",null,{"items":[{"id":"design","title":"Design","level":1},{"id":"key-features","title":"Key features","level":1},{"id":"getting-started","title":"Getting started","level":1},{"id":"configuration","title":"Configuration","level":2},{"id":"rules","title":"Rules","level":3},{"id":"actions","title":"Actions","level":3},{"id":"examples","title":"Examples","level":3},{"id":"blocking-malicious-bots","title":"Blocking malicious bots","level":4},{"id":"preventing-sql-injection","title":"Preventing SQL injection","level":4},{"id":"rate-limiting-by-endpoint","title":"Rate limiting by endpoint","level":4},{"id":"geo-based-blocking","title":"Geo-based blocking","level":4},{"id":"header-enforcement","title":"Header enforcement","level":4}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L29",null,{"children":["$","$2a",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+f:["$","$Le",null,{"id":"key-features","level":1,"children":"Key features "}]
+10:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Real-time protection: Continuous monitoring and blocking of malicious traffic."}],["$","li",null,{"children":"Customizable rulesets: Configure WAF policies to align with your application's unique architecture."}],["$","li",null,{"children":"Compliance support: Meet security standards and regulatory requirements by safeguarding sensitive data."}],["$","li",null,{"children":"Seamless integration: Fully integrated into the Clikkle network, ensuring optimal performance and low-latency security enforcement."}]]}]
+11:["$","$Le",null,{"id":"getting-started","level":1,"children":"Getting started "}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you're an enterprise customer, reach out to your success manager to enable WAF for your applications. They'll guide you through the setup process, help configure custom rules, and ensure your application is fully protected."}]
+13:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For more information on upgrading to the enterprise plan, ",["$","a",null,{"href":"https://clikkle.io/contact-us/enterprise","children":"contact sales"}],"."]}]
+14:["$","$Le",null,{"id":"configuration","level":2,"children":"Configuration "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's WAF is designed to adapt to the specific needs of your applications. Tailored rules and actions can be implemented to address evolving security threats and traffic patterns effectively."}]
+16:["$","$Le",null,{"id":"rules","level":3,"children":"Rules "}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The WAF supports the creation of fine-grained rules using logical expressions. These rules define how incoming traffic is inspected and handled."}]
+18:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Expression-based rules"}],["$","br",null,{}],"Use logical expressions to create granular filters for incoming requests. These expressions operate on HTTP request fields, headers, cookies, and metadata."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Examples of configurable expressions:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"URL matching"}],": Block or allow traffic based on URL patterns (e.g., ",["$","code",null,{"children":"/v1/functions/*"}],")."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Request method"}],": Filter traffic based on HTTP methods (e.g., ",["$","code",null,{"children":"GET"}],", ",["$","code",null,{"children":"POST"}],", ",["$","code",null,{"children":"PUT"}],")."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Header inspection"}],": Inspect headers like ",["$","code",null,{"children":"User-Agent"}],", ",["$","code",null,{"children":"Authorization"}],", or ",["$","code",null,{"children":"X-Forwarded-For"}],"."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Cookie validation"}],": Check for specific cookies or validate their values to identify bot or malicious traffic."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Rate limiting"}],": Match requests based on IP or session-level rate thresholds."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Geolocation rules"}],": Allow or block traffic based on the geographic location of the user."]}]]}]]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Regular expressions (Regex)"}],["$","br",null,{}],"Use regex patterns for more advanced filtering, such as matching complex URL structures, payloads, or specific query parameters."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"IP Filtering"}],["$","br",null,{}],"Define rules to block, allow, or challenge traffic from specific IP ranges or CIDR blocks."]}]}]]}]
+19:["$","$Le",null,{"id":"actions","level":3,"children":"Actions "}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Based on the defined rules, the WAF can perform various actions to handle traffic appropriately."}]
+1b:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Allow"}],["$","br",null,{}],"Allows the request to pass through to the backend without modification."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Block"}],["$","br",null,{}],"Rejects the request entirely, responding with an appropriate HTTP status code (e.g., ",["$","code",null,{"children":"403 Forbidden"}],")."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Challenge"}],["$","br",null,{}],"Issues a challenge (e.g., CAPTCHA) to validate whether the request originates from a legitimate user."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Redirect"}],["$","br",null,{}],"Redirects the request to a specified URL. Useful for handling deprecated endpoints or re-routing unauthorized traffic."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Log"}],["$","br",null,{}],"Records the request in detailed logs for further analysis without altering the request flow."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Rate limiting"}],["$","br",null,{}],"Throttles traffic from specific IPs or sessions that exceed defined thresholds, reducing the risk of abuse or overload."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Modify request"}],["$","br",null,{}],"Dynamically alters request components, such as headers, query parameters, or cookies."]}]}]]}]
+1c:["$","$Le",null,{"id":"examples","level":3,"children":"Examples "}]
+1d:["$","$Le",null,{"level":4,"children":"Blocking malicious bots"}]
+1e:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Expression"}],": Match requests with suspicious ",["$","code",null,{"children":"User-Agent"}]," strings or invalid headers."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Action"}],": Block or issue a CAPTCHA challenge to confirm legitimate traffic."]}]]}]
+1f:["$","$Le",null,{"level":4,"children":"Preventing SQL injection"}]
+20:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Expression"}],": Match payloads or query strings containing SQL keywords like ",["$","code",null,{"children":"SELECT"}],", ",["$","code",null,{"children":"DROP"}],", or ",["$","code",null,{"children":"--"}],"."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Action"}],": Block the request and log it for analysis."]}]]}]
+21:["$","$Le",null,{"level":4,"children":"Rate limiting by endpoint"}]
+22:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Expression"}],": Limit requests to sensitive endpoints (e.g., ",["$","code",null,{"children":"/login"}],") to prevent abuse."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Action"}],": Throttle or temporarily block repeated requests from the same IP."]}]]}]
+23:["$","$Le",null,{"level":4,"children":"Geo-based blocking"}]
+24:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Expression"}],": Match requests originating from specific regions or countries."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Action"}],": Block or redirect users to a region-specific notice page."]}]]}]
+25:["$","$Le",null,{"level":4,"children":"Header enforcement"}]
+26:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Expression"}],": Check for required headers (e.g., ",["$","code",null,{"children":"Authorization"}],") on API requests."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Action"}],": Block requests missing critical headers."]}]]}]
+27:["$","$L2c",null,{}]
+2b:null

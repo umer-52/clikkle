@@ -1,0 +1,591 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+c:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+d:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+5:T1c5e,---
+layout: tutorial
+title: Add authentication
+description: Add authentication to your Next.js application using Clikkle Web SDK
+step: 4
+---
+
+For our ideas tracker app, we want any visitor to be able to read the ideas that are stored.
+On the other hand, we don't want the page spammed with just about anything from anyone just stopping by.
+To prevent that, or at least making it a bit more difficult, editing ideas will be available for logged in users only.
+With authentication, we can differentiate between users and decide which users have access to which content.
+
+We will build a page with a simple login form and store its related logic in a custom hook so it can be reused.
+
+## User session hook {% #user-session-hook %}
+
+There are a few standard functions involved in handling a user session that are added to the hook.
+The user needs to be able to register to an account, login to the account and logout from it.
+
+We are using Clikkle as a backend to handle the user details, so we need to connect to Clikkle by importing the configurations from [step 3](/docs/tutorials/nextjs/step-3).
+The response from these interactions will be stored in state to get more information about the user in our app.
+
+Create a new file `hooks/useAuth.ts` and add the following code.
+
+```ts
+// hooks/useAuth.ts
+
+import { useState, useEffect } from 'react';
+import { account } from '../lib/clikkle';
+import { ID } from 'clikkle';
+import type { Models } from 'clikkle';
+import { useRouter } from 'next/navigation';
+
+export function useAuth() {
+    const [current, setCurrent] = useState<Models.Session | null>(null);
+    const [loading, setLoading] = useState(true);
+    const router = useRouter();
+
+    const register = async (email: string, password: string): Promise<void> => {
+        await account.create({
+            userId: ID.unique(),
+            email,
+            password
+        });
+        await login(email, password);
+    };
+
+    const login = async (email: string, password: string): Promise<void> => {
+        const session = await account.createEmailPasswordSession({
+            email,
+            password
+        });
+        setCurrent(session);
+        router.push('/');
+    };
+
+    const logout = async (): Promise<void> => {
+        await account.deleteSession('current');
+        setCurrent(null);
+        router.push('/');
+    };
+
+    const getCurrentUser = async () => {
+        try {
+            const user = await account.get();
+            setCurrent(user);
+        } catch (error) {
+            setCurrent(null);
+        } finally {
+            setLoading(false);
+        }
+    };
+
+    useEffect(() => {
+        getCurrentUser();
+    }, []);
+
+    return {
+        current,
+        loading,
+        login,
+        logout,
+        register,
+    };
+}
+```
+
+## Login page {% #login-page %}
+
+Create a new file `src/app/login/page.tsx`.
+This will create a new page accessible at `/login`.
+
+We will define functions to handle form submissions and show either a signup or a login form.
+
+```tsx
+// src/app/login/page.tsx
+'use client';
+
+import { useState } from 'react';
+import { useAuth } from '../../hooks/useAuth';
+import AuthForm from '../../components/AuthForm';
+
+export default function LoginPage() {
+    const { login, register } = useAuth();
+    const [isSignUp, setIsSignUp] = useState(false);
+
+    const handleLogin = async (event: React.FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        const form = event.target as HTMLFormElement;
+        const formData = new FormData(form);
+        
+        await login(
+            formData.get('email') as string,
+            formData.get('password') as string
+        );
+        
+        form.reset();
+    };
+
+    const handleRegistration = async (event: React.FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        const form = event.target as HTMLFormElement;
+        const formData = new FormData(form);
+        
+        await register(
+            formData.get('email') as string,
+            formData.get('password') as string
+        );
+        
+        form.reset();
+    };
+
+    return (
+        <div className="u-max-width-650" style={{ margin: '0 auto' }}>
+            <section className="card u-margin-32">
+                <h2 className="eyebrow-heading-2">Login/Register</h2>
+                <AuthForm 
+                    handleSubmit={isSignUp ? handleRegistration : handleLogin}
+                    submitType={isSignUp ? 'Sign Up' : 'Log In'}
+                />
+                <button 
+                    onClick={() => setIsSignUp(!isSignUp)}
+                    className="u-margin-block-start-16"
+                >
+                    {isSignUp 
+                        ? 'Already have an account? Log in' 
+                        : "Don't have an account? Sign up"
+                    }
+                </button>
+            </section>
+        </div>
+    );
+}
+```
+
+This page renders a login or sign up form depending on `isSignUp`'s state.
+We will also show buttons to toggle between the two different types of forms.
+
+## Authentication forms {% #auth-forms %}
+
+In the previous step, we defined an `AuthForm` to handle signup and login.
+Let's build this form now.
+
+Create a new file `src/components/AuthForm.tsx` and add the following code.
+
+```tsx
+// src/components/AuthForm.tsx
+
+interface AuthFormProps {
+    handleSubmit: (event: React.FormEvent<HTMLFormElement>) => void | Promise<void>;
+    submitType: string;
+}
+
+export default function AuthForm({ handleSubmit, submitType }: AuthFormProps) {
+    return (
+        <form
+            className="form u-width-full-line u-max-width-500 u-margin-block-start-16"
+            onSubmit={handleSubmit}
+        >
+            <ul className="form-list">
+                <li className="form-item">
+                    <label className="label">Email</label>
+                    <div className="input-text-wrapper">
+                        <input
+                            type="email"
+                            name="email"
+                            className="input-text"
+                            placeholder="Email"
+                            required
+                        />
+                    </div>
+                </li>
+                <li className="form-item">
+                    <label className="label">Password</label>
+                    <div className="input-text-wrapper">
+                        <input
+                            type="password"
+                            name="password"
+                            className="input-text"
+                            placeholder="Password"
+                            required
+                        />
+                    </div>
+                </li>
+            </ul>
+            <ul className="buttons-list u-margin-block-start-16">
+                <li className="buttons-list-item">
+                    <button
+                        type="submit"
+                        className="button is-small u-margin-inline-start-4"
+                        aria-label={submitType}
+                    >
+                        {submitType}
+                    </button>
+                </li>
+            </ul>
+        </form>
+    );
+}
+```
+
+You can now navigate to `/login` in your browser to check out the new page.
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Build an idea tracker with Next.js","steps":[{"step":1,"title":"Build an idea tracker with Next.js","href":"/docs/tutorials/nextjs/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":25},{"step":2,"title":"Create app","href":"/docs/tutorials/nextjs/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":25},{"step":3,"title":"Set up Clikkle","href":"/docs/tutorials/nextjs/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":25},{"step":4,"title":"Add authentication","href":"/docs/tutorials/nextjs/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":25},{"step":5,"title":"Add navigation","href":"/docs/tutorials/nextjs/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":25},{"step":6,"title":"Add database","href":"/docs/tutorials/nextjs/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":25},{"step":7,"title":"Ideas page","href":"/docs/tutorials/nextjs/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":25},{"step":8,"title":"Next steps","href":"/docs/tutorials/nextjs/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":25}],"currentStep":4,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:3","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+e:T5d0,// hooks/useAuth.ts
+
+import { useState, useEffect } from 'react';
+import { account } from '../lib/clikkle';
+import { ID } from 'clikkle';
+import type { Models } from 'clikkle';
+import { useRouter } from 'next/navigation';
+
+export function useAuth() {
+    const [current, setCurrent] = useState<Models.Session | null>(null);
+    const [loading, setLoading] = useState(true);
+    const router = useRouter();
+
+    const register = async (email: string, password: string): Promise<void> => {
+        await account.create({
+            userId: ID.unique(),
+            email,
+            password
+        });
+        await login(email, password);
+    };
+
+    const login = async (email: string, password: string): Promise<void> => {
+        const session = await account.createEmailPasswordSession({
+            email,
+            password
+        });
+        setCurrent(session);
+        router.push('/');
+    };
+
+    const logout = async (): Promise<void> => {
+        await account.deleteSession('current');
+        setCurrent(null);
+        router.push('/');
+    };
+
+    const getCurrentUser = async () => {
+        try {
+            const user = await account.get();
+            setCurrent(user);
+        } catch (error) {
+            setCurrent(null);
+        } finally {
+            setLoading(false);
+        }
+    };
+
+    useEffect(() => {
+        getCurrentUser();
+    }, []);
+
+    return {
+        current,
+        loading,
+        login,
+        logout,
+        register,
+    };
+}
+f:T5d0,// hooks/useAuth.ts
+
+import { useState, useEffect } from 'react';
+import { account } from '../lib/clikkle';
+import { ID } from 'clikkle';
+import type { Models } from 'clikkle';
+import { useRouter } from 'next/navigation';
+
+export function useAuth() {
+    const [current, setCurrent] = useState<Models.Session | null>(null);
+    const [loading, setLoading] = useState(true);
+    const router = useRouter();
+
+    const register = async (email: string, password: string): Promise<void> => {
+        await account.create({
+            userId: ID.unique(),
+            email,
+            password
+        });
+        await login(email, password);
+    };
+
+    const login = async (email: string, password: string): Promise<void> => {
+        const session = await account.createEmailPasswordSession({
+            email,
+            password
+        });
+        setCurrent(session);
+        router.push('/');
+    };
+
+    const logout = async (): Promise<void> => {
+        await account.deleteSession('current');
+        setCurrent(null);
+        router.push('/');
+    };
+
+    const getCurrentUser = async () => {
+        try {
+            const user = await account.get();
+            setCurrent(user);
+        } catch (error) {
+            setCurrent(null);
+        } finally {
+            setLoading(false);
+        }
+    };
+
+    useEffect(() => {
+        getCurrentUser();
+    }, []);
+
+    return {
+        current,
+        loading,
+        login,
+        logout,
+        register,
+    };
+}
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For our ideas tracker app, we want any visitor to be able to read the ideas that are stored."," ","On the other hand, we don't want the page spammed with just about anything from anyone just stopping by."," ","To prevent that, or at least making it a bit more difficult, editing ideas will be available for logged in users only."," ","With authentication, we can differentiate between users and decide which users have access to which content."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"We will build a page with a simple login form and store its related logic in a custom hook so it can be reused."}],["$","$Lb",null,{"id":"user-session-hook","level":2,"children":"User session hook "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["There are a few standard functions involved in handling a user session that are added to the hook."," ","The user needs to be able to register to an account, login to the account and logout from it."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["We are using Clikkle as a backend to handle the user details, so we need to connect to Clikkle by importing the configurations from ",["$","$Lc",null,{"href":"/docs/tutorials/nextjs/step-3","children":"step 3"}],"."," ","The response from these interactions will be stored in state to get more information about the user in our app."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file ",["$","code",null,{"children":"hooks/useAuth.ts"}]," and add the following code."]}],["$","$Ld",null,{"language":"ts","content":"$e","children":"$f"}],"$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+10:["$","$Lb",null,{"id":"login-page","level":2,"children":"Login page "}]
+11:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file ",["$","code",null,{"children":"src/app/login/page.tsx"}],"."," ","This will create a new page accessible at ",["$","code",null,{"children":"/login"}],"."]}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"We will define functions to handle form submissions and show either a signup or a login form."}]
+1d:T755,// src/app/login/page.tsx
+'use client';
+
+import { useState } from 'react';
+import { useAuth } from '../../hooks/useAuth';
+import AuthForm from '../../components/AuthForm';
+
+export default function LoginPage() {
+    const { login, register } = useAuth();
+    const [isSignUp, setIsSignUp] = useState(false);
+
+    const handleLogin = async (event: React.FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        const form = event.target as HTMLFormElement;
+        const formData = new FormData(form);
+        
+        await login(
+            formData.get('email') as string,
+            formData.get('password') as string
+        );
+        
+        form.reset();
+    };
+
+    const handleRegistration = async (event: React.FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        const form = event.target as HTMLFormElement;
+        const formData = new FormData(form);
+        
+        await register(
+            formData.get('email') as string,
+            formData.get('password') as string
+        );
+        
+        form.reset();
+    };
+
+    return (
+        <div className="u-max-width-650" style={{ margin: '0 auto' }}>
+            <section className="card u-margin-32">
+                <h2 className="eyebrow-heading-2">Login/Register</h2>
+                <AuthForm 
+                    handleSubmit={isSignUp ? handleRegistration : handleLogin}
+                    submitType={isSignUp ? 'Sign Up' : 'Log In'}
+                />
+                <button 
+                    onClick={() => setIsSignUp(!isSignUp)}
+                    className="u-margin-block-start-16"
+                >
+                    {isSignUp 
+                        ? 'Already have an account? Log in' 
+                        : "Don't have an account? Sign up"
+                    }
+                </button>
+            </section>
+        </div>
+    );
+}
+1e:T755,// src/app/login/page.tsx
+'use client';
+
+import { useState } from 'react';
+import { useAuth } from '../../hooks/useAuth';
+import AuthForm from '../../components/AuthForm';
+
+export default function LoginPage() {
+    const { login, register } = useAuth();
+    const [isSignUp, setIsSignUp] = useState(false);
+
+    const handleLogin = async (event: React.FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        const form = event.target as HTMLFormElement;
+        const formData = new FormData(form);
+        
+        await login(
+            formData.get('email') as string,
+            formData.get('password') as string
+        );
+        
+        form.reset();
+    };
+
+    const handleRegistration = async (event: React.FormEvent<HTMLFormElement>) => {
+        event.preventDefault();
+        const form = event.target as HTMLFormElement;
+        const formData = new FormData(form);
+        
+        await register(
+            formData.get('email') as string,
+            formData.get('password') as string
+        );
+        
+        form.reset();
+    };
+
+    return (
+        <div className="u-max-width-650" style={{ margin: '0 auto' }}>
+            <section className="card u-margin-32">
+                <h2 className="eyebrow-heading-2">Login/Register</h2>
+                <AuthForm 
+                    handleSubmit={isSignUp ? handleRegistration : handleLogin}
+                    submitType={isSignUp ? 'Sign Up' : 'Log In'}
+                />
+                <button 
+                    onClick={() => setIsSignUp(!isSignUp)}
+                    className="u-margin-block-start-16"
+                >
+                    {isSignUp 
+                        ? 'Already have an account? Log in' 
+                        : "Don't have an account? Sign up"
+                    }
+                </button>
+            </section>
+        </div>
+    );
+}
+13:["$","$Ld",null,{"language":"tsx","content":"$1d","children":"$1e"}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This page renders a login or sign up form depending on ",["$","code",null,{"children":"isSignUp"}],"'s state."," ","We will also show buttons to toggle between the two different types of forms."]}]
+15:["$","$Lb",null,{"id":"auth-forms","level":2,"children":"Authentication forms "}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In the previous step, we defined an ",["$","code",null,{"children":"AuthForm"}]," to handle signup and login."," ","Let's build this form now."]}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file ",["$","code",null,{"children":"src/components/AuthForm.tsx"}]," and add the following code."]}]
+1f:T774,// src/components/AuthForm.tsx
+
+interface AuthFormProps {
+    handleSubmit: (event: React.FormEvent<HTMLFormElement>) => void | Promise<void>;
+    submitType: string;
+}
+
+export default function AuthForm({ handleSubmit, submitType }: AuthFormProps) {
+    return (
+        <form
+            className="form u-width-full-line u-max-width-500 u-margin-block-start-16"
+            onSubmit={handleSubmit}
+        >
+            <ul className="form-list">
+                <li className="form-item">
+                    <label className="label">Email</label>
+                    <div className="input-text-wrapper">
+                        <input
+                            type="email"
+                            name="email"
+                            className="input-text"
+                            placeholder="Email"
+                            required
+                        />
+                    </div>
+                </li>
+                <li className="form-item">
+                    <label className="label">Password</label>
+                    <div className="input-text-wrapper">
+                        <input
+                            type="password"
+                            name="password"
+                            className="input-text"
+                            placeholder="Password"
+                            required
+                        />
+                    </div>
+                </li>
+            </ul>
+            <ul className="buttons-list u-margin-block-start-16">
+                <li className="buttons-list-item">
+                    <button
+                        type="submit"
+                        className="button is-small u-margin-inline-start-4"
+                        aria-label={submitType}
+                    >
+                        {submitType}
+                    </button>
+                </li>
+            </ul>
+        </form>
+    );
+}
+20:T774,// src/components/AuthForm.tsx
+
+interface AuthFormProps {
+    handleSubmit: (event: React.FormEvent<HTMLFormElement>) => void | Promise<void>;
+    submitType: string;
+}
+
+export default function AuthForm({ handleSubmit, submitType }: AuthFormProps) {
+    return (
+        <form
+            className="form u-width-full-line u-max-width-500 u-margin-block-start-16"
+            onSubmit={handleSubmit}
+        >
+            <ul className="form-list">
+                <li className="form-item">
+                    <label className="label">Email</label>
+                    <div className="input-text-wrapper">
+                        <input
+                            type="email"
+                            name="email"
+                            className="input-text"
+                            placeholder="Email"
+                            required
+                        />
+                    </div>
+                </li>
+                <li className="form-item">
+                    <label className="label">Password</label>
+                    <div className="input-text-wrapper">
+                        <input
+                            type="password"
+                            name="password"
+                            className="input-text"
+                            placeholder="Password"
+                            required
+                        />
+                    </div>
+                </li>
+            </ul>
+            <ul className="buttons-list u-margin-block-start-16">
+                <li className="buttons-list-item">
+                    <button
+                        type="submit"
+                        className="button is-small u-margin-inline-start-4"
+                        aria-label={submitType}
+                    >
+                        {submitType}
+                    </button>
+                </li>
+            </ul>
+        </form>
+    );
+}
+18:["$","$Ld",null,{"language":"tsx","content":"$1f","children":"$20"}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can now navigate to ",["$","code",null,{"children":"/login"}]," in your browser to check out the new page."]}]
+1c:null

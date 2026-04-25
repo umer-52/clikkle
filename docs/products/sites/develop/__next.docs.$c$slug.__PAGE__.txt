@@ -1,0 +1,488 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+2a:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+2b:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+2c:"$Sreact.suspense"
+2e:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+34:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TableTag"]
+41:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T1e82,---
+layout: article
+title: Develop Clikkle Sites
+description: Master site development with Clikkle.
+---
+
+# Rendering strategies
+
+Clikkle allows you to host both statically-generated and server-rendered websites. 
+
+[Static sites](/docs/products/sites/rendering/static) are websites that are pre-built and served as-is to clients. They do not execute server-side code on each request. They are ideal for use-cases such as [Single Page Applications (SPAs)](/docs/products/sites/rendering/static#running-spas-on-clikkle-sites), documentation sites, personal blogs, and portfolio websites. 
+
+[Server-side rendered (SSR) sites](/docs/products/sites/rendering/ssr) generate content dynamically on the server and send fully rendered pages for each request. They are ideal for use-cases with substantial dynamic content or server-side processing such as e-commerce platforms, social media applications, content management systems (CMS), and real-time collaboration tools.
+
+You can configure your preferred rendering strategy through the following steps:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Settings** tab > **Build settings** section.
+3. Select the SSR or the Static checkbox.
+4. Confirm that the appropriate install command, build command, and output directory are set.
+5. *(For SPAs)* Add a fallback file.
+6. Click on the **Update** button and redeploy your site.
+
+{% only_dark %}
+![Rendering strategy](/clikkle/images/docs/sites/dark/build-settings-rendering-ssr.png)
+{% /only_dark %}
+{% only_light %}
+![Rendering strategy](/clikkle/images/docs/sites/build-settings-rendering-ssr.png)
+{% /only_light %}
+
+# **Accessing environment variables**
+
+Clikkle Sites lets you set static environment variables to pass constants and secrets such as API keys, connection strings, etc., to your sites.
+
+To set static environment variables, follow these steps:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Settings** tab > **Environment variables** section.
+3. Click on the **Create variable** button and add the key and value of the environment variable.
+4. Select the **Secret** checkbox if you want to prevent any team member from reading the value of the environment variable after creation.
+5. Click on the **Create** button and redeploy the site.
+
+{% only_dark %}
+![Environment variables](/clikkle/images/docs/sites/dark/env-variables.png)
+{% /only_dark %}
+{% only_light %}
+![Environment variables](/clikkle/images/docs/sites/env-variables.png)
+{% /only_light %}
+
+You can also configure global variables that apply to all your sites in the **Settings** of your project.
+
+{% info title="Secret environment variables" %}
+
+Clikkle now allows you create secret environment variables, which are hidden from both the Clikkle Console and API. Once a variable is marked as secret, this action cannot be reversed.
+
+You can mark an environment variable as secret either at the time of creation or after it is created.
+
+{% /info %}
+
+## Clikkle-specific environment variables
+
+Clikkle passes the following environment variables into every deployed site by default.
+
+| Variable                        | Description                                             | Available at Build and/or Run Time |
+| ------------------------------- | ------------------------------------------------------- | ---------------------------------- |
+| `CLIKKLE_SITE_API_ENDPOINT`    | The API endpoint of the running site                    | Both                               |
+| `CLIKKLE_SITE_NAME`            | The name of the running site.                           | Both                               |
+| `CLIKKLE_SITE_DEPLOYMENT`      | The deployment ID of the running sites.                 | Both                               |
+| `CLIKKLE_SITE_PROJECT_ID`      | The project ID of the running site.                     | Both                               |
+| `CLIKKLE_SITE_RUNTIME_NAME`    | The runtime name of the running site.                   | Both                               |
+| `CLIKKLE_SITE_RUNTIME_VERSION` | The runtime version of the running site.                | Both                               |
+| `CLIKKLE_SITE_CPUS`            | The CPU (runtime) specification of the running site.    | Both                               |
+| `CLIKKLE_SITE_MEMORY`          | The memory (runtime) specification of the running site. | Both                               |
+
+
+# Timeouts
+
+Each request made to a path on an Clikkle Site has a set time limit, after which the request will timeout. Here are the steps to configure those timeout period:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Settings** tab > **Timeout** section.
+3. Add an appropriate time limit (in seconds).
+
+{% only_dark %}
+![Timeout](/clikkle/images/docs/sites/dark/timeout.png)
+{% /only_dark %}
+{% only_light %}
+![Timeout](/clikkle/images/docs/sites/timeout.png)
+{% /only_light %}
+
+The default timeout is set at `15 seconds` and the maximum value possible is `30 seconds`.
+
+# Project dependencies
+
+To install your dependencies before your site is built, you should add the relevant install command to your site’s build settings. Here are the steps to add the install command:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Settings** tab > **Build settings** section.
+3. Confirm that the appropriate install command is set.
+
+{% only_dark %}
+![Install command](/clikkle/images/docs/sites/dark/build-settings-install-command.png)
+{% /only_dark %}
+{% only_light %}
+![Install command](/clikkle/images/docs/sites/build-settings-install-command.png)
+{% /only_light %}
+
+Make sure to include dependency files like `package.json` in your site's configured root directory. Do not include the dependency folders like `node_modules` in your site’s root directory. The dependencies installed for your local OS may not work in the site's environment.
+
+Your site's dependencies should be managed by the package manager of each language. We include the following package managers and setup commands by default.
+
+{% table %}
+- &nbsp; {% width=48 %}
+- Framework
+- Default package manager
+- Install command
+- Build command
+- Output directory
+
+---
+
+- {% icon icon="nextjs" size="m" /%}
+- **Next.js**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./.next`
+
+---
+
+- {% icon icon="nuxt" size="m" /%}
+- **Nuxt**
+- `npm`
+- `npm install` or `yarn install`
+- `npm run build` or `yarn build`
+- `./.output`
+
+---
+
+- {% icon icon="svelte" size="m" /%}
+- **SvelteKit**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./build`
+
+---
+
+- {% icon icon="angular" size="m" /%}
+- **Angular**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./dist/angular/browser`
+
+---
+
+- {% icon icon="astro" size="m" /%}
+- **Astro**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./dist`
+
+---
+
+- {% only_dark %}{% icon_image src="/clikkle/images/platforms/dark/remix.svg" alt="Remix logo" size="m" /%}{% /only_dark %}
+{% only_light %}{% icon_image src="/clikkle/images/platforms/light/remix.svg" alt="Remix logo" size="m" /%}{% /only_light %}
+- **Remix**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./build`
+
+---
+
+- {% only_dark %}{% icon_image src="/clikkle/images/platforms/dark/tanstack.svg" alt="TanStack Start logo" size="m" /%}{% /only_dark %}
+{% only_light %}{% icon_image src="/clikkle/images/platforms/light/tanstack.svg" alt="TanStack Start logo" size="m" /%}{% /only_light %}
+- **TanStack Start**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./dist`
+
+---
+- {% icon icon="flutter" size="m" /%}
+- **Flutter**
+- `pub`
+- `flutter pub get`
+- `flutter build web --release -t lib/main.dart`
+- `./build/web`
+
+---
+
+- {% icon icon="react-native" size="m" /%}
+- **React Native**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./dist`
+
+---
+
+- {% icon icon="js" size="m" /%}
+- **Other JavaScript**
+- `npm`
+- (Empty)
+- (Empty)
+- `./`
+
+{% /table %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T1e82,---
+layout: article
+title: Develop Clikkle Sites
+description: Master site development with Clikkle.
+---
+
+# Rendering strategies
+
+Clikkle allows you to host both statically-generated and server-rendered websites. 
+
+[Static sites](/docs/products/sites/rendering/static) are websites that are pre-built and served as-is to clients. They do not execute server-side code on each request. They are ideal for use-cases such as [Single Page Applications (SPAs)](/docs/products/sites/rendering/static#running-spas-on-clikkle-sites), documentation sites, personal blogs, and portfolio websites. 
+
+[Server-side rendered (SSR) sites](/docs/products/sites/rendering/ssr) generate content dynamically on the server and send fully rendered pages for each request. They are ideal for use-cases with substantial dynamic content or server-side processing such as e-commerce platforms, social media applications, content management systems (CMS), and real-time collaboration tools.
+
+You can configure your preferred rendering strategy through the following steps:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Settings** tab > **Build settings** section.
+3. Select the SSR or the Static checkbox.
+4. Confirm that the appropriate install command, build command, and output directory are set.
+5. *(For SPAs)* Add a fallback file.
+6. Click on the **Update** button and redeploy your site.
+
+{% only_dark %}
+![Rendering strategy](/clikkle/images/docs/sites/dark/build-settings-rendering-ssr.png)
+{% /only_dark %}
+{% only_light %}
+![Rendering strategy](/clikkle/images/docs/sites/build-settings-rendering-ssr.png)
+{% /only_light %}
+
+# **Accessing environment variables**
+
+Clikkle Sites lets you set static environment variables to pass constants and secrets such as API keys, connection strings, etc., to your sites.
+
+To set static environment variables, follow these steps:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Settings** tab > **Environment variables** section.
+3. Click on the **Create variable** button and add the key and value of the environment variable.
+4. Select the **Secret** checkbox if you want to prevent any team member from reading the value of the environment variable after creation.
+5. Click on the **Create** button and redeploy the site.
+
+{% only_dark %}
+![Environment variables](/clikkle/images/docs/sites/dark/env-variables.png)
+{% /only_dark %}
+{% only_light %}
+![Environment variables](/clikkle/images/docs/sites/env-variables.png)
+{% /only_light %}
+
+You can also configure global variables that apply to all your sites in the **Settings** of your project.
+
+{% info title="Secret environment variables" %}
+
+Clikkle now allows you create secret environment variables, which are hidden from both the Clikkle Console and API. Once a variable is marked as secret, this action cannot be reversed.
+
+You can mark an environment variable as secret either at the time of creation or after it is created.
+
+{% /info %}
+
+## Clikkle-specific environment variables
+
+Clikkle passes the following environment variables into every deployed site by default.
+
+| Variable                        | Description                                             | Available at Build and/or Run Time |
+| ------------------------------- | ------------------------------------------------------- | ---------------------------------- |
+| `CLIKKLE_SITE_API_ENDPOINT`    | The API endpoint of the running site                    | Both                               |
+| `CLIKKLE_SITE_NAME`            | The name of the running site.                           | Both                               |
+| `CLIKKLE_SITE_DEPLOYMENT`      | The deployment ID of the running sites.                 | Both                               |
+| `CLIKKLE_SITE_PROJECT_ID`      | The project ID of the running site.                     | Both                               |
+| `CLIKKLE_SITE_RUNTIME_NAME`    | The runtime name of the running site.                   | Both                               |
+| `CLIKKLE_SITE_RUNTIME_VERSION` | The runtime version of the running site.                | Both                               |
+| `CLIKKLE_SITE_CPUS`            | The CPU (runtime) specification of the running site.    | Both                               |
+| `CLIKKLE_SITE_MEMORY`          | The memory (runtime) specification of the running site. | Both                               |
+
+
+# Timeouts
+
+Each request made to a path on an Clikkle Site has a set time limit, after which the request will timeout. Here are the steps to configure those timeout period:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Settings** tab > **Timeout** section.
+3. Add an appropriate time limit (in seconds).
+
+{% only_dark %}
+![Timeout](/clikkle/images/docs/sites/dark/timeout.png)
+{% /only_dark %}
+{% only_light %}
+![Timeout](/clikkle/images/docs/sites/timeout.png)
+{% /only_light %}
+
+The default timeout is set at `15 seconds` and the maximum value possible is `30 seconds`.
+
+# Project dependencies
+
+To install your dependencies before your site is built, you should add the relevant install command to your site’s build settings. Here are the steps to add the install command:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Settings** tab > **Build settings** section.
+3. Confirm that the appropriate install command is set.
+
+{% only_dark %}
+![Install command](/clikkle/images/docs/sites/dark/build-settings-install-command.png)
+{% /only_dark %}
+{% only_light %}
+![Install command](/clikkle/images/docs/sites/build-settings-install-command.png)
+{% /only_light %}
+
+Make sure to include dependency files like `package.json` in your site's configured root directory. Do not include the dependency folders like `node_modules` in your site’s root directory. The dependencies installed for your local OS may not work in the site's environment.
+
+Your site's dependencies should be managed by the package manager of each language. We include the following package managers and setup commands by default.
+
+{% table %}
+- &nbsp; {% width=48 %}
+- Framework
+- Default package manager
+- Install command
+- Build command
+- Output directory
+
+---
+
+- {% icon icon="nextjs" size="m" /%}
+- **Next.js**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./.next`
+
+---
+
+- {% icon icon="nuxt" size="m" /%}
+- **Nuxt**
+- `npm`
+- `npm install` or `yarn install`
+- `npm run build` or `yarn build`
+- `./.output`
+
+---
+
+- {% icon icon="svelte" size="m" /%}
+- **SvelteKit**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./build`
+
+---
+
+- {% icon icon="angular" size="m" /%}
+- **Angular**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./dist/angular/browser`
+
+---
+
+- {% icon icon="astro" size="m" /%}
+- **Astro**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./dist`
+
+---
+
+- {% only_dark %}{% icon_image src="/clikkle/images/platforms/dark/remix.svg" alt="Remix logo" size="m" /%}{% /only_dark %}
+{% only_light %}{% icon_image src="/clikkle/images/platforms/light/remix.svg" alt="Remix logo" size="m" /%}{% /only_light %}
+- **Remix**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./build`
+
+---
+
+- {% only_dark %}{% icon_image src="/clikkle/images/platforms/dark/tanstack.svg" alt="TanStack Start logo" size="m" /%}{% /only_dark %}
+{% only_light %}{% icon_image src="/clikkle/images/platforms/light/tanstack.svg" alt="TanStack Start logo" size="m" /%}{% /only_light %}
+- **TanStack Start**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./dist`
+
+---
+- {% icon icon="flutter" size="m" /%}
+- **Flutter**
+- `pub`
+- `flutter pub get`
+- `flutter build web --release -t lib/main.dart`
+- `./build/web`
+
+---
+
+- {% icon icon="react-native" size="m" /%}
+- **React Native**
+- `npm`
+- `npm install`
+- `npm run build`
+- `./dist`
+
+---
+
+- {% icon icon="js" size="m" /%}
+- **Other JavaScript**
+- `npm`
+- (Empty)
+- (Empty)
+- `./`
+
+{% /table %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Develop Clikkle Sites"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","$Le",null,{"level":1,"children":"Rendering strategies"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle allows you to host both statically-generated and server-rendered websites."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$Lf",null,{"href":"/docs/products/sites/rendering/static","children":"Static sites"}]," are websites that are pre-built and served as-is to clients. They do not execute server-side code on each request. They are ideal for use-cases such as ",["$","$Lf",null,{"href":"/docs/products/sites/rendering/static#running-spas-on-clikkle-sites","children":"Single Page Applications (SPAs)"}],", documentation sites, personal blogs, and portfolio websites."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$Lf",null,{"href":"/docs/products/sites/rendering/ssr","children":"Server-side rendered (SSR) sites"}]," generate content dynamically on the server and send fully rendered pages for each request. They are ideal for use-cases with substantial dynamic content or server-side processing such as e-commerce platforms, social media applications, content management systems (CMS), and real-time collaboration tools."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can configure your preferred rendering strategy through the following steps:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":"Navigate to your site on Clikkle Console."}],["$","li",null,{"children":["Head to the ",["$","strong",null,{"children":"Settings"}]," tab > ",["$","strong",null,{"children":"Build settings"}]," section."]}],["$","li",null,{"children":"Select the SSR or the Static checkbox."}],["$","li",null,{"children":"Confirm that the appropriate install command, build command, and output directory are set."}],["$","li",null,{"children":[["$","em",null,{"children":"(For SPAs)"}]," Add a fallback file."]}],["$","li",null,{"children":["Click on the ",["$","strong",null,{"children":"Update"}]," button and redeploy your site."]}]]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/build-settings-rendering-ssr.png","alt":"Rendering strategy","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/build-settings-rendering-ssr.png","alt":"Rendering strategy","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","$Le",null,{"level":1,"children":["$","strong",null,{"children":"Accessing environment variables"}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle Sites lets you set static environment variables to pass constants and secrets such as API keys, connection strings, etc., to your sites."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To set static environment variables, follow these steps:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":"Navigate to your site on Clikkle Console."}],"$L10","$L11","$L12","$L13"]}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}]]}],"$L29"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L2a",null,{"items":[{"id":"rendering-strategies","title":"Rendering strategies","level":1},{"id":"clikkle-specific-environment-variables","title":"Clikkle-specific environment variables","level":2},{"id":"timeouts","title":"Timeouts","level":1},{"id":"project-dependencies","title":"Project dependencies","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L2b",null,{"children":["$","$2c",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+10:["$","li",null,{"children":["Head to the ",["$","strong",null,{"children":"Settings"}]," tab > ",["$","strong",null,{"children":"Environment variables"}]," section."]}]
+11:["$","li",null,{"children":["Click on the ",["$","strong",null,{"children":"Create variable"}]," button and add the key and value of the environment variable."]}]
+12:["$","li",null,{"children":["Select the ",["$","strong",null,{"children":"Secret"}]," checkbox if you want to prevent any team member from reading the value of the environment variable after creation."]}]
+13:["$","li",null,{"children":["Click on the ",["$","strong",null,{"children":"Create"}]," button and redeploy the site."]}]
+14:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/env-variables.png","alt":"Environment variables","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+15:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/env-variables.png","alt":"Environment variables","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also configure global variables that apply to all your sites in the ",["$","strong",null,{"children":"Settings"}]," of your project."]}]
+17:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Secret environment variables"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle now allows you create secret environment variables, which are hidden from both the Clikkle Console and API. Once a variable is marked as secret, this action cannot be reversed."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can mark an environment variable as secret either at the time of creation or after it is created."}]]]}]
+18:["$","$Le",null,{"level":2,"children":"Clikkle-specific environment variables"}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle passes the following environment variables into every deployed site by default."}]
+1a:["$","$L2e",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Variable"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Available at Build and/or Run Time"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_API_ENDPOINT"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The API endpoint of the running site"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_NAME"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The name of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_DEPLOYMENT"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The deployment ID of the running sites."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_PROJECT_ID"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The project ID of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L2f"}]]}],"$L30","$L31","$L32","$L33"]}]]}]
+1b:["$","$Le",null,{"level":1,"children":"Timeouts"}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Each request made to a path on an Clikkle Site has a set time limit, after which the request will timeout. Here are the steps to configure those timeout period:"}]
+1d:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":"Navigate to your site on Clikkle Console."}],["$","li",null,{"children":["Head to the ",["$","strong",null,{"children":"Settings"}]," tab > ",["$","strong",null,{"children":"Timeout"}]," section."]}],["$","li",null,{"children":"Add an appropriate time limit (in seconds)."}]]}]
+1e:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/timeout.png","alt":"Timeout","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+1f:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/timeout.png","alt":"Timeout","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+20:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The default timeout is set at ",["$","code",null,{"children":"15 seconds"}]," and the maximum value possible is ",["$","code",null,{"children":"30 seconds"}],"."]}]
+21:["$","$Le",null,{"level":1,"children":"Project dependencies"}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To install your dependencies before your site is built, you should add the relevant install command to your site’s build settings. Here are the steps to add the install command:"}]
+23:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":"Navigate to your site on Clikkle Console."}],["$","li",null,{"children":["Head to the ",["$","strong",null,{"children":"Settings"}]," tab > ",["$","strong",null,{"children":"Build settings"}]," section."]}],["$","li",null,{"children":"Confirm that the appropriate install command is set."}]]}]
+24:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/build-settings-install-command.png","alt":"Install command","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+25:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/build-settings-install-command.png","alt":"Install command","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+26:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Make sure to include dependency files like ",["$","code",null,{"children":"package.json"}]," in your site's configured root directory. Do not include the dependency folders like ",["$","code",null,{"children":"node_modules"}]," in your site’s root directory. The dependencies installed for your local OS may not work in the site's environment."]}]
+27:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Your site's dependencies should be managed by the package manager of each language. We include the following package managers and setup commands by default."}]
+28:["$","$L34",null,{"children":["$","$L2e",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"  "}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Framework"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Default package manager"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Install command"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Build command"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Output directory"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-nextjs","style":{"fontSize":"20px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"Next.js"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm install"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm run build"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./.next"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-nuxt","style":{"fontSize":"20px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"Nuxt"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L35"}],"$L36","$L37","$L38"]}],"$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40"]}]]}]}]
+29:["$","$L41",null,{}]
+2d:null
+2f:["$","div",null,{"className":"td-wrapper","children":"Both"}]
+30:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_RUNTIME_NAME"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The runtime name of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+31:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_RUNTIME_VERSION"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The runtime version of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+32:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_CPUS"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The CPU (runtime) specification of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+33:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_MEMORY"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The memory (runtime) specification of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+35:["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]
+36:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"npm install"}]," or ",["$","code",null,{"children":"yarn install"}]]}]}]
+37:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"npm run build"}]," or ",["$","code",null,{"children":"yarn build"}]]}]}]
+38:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./.output"}]}]}]
+39:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-svelte","style":{"fontSize":"20px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"SvelteKit"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm install"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm run build"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./build"}]}]}]]}]
+3a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-angular","style":{"fontSize":"20px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"Angular"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm install"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm run build"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./dist/angular/browser"}]}]}]]}]
+3b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-astro","style":{"fontSize":"20px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"Astro"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm install"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm run build"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./dist"}]}]}]]}]
+3c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","span",null,{"className":"web-u-only-dark","children":["$","img",null,{"src":"/clikkle/images/platforms/dark/remix.svg","alt":"Remix logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}]," ",["$","span",null,{"className":"web-u-only-light","children":["$","img",null,{"src":"/clikkle/images/platforms/light/remix.svg","alt":"Remix logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"Remix"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm install"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm run build"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./build"}]}]}]]}]
+3d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","span",null,{"className":"web-u-only-dark","children":["$","img",null,{"src":"/clikkle/images/platforms/dark/tanstack.svg","alt":"TanStack Start logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}]," ",["$","span",null,{"className":"web-u-only-light","children":["$","img",null,{"src":"/clikkle/images/platforms/light/tanstack.svg","alt":"TanStack Start logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"TanStack Start"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm install"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm run build"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./dist"}]}]}]]}]
+3e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-flutter","style":{"fontSize":"20px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"Flutter"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"pub"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"flutter pub get"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"flutter build web --release -t lib/main.dart"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./build/web"}]}]}]]}]
+3f:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-react-native","style":{"fontSize":"20px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"React Native"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm install"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm run build"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./dist"}]}]}]]}]
+40:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-js","style":{"fontSize":"20px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","strong",null,{"children":"Other JavaScript"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"npm"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"(Empty)"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"(Empty)"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"./"}]}]}]]}]

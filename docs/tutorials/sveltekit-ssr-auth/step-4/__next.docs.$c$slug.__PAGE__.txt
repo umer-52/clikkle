@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+5:T853,---
+layout: tutorial
+title: Add a server hook
+description: Add authentication to a SvelteKit project using Clikkle.
+step: 4
+---
+
+SvelteKit hooks which are functions that run on the server before a page is displayed to the user. SvelteKit locals are a way to store data that is specific to the current request. We can use this to store the user's account data, so that it is available to all pages.
+
+Create a new file in the `src` directory called `hooks.server.js`:
+
+```js
+// src/hooks.server.js
+import { createSessionClient } from '$lib/server/clikkle';
+
+export async function handle({ event, resolve }) {
+  try {
+    // Use our helper function to create the Clikkle client.
+    const { account } = createSessionClient(event);
+    // Store the current logged in user in locals,
+    // for easy access in our other routes.
+    event.locals.user = await account.get();
+  } catch {}
+  
+  // Continue with the request.
+  return resolve(event);
+}
+```
+
+To ensure the `locals` object is typed correctly, we can add a type definition for it in the `env.d.ts` file:
+
+```ts
+// env.d.ts
+
+import type { Models } from "node-clikkle";
+
+// See https://kit.svelte.dev/docs/types#app
+// for information about these interfaces
+declare global {
+  namespace App {
+    // interface Error {}
+    interface Locals {
+      user: Models.User<Models.Preferences> | undefined;
+    }
+    // interface PageData {}
+    // interface Platform {}
+  }
+}
+
+export {};
+```
+
+Now, use the `locals` object in the home page to redirect based on the user's login status. 
+Create a new file in the `src/routes` directory called `+page.server.js`:
+
+```js
+// src/routes/+page.server.js
+
+import { redirect } from '@sveltejs/kit';
+
+export async function load({ locals }) {
+  // Access our user from locals.
+  if (!locals.user) {
+    // If no user is logged in, redirect to the sign up page.
+    redirect(301, '/signup');
+  }
+  
+  // If the user is logged in, redirect to the account page.
+  redirect(301, '/account');
+}
+```
+
+When a user visits the home page, they will be redirected to the sign up page if they are not logged in, or to the account page if they are logged in.
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Server-side authentication with SvelteKit","steps":[{"step":1,"title":"Server-side authentication with SvelteKit","href":"/docs/tutorials/sveltekit-ssr-auth/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":20},{"step":2,"title":"Create project","href":"/docs/tutorials/sveltekit-ssr-auth/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":20},{"step":3,"title":"Initialize SDK","href":"/docs/tutorials/sveltekit-ssr-auth/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":20},{"step":4,"title":"Add a server hook","href":"/docs/tutorials/sveltekit-ssr-auth/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":20},{"step":5,"title":"Create sign up page","href":"/docs/tutorials/sveltekit-ssr-auth/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":20},{"step":6,"title":"Create account page","href":"/docs/tutorials/sveltekit-ssr-auth/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":20},{"step":7,"title":"OAuth authentication with SSR","href":"/docs/tutorials/sveltekit-ssr-auth/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":20},{"step":8,"title":"All set","href":"/docs/tutorials/sveltekit-ssr-auth/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":20}],"currentStep":4,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:3","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"SvelteKit hooks which are functions that run on the server before a page is displayed to the user. SvelteKit locals are a way to store data that is specific to the current request. We can use this to store the user's account data, so that it is available to all pages."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file in the ",["$","code",null,{"children":"src"}]," directory called ",["$","code",null,{"children":"hooks.server.js"}],":"]}],["$","$Lb",null,{"language":"js","content":"// src/hooks.server.js\nimport { createSessionClient } from '$lib/server/clikkle';\n\nexport async function handle({ event, resolve }) {\n  try {\n    // Use our helper function to create the Clikkle client.\n    const { account } = createSessionClient(event);\n    // Store the current logged in user in locals,\n    // for easy access in our other routes.\n    event.locals.user = await account.get();\n  } catch {}\n  \n  // Continue with the request.\n  return resolve(event);\n}\n","children":"// src/hooks.server.js\nimport { createSessionClient } from '$lib/server/clikkle';\n\nexport async function handle({ event, resolve }) {\n  try {\n    // Use our helper function to create the Clikkle client.\n    const { account } = createSessionClient(event);\n    // Store the current logged in user in locals,\n    // for easy access in our other routes.\n    event.locals.user = await account.get();\n  } catch {}\n  \n  // Continue with the request.\n  return resolve(event);\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To ensure the ",["$","code",null,{"children":"locals"}]," object is typed correctly, we can add a type definition for it in the ",["$","code",null,{"children":"env.d.ts"}]," file:"]}],["$","$Lb",null,{"language":"ts","content":"// env.d.ts\n\nimport type { Models } from \"node-clikkle\";\n\n// See https://kit.svelte.dev/docs/types#app\n// for information about these interfaces\ndeclare global {\n  namespace App {\n    // interface Error {}\n    interface Locals {\n      user: Models.User<Models.Preferences> | undefined;\n    }\n    // interface PageData {}\n    // interface Platform {}\n  }\n}\n\nexport {};\n","children":"// env.d.ts\n\nimport type { Models } from \"node-clikkle\";\n\n// See https://kit.svelte.dev/docs/types#app\n// for information about these interfaces\ndeclare global {\n  namespace App {\n    // interface Error {}\n    interface Locals {\n      user: Models.User<Models.Preferences> | undefined;\n    }\n    // interface PageData {}\n    // interface Platform {}\n  }\n}\n\nexport {};\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now, use the ",["$","code",null,{"children":"locals"}]," object in the home page to redirect based on the user's login status."," ","Create a new file in the ",["$","code",null,{"children":"src/routes"}]," directory called ",["$","code",null,{"children":"+page.server.js"}],":"]}],["$","$Lb",null,{"language":"js","content":"// src/routes/+page.server.js\n\nimport { redirect } from '@sveltejs/kit';\n\nexport async function load({ locals }) {\n  // Access our user from locals.\n  if (!locals.user) {\n    // If no user is logged in, redirect to the sign up page.\n    redirect(301, '/signup');\n  }\n  \n  // If the user is logged in, redirect to the account page.\n  redirect(301, '/account');\n}\n","children":"// src/routes/+page.server.js\n\nimport { redirect } from '@sveltejs/kit';\n\nexport async function load({ locals }) {\n  // Access our user from locals.\n  if (!locals.user) {\n    // If no user is logged in, redirect to the sign up page.\n    redirect(301, '/signup');\n  }\n  \n  // If the user is logged in, redirect to the account page.\n  redirect(301, '/account');\n}\n"}],"$Lc"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When a user visits the home page, they will be redirected to the sign up page if they are not logged in, or to the account page if they are logged in."}]
+f:null

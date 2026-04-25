@@ -1,0 +1,417 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+f:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","advanced","self-hosting","configuration","sites"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","advanced/self-hosting/configuration/sites","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],"$L7","$L8","$L9"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12","$L13","$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+16:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+17:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+18:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+20:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}]
+8:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+9:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L16",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+a:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L17",null,{"children":["$","$L18",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L19",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+1d:[]
+d:"$W1d"
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+23:T1a20,﻿---
+layout: article
+title: Sites
+description: Harness the full power of self-hosted sites with Clikkle. Explore site deployment, management, and integration in your self-hosted environment.
+---
+
+This guide covers how to configure sites in your self-hosted Clikkle instance. For GitHub repository integration with sites, see the [version control configuration](/docs/advanced/self-hosting/configuration/version-control).
+
+# Configure sites runtimes {% #sites %}
+
+Not all site runtimes are enabled by default. Enable the runtimes that you need and disable unused runtimes to save disk space on your server.
+To enable a runtime, add it to the `_APP_SITES_RUNTIMES` environment variable as a comma-separated list.
+
+The three runtimes currently available for Sites are the Static, Node.js 22, and Flutter 3.29 runtimes.
+
+```bash
+_APP_SITES_RUNTIMES=static-1,node-22,flutter-3.29
+```
+
+You can also configure the maximum timeout that can be set on individual Clikkle Sites. The maximum configurable timeout can be increased by changing the `_APP_SITES_TIMEOUT` environment variable. This environment variable changes the configurable maximum but does not alter existing configurations of individual sites.
+
+{% info title="Applying changes" %}
+
+After editing your `docker-compose.yml` or `.env` files, you will need to recreate your Clikkle stack by running the following compose command in your terminal.
+
+```sh
+docker compose up -d
+```
+
+You can verify if the changes have been successfully applied by running this command:
+
+```sh
+docker compose exec clikkle vars
+```
+
+{% /info %}
+
+
+# Add an apex domain for sites {% #root-domain %}
+
+Clikkle allows you to add an apex domain to your instance's configuration that you can publicly expose your Site on.
+
+{% info title="What is an apex domain?" %}
+
+An apex domain, also known as a root domain, is the highest level of a domain name without any subdomains. For example, `myapp.com` is an apex domain, while `clikkle.myapp.com` is a subdomain of the apex domain.
+
+{% /info %}
+
+To add an apex domain, you must first configure either one of the following environment variables in your `.env` file:
+
+- `_APP_DOMAIN_TARGET_A`: Set this to the IPv4 address of your server.
+- `_APP_DOMAIN_TARGET_AAAA`: Set this to the IPv6 address of your server.
+
+Head to the **Domains** tab of your site, and add your apex domain (e.g., `myapp.com`) as a new domain pointed to the active deployment.
+
+Next, head to your DNS provider and create an A or AAAA record for your root domain pointing to the server's IP address. This will allow Clikkle to serve your sites from the apex domain.
+
+{% info title="DNS conflicts" %}
+Make sure to remove any pre-existing `A` and `AAAA` records in the DNS settings of your domain, as these can conflict with your current configuration.
+{% /info %}
+
+# SSL certificates for sites domains {% #ssl-certificates %}
+
+Before setting up SSL certificates, ensure you have configured your DNS settings properly. You'll need to create a CNAME, A, or AAAA record that points your wildcard domain (e.g. `*.sites.clikkle.myapp.com`) to your Clikkle domain.
+
+Clikkle does not handle certificates for sites domains (e.g. `6772722a00331315adc3.sites.clikkle.myapp.com`)
+out of the box, since they require wildcard certificates.
+There are two ways to handle certificate generation.
+
+## Manual certificate generation
+
+The simplest way to generate certificates for domains is to use the Clikkle SSL command.
+
+```bash
+docker compose exec clikkle ssl --domain="6772722a00331315adc3.sites.clikkle.myapp.com"
+```
+
+The certificate should be generated within a few seconds.
+If you encounter any issues, you can check the certificate worker logs.
+
+```bash
+docker compose logs clikkle-worker-certificates
+```
+
+Note that you'll need to run this command for each domain, and repeat it every time you create a new site.
+If you have many sites or frequently create new ones, consider using the automated certificate generation method below.
+
+## Automated certificate generation
+
+For automated certificate generation, Clikkle uses Traefik's DNS Challenge feature.
+This is required for wildcard certificates (like `*.clikkle.myapp.com`)
+because Let's Encrypt uses the DNS-01 challenge to validate wildcard domain ownership.
+
+### Using DNS challenge with DigitalOcean
+
+To configure Traefik for automated certificate generation with DigitalOcean,
+you need to modify your `docker-compose.yml`:
+
+1. Add the following under the `traefik` service's `command` section.
+
+```yaml
+command:
+    # ... existing commands ...
+    - --certificatesresolvers.digitalocean.acme.dnschallenge=true
+    - --certificatesresolvers.digitalocean.acme.dnschallenge.provider=digitalocean
+    - --certificatesresolvers.digitalocean.acme.email=$_APP_SYSTEM_SECURITY_EMAIL_ADDRESS
+    - --certificatesresolvers.digitalocean.acme.storage=/storage/certificates/digitalocean.json
+```
+
+2. Add environment variables under the `traefik` service.
+
+```yaml
+environment:
+    - DO_AUTH_TOKEN=$_APP_DOMAIN_DO_TOKEN
+```
+
+3. Add the following `labels` under the `clikkle` service.
+
+```yaml
+labels:
+    # ... existing labels ...
+    - traefik.http.routers.clikkle_api_https.tls.certresolver=digitalocean
+    - traefik.http.routers.clikkle_api_https.tls.domains[0].main=$_APP_DOMAIN_TARGET_CNAME
+    - traefik.http.routers.clikkle_api_https.tls.domains[0].sans=*.$_APP_DOMAIN_TARGET_CNAME
+```
+
+4. Ensure these environment variables are properly configured in your `.env` file before proceeding:
+    - `_APP_SYSTEM_SECURITY_EMAIL_ADDRESS` must be set to a valid email for Let's Encrypt notifications
+    - `_APP_DOMAIN_SITES` must be correctly set to your site domain (e.g., `sites.example.com`)
+    - `_APP_DOMAIN_DO_TOKEN` must be set to a valid DigitalOcean API token (generate this in the DigitalOcean Console)
+
+5. Apply the changes.
+
+```bash
+docker compose up -d --force-recreate
+```
+
+### Troubleshooting DNS propagation
+
+If certificate generation fails, first check the Traefik logs to identify the specific issue.
+
+```bash
+docker compose logs traefik
+```
+
+A common issue is DNS propagation delays. If the logs show DNS verification failures, you can configure longer timeouts in your `docker-compose.yml` under the `traefik` service.
+
+```yaml
+environment:
+    - DO_AUTH_TOKEN=$_APP_DOMAIN_DO_TOKEN
+    - DO_POLLING_INTERVAL=1m
+    - DO_PROPAGATION_TIMEOUT=1h
+```
+
+{% info title="Rate limits" %}
+Let's Encrypt has strict rate limits for certificate requests. If you encounter rate limit errors in the logs, you may need to wait a few hours before trying again.
+{% /info %}
+
+For other DNS providers, refer to [Traefik's DNS providers documentation](https://doc.traefik.io/traefik/https/acme/#providers).
+
+19:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L22",null,{"markdown":"$23","className":"ml-0"}]}]]}],null,"$L24"]}],"$L25","$L26"]}]}]
+28:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+29:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2a:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+2b:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+4e:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+27:T1a20,﻿---
+layout: article
+title: Sites
+description: Harness the full power of self-hosted sites with Clikkle. Explore site deployment, management, and integration in your self-hosted environment.
+---
+
+This guide covers how to configure sites in your self-hosted Clikkle instance. For GitHub repository integration with sites, see the [version control configuration](/docs/advanced/self-hosting/configuration/version-control).
+
+# Configure sites runtimes {% #sites %}
+
+Not all site runtimes are enabled by default. Enable the runtimes that you need and disable unused runtimes to save disk space on your server.
+To enable a runtime, add it to the `_APP_SITES_RUNTIMES` environment variable as a comma-separated list.
+
+The three runtimes currently available for Sites are the Static, Node.js 22, and Flutter 3.29 runtimes.
+
+```bash
+_APP_SITES_RUNTIMES=static-1,node-22,flutter-3.29
+```
+
+You can also configure the maximum timeout that can be set on individual Clikkle Sites. The maximum configurable timeout can be increased by changing the `_APP_SITES_TIMEOUT` environment variable. This environment variable changes the configurable maximum but does not alter existing configurations of individual sites.
+
+{% info title="Applying changes" %}
+
+After editing your `docker-compose.yml` or `.env` files, you will need to recreate your Clikkle stack by running the following compose command in your terminal.
+
+```sh
+docker compose up -d
+```
+
+You can verify if the changes have been successfully applied by running this command:
+
+```sh
+docker compose exec clikkle vars
+```
+
+{% /info %}
+
+
+# Add an apex domain for sites {% #root-domain %}
+
+Clikkle allows you to add an apex domain to your instance's configuration that you can publicly expose your Site on.
+
+{% info title="What is an apex domain?" %}
+
+An apex domain, also known as a root domain, is the highest level of a domain name without any subdomains. For example, `myapp.com` is an apex domain, while `clikkle.myapp.com` is a subdomain of the apex domain.
+
+{% /info %}
+
+To add an apex domain, you must first configure either one of the following environment variables in your `.env` file:
+
+- `_APP_DOMAIN_TARGET_A`: Set this to the IPv4 address of your server.
+- `_APP_DOMAIN_TARGET_AAAA`: Set this to the IPv6 address of your server.
+
+Head to the **Domains** tab of your site, and add your apex domain (e.g., `myapp.com`) as a new domain pointed to the active deployment.
+
+Next, head to your DNS provider and create an A or AAAA record for your root domain pointing to the server's IP address. This will allow Clikkle to serve your sites from the apex domain.
+
+{% info title="DNS conflicts" %}
+Make sure to remove any pre-existing `A` and `AAAA` records in the DNS settings of your domain, as these can conflict with your current configuration.
+{% /info %}
+
+# SSL certificates for sites domains {% #ssl-certificates %}
+
+Before setting up SSL certificates, ensure you have configured your DNS settings properly. You'll need to create a CNAME, A, or AAAA record that points your wildcard domain (e.g. `*.sites.clikkle.myapp.com`) to your Clikkle domain.
+
+Clikkle does not handle certificates for sites domains (e.g. `6772722a00331315adc3.sites.clikkle.myapp.com`)
+out of the box, since they require wildcard certificates.
+There are two ways to handle certificate generation.
+
+## Manual certificate generation
+
+The simplest way to generate certificates for domains is to use the Clikkle SSL command.
+
+```bash
+docker compose exec clikkle ssl --domain="6772722a00331315adc3.sites.clikkle.myapp.com"
+```
+
+The certificate should be generated within a few seconds.
+If you encounter any issues, you can check the certificate worker logs.
+
+```bash
+docker compose logs clikkle-worker-certificates
+```
+
+Note that you'll need to run this command for each domain, and repeat it every time you create a new site.
+If you have many sites or frequently create new ones, consider using the automated certificate generation method below.
+
+## Automated certificate generation
+
+For automated certificate generation, Clikkle uses Traefik's DNS Challenge feature.
+This is required for wildcard certificates (like `*.clikkle.myapp.com`)
+because Let's Encrypt uses the DNS-01 challenge to validate wildcard domain ownership.
+
+### Using DNS challenge with DigitalOcean
+
+To configure Traefik for automated certificate generation with DigitalOcean,
+you need to modify your `docker-compose.yml`:
+
+1. Add the following under the `traefik` service's `command` section.
+
+```yaml
+command:
+    # ... existing commands ...
+    - --certificatesresolvers.digitalocean.acme.dnschallenge=true
+    - --certificatesresolvers.digitalocean.acme.dnschallenge.provider=digitalocean
+    - --certificatesresolvers.digitalocean.acme.email=$_APP_SYSTEM_SECURITY_EMAIL_ADDRESS
+    - --certificatesresolvers.digitalocean.acme.storage=/storage/certificates/digitalocean.json
+```
+
+2. Add environment variables under the `traefik` service.
+
+```yaml
+environment:
+    - DO_AUTH_TOKEN=$_APP_DOMAIN_DO_TOKEN
+```
+
+3. Add the following `labels` under the `clikkle` service.
+
+```yaml
+labels:
+    # ... existing labels ...
+    - traefik.http.routers.clikkle_api_https.tls.certresolver=digitalocean
+    - traefik.http.routers.clikkle_api_https.tls.domains[0].main=$_APP_DOMAIN_TARGET_CNAME
+    - traefik.http.routers.clikkle_api_https.tls.domains[0].sans=*.$_APP_DOMAIN_TARGET_CNAME
+```
+
+4. Ensure these environment variables are properly configured in your `.env` file before proceeding:
+    - `_APP_SYSTEM_SECURITY_EMAIL_ADDRESS` must be set to a valid email for Let's Encrypt notifications
+    - `_APP_DOMAIN_SITES` must be correctly set to your site domain (e.g., `sites.example.com`)
+    - `_APP_DOMAIN_DO_TOKEN` must be set to a valid DigitalOcean API token (generate this in the DigitalOcean Console)
+
+5. Apply the changes.
+
+```bash
+docker compose up -d --force-recreate
+```
+
+### Troubleshooting DNS propagation
+
+If certificate generation fails, first check the Traefik logs to identify the specific issue.
+
+```bash
+docker compose logs traefik
+```
+
+A common issue is DNS propagation delays. If the logs show DNS verification failures, you can configure longer timeouts in your `docker-compose.yml` under the `traefik` service.
+
+```yaml
+environment:
+    - DO_AUTH_TOKEN=$_APP_DOMAIN_DO_TOKEN
+    - DO_POLLING_INTERVAL=1m
+    - DO_PROPAGATION_TIMEOUT=1h
+```
+
+{% info title="Rate limits" %}
+Let's Encrypt has strict rate limits for certificate requests. If you encounter rate limit errors in the logs, you may need to wait a few hours before trying again.
+{% /info %}
+
+For other DNS providers, refer to [Traefik's DNS providers documentation](https://doc.traefik.io/traefik/https/acme/#providers).
+
+24:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Sites"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L22",null,{"markdown":"$27","className":"ml-0"}]}]]}]
+25:["$","$L28",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L29",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This guide covers how to configure sites in your self-hosted Clikkle instance. For GitHub repository integration with sites, see the ",["$","$L16",null,{"href":"/docs/advanced/self-hosting/configuration/version-control","children":"version control configuration"}],"."]}],["$","$L2a",null,{"id":"sites","level":1,"children":"Configure sites runtimes "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Not all site runtimes are enabled by default. Enable the runtimes that you need and disable unused runtimes to save disk space on your server."," ","To enable a runtime, add it to the ",["$","code",null,{"children":"_APP_SITES_RUNTIMES"}]," environment variable as a comma-separated list."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The three runtimes currently available for Sites are the Static, Node.js 22, and Flutter 3.29 runtimes."}],["$","$L2b",null,{"language":"bash","content":"_APP_SITES_RUNTIMES=static-1,node-22,flutter-3.29\n","children":"_APP_SITES_RUNTIMES=static-1,node-22,flutter-3.29\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also configure the maximum timeout that can be set on individual Clikkle Sites. The maximum configurable timeout can be increased by changing the ",["$","code",null,{"children":"_APP_SITES_TIMEOUT"}]," environment variable. This environment variable changes the configurable maximum but does not alter existing configurations of individual sites."]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Applying changes"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After editing your ",["$","code",null,{"children":"docker-compose.yml"}]," or ",["$","code",null,{"children":".env"}]," files, you will need to recreate your Clikkle stack by running the following compose command in your terminal."]}],["$","$L2b",null,{"language":"sh","content":"docker compose up -d\n","children":"docker compose up -d\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can verify if the changes have been successfully applied by running this command:"}],["$","$L2b",null,{"language":"sh","content":"docker compose exec clikkle vars\n","children":"docker compose exec clikkle vars\n"}]]]}],["$","$L2a",null,{"id":"root-domain","level":1,"children":"Add an apex domain for sites "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle allows you to add an apex domain to your instance's configuration that you can publicly expose your Site on."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"What is an apex domain?"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["An apex domain, also known as a root domain, is the highest level of a domain name without any subdomains. For example, ",["$","code",null,{"children":"myapp.com"}]," is an apex domain, while ",["$","code",null,{"children":"clikkle.myapp.com"}]," is a subdomain of the apex domain."]}]]}],"$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c"]}]}]]}],"$L4d"]}]
+26:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L4e",null,{"items":[{"id":"sites","title":"Configure sites runtimes","level":1},{"id":"root-domain","title":"Add an apex domain for sites","level":1},{"id":"ssl-certificates","title":"SSL certificates for sites domains","level":1},{"id":"manual-certificate-generation","title":"Manual certificate generation","level":2},{"id":"automated-certificate-generation","title":"Automated certificate generation","level":2},{"id":"using-dns-challenge-with-digitalocean","title":"Using DNS challenge with DigitalOcean","level":3},{"id":"troubleshooting-dns-propagation","title":"Troubleshooting DNS propagation","level":3}]}]}]
+4f:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To add an apex domain, you must first configure either one of the following environment variables in your ",["$","code",null,{"children":".env"}]," file:"]}]
+2d:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","code",null,{"children":"_APP_DOMAIN_TARGET_A"}],": Set this to the IPv4 address of your server."]}],["$","li",null,{"children":[["$","code",null,{"children":"_APP_DOMAIN_TARGET_AAAA"}],": Set this to the IPv6 address of your server."]}]]}]
+2e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to the ",["$","strong",null,{"children":"Domains"}]," tab of your site, and add your apex domain (e.g., ",["$","code",null,{"children":"myapp.com"}],") as a new domain pointed to the active deployment."]}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Next, head to your DNS provider and create an A or AAAA record for your root domain pointing to the server's IP address. This will allow Clikkle to serve your sites from the apex domain."}]
+30:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"DNS conflicts"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Make sure to remove any pre-existing ",["$","code",null,{"children":"A"}]," and ",["$","code",null,{"children":"AAAA"}]," records in the DNS settings of your domain, as these can conflict with your current configuration."]}]]}]
+31:["$","$L2a",null,{"id":"ssl-certificates","level":1,"children":"SSL certificates for sites domains "}]
+32:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before setting up SSL certificates, ensure you have configured your DNS settings properly. You'll need to create a CNAME, A, or AAAA record that points your wildcard domain (e.g. ",["$","code",null,{"children":"*.sites.clikkle.myapp.com"}],") to your Clikkle domain."]}]
+33:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle does not handle certificates for sites domains (e.g. ",["$","code",null,{"children":"6772722a00331315adc3.sites.clikkle.myapp.com"}],")"," ","out of the box, since they require wildcard certificates."," ","There are two ways to handle certificate generation."]}]
+34:["$","$L2a",null,{"level":2,"children":"Manual certificate generation"}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The simplest way to generate certificates for domains is to use the Clikkle SSL command."}]
+36:["$","$L2b",null,{"language":"bash","content":"docker compose exec clikkle ssl --domain=\"6772722a00331315adc3.sites.clikkle.myapp.com\"\n","children":"docker compose exec clikkle ssl --domain=\"6772722a00331315adc3.sites.clikkle.myapp.com\"\n"}]
+37:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The certificate should be generated within a few seconds."," ","If you encounter any issues, you can check the certificate worker logs."]}]
+38:["$","$L2b",null,{"language":"bash","content":"docker compose logs clikkle-worker-certificates\n","children":"docker compose logs clikkle-worker-certificates\n"}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Note that you'll need to run this command for each domain, and repeat it every time you create a new site."," ","If you have many sites or frequently create new ones, consider using the automated certificate generation method below."]}]
+3a:["$","$L2a",null,{"level":2,"children":"Automated certificate generation"}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For automated certificate generation, Clikkle uses Traefik's DNS Challenge feature."," ","This is required for wildcard certificates (like ",["$","code",null,{"children":"*.clikkle.myapp.com"}],")"," ","because Let's Encrypt uses the DNS-01 challenge to validate wildcard domain ownership."]}]
+3c:["$","$L2a",null,{"level":3,"children":"Using DNS challenge with DigitalOcean"}]
+3d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To configure Traefik for automated certificate generation with DigitalOcean,"," ","you need to modify your ",["$","code",null,{"children":"docker-compose.yml"}],":"]}]
+3e:["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":["$","li",null,{"children":["Add the following under the ",["$","code",null,{"children":"traefik"}]," service's ",["$","code",null,{"children":"command"}]," section."]}]}]
+3f:["$","$L2b",null,{"language":"yaml","content":"command:\n    # ... existing commands ...\n    - --certificatesresolvers.digitalocean.acme.dnschallenge=true\n    - --certificatesresolvers.digitalocean.acme.dnschallenge.provider=digitalocean\n    - --certificatesresolvers.digitalocean.acme.email=$_APP_SYSTEM_SECURITY_EMAIL_ADDRESS\n    - --certificatesresolvers.digitalocean.acme.storage=/storage/certificates/digitalocean.json\n","children":"command:\n    # ... existing commands ...\n    - --certificatesresolvers.digitalocean.acme.dnschallenge=true\n    - --certificatesresolvers.digitalocean.acme.dnschallenge.provider=digitalocean\n    - --certificatesresolvers.digitalocean.acme.email=$_APP_SYSTEM_SECURITY_EMAIL_ADDRESS\n    - --certificatesresolvers.digitalocean.acme.storage=/storage/certificates/digitalocean.json\n"}]
+40:["$","ol",null,{"className":"web-numeric-list","start":2,"children":["$","li",null,{"children":["Add environment variables under the ",["$","code",null,{"children":"traefik"}]," service."]}]}]
+41:["$","$L2b",null,{"language":"yaml","content":"environment:\n    - DO_AUTH_TOKEN=$_APP_DOMAIN_DO_TOKEN\n","children":"environment:\n    - DO_AUTH_TOKEN=$_APP_DOMAIN_DO_TOKEN\n"}]
+42:["$","ol",null,{"className":"web-numeric-list","start":3,"children":["$","li",null,{"children":["Add the following ",["$","code",null,{"children":"labels"}]," under the ",["$","code",null,{"children":"clikkle"}]," service."]}]}]
+43:["$","$L2b",null,{"language":"yaml","content":"labels:\n    # ... existing labels ...\n    - traefik.http.routers.clikkle_api_https.tls.certresolver=digitalocean\n    - traefik.http.routers.clikkle_api_https.tls.domains[0].main=$_APP_DOMAIN_TARGET_CNAME\n    - traefik.http.routers.clikkle_api_https.tls.domains[0].sans=*.$_APP_DOMAIN_TARGET_CNAME\n","children":"labels:\n    # ... existing labels ...\n    - traefik.http.routers.clikkle_api_https.tls.certresolver=digitalocean\n    - traefik.http.routers.clikkle_api_https.tls.domains[0].main=$_APP_DOMAIN_TARGET_CNAME\n    - traefik.http.routers.clikkle_api_https.tls.domains[0].sans=*.$_APP_DOMAIN_TARGET_CNAME\n"}]
+44:["$","ol",null,{"className":"web-numeric-list","start":4,"children":[["$","li",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Ensure these environment variables are properly configured in your ",["$","code",null,{"children":".env"}]," file before proceeding:"]}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","code",null,{"children":"_APP_SYSTEM_SECURITY_EMAIL_ADDRESS"}]," must be set to a valid email for Let's Encrypt notifications"]}],["$","li",null,{"children":[["$","code",null,{"children":"_APP_DOMAIN_SITES"}]," must be correctly set to your site domain (e.g., ",["$","code",null,{"children":"sites.example.com"}],")"]}],["$","li",null,{"children":[["$","code",null,{"children":"_APP_DOMAIN_DO_TOKEN"}]," must be set to a valid DigitalOcean API token (generate this in the DigitalOcean Console)"]}]]}]]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Apply the changes."}]}]]}]
+45:["$","$L2b",null,{"language":"bash","content":"docker compose up -d --force-recreate\n","children":"docker compose up -d --force-recreate\n"}]
+46:["$","$L2a",null,{"level":3,"children":"Troubleshooting DNS propagation"}]
+47:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If certificate generation fails, first check the Traefik logs to identify the specific issue."}]
+48:["$","$L2b",null,{"language":"bash","content":"docker compose logs traefik\n","children":"docker compose logs traefik\n"}]
+49:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["A common issue is DNS propagation delays. If the logs show DNS verification failures, you can configure longer timeouts in your ",["$","code",null,{"children":"docker-compose.yml"}]," under the ",["$","code",null,{"children":"traefik"}]," service."]}]
+4a:["$","$L2b",null,{"language":"yaml","content":"environment:\n    - DO_AUTH_TOKEN=$_APP_DOMAIN_DO_TOKEN\n    - DO_POLLING_INTERVAL=1m\n    - DO_PROPAGATION_TIMEOUT=1h\n","children":"environment:\n    - DO_AUTH_TOKEN=$_APP_DOMAIN_DO_TOKEN\n    - DO_POLLING_INTERVAL=1m\n    - DO_PROPAGATION_TIMEOUT=1h\n"}]
+4b:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Rate limits"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Let's Encrypt has strict rate limits for certificate requests. If you encounter rate limit errors in the logs, you may need to wait a few hours before trying again."}]]}]
+4c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For other DNS providers, refer to ",["$","a",null,{"href":"https://doc.traefik.io/traefik/https/acme/#providers","target":"_blank","rel":"noopener nofollow","children":"Traefik's DNS providers documentation"}],"."]}]
+4d:["$","$L4f",null,{"date":"$undefined"}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+50:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1c:null
+21:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L50","13",{}]]

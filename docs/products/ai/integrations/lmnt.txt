@@ -1,0 +1,736 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+e:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","ai","integrations","lmnt"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/ai/integrations/lmnt","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}],"$L7","$L8"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf","$L10","$L11","$L12","$L13","$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+15:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+16:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+17:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+19:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+1f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+8:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L15",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+9:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L16",null,{"children":["$","$L17",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L18",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+1c:[]
+c:"$W1c"
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L20"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+21:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+22:T256a,---
+layout: article
+title: Integrating LMNT
+description: Learn how to integrate LMNT into your Clikkle project.
+difficulty: intermediate
+readtime: 15
+---
+
+LMNT is a text-to-speech tool that can generate natural-sounding audio from text. It's an excellent tool for dubbing content, creating audiobooks, or even for accessibility.
+
+Integrating LMNT into your Clikkle project is simple. This tutorial will guide you through setting up the LMNT API and incorporating it into your Clikkle project.
+
+# Prerequisites {% #prerequisites %}
+
+- An Clikkle Project
+- An Clikkle Bucket
+- An [LMNT API Key](https://app.lmnt.com/account)
+
+{% section #step-1 step=1 title="Create new function" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console), click on **Functions** in the left sidebar and click the **Create Function** button.
+
+{% only_dark %}
+![Create function screen](/clikkle/images/docs/functions/dark/template.png)
+{% /only_dark %}
+
+{% only_light %}
+![Create function screen](/clikkle/images/docs/functions/template.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Functions**.
+2. Click **Create function**.
+3. Under **Connect Git repository**, select your provider.
+4. After connecting to GitHub, under **Quick start**, select the **Node.js** starter template.
+5. In the **Variables** step, add `CLIKKLE_BUCKET_ID`, `LMNT_API_KEY`. Generate your LMNT Key [here](https://app.lmnt.com/account). For the `CLIKKLE_API_KEY`, tick the box to **Generate API key on completion**.
+6. Follow the step-by-step wizard and create the Function.
+{% /section %}
+
+{% section #step-2 step=2 title="Add dependencies" %}
+Once the Function is created, please navigate to the freshly created repository and clone it to your local machine.
+
+Install the `lmnt-node` package to make requests to the LMNT API and `node-clikkle` package to upload the generated audio files to Clikkle Storage.
+
+```bash
+npm install lmnt-node node-clikkle
+```
+{% /section %}
+
+{% section #step-3 step=3 title="Create utility functions" %}
+For this example, the Function can take both `GET` and `POST` requests.
+
+For the `GET` request, return a static HTML page with a form to submit text to the API.
+Meanwhile, the `POST` request will send the text to the LMNT API and return the generated audio file.
+
+To begin with, write the code to return the static HTML page. To do this, create a new `src/utils.js` file with the following code:
+
+```js
+import path from 'path';
+import { fileURLToPath } from 'url';
+import fs from 'fs';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const staticFolder = path.join(__dirname, '../static');
+
+export function getStaticFile(fileName) {
+  return fs.readFileSync(path.join(staticFolder, fileName)).toString();
+}
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Handle GET request" %}
+Write the `GET` request handler in the `src/main.js` file. This handler will return a static HTML page, which will be created in the next section.
+
+```js
+import { getStaticFile } from './utils.js';
+
+export default async ({ req, res, error }) => {
+  throwIfMissing(process.env, [
+    "LMNT_API_KEY",
+    "CLIKKLE_API_KEY",
+    "CLIKKLE_BUCKET_ID",
+    "CLIKKLE_FUNCTION_PROJECT_ID"
+  ]);
+
+  if (req.method === 'GET') {
+    return res.text(getStaticFile('index.html'), 200, {
+      'Content-Type': 'text/html; charset=utf-8',
+    });
+  }
+};
+```
+
+A check is also included to ensure that the `LMNT_API_KEY`, `CLIKKLE_API_KEY` and `CLIKKLE_BUCKET_ID` environment variables are set.
+{% /section %}
+
+{% section #step-5 step=5 title="Create web page" %}
+Create an HTML web page that the Function will serve. Create a new file at `static/index.html` with some HTML boilerplate:
+
+```html
+<!doctype html>
+<html lang="en">
+</html>
+```
+
+Within the `<html>` tag, Add a `<head>` tag that will define the style and scripts.
+
+```html
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LMNT Demo</title>
+
+  <script>
+    async function onSubmit(prompt) {
+      const response = await fetch('/', {
+        method: 'POST',
+        body: JSON.stringify({ text: prompt }),
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+
+      const json = await response.json();
+
+      if (!json.ok || json.error) {
+        alert(json.error);
+      }
+
+      return json.response;
+    }
+  </script>
+
+  <script src="//unpkg.com/alpinejs" defer></script>
+
+  <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+  <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
+</head>
+```
+
+And after the `</head>` tag add this `<body>` which will contain the actual form:
+
+```html
+<body>
+  <main class="main-content">
+    <div class="top-cover u-padding-block-end-56">
+      <div class="container">
+        <div
+          class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+        >
+          <h1 class="heading-level-1">LMNT Demo</h1>
+          <code class="u-un-break-text"></code>
+        </div>
+        <p
+          class="body-text-1 u-normal u-margin-block-start-8"
+          style="max-width: 50rem"
+        >
+          Use this page to test your implementation with LMNT. Enter
+          text and receive an audio response.
+        </p>
+      </div>
+    </div>
+    <div
+      class="container u-margin-block-start-negative-56"
+      x-data="{ prompt: '', response: '', loading: false }"
+    >
+      <div class="card u-flex u-gap-24 u-flex-vertical">
+        <div class="u-flex u-cross-center u-gap-8">
+          <div
+            class="input-text-wrapper is-with-end-button u-width-full-line"
+          >
+            <input x-model="prompt" type="search" placeholder="Enter text" />
+            <div class="icon-search" aria-hidden="true"></div>
+          </div>
+
+          <button
+            class="button"
+            x-bind:disabled="loading"
+            x-on:click="async () => { loading = true; response = ''; try { response = await onSubmit(prompt) } catch(err) { console.error(err); } finally { loading = false; } }"
+          >
+            <span class="text">Generate</span>
+          </button>
+        </div>
+        <template x-if="response">
+          <div class="u-flex u-flex-vertical u-gap-12">
+            <div class="u-flex u-flex-vertical u-gap-12 card">
+              <div class="u-flex u-gap-12">
+                <h5 class="eyebrow-heading-2">Output:</h5>
+              </div>
+
+              <div>
+                <audio x-bind:src="response" controls></audio>
+              </div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </div>
+  </main>
+</body>
+```
+
+All of this together will render a form that will submit your text to the Clikkle Function through a `POST` request. The Clikkle function will then call LMNT's API, upload the audio to Clikkle Storage and return the URL, which will be displayed on your page.
+{% /section %}
+
+{% section #step-6 step=6 title="Handle POST Request" %}
+Next, you'll add the methods necessary to integrate with the LMNT API.
+
+Import the `Speech` class from `lmnt-node`, and the required features from the Clikkle Node.js SDK at the top of the `main.js` file.
+
+```js
+import { Client, Storage, ID, Permission, Role } from "node-clikkle";
+import { InputFile } from "node-clikkle/file";
+import Speech from 'lmnt-node';
+```
+
+Next, add code to validate the body of the request and initialize the Clikkle SDK also within `main.js` following the previously added GET handler:
+
+```js
+const endpoint = process.env.CLIKKLE_ENDPOINT ?? "https://<REGION>.cloud.clikkle.io/v1";
+
+const client = new Client()
+  .setEndpoint(endpoint)
+  .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+  .setKey(process.env.CLIKKLE_API_KEY);
+
+if (!req.body.text || typeof req.body.text !== "string") {
+  return res.json({ ok: false, error: "Missing required field `text`" }, 400);
+}
+```
+
+Next, send a request to the LMNT API and store the response:
+
+```js
+const lmnt = new Speech(process.env.LMNT_API_KEY);
+const response = await lmnt.synthesize(req.body.text, 'lily', { format: 'mp3' });
+```
+
+This code will send the prompt to the LMNT API and return the audio as a blob. Additionally, any errors will be caught and reported for easy debugging.
+
+{% /section %}
+
+{% section #step-7 step=7 title="Store Audio in Clikkle Storage" %}
+Store the audio file in Clikkle Storage for easy retrieval later:
+
+```js
+const storage = new Storage(client);
+
+const file = await storage.createFile({
+  bucketId: process.env.CLIKKLE_BUCKET_ID,
+  fileId: ID.unique(),
+  file: InputFile.fromBuffer(new Blob([response.audio]), "audio.mp3"),
+  permissions: [Permission.read(Role.any())],
+});
+```
+
+To show it to the user, parse the download URL from Clikkle and return it in the response:
+
+```js
+const url = `${endpoint}/storage/buckets/${process.env.CLIKKLE_BUCKET_ID}/files/${file.$id}/view?project=${process.env.CLIKKLE_FUNCTION_PROJECT_ID}`;
+
+return res.json({ ok: true, response: url });
+```
+
+This should finish up the Function. Deploy it to Clikkle by pushing it to the git repository created earlier.
+{% /section %}
+
+{% section #step-8 step=8 title="Test the function" %}
+Now that the Function is deployed test it by visiting the function URL in your browser.
+This should show the UI created earlier. To test it, write a prompt and click the submit button. After a brief moment, you should see the audio below the input.
+
+![Testing the function](/clikkle/images/docs/ai/integrations/lmnt/demo.png)
+{% /section %}
+
+18:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L21",null,{"markdown":"$22","className":"ml-0"}]}]]}],"$L23","$L24"]}],"$L25","$L26"]}]}]
+28:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+29:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2a:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+2b:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+35:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+23:["$","ul",null,{"className":"web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50","children":[["$","li",null,{"children":"intermediate"}],["$","li",null,{"className":"text-[var(--color-border-strong)] dark:text-white/25","aria-hidden":true,"children":"•"}],["$","li",null,{"children":[15," min"]}]]}]
+27:T256a,---
+layout: article
+title: Integrating LMNT
+description: Learn how to integrate LMNT into your Clikkle project.
+difficulty: intermediate
+readtime: 15
+---
+
+LMNT is a text-to-speech tool that can generate natural-sounding audio from text. It's an excellent tool for dubbing content, creating audiobooks, or even for accessibility.
+
+Integrating LMNT into your Clikkle project is simple. This tutorial will guide you through setting up the LMNT API and incorporating it into your Clikkle project.
+
+# Prerequisites {% #prerequisites %}
+
+- An Clikkle Project
+- An Clikkle Bucket
+- An [LMNT API Key](https://app.lmnt.com/account)
+
+{% section #step-1 step=1 title="Create new function" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console), click on **Functions** in the left sidebar and click the **Create Function** button.
+
+{% only_dark %}
+![Create function screen](/clikkle/images/docs/functions/dark/template.png)
+{% /only_dark %}
+
+{% only_light %}
+![Create function screen](/clikkle/images/docs/functions/template.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Functions**.
+2. Click **Create function**.
+3. Under **Connect Git repository**, select your provider.
+4. After connecting to GitHub, under **Quick start**, select the **Node.js** starter template.
+5. In the **Variables** step, add `CLIKKLE_BUCKET_ID`, `LMNT_API_KEY`. Generate your LMNT Key [here](https://app.lmnt.com/account). For the `CLIKKLE_API_KEY`, tick the box to **Generate API key on completion**.
+6. Follow the step-by-step wizard and create the Function.
+{% /section %}
+
+{% section #step-2 step=2 title="Add dependencies" %}
+Once the Function is created, please navigate to the freshly created repository and clone it to your local machine.
+
+Install the `lmnt-node` package to make requests to the LMNT API and `node-clikkle` package to upload the generated audio files to Clikkle Storage.
+
+```bash
+npm install lmnt-node node-clikkle
+```
+{% /section %}
+
+{% section #step-3 step=3 title="Create utility functions" %}
+For this example, the Function can take both `GET` and `POST` requests.
+
+For the `GET` request, return a static HTML page with a form to submit text to the API.
+Meanwhile, the `POST` request will send the text to the LMNT API and return the generated audio file.
+
+To begin with, write the code to return the static HTML page. To do this, create a new `src/utils.js` file with the following code:
+
+```js
+import path from 'path';
+import { fileURLToPath } from 'url';
+import fs from 'fs';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const staticFolder = path.join(__dirname, '../static');
+
+export function getStaticFile(fileName) {
+  return fs.readFileSync(path.join(staticFolder, fileName)).toString();
+}
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Handle GET request" %}
+Write the `GET` request handler in the `src/main.js` file. This handler will return a static HTML page, which will be created in the next section.
+
+```js
+import { getStaticFile } from './utils.js';
+
+export default async ({ req, res, error }) => {
+  throwIfMissing(process.env, [
+    "LMNT_API_KEY",
+    "CLIKKLE_API_KEY",
+    "CLIKKLE_BUCKET_ID",
+    "CLIKKLE_FUNCTION_PROJECT_ID"
+  ]);
+
+  if (req.method === 'GET') {
+    return res.text(getStaticFile('index.html'), 200, {
+      'Content-Type': 'text/html; charset=utf-8',
+    });
+  }
+};
+```
+
+A check is also included to ensure that the `LMNT_API_KEY`, `CLIKKLE_API_KEY` and `CLIKKLE_BUCKET_ID` environment variables are set.
+{% /section %}
+
+{% section #step-5 step=5 title="Create web page" %}
+Create an HTML web page that the Function will serve. Create a new file at `static/index.html` with some HTML boilerplate:
+
+```html
+<!doctype html>
+<html lang="en">
+</html>
+```
+
+Within the `<html>` tag, Add a `<head>` tag that will define the style and scripts.
+
+```html
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LMNT Demo</title>
+
+  <script>
+    async function onSubmit(prompt) {
+      const response = await fetch('/', {
+        method: 'POST',
+        body: JSON.stringify({ text: prompt }),
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+
+      const json = await response.json();
+
+      if (!json.ok || json.error) {
+        alert(json.error);
+      }
+
+      return json.response;
+    }
+  </script>
+
+  <script src="//unpkg.com/alpinejs" defer></script>
+
+  <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+  <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
+</head>
+```
+
+And after the `</head>` tag add this `<body>` which will contain the actual form:
+
+```html
+<body>
+  <main class="main-content">
+    <div class="top-cover u-padding-block-end-56">
+      <div class="container">
+        <div
+          class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+        >
+          <h1 class="heading-level-1">LMNT Demo</h1>
+          <code class="u-un-break-text"></code>
+        </div>
+        <p
+          class="body-text-1 u-normal u-margin-block-start-8"
+          style="max-width: 50rem"
+        >
+          Use this page to test your implementation with LMNT. Enter
+          text and receive an audio response.
+        </p>
+      </div>
+    </div>
+    <div
+      class="container u-margin-block-start-negative-56"
+      x-data="{ prompt: '', response: '', loading: false }"
+    >
+      <div class="card u-flex u-gap-24 u-flex-vertical">
+        <div class="u-flex u-cross-center u-gap-8">
+          <div
+            class="input-text-wrapper is-with-end-button u-width-full-line"
+          >
+            <input x-model="prompt" type="search" placeholder="Enter text" />
+            <div class="icon-search" aria-hidden="true"></div>
+          </div>
+
+          <button
+            class="button"
+            x-bind:disabled="loading"
+            x-on:click="async () => { loading = true; response = ''; try { response = await onSubmit(prompt) } catch(err) { console.error(err); } finally { loading = false; } }"
+          >
+            <span class="text">Generate</span>
+          </button>
+        </div>
+        <template x-if="response">
+          <div class="u-flex u-flex-vertical u-gap-12">
+            <div class="u-flex u-flex-vertical u-gap-12 card">
+              <div class="u-flex u-gap-12">
+                <h5 class="eyebrow-heading-2">Output:</h5>
+              </div>
+
+              <div>
+                <audio x-bind:src="response" controls></audio>
+              </div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </div>
+  </main>
+</body>
+```
+
+All of this together will render a form that will submit your text to the Clikkle Function through a `POST` request. The Clikkle function will then call LMNT's API, upload the audio to Clikkle Storage and return the URL, which will be displayed on your page.
+{% /section %}
+
+{% section #step-6 step=6 title="Handle POST Request" %}
+Next, you'll add the methods necessary to integrate with the LMNT API.
+
+Import the `Speech` class from `lmnt-node`, and the required features from the Clikkle Node.js SDK at the top of the `main.js` file.
+
+```js
+import { Client, Storage, ID, Permission, Role } from "node-clikkle";
+import { InputFile } from "node-clikkle/file";
+import Speech from 'lmnt-node';
+```
+
+Next, add code to validate the body of the request and initialize the Clikkle SDK also within `main.js` following the previously added GET handler:
+
+```js
+const endpoint = process.env.CLIKKLE_ENDPOINT ?? "https://<REGION>.cloud.clikkle.io/v1";
+
+const client = new Client()
+  .setEndpoint(endpoint)
+  .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+  .setKey(process.env.CLIKKLE_API_KEY);
+
+if (!req.body.text || typeof req.body.text !== "string") {
+  return res.json({ ok: false, error: "Missing required field `text`" }, 400);
+}
+```
+
+Next, send a request to the LMNT API and store the response:
+
+```js
+const lmnt = new Speech(process.env.LMNT_API_KEY);
+const response = await lmnt.synthesize(req.body.text, 'lily', { format: 'mp3' });
+```
+
+This code will send the prompt to the LMNT API and return the audio as a blob. Additionally, any errors will be caught and reported for easy debugging.
+
+{% /section %}
+
+{% section #step-7 step=7 title="Store Audio in Clikkle Storage" %}
+Store the audio file in Clikkle Storage for easy retrieval later:
+
+```js
+const storage = new Storage(client);
+
+const file = await storage.createFile({
+  bucketId: process.env.CLIKKLE_BUCKET_ID,
+  fileId: ID.unique(),
+  file: InputFile.fromBuffer(new Blob([response.audio]), "audio.mp3"),
+  permissions: [Permission.read(Role.any())],
+});
+```
+
+To show it to the user, parse the download URL from Clikkle and return it in the response:
+
+```js
+const url = `${endpoint}/storage/buckets/${process.env.CLIKKLE_BUCKET_ID}/files/${file.$id}/view?project=${process.env.CLIKKLE_FUNCTION_PROJECT_ID}`;
+
+return res.json({ ok: true, response: url });
+```
+
+This should finish up the Function. Deploy it to Clikkle by pushing it to the git repository created earlier.
+{% /section %}
+
+{% section #step-8 step=8 title="Test the function" %}
+Now that the Function is deployed test it by visiting the function URL in your browser.
+This should show the UI created earlier. To test it, write a prompt and click the submit button. After a brief moment, you should see the audio below the input.
+
+![Testing the function](/clikkle/images/docs/ai/integrations/lmnt/demo.png)
+{% /section %}
+
+24:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Integrating LMNT"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L21",null,{"markdown":"$27","className":"ml-0"}]}]]}]
+25:["$","$L28",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L29",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"LMNT is a text-to-speech tool that can generate natural-sounding audio from text. It's an excellent tool for dubbing content, creating audiobooks, or even for accessibility."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Integrating LMNT into your Clikkle project is simple. This tutorial will guide you through setting up the LMNT API and incorporating it into your Clikkle project."}],["$","$L2a",null,{"id":"prerequisites","level":1,"children":"Prerequisites "}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"An Clikkle Project"}],["$","li",null,{"children":"An Clikkle Bucket"}],["$","li",null,{"children":["An ",["$","a",null,{"href":"https://app.lmnt.com/account","target":"_blank","rel":"noopener nofollow","children":"LMNT API Key"}]]}]]}],["$","$L2b",null,{"id":"step-1","step":1,"title":"Create new function","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to the ",["$","a",null,{"href":"https://cloud.clikkle.io/console","target":"$undefined","rel":"$undefined","children":"Clikkle Console"}],", click on ",["$","strong",null,{"children":"Functions"}]," in the left sidebar and click the ",["$","strong",null,{"children":"Create Function"}]," button."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/functions/dark/template.png","alt":"Create function screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/functions/template.png","alt":"Create function screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["In the Clikkle Console's sidebar, click ",["$","strong",null,{"children":"Functions"}],"."]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Create function"}],"."]}],["$","li",null,{"children":["Under ",["$","strong",null,{"children":"Connect Git repository"}],", select your provider."]}],["$","li",null,{"children":["After connecting to GitHub, under ",["$","strong",null,{"children":"Quick start"}],", select the ",["$","strong",null,{"children":"Node.js"}]," starter template."]}],["$","li",null,{"children":["In the ",["$","strong",null,{"children":"Variables"}]," step, add ",["$","code",null,{"children":"CLIKKLE_BUCKET_ID"}],", ",["$","code",null,{"children":"LMNT_API_KEY"}],". Generate your LMNT Key ",["$","a",null,{"href":"https://app.lmnt.com/account","target":"_blank","rel":"noopener nofollow","children":"here"}],". For the ",["$","code",null,{"children":"CLIKKLE_API_KEY"}],", tick the box to ",["$","strong",null,{"children":"Generate API key on completion"}],"."]}],["$","li",null,{"children":"Follow the step-by-step wizard and create the Function."}]]}]]}],["$","$L2b",null,{"id":"step-2","step":2,"title":"Add dependencies","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Once the Function is created, please navigate to the freshly created repository and clone it to your local machine."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Install the ",["$","code",null,{"children":"lmnt-node"}]," package to make requests to the LMNT API and ","$L2c"," package to upload the generated audio files to Clikkle Storage."]}],"$L2d"]}],"$L2e","$L2f","$L30","$L31","$L32","$L33"]}]}]]}],"$L34"]}]
+26:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L35",null,{"items":[{"id":"prerequisites","title":"Prerequisites","level":1},{"id":"step-1","title":"Create new function","level":2},{"id":"step-2","title":"Add dependencies","level":2},{"id":"step-3","title":"Create utility functions","level":2},{"id":"step-4","title":"Handle GET request","level":2},{"id":"step-5","title":"Create web page","level":2},{"id":"step-6","title":"Handle POST Request","level":2},{"id":"step-7","title":"Store Audio in Clikkle Storage","level":2},{"id":"step-8","title":"Test the function","level":2}]}]}]
+36:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+3a:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2c:["$","code",null,{"children":"node-clikkle"}]
+2d:["$","$L36",null,{"language":"bash","content":"npm install lmnt-node node-clikkle\n","children":"npm install lmnt-node node-clikkle\n"}]
+2e:["$","$L2b",null,{"id":"step-3","step":3,"title":"Create utility functions","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For this example, the Function can take both ",["$","code",null,{"children":"GET"}]," and ",["$","code",null,{"children":"POST"}]," requests."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For the ",["$","code",null,{"children":"GET"}]," request, return a static HTML page with a form to submit text to the API."," ","Meanwhile, the ",["$","code",null,{"children":"POST"}]," request will send the text to the LMNT API and return the generated audio file."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To begin with, write the code to return the static HTML page. To do this, create a new ",["$","code",null,{"children":"src/utils.js"}]," file with the following code:"]}],["$","$L36",null,{"language":"js","content":"import path from 'path';\nimport { fileURLToPath } from 'url';\nimport fs from 'fs';\n\nconst __filename = fileURLToPath(import.meta.url);\nconst __dirname = path.dirname(__filename);\nconst staticFolder = path.join(__dirname, '../static');\n\nexport function getStaticFile(fileName) {\n  return fs.readFileSync(path.join(staticFolder, fileName)).toString();\n}\n","children":"import path from 'path';\nimport { fileURLToPath } from 'url';\nimport fs from 'fs';\n\nconst __filename = fileURLToPath(import.meta.url);\nconst __dirname = path.dirname(__filename);\nconst staticFolder = path.join(__dirname, '../static');\n\nexport function getStaticFile(fileName) {\n  return fs.readFileSync(path.join(staticFolder, fileName)).toString();\n}\n"}]]}]
+2f:["$","$L2b",null,{"id":"step-4","step":4,"title":"Handle GET request","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Write the ",["$","code",null,{"children":"GET"}]," request handler in the ",["$","code",null,{"children":"src/main.js"}]," file. This handler will return a static HTML page, which will be created in the next section."]}],["$","$L36",null,{"language":"js","content":"import { getStaticFile } from './utils.js';\n\nexport default async ({ req, res, error }) => {\n  throwIfMissing(process.env, [\n    \"LMNT_API_KEY\",\n    \"CLIKKLE_API_KEY\",\n    \"CLIKKLE_BUCKET_ID\",\n    \"CLIKKLE_FUNCTION_PROJECT_ID\"\n  ]);\n\n  if (req.method === 'GET') {\n    return res.text(getStaticFile('index.html'), 200, {\n      'Content-Type': 'text/html; charset=utf-8',\n    });\n  }\n};\n","children":"import { getStaticFile } from './utils.js';\n\nexport default async ({ req, res, error }) => {\n  throwIfMissing(process.env, [\n    \"LMNT_API_KEY\",\n    \"CLIKKLE_API_KEY\",\n    \"CLIKKLE_BUCKET_ID\",\n    \"CLIKKLE_FUNCTION_PROJECT_ID\"\n  ]);\n\n  if (req.method === 'GET') {\n    return res.text(getStaticFile('index.html'), 200, {\n      'Content-Type': 'text/html; charset=utf-8',\n    });\n  }\n};\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["A check is also included to ensure that the ",["$","code",null,{"children":"LMNT_API_KEY"}],", ",["$","code",null,{"children":"CLIKKLE_API_KEY"}]," and ",["$","code",null,{"children":"CLIKKLE_BUCKET_ID"}]," environment variables are set."]}]]}]
+37:T79a,<body>
+  <main class="main-content">
+    <div class="top-cover u-padding-block-end-56">
+      <div class="container">
+        <div
+          class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+        >
+          <h1 class="heading-level-1">LMNT Demo</h1>
+          <code class="u-un-break-text"></code>
+        </div>
+        <p
+          class="body-text-1 u-normal u-margin-block-start-8"
+          style="max-width: 50rem"
+        >
+          Use this page to test your implementation with LMNT. Enter
+          text and receive an audio response.
+        </p>
+      </div>
+    </div>
+    <div
+      class="container u-margin-block-start-negative-56"
+      x-data="{ prompt: '', response: '', loading: false }"
+    >
+      <div class="card u-flex u-gap-24 u-flex-vertical">
+        <div class="u-flex u-cross-center u-gap-8">
+          <div
+            class="input-text-wrapper is-with-end-button u-width-full-line"
+          >
+            <input x-model="prompt" type="search" placeholder="Enter text" />
+            <div class="icon-search" aria-hidden="true"></div>
+          </div>
+
+          <button
+            class="button"
+            x-bind:disabled="loading"
+            x-on:click="async () => { loading = true; response = ''; try { response = await onSubmit(prompt) } catch(err) { console.error(err); } finally { loading = false; } }"
+          >
+            <span class="text">Generate</span>
+          </button>
+        </div>
+        <template x-if="response">
+          <div class="u-flex u-flex-vertical u-gap-12">
+            <div class="u-flex u-flex-vertical u-gap-12 card">
+              <div class="u-flex u-gap-12">
+                <h5 class="eyebrow-heading-2">Output:</h5>
+              </div>
+
+              <div>
+                <audio x-bind:src="response" controls></audio>
+              </div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </div>
+  </main>
+</body>
+38:T79a,<body>
+  <main class="main-content">
+    <div class="top-cover u-padding-block-end-56">
+      <div class="container">
+        <div
+          class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+        >
+          <h1 class="heading-level-1">LMNT Demo</h1>
+          <code class="u-un-break-text"></code>
+        </div>
+        <p
+          class="body-text-1 u-normal u-margin-block-start-8"
+          style="max-width: 50rem"
+        >
+          Use this page to test your implementation with LMNT. Enter
+          text and receive an audio response.
+        </p>
+      </div>
+    </div>
+    <div
+      class="container u-margin-block-start-negative-56"
+      x-data="{ prompt: '', response: '', loading: false }"
+    >
+      <div class="card u-flex u-gap-24 u-flex-vertical">
+        <div class="u-flex u-cross-center u-gap-8">
+          <div
+            class="input-text-wrapper is-with-end-button u-width-full-line"
+          >
+            <input x-model="prompt" type="search" placeholder="Enter text" />
+            <div class="icon-search" aria-hidden="true"></div>
+          </div>
+
+          <button
+            class="button"
+            x-bind:disabled="loading"
+            x-on:click="async () => { loading = true; response = ''; try { response = await onSubmit(prompt) } catch(err) { console.error(err); } finally { loading = false; } }"
+          >
+            <span class="text">Generate</span>
+          </button>
+        </div>
+        <template x-if="response">
+          <div class="u-flex u-flex-vertical u-gap-12">
+            <div class="u-flex u-flex-vertical u-gap-12 card">
+              <div class="u-flex u-gap-12">
+                <h5 class="eyebrow-heading-2">Output:</h5>
+              </div>
+
+              <div>
+                <audio x-bind:src="response" controls></audio>
+              </div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </div>
+  </main>
+</body>
+30:["$","$L2b",null,{"id":"step-5","step":5,"title":"Create web page","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create an HTML web page that the Function will serve. Create a new file at ",["$","code",null,{"children":"static/index.html"}]," with some HTML boilerplate:"]}],["$","$L36",null,{"language":"html","content":"<!doctype html>\n<html lang=\"en\">\n</html>\n","children":"<!doctype html>\n<html lang=\"en\">\n</html>\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Within the ",["$","code",null,{"children":"<html>"}]," tag, Add a ",["$","code",null,{"children":"<head>"}]," tag that will define the style and scripts."]}],["$","$L36",null,{"language":"html","content":"<head>\n  <meta charset=\"UTF-8\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>LMNT Demo</title>\n\n  <script>\n    async function onSubmit(prompt) {\n      const response = await fetch('/', {\n        method: 'POST',\n        body: JSON.stringify({ text: prompt }),\n        headers: {\n          'Content-Type': 'application/json',\n        },\n      });\n\n      const json = await response.json();\n\n      if (!json.ok || json.error) {\n        alert(json.error);\n      }\n\n      return json.response;\n    }\n  </script>\n\n  <script src=\"//unpkg.com/alpinejs\" defer></script>\n\n  <link rel=\"stylesheet\" href=\"https://unpkg.com/@clikkle.io/pink\" />\n  <link rel=\"stylesheet\" href=\"https://unpkg.com/@clikkle.io/pink-icons\" />\n</head>\n","children":"<head>\n  <meta charset=\"UTF-8\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>LMNT Demo</title>\n\n  <script>\n    async function onSubmit(prompt) {\n      const response = await fetch('/', {\n        method: 'POST',\n        body: JSON.stringify({ text: prompt }),\n        headers: {\n          'Content-Type': 'application/json',\n        },\n      });\n\n      const json = await response.json();\n\n      if (!json.ok || json.error) {\n        alert(json.error);\n      }\n\n      return json.response;\n    }\n  </script>\n\n  <script src=\"//unpkg.com/alpinejs\" defer></script>\n\n  <link rel=\"stylesheet\" href=\"https://unpkg.com/@clikkle.io/pink\" />\n  <link rel=\"stylesheet\" href=\"https://unpkg.com/@clikkle.io/pink-icons\" />\n</head>\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["And after the ",["$","code",null,{"children":"</head>"}]," tag add this ",["$","code",null,{"children":"<body>"}]," which will contain the actual form:"]}],["$","$L36",null,{"language":"html","content":"$37","children":"$38"}],"$L39"]}]
+31:["$","$L2b",null,{"id":"step-6","step":6,"title":"Handle POST Request","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Next, you'll add the methods necessary to integrate with the LMNT API."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Import the ",["$","code",null,{"children":"Speech"}]," class from ",["$","code",null,{"children":"lmnt-node"}],", and the required features from the Clikkle Node.js SDK at the top of the ",["$","code",null,{"children":"main.js"}]," file."]}],["$","$L36",null,{"language":"js","content":"import { Client, Storage, ID, Permission, Role } from \"node-clikkle\";\nimport { InputFile } from \"node-clikkle/file\";\nimport Speech from 'lmnt-node';\n","children":"import { Client, Storage, ID, Permission, Role } from \"node-clikkle\";\nimport { InputFile } from \"node-clikkle/file\";\nimport Speech from 'lmnt-node';\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Next, add code to validate the body of the request and initialize the Clikkle SDK also within ",["$","code",null,{"children":"main.js"}]," following the previously added GET handler:"]}],["$","$L36",null,{"language":"js","content":"const endpoint = process.env.CLIKKLE_ENDPOINT ?? \"https://<REGION>.cloud.clikkle.io/v1\";\n\nconst client = new Client()\n  .setEndpoint(endpoint)\n  .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)\n  .setKey(process.env.CLIKKLE_API_KEY);\n\nif (!req.body.text || typeof req.body.text !== \"string\") {\n  return res.json({ ok: false, error: \"Missing required field `text`\" }, 400);\n}\n","children":"const endpoint = process.env.CLIKKLE_ENDPOINT ?? \"https://<REGION>.cloud.clikkle.io/v1\";\n\nconst client = new Client()\n  .setEndpoint(endpoint)\n  .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)\n  .setKey(process.env.CLIKKLE_API_KEY);\n\nif (!req.body.text || typeof req.body.text !== \"string\") {\n  return res.json({ ok: false, error: \"Missing required field `text`\" }, 400);\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Next, send a request to the LMNT API and store the response:"}],["$","$L36",null,{"language":"js","content":"const lmnt = new Speech(process.env.LMNT_API_KEY);\nconst response = await lmnt.synthesize(req.body.text, 'lily', { format: 'mp3' });\n","children":"const lmnt = new Speech(process.env.LMNT_API_KEY);\nconst response = await lmnt.synthesize(req.body.text, 'lily', { format: 'mp3' });\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This code will send the prompt to the LMNT API and return the audio as a blob. Additionally, any errors will be caught and reported for easy debugging."}]]}]
+32:["$","$L2b",null,{"id":"step-7","step":7,"title":"Store Audio in Clikkle Storage","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Store the audio file in Clikkle Storage for easy retrieval later:"}],["$","$L36",null,{"language":"js","content":"const storage = new Storage(client);\n\nconst file = await storage.createFile({\n  bucketId: process.env.CLIKKLE_BUCKET_ID,\n  fileId: ID.unique(),\n  file: InputFile.fromBuffer(new Blob([response.audio]), \"audio.mp3\"),\n  permissions: [Permission.read(Role.any())],\n});\n","children":"const storage = new Storage(client);\n\nconst file = await storage.createFile({\n  bucketId: process.env.CLIKKLE_BUCKET_ID,\n  fileId: ID.unique(),\n  file: InputFile.fromBuffer(new Blob([response.audio]), \"audio.mp3\"),\n  permissions: [Permission.read(Role.any())],\n});\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To show it to the user, parse the download URL from Clikkle and return it in the response:"}],["$","$L36",null,{"language":"js","content":"const url = `${endpoint}/storage/buckets/${process.env.CLIKKLE_BUCKET_ID}/files/${file.$id}/view?project=${process.env.CLIKKLE_FUNCTION_PROJECT_ID}`;\n\nreturn res.json({ ok: true, response: url });\n","children":"const url = `${endpoint}/storage/buckets/${process.env.CLIKKLE_BUCKET_ID}/files/${file.$id}/view?project=${process.env.CLIKKLE_FUNCTION_PROJECT_ID}`;\n\nreturn res.json({ ok: true, response: url });\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This should finish up the Function. Deploy it to Clikkle by pushing it to the git repository created earlier."}]]}]
+33:["$","$L2b",null,{"id":"step-8","step":8,"title":"Test the function","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now that the Function is deployed test it by visiting the function URL in your browser."," ","This should show the UI created earlier. To test it, write a prompt and click the submit button. After a brief moment, you should see the audio below the input."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/ai/integrations/lmnt/demo.png","alt":"Testing the function","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]]}]
+34:["$","$L3a",null,{"date":"$undefined"}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["All of this together will render a form that will submit your text to the Clikkle Function through a ",["$","code",null,{"children":"POST"}]," request. The Clikkle function will then call LMNT's API, upload the audio to Clikkle Storage and return the URL, which will be displayed on your page."]}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+3b:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1b:null
+20:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L3b","13",{}]]

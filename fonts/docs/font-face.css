@@ -1,0 +1,15 @@
+/* Loaded via <link> so urls stay relative to this file (/clikkle/fonts/docs/…). */
+@font-face {
+  font-family: "icon";
+  font-display: swap;
+  src: url("icon.woff2") format("woff2"), url("icon.woff") format("woff"),
+    url("icon.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "web-icon";
+  font-display: swap;
+  src: url("web-icon.woff2") format("woff2"),
+    url("web-icon.woff") format("woff"),
+    url("web-icon.ttf") format("truetype");
+}

@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+14:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+15:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+19:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1a:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:Td5f,---
+layout: article
+title: Dev keys
+description: Bypass Clikkle rate limits and CORS errors in your development environment with Clikkle Dev keys.
+---
+
+Dev keys are secrets used by Clikkle [Client SDKs](/docs/sdks#client) to avoid abuse limits in testing. They are meant to be used specifically in development environments, where they hold several developer experience-related benefits:
+
+- Clikkle rate limits and CORS errors are bypassed
+- Configurable expiration date with 1 day, 7 days, and 30 day options
+
+This is highly beneficial in scenarios where you are repeatedly sending the same requests to Clikkle in a short period of time, such as manual or E2E testing and checks in your CI/CD pipeline.
+
+{% info title="Important note" %}
+Dev keys should never be used in production environments, only in development environments, as they can make your app more susceptible to abuse and security breaches.
+{% /info %}
+
+# Dev keys vs API keys {% #dev-keys-vs-api-keys %}
+
+Dev keys and [API keys](/docs/advanced/platform/api-keys) are not the same and cannot be used interchangeably.
+
+Dev keys are specifically designed to help you avoid abuse limits and CORS errors in test environments, making them ideal for development and testing workflows. API keys, on the other hand, permit usage of Clikkle services in production environments with fine-grained scope control.
+
+Dev keys are for client SDKs in development environments, while API keys are for server SDKs and the CLI in production environments.
+
+# Create dev key {% #create-dev-key %}
+
+To create a new dev key, navigate to **Overview** > **Integrations** > **Dev keys** and click **Create Dev key**.
+
+{% only_dark %}
+![Create dev key](/clikkle/images/docs/dev-keys/dark.png)
+{% /only_dark %}
+{% only_light %}
+![Create dev key](/clikkle/images/docs/dev-keys/light.png)
+{% /only_light %}
+
+You can then implement the dev key while initializing the Clikkle client in your app.
+
+{% multicode %}
+```client-web
+import { Client } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-react-native
+import { Client } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>") // Your dev key
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+
+val client = Client(context)
+    .setEndpoint("https://cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>") // Your dev key
+```
+
+```client-android-java
+import io.clikkle.Client;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>"); // Your dev key
+```
+{% /multicode %}
+
+If you need to replace your dev key, create a new key, update your app credentials and, once ready, delete your old key.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:Td5f,---
+layout: article
+title: Dev keys
+description: Bypass Clikkle rate limits and CORS errors in your development environment with Clikkle Dev keys.
+---
+
+Dev keys are secrets used by Clikkle [Client SDKs](/docs/sdks#client) to avoid abuse limits in testing. They are meant to be used specifically in development environments, where they hold several developer experience-related benefits:
+
+- Clikkle rate limits and CORS errors are bypassed
+- Configurable expiration date with 1 day, 7 days, and 30 day options
+
+This is highly beneficial in scenarios where you are repeatedly sending the same requests to Clikkle in a short period of time, such as manual or E2E testing and checks in your CI/CD pipeline.
+
+{% info title="Important note" %}
+Dev keys should never be used in production environments, only in development environments, as they can make your app more susceptible to abuse and security breaches.
+{% /info %}
+
+# Dev keys vs API keys {% #dev-keys-vs-api-keys %}
+
+Dev keys and [API keys](/docs/advanced/platform/api-keys) are not the same and cannot be used interchangeably.
+
+Dev keys are specifically designed to help you avoid abuse limits and CORS errors in test environments, making them ideal for development and testing workflows. API keys, on the other hand, permit usage of Clikkle services in production environments with fine-grained scope control.
+
+Dev keys are for client SDKs in development environments, while API keys are for server SDKs and the CLI in production environments.
+
+# Create dev key {% #create-dev-key %}
+
+To create a new dev key, navigate to **Overview** > **Integrations** > **Dev keys** and click **Create Dev key**.
+
+{% only_dark %}
+![Create dev key](/clikkle/images/docs/dev-keys/dark.png)
+{% /only_dark %}
+{% only_light %}
+![Create dev key](/clikkle/images/docs/dev-keys/light.png)
+{% /only_light %}
+
+You can then implement the dev key while initializing the Clikkle client in your app.
+
+{% multicode %}
+```client-web
+import { Client } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-react-native
+import { Client } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>") // Your dev key
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+
+val client = Client(context)
+    .setEndpoint("https://cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>") // Your dev key
+```
+
+```client-android-java
+import io.clikkle.Client;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>"); // Your dev key
+```
+{% /multicode %}
+
+If you need to replace your dev key, create a new key, update your app credentials and, once ready, delete your old key.
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Dev keys"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Dev keys are secrets used by Clikkle ",["$","$Le",null,{"href":"/docs/sdks#client","children":"Client SDKs"}]," to avoid abuse limits in testing. They are meant to be used specifically in development environments, where they hold several developer experience-related benefits:"]}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Clikkle rate limits and CORS errors are bypassed"}],["$","li",null,{"children":"Configurable expiration date with 1 day, 7 days, and 30 day options"}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This is highly beneficial in scenarios where you are repeatedly sending the same requests to Clikkle in a short period of time, such as manual or E2E testing and checks in your CI/CD pipeline."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Important note"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Dev keys should never be used in production environments, only in development environments, as they can make your app more susceptible to abuse and security breaches."}]]}],["$","$Lf",null,{"id":"dev-keys-vs-api-keys","level":1,"children":"Dev keys vs API keys "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Dev keys and ",["$","$Le",null,{"href":"/docs/advanced/platform/api-keys","children":"API keys"}]," are not the same and cannot be used interchangeably."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Dev keys are specifically designed to help you avoid abuse limits and CORS errors in test environments, making them ideal for development and testing workflows. API keys, on the other hand, permit usage of Clikkle services in production environments with fine-grained scope control."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Dev keys are for client SDKs in development environments, while API keys are for server SDKs and the CLI in production environments."}],["$","$Lf",null,{"id":"create-dev-key","level":1,"children":"Create dev key "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To create a new dev key, navigate to ",["$","strong",null,{"children":"Overview"}]," > ",["$","strong",null,{"children":"Integrations"}]," > ",["$","strong",null,{"children":"Dev keys"}]," and click ",["$","strong",null,{"children":"Create Dev key"}],"."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/dev-keys/dark.png","alt":"Create dev key","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/dev-keys/light.png","alt":"Create dev key","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],"$L10","$L11","$L12"]}]}]]}],"$L13"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L14",null,{"items":[{"id":"dev-keys-vs-api-keys","title":"Dev keys vs API keys","level":1},{"id":"create-dev-key","title":"Create dev key","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+10:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can then implement the dev key while initializing the Clikkle client in your app."}]
+11:["$","$L18",null,{"children":[["$","$L19",null,{"language":"client-web","content":"import { Client } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key\n","children":"import { Client } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key\n"}],["$","$L19",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key\n","children":"import 'package:clikkle/clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key\n"}],["$","$L19",null,{"language":"client-react-native","content":"import { Client } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key\n","children":"import { Client } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key\n"}],["$","$L19",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setDevKey(\"<YOUR_DEV_KEY>\") // Your dev key\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setDevKey(\"<YOUR_DEV_KEY>\") // Your dev key\n"}],["$","$L19",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\n\nval client = Client(context)\n    .setEndpoint(\"https://cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setDevKey(\"<YOUR_DEV_KEY>\") // Your dev key\n","children":"import io.clikkle.Client\n\nval client = Client(context)\n    .setEndpoint(\"https://cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setDevKey(\"<YOUR_DEV_KEY>\") // Your dev key\n"}],["$","$L19",null,{"language":"client-android-java","content":"import io.clikkle.Client;\n\nClient client = new Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setDevKey(\"<YOUR_DEV_KEY>\"); // Your dev key\n","children":"import io.clikkle.Client;\n\nClient client = new Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setDevKey(\"<YOUR_DEV_KEY>\"); // Your dev key\n"}]]}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you need to replace your dev key, create a new key, update your app credentials and, once ready, delete your old key."}]
+13:["$","$L1a",null,{}]
+17:null

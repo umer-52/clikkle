@@ -1,0 +1,2067 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+e:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+3d:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+3e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+3f:"$Sreact.suspense"
+43:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+44:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+52:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T619e,---
+layout: article
+title: Rows
+description: Master row management with Clikkle Databases. Learn how to create, update, upsert, and query rows within your tables for dynamic data storage.
+---
+Each piece of data or information in Clikkle Databases is a row.
+Rows have a structure defined by the parent table.
+
+# Create rows {% #create-rows %}
+{% info title="Permissions required" %}
+You must grant _create_ permissions to users at the _table level_ before users can create rows.
+[Learn more about permissions](#permissions)
+{% /info %}
+
+In most use cases, you will create rows programmatically.
+
+{% multicode %}
+```client-web
+import { Client, ID, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.createRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: ID.unique(),
+    data: {}
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final row = tablesDB.createRow(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            rowId: ID.unique(),
+            data: {}
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let row = try await tablesDB.createRow(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            rowId: ID.unique(),
+            data: [:]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val row = tablesDB.createRow(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            rowId = ID.unique(),
+            data = mapOf("a" to "b"),
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+```graphql
+mutation {
+    tablesCreateRow(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        data: "{}"
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+During testing, you might prefer to create rows in the Clikkle Console.
+To do so, navigate to the **Rows** tab of your table and click the **Add row** button.
+
+# List rows {% #list-rows %}
+
+{% info title="Permissions required" %}
+You must grant _read_ permissions to users at the _table level_ before users can read rows.
+[Learn more about permissions](#permissions)
+{% /info %}
+
+Rows can be retrieved using the [List rows](/docs/references/cloud/client-web/tables#listRows) endpoint.
+
+Results can be filtered, sorted, and paginated using Clikkle's shared set of query methods.
+You can find a full guide on querying in the [Queries Guide](/docs/products/databases/queries).
+
+By default, results are limited to the _first 25 items_.
+You can change this through [pagination](/docs/products/databases/pagination).
+
+{% info title="Speed up lists by skipping totals" %}
+If your UI doesn't need an exact total, set the `total` flag to `false` on list calls. The response keeps the same shape and sets `total` to `0`.
+This reduces latency for large tables and filtered queries. Learn more in [Pagination: Skip totals](/docs/products/databases/pagination#skip-totals).
+{% /info %}
+
+{% multicode %}
+```client-web
+import { Client, Query, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+const tablesDB = new TablesDB(client);
+
+let promise = tablesDB.listRows({
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    queries: [
+        Query.equal('title', 'Avatar')
+    ]
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final rows = await tablesDB.listRows(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            queries: [
+                Query.equal('title', 'Avatar')
+            ]
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let rows = try await tablesDB.listRows(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            queries: [
+                Query.equal("title", value: "Avatar")
+            ]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val rows = tablesDB.listRows(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            queries = listOf(
+                Query.equal("title", "Avatar")
+            )
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+```graphql
+query {
+    tablesListRows(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        queries: ["equal(\"title\", [\"Avatar\"])"]
+    ) {
+        total
+        rows {
+            _id
+            data
+        }
+    }
+}
+```
+{% /multicode %}
+
+# Update row {% #update-row %}
+{% info title="Permissions required" %}
+You must grant _update_ permissions to users at the _table level_ or _row level_ before users can update rows.
+[Learn more about permissions](#permissions)
+{% /info %}
+
+In most use cases, you will update rows programmatically.
+
+{% multicode %}
+```client-web
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.updateRow(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    { title: 'Updated Title' }
+);
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final row = await tablesDB.updateRow(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            rowId: '<ROW_ID>',
+            data: { 'title': 'Updated Title' }
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let row = try await tablesDB.updateRow(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            rowId: "<ROW_ID>",
+            data: ["title": "Updated Title"]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val row = tablesDB.updateRow(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            rowId = "<ROW_ID>",
+            data = mapOf("title" to "Updated Title"),
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```graphql
+mutation {
+    tablesDBUpdateRow(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        data: "{\"title\": \"Updated Title\"}"
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+# Upsert rows {% #upsert-rows %}
+
+Upsert is a combination of "update" and "insert" operations. It creates a new row if one doesn't exist with the given ID, or updates an existing row if it does exist.
+
+In most use cases, you will upsert rows programmatically.
+
+{% info title="Permissions required" %}
+You must grant _create_ permissions to users at the _table level_, and _update_ permissions to users at the _table_ or _row_ level before users can upsert rows.
+[Learn more about permissions](#permissions)
+{% /info %}
+{% multicode %}
+```client-web
+import { Client, ID, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.upsertRow(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    ID.unique(),
+    {}
+);
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final row = tablesDB.upsertRow(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            rowId: ID.unique(),
+            data: {}
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let row = try await tablesDB.upsertRow(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            rowId: ID.unique(),
+            data: [:]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val row = tablesDB.upsertRow(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            rowId = ID.unique(),
+            data = mapOf("a" to "b"),
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+```graphql
+mutation {
+    tablesUpsertRow(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        data: "{}"
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+# Type safety with models {% #type-safety %}
+
+Mobile and native SDKs provide type safety when working with rows through the `nestedType` parameter. This allows you to specify custom model types for complete auto-completion and type safety.
+
+## Define your model
+
+Create a data class or struct that matches your table structure:
+
+{% tabs %}
+{% tabsitem #kotlin title="Kotlin/Java" %}
+```kotlin
+data class Book(
+    val title: String,
+    val author: String,
+    val publishedYear: Int? = null,
+    val genre: List<String>? = null,
+    val isAvailable: Boolean = true
+)
+```
+{% /tabsitem %}
+
+{% tabsitem #swift title="Swift" %}
+```swift
+struct Book: Codable {
+    let title: String
+    let author: String
+    let publishedYear: Int?
+    let genre: [String]?
+    let isAvailable: Bool
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #web title="Web/Node" %}
+```typescript
+interface Book {
+    title: string;
+    author: string;
+    publishedYear?: number;
+    genre?: string[];
+    isAvailable: boolean;
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+## Using type-safe operations
+
+Use the `nestedType` parameter for full type safety in native SDKs, or generics in web SDKs:
+
+{% multicode %}
+```client-android-kotlin
+val tablesDB = TablesDB(client)
+
+try {
+    // Create with type safety
+    val newBook = tablesDB.createRow(
+        databaseId = "<DATABASE_ID>",
+        tableId = "<TABLE_ID>",
+        rowId = ID.unique(),
+        data = mapOf(
+            "title" to "The Great Gatsby",
+            "author" to "F. Scott Fitzgerald",
+            "isAvailable" to true
+        ),
+        nestedType = Book::class.java
+    )
+
+    // List with type safety
+    val books = tablesDB.listRows(
+        databaseId = "<DATABASE_ID>",
+        tableId = "<TABLE_ID>",
+        nestedType = Book::class.java
+    )
+
+    // Now you have full type safety
+    for (book in books.rows) {
+        Log.d("Clikkle", "Book: ${book.title} by ${book.author}")
+        if (book.isAvailable) {
+            Log.d("Clikkle", "Available for checkout")
+        }
+    }
+} catch (e: ClikkleException) {
+    Log.e("Clikkle", "Error: ${e.message}")
+}
+```
+```client-apple
+let tablesDB = TablesDB(client)
+
+do {
+    // Create with type safety
+    let newBook = try await tablesDB.createRow(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: ID.unique(),
+        data: [
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isAvailable": true
+        ],
+        nestedType: Book.self
+    )
+
+    // List with type safety
+    let books = try await tablesDB.listRows(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        nestedType: Book.self
+    )
+
+    // Now you have full type safety
+    for book in books.rows {
+        print("Book: \(book.title) by \(book.author)")
+        if book.isAvailable {
+            print("Available for checkout")
+        }
+    }
+} catch {
+    print(error.localizedDescription)
+}
+```
+```client-web
+const tablesDB = new TablesDB(client);
+
+try {
+    // Create with generics
+    const newBook = await tablesDB.createRow<Book>({
+        databaseId: '<DATABASE_ID>',
+        tableId: '<TABLE_ID>',
+        rowId: ID.unique(),
+        data: {
+            title: "The Great Gatsby",
+            author: "F. Scott Fitzgerald",
+            isAvailable: true
+        }
+    });
+
+    // List with generics
+    const books = await tablesDB.listRows<Book>({
+        databaseId: '<DATABASE_ID>',
+        tableId: '<TABLE_ID>'
+    });
+
+    // TypeScript provides full type safety
+    books.rows.forEach(book => {
+        console.log(`Book: ${book.title} by ${book.author}`);
+        if (book.isAvailable) {
+            console.log("Available for checkout");
+        }
+    });
+} catch (error) {
+    console.log(error);
+}
+```
+{% /multicode %}
+
+## Model methods
+
+Models returned by native SDKs include helpful utility methods:
+
+{% tabs %}
+{% tabsitem #kotlin-methods title="Kotlin/Java" %}
+```kotlin
+val book = books.rows.first()
+
+// Convert model to Map for debugging or manual manipulation
+val bookMap = book.toMap()
+Log.d("Clikkle", "Book data: ${bookMap}")
+
+// Create model instance from Map data
+val bookData = mapOf(
+    "title" to "1984",
+    "author" to "George Orwell",
+    "isAvailable" to false
+)
+val newBook = Book.from(bookData, Book::class.java)
+
+// JSON serialization using Gson (used internally by SDK)
+import com.google.gson.Gson
+val gson = Gson()
+val jsonString = gson.toJson(book)
+val bookFromJson = gson.fromJson(jsonString, Book::class.java)
+```
+{% /tabsitem %}
+
+{% tabsitem #swift-methods title="Swift" %}
+```swift
+let book = books.rows.first!
+
+// Convert model to dictionary for debugging
+let bookMap = book.toMap()
+print("Book data: \(bookMap)")
+
+// Create model instance from dictionary
+let bookData: [String: Any] = [
+    "title": "1984",
+    "author": "George Orwell",
+    "isAvailable": false
+]
+let newBook = Book.from(map: bookData)
+
+// JSON encoding using Swift's Codable
+let jsonData = try JSONEncoder().encode(book)
+let jsonString = String(data: jsonData, encoding: .utf8)
+
+// JSON decoding
+if let jsonString = jsonString,
+   let data = jsonString.data(using: .utf8) {
+    let bookFromJson = try JSONDecoder().decode(Book.self, from: data)
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+{% info title="Generate types automatically" %}
+You can automatically generate model definitions for your tables using the [Clikkle CLI](/docs/products/databases/type-generation). Run `clikkle types collection` to generate types based on your database schema.
+{% /info %}
+
+# Permissions {% #permissions %}
+In Clikkle, permissions can be granted at the table level and the row level.
+Before a user can create a row, you need to grant create permissions to the user.
+
+Read, update, and delete permissions can be granted at both the table and row level.
+Users only need to be granted access at either the table or row level to access rows.
+
+[Learn about configuring permissions](/docs/products/databases/permissions).
+
+# Use transactions {% #use-transactions %}
+
+All row operations support `transactionId`. When provided, operations are staged to an internal log and not applied until the transaction is committed. Learn more in the [Transactions guide](/docs/products/databases/transactions).
+
+{% multicode %}
+```client-web
+// Create row inside a transaction
+await tablesDB.createRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { title: 'Draft' },
+    transactionId: '<TRANSACTION_ID>'
+});
+
+// Update row inside a transaction
+await tablesDB.updateRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { title: 'Published' },
+    transactionId: '<TRANSACTION_ID>'
+});
+```
+```client-flutter
+// Create row inside a transaction
+await tablesDB.createRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { 'title': 'Draft' },
+    transactionId: '<TRANSACTION_ID>'
+);
+
+// Update row inside a transaction
+await tablesDB.updateRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { 'title': 'Published' },
+    transactionId: '<TRANSACTION_ID>'
+);
+```
+```client-apple
+// Create row inside a transaction
+let _ = try await tablesDB.createRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    data: ["title": "Draft"],
+    transactionId: "<TRANSACTION_ID>"
+)
+
+// Update row inside a transaction
+let _2 = try await tablesDB.updateRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    data: ["title": "Published"],
+    transactionId: "<TRANSACTION_ID>"
+)
+```
+```client-android-kotlin
+// Create row inside a transaction
+val _ = tablesDB.createRow(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    data = mapOf("title" to "Draft"),
+    transactionId = "<TRANSACTION_ID>"
+)
+
+// Update row inside a transaction
+val _2 = tablesDB.updateRow(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    data = mapOf("title" to "Published"),
+    transactionId = "<TRANSACTION_ID>"
+)
+```
+```client-android-java
+// Create row inside a transaction (asynchronous)
+Map<String, Object> data = new HashMap<>();
+data.put("title", "Draft");
+
+tablesDB.createRow(
+    "<DATABASE_ID>",
+    "<TABLE_ID>",
+    "<ROW_ID>",
+    data,
+    "<TRANSACTION_ID>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return null;
+        }
+        System.out.println(result);
+        return null;
+    })
+);
+
+// Update row inside a transaction (asynchronous)
+Map<String, Object> update = new HashMap<>();
+update.put("title", "Published");
+
+tablesDB.updateRow(
+    "<DATABASE_ID>",
+    "<TABLE_ID>",
+    "<ROW_ID>",
+    update,
+    "<TRANSACTION_ID>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return null;
+        }
+        System.out.println(result);
+        return null;
+    })
+);
+```
+```client-react-native
+// Create row inside a transaction
+await tablesDB.createRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { title: 'Draft' },
+    transactionId: '<TRANSACTION_ID>'
+});
+
+// Update row inside a transaction
+await tablesDB.updateRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { title: 'Published' },
+    transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-nodejs
+// Delete row inside a transaction
+await tablesDB.deleteRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-deno
+// Delete row inside a transaction
+await tablesDB.deleteRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-python
+# Delete row inside a transaction
+tablesDB.delete_row(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    transaction_id = '<TRANSACTION_ID>'
+)
+```
+```server-php
+// Delete row inside a transaction
+$tablesDB->deleteRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    transactionId: '<TRANSACTION_ID>'
+);
+```
+```server-ruby
+# Delete row inside a transaction
+tablesDB.delete_row(
+    database_id: '<DATABASE_ID>',
+    table_id: '<TABLE_ID>',
+    row_id: '<ROW_ID>',
+    transaction_id: '<TRANSACTION_ID>'
+)
+```
+```server-dotnet
+// Delete row inside a transaction
+await tablesDB.DeleteRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    transactionId: "<TRANSACTION_ID>"
+);
+```
+```server-dart
+// Delete row inside a transaction
+await tablesDB.deleteRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    transactionId: '<TRANSACTION_ID>'
+);
+```
+```server-swift
+// Delete row inside a transaction
+let _ = try await tablesDB.deleteRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    transactionId: "<TRANSACTION_ID>"
+)
+```
+```server-kotlin
+// Delete row inside a transaction
+val _ = tablesDB.deleteRow(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    transactionId = "<TRANSACTION_ID>"
+)
+```
+```server-java
+// Delete row inside a transaction (asynchronous)
+tablesDB.deleteRow(
+    "<DATABASE_ID>",
+    "<TABLE_ID>",
+    "<ROW_ID>",
+    "<TRANSACTION_ID>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return null;
+        }
+        System.out.println(result);
+        return null;
+    })
+);
+```
+{% /multicode %}
+
+# Next steps {% #next-steps %}
+
+Continue learning with these related guides:
+
+{% cards %}
+{% cards_item href="/docs/products/databases/queries" title="Queries" %}
+Learn how to filter, sort, and search your rows with various query operators.
+{% /cards_item %}
+
+{% cards_item href="/docs/products/databases/pagination" title="Pagination" %}
+Handle large datasets by implementing pagination in your row queries.
+{% /cards_item %}
+
+{% cards_item href="/docs/products/databases/bulk-operations" title="Bulk operations" %}
+Perform create, update, and delete operations on multiple rows simultaneously.
+{% /cards_item %}
+
+{% cards_item href="/docs/products/databases/timestamp-overrides" title="Timestamp overrides" %}
+Set custom creation and update timestamps when migrating data or backdating records.
+{% /cards_item %}
+{% /cards %}
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T619e,---
+layout: article
+title: Rows
+description: Master row management with Clikkle Databases. Learn how to create, update, upsert, and query rows within your tables for dynamic data storage.
+---
+Each piece of data or information in Clikkle Databases is a row.
+Rows have a structure defined by the parent table.
+
+# Create rows {% #create-rows %}
+{% info title="Permissions required" %}
+You must grant _create_ permissions to users at the _table level_ before users can create rows.
+[Learn more about permissions](#permissions)
+{% /info %}
+
+In most use cases, you will create rows programmatically.
+
+{% multicode %}
+```client-web
+import { Client, ID, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.createRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: ID.unique(),
+    data: {}
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final row = tablesDB.createRow(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            rowId: ID.unique(),
+            data: {}
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let row = try await tablesDB.createRow(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            rowId: ID.unique(),
+            data: [:]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val row = tablesDB.createRow(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            rowId = ID.unique(),
+            data = mapOf("a" to "b"),
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+```graphql
+mutation {
+    tablesCreateRow(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        data: "{}"
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+During testing, you might prefer to create rows in the Clikkle Console.
+To do so, navigate to the **Rows** tab of your table and click the **Add row** button.
+
+# List rows {% #list-rows %}
+
+{% info title="Permissions required" %}
+You must grant _read_ permissions to users at the _table level_ before users can read rows.
+[Learn more about permissions](#permissions)
+{% /info %}
+
+Rows can be retrieved using the [List rows](/docs/references/cloud/client-web/tables#listRows) endpoint.
+
+Results can be filtered, sorted, and paginated using Clikkle's shared set of query methods.
+You can find a full guide on querying in the [Queries Guide](/docs/products/databases/queries).
+
+By default, results are limited to the _first 25 items_.
+You can change this through [pagination](/docs/products/databases/pagination).
+
+{% info title="Speed up lists by skipping totals" %}
+If your UI doesn't need an exact total, set the `total` flag to `false` on list calls. The response keeps the same shape and sets `total` to `0`.
+This reduces latency for large tables and filtered queries. Learn more in [Pagination: Skip totals](/docs/products/databases/pagination#skip-totals).
+{% /info %}
+
+{% multicode %}
+```client-web
+import { Client, Query, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+const tablesDB = new TablesDB(client);
+
+let promise = tablesDB.listRows({
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    queries: [
+        Query.equal('title', 'Avatar')
+    ]
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final rows = await tablesDB.listRows(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            queries: [
+                Query.equal('title', 'Avatar')
+            ]
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let rows = try await tablesDB.listRows(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            queries: [
+                Query.equal("title", value: "Avatar")
+            ]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val rows = tablesDB.listRows(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            queries = listOf(
+                Query.equal("title", "Avatar")
+            )
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+```graphql
+query {
+    tablesListRows(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        queries: ["equal(\"title\", [\"Avatar\"])"]
+    ) {
+        total
+        rows {
+            _id
+            data
+        }
+    }
+}
+```
+{% /multicode %}
+
+# Update row {% #update-row %}
+{% info title="Permissions required" %}
+You must grant _update_ permissions to users at the _table level_ or _row level_ before users can update rows.
+[Learn more about permissions](#permissions)
+{% /info %}
+
+In most use cases, you will update rows programmatically.
+
+{% multicode %}
+```client-web
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.updateRow(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    { title: 'Updated Title' }
+);
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final row = await tablesDB.updateRow(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            rowId: '<ROW_ID>',
+            data: { 'title': 'Updated Title' }
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let row = try await tablesDB.updateRow(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            rowId: "<ROW_ID>",
+            data: ["title": "Updated Title"]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val row = tablesDB.updateRow(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            rowId = "<ROW_ID>",
+            data = mapOf("title" to "Updated Title"),
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```graphql
+mutation {
+    tablesDBUpdateRow(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        data: "{\"title\": \"Updated Title\"}"
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+# Upsert rows {% #upsert-rows %}
+
+Upsert is a combination of "update" and "insert" operations. It creates a new row if one doesn't exist with the given ID, or updates an existing row if it does exist.
+
+In most use cases, you will upsert rows programmatically.
+
+{% info title="Permissions required" %}
+You must grant _create_ permissions to users at the _table level_, and _update_ permissions to users at the _table_ or _row_ level before users can upsert rows.
+[Learn more about permissions](#permissions)
+{% /info %}
+{% multicode %}
+```client-web
+import { Client, ID, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+const promise = tablesDB.upsertRow(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    ID.unique(),
+    {}
+);
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final tablesDB = TablesDB(client);
+
+    try {
+        final row = tablesDB.upsertRow(
+            databaseId: '<DATABASE_ID>',
+            tableId: '<TABLE_ID>',
+            rowId: ID.unique(),
+            data: {}
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let tablesDB = TablesDB(client)
+
+    do {
+        let row = try await tablesDB.upsertRow(
+            databaseId: "<DATABASE_ID>",
+            tableId: "<TABLE_ID>",
+            rowId: ID.unique(),
+            data: [:]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    val tablesDB = TablesDB(client)
+
+    try {
+        val row = tablesDB.upsertRow(
+            databaseId = "<DATABASE_ID>",
+            tableId = "<TABLE_ID>",
+            rowId = ID.unique(),
+            data = mapOf("a" to "b"),
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", "Error: " + e.message)
+    }
+}
+```
+```graphql
+mutation {
+    tablesUpsertRow(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        data: "{}"
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+# Type safety with models {% #type-safety %}
+
+Mobile and native SDKs provide type safety when working with rows through the `nestedType` parameter. This allows you to specify custom model types for complete auto-completion and type safety.
+
+## Define your model
+
+Create a data class or struct that matches your table structure:
+
+{% tabs %}
+{% tabsitem #kotlin title="Kotlin/Java" %}
+```kotlin
+data class Book(
+    val title: String,
+    val author: String,
+    val publishedYear: Int? = null,
+    val genre: List<String>? = null,
+    val isAvailable: Boolean = true
+)
+```
+{% /tabsitem %}
+
+{% tabsitem #swift title="Swift" %}
+```swift
+struct Book: Codable {
+    let title: String
+    let author: String
+    let publishedYear: Int?
+    let genre: [String]?
+    let isAvailable: Bool
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #web title="Web/Node" %}
+```typescript
+interface Book {
+    title: string;
+    author: string;
+    publishedYear?: number;
+    genre?: string[];
+    isAvailable: boolean;
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+## Using type-safe operations
+
+Use the `nestedType` parameter for full type safety in native SDKs, or generics in web SDKs:
+
+{% multicode %}
+```client-android-kotlin
+val tablesDB = TablesDB(client)
+
+try {
+    // Create with type safety
+    val newBook = tablesDB.createRow(
+        databaseId = "<DATABASE_ID>",
+        tableId = "<TABLE_ID>",
+        rowId = ID.unique(),
+        data = mapOf(
+            "title" to "The Great Gatsby",
+            "author" to "F. Scott Fitzgerald",
+            "isAvailable" to true
+        ),
+        nestedType = Book::class.java
+    )
+
+    // List with type safety
+    val books = tablesDB.listRows(
+        databaseId = "<DATABASE_ID>",
+        tableId = "<TABLE_ID>",
+        nestedType = Book::class.java
+    )
+
+    // Now you have full type safety
+    for (book in books.rows) {
+        Log.d("Clikkle", "Book: ${book.title} by ${book.author}")
+        if (book.isAvailable) {
+            Log.d("Clikkle", "Available for checkout")
+        }
+    }
+} catch (e: ClikkleException) {
+    Log.e("Clikkle", "Error: ${e.message}")
+}
+```
+```client-apple
+let tablesDB = TablesDB(client)
+
+do {
+    // Create with type safety
+    let newBook = try await tablesDB.createRow(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: ID.unique(),
+        data: [
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isAvailable": true
+        ],
+        nestedType: Book.self
+    )
+
+    // List with type safety
+    let books = try await tablesDB.listRows(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        nestedType: Book.self
+    )
+
+    // Now you have full type safety
+    for book in books.rows {
+        print("Book: \(book.title) by \(book.author)")
+        if book.isAvailable {
+            print("Available for checkout")
+        }
+    }
+} catch {
+    print(error.localizedDescription)
+}
+```
+```client-web
+const tablesDB = new TablesDB(client);
+
+try {
+    // Create with generics
+    const newBook = await tablesDB.createRow<Book>({
+        databaseId: '<DATABASE_ID>',
+        tableId: '<TABLE_ID>',
+        rowId: ID.unique(),
+        data: {
+            title: "The Great Gatsby",
+            author: "F. Scott Fitzgerald",
+            isAvailable: true
+        }
+    });
+
+    // List with generics
+    const books = await tablesDB.listRows<Book>({
+        databaseId: '<DATABASE_ID>',
+        tableId: '<TABLE_ID>'
+    });
+
+    // TypeScript provides full type safety
+    books.rows.forEach(book => {
+        console.log(`Book: ${book.title} by ${book.author}`);
+        if (book.isAvailable) {
+            console.log("Available for checkout");
+        }
+    });
+} catch (error) {
+    console.log(error);
+}
+```
+{% /multicode %}
+
+## Model methods
+
+Models returned by native SDKs include helpful utility methods:
+
+{% tabs %}
+{% tabsitem #kotlin-methods title="Kotlin/Java" %}
+```kotlin
+val book = books.rows.first()
+
+// Convert model to Map for debugging or manual manipulation
+val bookMap = book.toMap()
+Log.d("Clikkle", "Book data: ${bookMap}")
+
+// Create model instance from Map data
+val bookData = mapOf(
+    "title" to "1984",
+    "author" to "George Orwell",
+    "isAvailable" to false
+)
+val newBook = Book.from(bookData, Book::class.java)
+
+// JSON serialization using Gson (used internally by SDK)
+import com.google.gson.Gson
+val gson = Gson()
+val jsonString = gson.toJson(book)
+val bookFromJson = gson.fromJson(jsonString, Book::class.java)
+```
+{% /tabsitem %}
+
+{% tabsitem #swift-methods title="Swift" %}
+```swift
+let book = books.rows.first!
+
+// Convert model to dictionary for debugging
+let bookMap = book.toMap()
+print("Book data: \(bookMap)")
+
+// Create model instance from dictionary
+let bookData: [String: Any] = [
+    "title": "1984",
+    "author": "George Orwell",
+    "isAvailable": false
+]
+let newBook = Book.from(map: bookData)
+
+// JSON encoding using Swift's Codable
+let jsonData = try JSONEncoder().encode(book)
+let jsonString = String(data: jsonData, encoding: .utf8)
+
+// JSON decoding
+if let jsonString = jsonString,
+   let data = jsonString.data(using: .utf8) {
+    let bookFromJson = try JSONDecoder().decode(Book.self, from: data)
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+{% info title="Generate types automatically" %}
+You can automatically generate model definitions for your tables using the [Clikkle CLI](/docs/products/databases/type-generation). Run `clikkle types collection` to generate types based on your database schema.
+{% /info %}
+
+# Permissions {% #permissions %}
+In Clikkle, permissions can be granted at the table level and the row level.
+Before a user can create a row, you need to grant create permissions to the user.
+
+Read, update, and delete permissions can be granted at both the table and row level.
+Users only need to be granted access at either the table or row level to access rows.
+
+[Learn about configuring permissions](/docs/products/databases/permissions).
+
+# Use transactions {% #use-transactions %}
+
+All row operations support `transactionId`. When provided, operations are staged to an internal log and not applied until the transaction is committed. Learn more in the [Transactions guide](/docs/products/databases/transactions).
+
+{% multicode %}
+```client-web
+// Create row inside a transaction
+await tablesDB.createRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { title: 'Draft' },
+    transactionId: '<TRANSACTION_ID>'
+});
+
+// Update row inside a transaction
+await tablesDB.updateRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { title: 'Published' },
+    transactionId: '<TRANSACTION_ID>'
+});
+```
+```client-flutter
+// Create row inside a transaction
+await tablesDB.createRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { 'title': 'Draft' },
+    transactionId: '<TRANSACTION_ID>'
+);
+
+// Update row inside a transaction
+await tablesDB.updateRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { 'title': 'Published' },
+    transactionId: '<TRANSACTION_ID>'
+);
+```
+```client-apple
+// Create row inside a transaction
+let _ = try await tablesDB.createRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    data: ["title": "Draft"],
+    transactionId: "<TRANSACTION_ID>"
+)
+
+// Update row inside a transaction
+let _2 = try await tablesDB.updateRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    data: ["title": "Published"],
+    transactionId: "<TRANSACTION_ID>"
+)
+```
+```client-android-kotlin
+// Create row inside a transaction
+val _ = tablesDB.createRow(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    data = mapOf("title" to "Draft"),
+    transactionId = "<TRANSACTION_ID>"
+)
+
+// Update row inside a transaction
+val _2 = tablesDB.updateRow(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    data = mapOf("title" to "Published"),
+    transactionId = "<TRANSACTION_ID>"
+)
+```
+```client-android-java
+// Create row inside a transaction (asynchronous)
+Map<String, Object> data = new HashMap<>();
+data.put("title", "Draft");
+
+tablesDB.createRow(
+    "<DATABASE_ID>",
+    "<TABLE_ID>",
+    "<ROW_ID>",
+    data,
+    "<TRANSACTION_ID>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return null;
+        }
+        System.out.println(result);
+        return null;
+    })
+);
+
+// Update row inside a transaction (asynchronous)
+Map<String, Object> update = new HashMap<>();
+update.put("title", "Published");
+
+tablesDB.updateRow(
+    "<DATABASE_ID>",
+    "<TABLE_ID>",
+    "<ROW_ID>",
+    update,
+    "<TRANSACTION_ID>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return null;
+        }
+        System.out.println(result);
+        return null;
+    })
+);
+```
+```client-react-native
+// Create row inside a transaction
+await tablesDB.createRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { title: 'Draft' },
+    transactionId: '<TRANSACTION_ID>'
+});
+
+// Update row inside a transaction
+await tablesDB.updateRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: { title: 'Published' },
+    transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-nodejs
+// Delete row inside a transaction
+await tablesDB.deleteRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-deno
+// Delete row inside a transaction
+await tablesDB.deleteRow({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-python
+# Delete row inside a transaction
+tablesDB.delete_row(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    transaction_id = '<TRANSACTION_ID>'
+)
+```
+```server-php
+// Delete row inside a transaction
+$tablesDB->deleteRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    transactionId: '<TRANSACTION_ID>'
+);
+```
+```server-ruby
+# Delete row inside a transaction
+tablesDB.delete_row(
+    database_id: '<DATABASE_ID>',
+    table_id: '<TABLE_ID>',
+    row_id: '<ROW_ID>',
+    transaction_id: '<TRANSACTION_ID>'
+)
+```
+```server-dotnet
+// Delete row inside a transaction
+await tablesDB.DeleteRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    transactionId: "<TRANSACTION_ID>"
+);
+```
+```server-dart
+// Delete row inside a transaction
+await tablesDB.deleteRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    transactionId: '<TRANSACTION_ID>'
+);
+```
+```server-swift
+// Delete row inside a transaction
+let _ = try await tablesDB.deleteRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    transactionId: "<TRANSACTION_ID>"
+)
+```
+```server-kotlin
+// Delete row inside a transaction
+val _ = tablesDB.deleteRow(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    transactionId = "<TRANSACTION_ID>"
+)
+```
+```server-java
+// Delete row inside a transaction (asynchronous)
+tablesDB.deleteRow(
+    "<DATABASE_ID>",
+    "<TABLE_ID>",
+    "<ROW_ID>",
+    "<TRANSACTION_ID>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return null;
+        }
+        System.out.println(result);
+        return null;
+    })
+);
+```
+{% /multicode %}
+
+# Next steps {% #next-steps %}
+
+Continue learning with these related guides:
+
+{% cards %}
+{% cards_item href="/docs/products/databases/queries" title="Queries" %}
+Learn how to filter, sort, and search your rows with various query operators.
+{% /cards_item %}
+
+{% cards_item href="/docs/products/databases/pagination" title="Pagination" %}
+Handle large datasets by implementing pagination in your row queries.
+{% /cards_item %}
+
+{% cards_item href="/docs/products/databases/bulk-operations" title="Bulk operations" %}
+Perform create, update, and delete operations on multiple rows simultaneously.
+{% /cards_item %}
+
+{% cards_item href="/docs/products/databases/timestamp-overrides" title="Timestamp overrides" %}
+Set custom creation and update timestamps when migrating data or backdating records.
+{% /cards_item %}
+{% /cards %}
+
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Rows"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"New API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This is a relatively new API. For details on the previous version and its terminology, see the legacy"," ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/documents","className":"web-link underline","children":"Collections API documentation"}],"."]}]]}],null,["$","$Le",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Each piece of data or information in Clikkle Databases is a row."," ","Rows have a structure defined by the parent table."]}],["$","$Lf",null,{"id":"create-rows","level":1,"children":"Create rows "}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Permissions required"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You must grant ",["$","em",null,{"children":"create"}]," permissions to users at the ",["$","em",null,{"children":"table level"}]," before users can create rows."," ",["$","$Ld",null,{"href":"#permissions","children":"Learn more about permissions"}]]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"In most use cases, you will create rows programmatically."}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, ID, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.createRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: ID.unique(),\n    data: {}\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"import { Client, ID, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.createRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: ID.unique(),\n    data: {}\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final row = tablesDB.createRow(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            rowId: ID.unique(),\n            data: {}\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final row = tablesDB.createRow(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            rowId: ID.unique(),\n            data: {}\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n"}],"$L12","$L13","$L14"]}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b"]}]}]]}],"$L3c"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L3d",null,{"items":[{"id":"create-rows","title":"Create rows","level":1},{"id":"list-rows","title":"List rows","level":1},{"id":"update-row","title":"Update row","level":1},{"id":"upsert-rows","title":"Upsert rows","level":1},{"id":"type-safety","title":"Type safety with models","level":1},{"id":"define-your-model","title":"Define your model","level":2},{"id":"using-type-safe-operations","title":"Using type-safe operations","level":2},{"id":"model-methods","title":"Model methods","level":2},{"id":"permissions","title":"Permissions","level":1},{"id":"use-transactions","title":"Use transactions","level":1},{"id":"next-steps","title":"Next steps","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L3e",null,{"children":["$","$3f",null,{"name":"Next.MetadataOutlet","children":"$@40"}]}]
+12:["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let row = try await tablesDB.createRow(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            rowId: ID.unique(),\n            data: [:]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let row = try await tablesDB.createRow(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            rowId: ID.unique(),\n            data: [:]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n"}]
+13:["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val row = tablesDB.createRow(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            rowId = ID.unique(),\n            data = mapOf(\"a\" to \"b\"),\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val row = tablesDB.createRow(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            rowId = ID.unique(),\n            data = mapOf(\"a\" to \"b\"),\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n"}]
+14:["$","$L11",null,{"language":"graphql","content":"mutation {\n    tablesCreateRow(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        data: \"{}\"\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n","children":"mutation {\n    tablesCreateRow(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        data: \"{}\"\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n"}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["During testing, you might prefer to create rows in the Clikkle Console."," ","To do so, navigate to the ",["$","strong",null,{"children":"Rows"}]," tab of your table and click the ",["$","strong",null,{"children":"Add row"}]," button."]}]
+16:["$","$Lf",null,{"id":"list-rows","level":1,"children":"List rows "}]
+17:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Permissions required"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You must grant ",["$","em",null,{"children":"read"}]," permissions to users at the ",["$","em",null,{"children":"table level"}]," before users can read rows."," ",["$","$Ld",null,{"href":"#permissions","children":"Learn more about permissions"}]]}]]}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Rows can be retrieved using the ",["$","$Ld",null,{"href":"/docs/references/cloud/client-web/tables#listRows","children":"List rows"}]," endpoint."]}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Results can be filtered, sorted, and paginated using Clikkle's shared set of query methods."," ","You can find a full guide on querying in the ",["$","$Ld",null,{"href":"/docs/products/databases/queries","children":"Queries Guide"}],"."]}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["By default, results are limited to the ",["$","em",null,{"children":"first 25 items"}],"."," ","You can change this through ",["$","$Ld",null,{"href":"/docs/products/databases/pagination","children":"pagination"}],"."]}]
+1b:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Speed up lists by skipping totals"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If your UI doesn't need an exact total, set the ",["$","code",null,{"children":"total"}]," flag to ",["$","code",null,{"children":"false"}]," on list calls. The response keeps the same shape and sets ",["$","code",null,{"children":"total"}]," to ",["$","code",null,{"children":"0"}],"."," ","This reduces latency for large tables and filtered queries. Learn more in ",["$","$Ld",null,{"href":"/docs/products/databases/pagination#skip-totals","children":"Pagination: Skip totals"}],"."]}]]}]
+1c:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Query, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nconst tablesDB = new TablesDB(client);\n\nlet promise = tablesDB.listRows({\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    queries: [\n        Query.equal('title', 'Avatar')\n    ]\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"import { Client, Query, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nconst tablesDB = new TablesDB(client);\n\nlet promise = tablesDB.listRows({\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    queries: [\n        Query.equal('title', 'Avatar')\n    ]\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final rows = await tablesDB.listRows(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            queries: [\n                Query.equal('title', 'Avatar')\n            ]\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final rows = await tablesDB.listRows(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            queries: [\n                Query.equal('title', 'Avatar')\n            ]\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let rows = try await tablesDB.listRows(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            queries: [\n                Query.equal(\"title\", value: \"Avatar\")\n            ]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let rows = try await tablesDB.listRows(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            queries: [\n                Query.equal(\"title\", value: \"Avatar\")\n            ]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.Query\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val rows = tablesDB.listRows(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            queries = listOf(\n                Query.equal(\"title\", \"Avatar\")\n            )\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.Query\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val rows = tablesDB.listRows(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            queries = listOf(\n                Query.equal(\"title\", \"Avatar\")\n            )\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n"}],"$L41"]}]
+1d:["$","$Lf",null,{"id":"update-row","level":1,"children":"Update row "}]
+1e:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Permissions required"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You must grant ",["$","em",null,{"children":"update"}]," permissions to users at the ",["$","em",null,{"children":"table level"}]," or ",["$","em",null,{"children":"row level"}]," before users can update rows."," ",["$","$Ld",null,{"href":"#permissions","children":"Learn more about permissions"}]]}]]}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"In most use cases, you will update rows programmatically."}]
+20:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.updateRow(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    { title: 'Updated Title' }\n);\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"import { Client, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.updateRow(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    { title: 'Updated Title' }\n);\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final row = await tablesDB.updateRow(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            rowId: '<ROW_ID>',\n            data: { 'title': 'Updated Title' }\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final row = await tablesDB.updateRow(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            rowId: '<ROW_ID>',\n            data: { 'title': 'Updated Title' }\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let row = try await tablesDB.updateRow(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            rowId: \"<ROW_ID>\",\n            data: [\"title\": \"Updated Title\"]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let row = try await tablesDB.updateRow(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            rowId: \"<ROW_ID>\",\n            data: [\"title\": \"Updated Title\"]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val row = tablesDB.updateRow(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            rowId = \"<ROW_ID>\",\n            data = mapOf(\"title\" to \"Updated Title\"),\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n```graphql\nmutation {\n    tablesDBUpdateRow(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        data: \"{\\\"title\\\": \\\"Updated Title\\\"}\"\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val row = tablesDB.updateRow(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            rowId = \"<ROW_ID>\",\n            data = mapOf(\"title\" to \"Updated Title\"),\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n```graphql\nmutation {\n    tablesDBUpdateRow(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        data: \"{\\\"title\\\": \\\"Updated Title\\\"}\"\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n"}]]}]
+21:["$","$Lf",null,{"id":"upsert-rows","level":1,"children":"Upsert rows "}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Upsert is a combination of \"update\" and \"insert\" operations. It creates a new row if one doesn't exist with the given ID, or updates an existing row if it does exist."}]
+23:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"In most use cases, you will upsert rows programmatically."}]
+24:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Permissions required"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You must grant ",["$","em",null,{"children":"create"}]," permissions to users at the ",["$","em",null,{"children":"table level"}],", and ",["$","em",null,{"children":"update"}]," permissions to users at the ",["$","em",null,{"children":"table"}]," or ",["$","em",null,{"children":"row"}]," level before users can upsert rows."," ",["$","$Ld",null,{"href":"#permissions","children":"Learn more about permissions"}]]}]]}]
+25:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, ID, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.upsertRow(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    ID.unique(),\n    {}\n);\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"import { Client, ID, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\nconst promise = tablesDB.upsertRow(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    ID.unique(),\n    {}\n);\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final row = tablesDB.upsertRow(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            rowId: ID.unique(),\n            data: {}\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final tablesDB = TablesDB(client);\n\n    try {\n        final row = tablesDB.upsertRow(\n            databaseId: '<DATABASE_ID>',\n            tableId: '<TABLE_ID>',\n            rowId: ID.unique(),\n            data: {}\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let row = try await tablesDB.upsertRow(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            rowId: ID.unique(),\n            data: [:]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let tablesDB = TablesDB(client)\n\n    do {\n        let row = try await tablesDB.upsertRow(\n            databaseId: \"<DATABASE_ID>\",\n            tableId: \"<TABLE_ID>\",\n            rowId: ID.unique(),\n            data: [:]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val row = tablesDB.upsertRow(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            rowId = ID.unique(),\n            data = mapOf(\"a\" to \"b\"),\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    val tablesDB = TablesDB(client)\n\n    try {\n        val row = tablesDB.upsertRow(\n            databaseId = \"<DATABASE_ID>\",\n            tableId = \"<TABLE_ID>\",\n            rowId = ID.unique(),\n            data = mapOf(\"a\" to \"b\"),\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", \"Error: \" + e.message)\n    }\n}\n"}],"$L42"]}]
+26:["$","$Lf",null,{"id":"type-safety","level":1,"children":"Type safety with models "}]
+27:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Mobile and native SDKs provide type safety when working with rows through the ",["$","code",null,{"children":"nestedType"}]," parameter. This allows you to specify custom model types for complete auto-completion and type safety."]}]
+28:["$","$Lf",null,{"level":2,"children":"Define your model"}]
+29:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Create a data class or struct that matches your table structure:"}]
+2a:["$","$L43",null,{"children":[["$","$L44",null,{"id":"kotlin","title":"Kotlin/Java","children":["$","$L11",null,{"language":"kotlin","content":"data class Book(\n    val title: String,\n    val author: String,\n    val publishedYear: Int? = null,\n    val genre: List<String>? = null,\n    val isAvailable: Boolean = true\n)\n","children":"data class Book(\n    val title: String,\n    val author: String,\n    val publishedYear: Int? = null,\n    val genre: List<String>? = null,\n    val isAvailable: Boolean = true\n)\n"}]}],["$","$L44",null,{"id":"swift","title":"Swift","children":["$","$L11",null,{"language":"swift","content":"struct Book: Codable {\n    let title: String\n    let author: String\n    let publishedYear: Int?\n    let genre: [String]?\n    let isAvailable: Bool\n}\n","children":"struct Book: Codable {\n    let title: String\n    let author: String\n    let publishedYear: Int?\n    let genre: [String]?\n    let isAvailable: Bool\n}\n"}]}],["$","$L44",null,{"id":"web","title":"Web/Node","children":["$","$L11",null,{"language":"typescript","content":"interface Book {\n    title: string;\n    author: string;\n    publishedYear?: number;\n    genre?: string[];\n    isAvailable: boolean;\n}\n","children":"interface Book {\n    title: string;\n    author: string;\n    publishedYear?: number;\n    genre?: string[];\n    isAvailable: boolean;\n}\n"}]}]]}]
+2b:["$","$Lf",null,{"level":2,"children":"Using type-safe operations"}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the ",["$","code",null,{"children":"nestedType"}]," parameter for full type safety in native SDKs, or generics in web SDKs:"]}]
+2d:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-android-kotlin","content":"val tablesDB = TablesDB(client)\n\ntry {\n    // Create with type safety\n    val newBook = tablesDB.createRow(\n        databaseId = \"<DATABASE_ID>\",\n        tableId = \"<TABLE_ID>\",\n        rowId = ID.unique(),\n        data = mapOf(\n            \"title\" to \"The Great Gatsby\",\n            \"author\" to \"F. Scott Fitzgerald\",\n            \"isAvailable\" to true\n        ),\n        nestedType = Book::class.java\n    )\n\n    // List with type safety\n    val books = tablesDB.listRows(\n        databaseId = \"<DATABASE_ID>\",\n        tableId = \"<TABLE_ID>\",\n        nestedType = Book::class.java\n    )\n\n    // Now you have full type safety\n    for (book in books.rows) {\n        Log.d(\"Clikkle\", \"Book: ${book.title} by ${book.author}\")\n        if (book.isAvailable) {\n            Log.d(\"Clikkle\", \"Available for checkout\")\n        }\n    }\n} catch (e: ClikkleException) {\n    Log.e(\"Clikkle\", \"Error: ${e.message}\")\n}\n","children":"val tablesDB = TablesDB(client)\n\ntry {\n    // Create with type safety\n    val newBook = tablesDB.createRow(\n        databaseId = \"<DATABASE_ID>\",\n        tableId = \"<TABLE_ID>\",\n        rowId = ID.unique(),\n        data = mapOf(\n            \"title\" to \"The Great Gatsby\",\n            \"author\" to \"F. Scott Fitzgerald\",\n            \"isAvailable\" to true\n        ),\n        nestedType = Book::class.java\n    )\n\n    // List with type safety\n    val books = tablesDB.listRows(\n        databaseId = \"<DATABASE_ID>\",\n        tableId = \"<TABLE_ID>\",\n        nestedType = Book::class.java\n    )\n\n    // Now you have full type safety\n    for (book in books.rows) {\n        Log.d(\"Clikkle\", \"Book: ${book.title} by ${book.author}\")\n        if (book.isAvailable) {\n            Log.d(\"Clikkle\", \"Available for checkout\")\n        }\n    }\n} catch (e: ClikkleException) {\n    Log.e(\"Clikkle\", \"Error: ${e.message}\")\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"let tablesDB = TablesDB(client)\n\ndo {\n    // Create with type safety\n    let newBook = try await tablesDB.createRow(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: ID.unique(),\n        data: [\n            \"title\": \"The Great Gatsby\",\n            \"author\": \"F. Scott Fitzgerald\",\n            \"isAvailable\": true\n        ],\n        nestedType: Book.self\n    )\n\n    // List with type safety\n    let books = try await tablesDB.listRows(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        nestedType: Book.self\n    )\n\n    // Now you have full type safety\n    for book in books.rows {\n        print(\"Book: \\(book.title) by \\(book.author)\")\n        if book.isAvailable {\n            print(\"Available for checkout\")\n        }\n    }\n} catch {\n    print(error.localizedDescription)\n}\n","children":"let tablesDB = TablesDB(client)\n\ndo {\n    // Create with type safety\n    let newBook = try await tablesDB.createRow(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: ID.unique(),\n        data: [\n            \"title\": \"The Great Gatsby\",\n            \"author\": \"F. Scott Fitzgerald\",\n            \"isAvailable\": true\n        ],\n        nestedType: Book.self\n    )\n\n    // List with type safety\n    let books = try await tablesDB.listRows(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        nestedType: Book.self\n    )\n\n    // Now you have full type safety\n    for book in books.rows {\n        print(\"Book: \\(book.title) by \\(book.author)\")\n        if book.isAvailable {\n            print(\"Available for checkout\")\n        }\n    }\n} catch {\n    print(error.localizedDescription)\n}\n"}],"$L45"]}]
+2e:["$","$Lf",null,{"level":2,"children":"Model methods"}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Models returned by native SDKs include helpful utility methods:"}]
+30:["$","$L43",null,{"children":[["$","$L44",null,{"id":"kotlin-methods","title":"Kotlin/Java","children":["$","$L11",null,{"language":"kotlin","content":"val book = books.rows.first()\n\n// Convert model to Map for debugging or manual manipulation\nval bookMap = book.toMap()\nLog.d(\"Clikkle\", \"Book data: ${bookMap}\")\n\n// Create model instance from Map data\nval bookData = mapOf(\n    \"title\" to \"1984\",\n    \"author\" to \"George Orwell\",\n    \"isAvailable\" to false\n)\nval newBook = Book.from(bookData, Book::class.java)\n\n// JSON serialization using Gson (used internally by SDK)\nimport com.google.gson.Gson\nval gson = Gson()\nval jsonString = gson.toJson(book)\nval bookFromJson = gson.fromJson(jsonString, Book::class.java)\n","children":"val book = books.rows.first()\n\n// Convert model to Map for debugging or manual manipulation\nval bookMap = book.toMap()\nLog.d(\"Clikkle\", \"Book data: ${bookMap}\")\n\n// Create model instance from Map data\nval bookData = mapOf(\n    \"title\" to \"1984\",\n    \"author\" to \"George Orwell\",\n    \"isAvailable\" to false\n)\nval newBook = Book.from(bookData, Book::class.java)\n\n// JSON serialization using Gson (used internally by SDK)\nimport com.google.gson.Gson\nval gson = Gson()\nval jsonString = gson.toJson(book)\nval bookFromJson = gson.fromJson(jsonString, Book::class.java)\n"}]}],["$","$L44",null,{"id":"swift-methods","title":"Swift","children":["$","$L11",null,{"language":"swift","content":"let book = books.rows.first!\n\n// Convert model to dictionary for debugging\nlet bookMap = book.toMap()\nprint(\"Book data: \\(bookMap)\")\n\n// Create model instance from dictionary\nlet bookData: [String: Any] = [\n    \"title\": \"1984\",\n    \"author\": \"George Orwell\",\n    \"isAvailable\": false\n]\nlet newBook = Book.from(map: bookData)\n\n// JSON encoding using Swift's Codable\nlet jsonData = try JSONEncoder().encode(book)\nlet jsonString = String(data: jsonData, encoding: .utf8)\n\n// JSON decoding\nif let jsonString = jsonString,\n   let data = jsonString.data(using: .utf8) {\n    let bookFromJson = try JSONDecoder().decode(Book.self, from: data)\n}\n","children":"let book = books.rows.first!\n\n// Convert model to dictionary for debugging\nlet bookMap = book.toMap()\nprint(\"Book data: \\(bookMap)\")\n\n// Create model instance from dictionary\nlet bookData: [String: Any] = [\n    \"title\": \"1984\",\n    \"author\": \"George Orwell\",\n    \"isAvailable\": false\n]\nlet newBook = Book.from(map: bookData)\n\n// JSON encoding using Swift's Codable\nlet jsonData = try JSONEncoder().encode(book)\nlet jsonString = String(data: jsonData, encoding: .utf8)\n\n// JSON decoding\nif let jsonString = jsonString,\n   let data = jsonString.data(using: .utf8) {\n    let bookFromJson = try JSONDecoder().decode(Book.self, from: data)\n}\n"}]}]]}]
+31:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Generate types automatically"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can automatically generate model definitions for your tables using the ",["$","$Ld",null,{"href":"/docs/products/databases/type-generation","children":"Clikkle CLI"}],". Run ",["$","code",null,{"children":"clikkle types collection"}]," to generate types based on your database schema."]}]]}]
+32:["$","$Lf",null,{"id":"permissions","level":1,"children":"Permissions "}]
+33:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In Clikkle, permissions can be granted at the table level and the row level."," ","Before a user can create a row, you need to grant create permissions to the user."]}]
+34:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Read, update, and delete permissions can be granted at both the table and row level."," ","Users only need to be granted access at either the table or row level to access rows."]}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$Ld",null,{"href":"/docs/products/databases/permissions","children":"Learn about configuring permissions"}],"."]}]
+36:["$","$Lf",null,{"id":"use-transactions","level":1,"children":"Use transactions "}]
+37:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["All row operations support ",["$","code",null,{"children":"transactionId"}],". When provided, operations are staged to an internal log and not applied until the transaction is committed. Learn more in the ",["$","$Ld",null,{"href":"/docs/products/databases/transactions","children":"Transactions guide"}],"."]}]
+38:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"// Create row inside a transaction\nawait tablesDB.createRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { title: 'Draft' },\n    transactionId: '<TRANSACTION_ID>'\n});\n\n// Update row inside a transaction\nawait tablesDB.updateRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { title: 'Published' },\n    transactionId: '<TRANSACTION_ID>'\n});\n","children":"// Create row inside a transaction\nawait tablesDB.createRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { title: 'Draft' },\n    transactionId: '<TRANSACTION_ID>'\n});\n\n// Update row inside a transaction\nawait tablesDB.updateRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { title: 'Published' },\n    transactionId: '<TRANSACTION_ID>'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"// Create row inside a transaction\nawait tablesDB.createRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { 'title': 'Draft' },\n    transactionId: '<TRANSACTION_ID>'\n);\n\n// Update row inside a transaction\nawait tablesDB.updateRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { 'title': 'Published' },\n    transactionId: '<TRANSACTION_ID>'\n);\n","children":"// Create row inside a transaction\nawait tablesDB.createRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { 'title': 'Draft' },\n    transactionId: '<TRANSACTION_ID>'\n);\n\n// Update row inside a transaction\nawait tablesDB.updateRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { 'title': 'Published' },\n    transactionId: '<TRANSACTION_ID>'\n);\n"}],["$","$L11",null,{"language":"client-apple","content":"// Create row inside a transaction\nlet _ = try await tablesDB.createRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    data: [\"title\": \"Draft\"],\n    transactionId: \"<TRANSACTION_ID>\"\n)\n\n// Update row inside a transaction\nlet _2 = try await tablesDB.updateRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    data: [\"title\": \"Published\"],\n    transactionId: \"<TRANSACTION_ID>\"\n)\n","children":"// Create row inside a transaction\nlet _ = try await tablesDB.createRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    data: [\"title\": \"Draft\"],\n    transactionId: \"<TRANSACTION_ID>\"\n)\n\n// Update row inside a transaction\nlet _2 = try await tablesDB.updateRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    data: [\"title\": \"Published\"],\n    transactionId: \"<TRANSACTION_ID>\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"// Create row inside a transaction\nval _ = tablesDB.createRow(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    data = mapOf(\"title\" to \"Draft\"),\n    transactionId = \"<TRANSACTION_ID>\"\n)\n\n// Update row inside a transaction\nval _2 = tablesDB.updateRow(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    data = mapOf(\"title\" to \"Published\"),\n    transactionId = \"<TRANSACTION_ID>\"\n)\n","children":"// Create row inside a transaction\nval _ = tablesDB.createRow(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    data = mapOf(\"title\" to \"Draft\"),\n    transactionId = \"<TRANSACTION_ID>\"\n)\n\n// Update row inside a transaction\nval _2 = tablesDB.updateRow(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    data = mapOf(\"title\" to \"Published\"),\n    transactionId = \"<TRANSACTION_ID>\"\n)\n"}],"$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51"]}]
+39:["$","$Lf",null,{"id":"next-steps","level":1,"children":"Next steps "}]
+3a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Continue learning with these related guides:"}]
+3b:["$","div",null,{"className":"not-prose my-8 grid grid-cols-1 gap-8 md:grid-cols-2","children":[["$","$Ld",null,{"href":"/docs/products/databases/queries","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Queries"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn how to filter, sort, and search your rows with various query operators."}]}]]}],["$","$Ld",null,{"href":"/docs/products/databases/pagination","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Pagination"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Handle large datasets by implementing pagination in your row queries."}]}]]}],["$","$Ld",null,{"href":"/docs/products/databases/bulk-operations","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Bulk operations"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Perform create, update, and delete operations on multiple rows simultaneously."}]}]]}],["$","$Ld",null,{"href":"/docs/products/databases/timestamp-overrides","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Timestamp overrides"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Set custom creation and update timestamps when migrating data or backdating records."}]}]]}]]}]
+3c:["$","$L52",null,{}]
+40:null
+41:["$","$L11",null,{"language":"graphql","content":"query {\n    tablesListRows(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        queries: [\"equal(\\\"title\\\", [\\\"Avatar\\\"])\"]\n    ) {\n        total\n        rows {\n            _id\n            data\n        }\n    }\n}\n","children":"query {\n    tablesListRows(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        queries: [\"equal(\\\"title\\\", [\\\"Avatar\\\"])\"]\n    ) {\n        total\n        rows {\n            _id\n            data\n        }\n    }\n}\n"}]
+42:["$","$L11",null,{"language":"graphql","content":"mutation {\n    tablesUpsertRow(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        data: \"{}\"\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n","children":"mutation {\n    tablesUpsertRow(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        data: \"{}\"\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n"}]
+45:["$","$L11",null,{"language":"client-web","content":"const tablesDB = new TablesDB(client);\n\ntry {\n    // Create with generics\n    const newBook = await tablesDB.createRow<Book>({\n        databaseId: '<DATABASE_ID>',\n        tableId: '<TABLE_ID>',\n        rowId: ID.unique(),\n        data: {\n            title: \"The Great Gatsby\",\n            author: \"F. Scott Fitzgerald\",\n            isAvailable: true\n        }\n    });\n\n    // List with generics\n    const books = await tablesDB.listRows<Book>({\n        databaseId: '<DATABASE_ID>',\n        tableId: '<TABLE_ID>'\n    });\n\n    // TypeScript provides full type safety\n    books.rows.forEach(book => {\n        console.log(`Book: ${book.title} by ${book.author}`);\n        if (book.isAvailable) {\n            console.log(\"Available for checkout\");\n        }\n    });\n} catch (error) {\n    console.log(error);\n}\n","children":"const tablesDB = new TablesDB(client);\n\ntry {\n    // Create with generics\n    const newBook = await tablesDB.createRow<Book>({\n        databaseId: '<DATABASE_ID>',\n        tableId: '<TABLE_ID>',\n        rowId: ID.unique(),\n        data: {\n            title: \"The Great Gatsby\",\n            author: \"F. Scott Fitzgerald\",\n            isAvailable: true\n        }\n    });\n\n    // List with generics\n    const books = await tablesDB.listRows<Book>({\n        databaseId: '<DATABASE_ID>',\n        tableId: '<TABLE_ID>'\n    });\n\n    // TypeScript provides full type safety\n    books.rows.forEach(book => {\n        console.log(`Book: ${book.title} by ${book.author}`);\n        if (book.isAvailable) {\n            console.log(\"Available for checkout\");\n        }\n    });\n} catch (error) {\n    console.log(error);\n}\n"}]
+46:["$","$L11",null,{"language":"client-android-java","content":"// Create row inside a transaction (asynchronous)\nMap<String, Object> data = new HashMap<>();\ndata.put(\"title\", \"Draft\");\n\ntablesDB.createRow(\n    \"<DATABASE_ID>\",\n    \"<TABLE_ID>\",\n    \"<ROW_ID>\",\n    data,\n    \"<TRANSACTION_ID>\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return null;\n        }\n        System.out.println(result);\n        return null;\n    })\n);\n\n// Update row inside a transaction (asynchronous)\nMap<String, Object> update = new HashMap<>();\nupdate.put(\"title\", \"Published\");\n\ntablesDB.updateRow(\n    \"<DATABASE_ID>\",\n    \"<TABLE_ID>\",\n    \"<ROW_ID>\",\n    update,\n    \"<TRANSACTION_ID>\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return null;\n        }\n        System.out.println(result);\n        return null;\n    })\n);\n","children":"// Create row inside a transaction (asynchronous)\nMap<String, Object> data = new HashMap<>();\ndata.put(\"title\", \"Draft\");\n\ntablesDB.createRow(\n    \"<DATABASE_ID>\",\n    \"<TABLE_ID>\",\n    \"<ROW_ID>\",\n    data,\n    \"<TRANSACTION_ID>\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return null;\n        }\n        System.out.println(result);\n        return null;\n    })\n);\n\n// Update row inside a transaction (asynchronous)\nMap<String, Object> update = new HashMap<>();\nupdate.put(\"title\", \"Published\");\n\ntablesDB.updateRow(\n    \"<DATABASE_ID>\",\n    \"<TABLE_ID>\",\n    \"<ROW_ID>\",\n    update,\n    \"<TRANSACTION_ID>\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return null;\n        }\n        System.out.println(result);\n        return null;\n    })\n);\n"}]
+47:["$","$L11",null,{"language":"client-react-native","content":"// Create row inside a transaction\nawait tablesDB.createRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { title: 'Draft' },\n    transactionId: '<TRANSACTION_ID>'\n});\n\n// Update row inside a transaction\nawait tablesDB.updateRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { title: 'Published' },\n    transactionId: '<TRANSACTION_ID>'\n});\n","children":"// Create row inside a transaction\nawait tablesDB.createRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { title: 'Draft' },\n    transactionId: '<TRANSACTION_ID>'\n});\n\n// Update row inside a transaction\nawait tablesDB.updateRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: { title: 'Published' },\n    transactionId: '<TRANSACTION_ID>'\n});\n"}]
+48:["$","$L11",null,{"language":"server-nodejs","content":"// Delete row inside a transaction\nawait tablesDB.deleteRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    transactionId: '<TRANSACTION_ID>'\n});\n","children":"// Delete row inside a transaction\nawait tablesDB.deleteRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    transactionId: '<TRANSACTION_ID>'\n});\n"}]
+49:["$","$L11",null,{"language":"server-deno","content":"// Delete row inside a transaction\nawait tablesDB.deleteRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    transactionId: '<TRANSACTION_ID>'\n});\n","children":"// Delete row inside a transaction\nawait tablesDB.deleteRow({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    transactionId: '<TRANSACTION_ID>'\n});\n"}]
+4a:["$","$L11",null,{"language":"server-python","content":"# Delete row inside a transaction\ntablesDB.delete_row(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    transaction_id = '<TRANSACTION_ID>'\n)\n","children":"# Delete row inside a transaction\ntablesDB.delete_row(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    transaction_id = '<TRANSACTION_ID>'\n)\n"}]
+4b:["$","$L11",null,{"language":"server-php","content":"// Delete row inside a transaction\n$tablesDB->deleteRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    transactionId: '<TRANSACTION_ID>'\n);\n","children":"// Delete row inside a transaction\n$tablesDB->deleteRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    transactionId: '<TRANSACTION_ID>'\n);\n"}]
+4c:["$","$L11",null,{"language":"server-ruby","content":"# Delete row inside a transaction\ntablesDB.delete_row(\n    database_id: '<DATABASE_ID>',\n    table_id: '<TABLE_ID>',\n    row_id: '<ROW_ID>',\n    transaction_id: '<TRANSACTION_ID>'\n)\n","children":"# Delete row inside a transaction\ntablesDB.delete_row(\n    database_id: '<DATABASE_ID>',\n    table_id: '<TABLE_ID>',\n    row_id: '<ROW_ID>',\n    transaction_id: '<TRANSACTION_ID>'\n)\n"}]
+4d:["$","$L11",null,{"language":"server-dotnet","content":"// Delete row inside a transaction\nawait tablesDB.DeleteRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    transactionId: \"<TRANSACTION_ID>\"\n);\n","children":"// Delete row inside a transaction\nawait tablesDB.DeleteRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    transactionId: \"<TRANSACTION_ID>\"\n);\n"}]
+4e:["$","$L11",null,{"language":"server-dart","content":"// Delete row inside a transaction\nawait tablesDB.deleteRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    transactionId: '<TRANSACTION_ID>'\n);\n","children":"// Delete row inside a transaction\nawait tablesDB.deleteRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    transactionId: '<TRANSACTION_ID>'\n);\n"}]
+4f:["$","$L11",null,{"language":"server-swift","content":"// Delete row inside a transaction\nlet _ = try await tablesDB.deleteRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    transactionId: \"<TRANSACTION_ID>\"\n)\n","children":"// Delete row inside a transaction\nlet _ = try await tablesDB.deleteRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    transactionId: \"<TRANSACTION_ID>\"\n)\n"}]
+50:["$","$L11",null,{"language":"server-kotlin","content":"// Delete row inside a transaction\nval _ = tablesDB.deleteRow(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    transactionId = \"<TRANSACTION_ID>\"\n)\n","children":"// Delete row inside a transaction\nval _ = tablesDB.deleteRow(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    transactionId = \"<TRANSACTION_ID>\"\n)\n"}]
+51:["$","$L11",null,{"language":"server-java","content":"// Delete row inside a transaction (asynchronous)\ntablesDB.deleteRow(\n    \"<DATABASE_ID>\",\n    \"<TABLE_ID>\",\n    \"<ROW_ID>\",\n    \"<TRANSACTION_ID>\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return null;\n        }\n        System.out.println(result);\n        return null;\n    })\n);\n","children":"// Delete row inside a transaction (asynchronous)\ntablesDB.deleteRow(\n    \"<DATABASE_ID>\",\n    \"<TABLE_ID>\",\n    \"<ROW_ID>\",\n    \"<TRANSACTION_ID>\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return null;\n        }\n        System.out.println(result);\n        return null;\n    })\n);\n"}]

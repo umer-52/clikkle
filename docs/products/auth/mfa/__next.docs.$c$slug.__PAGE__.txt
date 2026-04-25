@@ -1,0 +1,2232 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+21:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+22:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+23:"$Sreact.suspense"
+25:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+26:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+33:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T64e6,---
+layout: article
+title: Multi-factor authentication
+description: Add multiple layers of authentication to your applications powered by Clikkle Authentication.
+---
+
+Multi-factor authentication (MFA) greatly increases the security of your apps by adding additional layers of protection.
+When MFA is enabled, a malicious actor needs to compromise multiple authentication factors to gain unauthorized access.
+Clikkle Authentication lets you easily implement MFA in your apps, letting you build more securely and quickly.
+
+{% info title="Looking for MFA on your Console account?" %}
+This page covers MFA for your app's end-users.
+If you are looking for MFA on your Clikkle Console account, please refer to the [Console MFA page](/docs/advanced/security/mfa).
+{% /info %}
+
+Clikkle currently allows two factors of authentication. More factors of authentication will be available soon.
+
+Here are the steps to implement MFA in your application.
+
+{% section #display-recover-code step=1 title="Display recovery codes" %}
+
+Initialize your Clikkle SDK's `Client`, `Account`, and `Avatars`.
+You'll use Avatars API to generate a QR code for the TOTP authenticator app, you can skip this import if you're not using TOTP.
+
+{% multicode %}
+```client-web
+import { Client, Account, Avatars } from "clikkle";
+
+const client = new Client();
+
+const account = new Account(client);
+const avatars = new Avatars(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Account account = Account(client);
+  Avatars avatars = Avatars(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')             // Your project ID
+  ;
+}
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+let account = Account(client)
+let avatars = Avatars(client)
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Account
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+val account = Account(client)
+val avatars = Avatars(client)
+```
+{% /multicode %}
+
+Before enabling MFA, you should display recovery codes to the user.
+The codes are single use passwords the user can use to access their account if they lose access to their MFA email,
+phone, or authenticator app. These codes can **only be generated once**, warn the users to save them.
+
+The code will look like this, display them to the user and remind them to save the codes in a secure place.
+
+```json
+{
+    "recoveryCodes": [
+        "b654562828",
+        "a97c13d8c0",
+        "311580b5f3",
+        "c4262b3f88",
+        "7f6761afb4",
+        "55a09989be",
+    ]
+}
+```
+These codes can be used to complete the [Complete challenge](#complete-challenge) step if the user loses access to their MFA factors.
+Generate the recovery codes by calling `account.createMfaRecoveryCodes()`.
+
+{% multicode %}
+```client-web
+const response = await account.createMfaRecoveryCodes();
+console.log(response.recoveryCodes);
+```
+
+```client-flutter
+Future result = account.createMfaRecoveryCodes();
+
+result.then((response) {
+    print(response.recoveryCodes);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaRecoveryCodes()
+print(response.recoveryCodes)
+```
+
+```client-android-kotlin
+val response = account.createMfaRecoveryCodes()
+println(response.recoveryCodes)
+```
+
+```client-android-java
+account.createMfaRecoveryCodes(new CoroutineCallback<>((result, error) -> {
+   if (error != null) {
+        error.printStackTrace();
+        return;
+    }
+
+    Log.d("Clikkle", result.recoveryCodes.toString());
+}));
+```
+{% /multicode %}
+{% /section %}
+
+{% section #verify-factors step=2 title="Verify MFA factors" %}
+Any verified email, phone number, or TOTP authenticator app can be used as a factor for MFA.
+Before they can be used as a factor, they need to be verified.
+
+{% tabs %}
+{% tabsitem #email title="Email" %}
+First, set your user's email if they haven't already.
+{% multicode %}
+```client-web
+const response = await account.updateEmail({
+    email: 'email@example.com',
+    password: 'password'
+});
+```
+```client-flutter
+Future result = account.updateEmail(
+    email: 'email@example.com',
+    password: 'password',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+let response = try await account.updateEmail(
+  email: "email@example.com",
+  password: "password"
+)
+```
+```client-android-kotlin
+val response = account.updateEmail(
+    email = "email@example.com",
+    password = "password"
+)
+```
+```client-android-java
+account.updateEmail(
+    "email@example.com", // email
+    "password", // password
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+Then, initiate verification for the email by calling `account.createEmailVerification()`.
+Calling `createEmailVerification` will send a verification email to the user's email address
+with a link with the query parameter `userId` and `secret`.
+
+{% multicode %}
+```client-web
+const res = await account.createVerification({
+    url: 'https://example.com/verify-email'
+});
+```
+```client-flutter
+Future result = account.createVerification(
+    url: 'https://example.com/verify-email',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+
+```
+```client-apple
+let response = try await account.createVerification(
+  url: "https://example.com/verify-email"
+)
+```
+```client-android-kotlin
+val response = account.createVerification(
+    url = "https://example.com/verify-email"
+)
+```
+```client-android-java
+account.createVerification(
+    "https://example.com/verify-email", // url
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+After the user clicks the link in the email, they will be redirected to your site with the query parameters `userId` and `secret`.
+If you're on a mobile platform, you will need to create the appropriate deep link to handle the verification.
+
+Finally, verify the email by calling `account.updateVerification()` with `userId` and `secret`.
+
+{% multicode %}
+```client-web
+const response = await account.updateVerification({
+    userId: '<USER_ID>',
+    secret: '<SECRET>'
+});
+```
+```client-flutter
+Future result = account.updateVerification(
+    userId: '<USER_ID>',
+    secret: '<SECRET>',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+let response = try await account.updateVerification(
+  userId: "<USER_ID>",
+  secret: "<SECRET>"
+)
+```
+```client-android-kotlin
+val response = account.updateVerification(
+    userId = "<USER_ID>",
+    secret = "<SECRET>"
+)
+```
+```client-android-java
+account.updateVerification(
+    "<USER_ID>", // userId
+    "<SECRET>", // secret
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+{% /tabsitem %}
+
+{% tabsitem #phone title="Phone" %}
+First, set your user's phone number if they haven't already.
+
+{% multicode %}
+```client-web
+const response = await account.updatePhone({
+    phone: '+12065550100',
+    password: 'password'
+});
+```
+```client-flutter
+Future result = account.updatePhone(
+    phone: '+12065550100',
+    password: 'password',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+let response = try await account.updatePhone(
+  phone: "+12065550100",
+  password: "password"
+)
+```
+```client-android-kotlin
+val response = account.updatePhone(
+    phone = "+12065550100",
+    password = "password"
+)
+```
+```client-android-java
+account.updatePhone(
+    "+12065550100", // phone
+    "password", // password
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+Then, initiate verification for the phone number by calling `account.createPhoneVerification()`.
+{% multicode %}
+```client-web
+const response = await account.createPhoneVerification();
+```
+```client-flutter
+Future result = account.createPhoneVerification();
+
+result
+    .then((response) {
+        print(response);
+    }).catchError((error) {
+        print(error.response);
+});
+```
+```client-apple
+let response = try await account.createPhoneVerification()
+```
+```client-android-kotlin
+val response = account.createPhoneVerification()
+```
+```client-android-java
+account.createPhoneVerification(new CoroutineCallback<>((result, error) -> {
+   if (error != null)
+        error.printStackTrace();
+        return;
+    }
+
+    Log.d("Clikkle", result.toString());
+}));
+```
+{% /multicode %}
+
+After the user receives the verification code, they can verify their phone number by calling `account.updatePhoneVerification()`.
+{% multicode %}
+```client-web
+const response = await account.updatePhoneVerification({
+    userId: '<USER_ID>',
+    secret: '<SECRET>'
+});
+```
+```client-flutter
+Future result = account.updatePhoneVerification(
+    userId: '<USER_ID>',
+    secret: '<SECRET>',
+);
+
+result.then((response) {
+        print(response);
+    }).catchError((error) {
+        print(error.response);
+    });
+```
+```client-apple
+let response = try await account.updatePhoneVerification(
+  userId: "<USER_ID>",
+  secret: "<SECRET>"
+)
+```
+```client-android-kotlin
+val response = account.updatePhoneVerification(
+    userId = "<USER_ID>",
+    secret = "<SECRET>"
+)
+```
+```client-android-java
+account.updatePhoneVerification(
+    "<USER_ID>", // userId
+    "<SECRET>", // secret
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+{% /tabsitem %}
+
+{% tabsitem #authenticator title="Authenticator" %}
+First, add a TOTP authenticator to the user's account by calling `account.addAuthenticator()`.
+
+{% multicode %}
+```client-web
+const { secret, uri } = await account.createMfaAuthenticator({
+    type: 'totp'
+});
+```
+```client-flutter
+Future result = account.createMfaAuthenticator(
+    type: 'totp',
+);
+
+result.then((response) {
+    print(response.secret);
+    print(response.uri);
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+let response = try await account.createMfaAuthenticator(
+  type: "totp"
+)
+print(response.secret)
+print(response.uri)
+```
+```client-android-kotlin
+val response = account.createMfaAuthenticator(
+    type = "totp"
+)
+println(response.secret)
+println(response.uri)
+```
+```client-android-java
+account.createMfaAuthenticator(
+    "totp", // type
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+This will create a secret and a URI.
+The URI is a URL that can be used to generate a QR code for the user to scan with their TOTP authenticator app.
+
+You can generate a QR code for the user to scan by calling `avatars.getQR()`.
+
+{% multicode %}
+```client-web
+const result = await avatars.getQR({
+    text: uri,
+    size: 800,  // optional
+    margin: 0,  // optional
+    download: false // optional
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+// download QR code image
+Future result = avatars.getQR(
+    text: authenticatorUrl,
+    size: 800, // optional
+    margin: 0, // optional
+    download: false, // optional
+).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes);
+}).catchError((error) {
+    print(error.response);
+});
+
+// display QR code image
+FutureBuilder(
+    future: avatars.getQR(
+        text: authenticatorUrl,
+        size: 800, // optional
+        margin: 0, // optional
+        download: false, // optional
+    ), // works for both public file and private file, for private files you need to be logged in
+    builder: (context, snapshot) {
+        return snapshot.hasData && snapshot.data != null
+            ? Image.memory(
+                snapshot.data,
+            )
+            : CircularProgressIndicator();
+    },
+);
+```
+```client-apple
+let byteBuffer = try await avatars.getQR(
+  text: authenticatorUrl,
+  size: 800, // optional
+  margin: 0, // optional
+  download: xfalse // optional
+)
+```
+```client-android-kotlin
+val result = avatars.getQR(
+    text = authenticatorUrl,
+    size = 800, // optional
+    margin = 0, // optional
+    download = false // optional
+)
+```
+```client-android-java
+avatars.getQR(
+    authenticatorUrl, // text
+    800, // size (optional)
+    0, // margin (optional)
+    false, // download (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+If the user is unable to scan QR codes, you can display the `secret` to the user.
+
+Finally prompt the user to enter a TOTP from their authenticator app, then
+verify the authenticator by calling `account.verifyMfaAuthenticator()`.
+
+{% multicode %}
+```client-web
+const promise = account.updateMfaAuthenticator({
+    type: 'totp',
+    otp: '<OTP>'
+});
+```
+```client-flutter
+  Future result = account.updateMfaAuthenticator(
+    type: 'totp',
+    otp: '<OTP>',
+  );
+
+  result.then((response) {
+    print(response);
+  }).catchError((error) {
+    print(error.response);
+  });
+```
+```client-apple
+let response = try await account.updateMfaAuthenticator(
+  type: "totp",
+  otp: "<OTP>"
+)
+```
+```client-android-kotlin
+val response = account.updateMfaAuthenticator(
+    type = "totp",
+    otp = "<OTP>"
+)
+```
+```client-android-java
+account.updateMfaAuthenticator(
+    "totp", // type
+    "<OTP>", // otp
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+{% /tabsitem %}
+{% /tabs %}
+
+{% /section %}
+
+{% section #enable-mfa step=3 title="Enable MFA on an account" %}
+You can enable MFA on your account by calling `account.updateMFA()`.
+You will need to have added more than 1 factors of authentication to an account before
+the MFA is enforced.
+
+{% multicode %}
+```client-web
+const result = await account.updateMFA({
+    enabled: true
+});
+```
+
+```client-flutter
+Future result = account.updateMFA(
+    mfa: true,
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.updateMFA(
+  mfa: xtrue
+)
+```
+
+```client-android-kotlin
+val response = account.updateMFA(
+    mfa = true
+)
+```
+{% /multicode %}
+{% /section %}
+
+{% section #init-login step=4 title="Initialize login" %}
+Begin your login flow with the default authentication method used by your app, for example, email password.
+
+{% multicode %}
+```client-web
+const session = await account.createEmailPasswordSession({
+    email: 'email@example.com',
+    password: 'password'
+});
+```
+
+```client-flutter
+Future session = account.createEmailPasswordSession(
+email: 'email@example.com',
+password: 'password',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createEmailPasswordSession(
+  email: "email@example.com",
+  password: "password"
+)
+```
+
+```client-android-kotlin
+val session = account.createEmailPasswordSession(
+    email = "email@example.com",
+    password = "password"
+)
+```
+{% /multicode %}
+{% /section %}
+
+{% section #check-for-mfa step=5 title="Check for multi-factor" %}
+Upon successful login in the first authentication step, check the status of the login by calling `account.get()`.
+If more than one factors are required, you will receive the error `user_more_factors_required`.
+Redirect the user in your app to perform the MFA challenge.
+
+{% multicode %}
+```client-web
+try {
+    const response = await account.get();
+    console.log(response);
+} catch (error) {
+    console.log(error);
+    if (error.type === `user_more_factors_required`){
+        // redirect to perform MFA
+    }
+    else {
+        // handle other errors
+    }
+}
+```
+
+```client-flutter
+const promise = account.get();
+
+promise.then(function (response) {
+    console.log(response);           // Success
+}, function (error) {
+    console.log(error);              // Failure
+    if (error.type === "user_more_factors_required"){
+        // redirect to perform MFA
+    }
+    else {
+        // handle other errors
+    }
+});
+```
+
+```client-flutter
+Future result = account.get();
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+    if (error.type == 'user_more_factors_required') {
+    // redirect to perform MFA
+    } else {
+    // handle other errors
+    }
+});
+```
+
+```client-apple
+do {
+    let response = try await account.get()
+} catch let error as ClikkleException {
+    print(error.message)
+    if error.type == "user_more_factors_required" {
+        // redirect to perform MFA
+    } else {
+        // handle other errors
+    }
+}
+```
+
+```client-android-kotlin
+try {
+    val response = account.get()
+    println(response)
+} catch (error: ClikkleException) {
+    println(error.message)
+    if (error.type == "user_more_factors_required") {
+        // redirect to perform MFA
+    } else {
+        // handle other errors
+    }
+}
+```
+{% /multicode %}
+{% /section %}
+
+{% section #list-provider step=6 title="List factors" %}
+You can check which factors are enabled for an account using `account.listMfaFactors()`.
+The returned object will be formatted like this.
+
+```client-web
+{
+    totp: true, // time-based one-time password
+    email: false, // email
+    phone: true // phone
+}
+```
+
+{% multicode %}
+```client-web
+const factors = await account.listMfaFactors();
+// redirect based on factors returned.
+```
+
+```client-flutter
+Future result = account.listMfaFactors();
+
+result.then((response) {
+    print(response);
+    // redirect based on factors returned.
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.listMfaFactors()
+// redirect based on factors returned.
+```
+
+```client-android-kotlin
+val response = account.listMfaFactors()
+// redirect based on factors returned.
+```
+{% /multicode %}
+{% /section %}
+
+{% section #create-challenge step=7 title="Create challenge" %}
+Based on the factors available, initialize an additional auth step.
+Calling these methods will send a challenge to the user.
+You will need to save the challenge ID to complete the challenge in a later step.
+
+{% tabs %}
+{% tabsitem #email title="Email" %}
+Clikkle will use a verified email on the user's account to send the challenge code via email.
+Note that this is only valid as a second factor if the user did not initialize their login with email OTP.
+
+{% multicode %}
+```client-web
+const challenge = await account.createMfaChallenge({
+    factor: 'email'
+});
+
+// Save the challenge ID to complete the challenge later
+const challengeId = challenge.$id;
+```
+
+```client-flutter
+Future result = account.createMfaChallenge(
+factor: 'email',
+);
+
+result.then((response) {
+    print(response);
+    // Save the challenge ID to complete the challenge later
+    var challengeId = response.$id;
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaChallenge(
+  factor: "email"
+)
+// Save the challenge ID to complete the challenge later
+let challengeId = response.id
+```
+
+```client-android-kotlin
+val response = account.createMfaChallenge(
+    factor = "email"
+)
+// Save the challenge ID to complete the challenge later
+val challengeId = response.id
+```
+{% /multicode %}
+{% /tabsitem %}
+
+{% tabsitem #phone title="Phone" %}
+Clikkle will use a verified phone number on the user's account to send the challenge code via SMS.
+You cannot use this method if the user initialized their login with phone OTP.
+
+{% multicode %}
+```client-web
+const challenge = await account.createMfaChallenge({
+    factor: 'phone'
+});
+
+// Save the challenge ID to complete the challenge later
+const challengeId = challenge.$id;
+```
+
+```client-flutter
+Future result = account.createMfaChallenge(
+factor: 'phone',
+);
+
+result.then((response) {
+    print(response);
+    // Save the challenge ID to complete the challenge later
+    var challengeId = response.$id;
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaChallenge(
+  factor: "phone"
+)
+// Save the challenge ID to complete the challenge later
+let challengeId = response.id
+```
+
+```client-android-kotlin
+val response = account.createMfaChallenge(
+    factor = "phone"
+)
+// Save the challenge ID to complete the challenge later
+val challengeId = response.id
+```
+{% /multicode %}
+{% /tabsitem %}
+
+{% tabsitem #totp title="TOTP" %}
+
+Initiate a challenge for users to complete using an authenticator app.
+
+{% multicode %}
+```client-web
+const challenge = await account.createMfaChallenge({
+    factor: AuthenticationFactor.Totp
+});
+
+// Save the challenge ID to complete the challenge later
+const challengeId = challenge.$id;
+```
+
+```client-flutter
+Future result = account.createMfaChallenge(
+factor: 'totp',
+);
+
+result.then((response) {
+    print(response);
+    // Save the challenge ID to complete the challenge later
+    var challengeId = response.$id;
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaChallenge(
+  factor: "totp"
+)
+// Save the challenge ID to complete the challenge later
+let challengeId = response.id
+```
+
+```client-android-kotlin
+val response = account.createMfaChallenge(
+    factor = "totp"
+)
+// Save the challenge ID to complete the challenge later
+val challengeId = response.id
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+{% /section %}
+
+{% section #complete-challenge step=8 title="Complete challenge" %}
+Once the user receives the challenge code, you can pass the code back to Clikkle to complete the challenge.
+
+{% multicode %}
+```client-web
+const response = await account.updateMfaChallenge({
+    challengeId: '<CHALLENGE_ID>',
+    otp: '<OTP>'
+});
+```
+
+```client-flutter
+Future result = account.updateMfaChallenge(
+    challengeId: '<CHALLENGE_ID>',
+    otp: '<OTP>',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+val response = account.updateMfaChallenge(
+    challengeId = "<CHALLENGE_ID>",
+    otp = "<OTP>"
+)
+```
+
+```client-android-kotlin
+let result = try await account.updateMfaChallenge(
+  challengeId: "<CHALLENGE_ID>",
+  otp: "<OTP>"
+)
+```
+{% /multicode %}
+
+After completing the challenge, the user is now authenticated and all requests will be authorized.
+You can confirm this by running `account.get()`
+{% /section %}
+
+{% section #recovery step=9 title="Recovery" %}
+In case your user needs to recover their account, they can use the recovery codes generated in the first step with the
+recovery code factor. Initialize the challenge by calling `account.createMfaChallenge()` with the factor `recoverycode`.
+
+{% multicode %}
+```client-web
+const challenge = await account.createMfaChallenge({
+    factor: AuthenticationFactor.Recoverycode
+});
+
+// Save the challenge ID to complete the challenge later
+const challengeId = challenge.$id;
+```
+
+```client-flutter
+Future result = account.createMfaChallenge(
+factor: 'recoverycode',
+);
+
+result.then((response) {
+    print(response);
+    // Save the challenge ID to complete the challenge later
+    var challengeId = response.$id;
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaChallenge(
+  factor: "recoverycode"
+)
+// Save the challenge ID to complete the challenge later
+let challengeId = response.id
+```
+
+```client-android-kotlin
+val response = account.createMfaChallenge(
+    factor = "recoverycode"
+)
+// Save the challenge ID to complete the challenge later
+val challengeId = response.id
+```
+{% /multicode %}
+
+Then complete the challenge by calling `account.updateMfaChallenge()` with the challenge ID and the recovery code.
+
+{% multicode %}
+```client-web
+const response = await account.updateMfaChallenge({
+    challengeId: '<CHALLENGE_ID>',
+    otp: '<RECOVERY_CODE>'
+});
+```
+
+```client-flutter
+Future result = account.updateMfaChallenge(
+    challengeId: '<CHALLENGE_ID>',
+    otp: '<RECOVERY_CODE>',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+val response = account.updateMfaChallenge(
+    challengeId = "<CHALLENGE_ID>",
+    otp = "<RECOVERY_CODE>"
+)
+```
+
+```client-android-kotlin
+let result = try await account.updateMfaChallenge(
+  challengeId: "<CHALLENGE_ID>",
+  otp: "<RECOVERY_CODE>"
+)
+```
+{% /multicode %}
+{% /section %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T64e6,---
+layout: article
+title: Multi-factor authentication
+description: Add multiple layers of authentication to your applications powered by Clikkle Authentication.
+---
+
+Multi-factor authentication (MFA) greatly increases the security of your apps by adding additional layers of protection.
+When MFA is enabled, a malicious actor needs to compromise multiple authentication factors to gain unauthorized access.
+Clikkle Authentication lets you easily implement MFA in your apps, letting you build more securely and quickly.
+
+{% info title="Looking for MFA on your Console account?" %}
+This page covers MFA for your app's end-users.
+If you are looking for MFA on your Clikkle Console account, please refer to the [Console MFA page](/docs/advanced/security/mfa).
+{% /info %}
+
+Clikkle currently allows two factors of authentication. More factors of authentication will be available soon.
+
+Here are the steps to implement MFA in your application.
+
+{% section #display-recover-code step=1 title="Display recovery codes" %}
+
+Initialize your Clikkle SDK's `Client`, `Account`, and `Avatars`.
+You'll use Avatars API to generate a QR code for the TOTP authenticator app, you can skip this import if you're not using TOTP.
+
+{% multicode %}
+```client-web
+import { Client, Account, Avatars } from "clikkle";
+
+const client = new Client();
+
+const account = new Account(client);
+const avatars = new Avatars(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Account account = Account(client);
+  Avatars avatars = Avatars(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')             // Your project ID
+  ;
+}
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+let account = Account(client)
+let avatars = Avatars(client)
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Account
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+val account = Account(client)
+val avatars = Avatars(client)
+```
+{% /multicode %}
+
+Before enabling MFA, you should display recovery codes to the user.
+The codes are single use passwords the user can use to access their account if they lose access to their MFA email,
+phone, or authenticator app. These codes can **only be generated once**, warn the users to save them.
+
+The code will look like this, display them to the user and remind them to save the codes in a secure place.
+
+```json
+{
+    "recoveryCodes": [
+        "b654562828",
+        "a97c13d8c0",
+        "311580b5f3",
+        "c4262b3f88",
+        "7f6761afb4",
+        "55a09989be",
+    ]
+}
+```
+These codes can be used to complete the [Complete challenge](#complete-challenge) step if the user loses access to their MFA factors.
+Generate the recovery codes by calling `account.createMfaRecoveryCodes()`.
+
+{% multicode %}
+```client-web
+const response = await account.createMfaRecoveryCodes();
+console.log(response.recoveryCodes);
+```
+
+```client-flutter
+Future result = account.createMfaRecoveryCodes();
+
+result.then((response) {
+    print(response.recoveryCodes);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaRecoveryCodes()
+print(response.recoveryCodes)
+```
+
+```client-android-kotlin
+val response = account.createMfaRecoveryCodes()
+println(response.recoveryCodes)
+```
+
+```client-android-java
+account.createMfaRecoveryCodes(new CoroutineCallback<>((result, error) -> {
+   if (error != null) {
+        error.printStackTrace();
+        return;
+    }
+
+    Log.d("Clikkle", result.recoveryCodes.toString());
+}));
+```
+{% /multicode %}
+{% /section %}
+
+{% section #verify-factors step=2 title="Verify MFA factors" %}
+Any verified email, phone number, or TOTP authenticator app can be used as a factor for MFA.
+Before they can be used as a factor, they need to be verified.
+
+{% tabs %}
+{% tabsitem #email title="Email" %}
+First, set your user's email if they haven't already.
+{% multicode %}
+```client-web
+const response = await account.updateEmail({
+    email: 'email@example.com',
+    password: 'password'
+});
+```
+```client-flutter
+Future result = account.updateEmail(
+    email: 'email@example.com',
+    password: 'password',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+let response = try await account.updateEmail(
+  email: "email@example.com",
+  password: "password"
+)
+```
+```client-android-kotlin
+val response = account.updateEmail(
+    email = "email@example.com",
+    password = "password"
+)
+```
+```client-android-java
+account.updateEmail(
+    "email@example.com", // email
+    "password", // password
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+Then, initiate verification for the email by calling `account.createEmailVerification()`.
+Calling `createEmailVerification` will send a verification email to the user's email address
+with a link with the query parameter `userId` and `secret`.
+
+{% multicode %}
+```client-web
+const res = await account.createVerification({
+    url: 'https://example.com/verify-email'
+});
+```
+```client-flutter
+Future result = account.createVerification(
+    url: 'https://example.com/verify-email',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+
+```
+```client-apple
+let response = try await account.createVerification(
+  url: "https://example.com/verify-email"
+)
+```
+```client-android-kotlin
+val response = account.createVerification(
+    url = "https://example.com/verify-email"
+)
+```
+```client-android-java
+account.createVerification(
+    "https://example.com/verify-email", // url
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+After the user clicks the link in the email, they will be redirected to your site with the query parameters `userId` and `secret`.
+If you're on a mobile platform, you will need to create the appropriate deep link to handle the verification.
+
+Finally, verify the email by calling `account.updateVerification()` with `userId` and `secret`.
+
+{% multicode %}
+```client-web
+const response = await account.updateVerification({
+    userId: '<USER_ID>',
+    secret: '<SECRET>'
+});
+```
+```client-flutter
+Future result = account.updateVerification(
+    userId: '<USER_ID>',
+    secret: '<SECRET>',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+let response = try await account.updateVerification(
+  userId: "<USER_ID>",
+  secret: "<SECRET>"
+)
+```
+```client-android-kotlin
+val response = account.updateVerification(
+    userId = "<USER_ID>",
+    secret = "<SECRET>"
+)
+```
+```client-android-java
+account.updateVerification(
+    "<USER_ID>", // userId
+    "<SECRET>", // secret
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+{% /tabsitem %}
+
+{% tabsitem #phone title="Phone" %}
+First, set your user's phone number if they haven't already.
+
+{% multicode %}
+```client-web
+const response = await account.updatePhone({
+    phone: '+12065550100',
+    password: 'password'
+});
+```
+```client-flutter
+Future result = account.updatePhone(
+    phone: '+12065550100',
+    password: 'password',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+let response = try await account.updatePhone(
+  phone: "+12065550100",
+  password: "password"
+)
+```
+```client-android-kotlin
+val response = account.updatePhone(
+    phone = "+12065550100",
+    password = "password"
+)
+```
+```client-android-java
+account.updatePhone(
+    "+12065550100", // phone
+    "password", // password
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+Then, initiate verification for the phone number by calling `account.createPhoneVerification()`.
+{% multicode %}
+```client-web
+const response = await account.createPhoneVerification();
+```
+```client-flutter
+Future result = account.createPhoneVerification();
+
+result
+    .then((response) {
+        print(response);
+    }).catchError((error) {
+        print(error.response);
+});
+```
+```client-apple
+let response = try await account.createPhoneVerification()
+```
+```client-android-kotlin
+val response = account.createPhoneVerification()
+```
+```client-android-java
+account.createPhoneVerification(new CoroutineCallback<>((result, error) -> {
+   if (error != null)
+        error.printStackTrace();
+        return;
+    }
+
+    Log.d("Clikkle", result.toString());
+}));
+```
+{% /multicode %}
+
+After the user receives the verification code, they can verify their phone number by calling `account.updatePhoneVerification()`.
+{% multicode %}
+```client-web
+const response = await account.updatePhoneVerification({
+    userId: '<USER_ID>',
+    secret: '<SECRET>'
+});
+```
+```client-flutter
+Future result = account.updatePhoneVerification(
+    userId: '<USER_ID>',
+    secret: '<SECRET>',
+);
+
+result.then((response) {
+        print(response);
+    }).catchError((error) {
+        print(error.response);
+    });
+```
+```client-apple
+let response = try await account.updatePhoneVerification(
+  userId: "<USER_ID>",
+  secret: "<SECRET>"
+)
+```
+```client-android-kotlin
+val response = account.updatePhoneVerification(
+    userId = "<USER_ID>",
+    secret = "<SECRET>"
+)
+```
+```client-android-java
+account.updatePhoneVerification(
+    "<USER_ID>", // userId
+    "<SECRET>", // secret
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+{% /tabsitem %}
+
+{% tabsitem #authenticator title="Authenticator" %}
+First, add a TOTP authenticator to the user's account by calling `account.addAuthenticator()`.
+
+{% multicode %}
+```client-web
+const { secret, uri } = await account.createMfaAuthenticator({
+    type: 'totp'
+});
+```
+```client-flutter
+Future result = account.createMfaAuthenticator(
+    type: 'totp',
+);
+
+result.then((response) {
+    print(response.secret);
+    print(response.uri);
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+let response = try await account.createMfaAuthenticator(
+  type: "totp"
+)
+print(response.secret)
+print(response.uri)
+```
+```client-android-kotlin
+val response = account.createMfaAuthenticator(
+    type = "totp"
+)
+println(response.secret)
+println(response.uri)
+```
+```client-android-java
+account.createMfaAuthenticator(
+    "totp", // type
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+This will create a secret and a URI.
+The URI is a URL that can be used to generate a QR code for the user to scan with their TOTP authenticator app.
+
+You can generate a QR code for the user to scan by calling `avatars.getQR()`.
+
+{% multicode %}
+```client-web
+const result = await avatars.getQR({
+    text: uri,
+    size: 800,  // optional
+    margin: 0,  // optional
+    download: false // optional
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+// download QR code image
+Future result = avatars.getQR(
+    text: authenticatorUrl,
+    size: 800, // optional
+    margin: 0, // optional
+    download: false, // optional
+).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes);
+}).catchError((error) {
+    print(error.response);
+});
+
+// display QR code image
+FutureBuilder(
+    future: avatars.getQR(
+        text: authenticatorUrl,
+        size: 800, // optional
+        margin: 0, // optional
+        download: false, // optional
+    ), // works for both public file and private file, for private files you need to be logged in
+    builder: (context, snapshot) {
+        return snapshot.hasData && snapshot.data != null
+            ? Image.memory(
+                snapshot.data,
+            )
+            : CircularProgressIndicator();
+    },
+);
+```
+```client-apple
+let byteBuffer = try await avatars.getQR(
+  text: authenticatorUrl,
+  size: 800, // optional
+  margin: 0, // optional
+  download: xfalse // optional
+)
+```
+```client-android-kotlin
+val result = avatars.getQR(
+    text = authenticatorUrl,
+    size = 800, // optional
+    margin = 0, // optional
+    download = false // optional
+)
+```
+```client-android-java
+avatars.getQR(
+    authenticatorUrl, // text
+    800, // size (optional)
+    0, // margin (optional)
+    false, // download (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+If the user is unable to scan QR codes, you can display the `secret` to the user.
+
+Finally prompt the user to enter a TOTP from their authenticator app, then
+verify the authenticator by calling `account.verifyMfaAuthenticator()`.
+
+{% multicode %}
+```client-web
+const promise = account.updateMfaAuthenticator({
+    type: 'totp',
+    otp: '<OTP>'
+});
+```
+```client-flutter
+  Future result = account.updateMfaAuthenticator(
+    type: 'totp',
+    otp: '<OTP>',
+  );
+
+  result.then((response) {
+    print(response);
+  }).catchError((error) {
+    print(error.response);
+  });
+```
+```client-apple
+let response = try await account.updateMfaAuthenticator(
+  type: "totp",
+  otp: "<OTP>"
+)
+```
+```client-android-kotlin
+val response = account.updateMfaAuthenticator(
+    type = "totp",
+    otp = "<OTP>"
+)
+```
+```client-android-java
+account.updateMfaAuthenticator(
+    "totp", // type
+    "<OTP>", // otp
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        Log.d("Clikkle", result.toString());
+    })
+);
+```
+{% /multicode %}
+
+{% /tabsitem %}
+{% /tabs %}
+
+{% /section %}
+
+{% section #enable-mfa step=3 title="Enable MFA on an account" %}
+You can enable MFA on your account by calling `account.updateMFA()`.
+You will need to have added more than 1 factors of authentication to an account before
+the MFA is enforced.
+
+{% multicode %}
+```client-web
+const result = await account.updateMFA({
+    enabled: true
+});
+```
+
+```client-flutter
+Future result = account.updateMFA(
+    mfa: true,
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.updateMFA(
+  mfa: xtrue
+)
+```
+
+```client-android-kotlin
+val response = account.updateMFA(
+    mfa = true
+)
+```
+{% /multicode %}
+{% /section %}
+
+{% section #init-login step=4 title="Initialize login" %}
+Begin your login flow with the default authentication method used by your app, for example, email password.
+
+{% multicode %}
+```client-web
+const session = await account.createEmailPasswordSession({
+    email: 'email@example.com',
+    password: 'password'
+});
+```
+
+```client-flutter
+Future session = account.createEmailPasswordSession(
+email: 'email@example.com',
+password: 'password',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createEmailPasswordSession(
+  email: "email@example.com",
+  password: "password"
+)
+```
+
+```client-android-kotlin
+val session = account.createEmailPasswordSession(
+    email = "email@example.com",
+    password = "password"
+)
+```
+{% /multicode %}
+{% /section %}
+
+{% section #check-for-mfa step=5 title="Check for multi-factor" %}
+Upon successful login in the first authentication step, check the status of the login by calling `account.get()`.
+If more than one factors are required, you will receive the error `user_more_factors_required`.
+Redirect the user in your app to perform the MFA challenge.
+
+{% multicode %}
+```client-web
+try {
+    const response = await account.get();
+    console.log(response);
+} catch (error) {
+    console.log(error);
+    if (error.type === `user_more_factors_required`){
+        // redirect to perform MFA
+    }
+    else {
+        // handle other errors
+    }
+}
+```
+
+```client-flutter
+const promise = account.get();
+
+promise.then(function (response) {
+    console.log(response);           // Success
+}, function (error) {
+    console.log(error);              // Failure
+    if (error.type === "user_more_factors_required"){
+        // redirect to perform MFA
+    }
+    else {
+        // handle other errors
+    }
+});
+```
+
+```client-flutter
+Future result = account.get();
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+    if (error.type == 'user_more_factors_required') {
+    // redirect to perform MFA
+    } else {
+    // handle other errors
+    }
+});
+```
+
+```client-apple
+do {
+    let response = try await account.get()
+} catch let error as ClikkleException {
+    print(error.message)
+    if error.type == "user_more_factors_required" {
+        // redirect to perform MFA
+    } else {
+        // handle other errors
+    }
+}
+```
+
+```client-android-kotlin
+try {
+    val response = account.get()
+    println(response)
+} catch (error: ClikkleException) {
+    println(error.message)
+    if (error.type == "user_more_factors_required") {
+        // redirect to perform MFA
+    } else {
+        // handle other errors
+    }
+}
+```
+{% /multicode %}
+{% /section %}
+
+{% section #list-provider step=6 title="List factors" %}
+You can check which factors are enabled for an account using `account.listMfaFactors()`.
+The returned object will be formatted like this.
+
+```client-web
+{
+    totp: true, // time-based one-time password
+    email: false, // email
+    phone: true // phone
+}
+```
+
+{% multicode %}
+```client-web
+const factors = await account.listMfaFactors();
+// redirect based on factors returned.
+```
+
+```client-flutter
+Future result = account.listMfaFactors();
+
+result.then((response) {
+    print(response);
+    // redirect based on factors returned.
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.listMfaFactors()
+// redirect based on factors returned.
+```
+
+```client-android-kotlin
+val response = account.listMfaFactors()
+// redirect based on factors returned.
+```
+{% /multicode %}
+{% /section %}
+
+{% section #create-challenge step=7 title="Create challenge" %}
+Based on the factors available, initialize an additional auth step.
+Calling these methods will send a challenge to the user.
+You will need to save the challenge ID to complete the challenge in a later step.
+
+{% tabs %}
+{% tabsitem #email title="Email" %}
+Clikkle will use a verified email on the user's account to send the challenge code via email.
+Note that this is only valid as a second factor if the user did not initialize their login with email OTP.
+
+{% multicode %}
+```client-web
+const challenge = await account.createMfaChallenge({
+    factor: 'email'
+});
+
+// Save the challenge ID to complete the challenge later
+const challengeId = challenge.$id;
+```
+
+```client-flutter
+Future result = account.createMfaChallenge(
+factor: 'email',
+);
+
+result.then((response) {
+    print(response);
+    // Save the challenge ID to complete the challenge later
+    var challengeId = response.$id;
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaChallenge(
+  factor: "email"
+)
+// Save the challenge ID to complete the challenge later
+let challengeId = response.id
+```
+
+```client-android-kotlin
+val response = account.createMfaChallenge(
+    factor = "email"
+)
+// Save the challenge ID to complete the challenge later
+val challengeId = response.id
+```
+{% /multicode %}
+{% /tabsitem %}
+
+{% tabsitem #phone title="Phone" %}
+Clikkle will use a verified phone number on the user's account to send the challenge code via SMS.
+You cannot use this method if the user initialized their login with phone OTP.
+
+{% multicode %}
+```client-web
+const challenge = await account.createMfaChallenge({
+    factor: 'phone'
+});
+
+// Save the challenge ID to complete the challenge later
+const challengeId = challenge.$id;
+```
+
+```client-flutter
+Future result = account.createMfaChallenge(
+factor: 'phone',
+);
+
+result.then((response) {
+    print(response);
+    // Save the challenge ID to complete the challenge later
+    var challengeId = response.$id;
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaChallenge(
+  factor: "phone"
+)
+// Save the challenge ID to complete the challenge later
+let challengeId = response.id
+```
+
+```client-android-kotlin
+val response = account.createMfaChallenge(
+    factor = "phone"
+)
+// Save the challenge ID to complete the challenge later
+val challengeId = response.id
+```
+{% /multicode %}
+{% /tabsitem %}
+
+{% tabsitem #totp title="TOTP" %}
+
+Initiate a challenge for users to complete using an authenticator app.
+
+{% multicode %}
+```client-web
+const challenge = await account.createMfaChallenge({
+    factor: AuthenticationFactor.Totp
+});
+
+// Save the challenge ID to complete the challenge later
+const challengeId = challenge.$id;
+```
+
+```client-flutter
+Future result = account.createMfaChallenge(
+factor: 'totp',
+);
+
+result.then((response) {
+    print(response);
+    // Save the challenge ID to complete the challenge later
+    var challengeId = response.$id;
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaChallenge(
+  factor: "totp"
+)
+// Save the challenge ID to complete the challenge later
+let challengeId = response.id
+```
+
+```client-android-kotlin
+val response = account.createMfaChallenge(
+    factor = "totp"
+)
+// Save the challenge ID to complete the challenge later
+val challengeId = response.id
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+{% /section %}
+
+{% section #complete-challenge step=8 title="Complete challenge" %}
+Once the user receives the challenge code, you can pass the code back to Clikkle to complete the challenge.
+
+{% multicode %}
+```client-web
+const response = await account.updateMfaChallenge({
+    challengeId: '<CHALLENGE_ID>',
+    otp: '<OTP>'
+});
+```
+
+```client-flutter
+Future result = account.updateMfaChallenge(
+    challengeId: '<CHALLENGE_ID>',
+    otp: '<OTP>',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+val response = account.updateMfaChallenge(
+    challengeId = "<CHALLENGE_ID>",
+    otp = "<OTP>"
+)
+```
+
+```client-android-kotlin
+let result = try await account.updateMfaChallenge(
+  challengeId: "<CHALLENGE_ID>",
+  otp: "<OTP>"
+)
+```
+{% /multicode %}
+
+After completing the challenge, the user is now authenticated and all requests will be authorized.
+You can confirm this by running `account.get()`
+{% /section %}
+
+{% section #recovery step=9 title="Recovery" %}
+In case your user needs to recover their account, they can use the recovery codes generated in the first step with the
+recovery code factor. Initialize the challenge by calling `account.createMfaChallenge()` with the factor `recoverycode`.
+
+{% multicode %}
+```client-web
+const challenge = await account.createMfaChallenge({
+    factor: AuthenticationFactor.Recoverycode
+});
+
+// Save the challenge ID to complete the challenge later
+const challengeId = challenge.$id;
+```
+
+```client-flutter
+Future result = account.createMfaChallenge(
+factor: 'recoverycode',
+);
+
+result.then((response) {
+    print(response);
+    // Save the challenge ID to complete the challenge later
+    var challengeId = response.$id;
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+let response = try await account.createMfaChallenge(
+  factor: "recoverycode"
+)
+// Save the challenge ID to complete the challenge later
+let challengeId = response.id
+```
+
+```client-android-kotlin
+val response = account.createMfaChallenge(
+    factor = "recoverycode"
+)
+// Save the challenge ID to complete the challenge later
+val challengeId = response.id
+```
+{% /multicode %}
+
+Then complete the challenge by calling `account.updateMfaChallenge()` with the challenge ID and the recovery code.
+
+{% multicode %}
+```client-web
+const response = await account.updateMfaChallenge({
+    challengeId: '<CHALLENGE_ID>',
+    otp: '<RECOVERY_CODE>'
+});
+```
+
+```client-flutter
+Future result = account.updateMfaChallenge(
+    challengeId: '<CHALLENGE_ID>',
+    otp: '<RECOVERY_CODE>',
+);
+
+result.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.response);
+});
+```
+
+```client-apple
+val response = account.updateMfaChallenge(
+    challengeId = "<CHALLENGE_ID>",
+    otp = "<RECOVERY_CODE>"
+)
+```
+
+```client-android-kotlin
+let result = try await account.updateMfaChallenge(
+  challengeId: "<CHALLENGE_ID>",
+  otp: "<RECOVERY_CODE>"
+)
+```
+{% /multicode %}
+{% /section %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Multi-factor authentication"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Multi-factor authentication (MFA) greatly increases the security of your apps by adding additional layers of protection."," ","When MFA is enabled, a malicious actor needs to compromise multiple authentication factors to gain unauthorized access."," ","Clikkle Authentication lets you easily implement MFA in your apps, letting you build more securely and quickly."]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Looking for MFA on your Console account?"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This page covers MFA for your app's end-users."," ","If you are looking for MFA on your Clikkle Console account, please refer to the ",["$","$Le",null,{"href":"/docs/advanced/security/mfa","children":"Console MFA page"}],"."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle currently allows two factors of authentication. More factors of authentication will be available soon."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Here are the steps to implement MFA in your application."}],["$","$Lf",null,{"id":"display-recover-code","step":1,"title":"Display recovery codes","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Initialize your Clikkle SDK's ",["$","code",null,{"children":"Client"}],", ",["$","code",null,{"children":"Account"}],", and ",["$","code",null,{"children":"Avatars"}],"."," ","You'll use Avatars API to generate a QR code for the TOTP authenticator app, you can skip this import if you're not using TOTP."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Account, Avatars } from \"clikkle\";\n\nconst client = new Client();\n\nconst account = new Account(client);\nconst avatars = new Avatars(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n","children":"import { Client, Account, Avatars } from \"clikkle\";\n\nconst client = new Client();\n\nconst account = new Account(client);\nconst avatars = new Avatars(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Account account = Account(client);\n  Avatars avatars = Avatars(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')             // Your project ID\n  ;\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Account account = Account(client);\n  Avatars avatars = Avatars(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')             // Your project ID\n  ;\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nlet account = Account(client)\nlet avatars = Avatars(client)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nlet account = Account(client)\nlet avatars = Avatars(client)\n"}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17"]}],"$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]]}],"$L20"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L21",null,{"items":[{"id":"display-recover-code","title":"Display recovery codes","level":2},{"id":"verify-factors","title":"Verify MFA factors","level":2},{"id":"enable-mfa","title":"Enable MFA on an account","level":2},{"id":"init-login","title":"Initialize login","level":2},{"id":"check-for-mfa","title":"Check for multi-factor","level":2},{"id":"list-provider","title":"List factors","level":2},{"id":"create-challenge","title":"Create challenge","level":2},{"id":"complete-challenge","title":"Complete challenge","level":2},{"id":"recovery","title":"Recovery","level":2}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L22",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+12:["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Account\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nval account = Account(client)\nval avatars = Avatars(client)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Account\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nval account = Account(client)\nval avatars = Avatars(client)\n"}]
+13:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before enabling MFA, you should display recovery codes to the user."," ","The codes are single use passwords the user can use to access their account if they lose access to their MFA email,"," ","phone, or authenticator app. These codes can ",["$","strong",null,{"children":"only be generated once"}],", warn the users to save them."]}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The code will look like this, display them to the user and remind them to save the codes in a secure place."}]
+15:["$","$L11",null,{"language":"json","content":"{\n    \"recoveryCodes\": [\n        \"b654562828\",\n        \"a97c13d8c0\",\n        \"311580b5f3\",\n        \"c4262b3f88\",\n        \"7f6761afb4\",\n        \"55a09989be\",\n    ]\n}\n","children":"{\n    \"recoveryCodes\": [\n        \"b654562828\",\n        \"a97c13d8c0\",\n        \"311580b5f3\",\n        \"c4262b3f88\",\n        \"7f6761afb4\",\n        \"55a09989be\",\n    ]\n}\n"}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["These codes can be used to complete the ",["$","$Le",null,{"href":"#complete-challenge","children":"Complete challenge"}]," step if the user loses access to their MFA factors."," ","Generate the recovery codes by calling ",["$","code",null,{"children":"account.createMfaRecoveryCodes()"}],"."]}]
+17:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const response = await account.createMfaRecoveryCodes();\nconsole.log(response.recoveryCodes);\n","children":"const response = await account.createMfaRecoveryCodes();\nconsole.log(response.recoveryCodes);\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.createMfaRecoveryCodes();\n\nresult.then((response) {\n    print(response.recoveryCodes);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.createMfaRecoveryCodes();\n\nresult.then((response) {\n    print(response.recoveryCodes);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createMfaRecoveryCodes()\nprint(response.recoveryCodes)\n","children":"let response = try await account.createMfaRecoveryCodes()\nprint(response.recoveryCodes)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.createMfaRecoveryCodes()\nprintln(response.recoveryCodes)\n","children":"val response = account.createMfaRecoveryCodes()\nprintln(response.recoveryCodes)\n"}],["$","$L11",null,{"language":"client-android-java","content":"account.createMfaRecoveryCodes(new CoroutineCallback<>((result, error) -> {\n   if (error != null) {\n        error.printStackTrace();\n        return;\n    }\n\n    Log.d(\"Clikkle\", result.recoveryCodes.toString());\n}));\n","children":"account.createMfaRecoveryCodes(new CoroutineCallback<>((result, error) -> {\n   if (error != null) {\n        error.printStackTrace();\n        return;\n    }\n\n    Log.d(\"Clikkle\", result.recoveryCodes.toString());\n}));\n"}]]}]
+18:["$","$Lf",null,{"id":"verify-factors","step":2,"title":"Verify MFA factors","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Any verified email, phone number, or TOTP authenticator app can be used as a factor for MFA."," ","Before they can be used as a factor, they need to be verified."]}],["$","$L25",null,{"children":[["$","$L26",null,{"id":"email","title":"Email","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"First, set your user's email if they haven't already."}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const response = await account.updateEmail({\n    email: 'email@example.com',\n    password: 'password'\n});\n","children":"const response = await account.updateEmail({\n    email: 'email@example.com',\n    password: 'password'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.updateEmail(\n    email: 'email@example.com',\n    password: 'password',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.updateEmail(\n    email: 'email@example.com',\n    password: 'password',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.updateEmail(\n  email: \"email@example.com\",\n  password: \"password\"\n)\n","children":"let response = try await account.updateEmail(\n  email: \"email@example.com\",\n  password: \"password\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.updateEmail(\n    email = \"email@example.com\",\n    password = \"password\"\n)\n","children":"val response = account.updateEmail(\n    email = \"email@example.com\",\n    password = \"password\"\n)\n"}],["$","$L11",null,{"language":"client-android-java","content":"account.updateEmail(\n    \"email@example.com\", // email\n    \"password\", // password\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n","children":"account.updateEmail(\n    \"email@example.com\", // email\n    \"password\", // password\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n"}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then, initiate verification for the email by calling ",["$","code",null,{"children":"account.createEmailVerification()"}],"."," ","Calling ",["$","code",null,{"children":"createEmailVerification"}]," will send a verification email to the user's email address"," ","with a link with the query parameter ",["$","code",null,{"children":"userId"}]," and ",["$","code",null,{"children":"secret"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const res = await account.createVerification({\n    url: 'https://example.com/verify-email'\n});\n","children":"const res = await account.createVerification({\n    url: 'https://example.com/verify-email'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.createVerification(\n    url: 'https://example.com/verify-email',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n\n","children":"Future result = account.createVerification(\n    url: 'https://example.com/verify-email',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n\n"}],"$L27","$L28","$L29"]}],"$L2a","$L2b","$L2c"]}],"$L2d","$L2e"]}]]}]
+19:["$","$Lf",null,{"id":"enable-mfa","step":3,"title":"Enable MFA on an account","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can enable MFA on your account by calling ",["$","code",null,{"children":"account.updateMFA()"}],"."," ","You will need to have added more than 1 factors of authentication to an account before"," ","the MFA is enforced."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const result = await account.updateMFA({\n    enabled: true\n});\n","children":"const result = await account.updateMFA({\n    enabled: true\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.updateMFA(\n    mfa: true,\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.updateMFA(\n    mfa: true,\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.updateMFA(\n  mfa: xtrue\n)\n","children":"let response = try await account.updateMFA(\n  mfa: xtrue\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.updateMFA(\n    mfa = true\n)\n","children":"val response = account.updateMFA(\n    mfa = true\n)\n"}]]}]]}]
+1a:["$","$Lf",null,{"id":"init-login","step":4,"title":"Initialize login","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Begin your login flow with the default authentication method used by your app, for example, email password."}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const session = await account.createEmailPasswordSession({\n    email: 'email@example.com',\n    password: 'password'\n});\n","children":"const session = await account.createEmailPasswordSession({\n    email: 'email@example.com',\n    password: 'password'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future session = account.createEmailPasswordSession(\nemail: 'email@example.com',\npassword: 'password',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future session = account.createEmailPasswordSession(\nemail: 'email@example.com',\npassword: 'password',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createEmailPasswordSession(\n  email: \"email@example.com\",\n  password: \"password\"\n)\n","children":"let response = try await account.createEmailPasswordSession(\n  email: \"email@example.com\",\n  password: \"password\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val session = account.createEmailPasswordSession(\n    email = \"email@example.com\",\n    password = \"password\"\n)\n","children":"val session = account.createEmailPasswordSession(\n    email = \"email@example.com\",\n    password = \"password\"\n)\n"}]]}]]}]
+1b:["$","$Lf",null,{"id":"check-for-mfa","step":5,"title":"Check for multi-factor","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Upon successful login in the first authentication step, check the status of the login by calling ",["$","code",null,{"children":"account.get()"}],"."," ","If more than one factors are required, you will receive the error ",["$","code",null,{"children":"user_more_factors_required"}],"."," ","Redirect the user in your app to perform the MFA challenge."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"try {\n    const response = await account.get();\n    console.log(response);\n} catch (error) {\n    console.log(error);\n    if (error.type === `user_more_factors_required`){\n        // redirect to perform MFA\n    }\n    else {\n        // handle other errors\n    }\n}\n","children":"try {\n    const response = await account.get();\n    console.log(response);\n} catch (error) {\n    console.log(error);\n    if (error.type === `user_more_factors_required`){\n        // redirect to perform MFA\n    }\n    else {\n        // handle other errors\n    }\n}\n"}],["$","$L11",null,{"language":"client-flutter","content":"const promise = account.get();\n\npromise.then(function (response) {\n    console.log(response);           // Success\n}, function (error) {\n    console.log(error);              // Failure\n    if (error.type === \"user_more_factors_required\"){\n        // redirect to perform MFA\n    }\n    else {\n        // handle other errors\n    }\n});\n","children":"const promise = account.get();\n\npromise.then(function (response) {\n    console.log(response);           // Success\n}, function (error) {\n    console.log(error);              // Failure\n    if (error.type === \"user_more_factors_required\"){\n        // redirect to perform MFA\n    }\n    else {\n        // handle other errors\n    }\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.get();\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n    if (error.type == 'user_more_factors_required') {\n    // redirect to perform MFA\n    } else {\n    // handle other errors\n    }\n});\n","children":"Future result = account.get();\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n    if (error.type == 'user_more_factors_required') {\n    // redirect to perform MFA\n    } else {\n    // handle other errors\n    }\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"do {\n    let response = try await account.get()\n} catch let error as ClikkleException {\n    print(error.message)\n    if error.type == \"user_more_factors_required\" {\n        // redirect to perform MFA\n    } else {\n        // handle other errors\n    }\n}\n","children":"do {\n    let response = try await account.get()\n} catch let error as ClikkleException {\n    print(error.message)\n    if error.type == \"user_more_factors_required\" {\n        // redirect to perform MFA\n    } else {\n        // handle other errors\n    }\n}\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"try {\n    val response = account.get()\n    println(response)\n} catch (error: ClikkleException) {\n    println(error.message)\n    if (error.type == \"user_more_factors_required\") {\n        // redirect to perform MFA\n    } else {\n        // handle other errors\n    }\n}\n","children":"try {\n    val response = account.get()\n    println(response)\n} catch (error: ClikkleException) {\n    println(error.message)\n    if (error.type == \"user_more_factors_required\") {\n        // redirect to perform MFA\n    } else {\n        // handle other errors\n    }\n}\n"}]]}]]}]
+1c:["$","$Lf",null,{"id":"list-provider","step":6,"title":"List factors","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can check which factors are enabled for an account using ",["$","code",null,{"children":"account.listMfaFactors()"}],"."," ","The returned object will be formatted like this."]}],["$","$L11",null,{"language":"client-web","content":"{\n    totp: true, // time-based one-time password\n    email: false, // email\n    phone: true // phone\n}\n","children":"{\n    totp: true, // time-based one-time password\n    email: false, // email\n    phone: true // phone\n}\n"}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const factors = await account.listMfaFactors();\n// redirect based on factors returned.\n","children":"const factors = await account.listMfaFactors();\n// redirect based on factors returned.\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.listMfaFactors();\n\nresult.then((response) {\n    print(response);\n    // redirect based on factors returned.\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.listMfaFactors();\n\nresult.then((response) {\n    print(response);\n    // redirect based on factors returned.\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.listMfaFactors()\n// redirect based on factors returned.\n","children":"let response = try await account.listMfaFactors()\n// redirect based on factors returned.\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.listMfaFactors()\n// redirect based on factors returned.\n","children":"val response = account.listMfaFactors()\n// redirect based on factors returned.\n"}]]}]]}]
+1d:["$","$Lf",null,{"id":"create-challenge","step":7,"title":"Create challenge","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Based on the factors available, initialize an additional auth step."," ","Calling these methods will send a challenge to the user."," ","You will need to save the challenge ID to complete the challenge in a later step."]}],["$","$L25",null,{"children":[["$","$L26",null,{"id":"email","title":"Email","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle will use a verified email on the user's account to send the challenge code via email."," ","Note that this is only valid as a second factor if the user did not initialize their login with email OTP."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const challenge = await account.createMfaChallenge({\n    factor: 'email'\n});\n\n// Save the challenge ID to complete the challenge later\nconst challengeId = challenge.$id;\n","children":"const challenge = await account.createMfaChallenge({\n    factor: 'email'\n});\n\n// Save the challenge ID to complete the challenge later\nconst challengeId = challenge.$id;\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.createMfaChallenge(\nfactor: 'email',\n);\n\nresult.then((response) {\n    print(response);\n    // Save the challenge ID to complete the challenge later\n    var challengeId = response.$id;\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.createMfaChallenge(\nfactor: 'email',\n);\n\nresult.then((response) {\n    print(response);\n    // Save the challenge ID to complete the challenge later\n    var challengeId = response.$id;\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createMfaChallenge(\n  factor: \"email\"\n)\n// Save the challenge ID to complete the challenge later\nlet challengeId = response.id\n","children":"let response = try await account.createMfaChallenge(\n  factor: \"email\"\n)\n// Save the challenge ID to complete the challenge later\nlet challengeId = response.id\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.createMfaChallenge(\n    factor = \"email\"\n)\n// Save the challenge ID to complete the challenge later\nval challengeId = response.id\n","children":"val response = account.createMfaChallenge(\n    factor = \"email\"\n)\n// Save the challenge ID to complete the challenge later\nval challengeId = response.id\n"}]]}]]}],["$","$L26",null,{"id":"phone","title":"Phone","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle will use a verified phone number on the user's account to send the challenge code via SMS."," ","You cannot use this method if the user initialized their login with phone OTP."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const challenge = await account.createMfaChallenge({\n    factor: 'phone'\n});\n\n// Save the challenge ID to complete the challenge later\nconst challengeId = challenge.$id;\n","children":"const challenge = await account.createMfaChallenge({\n    factor: 'phone'\n});\n\n// Save the challenge ID to complete the challenge later\nconst challengeId = challenge.$id;\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.createMfaChallenge(\nfactor: 'phone',\n);\n\nresult.then((response) {\n    print(response);\n    // Save the challenge ID to complete the challenge later\n    var challengeId = response.$id;\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.createMfaChallenge(\nfactor: 'phone',\n);\n\nresult.then((response) {\n    print(response);\n    // Save the challenge ID to complete the challenge later\n    var challengeId = response.$id;\n}).catchError((error) {\n    print(error.response);\n});\n"}],"$L2f","$L30"]}]]}],"$L31"]}]]}]
+1e:["$","$Lf",null,{"id":"complete-challenge","step":8,"title":"Complete challenge","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Once the user receives the challenge code, you can pass the code back to Clikkle to complete the challenge."}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const response = await account.updateMfaChallenge({\n    challengeId: '<CHALLENGE_ID>',\n    otp: '<OTP>'\n});\n","children":"const response = await account.updateMfaChallenge({\n    challengeId: '<CHALLENGE_ID>',\n    otp: '<OTP>'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.updateMfaChallenge(\n    challengeId: '<CHALLENGE_ID>',\n    otp: '<OTP>',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.updateMfaChallenge(\n    challengeId: '<CHALLENGE_ID>',\n    otp: '<OTP>',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"val response = account.updateMfaChallenge(\n    challengeId = \"<CHALLENGE_ID>\",\n    otp = \"<OTP>\"\n)\n","children":"val response = account.updateMfaChallenge(\n    challengeId = \"<CHALLENGE_ID>\",\n    otp = \"<OTP>\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"let result = try await account.updateMfaChallenge(\n  challengeId: \"<CHALLENGE_ID>\",\n  otp: \"<OTP>\"\n)\n","children":"let result = try await account.updateMfaChallenge(\n  challengeId: \"<CHALLENGE_ID>\",\n  otp: \"<OTP>\"\n)\n"}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After completing the challenge, the user is now authenticated and all requests will be authorized."," ","You can confirm this by running ",["$","code",null,{"children":"account.get()"}]]}]]}]
+1f:["$","$Lf",null,{"id":"recovery","step":9,"title":"Recovery","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In case your user needs to recover their account, they can use the recovery codes generated in the first step with the"," ","recovery code factor. Initialize the challenge by calling ",["$","code",null,{"children":"account.createMfaChallenge()"}]," with the factor ",["$","code",null,{"children":"recoverycode"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const challenge = await account.createMfaChallenge({\n    factor: AuthenticationFactor.Recoverycode\n});\n\n// Save the challenge ID to complete the challenge later\nconst challengeId = challenge.$id;\n","children":"const challenge = await account.createMfaChallenge({\n    factor: AuthenticationFactor.Recoverycode\n});\n\n// Save the challenge ID to complete the challenge later\nconst challengeId = challenge.$id;\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.createMfaChallenge(\nfactor: 'recoverycode',\n);\n\nresult.then((response) {\n    print(response);\n    // Save the challenge ID to complete the challenge later\n    var challengeId = response.$id;\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.createMfaChallenge(\nfactor: 'recoverycode',\n);\n\nresult.then((response) {\n    print(response);\n    // Save the challenge ID to complete the challenge later\n    var challengeId = response.$id;\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createMfaChallenge(\n  factor: \"recoverycode\"\n)\n// Save the challenge ID to complete the challenge later\nlet challengeId = response.id\n","children":"let response = try await account.createMfaChallenge(\n  factor: \"recoverycode\"\n)\n// Save the challenge ID to complete the challenge later\nlet challengeId = response.id\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.createMfaChallenge(\n    factor = \"recoverycode\"\n)\n// Save the challenge ID to complete the challenge later\nval challengeId = response.id\n","children":"val response = account.createMfaChallenge(\n    factor = \"recoverycode\"\n)\n// Save the challenge ID to complete the challenge later\nval challengeId = response.id\n"}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then complete the challenge by calling ",["$","code",null,{"children":"account.updateMfaChallenge()"}]," with the challenge ID and the recovery code."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const response = await account.updateMfaChallenge({\n    challengeId: '<CHALLENGE_ID>',\n    otp: '<RECOVERY_CODE>'\n});\n","children":"const response = await account.updateMfaChallenge({\n    challengeId: '<CHALLENGE_ID>',\n    otp: '<RECOVERY_CODE>'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.updateMfaChallenge(\n    challengeId: '<CHALLENGE_ID>',\n    otp: '<RECOVERY_CODE>',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.updateMfaChallenge(\n    challengeId: '<CHALLENGE_ID>',\n    otp: '<RECOVERY_CODE>',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"val response = account.updateMfaChallenge(\n    challengeId = \"<CHALLENGE_ID>\",\n    otp = \"<RECOVERY_CODE>\"\n)\n","children":"val response = account.updateMfaChallenge(\n    challengeId = \"<CHALLENGE_ID>\",\n    otp = \"<RECOVERY_CODE>\"\n)\n"}],"$L32"]}]]}]
+20:["$","$L33",null,{}]
+24:null
+27:["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createVerification(\n  url: \"https://example.com/verify-email\"\n)\n","children":"let response = try await account.createVerification(\n  url: \"https://example.com/verify-email\"\n)\n"}]
+28:["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.createVerification(\n    url = \"https://example.com/verify-email\"\n)\n","children":"val response = account.createVerification(\n    url = \"https://example.com/verify-email\"\n)\n"}]
+29:["$","$L11",null,{"language":"client-android-java","content":"account.createVerification(\n    \"https://example.com/verify-email\", // url\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n","children":"account.createVerification(\n    \"https://example.com/verify-email\", // url\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n"}]
+2a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After the user clicks the link in the email, they will be redirected to your site with the query parameters ",["$","code",null,{"children":"userId"}]," and ",["$","code",null,{"children":"secret"}],"."," ","If you're on a mobile platform, you will need to create the appropriate deep link to handle the verification."]}]
+2b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Finally, verify the email by calling ",["$","code",null,{"children":"account.updateVerification()"}]," with ",["$","code",null,{"children":"userId"}]," and ",["$","code",null,{"children":"secret"}],"."]}]
+2c:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const response = await account.updateVerification({\n    userId: '<USER_ID>',\n    secret: '<SECRET>'\n});\n","children":"const response = await account.updateVerification({\n    userId: '<USER_ID>',\n    secret: '<SECRET>'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.updateVerification(\n    userId: '<USER_ID>',\n    secret: '<SECRET>',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.updateVerification(\n    userId: '<USER_ID>',\n    secret: '<SECRET>',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.updateVerification(\n  userId: \"<USER_ID>\",\n  secret: \"<SECRET>\"\n)\n","children":"let response = try await account.updateVerification(\n  userId: \"<USER_ID>\",\n  secret: \"<SECRET>\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.updateVerification(\n    userId = \"<USER_ID>\",\n    secret = \"<SECRET>\"\n)\n","children":"val response = account.updateVerification(\n    userId = \"<USER_ID>\",\n    secret = \"<SECRET>\"\n)\n"}],["$","$L11",null,{"language":"client-android-java","content":"account.updateVerification(\n    \"<USER_ID>\", // userId\n    \"<SECRET>\", // secret\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n","children":"account.updateVerification(\n    \"<USER_ID>\", // userId\n    \"<SECRET>\", // secret\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n"}]]}]
+2d:["$","$L26",null,{"id":"phone","title":"Phone","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"First, set your user's phone number if they haven't already."}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const response = await account.updatePhone({\n    phone: '+12065550100',\n    password: 'password'\n});\n","children":"const response = await account.updatePhone({\n    phone: '+12065550100',\n    password: 'password'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.updatePhone(\n    phone: '+12065550100',\n    password: 'password',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.updatePhone(\n    phone: '+12065550100',\n    password: 'password',\n);\n\nresult.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.updatePhone(\n  phone: \"+12065550100\",\n  password: \"password\"\n)\n","children":"let response = try await account.updatePhone(\n  phone: \"+12065550100\",\n  password: \"password\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.updatePhone(\n    phone = \"+12065550100\",\n    password = \"password\"\n)\n","children":"val response = account.updatePhone(\n    phone = \"+12065550100\",\n    password = \"password\"\n)\n"}],["$","$L11",null,{"language":"client-android-java","content":"account.updatePhone(\n    \"+12065550100\", // phone\n    \"password\", // password\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n","children":"account.updatePhone(\n    \"+12065550100\", // phone\n    \"password\", // password\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n"}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then, initiate verification for the phone number by calling ",["$","code",null,{"children":"account.createPhoneVerification()"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const response = await account.createPhoneVerification();\n","children":"const response = await account.createPhoneVerification();\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.createPhoneVerification();\n\nresult\n    .then((response) {\n        print(response);\n    }).catchError((error) {\n        print(error.response);\n});\n","children":"Future result = account.createPhoneVerification();\n\nresult\n    .then((response) {\n        print(response);\n    }).catchError((error) {\n        print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createPhoneVerification()\n","children":"let response = try await account.createPhoneVerification()\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.createPhoneVerification()\n","children":"val response = account.createPhoneVerification()\n"}],["$","$L11",null,{"language":"client-android-java","content":"account.createPhoneVerification(new CoroutineCallback<>((result, error) -> {\n   if (error != null)\n        error.printStackTrace();\n        return;\n    }\n\n    Log.d(\"Clikkle\", result.toString());\n}));\n","children":"account.createPhoneVerification(new CoroutineCallback<>((result, error) -> {\n   if (error != null)\n        error.printStackTrace();\n        return;\n    }\n\n    Log.d(\"Clikkle\", result.toString());\n}));\n"}]]}],"$L34","$L35"]}]
+2e:["$","$L26",null,{"id":"authenticator","title":"Authenticator","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["First, add a TOTP authenticator to the user's account by calling ",["$","code",null,{"children":"account.addAuthenticator()"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const { secret, uri } = await account.createMfaAuthenticator({\n    type: 'totp'\n});\n","children":"const { secret, uri } = await account.createMfaAuthenticator({\n    type: 'totp'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.createMfaAuthenticator(\n    type: 'totp',\n);\n\nresult.then((response) {\n    print(response.secret);\n    print(response.uri);\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.createMfaAuthenticator(\n    type: 'totp',\n);\n\nresult.then((response) {\n    print(response.secret);\n    print(response.uri);\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createMfaAuthenticator(\n  type: \"totp\"\n)\nprint(response.secret)\nprint(response.uri)\n","children":"let response = try await account.createMfaAuthenticator(\n  type: \"totp\"\n)\nprint(response.secret)\nprint(response.uri)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.createMfaAuthenticator(\n    type = \"totp\"\n)\nprintln(response.secret)\nprintln(response.uri)\n","children":"val response = account.createMfaAuthenticator(\n    type = \"totp\"\n)\nprintln(response.secret)\nprintln(response.uri)\n"}],["$","$L11",null,{"language":"client-android-java","content":"account.createMfaAuthenticator(\n    \"totp\", // type\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n","children":"account.createMfaAuthenticator(\n    \"totp\", // type\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n"}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will create a secret and a URI."," ","The URI is a URL that can be used to generate a QR code for the user to scan with their TOTP authenticator app."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can generate a QR code for the user to scan by calling ",["$","code",null,{"children":"avatars.getQR()"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const result = await avatars.getQR({\n    text: uri,\n    size: 800,  // optional\n    margin: 0,  // optional\n    download: false // optional\n});\n\nconsole.log(result); // Resource URL\n","children":"const result = await avatars.getQR({\n    text: uri,\n    size: 800,  // optional\n    margin: 0,  // optional\n    download: false // optional\n});\n\nconsole.log(result); // Resource URL\n"}],["$","$L11",null,{"language":"client-flutter","content":"// download QR code image\nFuture result = avatars.getQR(\n    text: authenticatorUrl,\n    size: 800, // optional\n    margin: 0, // optional\n    download: false, // optional\n).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes);\n}).catchError((error) {\n    print(error.response);\n});\n\n// display QR code image\nFutureBuilder(\n    future: avatars.getQR(\n        text: authenticatorUrl,\n        size: 800, // optional\n        margin: 0, // optional\n        download: false, // optional\n    ), // works for both public file and private file, for private files you need to be logged in\n    builder: (context, snapshot) {\n        return snapshot.hasData && snapshot.data != null\n            ? Image.memory(\n                snapshot.data,\n            )\n            : CircularProgressIndicator();\n    },\n);\n","children":"// download QR code image\nFuture result = avatars.getQR(\n    text: authenticatorUrl,\n    size: 800, // optional\n    margin: 0, // optional\n    download: false, // optional\n).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes);\n}).catchError((error) {\n    print(error.response);\n});\n\n// display QR code image\nFutureBuilder(\n    future: avatars.getQR(\n        text: authenticatorUrl,\n        size: 800, // optional\n        margin: 0, // optional\n        download: false, // optional\n    ), // works for both public file and private file, for private files you need to be logged in\n    builder: (context, snapshot) {\n        return snapshot.hasData && snapshot.data != null\n            ? Image.memory(\n                snapshot.data,\n            )\n            : CircularProgressIndicator();\n    },\n);\n"}],"$L36","$L37","$L38"]}],"$L39","$L3a","$L3b"]}]
+2f:["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createMfaChallenge(\n  factor: \"phone\"\n)\n// Save the challenge ID to complete the challenge later\nlet challengeId = response.id\n","children":"let response = try await account.createMfaChallenge(\n  factor: \"phone\"\n)\n// Save the challenge ID to complete the challenge later\nlet challengeId = response.id\n"}]
+30:["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.createMfaChallenge(\n    factor = \"phone\"\n)\n// Save the challenge ID to complete the challenge later\nval challengeId = response.id\n","children":"val response = account.createMfaChallenge(\n    factor = \"phone\"\n)\n// Save the challenge ID to complete the challenge later\nval challengeId = response.id\n"}]
+31:["$","$L26",null,{"id":"totp","title":"TOTP","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Initiate a challenge for users to complete using an authenticator app."}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const challenge = await account.createMfaChallenge({\n    factor: AuthenticationFactor.Totp\n});\n\n// Save the challenge ID to complete the challenge later\nconst challengeId = challenge.$id;\n","children":"const challenge = await account.createMfaChallenge({\n    factor: AuthenticationFactor.Totp\n});\n\n// Save the challenge ID to complete the challenge later\nconst challengeId = challenge.$id;\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.createMfaChallenge(\nfactor: 'totp',\n);\n\nresult.then((response) {\n    print(response);\n    // Save the challenge ID to complete the challenge later\n    var challengeId = response.$id;\n}).catchError((error) {\n    print(error.response);\n});\n","children":"Future result = account.createMfaChallenge(\nfactor: 'totp',\n);\n\nresult.then((response) {\n    print(response);\n    // Save the challenge ID to complete the challenge later\n    var challengeId = response.$id;\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.createMfaChallenge(\n  factor: \"totp\"\n)\n// Save the challenge ID to complete the challenge later\nlet challengeId = response.id\n","children":"let response = try await account.createMfaChallenge(\n  factor: \"totp\"\n)\n// Save the challenge ID to complete the challenge later\nlet challengeId = response.id\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.createMfaChallenge(\n    factor = \"totp\"\n)\n// Save the challenge ID to complete the challenge later\nval challengeId = response.id\n","children":"val response = account.createMfaChallenge(\n    factor = \"totp\"\n)\n// Save the challenge ID to complete the challenge later\nval challengeId = response.id\n"}]]}]]}]
+32:["$","$L11",null,{"language":"client-android-kotlin","content":"let result = try await account.updateMfaChallenge(\n  challengeId: \"<CHALLENGE_ID>\",\n  otp: \"<RECOVERY_CODE>\"\n)\n","children":"let result = try await account.updateMfaChallenge(\n  challengeId: \"<CHALLENGE_ID>\",\n  otp: \"<RECOVERY_CODE>\"\n)\n"}]
+34:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After the user receives the verification code, they can verify their phone number by calling ",["$","code",null,{"children":"account.updatePhoneVerification()"}],"."]}]
+35:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const response = await account.updatePhoneVerification({\n    userId: '<USER_ID>',\n    secret: '<SECRET>'\n});\n","children":"const response = await account.updatePhoneVerification({\n    userId: '<USER_ID>',\n    secret: '<SECRET>'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"Future result = account.updatePhoneVerification(\n    userId: '<USER_ID>',\n    secret: '<SECRET>',\n);\n\nresult.then((response) {\n        print(response);\n    }).catchError((error) {\n        print(error.response);\n    });\n","children":"Future result = account.updatePhoneVerification(\n    userId: '<USER_ID>',\n    secret: '<SECRET>',\n);\n\nresult.then((response) {\n        print(response);\n    }).catchError((error) {\n        print(error.response);\n    });\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.updatePhoneVerification(\n  userId: \"<USER_ID>\",\n  secret: \"<SECRET>\"\n)\n","children":"let response = try await account.updatePhoneVerification(\n  userId: \"<USER_ID>\",\n  secret: \"<SECRET>\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.updatePhoneVerification(\n    userId = \"<USER_ID>\",\n    secret = \"<SECRET>\"\n)\n","children":"val response = account.updatePhoneVerification(\n    userId = \"<USER_ID>\",\n    secret = \"<SECRET>\"\n)\n"}],["$","$L11",null,{"language":"client-android-java","content":"account.updatePhoneVerification(\n    \"<USER_ID>\", // userId\n    \"<SECRET>\", // secret\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n","children":"account.updatePhoneVerification(\n    \"<USER_ID>\", // userId\n    \"<SECRET>\", // secret\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n"}]]}]
+36:["$","$L11",null,{"language":"client-apple","content":"let byteBuffer = try await avatars.getQR(\n  text: authenticatorUrl,\n  size: 800, // optional\n  margin: 0, // optional\n  download: xfalse // optional\n)\n","children":"let byteBuffer = try await avatars.getQR(\n  text: authenticatorUrl,\n  size: 800, // optional\n  margin: 0, // optional\n  download: xfalse // optional\n)\n"}]
+37:["$","$L11",null,{"language":"client-android-kotlin","content":"val result = avatars.getQR(\n    text = authenticatorUrl,\n    size = 800, // optional\n    margin = 0, // optional\n    download = false // optional\n)\n","children":"val result = avatars.getQR(\n    text = authenticatorUrl,\n    size = 800, // optional\n    margin = 0, // optional\n    download = false // optional\n)\n"}]
+38:["$","$L11",null,{"language":"client-android-java","content":"avatars.getQR(\n    authenticatorUrl, // text\n    800, // size (optional)\n    0, // margin (optional)\n    false, // download (optional)\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n","children":"avatars.getQR(\n    authenticatorUrl, // text\n    800, // size (optional)\n    0, // margin (optional)\n    false, // download (optional)\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n"}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the user is unable to scan QR codes, you can display the ",["$","code",null,{"children":"secret"}]," to the user."]}]
+3a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Finally prompt the user to enter a TOTP from their authenticator app, then"," ","verify the authenticator by calling ",["$","code",null,{"children":"account.verifyMfaAuthenticator()"}],"."]}]
+3b:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const promise = account.updateMfaAuthenticator({\n    type: 'totp',\n    otp: '<OTP>'\n});\n","children":"const promise = account.updateMfaAuthenticator({\n    type: 'totp',\n    otp: '<OTP>'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"  Future result = account.updateMfaAuthenticator(\n    type: 'totp',\n    otp: '<OTP>',\n  );\n\n  result.then((response) {\n    print(response);\n  }).catchError((error) {\n    print(error.response);\n  });\n","children":"  Future result = account.updateMfaAuthenticator(\n    type: 'totp',\n    otp: '<OTP>',\n  );\n\n  result.then((response) {\n    print(response);\n  }).catchError((error) {\n    print(error.response);\n  });\n"}],["$","$L11",null,{"language":"client-apple","content":"let response = try await account.updateMfaAuthenticator(\n  type: \"totp\",\n  otp: \"<OTP>\"\n)\n","children":"let response = try await account.updateMfaAuthenticator(\n  type: \"totp\",\n  otp: \"<OTP>\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val response = account.updateMfaAuthenticator(\n    type = \"totp\",\n    otp = \"<OTP>\"\n)\n","children":"val response = account.updateMfaAuthenticator(\n    type = \"totp\",\n    otp = \"<OTP>\"\n)\n"}],["$","$L11",null,{"language":"client-android-java","content":"account.updateMfaAuthenticator(\n    \"totp\", // type\n    \"<OTP>\", // otp\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n","children":"account.updateMfaAuthenticator(\n    \"totp\", // type\n    \"<OTP>\", // otp\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        Log.d(\"Clikkle\", result.toString());\n    })\n);\n"}]]}]

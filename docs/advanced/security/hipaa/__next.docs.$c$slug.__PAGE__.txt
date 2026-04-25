@@ -1,0 +1,113 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+14:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+15:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:Tc74,---
+layout: article
+title: HIPAA
+description: Learn about Clikkle Cloud's measures to achieve HIPAA compliance.
+---
+
+Clikkle is compliant with HIPAA (Health Insurance Portability and Accountability Act) regulations.
+HIPAA is an important regulation that protects patients' health data from being disclosed without consent or knowledge.
+
+If you're building apps that handle information that is considered [PHI (Personal Health Information)](https://privacyruleandresearch.nih.gov/pr_07.asp)
+for an U.S. user base, data must be stored in a HIPAA-compliant environment.
+
+To attain HIPAA compliance, we've taken extensive measures, ensuring that our practices align with the highest data protection standards.
+We have implemented robust measures to safeguard personal information, updating our policies, procedures, and infrastructure to meet the strict requirements of HIPAA regulations.
+
+- A strict data backup schedule.
+- An extended business continuity plan.
+- Data retention rights for individuals as outlined in our [Privacy Policy](https://clikkle.io/privacy).
+- Intrusion detection and penetration testing.
+- Encryption of data transmitted between Clikkle and users using Transport Layer Security (TLS) and HTTP Strict Transport Security,
+ensuring confidentiality both at rest and during transmission.
+- Access to environments containing customer data is strictly controlled,
+requiring authentication and authorization through multi-factor authentication (MFA).
+
+Clikkle safeguards personal information to the same extent it protects its own, complying with relevant privacy laws and regulations in the jurisdictions where its services are offered.
+
+## Data retention
+
+Clikkle gives you full control over your data lifecycle. By default, Clikkle stores user and project data until you explicitly delete it. There's no automatic purging or TTL unless you configure it that way in your application logic or functions.
+
+If you're handling PHI (Protected Health Information), you can implement custom data retention policies using Clikkle Functions or database triggers to meet HIPAA requirements.
+
+## Log access and retrieval
+
+Clikkle provides access to different types of logs depending on the context:
+
+- **API usage logs**: These are turned off by default, we can give you samples of the data on requests to help debug and troubleshoot issues. If you'd like to have those turned on constantly and transmitted to you or stored on a bucket, this is a separate addon we can provide.
+
+- **Function logs**: Each serverless function or hosted sites includes stdout and stderr logs you can access per execution. Those are retained for different periods per plan.
+
+- **Audit logs**: For users or teams with compliance needs, we provide structured audit logs covering authentication events, permission changes, and other relevant activities directly on your console, under an activity tab in the different products the platform offers. Those are retained for different periods per plan.
+
+Please note that while Clikkle Cloud serves as a HIPAA-compliant platform to handle data,
+it is the responsibility of developers to ensure that their application is also compliant with HIPAA regulations.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:Tc74,---
+layout: article
+title: HIPAA
+description: Learn about Clikkle Cloud's measures to achieve HIPAA compliance.
+---
+
+Clikkle is compliant with HIPAA (Health Insurance Portability and Accountability Act) regulations.
+HIPAA is an important regulation that protects patients' health data from being disclosed without consent or knowledge.
+
+If you're building apps that handle information that is considered [PHI (Personal Health Information)](https://privacyruleandresearch.nih.gov/pr_07.asp)
+for an U.S. user base, data must be stored in a HIPAA-compliant environment.
+
+To attain HIPAA compliance, we've taken extensive measures, ensuring that our practices align with the highest data protection standards.
+We have implemented robust measures to safeguard personal information, updating our policies, procedures, and infrastructure to meet the strict requirements of HIPAA regulations.
+
+- A strict data backup schedule.
+- An extended business continuity plan.
+- Data retention rights for individuals as outlined in our [Privacy Policy](https://clikkle.io/privacy).
+- Intrusion detection and penetration testing.
+- Encryption of data transmitted between Clikkle and users using Transport Layer Security (TLS) and HTTP Strict Transport Security,
+ensuring confidentiality both at rest and during transmission.
+- Access to environments containing customer data is strictly controlled,
+requiring authentication and authorization through multi-factor authentication (MFA).
+
+Clikkle safeguards personal information to the same extent it protects its own, complying with relevant privacy laws and regulations in the jurisdictions where its services are offered.
+
+## Data retention
+
+Clikkle gives you full control over your data lifecycle. By default, Clikkle stores user and project data until you explicitly delete it. There's no automatic purging or TTL unless you configure it that way in your application logic or functions.
+
+If you're handling PHI (Protected Health Information), you can implement custom data retention policies using Clikkle Functions or database triggers to meet HIPAA requirements.
+
+## Log access and retrieval
+
+Clikkle provides access to different types of logs depending on the context:
+
+- **API usage logs**: These are turned off by default, we can give you samples of the data on requests to help debug and troubleshoot issues. If you'd like to have those turned on constantly and transmitted to you or stored on a bucket, this is a separate addon we can provide.
+
+- **Function logs**: Each serverless function or hosted sites includes stdout and stderr logs you can access per execution. Those are retained for different periods per plan.
+
+- **Audit logs**: For users or teams with compliance needs, we provide structured audit logs covering authentication events, permission changes, and other relevant activities directly on your console, under an activity tab in the different products the platform offers. Those are retained for different periods per plan.
+
+Please note that while Clikkle Cloud serves as a HIPAA-compliant platform to handle data,
+it is the responsibility of developers to ensure that their application is also compliant with HIPAA regulations.
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"HIPAA"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle is compliant with HIPAA (Health Insurance Portability and Accountability Act) regulations."," ","HIPAA is an important regulation that protects patients' health data from being disclosed without consent or knowledge."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you're building apps that handle information that is considered ",["$","a",null,{"href":"https://privacyruleandresearch.nih.gov/pr_07.asp","target":"_blank","rel":"noopener nofollow","children":"PHI (Personal Health Information)"}]," ","for an U.S. user base, data must be stored in a HIPAA-compliant environment."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To attain HIPAA compliance, we've taken extensive measures, ensuring that our practices align with the highest data protection standards."," ","We have implemented robust measures to safeguard personal information, updating our policies, procedures, and infrastructure to meet the strict requirements of HIPAA regulations."]}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"A strict data backup schedule."}],["$","li",null,{"children":"An extended business continuity plan."}],["$","li",null,{"children":["Data retention rights for individuals as outlined in our ",["$","a",null,{"href":"https://clikkle.io/privacy","children":"Privacy Policy"}],"."]}],["$","li",null,{"children":"Intrusion detection and penetration testing."}],["$","li",null,{"children":["Encryption of data transmitted between Clikkle and users using Transport Layer Security (TLS) and HTTP Strict Transport Security,"," ","ensuring confidentiality both at rest and during transmission."]}],["$","li",null,{"children":["Access to environments containing customer data is strictly controlled,"," ","requiring authentication and authorization through multi-factor authentication (MFA)."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle safeguards personal information to the same extent it protects its own, complying with relevant privacy laws and regulations in the jurisdictions where its services are offered."}],["$","$Le",null,{"level":2,"children":"Data retention"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle gives you full control over your data lifecycle. By default, Clikkle stores user and project data until you explicitly delete it. There's no automatic purging or TTL unless you configure it that way in your application logic or functions."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you're handling PHI (Protected Health Information), you can implement custom data retention policies using Clikkle Functions or database triggers to meet HIPAA requirements."}],["$","$Le",null,{"level":2,"children":"Log access and retrieval"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle provides access to different types of logs depending on the context:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$Lf",": These are turned off by default, we can give you samples of the data on requests to help debug and troubleshoot issues. If you'd like to have those turned on constantly and transmitted to you or stored on a bucket, this is a separate addon we can provide."]}]}],"$L10","$L11"]}],"$L12"]}]}]]}],"$L13"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L14",null,{"items":[{"id":"data-retention","title":"Data retention","level":2},{"id":"log-access-and-retrieval","title":"Log access and retrieval","level":2}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+f:["$","strong",null,{"children":"API usage logs"}]
+10:["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Function logs"}],": Each serverless function or hosted sites includes stdout and stderr logs you can access per execution. Those are retained for different periods per plan."]}]}]
+11:["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Audit logs"}],": For users or teams with compliance needs, we provide structured audit logs covering authentication events, permission changes, and other relevant activities directly on your console, under an activity tab in the different products the platform offers. Those are retained for different periods per plan."]}]}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Please note that while Clikkle Cloud serves as a HIPAA-compliant platform to handle data,"," ","it is the responsibility of developers to ensure that their application is also compliant with HIPAA regulations."]}]
+13:["$","$L18",null,{}]
+17:null

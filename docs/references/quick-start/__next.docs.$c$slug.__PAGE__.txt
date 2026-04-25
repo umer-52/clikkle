@@ -1,0 +1,857 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+f:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+10:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+11:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+1a:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1b:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+1f:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+20:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+2d:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+38:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T38e6,---
+layout: article
+title: Quick start
+description: Configure the Clikkle SDKs and take the necessary steps to start using Clikkle.
+---
+Follow these steps before you begin using the Clikkle SDKs or accessing Clikkle through the REST and GraphQL API.
+
+{% section #select-the-right-API step=1 title="Select the right API" %}
+Clikkle has two types of APIs for different use cases, select one or both depending on your use case.
+
+If you're creating a **web, mobile, or native application** used by end-users that will register and create accounts,
+install a [Client SDK](/docs/sdks#client) and follow steps for Client APIs.
+
+If you're create a server application, like a **backend, admin app, or a CLI tool**,
+install a [Server SDK](/docs/sdks#server) and follow steps for Server APIs.
+
+If you're creating a **Server-side Rendered (SSR)** web app, 
+install a [Server SDK](/docs/sdks#server) and follow steps for SSR.
+{% /section %}
+
+{% section #configure-project step=2 title="Configure project" %}
+
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+Then, configure your project depending on use case.
+You can follow all three flows to enable all three use cases.
+
+{% tabs %}
+{% tabsitem #client title="Client" %}
+Under **Add a platform**, add a platform for **each** web, mobile, and native app you plan to create.
+This means, a different platform for each web app hosted under a different domain,
+and a different platform for each mobile or native app that use a different package ID.
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+{% /tabsitem %}
+
+{% tabsitem #server title="Server" %}
+Under **Integrate with your server**, add an **API Key**.
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/integrate-server.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/integrate-server.png)
+{% /only_light %}
+
+Enable the scopes for the Clikkle products you plan to use for your app.
+It's a good idea to only grant scopes that you need, and edit the API keys as your needs change for security.
+{% /tabsitem %}
+
+{% tabsitem #ssr title="SSR" %}
+Under **Integrate with your server**, add an **API Key** with the following scopes.
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/integrate-server.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/integrate-server.png)
+{% /only_light %}
+
+| Category  {% width=120 %} | Required scopes       | Purpose |
+|-----------|-----------------------|---------|
+| Sessions  | `sessions.write`     | Allows API key to create, update, and delete sessions. |
+
+{% /tabsitem %}
+{% /tabs %}
+
+{% /section %}
+
+{% section #initialize-sdks step=3 title="Initialize SDKs" %}
+When using the Clikkle APIs, you need to pass information like endpoint, project ID, credentials
+and other metadata for Clikkle to properly parse your request.
+
+{% tabs %}
+{% tabsitem #client title="Client" %}
+Client apps need to be configured with endpoint and project ID,
+so the Clikkle SDK knows which endpoint and project to connect to.
+{% multicode %}
+```client-web
+import { Client } from "clikkle";
+
+const client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                // Your project ID
+;
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+Client client = Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                // Your project ID
+;
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                            // Your project ID
+```
+```client-android-kotlin
+import io.clikkle.Client
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+```
+{% /multicode %}
+{% /tabsitem %}
+
+{% tabsitem #server title="Server" %}
+Server apps need to be configured with endpoint, project ID, and an API key
+so the Clikkle SDK knows which endpoint and project to connect to, as well as have credentials to perform admin actions.
+
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
+    .setProject('<PROJECT_ID>')                            // Your project ID
+    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
+;
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
+    .setProject('<PROJECT_ID>')                            // Your project ID
+    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
+;
+```
+```php
+<?php
+
+use Clikkle\Client;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')               // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                           // Your project ID
+    ->setJWT('<YOUR_API_KEY>')                                  // Your secret JSON Web Token
+;
+```
+```python
+from clikkle.client import Client
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')                 # Your API Endpoint
+  .set_project('<PROJECT_ID>')                             # Your project ID
+  .set_jwt('<YOUR_API_KEY>')                                    # Your secret JSON Web Token
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')               # Your API Endpoint
+    .set_project('<PROJECT_ID>')                           # Your project ID
+    .set_jwt('<YOUR_API_KEY>')                                  # Your secret JSON Web Token
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                            // Your project ID
+    .SetJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+void main() {                                                   // Init SDK
+  Client client = Client();
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
+    .setProject('<PROJECT_ID>')                            // Your project ID
+    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
+  ;
+}
+```
+```kotlin
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
+    .setProject("<PROJECT_ID>")                            // Your project ID
+    .setJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
+    .setProject("<PROJECT_ID>")                            // Your project ID
+    .setJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
+    .setProject("<PROJECT_ID>")                            // Your project ID
+    .setJWT("<YOUR_API_KEY>")                                   // Your secret JSON Web Token
+```
+{% /multicode %}
+{% /tabsitem %}
+
+{% tabsitem #ssr title="SSR" %}
+Clikkle uses Server SDKs for SSR apps. The initialization is different
+## Admin client {% #admin-client %}
+
+{% info title="Admin clients" %}
+Admin clients should only be used if you need to perform admin actions that bypass permissions
+or [unauthenticated requests that bypass rate limits](/docs/products/auth/server-side-rendering#rate-limits).
+{% /info %}
+
+To initialize the admin client, we'll need to first [generated an API key](/docs/advanced/platform/api-keys#create-api-key). 
+The API key should have the following scope in order to perform authentication:
+
+| Category  {% width=120 %} | Required scopes    | Purpose |
+|-----------|---------------------|---------|
+| Sessions  | `sessions.write`    | Allows API key to create, update, and delete sessions. |
+
+{% multicode %}
+```server-nodejs
+import { Client } from "node-clikkle"; // Using the server SDK
+
+const adminClient = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')             // Your project ID
+    .setKey('<YOUR_API_KEY>');                   // Your secret API key
+```
+```php
+use Clikkle\Client;
+use Clikkle\Services\Account;
+
+$adminClient = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')             // Your project ID
+    ->setKey('<YOUR_API_KEY>');                   // Your secret API key
+
+
+```
+{% /multicode %}
+
+It is important to use an API key, as this will allow your server requests to bypass [rate limits](/docs/advanced/platform/rate-limits). If you don't use an API key, your server will be rate limited as if it were a client from a single IP address.
+
+## Session client {% #session-client %}
+
+The session client will be used to make requests to Clikkle on behalf of the end-user. 
+It will be initialized with the session, usually stored within a cookie.
+
+You should create a new client for each request and **never** share the client between requests.
+
+{% multicode %}
+```server-nodejs
+const sessionClient = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');            // Your project ID
+
+const session = req.cookies.session; // Get the session cookie from the request
+if (session) {
+    sessionClient.setSession(session);
+}
+```
+```php
+$sessionClient = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>');            // Your project ID
+
+$session = $_COOKIE['session']; // Get the session cookie from the request
+if ($session) {
+    $sessionClient->setSession($session);
+}
+```
+{% /multicode %}
+{% /tabsitem %}
+
+You will use the initialized client in all requests you make to Clikkle.
+{% /tabs %}
+
+If you're using Clikkle without an SDK, follow the guides for the [REST API](/docs/apis/rest) or [GraphQL API](/docs/apis/graphql).
+{% /section %}
+
+{% section #examples step=4 title="Examples" %}
+If you prefer to explore examples, follow one of the following quick starts.
+
+## Client apps {% #client-app %}
+Examples when building with Client APIs
+{% cards %}
+{% cards_item href="/docs/quick-starts/web" title="Web" icon="icon-nextjs" %}
+Just plain JavaScript and TypeScript.
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/nextjs" title="Next.js" icon="icon-nextjs" %}
+Get started with Clikkle and Next.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/react" title="React" icon="icon-react" %}
+Get started with Clikkle and React
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/vue" title="Vue.js" icon="web-icon-vue" %}
+Get started with Clikkle and Vue.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/nuxt" title="Nuxt" icon="web-icon-nuxt" %}
+Get started with Clikkle and Nuxt
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/sveltekit" title="SvelteKit" icon="icon-svelte" %}
+Get started with Clikkle and SvelteKit
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/angular" title="Angular" icon="icon-angular" %}
+Get started with Clikkle and Angular
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/flutter" title="Flutter" icon="icon-flutter" %}
+Get started with Clikkle and Flutter
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/apple" title="Apple" icon="icon-apple" %}
+Get started with Clikkle and Apple
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/android" title="Android" icon="icon-android" %}
+Get started with Clikkle and Android
+{% /cards_item %}
+{% /cards %}
+
+## Server apps {% #server-app %}
+Examples when building with Server APIs
+
+{% cards %}
+{% cards_item href="/docs/quick-starts/node" title="Node.js" icon="icon-node_js" %}
+Get started with Clikkle and Node.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/python" title="Python" icon="icon-python" %}
+Get started with Clikkle and Python
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/dart" title="Dart" icon="web-icon-dart" %}
+Get started with Clikkle and Dart
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/php" title="PHP" icon="web-icon-php" %}
+Get started with Clikkle and PHP
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/ruby" title="Ruby" icon="web-icon-ruby" %}
+Get started with Clikkle and Ruby
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/dotnet" title=".NET" icon="web-icon-dotnet" %}
+Get started with Clikkle and .NET
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/deno" title="Deno" icon="web-icon-deno" %}
+Get started with Clikkle and Deno
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/go" title="Go" icon="web-icon-go" %}
+Get started with Clikkle and Go
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/swift" title="Swift" icon="web-icon-swift" %}
+Get started with Clikkle and Swift
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/kotlin" title="Kotlin" icon="web-icon-kotlin" %}
+Get started with Clikkle and Kotlin
+{% /cards_item %}
+{% /cards %}
+
+
+{% /section %}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T38e6,---
+layout: article
+title: Quick start
+description: Configure the Clikkle SDKs and take the necessary steps to start using Clikkle.
+---
+Follow these steps before you begin using the Clikkle SDKs or accessing Clikkle through the REST and GraphQL API.
+
+{% section #select-the-right-API step=1 title="Select the right API" %}
+Clikkle has two types of APIs for different use cases, select one or both depending on your use case.
+
+If you're creating a **web, mobile, or native application** used by end-users that will register and create accounts,
+install a [Client SDK](/docs/sdks#client) and follow steps for Client APIs.
+
+If you're create a server application, like a **backend, admin app, or a CLI tool**,
+install a [Server SDK](/docs/sdks#server) and follow steps for Server APIs.
+
+If you're creating a **Server-side Rendered (SSR)** web app, 
+install a [Server SDK](/docs/sdks#server) and follow steps for SSR.
+{% /section %}
+
+{% section #configure-project step=2 title="Configure project" %}
+
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+Then, configure your project depending on use case.
+You can follow all three flows to enable all three use cases.
+
+{% tabs %}
+{% tabsitem #client title="Client" %}
+Under **Add a platform**, add a platform for **each** web, mobile, and native app you plan to create.
+This means, a different platform for each web app hosted under a different domain,
+and a different platform for each mobile or native app that use a different package ID.
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+{% /tabsitem %}
+
+{% tabsitem #server title="Server" %}
+Under **Integrate with your server**, add an **API Key**.
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/integrate-server.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/integrate-server.png)
+{% /only_light %}
+
+Enable the scopes for the Clikkle products you plan to use for your app.
+It's a good idea to only grant scopes that you need, and edit the API keys as your needs change for security.
+{% /tabsitem %}
+
+{% tabsitem #ssr title="SSR" %}
+Under **Integrate with your server**, add an **API Key** with the following scopes.
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/integrate-server.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/integrate-server.png)
+{% /only_light %}
+
+| Category  {% width=120 %} | Required scopes       | Purpose |
+|-----------|-----------------------|---------|
+| Sessions  | `sessions.write`     | Allows API key to create, update, and delete sessions. |
+
+{% /tabsitem %}
+{% /tabs %}
+
+{% /section %}
+
+{% section #initialize-sdks step=3 title="Initialize SDKs" %}
+When using the Clikkle APIs, you need to pass information like endpoint, project ID, credentials
+and other metadata for Clikkle to properly parse your request.
+
+{% tabs %}
+{% tabsitem #client title="Client" %}
+Client apps need to be configured with endpoint and project ID,
+so the Clikkle SDK knows which endpoint and project to connect to.
+{% multicode %}
+```client-web
+import { Client } from "clikkle";
+
+const client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                // Your project ID
+;
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+Client client = Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                // Your project ID
+;
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                            // Your project ID
+```
+```client-android-kotlin
+import io.clikkle.Client
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+```
+{% /multicode %}
+{% /tabsitem %}
+
+{% tabsitem #server title="Server" %}
+Server apps need to be configured with endpoint, project ID, and an API key
+so the Clikkle SDK knows which endpoint and project to connect to, as well as have credentials to perform admin actions.
+
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
+    .setProject('<PROJECT_ID>')                            // Your project ID
+    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
+;
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
+    .setProject('<PROJECT_ID>')                            // Your project ID
+    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
+;
+```
+```php
+<?php
+
+use Clikkle\Client;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')               // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                           // Your project ID
+    ->setJWT('<YOUR_API_KEY>')                                  // Your secret JSON Web Token
+;
+```
+```python
+from clikkle.client import Client
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')                 # Your API Endpoint
+  .set_project('<PROJECT_ID>')                             # Your project ID
+  .set_jwt('<YOUR_API_KEY>')                                    # Your secret JSON Web Token
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')               # Your API Endpoint
+    .set_project('<PROJECT_ID>')                           # Your project ID
+    .set_jwt('<YOUR_API_KEY>')                                  # Your secret JSON Web Token
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                            // Your project ID
+    .SetJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+void main() {                                                   // Init SDK
+  Client client = Client();
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint
+    .setProject('<PROJECT_ID>')                            // Your project ID
+    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token
+  ;
+}
+```
+```kotlin
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
+    .setProject("<PROJECT_ID>")                            // Your project ID
+    .setJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
+    .setProject("<PROJECT_ID>")                            // Your project ID
+    .setJWT("<YOUR_API_KEY>");                                  // Your secret JSON Web Token
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")                // Your API Endpoint
+    .setProject("<PROJECT_ID>")                            // Your project ID
+    .setJWT("<YOUR_API_KEY>")                                   // Your secret JSON Web Token
+```
+{% /multicode %}
+{% /tabsitem %}
+
+{% tabsitem #ssr title="SSR" %}
+Clikkle uses Server SDKs for SSR apps. The initialization is different
+## Admin client {% #admin-client %}
+
+{% info title="Admin clients" %}
+Admin clients should only be used if you need to perform admin actions that bypass permissions
+or [unauthenticated requests that bypass rate limits](/docs/products/auth/server-side-rendering#rate-limits).
+{% /info %}
+
+To initialize the admin client, we'll need to first [generated an API key](/docs/advanced/platform/api-keys#create-api-key). 
+The API key should have the following scope in order to perform authentication:
+
+| Category  {% width=120 %} | Required scopes    | Purpose |
+|-----------|---------------------|---------|
+| Sessions  | `sessions.write`    | Allows API key to create, update, and delete sessions. |
+
+{% multicode %}
+```server-nodejs
+import { Client } from "node-clikkle"; // Using the server SDK
+
+const adminClient = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')             // Your project ID
+    .setKey('<YOUR_API_KEY>');                   // Your secret API key
+```
+```php
+use Clikkle\Client;
+use Clikkle\Services\Account;
+
+$adminClient = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')             // Your project ID
+    ->setKey('<YOUR_API_KEY>');                   // Your secret API key
+
+
+```
+{% /multicode %}
+
+It is important to use an API key, as this will allow your server requests to bypass [rate limits](/docs/advanced/platform/rate-limits). If you don't use an API key, your server will be rate limited as if it were a client from a single IP address.
+
+## Session client {% #session-client %}
+
+The session client will be used to make requests to Clikkle on behalf of the end-user. 
+It will be initialized with the session, usually stored within a cookie.
+
+You should create a new client for each request and **never** share the client between requests.
+
+{% multicode %}
+```server-nodejs
+const sessionClient = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');            // Your project ID
+
+const session = req.cookies.session; // Get the session cookie from the request
+if (session) {
+    sessionClient.setSession(session);
+}
+```
+```php
+$sessionClient = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>');            // Your project ID
+
+$session = $_COOKIE['session']; // Get the session cookie from the request
+if ($session) {
+    $sessionClient->setSession($session);
+}
+```
+{% /multicode %}
+{% /tabsitem %}
+
+You will use the initialized client in all requests you make to Clikkle.
+{% /tabs %}
+
+If you're using Clikkle without an SDK, follow the guides for the [REST API](/docs/apis/rest) or [GraphQL API](/docs/apis/graphql).
+{% /section %}
+
+{% section #examples step=4 title="Examples" %}
+If you prefer to explore examples, follow one of the following quick starts.
+
+## Client apps {% #client-app %}
+Examples when building with Client APIs
+{% cards %}
+{% cards_item href="/docs/quick-starts/web" title="Web" icon="icon-nextjs" %}
+Just plain JavaScript and TypeScript.
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/nextjs" title="Next.js" icon="icon-nextjs" %}
+Get started with Clikkle and Next.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/react" title="React" icon="icon-react" %}
+Get started with Clikkle and React
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/vue" title="Vue.js" icon="web-icon-vue" %}
+Get started with Clikkle and Vue.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/nuxt" title="Nuxt" icon="web-icon-nuxt" %}
+Get started with Clikkle and Nuxt
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/sveltekit" title="SvelteKit" icon="icon-svelte" %}
+Get started with Clikkle and SvelteKit
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/angular" title="Angular" icon="icon-angular" %}
+Get started with Clikkle and Angular
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/flutter" title="Flutter" icon="icon-flutter" %}
+Get started with Clikkle and Flutter
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/apple" title="Apple" icon="icon-apple" %}
+Get started with Clikkle and Apple
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/android" title="Android" icon="icon-android" %}
+Get started with Clikkle and Android
+{% /cards_item %}
+{% /cards %}
+
+## Server apps {% #server-app %}
+Examples when building with Server APIs
+
+{% cards %}
+{% cards_item href="/docs/quick-starts/node" title="Node.js" icon="icon-node_js" %}
+Get started with Clikkle and Node.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/python" title="Python" icon="icon-python" %}
+Get started with Clikkle and Python
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/dart" title="Dart" icon="web-icon-dart" %}
+Get started with Clikkle and Dart
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/php" title="PHP" icon="web-icon-php" %}
+Get started with Clikkle and PHP
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/ruby" title="Ruby" icon="web-icon-ruby" %}
+Get started with Clikkle and Ruby
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/dotnet" title=".NET" icon="web-icon-dotnet" %}
+Get started with Clikkle and .NET
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/deno" title="Deno" icon="web-icon-deno" %}
+Get started with Clikkle and Deno
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/go" title="Go" icon="web-icon-go" %}
+Get started with Clikkle and Go
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/swift" title="Swift" icon="web-icon-swift" %}
+Get started with Clikkle and Swift
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/kotlin" title="Kotlin" icon="web-icon-kotlin" %}
+Get started with Clikkle and Kotlin
+{% /cards_item %}
+{% /cards %}
+
+
+{% /section %}
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Quick start"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Follow these steps before you begin using the Clikkle SDKs or accessing Clikkle through the REST and GraphQL API."}],["$","$Le",null,{"id":"select-the-right-API","step":1,"title":"Select the right API","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle has two types of APIs for different use cases, select one or both depending on your use case."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you're creating a ",["$","strong",null,{"children":"web, mobile, or native application"}]," used by end-users that will register and create accounts,"," ","install a ",["$","$Lf",null,{"href":"/docs/sdks#client","children":"Client SDK"}]," and follow steps for Client APIs."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you're create a server application, like a ",["$","strong",null,{"children":"backend, admin app, or a CLI tool"}],","," ","install a ",["$","$Lf",null,{"href":"/docs/sdks#server","children":"Server SDK"}]," and follow steps for Server APIs."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you're creating a ",["$","strong",null,{"children":"Server-side Rendered (SSR)"}]," web app,"," ","install a ",["$","$Lf",null,{"href":"/docs/sdks#server","children":"Server SDK"}]," and follow steps for SSR."]}]]}],["$","$Le",null,{"id":"configure-project","step":2,"title":"Configure project","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to the ",["$","a",null,{"href":"https://cloud.clikkle.io/console","children":"Clikkle Console"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If this is your first time using Clikkle, create an account and create your first project."}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/create-project.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/create-project.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then, configure your project depending on use case."," ","You can follow all three flows to enable all three use cases."]}],["$","$L10",null,{"children":[["$","$L11",null,{"id":"client","title":"Client","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Under ",["$","strong",null,{"children":"Add a platform"}],", add a platform for ",["$","strong",null,{"children":"each"}]," web, mobile, and native app you plan to create."," ","This means, a different platform for each web app hosted under a different domain,"," ","and a different platform for each mobile or native app that use a different package ID."]}],"$L12","$L13","$L14"]}],"$L15","$L16"]}]]}],"$L17","$L18"]}]}]]}],"$L19"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1a",null,{"items":[{"id":"select-the-right-api","title":"Select the right API","level":2},{"id":"configure-project","title":"Configure project","level":2},{"id":"initialize-sdks","title":"Initialize SDKs","level":2},{"id":"admin-client","title":"Admin client","level":2},{"id":"session-client","title":"Session client","level":2},{"id":"examples","title":"Examples","level":2},{"id":"client-app","title":"Client apps","level":2},{"id":"server-app","title":"Server apps","level":2}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+12:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+13:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can skip optional steps."}]
+15:["$","$L11",null,{"id":"server","title":"Server","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Under ",["$","strong",null,{"children":"Integrate with your server"}],", add an ",["$","strong",null,{"children":"API Key"}],"."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/integrate-server.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/integrate-server.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Enable the scopes for the Clikkle products you plan to use for your app."," ","It's a good idea to only grant scopes that you need, and edit the API keys as your needs change for security."]}]]}]
+16:["$","$L11",null,{"id":"ssr","title":"SSR","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Under ",["$","strong",null,{"children":"Integrate with your server"}],", add an ",["$","strong",null,{"children":"API Key"}]," with the following scopes."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/integrate-server.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/integrate-server.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","$L1e",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Category  "}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Required scopes"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Purpose"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Sessions"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"sessions.write"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Allows API key to create, update, and delete sessions."}]}]]}]}]]}]]}]
+17:["$","$Le",null,{"id":"initialize-sdks","step":3,"title":"Initialize SDKs","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When using the Clikkle APIs, you need to pass information like endpoint, project ID, credentials"," ","and other metadata for Clikkle to properly parse your request."]}],["$","$L10",null,{"children":[["$","$L11",null,{"id":"client","title":"Client","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Client apps need to be configured with endpoint and project ID,"," ","so the Clikkle SDK knows which endpoint and project to connect to."]}],["$","$L1f",null,{"children":[["$","$L20",null,{"language":"client-web","content":"import { Client } from \"clikkle\";\n\nconst client = new Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                // Your project ID\n;\n","children":"import { Client } from \"clikkle\";\n\nconst client = new Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                // Your project ID\n;\n"}],["$","$L20",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nClient client = Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                // Your project ID\n;\n","children":"import 'package:clikkle/clikkle.dart';\n\nClient client = Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                // Your project ID\n;\n"}],["$","$L20",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                            // Your project ID\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                            // Your project ID\n"}],["$","$L20",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n","children":"import io.clikkle.Client\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n"}]]}]]}],["$","$L11",null,{"id":"server","title":"Server","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Server apps need to be configured with endpoint, project ID, and an API key"," ","so the Clikkle SDK knows which endpoint and project to connect to, as well as have credentials to perform admin actions."]}],["$","$L1f",null,{"children":[["$","$L20",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint\n    .setProject('<PROJECT_ID>')                            // Your project ID\n    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token\n;\n","children":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint\n    .setProject('<PROJECT_ID>')                            // Your project ID\n    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token\n;\n"}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]]}],"$L2a","$L2b"]}],"$L2c"]}]
+18:["$","$Le",null,{"id":"examples","step":4,"title":"Examples","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you prefer to explore examples, follow one of the following quick starts."}],["$","$L2d",null,{"id":"client-app","level":2,"children":"Client apps "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Examples when building with Client APIs"}],["$","div",null,{"className":"not-prose my-8 grid grid-cols-1 gap-8 md:grid-cols-2","children":[["$","$Lf",null,{"href":"/docs/quick-starts/web","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-nextjs web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Web"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Just plain JavaScript and TypeScript."}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/nextjs","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-nextjs web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Next.js"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Next.js"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/react","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-react web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"React"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and React"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/vue","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-vue web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Vue.js"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Vue.js"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/nuxt","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-nuxt web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Nuxt"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Nuxt"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/sveltekit","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":["$L2e",null,"$L2f"]}],"$L30"]}],"$L31","$L32","$L33","$L34"]}],"$L35","$L36","$L37"]}]
+19:["$","$L38",null,{}]
+1d:null
+21:["$","$L20",null,{"language":"deno","content":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint\n    .setProject('<PROJECT_ID>')                            // Your project ID\n    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token\n;\n","children":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint\n    .setProject('<PROJECT_ID>')                            // Your project ID\n    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token\n;\n"}]
+22:["$","$L20",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')               // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                           // Your project ID\n    ->setJWT('<YOUR_API_KEY>')                                  // Your secret JSON Web Token\n;\n","children":"<?php\n\nuse Clikkle\\Client;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')               // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                           // Your project ID\n    ->setJWT('<YOUR_API_KEY>')                                  // Your secret JSON Web Token\n;\n"}]
+23:["$","$L20",null,{"language":"python","content":"from clikkle.client import Client\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')                 # Your API Endpoint\n  .set_project('<PROJECT_ID>')                             # Your project ID\n  .set_jwt('<YOUR_API_KEY>')                                    # Your secret JSON Web Token\n)\n","children":"from clikkle.client import Client\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')                 # Your API Endpoint\n  .set_project('<PROJECT_ID>')                             # Your project ID\n  .set_jwt('<YOUR_API_KEY>')                                    # Your secret JSON Web Token\n)\n"}]
+24:["$","$L20",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')               # Your API Endpoint\n    .set_project('<PROJECT_ID>')                           # Your project ID\n    .set_jwt('<YOUR_API_KEY>')                                  # Your secret JSON Web Token\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')               # Your API Endpoint\n    .set_project('<PROJECT_ID>')                           # Your project ID\n    .set_jwt('<YOUR_API_KEY>')                                  # Your secret JSON Web Token\n"}]
+25:["$","$L20",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\")                // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                            // Your project ID\n    .SetJWT(\"<YOUR_API_KEY>\");                                  // Your secret JSON Web Token\n","children":"using Clikkle;\nusing Clikkle.Services;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\")                // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                            // Your project ID\n    .SetJWT(\"<YOUR_API_KEY>\");                                  // Your secret JSON Web Token\n"}]
+26:["$","$L20",null,{"language":"dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nvoid main() {                                                   // Init SDK\n  Client client = Client();\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint\n    .setProject('<PROJECT_ID>')                            // Your project ID\n    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token\n  ;\n}\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nvoid main() {                                                   // Init SDK\n  Client client = Client();\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')                // Your API Endpoint\n    .setProject('<PROJECT_ID>')                            // Your project ID\n    .setJWT('<YOUR_API_KEY>')                                   // Your secret JSON Web Token\n  ;\n}\n"}]
+27:["$","$L20",null,{"language":"kotlin","content":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")                // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                            // Your project ID\n    .setJWT(\"<YOUR_API_KEY>\");                                  // Your secret JSON Web Token\n","children":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")                // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                            // Your project ID\n    .setJWT(\"<YOUR_API_KEY>\");                                  // Your secret JSON Web Token\n"}]
+28:["$","$L20",null,{"language":"java","content":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")                // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                            // Your project ID\n    .setJWT(\"<YOUR_API_KEY>\");                                  // Your secret JSON Web Token\n","children":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")                // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                            // Your project ID\n    .setJWT(\"<YOUR_API_KEY>\");                                  // Your secret JSON Web Token\n"}]
+29:["$","$L20",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")                // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                            // Your project ID\n    .setJWT(\"<YOUR_API_KEY>\")                                   // Your secret JSON Web Token\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")                // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                            // Your project ID\n    .setJWT(\"<YOUR_API_KEY>\")                                   // Your secret JSON Web Token\n"}]
+2a:["$","$L11",null,{"id":"ssr","title":"SSR","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle uses Server SDKs for SSR apps. The initialization is different"}],["$","$L2d",null,{"id":"admin-client","level":2,"children":"Admin client "}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Admin clients"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Admin clients should only be used if you need to perform admin actions that bypass permissions"," ","or ",["$","$Lf",null,{"href":"/docs/products/auth/server-side-rendering#rate-limits","children":"unauthenticated requests that bypass rate limits"}],"."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To initialize the admin client, we'll need to first ",["$","$Lf",null,{"href":"/docs/advanced/platform/api-keys#create-api-key","children":"generated an API key"}],"."," ","The API key should have the following scope in order to perform authentication:"]}],["$","$L1e",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Category  "}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Required scopes"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Purpose"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Sessions"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"sessions.write"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Allows API key to create, update, and delete sessions."}]}]]}]}]]}],["$","$L1f",null,{"children":[["$","$L20",null,{"language":"server-nodejs","content":"import { Client } from \"node-clikkle\"; // Using the server SDK\n\nconst adminClient = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')             // Your project ID\n    .setKey('<YOUR_API_KEY>');                   // Your secret API key\n","children":"import { Client } from \"node-clikkle\"; // Using the server SDK\n\nconst adminClient = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')             // Your project ID\n    .setKey('<YOUR_API_KEY>');                   // Your secret API key\n"}],["$","$L20",null,{"language":"php","content":"use Clikkle\\Client;\nuse Clikkle\\Services\\Account;\n\n$adminClient = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')             // Your project ID\n    ->setKey('<YOUR_API_KEY>');                   // Your secret API key\n\n\n","children":"use Clikkle\\Client;\nuse Clikkle\\Services\\Account;\n\n$adminClient = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')             // Your project ID\n    ->setKey('<YOUR_API_KEY>');                   // Your secret API key\n\n\n"}]]}],"$L39","$L3a","$L3b","$L3c","$L3d"]}]
+2b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You will use the initialized client in all requests you make to Clikkle."}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you're using Clikkle without an SDK, follow the guides for the ",["$","$Lf",null,{"href":"/docs/apis/rest","children":"REST API"}]," or ",["$","$Lf",null,{"href":"/docs/apis/graphql","children":"GraphQL API"}],"."]}]
+2e:["$","span",null,{"className":"icon-svelte web-u-font-size-24","aria-hidden":"true"}]
+2f:["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"SvelteKit"}]
+30:["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and SvelteKit"}]}]
+31:["$","$Lf",null,{"href":"/docs/quick-starts/angular","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-angular web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Angular"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Angular"}]}]]}]
+32:["$","$Lf",null,{"href":"/docs/quick-starts/flutter","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-flutter web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Flutter"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Flutter"}]}]]}]
+33:["$","$Lf",null,{"href":"/docs/quick-starts/apple","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-apple web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Apple"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Apple"}]}]]}]
+34:["$","$Lf",null,{"href":"/docs/quick-starts/android","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-android web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Android"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Android"}]}]]}]
+35:["$","$L2d",null,{"id":"server-app","level":2,"children":"Server apps "}]
+36:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Examples when building with Server APIs"}]
+37:["$","div",null,{"className":"not-prose my-8 grid grid-cols-1 gap-8 md:grid-cols-2","children":[["$","$Lf",null,{"href":"/docs/quick-starts/node","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-node_js web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Node.js"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Node.js"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/python","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-python web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Python"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Python"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/dart","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-dart web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Dart"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Dart"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/php","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-php web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"PHP"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and PHP"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/ruby","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-ruby web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Ruby"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Ruby"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/dotnet","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-dotnet web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":".NET"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and .NET"}]}]]}],["$","$Lf",null,{"href":"/docs/quick-starts/deno","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":["$L3e","$L3f"]}],"$L40","$L41","$L42"]}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["It is important to use an API key, as this will allow your server requests to bypass ",["$","$Lf",null,{"href":"/docs/advanced/platform/rate-limits","children":"rate limits"}],". If you don't use an API key, your server will be rate limited as if it were a client from a single IP address."]}]
+3a:["$","$L2d",null,{"id":"session-client","level":2,"children":"Session client "}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The session client will be used to make requests to Clikkle on behalf of the end-user."," ","It will be initialized with the session, usually stored within a cookie."]}]
+3c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You should create a new client for each request and ",["$","strong",null,{"children":"never"}]," share the client between requests."]}]
+3d:["$","$L1f",null,{"children":[["$","$L20",null,{"language":"server-nodejs","content":"const sessionClient = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');            // Your project ID\n\nconst session = req.cookies.session; // Get the session cookie from the request\nif (session) {\n    sessionClient.setSession(session);\n}\n","children":"const sessionClient = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');            // Your project ID\n\nconst session = req.cookies.session; // Get the session cookie from the request\nif (session) {\n    sessionClient.setSession(session);\n}\n"}],["$","$L20",null,{"language":"php","content":"$$sessionClient = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>');            // Your project ID\n\n$session = $_COOKIE['session']; // Get the session cookie from the request\nif ($session) {\n    $sessionClient->setSession($session);\n}\n","children":"$$sessionClient = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>');            // Your project ID\n\n$session = $_COOKIE['session']; // Get the session cookie from the request\nif ($session) {\n    $sessionClient->setSession($session);\n}\n"}]]}]
+3e:["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-deno web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Deno"}]]}]
+3f:["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Deno"}]}]
+40:["$","$Lf",null,{"href":"/docs/quick-starts/go","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-go web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Go"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Go"}]}]]}]
+41:["$","$Lf",null,{"href":"/docs/quick-starts/swift","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-swift web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Swift"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Swift"}]}]]}]
+42:["$","$Lf",null,{"href":"/docs/quick-starts/kotlin","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-kotlin web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Kotlin"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Kotlin"}]}]]}]

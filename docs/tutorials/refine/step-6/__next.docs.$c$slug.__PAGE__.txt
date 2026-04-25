@@ -1,0 +1,744 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+c:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+5:T2385,---
+layout: tutorial
+title: Create CRUD pages
+description: Add database queries and CRUD pages using Clikkle in your Refine application.
+step: 6
+---
+
+We're going to add CRUD pages to our admin panel so you can list, create, and view blog posts records.
+
+
+## List page {% #list-page %}
+
+
+ First, create a listing page to show Clikkle API data in a table by copying the code below into `src/pages/posts` and saving it as `list.tsx`.
+
+```ts
+import { IResourceComponentsProps } from "@refinedev/core";
+import {
+  List,
+  useTable,
+  EditButton,
+  ShowButton,
+  getDefaultSortOrder,
+  DeleteButton,
+} from "@refinedev/antd";
+import { Table, Space } from "antd";
+import { IPost } from "../../interfaces";
+
+export const PostList: React.FC<IResourceComponentsProps> = () => {
+  const { tableProps, sorters } = useTable<IPost>({
+    initialSorter: [
+      {
+        field: "$id",
+        order: "asc",
+      },
+    ],
+  });
+
+  return (
+    <List>
+      <Table {...tableProps} rowKey="id">
+        <Table.Column
+          dataIndex="id"
+          title="ID"
+          sorter
+          width={100}
+          defaultSortOrder={getDefaultSortOrder("id", sorters)}
+        />
+        <Table.Column dataIndex="title" title="Title" sorter />
+
+        <Table.Column<IPost>
+          title="Actions"
+          dataIndex="actions"
+          fixed="right"
+          render={(_, record) => (
+            <Space>
+              <EditButton hideText size="small" recordItemId={record.id} />
+              <ShowButton hideText size="small" recordItemId={record.id} />
+              <DeleteButton hideText size="small" recordItemId={record.id} />
+            </Space>
+          )}
+        />
+      </Table>
+    </List>
+  );
+};
+```
+
+## Create page {% #create-page %}
+
+ Create a new record page for the Clikkle API by copying the following code and saving it as `create.tsx`.
+
+
+```ts
+import { HttpError, IResourceComponentsProps } from "@refinedev/core";
+import { Create, useForm } from "@refinedev/antd";
+import { Form, Input } from "antd";
+import { IPost, IPostVariables } from "../../interfaces";
+
+export const PostCreate: React.FC<IResourceComponentsProps> = () => {
+  const { formProps, saveButtonProps } = useForm<
+    IPost,
+    HttpError,
+    IPostVariables
+  >();
+
+  return (
+    <Create saveButtonProps={saveButtonProps}>
+      <Form {...formProps} layout="vertical">
+        <Form.Item
+          label="Title"
+          name="title"
+          rules={[
+            {
+              required: true,
+            },
+          ]}
+        >
+          <Input />
+        </Form.Item>
+
+        <Form.Item
+          label="Content"
+          name="content"
+          rules={[
+            {
+              required: true,
+            },
+          ]}
+        >
+          <Input.TextArea rows={5} />
+        </Form.Item>
+      </Form>
+    </Create>
+  );
+};
+```
+
+## Edit page {% #edit-page %}
+
+Create a page for editing a records with the following code and saving it as `edit.tsx`.
+
+
+```ts
+import React from "react";
+import { HttpError, IResourceComponentsProps } from "@refinedev/core";
+import { Edit, useForm } from "@refinedev/antd";
+import { Form, Input } from "antd";
+import { IPost, IPostVariables } from "../../interfaces";
+
+export const PostEdit: React.FC<IResourceComponentsProps> = () => {
+  const { formProps, saveButtonProps } = useForm<
+    IPost,
+    HttpError,
+    IPostVariables
+  >();
+
+  return (
+    <Edit saveButtonProps={saveButtonProps}>
+      <Form {...formProps} layout="vertical">
+        <Form.Item
+          label="Title"
+          name="title"
+          rules={[
+            {
+              required: true,
+            },
+          ]}
+        >
+          <Input />
+        </Form.Item>
+        <Form.Item
+          label="Content"
+          name="content"
+          rules={[
+            {
+              required: true,
+            },
+          ]}
+        >
+          <Input.TextArea rows={5} />
+        </Form.Item>
+      </Form>
+    </Edit>
+  );
+};
+```
+
+## Show page {% #show-page %}
+
+ Create a page for showig the records with the following code and saving it as `edit.tsx`.
+
+
+```ts
+import { useShow, IResourceComponentsProps } from "@refinedev/core";
+
+import { Show, MarkdownField } from "@refinedev/antd";
+import { Typography } from "antd";
+import { IPost } from "../../interfaces";
+
+const { Title, Text } = Typography;
+
+export const PostShow: React.FC<IResourceComponentsProps> = () => {
+  const { queryResult } = useShow<IPost>();
+  const { data, isLoading } = queryResult;
+  const record = data?.data;
+
+  return (
+    <Show isLoading={isLoading}>
+      <Title level={5}>Id</Title>
+      <Text>{record?.id}</Text>
+
+      <Title level={5}>Title</Title>
+      <Text>{record?.title}</Text>
+
+      <Title level={5}>Content</Title>
+      <MarkdownField value={record?.content} />
+    </Show>
+  );
+};
+```
+
+## Interfaces {% #interfaces %}
+
+ We need to add interfaces to `src/interfaces/index.d.ts` file.
+
+
+```ts
+export interface IFile {
+  name: string;
+  percent: number;
+  size: number;
+  status: "error" | "success" | "done" | "uploading" | "removed";
+  type: string;
+  uid: string;
+  url: string;
+}
+
+export interface IPost {
+  id: string;
+  title: string;
+  content: string;
+}
+
+export interface IPostVariables {
+  id: string;
+  title: string;
+  content: string;
+}
+```
+
+## Connect pages to the App
+
+Finally, import the pages into `App.tsx` and define them in the `<Route>` components. 
+
+Simply, paste the following into `App.tsx`.
+
+
+```ts
+import { Authenticated, Refine } from "@refinedev/core";
+import { dataProvider, liveProvider } from "@refinedev/clikkle";
+import {
+  AuthPage,
+  ErrorComponent,
+  RefineThemes,
+  ThemedLayoutV2,
+  useNotificationProvider,
+} from "@refinedev/antd";
+import routerProvider, {
+  CatchAllNavigate,
+  DocumentTitleHandler,
+  NavigateToResource,
+  UnsavedChangesNotifier,
+} from "@refinedev/react-router-v6";
+import "@refinedev/antd/dist/reset.css";
+
+import { App as AntdApp, ConfigProvider } from "antd";
+import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
+
+import { clikkleClient } from "./utility";
+import { authProvider } from "./authProvider";
+import { PostCreate, PostEdit, PostList, PostShow } from "./pages/posts";
+
+const App: React.FC = () => (
+  <BrowserRouter>
+    <ConfigProvider theme={RefineThemes.Blue}>
+      <AntdApp>
+        <Refine
+          dataProvider={dataProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
+          })}
+          liveProvider={liveProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
+          })}
+          authProvider={authProvider}
+          routerProvider={routerProvider}
+          resources={[
+            {
+              name: "<CLIKKLE_TABLE_ID>",
+              list: "/posts",
+              create: "/posts/create",
+              edit: "/posts/edit/:id",
+              show: "/posts/show/:id",
+              meta: {
+                label: "Posts",
+              },
+            },
+          ]}
+          notificationProvider={useNotificationProvider}
+          options={{
+            liveMode: "auto",
+            syncWithLocation: true,
+            warnWhenUnsavedChanges: true,
+          }}
+        >
+          <Routes>
+            <Route
+              element={
+                <Authenticated 
+                  fallback={<CatchAllNavigate to="/login" />}
+                >
+                  <ThemedLayoutV2>
+                    <Outlet />
+                  </ThemedLayoutV2>
+                </Authenticated>
+              }
+            >
+              <Route
+                index
+                element={
+                  <NavigateToResource 
+                    resource="<CLIKKLE_TABLE_ID>" 
+                  />
+                }
+              />
+
+              <Route path="/posts">
+                <Route index element={<PostList />} />
+                <Route path="create" element={<PostCreate />} />
+                <Route path="edit/:id" element={<PostEdit />} />
+                <Route path="show/:id" element={<PostShow />} />
+              </Route>
+            </Route>
+
+            <Route
+              element={
+                <Authenticated fallback={<Outlet />}>
+                  <NavigateToResource
+                    resource="<CLIKKLE_TABLE_ID>" 
+                  />
+                </Authenticated>
+              }
+            >
+              <Route
+                path="/login"
+                element={<AuthPage forgotPasswordLink={false} />}
+              />
+              <Route path="/register" 
+                element={<AuthPage type="register" />} 
+              />
+            </Route>
+
+            <Route
+              element={
+                <Authenticated>
+                  <ThemedLayoutV2>
+                    <Outlet />
+                  </ThemedLayoutV2>
+                </Authenticated>
+              }
+            >
+              <Route path="*" element={<ErrorComponent />} />
+            </Route>
+          </Routes>
+          <UnsavedChangesNotifier />
+          <DocumentTitleHandler />
+        </Refine>
+      </AntdApp>
+    </ConfigProvider>
+  </BrowserRouter>
+);
+
+export default App;
+```
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Build a blog admin panel with Refine","steps":[{"step":1,"title":"Build a blog admin panel with Refine","href":"/docs/tutorials/refine/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":10},{"step":2,"title":"Create app","href":"/docs/tutorials/refine/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":10},{"step":3,"title":"Set up Clikkle","href":"/docs/tutorials/refine/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":10},{"step":4,"title":"Add authentication","href":"/docs/tutorials/refine/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":10},{"step":5,"title":"Add database","href":"/docs/tutorials/refine/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":10},{"step":6,"title":"Create CRUD pages","href":"/docs/tutorials/refine/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":10},{"step":7,"title":"Next steps","href":"/docs/tutorials/refine/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":10}],"currentStep":6,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:5","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+d:T4ef,import { IResourceComponentsProps } from "@refinedev/core";
+import {
+  List,
+  useTable,
+  EditButton,
+  ShowButton,
+  getDefaultSortOrder,
+  DeleteButton,
+} from "@refinedev/antd";
+import { Table, Space } from "antd";
+import { IPost } from "../../interfaces";
+
+export const PostList: React.FC<IResourceComponentsProps> = () => {
+  const { tableProps, sorters } = useTable<IPost>({
+    initialSorter: [
+      {
+        field: "$id",
+        order: "asc",
+      },
+    ],
+  });
+
+  return (
+    <List>
+      <Table {...tableProps} rowKey="id">
+        <Table.Column
+          dataIndex="id"
+          title="ID"
+          sorter
+          width={100}
+          defaultSortOrder={getDefaultSortOrder("id", sorters)}
+        />
+        <Table.Column dataIndex="title" title="Title" sorter />
+
+        <Table.Column<IPost>
+          title="Actions"
+          dataIndex="actions"
+          fixed="right"
+          render={(_, record) => (
+            <Space>
+              <EditButton hideText size="small" recordItemId={record.id} />
+              <ShowButton hideText size="small" recordItemId={record.id} />
+              <DeleteButton hideText size="small" recordItemId={record.id} />
+            </Space>
+          )}
+        />
+      </Table>
+    </List>
+  );
+};
+e:T4ef,import { IResourceComponentsProps } from "@refinedev/core";
+import {
+  List,
+  useTable,
+  EditButton,
+  ShowButton,
+  getDefaultSortOrder,
+  DeleteButton,
+} from "@refinedev/antd";
+import { Table, Space } from "antd";
+import { IPost } from "../../interfaces";
+
+export const PostList: React.FC<IResourceComponentsProps> = () => {
+  const { tableProps, sorters } = useTable<IPost>({
+    initialSorter: [
+      {
+        field: "$id",
+        order: "asc",
+      },
+    ],
+  });
+
+  return (
+    <List>
+      <Table {...tableProps} rowKey="id">
+        <Table.Column
+          dataIndex="id"
+          title="ID"
+          sorter
+          width={100}
+          defaultSortOrder={getDefaultSortOrder("id", sorters)}
+        />
+        <Table.Column dataIndex="title" title="Title" sorter />
+
+        <Table.Column<IPost>
+          title="Actions"
+          dataIndex="actions"
+          fixed="right"
+          render={(_, record) => (
+            <Space>
+              <EditButton hideText size="small" recordItemId={record.id} />
+              <ShowButton hideText size="small" recordItemId={record.id} />
+              <DeleteButton hideText size="small" recordItemId={record.id} />
+            </Space>
+          )}
+        />
+      </Table>
+    </List>
+  );
+};
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"We're going to add CRUD pages to our admin panel so you can list, create, and view blog posts records."}],["$","$Lb",null,{"id":"list-page","level":2,"children":"List page "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["First, create a listing page to show Clikkle API data in a table by copying the code below into ",["$","code",null,{"children":"src/pages/posts"}]," and saving it as ",["$","code",null,{"children":"list.tsx"}],"."]}],["$","$Lc",null,{"language":"ts","content":"$d","children":"$e"}],["$","$Lb",null,{"id":"create-page","level":2,"children":"Create page "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new record page for the Clikkle API by copying the following code and saving it as ","$Lf","."]}],"$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+f:["$","code",null,{"children":"create.tsx"}]
+10:["$","$Lc",null,{"language":"ts","content":"import { HttpError, IResourceComponentsProps } from \"@refinedev/core\";\nimport { Create, useForm } from \"@refinedev/antd\";\nimport { Form, Input } from \"antd\";\nimport { IPost, IPostVariables } from \"../../interfaces\";\n\nexport const PostCreate: React.FC<IResourceComponentsProps> = () => {\n  const { formProps, saveButtonProps } = useForm<\n    IPost,\n    HttpError,\n    IPostVariables\n  >();\n\n  return (\n    <Create saveButtonProps={saveButtonProps}>\n      <Form {...formProps} layout=\"vertical\">\n        <Form.Item\n          label=\"Title\"\n          name=\"title\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input />\n        </Form.Item>\n\n        <Form.Item\n          label=\"Content\"\n          name=\"content\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input.TextArea rows={5} />\n        </Form.Item>\n      </Form>\n    </Create>\n  );\n};\n","children":"import { HttpError, IResourceComponentsProps } from \"@refinedev/core\";\nimport { Create, useForm } from \"@refinedev/antd\";\nimport { Form, Input } from \"antd\";\nimport { IPost, IPostVariables } from \"../../interfaces\";\n\nexport const PostCreate: React.FC<IResourceComponentsProps> = () => {\n  const { formProps, saveButtonProps } = useForm<\n    IPost,\n    HttpError,\n    IPostVariables\n  >();\n\n  return (\n    <Create saveButtonProps={saveButtonProps}>\n      <Form {...formProps} layout=\"vertical\">\n        <Form.Item\n          label=\"Title\"\n          name=\"title\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input />\n        </Form.Item>\n\n        <Form.Item\n          label=\"Content\"\n          name=\"content\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input.TextArea rows={5} />\n        </Form.Item>\n      </Form>\n    </Create>\n  );\n};\n"}]
+11:["$","$Lb",null,{"id":"edit-page","level":2,"children":"Edit page "}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a page for editing a records with the following code and saving it as ",["$","code",null,{"children":"edit.tsx"}],"."]}]
+13:["$","$Lc",null,{"language":"ts","content":"import React from \"react\";\nimport { HttpError, IResourceComponentsProps } from \"@refinedev/core\";\nimport { Edit, useForm } from \"@refinedev/antd\";\nimport { Form, Input } from \"antd\";\nimport { IPost, IPostVariables } from \"../../interfaces\";\n\nexport const PostEdit: React.FC<IResourceComponentsProps> = () => {\n  const { formProps, saveButtonProps } = useForm<\n    IPost,\n    HttpError,\n    IPostVariables\n  >();\n\n  return (\n    <Edit saveButtonProps={saveButtonProps}>\n      <Form {...formProps} layout=\"vertical\">\n        <Form.Item\n          label=\"Title\"\n          name=\"title\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input />\n        </Form.Item>\n        <Form.Item\n          label=\"Content\"\n          name=\"content\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input.TextArea rows={5} />\n        </Form.Item>\n      </Form>\n    </Edit>\n  );\n};\n","children":"import React from \"react\";\nimport { HttpError, IResourceComponentsProps } from \"@refinedev/core\";\nimport { Edit, useForm } from \"@refinedev/antd\";\nimport { Form, Input } from \"antd\";\nimport { IPost, IPostVariables } from \"../../interfaces\";\n\nexport const PostEdit: React.FC<IResourceComponentsProps> = () => {\n  const { formProps, saveButtonProps } = useForm<\n    IPost,\n    HttpError,\n    IPostVariables\n  >();\n\n  return (\n    <Edit saveButtonProps={saveButtonProps}>\n      <Form {...formProps} layout=\"vertical\">\n        <Form.Item\n          label=\"Title\"\n          name=\"title\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input />\n        </Form.Item>\n        <Form.Item\n          label=\"Content\"\n          name=\"content\"\n          rules={[\n            {\n              required: true,\n            },\n          ]}\n        >\n          <Input.TextArea rows={5} />\n        </Form.Item>\n      </Form>\n    </Edit>\n  );\n};\n"}]
+14:["$","$Lb",null,{"id":"show-page","level":2,"children":"Show page "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a page for showig the records with the following code and saving it as ",["$","code",null,{"children":"edit.tsx"}],"."]}]
+16:["$","$Lc",null,{"language":"ts","content":"import { useShow, IResourceComponentsProps } from \"@refinedev/core\";\n\nimport { Show, MarkdownField } from \"@refinedev/antd\";\nimport { Typography } from \"antd\";\nimport { IPost } from \"../../interfaces\";\n\nconst { Title, Text } = Typography;\n\nexport const PostShow: React.FC<IResourceComponentsProps> = () => {\n  const { queryResult } = useShow<IPost>();\n  const { data, isLoading } = queryResult;\n  const record = data?.data;\n\n  return (\n    <Show isLoading={isLoading}>\n      <Title level={5}>Id</Title>\n      <Text>{record?.id}</Text>\n\n      <Title level={5}>Title</Title>\n      <Text>{record?.title}</Text>\n\n      <Title level={5}>Content</Title>\n      <MarkdownField value={record?.content} />\n    </Show>\n  );\n};\n","children":"import { useShow, IResourceComponentsProps } from \"@refinedev/core\";\n\nimport { Show, MarkdownField } from \"@refinedev/antd\";\nimport { Typography } from \"antd\";\nimport { IPost } from \"../../interfaces\";\n\nconst { Title, Text } = Typography;\n\nexport const PostShow: React.FC<IResourceComponentsProps> = () => {\n  const { queryResult } = useShow<IPost>();\n  const { data, isLoading } = queryResult;\n  const record = data?.data;\n\n  return (\n    <Show isLoading={isLoading}>\n      <Title level={5}>Id</Title>\n      <Text>{record?.id}</Text>\n\n      <Title level={5}>Title</Title>\n      <Text>{record?.title}</Text>\n\n      <Title level={5}>Content</Title>\n      <MarkdownField value={record?.content} />\n    </Show>\n  );\n};\n"}]
+17:["$","$Lb",null,{"id":"interfaces","level":2,"children":"Interfaces "}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["We need to add interfaces to ",["$","code",null,{"children":"src/interfaces/index.d.ts"}]," file."]}]
+19:["$","$Lc",null,{"language":"ts","content":"export interface IFile {\n  name: string;\n  percent: number;\n  size: number;\n  status: \"error\" | \"success\" | \"done\" | \"uploading\" | \"removed\";\n  type: string;\n  uid: string;\n  url: string;\n}\n\nexport interface IPost {\n  id: string;\n  title: string;\n  content: string;\n}\n\nexport interface IPostVariables {\n  id: string;\n  title: string;\n  content: string;\n}\n","children":"export interface IFile {\n  name: string;\n  percent: number;\n  size: number;\n  status: \"error\" | \"success\" | \"done\" | \"uploading\" | \"removed\";\n  type: string;\n  uid: string;\n  url: string;\n}\n\nexport interface IPost {\n  id: string;\n  title: string;\n  content: string;\n}\n\nexport interface IPostVariables {\n  id: string;\n  title: string;\n  content: string;\n}\n"}]
+1a:["$","$Lb",null,{"level":2,"children":"Connect pages to the App"}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Finally, import the pages into ",["$","code",null,{"children":"App.tsx"}]," and define them in the ",["$","code",null,{"children":"<Route>"}]," components."]}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Simply, paste the following into ",["$","code",null,{"children":"App.tsx"}],"."]}]
+21:Te44,import { Authenticated, Refine } from "@refinedev/core";
+import { dataProvider, liveProvider } from "@refinedev/clikkle";
+import {
+  AuthPage,
+  ErrorComponent,
+  RefineThemes,
+  ThemedLayoutV2,
+  useNotificationProvider,
+} from "@refinedev/antd";
+import routerProvider, {
+  CatchAllNavigate,
+  DocumentTitleHandler,
+  NavigateToResource,
+  UnsavedChangesNotifier,
+} from "@refinedev/react-router-v6";
+import "@refinedev/antd/dist/reset.css";
+
+import { App as AntdApp, ConfigProvider } from "antd";
+import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
+
+import { clikkleClient } from "./utility";
+import { authProvider } from "./authProvider";
+import { PostCreate, PostEdit, PostList, PostShow } from "./pages/posts";
+
+const App: React.FC = () => (
+  <BrowserRouter>
+    <ConfigProvider theme={RefineThemes.Blue}>
+      <AntdApp>
+        <Refine
+          dataProvider={dataProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
+          })}
+          liveProvider={liveProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
+          })}
+          authProvider={authProvider}
+          routerProvider={routerProvider}
+          resources={[
+            {
+              name: "<CLIKKLE_TABLE_ID>",
+              list: "/posts",
+              create: "/posts/create",
+              edit: "/posts/edit/:id",
+              show: "/posts/show/:id",
+              meta: {
+                label: "Posts",
+              },
+            },
+          ]}
+          notificationProvider={useNotificationProvider}
+          options={{
+            liveMode: "auto",
+            syncWithLocation: true,
+            warnWhenUnsavedChanges: true,
+          }}
+        >
+          <Routes>
+            <Route
+              element={
+                <Authenticated 
+                  fallback={<CatchAllNavigate to="/login" />}
+                >
+                  <ThemedLayoutV2>
+                    <Outlet />
+                  </ThemedLayoutV2>
+                </Authenticated>
+              }
+            >
+              <Route
+                index
+                element={
+                  <NavigateToResource 
+                    resource="<CLIKKLE_TABLE_ID>" 
+                  />
+                }
+              />
+
+              <Route path="/posts">
+                <Route index element={<PostList />} />
+                <Route path="create" element={<PostCreate />} />
+                <Route path="edit/:id" element={<PostEdit />} />
+                <Route path="show/:id" element={<PostShow />} />
+              </Route>
+            </Route>
+
+            <Route
+              element={
+                <Authenticated fallback={<Outlet />}>
+                  <NavigateToResource
+                    resource="<CLIKKLE_TABLE_ID>" 
+                  />
+                </Authenticated>
+              }
+            >
+              <Route
+                path="/login"
+                element={<AuthPage forgotPasswordLink={false} />}
+              />
+              <Route path="/register" 
+                element={<AuthPage type="register" />} 
+              />
+            </Route>
+
+            <Route
+              element={
+                <Authenticated>
+                  <ThemedLayoutV2>
+                    <Outlet />
+                  </ThemedLayoutV2>
+                </Authenticated>
+              }
+            >
+              <Route path="*" element={<ErrorComponent />} />
+            </Route>
+          </Routes>
+          <UnsavedChangesNotifier />
+          <DocumentTitleHandler />
+        </Refine>
+      </AntdApp>
+    </ConfigProvider>
+  </BrowserRouter>
+);
+
+export default App;
+22:Te44,import { Authenticated, Refine } from "@refinedev/core";
+import { dataProvider, liveProvider } from "@refinedev/clikkle";
+import {
+  AuthPage,
+  ErrorComponent,
+  RefineThemes,
+  ThemedLayoutV2,
+  useNotificationProvider,
+} from "@refinedev/antd";
+import routerProvider, {
+  CatchAllNavigate,
+  DocumentTitleHandler,
+  NavigateToResource,
+  UnsavedChangesNotifier,
+} from "@refinedev/react-router-v6";
+import "@refinedev/antd/dist/reset.css";
+
+import { App as AntdApp, ConfigProvider } from "antd";
+import { BrowserRouter, Outlet, Route, Routes } from "react-router-dom";
+
+import { clikkleClient } from "./utility";
+import { authProvider } from "./authProvider";
+import { PostCreate, PostEdit, PostList, PostShow } from "./pages/posts";
+
+const App: React.FC = () => (
+  <BrowserRouter>
+    <ConfigProvider theme={RefineThemes.Blue}>
+      <AntdApp>
+        <Refine
+          dataProvider={dataProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
+          })}
+          liveProvider={liveProvider(clikkleClient, {
+            databaseId: "<CLIKKLE_DATABASE_ID>",
+          })}
+          authProvider={authProvider}
+          routerProvider={routerProvider}
+          resources={[
+            {
+              name: "<CLIKKLE_TABLE_ID>",
+              list: "/posts",
+              create: "/posts/create",
+              edit: "/posts/edit/:id",
+              show: "/posts/show/:id",
+              meta: {
+                label: "Posts",
+              },
+            },
+          ]}
+          notificationProvider={useNotificationProvider}
+          options={{
+            liveMode: "auto",
+            syncWithLocation: true,
+            warnWhenUnsavedChanges: true,
+          }}
+        >
+          <Routes>
+            <Route
+              element={
+                <Authenticated 
+                  fallback={<CatchAllNavigate to="/login" />}
+                >
+                  <ThemedLayoutV2>
+                    <Outlet />
+                  </ThemedLayoutV2>
+                </Authenticated>
+              }
+            >
+              <Route
+                index
+                element={
+                  <NavigateToResource 
+                    resource="<CLIKKLE_TABLE_ID>" 
+                  />
+                }
+              />
+
+              <Route path="/posts">
+                <Route index element={<PostList />} />
+                <Route path="create" element={<PostCreate />} />
+                <Route path="edit/:id" element={<PostEdit />} />
+                <Route path="show/:id" element={<PostShow />} />
+              </Route>
+            </Route>
+
+            <Route
+              element={
+                <Authenticated fallback={<Outlet />}>
+                  <NavigateToResource
+                    resource="<CLIKKLE_TABLE_ID>" 
+                  />
+                </Authenticated>
+              }
+            >
+              <Route
+                path="/login"
+                element={<AuthPage forgotPasswordLink={false} />}
+              />
+              <Route path="/register" 
+                element={<AuthPage type="register" />} 
+              />
+            </Route>
+
+            <Route
+              element={
+                <Authenticated>
+                  <ThemedLayoutV2>
+                    <Outlet />
+                  </ThemedLayoutV2>
+                </Authenticated>
+              }
+            >
+              <Route path="*" element={<ErrorComponent />} />
+            </Route>
+          </Routes>
+          <UnsavedChangesNotifier />
+          <DocumentTitleHandler />
+        </Refine>
+      </AntdApp>
+    </ConfigProvider>
+  </BrowserRouter>
+);
+
+export default App;
+1d:["$","$Lc",null,{"language":"ts","content":"$21","children":"$22"}]
+20:null

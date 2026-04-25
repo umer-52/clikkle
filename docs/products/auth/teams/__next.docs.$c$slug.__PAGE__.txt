@@ -1,0 +1,516 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+26:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+27:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+28:"$Sreact.suspense"
+2a:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+2b:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T1b16,---
+layout: article
+title: Teams
+description: Master team management in the Clikkle Cloud. Explore team-related functions, permissions, and more.
+---
+
+Teams are a good way to allow users to share access to resources.
+For example, in a todo app, a user can [create a team](/docs/references/cloud/client-web/teams#create) for one of their todo lists and [invite another user](/docs/references/cloud/client-web/teams#createMembership) to the team to grant the other user access.
+You can further give special rights to parts of a team using team roles.
+
+The invited user can [accept the invitation](/docs/references/cloud/client-web/teams#updateMembershipStatus) to gain access. If the user's ever removed from the team, they'll lose access again.
+
+{% arrow_link href="/docs/products/auth/multi-tenancy" %}
+Learn about using Teams for multi-tenancy
+{% /arrow_link %}
+
+# Create team {% #create %}
+For example, we can create a team called `teachers` with roles `maths`, `sciences`, `arts`, and `literature`.
+
+The creator of the team is also granted the `owner` role. **Only those with the `owner` role can invite and remove members**.
+
+{% multicode %}
+```client-web
+import { Client, Teams } from "clikkle";
+
+const client = new Client();
+
+const teams = new Teams(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const promise = teams.create(
+    'teachers',
+    'Teachers',
+    ['maths', 'sciences', 'arts', 'literature']
+);
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Teams teams = Teams(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  Future result = teams.create(
+    teamId: 'teachers',
+    name: 'Teachers',
+    roles: ['maths', 'sciences', 'arts', 'literature']
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+let teams = Teams(client)
+
+let team = try await teams.create(
+    teamId: "teachers",
+    name: "Teachers",
+    roles: ["maths", "sciences", "arts", "literature"]
+)
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Teams
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+val teams = Teams(client)
+
+val response = teams.create(
+    teamId = "teachers",
+    name = "Teachers",
+    roles = listOf("maths", "sciences", "arts", "literature")
+)
+```
+
+{% /multicode %}
+
+# Invite a member {% #create-membership %}
+
+You can invite members to a team by creating team memberships. For example, inviting "David" a math teacher, to the teachers team.
+
+{% multicode %}
+```client-web
+import { Client, Teams } from "clikkle";
+
+const client = new Client();
+
+const teams = new Teams(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const promise = teams.createMembership(
+    'teachers',
+    ["maths"],
+    "david@example.com"
+    );
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Teams teams = Teams(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  Future result = teams.createMembership(
+    teamId: 'teachers',
+    roles: ['maths'],
+    email: 'david@example.com'
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+let teams = Teams(client)
+
+let membership = try await teams.createMembership(
+    teamId: "teachers",
+    roles: ["maths"],
+    email: "david@example.com"
+)
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Teams
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+val teams = Teams(client)
+
+val response = teams.createMembership(
+    teamId = "teachers",
+    roles = listOf("maths"),
+    email = "david@example.com"
+)
+```
+
+{% /multicode %}
+
+# Using the CLI {% #using-the-CLI %}
+
+{% info title="Before proceeding" %}
+Ensure you [**install**](/docs/tooling/command-line/installation#getting-started) the CLI, [**log in**](/docs/tooling/command-line/installation#login) to your Clikkle account, and [**initialize**](/docs/tooling/command-line/installation#initialization) your Clikkle project.
+{% /info %}
+
+
+Use the CLI command `clikkle teams create-membership [options]` to invite a new member into your team.
+
+```sh
+clikkle teams create-membership --team-id "<TEAM_ID>" --roles --phone "+12065550100" --name "<NAME>" --user-id "<USER_ID>"
+```
+
+You can also get, update, and delete a user's membership. However, you cannot use the CLI to configure permissions for team members.
+
+{% arrow_link href="/docs/tooling/command-line/teams#commands" %}
+Learn more about the CLI teams commands
+{% /arrow_link %}
+
+# Permissions {% #permissions %}
+
+You can grant permissions to all members of a team using the `Role.team(<TEAM_ID>)` role or
+individual roles in the team using the `Role.team(<TEAM_ID>, [<ROLE_1>, <ROLE_2>, ...])` role.
+| Description                                 | Role                               |
+| ------------------------------------------- | ------------------------------------------- |
+| All members   | `Role.team(<TEAM_ID>)`|
+| Select roles   | `Role.team(<TEAM_ID>, [<ROLE_1>, <ROLE_2>, ...])`|
+
+
+{% arrow_link href="/docs/advanced/platform/permissions" %}
+Learn more about permissions
+{% /arrow_link %}
+
+# Memberships privacy {% #memberships-privacy %}
+
+In certain use cases, your app may not need to share members' personal information with others. You can safeguard privacy by marking specific membership details as private. To configure this setting, navigate to **Auth** > **Security** > **Memberships privacy**
+
+These details can be made private:
+
+- `userName` - The member's name
+- `userEmail` - The member's email address
+- `mfa` - Whether the member has enabled multi-factor authentication
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T1b16,---
+layout: article
+title: Teams
+description: Master team management in the Clikkle Cloud. Explore team-related functions, permissions, and more.
+---
+
+Teams are a good way to allow users to share access to resources.
+For example, in a todo app, a user can [create a team](/docs/references/cloud/client-web/teams#create) for one of their todo lists and [invite another user](/docs/references/cloud/client-web/teams#createMembership) to the team to grant the other user access.
+You can further give special rights to parts of a team using team roles.
+
+The invited user can [accept the invitation](/docs/references/cloud/client-web/teams#updateMembershipStatus) to gain access. If the user's ever removed from the team, they'll lose access again.
+
+{% arrow_link href="/docs/products/auth/multi-tenancy" %}
+Learn about using Teams for multi-tenancy
+{% /arrow_link %}
+
+# Create team {% #create %}
+For example, we can create a team called `teachers` with roles `maths`, `sciences`, `arts`, and `literature`.
+
+The creator of the team is also granted the `owner` role. **Only those with the `owner` role can invite and remove members**.
+
+{% multicode %}
+```client-web
+import { Client, Teams } from "clikkle";
+
+const client = new Client();
+
+const teams = new Teams(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const promise = teams.create(
+    'teachers',
+    'Teachers',
+    ['maths', 'sciences', 'arts', 'literature']
+);
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Teams teams = Teams(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  Future result = teams.create(
+    teamId: 'teachers',
+    name: 'Teachers',
+    roles: ['maths', 'sciences', 'arts', 'literature']
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+let teams = Teams(client)
+
+let team = try await teams.create(
+    teamId: "teachers",
+    name: "Teachers",
+    roles: ["maths", "sciences", "arts", "literature"]
+)
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Teams
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+val teams = Teams(client)
+
+val response = teams.create(
+    teamId = "teachers",
+    name = "Teachers",
+    roles = listOf("maths", "sciences", "arts", "literature")
+)
+```
+
+{% /multicode %}
+
+# Invite a member {% #create-membership %}
+
+You can invite members to a team by creating team memberships. For example, inviting "David" a math teacher, to the teachers team.
+
+{% multicode %}
+```client-web
+import { Client, Teams } from "clikkle";
+
+const client = new Client();
+
+const teams = new Teams(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const promise = teams.createMembership(
+    'teachers',
+    ["maths"],
+    "david@example.com"
+    );
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Teams teams = Teams(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  Future result = teams.createMembership(
+    teamId: 'teachers',
+    roles: ['maths'],
+    email: 'david@example.com'
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+let teams = Teams(client)
+
+let membership = try await teams.createMembership(
+    teamId: "teachers",
+    roles: ["maths"],
+    email: "david@example.com"
+)
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Teams
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+
+val teams = Teams(client)
+
+val response = teams.createMembership(
+    teamId = "teachers",
+    roles = listOf("maths"),
+    email = "david@example.com"
+)
+```
+
+{% /multicode %}
+
+# Using the CLI {% #using-the-CLI %}
+
+{% info title="Before proceeding" %}
+Ensure you [**install**](/docs/tooling/command-line/installation#getting-started) the CLI, [**log in**](/docs/tooling/command-line/installation#login) to your Clikkle account, and [**initialize**](/docs/tooling/command-line/installation#initialization) your Clikkle project.
+{% /info %}
+
+
+Use the CLI command `clikkle teams create-membership [options]` to invite a new member into your team.
+
+```sh
+clikkle teams create-membership --team-id "<TEAM_ID>" --roles --phone "+12065550100" --name "<NAME>" --user-id "<USER_ID>"
+```
+
+You can also get, update, and delete a user's membership. However, you cannot use the CLI to configure permissions for team members.
+
+{% arrow_link href="/docs/tooling/command-line/teams#commands" %}
+Learn more about the CLI teams commands
+{% /arrow_link %}
+
+# Permissions {% #permissions %}
+
+You can grant permissions to all members of a team using the `Role.team(<TEAM_ID>)` role or
+individual roles in the team using the `Role.team(<TEAM_ID>, [<ROLE_1>, <ROLE_2>, ...])` role.
+| Description                                 | Role                               |
+| ------------------------------------------- | ------------------------------------------- |
+| All members   | `Role.team(<TEAM_ID>)`|
+| Select roles   | `Role.team(<TEAM_ID>, [<ROLE_1>, <ROLE_2>, ...])`|
+
+
+{% arrow_link href="/docs/advanced/platform/permissions" %}
+Learn more about permissions
+{% /arrow_link %}
+
+# Memberships privacy {% #memberships-privacy %}
+
+In certain use cases, your app may not need to share members' personal information with others. You can safeguard privacy by marking specific membership details as private. To configure this setting, navigate to **Auth** > **Security** > **Memberships privacy**
+
+These details can be made private:
+
+- `userName` - The member's name
+- `userEmail` - The member's email address
+- `mfa` - Whether the member has enabled multi-factor authentication
+
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Teams"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Teams are a good way to allow users to share access to resources."," ","For example, in a todo app, a user can ",["$","$Le",null,{"href":"/docs/references/cloud/client-web/teams#create","children":"create a team"}]," for one of their todo lists and ",["$","$Le",null,{"href":"/docs/references/cloud/client-web/teams#createMembership","children":"invite another user"}]," to the team to grant the other user access."," ","You can further give special rights to parts of a team using team roles."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The invited user can ",["$","$Le",null,{"href":"/docs/references/cloud/client-web/teams#updateMembershipStatus","children":"accept the invitation"}]," to gain access. If the user's ever removed from the team, they'll lose access again."]}],["$","$Le",null,{"href":"/docs/products/auth/multi-tenancy","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn about using Teams for multi-tenancy"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}],["$","$Lf",null,{"id":"create","level":1,"children":"Create team "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For example, we can create a team called ",["$","code",null,{"children":"teachers"}]," with roles ",["$","code",null,{"children":"maths"}],", ",["$","code",null,{"children":"sciences"}],", ",["$","code",null,{"children":"arts"}],", and ",["$","code",null,{"children":"literature"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The creator of the team is also granted the ",["$","code",null,{"children":"owner"}]," role. ",["$","strong",null,{"children":["Only those with the ",["$","code",null,{"children":"owner"}]," role can invite and remove members"]}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Teams } from \"clikkle\";\n\nconst client = new Client();\n\nconst teams = new Teams(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst promise = teams.create(\n    'teachers',\n    'Teachers',\n    ['maths', 'sciences', 'arts', 'literature']\n);\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n","children":"import { Client, Teams } from \"clikkle\";\n\nconst client = new Client();\n\nconst teams = new Teams(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst promise = teams.create(\n    'teachers',\n    'Teachers',\n    ['maths', 'sciences', 'arts', 'literature']\n);\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Teams teams = Teams(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  Future result = teams.create(\n    teamId: 'teachers',\n    name: 'Teachers',\n    roles: ['maths', 'sciences', 'arts', 'literature']\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Teams teams = Teams(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  Future result = teams.create(\n    teamId: 'teachers',\n    name: 'Teachers',\n    roles: ['maths', 'sciences', 'arts', 'literature']\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n"}],"$L12","$L13"]}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}]]}],"$L25"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L26",null,{"items":[{"id":"create","title":"Create team","level":1},{"id":"create-membership","title":"Invite a member","level":1},{"id":"using-the-cli","title":"Using the CLI","level":1},{"id":"permissions","title":"Permissions","level":1},{"id":"memberships-privacy","title":"Memberships privacy","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L27",null,{"children":["$","$28",null,{"name":"Next.MetadataOutlet","children":"$@29"}]}]
+12:["$","$L11",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nlet teams = Teams(client)\n\nlet team = try await teams.create(\n    teamId: \"teachers\",\n    name: \"Teachers\",\n    roles: [\"maths\", \"sciences\", \"arts\", \"literature\"]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nlet teams = Teams(client)\n\nlet team = try await teams.create(\n    teamId: \"teachers\",\n    name: \"Teachers\",\n    roles: [\"maths\", \"sciences\", \"arts\", \"literature\"]\n)\n"}]
+13:["$","$L11",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Teams\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nval teams = Teams(client)\n\nval response = teams.create(\n    teamId = \"teachers\",\n    name = \"Teachers\",\n    roles = listOf(\"maths\", \"sciences\", \"arts\", \"literature\")\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Teams\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nval teams = Teams(client)\n\nval response = teams.create(\n    teamId = \"teachers\",\n    name = \"Teachers\",\n    roles = listOf(\"maths\", \"sciences\", \"arts\", \"literature\")\n)\n"}]
+14:["$","$Lf",null,{"id":"create-membership","level":1,"children":"Invite a member "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can invite members to a team by creating team memberships. For example, inviting \"David\" a math teacher, to the teachers team."}]
+16:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Teams } from \"clikkle\";\n\nconst client = new Client();\n\nconst teams = new Teams(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst promise = teams.createMembership(\n    'teachers',\n    [\"maths\"],\n    \"david@example.com\"\n    );\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n","children":"import { Client, Teams } from \"clikkle\";\n\nconst client = new Client();\n\nconst teams = new Teams(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst promise = teams.createMembership(\n    'teachers',\n    [\"maths\"],\n    \"david@example.com\"\n    );\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Teams teams = Teams(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  Future result = teams.createMembership(\n    teamId: 'teachers',\n    roles: ['maths'],\n    email: 'david@example.com'\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Teams teams = Teams(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  Future result = teams.createMembership(\n    teamId: 'teachers',\n    roles: ['maths'],\n    email: 'david@example.com'\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nlet teams = Teams(client)\n\nlet membership = try await teams.createMembership(\n    teamId: \"teachers\",\n    roles: [\"maths\"],\n    email: \"david@example.com\"\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nlet teams = Teams(client)\n\nlet membership = try await teams.createMembership(\n    teamId: \"teachers\",\n    roles: [\"maths\"],\n    email: \"david@example.com\"\n)\n"}],["$","$L11",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Teams\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nval teams = Teams(client)\n\nval response = teams.createMembership(\n    teamId = \"teachers\",\n    roles = listOf(\"maths\"),\n    email = \"david@example.com\"\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Teams\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n\nval teams = Teams(client)\n\nval response = teams.createMembership(\n    teamId = \"teachers\",\n    roles = listOf(\"maths\"),\n    email = \"david@example.com\"\n)\n"}]]}]
+17:["$","$Lf",null,{"id":"using-the-CLI","level":1,"children":"Using the CLI "}]
+18:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Before proceeding"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Ensure you ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#getting-started","children":["$","strong",null,{"children":"install"}]}]," the CLI, ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#login","children":["$","strong",null,{"children":"log in"}]}]," to your Clikkle account, and ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#initialization","children":["$","strong",null,{"children":"initialize"}]}]," your Clikkle project."]}]]}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the CLI command ",["$","code",null,{"children":"clikkle teams create-membership [options]"}]," to invite a new member into your team."]}]
+1a:["$","$L11",null,{"language":"sh","content":"clikkle teams create-membership --team-id \"<TEAM_ID>\" --roles --phone \"+12065550100\" --name \"<NAME>\" --user-id \"<USER_ID>\"\n","children":"clikkle teams create-membership --team-id \"<TEAM_ID>\" --roles --phone \"+12065550100\" --name \"<NAME>\" --user-id \"<USER_ID>\"\n"}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can also get, update, and delete a user's membership. However, you cannot use the CLI to configure permissions for team members."}]
+1c:["$","$Le",null,{"href":"/docs/tooling/command-line/teams#commands","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn more about the CLI teams commands"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+1d:["$","$Lf",null,{"id":"permissions","level":1,"children":"Permissions "}]
+1e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can grant permissions to all members of a team using the ",["$","code",null,{"children":"Role.team(<TEAM_ID>)"}]," role or"," ","individual roles in the team using the ",["$","code",null,{"children":"Role.team(<TEAM_ID>, [<ROLE_1>, <ROLE_2>, ...])"}]," role."]}]
+1f:["$","$L2a",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Role"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"All members"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.team(<TEAM_ID>)"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Select roles"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.team(<TEAM_ID>, [<ROLE_1>, <ROLE_2>, ...])"}]}]}]]}]]}]]}]
+20:["$","$Le",null,{"href":"/docs/advanced/platform/permissions","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn more about permissions"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+21:["$","$Lf",null,{"id":"memberships-privacy","level":1,"children":"Memberships privacy "}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In certain use cases, your app may not need to share members' personal information with others. You can safeguard privacy by marking specific membership details as private. To configure this setting, navigate to ",["$","strong",null,{"children":"Auth"}]," > ",["$","strong",null,{"children":"Security"}]," > ",["$","strong",null,{"children":"Memberships privacy"}]]}]
+23:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"These details can be made private:"}]
+24:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","code",null,{"children":"userName"}]," - The member's name"]}],["$","li",null,{"children":[["$","code",null,{"children":"userEmail"}]," - The member's email address"]}],["$","li",null,{"children":[["$","code",null,{"children":"mfa"}]," - Whether the member has enabled multi-factor authentication"]}]]}]
+25:["$","$L2b",null,{}]
+29:null

@@ -1,0 +1,437 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+e:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","tutorials","sveltekit","step-4"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","tutorials/sveltekit/step-4","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}],"$L7","$L8"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf","$L10","$L11","$L12","$L13","$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+15:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+16:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+17:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+19:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+1f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+8:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L15",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+9:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L16",null,{"children":["$","$L17",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L18",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+1c:[]
+c:"$W1c"
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L20"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+21:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+22:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+23:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+24:Tbe7,﻿---
+layout: tutorial
+title: Add authentication
+description: Add Clikkle authentication to you Svelte app using your Svelte store.
+step: 4
+---
+
+## Using stores {% #using-stores %}
+
+Svelte [stores](https://svelte.dev/docs/svelte-store) provide an easy way to manage state throughout your application.
+We'll use a store to keep track of our user's data.
+
+Create a new file `src/lib/user.js` and add the following code to it.
+
+```client-web
+import { writable } from 'svelte/store';
+import { ID } from 'clikkle';
+import { goto } from '$app/navigation';
+import { account } from '$lib/clikkle';
+
+// Avoid auth calls in server-side, so that a user is not shared between requests
+const isBrowser = typeof window !== 'undefined';
+
+const createUser = () => {
+	const store = writable(null);
+
+	async function init() {
+		if (!isBrowser) return;
+		try {
+			store.set(await account.get());
+		} catch (e) {
+			store.set(null);
+		}
+	}
+
+	init();
+
+	async function register(email, password, name) {
+		if (!isBrowser) return;
+		await account.create({
+			userId: ID.unique(),
+			email,
+			password,
+			name
+		});
+		await login(email, password);
+	}
+
+	async function login(email, password) {
+		if (!isBrowser) return;
+		await account.createEmailPasswordSession({
+			email,
+			password
+		});
+		await init();
+		goto('/'); // Redirect to home page after login
+	}
+
+	async function logout() {
+		await account.deleteSession({
+			sessionId: 'current'
+		});
+		store.set(null);
+	}
+
+	return {
+		// Exposes the store's value with $user
+		subscribe: store.subscribe,
+		register,
+		login,
+		logout,
+		init
+	};
+};
+
+export const user = createUser();
+```
+
+## Login page {% #login-page %}
+
+Using this store, we can build a login page.
+
+Create a new file `src/routes/login/+page.svelte` and add the following code to it.
+
+```html
+<script>
+	import { user } from '$lib/user';
+
+	const login = async (e) => {
+		e.preventDefault();
+		const formData = new FormData(e.target);
+		await user.login(formData.get('email'), formData.get('password'));
+	};
+
+	const register = async (e) => {
+		e.preventDefault();
+		const formData = new FormData(e.target);
+		await user.register(formData.get('email'), formData.get('password'), formData.get('name'));
+	};
+</script>
+
+<h1>Login or register</h1>
+
+<form on:submit={login}>
+	<label>
+		Email
+		<input type="email" placeholder="Email" name="email" required />
+	</label>
+	<label>
+		Password:
+		<input type="password" placeholder="Password" name="password" required />
+	</label>
+	<button type="submit"> Login </button>
+</form>
+
+<form on:submit={register}>
+	<label>
+		Name:
+		<input type="text" placeholder="Name" name="name" required />
+	</label>
+	<label>
+		Email:
+		<input type="email" placeholder="Email" name="email" required />
+	</label>
+	<label>
+		Password:
+		<input type="password" placeholder="Password" name="password" required minlength="8" />
+	</label>
+	<button type="submit"> Register </button>
+</form>
+
+<style>
+	form {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 0.25rem;
+
+		margin-block-end: 2rem;
+	}
+</style>
+```
+
+18:["$","$L21",null,{"children":["$","$L22",null,{"children":["$","$L23",null,{"seriesTitle":"Build an ideas tracker with SvelteKit","steps":[{"step":1,"title":"Build an ideas tracker with SvelteKit","href":"/docs/tutorials/sveltekit/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":10},{"step":2,"title":"Create app","href":"/docs/tutorials/sveltekit/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":10},{"step":3,"title":"Set up Clikkle","href":"/docs/tutorials/sveltekit/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":10},{"step":4,"title":"Add authentication","href":"/docs/tutorials/sveltekit/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":10},{"step":5,"title":"Add navigation","href":"/docs/tutorials/sveltekit/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":10},{"step":6,"title":"Add database","href":"/docs/tutorials/sveltekit/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":10},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/sveltekit/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":10}],"currentStep":4,"currentStepItem":"$18:props:children:props:children:props:steps:3","back":"/docs/tutorials","copyMarkdown":"$24","children":"$L25"}]}]}]
+26:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+27:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+28:T495,import { writable } from 'svelte/store';
+import { ID } from 'clikkle';
+import { goto } from '$app/navigation';
+import { account } from '$lib/clikkle';
+
+// Avoid auth calls in server-side, so that a user is not shared between requests
+const isBrowser = typeof window !== 'undefined';
+
+const createUser = () => {
+	const store = writable(null);
+
+	async function init() {
+		if (!isBrowser) return;
+		try {
+			store.set(await account.get());
+		} catch (e) {
+			store.set(null);
+		}
+	}
+
+	init();
+
+	async function register(email, password, name) {
+		if (!isBrowser) return;
+		await account.create({
+			userId: ID.unique(),
+			email,
+			password,
+			name
+		});
+		await login(email, password);
+	}
+
+	async function login(email, password) {
+		if (!isBrowser) return;
+		await account.createEmailPasswordSession({
+			email,
+			password
+		});
+		await init();
+		goto('/'); // Redirect to home page after login
+	}
+
+	async function logout() {
+		await account.deleteSession({
+			sessionId: 'current'
+		});
+		store.set(null);
+	}
+
+	return {
+		// Exposes the store's value with $user
+		subscribe: store.subscribe,
+		register,
+		login,
+		logout,
+		init
+	};
+};
+
+export const user = createUser();
+29:T495,import { writable } from 'svelte/store';
+import { ID } from 'clikkle';
+import { goto } from '$app/navigation';
+import { account } from '$lib/clikkle';
+
+// Avoid auth calls in server-side, so that a user is not shared between requests
+const isBrowser = typeof window !== 'undefined';
+
+const createUser = () => {
+	const store = writable(null);
+
+	async function init() {
+		if (!isBrowser) return;
+		try {
+			store.set(await account.get());
+		} catch (e) {
+			store.set(null);
+		}
+	}
+
+	init();
+
+	async function register(email, password, name) {
+		if (!isBrowser) return;
+		await account.create({
+			userId: ID.unique(),
+			email,
+			password,
+			name
+		});
+		await login(email, password);
+	}
+
+	async function login(email, password) {
+		if (!isBrowser) return;
+		await account.createEmailPasswordSession({
+			email,
+			password
+		});
+		await init();
+		goto('/'); // Redirect to home page after login
+	}
+
+	async function logout() {
+		await account.deleteSession({
+			sessionId: 'current'
+		});
+		store.set(null);
+	}
+
+	return {
+		// Exposes the store's value with $user
+		subscribe: store.subscribe,
+		register,
+		login,
+		logout,
+		init
+	};
+};
+
+export const user = createUser();
+25:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","$L26",null,{"id":"using-stores","level":2,"children":"Using stores "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Svelte ",["$","a",null,{"href":"https://svelte.dev/docs/svelte-store","target":"_blank","rel":"noopener nofollow","children":"stores"}]," provide an easy way to manage state throughout your application."," ","We'll use a store to keep track of our user's data."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file ",["$","code",null,{"children":"src/lib/user.js"}]," and add the following code to it."]}],["$","$L27",null,{"language":"client-web","content":"$28","children":"$29"}],["$","$L26",null,{"id":"login-page","level":2,"children":"Login page "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Using this store, we can build a login page."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file ","$L2a"," and add the following code to it."]}],"$L2b"]}]}]
+2a:["$","code",null,{"children":"src/routes/login/+page.svelte"}]
+2c:T4e4,<script>
+	import { user } from '$lib/user';
+
+	const login = async (e) => {
+		e.preventDefault();
+		const formData = new FormData(e.target);
+		await user.login(formData.get('email'), formData.get('password'));
+	};
+
+	const register = async (e) => {
+		e.preventDefault();
+		const formData = new FormData(e.target);
+		await user.register(formData.get('email'), formData.get('password'), formData.get('name'));
+	};
+</script>
+
+<h1>Login or register</h1>
+
+<form on:submit={login}>
+	<label>
+		Email
+		<input type="email" placeholder="Email" name="email" required />
+	</label>
+	<label>
+		Password:
+		<input type="password" placeholder="Password" name="password" required />
+	</label>
+	<button type="submit"> Login </button>
+</form>
+
+<form on:submit={register}>
+	<label>
+		Name:
+		<input type="text" placeholder="Name" name="name" required />
+	</label>
+	<label>
+		Email:
+		<input type="email" placeholder="Email" name="email" required />
+	</label>
+	<label>
+		Password:
+		<input type="password" placeholder="Password" name="password" required minlength="8" />
+	</label>
+	<button type="submit"> Register </button>
+</form>
+
+<style>
+	form {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 0.25rem;
+
+		margin-block-end: 2rem;
+	}
+</style>
+2d:T4e4,<script>
+	import { user } from '$lib/user';
+
+	const login = async (e) => {
+		e.preventDefault();
+		const formData = new FormData(e.target);
+		await user.login(formData.get('email'), formData.get('password'));
+	};
+
+	const register = async (e) => {
+		e.preventDefault();
+		const formData = new FormData(e.target);
+		await user.register(formData.get('email'), formData.get('password'), formData.get('name'));
+	};
+</script>
+
+<h1>Login or register</h1>
+
+<form on:submit={login}>
+	<label>
+		Email
+		<input type="email" placeholder="Email" name="email" required />
+	</label>
+	<label>
+		Password:
+		<input type="password" placeholder="Password" name="password" required />
+	</label>
+	<button type="submit"> Login </button>
+</form>
+
+<form on:submit={register}>
+	<label>
+		Name:
+		<input type="text" placeholder="Name" name="name" required />
+	</label>
+	<label>
+		Email:
+		<input type="email" placeholder="Email" name="email" required />
+	</label>
+	<label>
+		Password:
+		<input type="password" placeholder="Password" name="password" required minlength="8" />
+	</label>
+	<button type="submit"> Register </button>
+</form>
+
+<style>
+	form {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 0.25rem;
+
+		margin-block-end: 2rem;
+	}
+</style>
+2b:["$","$L27",null,{"language":"html","content":"$2c","children":"$2d"}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+2e:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1b:null
+20:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L2e","13",{}]]

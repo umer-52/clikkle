@@ -1,0 +1,675 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1c:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+22:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T22ed,---
+layout: article
+title: Subscribe
+description: Learn how to subscribe to realtime events from Clikkle services. Subscribe to single or multiple channels and manage your subscriptions.
+---
+
+The Clikkle Realtime API lets you subscribe to events from any Clikkle service through [channels](/docs/apis/realtime/channels). You can subscribe to a single channel, multiple channels at once, and unsubscribe when you no longer need updates.
+
+# Subscribe to a channel {% #subscribe-to-a-channel %}
+
+In this example we are subscribing to all updates related to our account by using the `account` channel. This will be triggered by any update related to the authenticated user, like updating the user's name or e-mail address.
+
+{% multicode %}
+```client-web
+import { Client, Realtime, Channel } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const realtime = new Realtime(client);
+
+const subscription = await realtime.subscribe(Channel.account(), response => {
+    // Callback will be executed on all account events.
+    console.log(response);
+});
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final realtime = Realtime(client);
+
+final subscription = realtime.subscribe([Channel.account()]);
+
+subscription.stream.listen((response) {
+    // Callback will be executed on all account events.
+    print(response);
+});
+```
+
+```client-apple
+import Clikkle
+import ClikkleModels
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let realtime = Realtime(client)
+
+let subscription = realtime.subscribe(channels: [Channel.account()]) { response in
+    // Callback will be executed on all account events.
+    print(String(describing: response))
+}
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Realtime
+import io.clikkle.extensions.Channel
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val realtime = Realtime(client)
+
+val subscription = realtime.subscribe(Channel.account()) {
+    // Callback will be executed on all account events.
+    print(it.payload.toString())
+}
+```
+
+```client-android-java
+import io.clikkle.Channel;
+import io.clikkle.Client;
+import io.clikkle.models.RealtimeResponseEvent;
+import io.clikkle.models.RealtimeSubscription;
+import io.clikkle.services.Realtime;
+import kotlin.Unit;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>");
+
+Realtime realtime = new Realtime(client);
+String accountChannel = Channel.Companion.account();
+
+RealtimeSubscription subscription = realtime.subscribe(
+    new String[] {accountChannel},
+    (RealtimeResponseEvent<Object> response) -> {
+        // Callback will be executed on all account events.
+        System.out.println(response);
+        return Unit.INSTANCE;
+    }
+);
+```
+
+{% /multicode %}
+
+# Subscribe to multiple channels  {% #subscribe-to-multiple-channels %}
+
+You can also listen to multiple channels at once by passing an array of channels. This will trigger the callback for any events for all channels passed.
+
+In this example we are listening to a specific row and all files by subscribing to `Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row("<ROW_ID>")` and `Channel.files()` channels.
+
+{% multicode %}
+```client-web
+import { Client, Realtime, Channel } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const realtime = new Realtime(client);
+
+const subscription = await realtime.subscribe([
+    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>'),
+    Channel.files()
+], response => {
+    // Callback will be executed on changes for the row and all files.
+    console.log(response);
+});
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final realtime = Realtime(client);
+
+final subscription = realtime.subscribe([
+    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>'),
+    Channel.files()
+]);
+
+subscription.stream.listen((response) {
+    // Callback will be executed on changes for the row and all files.
+    print(response);
+});
+```
+
+```client-apple
+import Clikkle
+import ClikkleModels
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let realtime = Realtime(client)
+
+realtime.subscribe(channels: [
+    Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row("<ROW_ID>"),
+    Channel.files()
+]) { response in
+    // Callback will be executed on changes for the row and all files.
+    print(String(describing: response))
+}
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Realtime
+import io.clikkle.extensions.Channel
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+val realtime = Realtime(client)
+
+realtime.subscribe(
+    Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row("<ROW_ID>"),
+    Channel.files()
+) {
+    // Callback will be executed on changes for the row and all files.
+    print(it.toString())
+}
+```
+
+```client-android-java
+import io.clikkle.Client;
+import io.clikkle.models.RealtimeResponseEvent;
+import io.clikkle.models.RealtimeSubscription;
+import io.clikkle.services.Realtime;
+import kotlin.Unit;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>");
+Realtime realtime = new Realtime(client);
+
+RealtimeSubscription subscription = realtime.subscribe(
+    new String[] {
+        "tablesdb.<DATABASE_ID>.tables.<TABLE_ID>.rows.<ROW_ID>",
+        "files"
+    },
+    (RealtimeResponseEvent<Object> response) -> {
+        // Callback will be executed on changes for the row and all files.
+        System.out.println(response);
+        return Unit.INSTANCE;
+    }
+);
+```
+
+{% /multicode %}
+
+# Unsubscribe {% #unsubscribe %}
+
+If you no longer want to receive updates from a subscription, you can unsubscribe so that your callbacks are no longer called. Leaving old subscriptions alive and resubscribing can result in duplicate subscriptions and cause race conditions.
+
+{% multicode %}
+```client-web
+import { Client, Realtime, Channel } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const realtime = new Realtime(client);
+
+const subscription = await realtime.subscribe(Channel.files(), response => {
+    // Callback will be executed on changes for all files.
+    console.log(response);
+});
+
+// Closes the subscription.
+await subscription.close();
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final realtime = Realtime(client);
+
+final subscription = realtime.subscribe([Channel.files()]);
+
+subscription.stream.listen((response) {
+    // Callback will be executed on changes for all files.
+    print(response);
+});
+
+// Closes the subscription.
+subscription.close();
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+let realtime = Realtime(client)
+
+let subscription = realtime.subscribe(channels: [Channel.files()]) { response in
+    // Callback will be executed on changes for all files.
+    print(response.toString())
+}
+
+// Closes the subscription.
+subscription.close()
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Realtime
+import io.clikkle.extensions.Channel
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val realtime = Realtime(client)
+
+val subscription = realtime.subscribe(Channel.files()) {
+    // Callback will be executed on changes for all files.
+    print(it.toString())
+}
+
+// Closes the subscription.
+subscription.close()
+```
+
+```client-android-java
+import io.clikkle.Client;
+import io.clikkle.models.RealtimeResponseEvent;
+import io.clikkle.models.RealtimeSubscription;
+import io.clikkle.services.Realtime;
+import kotlin.Unit;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>");
+
+Realtime realtime = new Realtime(client);
+
+RealtimeSubscription subscription = realtime.subscribe(
+    new String[] {"files"},
+    (RealtimeResponseEvent<Object> response) -> {
+        // Callback will be executed on changes for all files.
+        System.out.println(response);
+        return Unit.INSTANCE;
+    }
+);
+
+// Closes the subscription.
+subscription.close();
+```
+
+{% /multicode %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T22ed,---
+layout: article
+title: Subscribe
+description: Learn how to subscribe to realtime events from Clikkle services. Subscribe to single or multiple channels and manage your subscriptions.
+---
+
+The Clikkle Realtime API lets you subscribe to events from any Clikkle service through [channels](/docs/apis/realtime/channels). You can subscribe to a single channel, multiple channels at once, and unsubscribe when you no longer need updates.
+
+# Subscribe to a channel {% #subscribe-to-a-channel %}
+
+In this example we are subscribing to all updates related to our account by using the `account` channel. This will be triggered by any update related to the authenticated user, like updating the user's name or e-mail address.
+
+{% multicode %}
+```client-web
+import { Client, Realtime, Channel } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const realtime = new Realtime(client);
+
+const subscription = await realtime.subscribe(Channel.account(), response => {
+    // Callback will be executed on all account events.
+    console.log(response);
+});
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final realtime = Realtime(client);
+
+final subscription = realtime.subscribe([Channel.account()]);
+
+subscription.stream.listen((response) {
+    // Callback will be executed on all account events.
+    print(response);
+});
+```
+
+```client-apple
+import Clikkle
+import ClikkleModels
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let realtime = Realtime(client)
+
+let subscription = realtime.subscribe(channels: [Channel.account()]) { response in
+    // Callback will be executed on all account events.
+    print(String(describing: response))
+}
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Realtime
+import io.clikkle.extensions.Channel
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val realtime = Realtime(client)
+
+val subscription = realtime.subscribe(Channel.account()) {
+    // Callback will be executed on all account events.
+    print(it.payload.toString())
+}
+```
+
+```client-android-java
+import io.clikkle.Channel;
+import io.clikkle.Client;
+import io.clikkle.models.RealtimeResponseEvent;
+import io.clikkle.models.RealtimeSubscription;
+import io.clikkle.services.Realtime;
+import kotlin.Unit;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>");
+
+Realtime realtime = new Realtime(client);
+String accountChannel = Channel.Companion.account();
+
+RealtimeSubscription subscription = realtime.subscribe(
+    new String[] {accountChannel},
+    (RealtimeResponseEvent<Object> response) -> {
+        // Callback will be executed on all account events.
+        System.out.println(response);
+        return Unit.INSTANCE;
+    }
+);
+```
+
+{% /multicode %}
+
+# Subscribe to multiple channels  {% #subscribe-to-multiple-channels %}
+
+You can also listen to multiple channels at once by passing an array of channels. This will trigger the callback for any events for all channels passed.
+
+In this example we are listening to a specific row and all files by subscribing to `Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row("<ROW_ID>")` and `Channel.files()` channels.
+
+{% multicode %}
+```client-web
+import { Client, Realtime, Channel } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const realtime = new Realtime(client);
+
+const subscription = await realtime.subscribe([
+    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>'),
+    Channel.files()
+], response => {
+    // Callback will be executed on changes for the row and all files.
+    console.log(response);
+});
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final realtime = Realtime(client);
+
+final subscription = realtime.subscribe([
+    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>'),
+    Channel.files()
+]);
+
+subscription.stream.listen((response) {
+    // Callback will be executed on changes for the row and all files.
+    print(response);
+});
+```
+
+```client-apple
+import Clikkle
+import ClikkleModels
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let realtime = Realtime(client)
+
+realtime.subscribe(channels: [
+    Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row("<ROW_ID>"),
+    Channel.files()
+]) { response in
+    // Callback will be executed on changes for the row and all files.
+    print(String(describing: response))
+}
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Realtime
+import io.clikkle.extensions.Channel
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+val realtime = Realtime(client)
+
+realtime.subscribe(
+    Channel.tablesdb("<DATABASE_ID>").table("<TABLE_ID>").row("<ROW_ID>"),
+    Channel.files()
+) {
+    // Callback will be executed on changes for the row and all files.
+    print(it.toString())
+}
+```
+
+```client-android-java
+import io.clikkle.Client;
+import io.clikkle.models.RealtimeResponseEvent;
+import io.clikkle.models.RealtimeSubscription;
+import io.clikkle.services.Realtime;
+import kotlin.Unit;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>");
+Realtime realtime = new Realtime(client);
+
+RealtimeSubscription subscription = realtime.subscribe(
+    new String[] {
+        "tablesdb.<DATABASE_ID>.tables.<TABLE_ID>.rows.<ROW_ID>",
+        "files"
+    },
+    (RealtimeResponseEvent<Object> response) -> {
+        // Callback will be executed on changes for the row and all files.
+        System.out.println(response);
+        return Unit.INSTANCE;
+    }
+);
+```
+
+{% /multicode %}
+
+# Unsubscribe {% #unsubscribe %}
+
+If you no longer want to receive updates from a subscription, you can unsubscribe so that your callbacks are no longer called. Leaving old subscriptions alive and resubscribing can result in duplicate subscriptions and cause race conditions.
+
+{% multicode %}
+```client-web
+import { Client, Realtime, Channel } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const realtime = new Realtime(client);
+
+const subscription = await realtime.subscribe(Channel.files(), response => {
+    // Callback will be executed on changes for all files.
+    console.log(response);
+});
+
+// Closes the subscription.
+await subscription.close();
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final realtime = Realtime(client);
+
+final subscription = realtime.subscribe([Channel.files()]);
+
+subscription.stream.listen((response) {
+    // Callback will be executed on changes for all files.
+    print(response);
+});
+
+// Closes the subscription.
+subscription.close();
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+let realtime = Realtime(client)
+
+let subscription = realtime.subscribe(channels: [Channel.files()]) { response in
+    // Callback will be executed on changes for all files.
+    print(response.toString())
+}
+
+// Closes the subscription.
+subscription.close()
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Realtime
+import io.clikkle.extensions.Channel
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val realtime = Realtime(client)
+
+val subscription = realtime.subscribe(Channel.files()) {
+    // Callback will be executed on changes for all files.
+    print(it.toString())
+}
+
+// Closes the subscription.
+subscription.close()
+```
+
+```client-android-java
+import io.clikkle.Client;
+import io.clikkle.models.RealtimeResponseEvent;
+import io.clikkle.models.RealtimeSubscription;
+import io.clikkle.services.Realtime;
+import kotlin.Unit;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>");
+
+Realtime realtime = new Realtime(client);
+
+RealtimeSubscription subscription = realtime.subscribe(
+    new String[] {"files"},
+    (RealtimeResponseEvent<Object> response) -> {
+        // Callback will be executed on changes for all files.
+        System.out.println(response);
+        return Unit.INSTANCE;
+    }
+);
+
+// Closes the subscription.
+subscription.close();
+```
+
+{% /multicode %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Subscribe"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Realtime API lets you subscribe to events from any Clikkle service through ",["$","$Le",null,{"href":"/docs/apis/realtime/channels","children":"channels"}],". You can subscribe to a single channel, multiple channels at once, and unsubscribe when you no longer need updates."]}],["$","$Lf",null,{"id":"subscribe-to-a-channel","level":1,"children":"Subscribe to a channel "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In this example we are subscribing to all updates related to our account by using the ",["$","code",null,{"children":"account"}]," channel. This will be triggered by any update related to the authenticated user, like updating the user's name or e-mail address."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Realtime, Channel } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst realtime = new Realtime(client);\n\nconst subscription = await realtime.subscribe(Channel.account(), response => {\n    // Callback will be executed on all account events.\n    console.log(response);\n});\n","children":"import { Client, Realtime, Channel } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst realtime = new Realtime(client);\n\nconst subscription = await realtime.subscribe(Channel.account(), response => {\n    // Callback will be executed on all account events.\n    console.log(response);\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal realtime = Realtime(client);\n\nfinal subscription = realtime.subscribe([Channel.account()]);\n\nsubscription.stream.listen((response) {\n    // Callback will be executed on all account events.\n    print(response);\n});\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal realtime = Realtime(client);\n\nfinal subscription = realtime.subscribe([Channel.account()]);\n\nsubscription.stream.listen((response) {\n    // Callback will be executed on all account events.\n    print(response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet realtime = Realtime(client)\n\nlet subscription = realtime.subscribe(channels: [Channel.account()]) { response in\n    // Callback will be executed on all account events.\n    print(String(describing: response))\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet realtime = Realtime(client)\n\nlet subscription = realtime.subscribe(channels: [Channel.account()]) { response in\n    // Callback will be executed on all account events.\n    print(String(describing: response))\n}\n"}],"$L12","$L13"]}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]}]]}],"$L1b"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1c",null,{"items":[{"id":"subscribe-to-a-channel","title":"Subscribe to a channel","level":1},{"id":"subscribe-to-multiple-channels","title":"Subscribe to multiple channels","level":1},{"id":"unsubscribe","title":"Unsubscribe","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+12:["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Realtime\nimport io.clikkle.extensions.Channel\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval realtime = Realtime(client)\n\nval subscription = realtime.subscribe(Channel.account()) {\n    // Callback will be executed on all account events.\n    print(it.payload.toString())\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Realtime\nimport io.clikkle.extensions.Channel\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval realtime = Realtime(client)\n\nval subscription = realtime.subscribe(Channel.account()) {\n    // Callback will be executed on all account events.\n    print(it.payload.toString())\n}\n"}]
+13:["$","$L11",null,{"language":"client-android-java","content":"import io.clikkle.Channel;\nimport io.clikkle.Client;\nimport io.clikkle.models.RealtimeResponseEvent;\nimport io.clikkle.models.RealtimeSubscription;\nimport io.clikkle.services.Realtime;\nimport kotlin.Unit;\n\nClient client = new Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\");\n\nRealtime realtime = new Realtime(client);\nString accountChannel = Channel.Companion.account();\n\nRealtimeSubscription subscription = realtime.subscribe(\n    new String[] {accountChannel},\n    (RealtimeResponseEvent<Object> response) -> {\n        // Callback will be executed on all account events.\n        System.out.println(response);\n        return Unit.INSTANCE;\n    }\n);\n","children":"import io.clikkle.Channel;\nimport io.clikkle.Client;\nimport io.clikkle.models.RealtimeResponseEvent;\nimport io.clikkle.models.RealtimeSubscription;\nimport io.clikkle.services.Realtime;\nimport kotlin.Unit;\n\nClient client = new Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\");\n\nRealtime realtime = new Realtime(client);\nString accountChannel = Channel.Companion.account();\n\nRealtimeSubscription subscription = realtime.subscribe(\n    new String[] {accountChannel},\n    (RealtimeResponseEvent<Object> response) -> {\n        // Callback will be executed on all account events.\n        System.out.println(response);\n        return Unit.INSTANCE;\n    }\n);\n"}]
+14:["$","$Lf",null,{"id":"subscribe-to-multiple-channels","level":1,"children":"Subscribe to multiple channels  "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can also listen to multiple channels at once by passing an array of channels. This will trigger the callback for any events for all channels passed."}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In this example we are listening to a specific row and all files by subscribing to ",["$","code",null,{"children":"Channel.tablesdb(\"<DATABASE_ID>\").table(\"<TABLE_ID>\").row(\"<ROW_ID>\")"}]," and ",["$","code",null,{"children":"Channel.files()"}]," channels."]}]
+17:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Realtime, Channel } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst realtime = new Realtime(client);\n\nconst subscription = await realtime.subscribe([\n    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>'),\n    Channel.files()\n], response => {\n    // Callback will be executed on changes for the row and all files.\n    console.log(response);\n});\n","children":"import { Client, Realtime, Channel } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst realtime = new Realtime(client);\n\nconst subscription = await realtime.subscribe([\n    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>'),\n    Channel.files()\n], response => {\n    // Callback will be executed on changes for the row and all files.\n    console.log(response);\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal realtime = Realtime(client);\n\nfinal subscription = realtime.subscribe([\n    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>'),\n    Channel.files()\n]);\n\nsubscription.stream.listen((response) {\n    // Callback will be executed on changes for the row and all files.\n    print(response);\n});\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal realtime = Realtime(client);\n\nfinal subscription = realtime.subscribe([\n    Channel.tablesdb('<DATABASE_ID>').table('<TABLE_ID>').row('<ROW_ID>'),\n    Channel.files()\n]);\n\nsubscription.stream.listen((response) {\n    // Callback will be executed on changes for the row and all files.\n    print(response);\n});\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet realtime = Realtime(client)\n\nrealtime.subscribe(channels: [\n    Channel.tablesdb(\"<DATABASE_ID>\").table(\"<TABLE_ID>\").row(\"<ROW_ID>\"),\n    Channel.files()\n]) { response in\n    // Callback will be executed on changes for the row and all files.\n    print(String(describing: response))\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet realtime = Realtime(client)\n\nrealtime.subscribe(channels: [\n    Channel.tablesdb(\"<DATABASE_ID>\").table(\"<TABLE_ID>\").row(\"<ROW_ID>\"),\n    Channel.files()\n]) { response in\n    // Callback will be executed on changes for the row and all files.\n    print(String(describing: response))\n}\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Realtime\nimport io.clikkle.extensions.Channel\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\nval realtime = Realtime(client)\n\nrealtime.subscribe(\n    Channel.tablesdb(\"<DATABASE_ID>\").table(\"<TABLE_ID>\").row(\"<ROW_ID>\"),\n    Channel.files()\n) {\n    // Callback will be executed on changes for the row and all files.\n    print(it.toString())\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Realtime\nimport io.clikkle.extensions.Channel\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\nval realtime = Realtime(client)\n\nrealtime.subscribe(\n    Channel.tablesdb(\"<DATABASE_ID>\").table(\"<TABLE_ID>\").row(\"<ROW_ID>\"),\n    Channel.files()\n) {\n    // Callback will be executed on changes for the row and all files.\n    print(it.toString())\n}\n"}],"$L20"]}]
+18:["$","$Lf",null,{"id":"unsubscribe","level":1,"children":"Unsubscribe "}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you no longer want to receive updates from a subscription, you can unsubscribe so that your callbacks are no longer called. Leaving old subscriptions alive and resubscribing can result in duplicate subscriptions and cause race conditions."}]
+1a:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Realtime, Channel } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst realtime = new Realtime(client);\n\nconst subscription = await realtime.subscribe(Channel.files(), response => {\n    // Callback will be executed on changes for all files.\n    console.log(response);\n});\n\n// Closes the subscription.\nawait subscription.close();\n","children":"import { Client, Realtime, Channel } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst realtime = new Realtime(client);\n\nconst subscription = await realtime.subscribe(Channel.files(), response => {\n    // Callback will be executed on changes for all files.\n    console.log(response);\n});\n\n// Closes the subscription.\nawait subscription.close();\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal realtime = Realtime(client);\n\nfinal subscription = realtime.subscribe([Channel.files()]);\n\nsubscription.stream.listen((response) {\n    // Callback will be executed on changes for all files.\n    print(response);\n});\n\n// Closes the subscription.\nsubscription.close();\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal realtime = Realtime(client);\n\nfinal subscription = realtime.subscribe([Channel.files()]);\n\nsubscription.stream.listen((response) {\n    // Callback will be executed on changes for all files.\n    print(response);\n});\n\n// Closes the subscription.\nsubscription.close();\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\nlet realtime = Realtime(client)\n\nlet subscription = realtime.subscribe(channels: [Channel.files()]) { response in\n    // Callback will be executed on changes for all files.\n    print(response.toString())\n}\n\n// Closes the subscription.\nsubscription.close()\n","children":"import Clikkle\n\nlet client = Client()\nlet realtime = Realtime(client)\n\nlet subscription = realtime.subscribe(channels: [Channel.files()]) { response in\n    // Callback will be executed on changes for all files.\n    print(response.toString())\n}\n\n// Closes the subscription.\nsubscription.close()\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Realtime\nimport io.clikkle.extensions.Channel\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval realtime = Realtime(client)\n\nval subscription = realtime.subscribe(Channel.files()) {\n    // Callback will be executed on changes for all files.\n    print(it.toString())\n}\n\n// Closes the subscription.\nsubscription.close()\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Realtime\nimport io.clikkle.extensions.Channel\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval realtime = Realtime(client)\n\nval subscription = realtime.subscribe(Channel.files()) {\n    // Callback will be executed on changes for all files.\n    print(it.toString())\n}\n\n// Closes the subscription.\nsubscription.close()\n"}],"$L21"]}]
+1b:["$","$L22",null,{}]
+1f:null
+20:["$","$L11",null,{"language":"client-android-java","content":"import io.clikkle.Client;\nimport io.clikkle.models.RealtimeResponseEvent;\nimport io.clikkle.models.RealtimeSubscription;\nimport io.clikkle.services.Realtime;\nimport kotlin.Unit;\n\nClient client = new Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\");\nRealtime realtime = new Realtime(client);\n\nRealtimeSubscription subscription = realtime.subscribe(\n    new String[] {\n        \"tablesdb.<DATABASE_ID>.tables.<TABLE_ID>.rows.<ROW_ID>\",\n        \"files\"\n    },\n    (RealtimeResponseEvent<Object> response) -> {\n        // Callback will be executed on changes for the row and all files.\n        System.out.println(response);\n        return Unit.INSTANCE;\n    }\n);\n","children":"import io.clikkle.Client;\nimport io.clikkle.models.RealtimeResponseEvent;\nimport io.clikkle.models.RealtimeSubscription;\nimport io.clikkle.services.Realtime;\nimport kotlin.Unit;\n\nClient client = new Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\");\nRealtime realtime = new Realtime(client);\n\nRealtimeSubscription subscription = realtime.subscribe(\n    new String[] {\n        \"tablesdb.<DATABASE_ID>.tables.<TABLE_ID>.rows.<ROW_ID>\",\n        \"files\"\n    },\n    (RealtimeResponseEvent<Object> response) -> {\n        // Callback will be executed on changes for the row and all files.\n        System.out.println(response);\n        return Unit.INSTANCE;\n    }\n);\n"}]
+21:["$","$L11",null,{"language":"client-android-java","content":"import io.clikkle.Client;\nimport io.clikkle.models.RealtimeResponseEvent;\nimport io.clikkle.models.RealtimeSubscription;\nimport io.clikkle.services.Realtime;\nimport kotlin.Unit;\n\nClient client = new Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\");\n\nRealtime realtime = new Realtime(client);\n\nRealtimeSubscription subscription = realtime.subscribe(\n    new String[] {\"files\"},\n    (RealtimeResponseEvent<Object> response) -> {\n        // Callback will be executed on changes for all files.\n        System.out.println(response);\n        return Unit.INSTANCE;\n    }\n);\n\n// Closes the subscription.\nsubscription.close();\n","children":"import io.clikkle.Client;\nimport io.clikkle.models.RealtimeResponseEvent;\nimport io.clikkle.models.RealtimeSubscription;\nimport io.clikkle.services.Realtime;\nimport kotlin.Unit;\n\nClient client = new Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\");\n\nRealtime realtime = new Realtime(client);\n\nRealtimeSubscription subscription = realtime.subscribe(\n    new String[] {\"files\"},\n    (RealtimeResponseEvent<Object> response) -> {\n        // Callback will be executed on changes for all files.\n        System.out.println(response);\n        return Unit.INSTANCE;\n    }\n);\n\n// Closes the subscription.\nsubscription.close();\n"}]

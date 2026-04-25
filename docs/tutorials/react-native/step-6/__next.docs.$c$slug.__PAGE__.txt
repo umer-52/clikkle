@@ -1,0 +1,289 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+c:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1d:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+5:T114f,---
+layout: tutorial
+title: Add database
+description: Connect a database to your React Native application using Clikkle Web SDK.
+step: 6
+---
+In this step, you'll set up a database to store ideas in Clikkle, configure permissions, then create a
+context to manage ideas in your React Native app.
+
+# Create table {% #create-table %}
+In Clikkle, data is stored as a table of rows. Create a table in the [Clikkle Console](https://cloud.clikkle.io/) to store our ideas.
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/tutorials/dark/idea-tracker-table.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/tutorials/idea-tracker-table.png)
+{% /only_light %}
+
+Create a new table with the following columns:
+| Field       | Type   | Required |
+|-------------|--------|----------|
+| userId      | Varchar | Yes      |
+| title       | Varchar | Yes      |
+| description | Text    | No       |
+
+## Configure permissions {% #configure-permissions %}
+{% only_dark %}
+![Table permissions screen](/clikkle/images/docs/tutorials/dark/idea-tracker-permissions.png)
+{% /only_dark %}
+{% only_light %}
+![Table permissions screen](/clikkle/images/docs/tutorials/idea-tracker-permissions.png)
+{% /only_light %}
+
+Navigate to the **Settings** tab of your table, add the role **Any** and check the **Read** box.
+Next, add a **Users** role and give them access to **Create** by checking those boxes.
+These permissions apply to all rows in your new table.
+
+Finally, enable **Row security** to allow further permissions to be set at the row level.
+Remember to click the **Update** button to apply your changes.
+
+## Ideas context {% #ideas-context %}
+
+Now that you have a table to hold ideas, we can read and write to it from our app.
+Like you did with the user data, we will create a React context to hold our ideas.
+Create a new file `contexts/IdeasContext.jsx` and add the following code to it.
+
+```client-react-native
+import { ID, Permission, Role, Query } from "react-native-clikkle";
+import { createContext, useContext, useEffect, useState } from "react";
+import { tablesDB } from "../lib/clikkle";
+import { toast } from "../lib/toast";
+
+export const IDEAS_DATABASE_ID = "default"; // Replace with your database ID
+export const IDEAS_TABLE_ID = "ideas-tracker"; // Replace with your table ID
+
+const IdeasContext = createContext();
+
+export function useIdeas() {
+  return useContext(IdeasContext);
+}
+
+export function IdeasProvider(props) {
+  const [ideas, setIdeas] = useState([]);
+
+  async function add(idea) {
+    const response = await tablesDB.createRow({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      rowId: ID.unique(),
+      data: idea,
+      permissions: [Permission.write(Role.user(idea.userId))]
+    });
+    toast('Ideas added');
+    setIdeas((ideas) => [response, ...ideas].slice(0, 10));
+  }
+
+  async function remove(id) {
+    await tablesDB.deleteRow({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      rowId: id
+    });
+    toast('Idea removed');
+    setIdeas((ideas) => ideas.filter((idea) => idea.$id !== id));
+    await init(); // Refetch ideas to ensure we have 10 items
+  }
+
+  async function init() {
+    const response = await tablesDB.listRows({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      queries: [Query.orderDesc("$createdAt"), Query.limit(10)]
+    });
+    setIdeas(response.rows);
+  }
+
+  useEffect(() => {
+    init();
+  }, []);
+
+  return (
+    <IdeasContext.Provider value={{ current: ideas, add, remove }}>
+      {props.children}
+    </IdeasContext.Provider>
+  );
+}
+```
+
+Notice that new ideas have the added permission `Permission.write(Role.user(idea.userId))`.
+This permission ensures that only the user who created the idea can modify it.
+
+Remeber to add the `IdeasProvider` to your `App.js` file.
+
+```client-react-native
+
+import { StyleSheet, Text, View } from 'react-native';
+import { UserProvider } from './contexts/UserContext';
+import { IdeasProvider } from './contexts/IdeasContext'; // Add import
+import { Router } from './lib/Router';
+
+export default function App() {
+  return (
+    <UserProvider>
+      <!-- Add the Ideas Provider -->
+      <IdeasProvider>
+        <Router />
+      </IdeasProvider>
+    </UserProvider >
+  );
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
+```
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Build an ideas tracker with React Native","steps":[{"step":1,"title":"Build an ideas tracker with React Native","href":"/docs/tutorials/react-native/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":10},{"step":2,"title":"Create app","href":"/docs/tutorials/react-native/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":10},{"step":3,"title":"Set up Clikkle","href":"/docs/tutorials/react-native/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":10},{"step":4,"title":"Add authentication","href":"/docs/tutorials/react-native/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":10},{"step":5,"title":"Add routing","href":"/docs/tutorials/react-native/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":10},{"step":6,"title":"Add database","href":"/docs/tutorials/react-native/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":10},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/react-native/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":10},{"step":8,"title":"Next steps","href":"/docs/tutorials/react-native/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":10}],"currentStep":6,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:5","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In this step, you'll set up a database to store ideas in Clikkle, configure permissions, then create a"," ","context to manage ideas in your React Native app."]}],["$","$Lb",null,{"id":"create-table","level":1,"children":"Create table "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In Clikkle, data is stored as a table of rows. Create a table in the ",["$","a",null,{"href":"https://cloud.clikkle.io/","children":"Clikkle Console"}]," to store our ideas."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/dark/idea-tracker-table.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/idea-tracker-table.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Create a new table with the following columns:"}],["$","$Lc",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Field"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Required"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"userId"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Varchar"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Yes"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"title"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Varchar"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$Ld"}]]}],"$Le"]}]]}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+d:["$","div",null,{"className":"td-wrapper","children":"Yes"}]
+e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"description"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Text"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"No"}]}]]}]
+f:["$","$Lb",null,{"id":"configure-permissions","level":2,"children":"Configure permissions "}]
+10:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/dark/idea-tracker-permissions.png","alt":"Table permissions screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+11:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/idea-tracker-permissions.png","alt":"Table permissions screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Navigate to the ",["$","strong",null,{"children":"Settings"}]," tab of your table, add the role ",["$","strong",null,{"children":"Any"}]," and check the ",["$","strong",null,{"children":"Read"}]," box."," ","Next, add a ",["$","strong",null,{"children":"Users"}]," role and give them access to ",["$","strong",null,{"children":"Create"}]," by checking those boxes."," ","These permissions apply to all rows in your new table."]}]
+13:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Finally, enable ",["$","strong",null,{"children":"Row security"}]," to allow further permissions to be set at the row level."," ","Remember to click the ",["$","strong",null,{"children":"Update"}]," button to apply your changes."]}]
+14:["$","$Lb",null,{"id":"ideas-context","level":2,"children":"Ideas context "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now that you have a table to hold ideas, we can read and write to it from our app."," ","Like you did with the user data, we will create a React context to hold our ideas."," ","Create a new file ",["$","code",null,{"children":"contexts/IdeasContext.jsx"}]," and add the following code to it."]}]
+1e:T678,import { ID, Permission, Role, Query } from "react-native-clikkle";
+import { createContext, useContext, useEffect, useState } from "react";
+import { tablesDB } from "../lib/clikkle";
+import { toast } from "../lib/toast";
+
+export const IDEAS_DATABASE_ID = "default"; // Replace with your database ID
+export const IDEAS_TABLE_ID = "ideas-tracker"; // Replace with your table ID
+
+const IdeasContext = createContext();
+
+export function useIdeas() {
+  return useContext(IdeasContext);
+}
+
+export function IdeasProvider(props) {
+  const [ideas, setIdeas] = useState([]);
+
+  async function add(idea) {
+    const response = await tablesDB.createRow({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      rowId: ID.unique(),
+      data: idea,
+      permissions: [Permission.write(Role.user(idea.userId))]
+    });
+    toast('Ideas added');
+    setIdeas((ideas) => [response, ...ideas].slice(0, 10));
+  }
+
+  async function remove(id) {
+    await tablesDB.deleteRow({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      rowId: id
+    });
+    toast('Idea removed');
+    setIdeas((ideas) => ideas.filter((idea) => idea.$id !== id));
+    await init(); // Refetch ideas to ensure we have 10 items
+  }
+
+  async function init() {
+    const response = await tablesDB.listRows({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      queries: [Query.orderDesc("$createdAt"), Query.limit(10)]
+    });
+    setIdeas(response.rows);
+  }
+
+  useEffect(() => {
+    init();
+  }, []);
+
+  return (
+    <IdeasContext.Provider value={{ current: ideas, add, remove }}>
+      {props.children}
+    </IdeasContext.Provider>
+  );
+}
+1f:T678,import { ID, Permission, Role, Query } from "react-native-clikkle";
+import { createContext, useContext, useEffect, useState } from "react";
+import { tablesDB } from "../lib/clikkle";
+import { toast } from "../lib/toast";
+
+export const IDEAS_DATABASE_ID = "default"; // Replace with your database ID
+export const IDEAS_TABLE_ID = "ideas-tracker"; // Replace with your table ID
+
+const IdeasContext = createContext();
+
+export function useIdeas() {
+  return useContext(IdeasContext);
+}
+
+export function IdeasProvider(props) {
+  const [ideas, setIdeas] = useState([]);
+
+  async function add(idea) {
+    const response = await tablesDB.createRow({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      rowId: ID.unique(),
+      data: idea,
+      permissions: [Permission.write(Role.user(idea.userId))]
+    });
+    toast('Ideas added');
+    setIdeas((ideas) => [response, ...ideas].slice(0, 10));
+  }
+
+  async function remove(id) {
+    await tablesDB.deleteRow({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      rowId: id
+    });
+    toast('Idea removed');
+    setIdeas((ideas) => ideas.filter((idea) => idea.$id !== id));
+    await init(); // Refetch ideas to ensure we have 10 items
+  }
+
+  async function init() {
+    const response = await tablesDB.listRows({
+      databaseId: IDEAS_DATABASE_ID,
+      tableId: IDEAS_TABLE_ID,
+      queries: [Query.orderDesc("$createdAt"), Query.limit(10)]
+    });
+    setIdeas(response.rows);
+  }
+
+  useEffect(() => {
+    init();
+  }, []);
+
+  return (
+    <IdeasContext.Provider value={{ current: ideas, add, remove }}>
+      {props.children}
+    </IdeasContext.Provider>
+  );
+}
+16:["$","$L1d",null,{"language":"client-react-native","content":"$1e","children":"$1f"}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Notice that new ideas have the added permission ",["$","code",null,{"children":"Permission.write(Role.user(idea.userId))"}],"."," ","This permission ensures that only the user who created the idea can modify it."]}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Remeber to add the ",["$","code",null,{"children":"IdeasProvider"}]," to your ",["$","code",null,{"children":"App.js"}]," file."]}]
+19:["$","$L1d",null,{"language":"client-react-native","content":"\nimport { StyleSheet, Text, View } from 'react-native';\nimport { UserProvider } from './contexts/UserContext';\nimport { IdeasProvider } from './contexts/IdeasContext'; // Add import\nimport { Router } from './lib/Router';\n\nexport default function App() {\n  return (\n    <UserProvider>\n      <!-- Add the Ideas Provider -->\n      <IdeasProvider>\n        <Router />\n      </IdeasProvider>\n    </UserProvider >\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#fff',\n    alignItems: 'center',\n    justifyContent: 'center',\n  },\n});\n","children":"\nimport { StyleSheet, Text, View } from 'react-native';\nimport { UserProvider } from './contexts/UserContext';\nimport { IdeasProvider } from './contexts/IdeasContext'; // Add import\nimport { Router } from './lib/Router';\n\nexport default function App() {\n  return (\n    <UserProvider>\n      <!-- Add the Ideas Provider -->\n      <IdeasProvider>\n        <Router />\n      </IdeasProvider>\n    </UserProvider >\n  );\n}\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1,\n    backgroundColor: '#fff',\n    alignItems: 'center',\n    justifyContent: 'center',\n  },\n});\n"}]
+1c:null

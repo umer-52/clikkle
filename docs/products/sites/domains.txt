@@ -1,0 +1,431 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+e:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","sites","domains"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/sites/domains","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}],"$L7","$L8"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf","$L10","$L11","$L12","$L13","$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+15:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+16:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+17:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+19:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+1f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+8:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L15",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+9:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L16",null,{"children":["$","$L17",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L18",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+1c:[]
+c:"$W1c"
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L20"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+21:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+22:T1f8b,﻿---
+layout: article
+title: Domains
+description: Discover how domains can be managed for an Clikkle Site
+---
+
+Each deployed site can have its own domain, which can be Clikkle-generated or custom. You can use this domain to consume web apps deployed on Clikkle Sites. Clikkle generates TLS certificates to enforce HTTPS on all Clikkle Sites domains. These domains are safe to use and access in production.
+
+[Learn about Sites development >](/docs/products/sites/develop)
+
+# Generated domains
+
+Each site automatically receives a unique Clikkle-generated domain that's ready to use immediately.
+
+1. In the Clikkle Console's sidebar, click **Sites**.
+2. Under the **Domains** tab, you'll find the domain generated by Clikkle.
+
+The domain usually has this format:
+
+```bash
+https://64d4d22db370ae41a32e.clikkle.network
+```
+
+## Branch and Commit URLs
+
+Additional to the site URL, Clikkle also generates a URL for the branch and commit that your site has been deployed from. The branch URL will remain consistent for all deployments made for code pushed to a specific branch, whereas the commit URL will be updated every time a new deployment is made via the Git integration (i.e. when code is pushed to your repo).
+
+{% only_dark %}
+![Branch and commit URLs](/clikkle/images/docs/sites/dark/branch-commit-urls.png)
+{% /only_dark %}
+{% only_light %}
+![Branch and commit URLs](/clikkle/images/docs/sites/branch-commit-urls.png)
+{% /only_light %}
+
+To find the branch and commit URLs of any deployment, follow these steps:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Deployments** tab and click on any deployment.
+3. In the **Domains** section, click on the **+2** next to the mentioned domain.
+
+# Add a custom domain
+
+You can add your own domain to your Clikkle site to provide a branded experience for your users. There are two ways to add a custom domain, depending on whether you're using a subdomain or an apex domain.
+
+## Add an apex domain with NS records
+
+Apex domains (also known as root domains) are domains without a subdomain prefix, like `example.com` instead of `www.example.com`. Unlike subdomains, apex domains cannot use CNAME records due to DNS protocol limitations.
+
+To add an apex domain via NS records:
+
+1. Navigate to your site in the Clikkle Console.
+2. Head to the **Domains** tab and click on **Add domain**.
+3. Enter your apex domain (e.g., `example.com`).
+4. Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the [Domain rule types](#domain-rule-types) section for details.
+5. Clikkle will provide NS record information.
+6. Go to your domain registrar and update the NS records for your domain to point to `ns1.clikkle.zone` and `ns2.clikkle.zone`.
+7. Return to the Clikkle Console and wait for the verification process to complete.
+
+{% only_dark %}
+![Add domain](/clikkle/images/docs/sites/dark/add-domain-ns.png)
+{% /only_dark %}
+{% only_light %}
+![Add domain](/clikkle/images/docs/sites/add-domain-ns.png)
+{% /only_light %}
+
+DNS changes can take up to 48 hours to fully propagate across the internet. During this time, your domain might not be accessible or might show inconsistent behavior.
+
+### Why Clikkle uses NS records instead of A records
+
+By [DNS standards (RFC)](https://datatracker.ietf.org/doc/html/rfc1035), apex domains cannot use CNAME records, only A or AAAA records, which require pointing to fixed IP addresses. Using A records would lock Clikkle into specific IP addresses, limiting our ability to optimize routing, scale our infrastructure, or make changes as needed. To avoid this constraint and maintain flexibility, Clikkle offers DNS delegation through NS records so we can manage routing on your behalf.
+
+Using Clikkle's DNS servers for your apex domain provides several benefits:
+- Proper SSL certificate management
+- Automatic DNS configuration
+- Secure and reliable DNS resolution
+
+When you change your domain's NS records, you're delegating DNS management to Clikkle. This means any existing DNS records (like MX records for email) will need to be recreated in Clikkle's DNS configuration.
+
+{% arrow_link href="/docs/products/network/dns" %}
+Learn more about Clikkle DNS server
+{% /arrow_link %}
+
+## Add an apex domain without changing nameservers
+
+To add an apex domain without changing your NS records via [CNAME flattening](/docs/products/network/dns#using-cname-flattening):
+
+1. Navigate to your site in the Clikkle Console.
+2. Head to the **Domains** tab and click on **Add domain**.
+3. Enter your apex domain (e.g., `example.com`).
+4. Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the [Domain rule types](#domain-rule-types) section for details.
+5. Copy the **CNAME** record provided by Clikkle.
+6. Copy the **CAA** record provided by Clikkle.
+7. In your DNS provider's settings, create an ALIAS, ANAME, or CNAME record at the apex (depending on what your provider supports).
+8. Point the record to the Clikkle hostname provided in the console.
+9. Add the CAA record to your DNS provider's settings, also pointed at the apex.
+10. Return to the Site settings and wait for verification status.
+
+{% only_dark %}
+![Add domain](/clikkle/images/docs/sites/dark/add-domain-cname.png)
+{% /only_dark %}
+{% only_light %}
+![Add domain](/clikkle/images/docs/sites/add-domain-cname.png)
+{% /only_light %}
+
+DNS changes can take up to 48 hours to propagate. Once verified, your apex domain will be ready to use with full control over your remaining DNS configuration.
+
+## Add a subdomain with CNAME
+
+Subdomains (like `www.example.com` or `app.example.com`) are set up using CNAME records, which point to Clikkle's hostname.
+
+To add a subdomain:
+
+1. Navigate to your site in the Clikkle Console.
+2. Head to the **Domains** tab and click on **Add domain**.
+3. Input your subdomain (e.g., `www.example.com`).
+4. Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the [Domain rule types](#domain-rule-types) section for details.
+5. Copy the specified **CNAME** record and add it to your domain registrar.
+6. Return to the Site settings and wait for verification status.
+
+{% only_dark %}
+![Add domain](/clikkle/images/docs/sites/dark/add-domain.png)
+{% /only_dark %}
+{% only_light %}
+![Add domain](/clikkle/images/docs/sites/add-domain.png)
+{% /only_light %}
+
+DNS records can take up to 48 hours to propagate. Once verified, the domain is ready to use.
+
+## Domain rule types
+
+When adding a custom domain to your Clikkle site, you'll need to select one of the following rule types that determine how your domain will behave:
+
+### Active deployment
+
+Points your domain to the latest deployed version of your site. This is the most common option for production domains.
+
+- When selected, your domain will always serve the most recent successful deployment
+- Any new deployments will automatically be available on this domain
+
+### Git branch
+
+Points your domain to a specific branch in your repository. This is useful for testing or staging environments.
+
+- When selected, you'll need to choose a specific branch from your connected repository
+- Your domain will always serve the latest successful deployment from that branch
+- This allows you to have different domains for different branches (e.g., staging.example.com for your staging branch)
+
+### Redirect
+
+Forwards all traffic from your domain to another URL. This is useful for domain migrations or creating shortcuts.
+
+- When selected, you'll need to specify the destination URL
+- You can choose from various HTTP status codes for the redirect:
+  - 301 Moved permanently
+  - 302 Found
+  - 303 See other
+  - 307 Temporary redirect
+  - 308 Permanent redirect
+
+{% info title="Path and query parameters in redirects" %}
+When you redirect an added domain to another URL, any additional path and queries will be ignored.
+
+For example, if a domain `example.com` is set to redirect to `clikkle.io`, `example.com/docs?id=123` will also redirect to `clikkle.io`.
+{% /info %}
+
+18:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L21",null,{"markdown":"$22","className":"ml-0"}]}]]}],null,"$L23"]}],"$L24","$L25"]}]}]
+27:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+28:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+29:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+2a:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+52:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+26:T1f8b,﻿---
+layout: article
+title: Domains
+description: Discover how domains can be managed for an Clikkle Site
+---
+
+Each deployed site can have its own domain, which can be Clikkle-generated or custom. You can use this domain to consume web apps deployed on Clikkle Sites. Clikkle generates TLS certificates to enforce HTTPS on all Clikkle Sites domains. These domains are safe to use and access in production.
+
+[Learn about Sites development >](/docs/products/sites/develop)
+
+# Generated domains
+
+Each site automatically receives a unique Clikkle-generated domain that's ready to use immediately.
+
+1. In the Clikkle Console's sidebar, click **Sites**.
+2. Under the **Domains** tab, you'll find the domain generated by Clikkle.
+
+The domain usually has this format:
+
+```bash
+https://64d4d22db370ae41a32e.clikkle.network
+```
+
+## Branch and Commit URLs
+
+Additional to the site URL, Clikkle also generates a URL for the branch and commit that your site has been deployed from. The branch URL will remain consistent for all deployments made for code pushed to a specific branch, whereas the commit URL will be updated every time a new deployment is made via the Git integration (i.e. when code is pushed to your repo).
+
+{% only_dark %}
+![Branch and commit URLs](/clikkle/images/docs/sites/dark/branch-commit-urls.png)
+{% /only_dark %}
+{% only_light %}
+![Branch and commit URLs](/clikkle/images/docs/sites/branch-commit-urls.png)
+{% /only_light %}
+
+To find the branch and commit URLs of any deployment, follow these steps:
+
+1. Navigate to your site on Clikkle Console.
+2. Head to the **Deployments** tab and click on any deployment.
+3. In the **Domains** section, click on the **+2** next to the mentioned domain.
+
+# Add a custom domain
+
+You can add your own domain to your Clikkle site to provide a branded experience for your users. There are two ways to add a custom domain, depending on whether you're using a subdomain or an apex domain.
+
+## Add an apex domain with NS records
+
+Apex domains (also known as root domains) are domains without a subdomain prefix, like `example.com` instead of `www.example.com`. Unlike subdomains, apex domains cannot use CNAME records due to DNS protocol limitations.
+
+To add an apex domain via NS records:
+
+1. Navigate to your site in the Clikkle Console.
+2. Head to the **Domains** tab and click on **Add domain**.
+3. Enter your apex domain (e.g., `example.com`).
+4. Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the [Domain rule types](#domain-rule-types) section for details.
+5. Clikkle will provide NS record information.
+6. Go to your domain registrar and update the NS records for your domain to point to `ns1.clikkle.zone` and `ns2.clikkle.zone`.
+7. Return to the Clikkle Console and wait for the verification process to complete.
+
+{% only_dark %}
+![Add domain](/clikkle/images/docs/sites/dark/add-domain-ns.png)
+{% /only_dark %}
+{% only_light %}
+![Add domain](/clikkle/images/docs/sites/add-domain-ns.png)
+{% /only_light %}
+
+DNS changes can take up to 48 hours to fully propagate across the internet. During this time, your domain might not be accessible or might show inconsistent behavior.
+
+### Why Clikkle uses NS records instead of A records
+
+By [DNS standards (RFC)](https://datatracker.ietf.org/doc/html/rfc1035), apex domains cannot use CNAME records, only A or AAAA records, which require pointing to fixed IP addresses. Using A records would lock Clikkle into specific IP addresses, limiting our ability to optimize routing, scale our infrastructure, or make changes as needed. To avoid this constraint and maintain flexibility, Clikkle offers DNS delegation through NS records so we can manage routing on your behalf.
+
+Using Clikkle's DNS servers for your apex domain provides several benefits:
+- Proper SSL certificate management
+- Automatic DNS configuration
+- Secure and reliable DNS resolution
+
+When you change your domain's NS records, you're delegating DNS management to Clikkle. This means any existing DNS records (like MX records for email) will need to be recreated in Clikkle's DNS configuration.
+
+{% arrow_link href="/docs/products/network/dns" %}
+Learn more about Clikkle DNS server
+{% /arrow_link %}
+
+## Add an apex domain without changing nameservers
+
+To add an apex domain without changing your NS records via [CNAME flattening](/docs/products/network/dns#using-cname-flattening):
+
+1. Navigate to your site in the Clikkle Console.
+2. Head to the **Domains** tab and click on **Add domain**.
+3. Enter your apex domain (e.g., `example.com`).
+4. Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the [Domain rule types](#domain-rule-types) section for details.
+5. Copy the **CNAME** record provided by Clikkle.
+6. Copy the **CAA** record provided by Clikkle.
+7. In your DNS provider's settings, create an ALIAS, ANAME, or CNAME record at the apex (depending on what your provider supports).
+8. Point the record to the Clikkle hostname provided in the console.
+9. Add the CAA record to your DNS provider's settings, also pointed at the apex.
+10. Return to the Site settings and wait for verification status.
+
+{% only_dark %}
+![Add domain](/clikkle/images/docs/sites/dark/add-domain-cname.png)
+{% /only_dark %}
+{% only_light %}
+![Add domain](/clikkle/images/docs/sites/add-domain-cname.png)
+{% /only_light %}
+
+DNS changes can take up to 48 hours to propagate. Once verified, your apex domain will be ready to use with full control over your remaining DNS configuration.
+
+## Add a subdomain with CNAME
+
+Subdomains (like `www.example.com` or `app.example.com`) are set up using CNAME records, which point to Clikkle's hostname.
+
+To add a subdomain:
+
+1. Navigate to your site in the Clikkle Console.
+2. Head to the **Domains** tab and click on **Add domain**.
+3. Input your subdomain (e.g., `www.example.com`).
+4. Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the [Domain rule types](#domain-rule-types) section for details.
+5. Copy the specified **CNAME** record and add it to your domain registrar.
+6. Return to the Site settings and wait for verification status.
+
+{% only_dark %}
+![Add domain](/clikkle/images/docs/sites/dark/add-domain.png)
+{% /only_dark %}
+{% only_light %}
+![Add domain](/clikkle/images/docs/sites/add-domain.png)
+{% /only_light %}
+
+DNS records can take up to 48 hours to propagate. Once verified, the domain is ready to use.
+
+## Domain rule types
+
+When adding a custom domain to your Clikkle site, you'll need to select one of the following rule types that determine how your domain will behave:
+
+### Active deployment
+
+Points your domain to the latest deployed version of your site. This is the most common option for production domains.
+
+- When selected, your domain will always serve the most recent successful deployment
+- Any new deployments will automatically be available on this domain
+
+### Git branch
+
+Points your domain to a specific branch in your repository. This is useful for testing or staging environments.
+
+- When selected, you'll need to choose a specific branch from your connected repository
+- Your domain will always serve the latest successful deployment from that branch
+- This allows you to have different domains for different branches (e.g., staging.example.com for your staging branch)
+
+### Redirect
+
+Forwards all traffic from your domain to another URL. This is useful for domain migrations or creating shortcuts.
+
+- When selected, you'll need to specify the destination URL
+- You can choose from various HTTP status codes for the redirect:
+  - 301 Moved permanently
+  - 302 Found
+  - 303 See other
+  - 307 Temporary redirect
+  - 308 Permanent redirect
+
+{% info title="Path and query parameters in redirects" %}
+When you redirect an added domain to another URL, any additional path and queries will be ignored.
+
+For example, if a domain `example.com` is set to redirect to `clikkle.io`, `example.com/docs?id=123` will also redirect to `clikkle.io`.
+{% /info %}
+
+23:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Domains"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L21",null,{"markdown":"$26","className":"ml-0"}]}]]}]
+24:["$","$L27",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L28",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Each deployed site can have its own domain, which can be Clikkle-generated or custom. You can use this domain to consume web apps deployed on Clikkle Sites. Clikkle generates TLS certificates to enforce HTTPS on all Clikkle Sites domains. These domains are safe to use and access in production."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","$L15",null,{"href":"/docs/products/sites/develop","children":"Learn about Sites development >"}]}],["$","$L29",null,{"level":1,"children":"Generated domains"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Each site automatically receives a unique Clikkle-generated domain that's ready to use immediately."}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["In the Clikkle Console's sidebar, click ",["$","strong",null,{"children":"Sites"}],"."]}],["$","li",null,{"children":["Under the ",["$","strong",null,{"children":"Domains"}]," tab, you'll find the domain generated by Clikkle."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The domain usually has this format:"}],["$","$L2a",null,{"language":"bash","content":"https://64d4d22db370ae41a32e.clikkle.network\n","children":"https://64d4d22db370ae41a32e.clikkle.network\n"}],["$","$L29",null,{"level":2,"children":"Branch and Commit URLs"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Additional to the site URL, Clikkle also generates a URL for the branch and commit that your site has been deployed from. The branch URL will remain consistent for all deployments made for code pushed to a specific branch, whereas the commit URL will be updated every time a new deployment is made via the Git integration (i.e. when code is pushed to your repo)."}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/branch-commit-urls.png","alt":"Branch and commit URLs","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/branch-commit-urls.png","alt":"Branch and commit URLs","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To find the branch and commit URLs of any deployment, follow these steps:"}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":"Navigate to your site on Clikkle Console."}],["$","li",null,{"children":["Head to the ",["$","strong",null,{"children":"Deployments"}]," tab and click on any deployment."]}],["$","li",null,{"children":["In the ",["$","strong",null,{"children":"Domains"}]," section, click on the ",["$","strong",null,{"children":"+2"}]," next to the mentioned domain."]}]]}],["$","$L29",null,{"level":1,"children":"Add a custom domain"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can add your own domain to your Clikkle site to provide a branded experience for your users. There are two ways to add a custom domain, depending on whether you're using a subdomain or an apex domain."}],"$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50"]}]}]]}],"$L51"]}]
+25:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L52",null,{"items":[{"id":"generated-domains","title":"Generated domains","level":1},{"id":"branch-and-commit-urls","title":"Branch and Commit URLs","level":2},{"id":"add-a-custom-domain","title":"Add a custom domain","level":1},{"id":"add-an-apex-domain-with-ns-records","title":"Add an apex domain with NS records","level":2},{"id":"why-clikkle-uses-ns-records-instead-of-a-records","title":"Why Clikkle uses NS records instead of A records","level":3},{"id":"add-an-apex-domain-without-changing-nameservers","title":"Add an apex domain without changing nameservers","level":2},{"id":"add-a-subdomain-with-cname","title":"Add a subdomain with CNAME","level":2},{"id":"domain-rule-types","title":"Domain rule types","level":2},{"id":"active-deployment","title":"Active deployment","level":3},{"id":"git-branch","title":"Git branch","level":3},{"id":"redirect","title":"Redirect","level":3}]}]}]
+53:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2b:["$","$L29",null,{"level":2,"children":"Add an apex domain with NS records"}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Apex domains (also known as root domains) are domains without a subdomain prefix, like ",["$","code",null,{"children":"example.com"}]," instead of ",["$","code",null,{"children":"www.example.com"}],". Unlike subdomains, apex domains cannot use CNAME records due to DNS protocol limitations."]}]
+2d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To add an apex domain via NS records:"}]
+2e:["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":"Navigate to your site in the Clikkle Console."}],["$","li",null,{"children":["Head to the ",["$","strong",null,{"children":"Domains"}]," tab and click on ",["$","strong",null,{"children":"Add domain"}],"."]}],["$","li",null,{"children":["Enter your apex domain (e.g., ",["$","code",null,{"children":"example.com"}],")."]}],["$","li",null,{"children":["Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the ",["$","$L15",null,{"href":"#domain-rule-types","children":"Domain rule types"}]," section for details."]}],["$","li",null,{"children":"Clikkle will provide NS record information."}],["$","li",null,{"children":["Go to your domain registrar and update the NS records for your domain to point to ",["$","code",null,{"children":"ns1.clikkle.zone"}]," and ",["$","code",null,{"children":"ns2.clikkle.zone"}],"."]}],["$","li",null,{"children":"Return to the Clikkle Console and wait for the verification process to complete."}]]}]
+2f:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/add-domain-ns.png","alt":"Add domain","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+30:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/add-domain-ns.png","alt":"Add domain","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"DNS changes can take up to 48 hours to fully propagate across the internet. During this time, your domain might not be accessible or might show inconsistent behavior."}]
+32:["$","$L29",null,{"level":3,"children":"Why Clikkle uses NS records instead of A records"}]
+33:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["By ",["$","a",null,{"href":"https://datatracker.ietf.org/doc/html/rfc1035","target":"_blank","rel":"noopener nofollow","children":"DNS standards (RFC)"}],", apex domains cannot use CNAME records, only A or AAAA records, which require pointing to fixed IP addresses. Using A records would lock Clikkle into specific IP addresses, limiting our ability to optimize routing, scale our infrastructure, or make changes as needed. To avoid this constraint and maintain flexibility, Clikkle offers DNS delegation through NS records so we can manage routing on your behalf."]}]
+34:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Using Clikkle's DNS servers for your apex domain provides several benefits:"}]
+35:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Proper SSL certificate management"}],["$","li",null,{"children":"Automatic DNS configuration"}],["$","li",null,{"children":"Secure and reliable DNS resolution"}]]}]
+36:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When you change your domain's NS records, you're delegating DNS management to Clikkle. This means any existing DNS records (like MX records for email) will need to be recreated in Clikkle's DNS configuration."}]
+37:["$","$L15",null,{"href":"/docs/products/network/dns","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn more about Clikkle DNS server"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+38:["$","$L29",null,{"level":2,"children":"Add an apex domain without changing nameservers"}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To add an apex domain without changing your NS records via ",["$","$L15",null,{"href":"/docs/products/network/dns#using-cname-flattening","children":"CNAME flattening"}],":"]}]
+3a:["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":"Navigate to your site in the Clikkle Console."}],["$","li",null,{"children":["Head to the ",["$","strong",null,{"children":"Domains"}]," tab and click on ",["$","strong",null,{"children":"Add domain"}],"."]}],["$","li",null,{"children":["Enter your apex domain (e.g., ",["$","code",null,{"children":"example.com"}],")."]}],["$","li",null,{"children":["Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the ",["$","$L15",null,{"href":"#domain-rule-types","children":"Domain rule types"}]," section for details."]}],["$","li",null,{"children":["Copy the ",["$","strong",null,{"children":"CNAME"}]," record provided by Clikkle."]}],["$","li",null,{"children":["Copy the ",["$","strong",null,{"children":"CAA"}]," record provided by Clikkle."]}],["$","li",null,{"children":"In your DNS provider's settings, create an ALIAS, ANAME, or CNAME record at the apex (depending on what your provider supports)."}],["$","li",null,{"children":"Point the record to the Clikkle hostname provided in the console."}],["$","li",null,{"children":"Add the CAA record to your DNS provider's settings, also pointed at the apex."}],["$","li",null,{"children":"Return to the Site settings and wait for verification status."}]]}]
+3b:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/add-domain-cname.png","alt":"Add domain","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+3c:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/add-domain-cname.png","alt":"Add domain","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+3d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"DNS changes can take up to 48 hours to propagate. Once verified, your apex domain will be ready to use with full control over your remaining DNS configuration."}]
+3e:["$","$L29",null,{"level":2,"children":"Add a subdomain with CNAME"}]
+3f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Subdomains (like ",["$","code",null,{"children":"www.example.com"}]," or ",["$","code",null,{"children":"app.example.com"}],") are set up using CNAME records, which point to Clikkle's hostname."]}]
+40:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To add a subdomain:"}]
+41:["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":"Navigate to your site in the Clikkle Console."}],["$","li",null,{"children":["Head to the ",["$","strong",null,{"children":"Domains"}]," tab and click on ",["$","strong",null,{"children":"Add domain"}],"."]}],["$","li",null,{"children":["Input your subdomain (e.g., ",["$","code",null,{"children":"www.example.com"}],")."]}],["$","li",null,{"children":["Select the appropriate domain rule type (Active deployment, Git branch, or Redirect) and configure its settings. See the ",["$","$L15",null,{"href":"#domain-rule-types","children":"Domain rule types"}]," section for details."]}],["$","li",null,{"children":["Copy the specified ",["$","strong",null,{"children":"CNAME"}]," record and add it to your domain registrar."]}],["$","li",null,{"children":"Return to the Site settings and wait for verification status."}]]}]
+42:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/add-domain.png","alt":"Add domain","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+43:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/add-domain.png","alt":"Add domain","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+44:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"DNS records can take up to 48 hours to propagate. Once verified, the domain is ready to use."}]
+45:["$","$L29",null,{"level":2,"children":"Domain rule types"}]
+46:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When adding a custom domain to your Clikkle site, you'll need to select one of the following rule types that determine how your domain will behave:"}]
+47:["$","$L29",null,{"level":3,"children":"Active deployment"}]
+48:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Points your domain to the latest deployed version of your site. This is the most common option for production domains."}]
+49:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"When selected, your domain will always serve the most recent successful deployment"}],["$","li",null,{"children":"Any new deployments will automatically be available on this domain"}]]}]
+4a:["$","$L29",null,{"level":3,"children":"Git branch"}]
+4b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Points your domain to a specific branch in your repository. This is useful for testing or staging environments."}]
+4c:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"When selected, you'll need to choose a specific branch from your connected repository"}],["$","li",null,{"children":"Your domain will always serve the latest successful deployment from that branch"}],["$","li",null,{"children":"This allows you to have different domains for different branches (e.g., staging.example.com for your staging branch)"}]]}]
+4d:["$","$L29",null,{"level":3,"children":"Redirect"}]
+4e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Forwards all traffic from your domain to another URL. This is useful for domain migrations or creating shortcuts."}]
+4f:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"When selected, you'll need to specify the destination URL"}],["$","li",null,{"children":["You can choose from various HTTP status codes for the redirect:",["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"301 Moved permanently"}],["$","li",null,{"children":"302 Found"}],["$","li",null,{"children":"303 See other"}],["$","li",null,{"children":"307 Temporary redirect"}],["$","li",null,{"children":"308 Permanent redirect"}]]}]]}]]}]
+50:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Path and query parameters in redirects"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When you redirect an added domain to another URL, any additional path and queries will be ignored."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For example, if a domain ",["$","code",null,{"children":"example.com"}]," is set to redirect to ",["$","code",null,{"children":"clikkle.io"}],", ",["$","code",null,{"children":"example.com/docs?id=123"}]," will also redirect to ",["$","code",null,{"children":"clikkle.io"}],"."]}]]]}]
+51:["$","$L53",null,{"date":"$undefined"}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+54:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1b:null
+20:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L54","13",{}]]

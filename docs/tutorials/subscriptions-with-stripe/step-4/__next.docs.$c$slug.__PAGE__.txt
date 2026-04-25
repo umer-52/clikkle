@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+6:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+15:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+5:T6a8,---
+layout: tutorial
+title: Configure web platform
+description: Add paid app subscription plans to your app with Stripe and Clikkle Functions.
+step: 4
+---
+
+## Add platform {% #add-platform %}
+To showcase the functionality, the template ships with a demo frontend that you can use. To allow this demo, you must add Function's domain as a trusted web platform. Head to your project's **Overview** page in Apwrite Console, and scroll down to the **Integrations** section. Click the **Add platform** button and select **Web App** from the dropdown.
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+Set **Name** to `Subscription demo` and **Hostname** to your Function's domain. 
+You can find your function's domain under the **Domains** tab.
+
+{% only_dark %}
+![Functions domain](/clikkle/images/docs/tutorials/subscriptions-with-stripe/dark/functions-stripe-domain.png)
+{% /only_dark %}
+{% only_light %}
+![Functions domain](/clikkle/images/docs/tutorials/subscriptions-with-stripe/functions-stripe-domain.png)
+{% /only_light %}
+
+Click the **Next** button to continue. 
+
+You don't need to follow the remaining screens, so you can click on **Skip optional steps**.
+
+## Update webhook endpoint {% #update-webhook-endpoint %}
+
+Navigate to your Stripe dashboard, under **Developers**, go to the **Webhooks** tab.
+Click on the webhook we added earlier, under the three-dot menu, click **Update details**.
+
+Update the **Endpoint URL** to `https://<YOUR_FUNCTION_DOMAIN>/webhook`. For example, `https://6579ea96aa28a5cfb66a.fra.clikkle.run/webhook`
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Add app subscriptions with Stripe","steps":[{"step":1,"title":"Add app subscriptions with Stripe","href":"/docs/tutorials/subscriptions-with-stripe/step-1","fileSlug":"step-1","difficulty":"easy","readtime":10},{"step":2,"title":"Setup Stripe","href":"/docs/tutorials/subscriptions-with-stripe/step-2","fileSlug":"step-2","difficulty":"easy","readtime":10},{"step":3,"title":"Create function","href":"/docs/tutorials/subscriptions-with-stripe/step-3","fileSlug":"step-3","difficulty":"easy","readtime":10},{"step":4,"title":"Configure web platform","href":"/docs/tutorials/subscriptions-with-stripe/step-4","fileSlug":"step-4","difficulty":"easy","readtime":10},{"step":5,"title":"All set","href":"/docs/tutorials/subscriptions-with-stripe/step-5","fileSlug":"step-5","difficulty":"easy","readtime":10}],"currentStep":4,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:3","back":"/docs/tutorials","copyMarkdown":"$5","children":["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","$L6",null,{"id":"add-platform","level":2,"children":"Add platform "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To showcase the functionality, the template ships with a demo frontend that you can use. To allow this demo, you must add Function's domain as a trusted web platform. Head to your project's ",["$","strong",null,{"children":"Overview"}]," page in Apwrite Console, and scroll down to the ",["$","strong",null,{"children":"Integrations"}]," section. Click the ",["$","strong",null,{"children":"Add platform"}]," button and select ",["$","strong",null,{"children":"Web App"}]," from the dropdown."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":"$L7"}]}]}],"$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}]}]}],["$L11","$L12","$L13"],"$L14"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+7:["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]
+8:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+9:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Set ",["$","strong",null,{"children":"Name"}]," to ",["$","code",null,{"children":"Subscription demo"}]," and ",["$","strong",null,{"children":"Hostname"}]," to your Function's domain."," ","You can find your function's domain under the ",["$","strong",null,{"children":"Domains"}]," tab."]}]
+a:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/subscriptions-with-stripe/dark/functions-stripe-domain.png","alt":"Functions domain","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+b:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/subscriptions-with-stripe/functions-stripe-domain.png","alt":"Functions domain","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Click the ",["$","strong",null,{"children":"Next"}]," button to continue."]}]
+d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You don't need to follow the remaining screens, so you can click on ",["$","strong",null,{"children":"Skip optional steps"}],"."]}]
+e:["$","$L6",null,{"id":"update-webhook-endpoint","level":2,"children":"Update webhook endpoint "}]
+f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Navigate to your Stripe dashboard, under ",["$","strong",null,{"children":"Developers"}],", go to the ",["$","strong",null,{"children":"Webhooks"}]," tab."," ","Click on the webhook we added earlier, under the three-dot menu, click ",["$","strong",null,{"children":"Update details"}],"."]}]
+10:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Update the ",["$","strong",null,{"children":"Endpoint URL"}]," to ",["$","code",null,{"children":"https://<YOUR_FUNCTION_DOMAIN>/webhook"}],". For example, ",["$","code",null,{"children":"https://6579ea96aa28a5cfb66a.fra.clikkle.run/webhook"}]]}]
+11:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+12:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+13:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+14:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+17:null

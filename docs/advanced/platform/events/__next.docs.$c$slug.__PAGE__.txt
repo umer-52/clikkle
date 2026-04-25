@@ -1,0 +1,1383 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TableTag"]
+10:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+2f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+30:"$Sreact.suspense"
+44:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T42bb,---
+layout: article
+title: Events
+description: Harness the power of events in Clikkle. Explore event-driven architecture, event types, and how to use events to create dynamic applications.
+---
+
+Clikkle provides a variety of events that allows your application to react to changes as they happen.
+An event will fire when a change occurs in your Clikkle project, like when a new user registers or a new file is uploaded to Clikkle.
+You can subscribe to these events with Clikkle [Functions](/docs/products/functions), [Realtime](/docs/apis/realtime), or [Webhooks](/docs/advanced/platform/webhooks).
+
+You can subscribe to events for specific resources using their ID or subscribe to changes of all resources of the same type by using a wildcard character * instead of an ID.
+You can also filter for events of specific actions like create, update, upsert, or delete.
+
+
+You can find a list of events for Storage, Databases, Functions, Sites, and Authentication services below.
+
+{% accordion %}
+{% accordion_item title="Authentication" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `teams.*`
+- This event triggers on any teams event.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `teams.*.create`
+- This event triggers when a team is created.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `teams.*.delete`
+- This event triggers when a team is deleted.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `teams.*.memberships.*`
+- This event triggers on any team memberships event.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.memberships.*.create`
+- This event triggers when a membership is created.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.memberships.*.delete`
+- This event triggers when a membership is deleted.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.memberships.*.update`
+- This event triggers when a membership is updated.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.memberships.*.update.status`
+- This event triggers when a team memberships status is updated.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.update`
+- This event triggers when a team is updated.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `teams.*.update.prefs`
+- This event triggers when a team's preferences are updated.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `users.*`
+- This event triggers on any user's event.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.create`
+- This event triggers when a user is created.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.delete`
+- This event triggers when a user is deleted.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.recovery.*`
+- This event triggers on any user's recovery token event.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.recovery.*.create`
+- This event triggers when a recovery token for a user is created.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.recovery.*.update`
+- This event triggers when a recovery token for a user is validated.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.sessions.*`
+- This event triggers on any user's sessions event.
+  Returns [Session Object](/docs/references/cloud/models/session)
+
+---
+
+- `users.*.sessions.*.create`
+- This event triggers when a session for a user is created.
+  Returns [Session Object](/docs/references/cloud/models/session)
+
+---
+
+- `users.*.sessions.*.delete`
+- This event triggers when a session for a user is deleted.
+  Returns [Session Object](/docs/references/cloud/models/session)
+
+---
+
+- `users.*.update`
+- This event triggers when a user is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.email`
+- This event triggers when a user's email address is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.name`
+- This event triggers when a user's name is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.password`
+- This event triggers when a user's password is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.prefs`
+- This event triggers when a user's preferences is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.status`
+- This event triggers when a user's status is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.verification.*`
+- This event triggers on any user's verification token event.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.verification.*.create`
+- This event triggers when a verification token for a user is created.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.verification.*.update`
+- This event triggers when a verification token for a user is validated.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+{% /table %}
+
+{% /accordion_item %}
+{% accordion_item title="Databases" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `tablesdb.*`
+- This event triggers on any database event.
+  Returns [Database Object](/docs/references/cloud/models/database)
+
+---
+
+- `tablesdb.*.tables.*`
+- This event triggers on any table event.
+  Returns [Table Object](/docs/references/cloud/models/table)
+
+---
+
+- `tablesdb.*.tables.*.columns.*`
+- This event triggers on any columns event.
+  Returns [Column Object](/docs/references/cloud/models/columnList)
+
+---
+
+- `tablesdb.*.tables.*.columns.*.create`
+- This event triggers when a column is created.
+  Returns [Column Object](/docs/references/cloud/models/columnList)
+
+---
+
+- `tablesdb.*.tables.*.columns.*.update`
+- This event triggers when a column is updated.
+  Returns [Column Object](/docs/references/cloud/models/columnList)
+
+---
+
+- `tablesdb.*.tables.*.columns.*.delete`
+- This event triggers when a column is deleted.
+  Returns [Column Object](/docs/references/cloud/models/columnList)
+
+---
+
+- `tablesdb.*.tables.*.create`
+- This event triggers when a table is created.
+  Returns [Table Object](/docs/references/cloud/models/table)
+
+---
+
+- `tablesdb.*.tables.*.delete`
+- This event triggers when a table is deleted.
+  Returns [Table Object](/docs/references/cloud/models/table)
+
+---
+
+- `tablesdb.*.tables.*.rows.*`
+- This event triggers on any rows event.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.rows.*.create`
+- This event triggers when a row is created.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.rows.*.delete`
+- This event triggers when a row is deleted.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.rows.*.update`
+- This event triggers when a row is updated.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.rows.*.upsert`
+- This event triggers when a row is upserted.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.indexes.*`
+- This event triggers on any indexes event.
+  Returns [Index Object](/docs/references/cloud/models/columnIndex)
+
+---
+
+- `tablesdb.*.tables.*.indexes.*.create`
+- This event triggers when an index is created.
+  Returns [Index Object](/docs/references/cloud/models/columnIndex)
+
+---
+
+- `tablesdb.*.tables.*.indexes.*.update`
+- This event triggers when an index is updated.
+  Returns [Index Object](/docs/references/cloud/models/columnIndex)
+
+---
+
+- `tablesdb.*.tables.*.indexes.*.delete`
+- This event triggers when an index is deleted.
+  Returns [Index Object](/docs/references/cloud/models/columnIndex)
+
+---
+
+- `tablesdb.*.tables.*.update`
+- This event triggers when a table is updated.
+  Returns [Table Object](/docs/references/cloud/models/table)
+
+---
+
+- `tablesdb.*.create`
+- This event triggers when a database is created.
+  Returns [Database Object](/docs/references/cloud/models/database)
+
+---
+
+- `tablesdb.*.delete`
+- This event triggers when a database is deleted.
+  Returns [Database Object](/docs/references/cloud/models/database)
+
+---
+
+- `tablesdb.*.update`
+- This event triggers when a database is updated.
+  Returns [Database Object](/docs/references/cloud/models/database){% /table %}
+
+
+{% info title="Note" %}
+Collections, documents, and attributes have been deprecated in favour of tables, rows, and columns. The `databases.*` event prefix has been replaced by `tablesdb.*`.
+{% /info %}
+{% /accordion_item %}
+{% accordion_item title="Storage" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `buckets.*`
+- This event triggers on any buckets event.
+  Returns [Bucket Object](/docs/references/cloud/models/bucket)
+
+---
+
+- `buckets.*.create`
+- This event triggers when a bucket is created.
+  Returns [Bucket Object](/docs/references/cloud/models/bucket)
+
+---
+
+- `buckets.*.delete`
+- This event triggers when a bucket is deleted.
+  Returns [Bucket Object](/docs/references/cloud/models/bucket)
+
+---
+
+- `buckets.*.files.*`
+- This event triggers on any files event.
+  Returns [File Object](/docs/references/cloud/models/file)
+
+---
+
+- `buckets.*.files.*.create`
+- Since the Clikkle SDK chunks files in 5MB increments, this event will trigger for each 5MB chunk. A file is fully uploaded when `chunksTotal` equals `chunksUploaded`.
+  Returns [File Object](/docs/references/cloud/models/file)
+
+---
+
+- `buckets.*.files.*.delete`
+- This event triggers when a file is deleted.
+  Returns [File Object](/docs/references/cloud/models/file)
+
+---
+
+- `buckets.*.files.*.update`
+- This event triggers when a file is updated.
+  Returns [File Object](/docs/references/cloud/models/file)
+
+---
+
+- `buckets.*.update`
+- This event triggers when a bucket is updated.
+  Returns [Bucket Object](/docs/references/cloud/models/bucket)
+
+{% /table %}
+
+{% /accordion_item %}
+{% accordion_item title="Functions" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `functions.*`
+- This event triggers on any functions event.
+  Returns [Function Object](/docs/references/cloud/models/function)
+
+---
+
+- `functions.*.create`
+- This event triggers when a function is created.
+  Returns [Function Object](/docs/references/cloud/models/function)
+
+---
+
+- `functions.*.delete`
+- This event triggers when a function is deleted.
+  Returns [Function Object](/docs/references/cloud/models/function)
+
+---
+
+- `functions.*.deployments.*`
+- This event triggers on any deployments event.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `functions.*.deployments.*.create`
+- This event triggers when a deployment is created.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `functions.*.deployments.*.delete`
+- This event triggers when a deployment is deleted.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `functions.*.deployments.*.update`
+- This event triggers when a deployment is updated.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `functions.*.executions.*`
+- This event triggers on any executions event.
+  Returns [Execution Object](/docs/references/cloud/models/execution)
+
+---
+
+- `functions.*.executions.*.create`
+- This event triggers when an execution is created.
+  Returns [Execution Object](/docs/references/cloud/models/execution)
+
+---
+
+- `functions.*.executions.*.delete`
+- This event triggers when an execution is deleted.
+  Returns [Execution Object](/docs/references/cloud/models/execution)
+
+---
+
+- `functions.*.executions.*.update`
+- This event triggers when an execution is updated.
+  Returns [Execution Object](/docs/references/cloud/models/execution)
+
+---
+
+- `functions.*.update`
+- This event triggers when a function is updated.
+  Returns [Function Object](/docs/references/cloud/models/function)
+
+{% /table %}
+
+{% /accordion_item %}
+{% accordion_item title="Sites" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `sites.*`
+- This event triggers on any sites event.
+  Returns [Site Object](/docs/references/cloud/models/site)
+
+---
+
+- `sites.*.create`
+- This event triggers when a site is created.
+  Returns [Site Object](/docs/references/cloud/models/site)
+
+---
+
+- `sites.*.delete`
+- This event triggers when a site is deleted.
+  Returns [Site Object](/docs/references/cloud/models/site)
+
+---
+
+- `sites.*.deployments.*`
+- This event triggers on any deployments event.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `sites.*.deployments.*.create`
+- This event triggers when a deployment is created.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `sites.*.deployments.*.delete`
+- This event triggers when a deployment is deleted.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `sites.*.deployments.*.update`
+- This event triggers when a deployment is updated.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `sites.*.update`
+- This event triggers when a site is updated.
+  Returns [Site Object](/docs/references/cloud/models/site)
+
+{% /table %}
+
+{% /accordion_item %}
+{% accordion_item title="Messaging" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `providers.*`
+- This event triggers on any providers event.
+  Returns [Provider Object](/docs/references/cloud/models/provider)
+
+---
+
+- `providers.*.create`
+- This event triggers when a provider is created.
+  Returns [Provider Object](/docs/references/cloud/models/provider)
+
+---
+
+- `providers.*.delete`
+- This event triggers when a provider is deleted.
+  Returns [Provider Object](/docs/references/cloud/models/provider)
+
+---
+
+- `providers.*.update`
+- This event triggers when a provider is updated.
+  Returns [Provider Object](/docs/references/cloud/models/provider)
+
+---
+
+- `topics.*`
+- This event triggers on any topic event.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.create`
+- This event triggers when a topic is created.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.delete`
+- This event triggers when a topic is deleted.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.update`
+- This event triggers when a topic is updated.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.subscribers.*.create`
+- This event triggers when a subscriber to a topic is created.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.subscribers.*.delete`
+- This event triggers when a subscriber to a topic is deleted.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `messages.*`
+- This event triggers on any message event.
+  Returns [Message Object](/docs/references/cloud/models/message)
+
+---
+
+- `messages.*.create`
+- This event triggers when a message is created.
+  Returns [Message Object](/docs/references/cloud/models/message)
+
+---
+
+- `messages.*.delete`
+- This event triggers when a message is deleted.
+  Returns [Message Object](/docs/references/cloud/models/message)
+
+---
+
+- `messages.*.update`
+- This event triggers when a message is updated.
+  Returns [Message Object](/docs/references/cloud/models/message)
+
+{% /table %}
+
+{% /accordion_item %}
+{% /accordion %}
+
+# Known limitations {% #known-limitations %}
+
+When events fire, only existing subscriptions for that event will receive the update. If your client or server side integrations lose network connection temporarily, delivery of the event is not guaranteed.
+
+For self-hosted instances, when the Clikkle containers are shut down and restarted, events with pending webhooks and subscription updates will not be delivered.
+
+A change to a resource can cause multiple events to fire. For example adding a new row with ID `"lion-king"` to a table with the ID `"movies"` will cause all of the below events to fire.
+
+```json
+{
+  "events": [
+      "tablesdb.default.tables.movies.rows.lion-king.create",
+      "tablesdb.*.tables.*.rows.*.create",
+      "tablesdb.default.tables.*.rows.lion-king.create",
+      "tablesdb.*.tables.*.rows.lion-king.create",
+      "tablesdb.*.tables.movies.rows.lion-king.create",
+      "tablesdb.default.tables.movies.rows.*.create",
+      "tablesdb.*.tables.movies.rows.*.create",
+      "tablesdb.default.tables.*.rows.*.create",
+      "tablesdb.default.tables.movies.rows.lion-king",
+      "tablesdb.*.tables.*.rows.*",
+      "tablesdb.default.tables.*.rows.lion-king",
+      "tablesdb.*.tables.*.rows.lion-king",
+      "tablesdb.*.tables.movies.rows.lion-king",
+      "tablesdb.default.tables.movies.rows.*",
+      "tablesdb.*.tables.movies.rows.*",
+      "tablesdb.default.tables.*.rows.*",
+      "tablesdb.default.tables.movies",
+      "tablesdb.*.tables.*",
+      "tablesdb.default.tables.*",
+      "tablesdb.*.tables.movies",
+      "tablesdb.default",
+      "tablesdb.*"
+  ]
+}
+```
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T42bb,---
+layout: article
+title: Events
+description: Harness the power of events in Clikkle. Explore event-driven architecture, event types, and how to use events to create dynamic applications.
+---
+
+Clikkle provides a variety of events that allows your application to react to changes as they happen.
+An event will fire when a change occurs in your Clikkle project, like when a new user registers or a new file is uploaded to Clikkle.
+You can subscribe to these events with Clikkle [Functions](/docs/products/functions), [Realtime](/docs/apis/realtime), or [Webhooks](/docs/advanced/platform/webhooks).
+
+You can subscribe to events for specific resources using their ID or subscribe to changes of all resources of the same type by using a wildcard character * instead of an ID.
+You can also filter for events of specific actions like create, update, upsert, or delete.
+
+
+You can find a list of events for Storage, Databases, Functions, Sites, and Authentication services below.
+
+{% accordion %}
+{% accordion_item title="Authentication" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `teams.*`
+- This event triggers on any teams event.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `teams.*.create`
+- This event triggers when a team is created.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `teams.*.delete`
+- This event triggers when a team is deleted.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `teams.*.memberships.*`
+- This event triggers on any team memberships event.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.memberships.*.create`
+- This event triggers when a membership is created.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.memberships.*.delete`
+- This event triggers when a membership is deleted.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.memberships.*.update`
+- This event triggers when a membership is updated.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.memberships.*.update.status`
+- This event triggers when a team memberships status is updated.
+  Returns [Membership Object](/docs/references/cloud/models/membership)
+
+---
+
+- `teams.*.update`
+- This event triggers when a team is updated.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `teams.*.update.prefs`
+- This event triggers when a team's preferences are updated.
+  Returns [Team Object](/docs/references/cloud/models/team)
+
+---
+
+- `users.*`
+- This event triggers on any user's event.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.create`
+- This event triggers when a user is created.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.delete`
+- This event triggers when a user is deleted.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.recovery.*`
+- This event triggers on any user's recovery token event.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.recovery.*.create`
+- This event triggers when a recovery token for a user is created.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.recovery.*.update`
+- This event triggers when a recovery token for a user is validated.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.sessions.*`
+- This event triggers on any user's sessions event.
+  Returns [Session Object](/docs/references/cloud/models/session)
+
+---
+
+- `users.*.sessions.*.create`
+- This event triggers when a session for a user is created.
+  Returns [Session Object](/docs/references/cloud/models/session)
+
+---
+
+- `users.*.sessions.*.delete`
+- This event triggers when a session for a user is deleted.
+  Returns [Session Object](/docs/references/cloud/models/session)
+
+---
+
+- `users.*.update`
+- This event triggers when a user is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.email`
+- This event triggers when a user's email address is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.name`
+- This event triggers when a user's name is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.password`
+- This event triggers when a user's password is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.prefs`
+- This event triggers when a user's preferences is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.update.status`
+- This event triggers when a user's status is updated.
+  Returns [User Object](/docs/references/cloud/models/user)
+
+---
+
+- `users.*.verification.*`
+- This event triggers on any user's verification token event.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.verification.*.create`
+- This event triggers when a verification token for a user is created.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+---
+
+- `users.*.verification.*.update`
+- This event triggers when a verification token for a user is validated.
+  Returns [Token Object](/docs/references/cloud/models/token)
+
+{% /table %}
+
+{% /accordion_item %}
+{% accordion_item title="Databases" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `tablesdb.*`
+- This event triggers on any database event.
+  Returns [Database Object](/docs/references/cloud/models/database)
+
+---
+
+- `tablesdb.*.tables.*`
+- This event triggers on any table event.
+  Returns [Table Object](/docs/references/cloud/models/table)
+
+---
+
+- `tablesdb.*.tables.*.columns.*`
+- This event triggers on any columns event.
+  Returns [Column Object](/docs/references/cloud/models/columnList)
+
+---
+
+- `tablesdb.*.tables.*.columns.*.create`
+- This event triggers when a column is created.
+  Returns [Column Object](/docs/references/cloud/models/columnList)
+
+---
+
+- `tablesdb.*.tables.*.columns.*.update`
+- This event triggers when a column is updated.
+  Returns [Column Object](/docs/references/cloud/models/columnList)
+
+---
+
+- `tablesdb.*.tables.*.columns.*.delete`
+- This event triggers when a column is deleted.
+  Returns [Column Object](/docs/references/cloud/models/columnList)
+
+---
+
+- `tablesdb.*.tables.*.create`
+- This event triggers when a table is created.
+  Returns [Table Object](/docs/references/cloud/models/table)
+
+---
+
+- `tablesdb.*.tables.*.delete`
+- This event triggers when a table is deleted.
+  Returns [Table Object](/docs/references/cloud/models/table)
+
+---
+
+- `tablesdb.*.tables.*.rows.*`
+- This event triggers on any rows event.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.rows.*.create`
+- This event triggers when a row is created.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.rows.*.delete`
+- This event triggers when a row is deleted.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.rows.*.update`
+- This event triggers when a row is updated.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.rows.*.upsert`
+- This event triggers when a row is upserted.
+  Returns [Row Object](/docs/references/cloud/models/row)
+
+---
+
+- `tablesdb.*.tables.*.indexes.*`
+- This event triggers on any indexes event.
+  Returns [Index Object](/docs/references/cloud/models/columnIndex)
+
+---
+
+- `tablesdb.*.tables.*.indexes.*.create`
+- This event triggers when an index is created.
+  Returns [Index Object](/docs/references/cloud/models/columnIndex)
+
+---
+
+- `tablesdb.*.tables.*.indexes.*.update`
+- This event triggers when an index is updated.
+  Returns [Index Object](/docs/references/cloud/models/columnIndex)
+
+---
+
+- `tablesdb.*.tables.*.indexes.*.delete`
+- This event triggers when an index is deleted.
+  Returns [Index Object](/docs/references/cloud/models/columnIndex)
+
+---
+
+- `tablesdb.*.tables.*.update`
+- This event triggers when a table is updated.
+  Returns [Table Object](/docs/references/cloud/models/table)
+
+---
+
+- `tablesdb.*.create`
+- This event triggers when a database is created.
+  Returns [Database Object](/docs/references/cloud/models/database)
+
+---
+
+- `tablesdb.*.delete`
+- This event triggers when a database is deleted.
+  Returns [Database Object](/docs/references/cloud/models/database)
+
+---
+
+- `tablesdb.*.update`
+- This event triggers when a database is updated.
+  Returns [Database Object](/docs/references/cloud/models/database){% /table %}
+
+
+{% info title="Note" %}
+Collections, documents, and attributes have been deprecated in favour of tables, rows, and columns. The `databases.*` event prefix has been replaced by `tablesdb.*`.
+{% /info %}
+{% /accordion_item %}
+{% accordion_item title="Storage" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `buckets.*`
+- This event triggers on any buckets event.
+  Returns [Bucket Object](/docs/references/cloud/models/bucket)
+
+---
+
+- `buckets.*.create`
+- This event triggers when a bucket is created.
+  Returns [Bucket Object](/docs/references/cloud/models/bucket)
+
+---
+
+- `buckets.*.delete`
+- This event triggers when a bucket is deleted.
+  Returns [Bucket Object](/docs/references/cloud/models/bucket)
+
+---
+
+- `buckets.*.files.*`
+- This event triggers on any files event.
+  Returns [File Object](/docs/references/cloud/models/file)
+
+---
+
+- `buckets.*.files.*.create`
+- Since the Clikkle SDK chunks files in 5MB increments, this event will trigger for each 5MB chunk. A file is fully uploaded when `chunksTotal` equals `chunksUploaded`.
+  Returns [File Object](/docs/references/cloud/models/file)
+
+---
+
+- `buckets.*.files.*.delete`
+- This event triggers when a file is deleted.
+  Returns [File Object](/docs/references/cloud/models/file)
+
+---
+
+- `buckets.*.files.*.update`
+- This event triggers when a file is updated.
+  Returns [File Object](/docs/references/cloud/models/file)
+
+---
+
+- `buckets.*.update`
+- This event triggers when a bucket is updated.
+  Returns [Bucket Object](/docs/references/cloud/models/bucket)
+
+{% /table %}
+
+{% /accordion_item %}
+{% accordion_item title="Functions" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `functions.*`
+- This event triggers on any functions event.
+  Returns [Function Object](/docs/references/cloud/models/function)
+
+---
+
+- `functions.*.create`
+- This event triggers when a function is created.
+  Returns [Function Object](/docs/references/cloud/models/function)
+
+---
+
+- `functions.*.delete`
+- This event triggers when a function is deleted.
+  Returns [Function Object](/docs/references/cloud/models/function)
+
+---
+
+- `functions.*.deployments.*`
+- This event triggers on any deployments event.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `functions.*.deployments.*.create`
+- This event triggers when a deployment is created.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `functions.*.deployments.*.delete`
+- This event triggers when a deployment is deleted.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `functions.*.deployments.*.update`
+- This event triggers when a deployment is updated.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `functions.*.executions.*`
+- This event triggers on any executions event.
+  Returns [Execution Object](/docs/references/cloud/models/execution)
+
+---
+
+- `functions.*.executions.*.create`
+- This event triggers when an execution is created.
+  Returns [Execution Object](/docs/references/cloud/models/execution)
+
+---
+
+- `functions.*.executions.*.delete`
+- This event triggers when an execution is deleted.
+  Returns [Execution Object](/docs/references/cloud/models/execution)
+
+---
+
+- `functions.*.executions.*.update`
+- This event triggers when an execution is updated.
+  Returns [Execution Object](/docs/references/cloud/models/execution)
+
+---
+
+- `functions.*.update`
+- This event triggers when a function is updated.
+  Returns [Function Object](/docs/references/cloud/models/function)
+
+{% /table %}
+
+{% /accordion_item %}
+{% accordion_item title="Sites" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `sites.*`
+- This event triggers on any sites event.
+  Returns [Site Object](/docs/references/cloud/models/site)
+
+---
+
+- `sites.*.create`
+- This event triggers when a site is created.
+  Returns [Site Object](/docs/references/cloud/models/site)
+
+---
+
+- `sites.*.delete`
+- This event triggers when a site is deleted.
+  Returns [Site Object](/docs/references/cloud/models/site)
+
+---
+
+- `sites.*.deployments.*`
+- This event triggers on any deployments event.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `sites.*.deployments.*.create`
+- This event triggers when a deployment is created.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `sites.*.deployments.*.delete`
+- This event triggers when a deployment is deleted.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `sites.*.deployments.*.update`
+- This event triggers when a deployment is updated.
+  Returns [Deployment Object](/docs/references/cloud/models/deployment)
+
+---
+
+- `sites.*.update`
+- This event triggers when a site is updated.
+  Returns [Site Object](/docs/references/cloud/models/site)
+
+{% /table %}
+
+{% /accordion_item %}
+{% accordion_item title="Messaging" %}
+{% table %}
+
+- Name
+- Description
+
+---
+
+- `providers.*`
+- This event triggers on any providers event.
+  Returns [Provider Object](/docs/references/cloud/models/provider)
+
+---
+
+- `providers.*.create`
+- This event triggers when a provider is created.
+  Returns [Provider Object](/docs/references/cloud/models/provider)
+
+---
+
+- `providers.*.delete`
+- This event triggers when a provider is deleted.
+  Returns [Provider Object](/docs/references/cloud/models/provider)
+
+---
+
+- `providers.*.update`
+- This event triggers when a provider is updated.
+  Returns [Provider Object](/docs/references/cloud/models/provider)
+
+---
+
+- `topics.*`
+- This event triggers on any topic event.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.create`
+- This event triggers when a topic is created.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.delete`
+- This event triggers when a topic is deleted.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.update`
+- This event triggers when a topic is updated.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.subscribers.*.create`
+- This event triggers when a subscriber to a topic is created.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `topics.*.subscribers.*.delete`
+- This event triggers when a subscriber to a topic is deleted.
+  Returns [Topic Object](/docs/references/cloud/models/topic)
+
+---
+
+- `messages.*`
+- This event triggers on any message event.
+  Returns [Message Object](/docs/references/cloud/models/message)
+
+---
+
+- `messages.*.create`
+- This event triggers when a message is created.
+  Returns [Message Object](/docs/references/cloud/models/message)
+
+---
+
+- `messages.*.delete`
+- This event triggers when a message is deleted.
+  Returns [Message Object](/docs/references/cloud/models/message)
+
+---
+
+- `messages.*.update`
+- This event triggers when a message is updated.
+  Returns [Message Object](/docs/references/cloud/models/message)
+
+{% /table %}
+
+{% /accordion_item %}
+{% /accordion %}
+
+# Known limitations {% #known-limitations %}
+
+When events fire, only existing subscriptions for that event will receive the update. If your client or server side integrations lose network connection temporarily, delivery of the event is not guaranteed.
+
+For self-hosted instances, when the Clikkle containers are shut down and restarted, events with pending webhooks and subscription updates will not be delivered.
+
+A change to a resource can cause multiple events to fire. For example adding a new row with ID `"lion-king"` to a table with the ID `"movies"` will cause all of the below events to fire.
+
+```json
+{
+  "events": [
+      "tablesdb.default.tables.movies.rows.lion-king.create",
+      "tablesdb.*.tables.*.rows.*.create",
+      "tablesdb.default.tables.*.rows.lion-king.create",
+      "tablesdb.*.tables.*.rows.lion-king.create",
+      "tablesdb.*.tables.movies.rows.lion-king.create",
+      "tablesdb.default.tables.movies.rows.*.create",
+      "tablesdb.*.tables.movies.rows.*.create",
+      "tablesdb.default.tables.*.rows.*.create",
+      "tablesdb.default.tables.movies.rows.lion-king",
+      "tablesdb.*.tables.*.rows.*",
+      "tablesdb.default.tables.*.rows.lion-king",
+      "tablesdb.*.tables.*.rows.lion-king",
+      "tablesdb.*.tables.movies.rows.lion-king",
+      "tablesdb.default.tables.movies.rows.*",
+      "tablesdb.*.tables.movies.rows.*",
+      "tablesdb.default.tables.*.rows.*",
+      "tablesdb.default.tables.movies",
+      "tablesdb.*.tables.*",
+      "tablesdb.default.tables.*",
+      "tablesdb.*.tables.movies",
+      "tablesdb.default",
+      "tablesdb.*"
+  ]
+}
+```
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Events"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle provides a variety of events that allows your application to react to changes as they happen."," ","An event will fire when a change occurs in your Clikkle project, like when a new user registers or a new file is uploaded to Clikkle."," ","You can subscribe to these events with Clikkle ",["$","$Le",null,{"href":"/docs/products/functions","children":"Functions"}],", ",["$","$Le",null,{"href":"/docs/apis/realtime","children":"Realtime"}],", or ",["$","$Le",null,{"href":"/docs/advanced/platform/webhooks","children":"Webhooks"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can subscribe to events for specific resources using their ID or subscribe to changes of all resources of the same type by using a wildcard character * instead of an ID."," ","You can also filter for events of specific actions like create, update, upsert, or delete."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can find a list of events for Storage, Databases, Functions, Sites, and Authentication services below."}],["$","ul",null,{"className":"collapsible not-prose w-full","style":{"--p-toggle-border-color":"var(--web-color-border)"},"children":[["$","li",null,{"className":"collapsible-item","children":["$","details",null,{"className":"collapsible-wrapper group","open":false,"children":[["$","summary",null,{"className":"collapsible-button flex cursor-pointer list-none appearance-none items-center justify-between marker:hidden [&::-webkit-details-marker]:hidden","children":[["$","span",null,{"className":"text-primary text-sub-body font-medium","children":"Authentication"}],["$","div",null,{"className":"icon text-primary transition-transform group-[&[open]]:rotate-180","children":["$","span",null,{"className":"icon-cheveron-down","aria-hidden":"true"}]}]]}],["$","div",null,{"className":"collapsible-content text-secondary text-sub-body flex flex-col","children":["$","$Lf",null,{"children":["$","$L10",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Name"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any teams event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/team","children":"Team Object"}]]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"$L11"}]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c"]}]]}]}]}]]}]}],"$L2d"]}]]}]}]]}],"$L2e"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","div",null,{"className":"web-references-menu-content"}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L2f",null,{"children":["$","$30",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
+11:["$","code",null,{"children":"teams.*.create"}]
+12:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a team is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/team","children":"Team Object"}]]}]}]
+13:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a team is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/team","children":"Team Object"}]]}]}]]}]
+14:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*.memberships.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any team memberships event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/membership","children":"Membership Object"}]]}]}]]}]
+15:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*.memberships.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a membership is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/membership","children":"Membership Object"}]]}]}]]}]
+16:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*.memberships.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a membership is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/membership","children":"Membership Object"}]]}]}]]}]
+17:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*.memberships.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a membership is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/membership","children":"Membership Object"}]]}]}]]}]
+18:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*.memberships.*.update.status"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a team memberships status is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/membership","children":"Membership Object"}]]}]}]]}]
+19:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a team is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/team","children":"Team Object"}]]}]}]]}]
+1a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"teams.*.update.prefs"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a team's preferences are updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/team","children":"Team Object"}]]}]}]]}]
+1b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any user's event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+1c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a user is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+1d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a user is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+1e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.recovery.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any user's recovery token event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/token","children":"Token Object"}]]}]}]]}]
+1f:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.recovery.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a recovery token for a user is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/token","children":"Token Object"}]]}]}]]}]
+20:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.recovery.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a recovery token for a user is validated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/token","children":"Token Object"}]]}]}]]}]
+21:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.sessions.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any user's sessions event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/session","children":"Session Object"}]]}]}]]}]
+22:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.sessions.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a session for a user is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/session","children":"Session Object"}]]}]}]]}]
+23:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.sessions.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a session for a user is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/session","children":"Session Object"}]]}]}]]}]
+24:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a user is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+25:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.update.email"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a user's email address is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+26:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.update.name"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a user's name is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+27:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.update.password"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a user's password is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+28:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.update.prefs"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a user's preferences is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+29:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.update.status"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a user's status is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/user","children":"User Object"}]]}]}]]}]
+2a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.verification.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any user's verification token event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/token","children":"Token Object"}]]}]}]]}]
+2b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.verification.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a verification token for a user is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/token","children":"Token Object"}]]}]}]]}]
+2c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users.*.verification.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a verification token for a user is validated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/token","children":"Token Object"}]]}]}]]}]
+2d:["$","li",null,{"className":"collapsible-item","children":["$","details",null,{"className":"collapsible-wrapper group","open":false,"children":[["$","summary",null,{"className":"collapsible-button flex cursor-pointer list-none appearance-none items-center justify-between marker:hidden [&::-webkit-details-marker]:hidden","children":[["$","span",null,{"className":"text-primary text-sub-body font-medium","children":"Databases"}],["$","div",null,{"className":"icon text-primary transition-transform group-[&[open]]:rotate-180","children":["$","span",null,{"className":"icon-cheveron-down","aria-hidden":"true"}]}]]}],["$","div",null,{"className":"collapsible-content text-secondary text-sub-body flex flex-col","children":["$","$Lf",null,{"children":["$","$L10",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Name"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any database event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/database","children":"Database Object"}]]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any table event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/table","children":"Table Object"}]]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.columns.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any columns event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/columnList","children":"Column Object"}]]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.columns.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a column is created."," ","Returns ","$L32"]}]}]]}],"$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43"]}]]}]}]}]]}]}]
+2e:["$","$L44",null,{}]
+31:null
+32:["$","$Le",null,{"href":"/docs/references/cloud/models/columnList","children":"Column Object"}]
+33:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.columns.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a column is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/columnList","children":"Column Object"}]]}]}]]}]
+34:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.columns.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a column is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/columnList","children":"Column Object"}]]}]}]]}]
+35:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a table is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/table","children":"Table Object"}]]}]}]]}]
+36:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a table is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/table","children":"Table Object"}]]}]}]]}]
+37:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.rows.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any rows event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/row","children":"Row Object"}]]}]}]]}]
+38:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.rows.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a row is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/row","children":"Row Object"}]]}]}]]}]
+39:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.rows.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a row is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/row","children":"Row Object"}]]}]}]]}]
+3a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.rows.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a row is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/row","children":"Row Object"}]]}]}]]}]
+3b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.rows.*.upsert"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a row is upserted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/row","children":"Row Object"}]]}]}]]}]
+3c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.indexes.*"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers on any indexes event."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/columnIndex","children":"Index Object"}]]}]}]]}]
+3d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.indexes.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when an index is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/columnIndex","children":"Index Object"}]]}]}]]}]
+3e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.indexes.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when an index is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/columnIndex","children":"Index Object"}]]}]}]]}]
+3f:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.indexes.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when an index is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/columnIndex","children":"Index Object"}]]}]}]]}]
+40:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.tables.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a table is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/table","children":"Table Object"}]]}]}]]}]
+41:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.create"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a database is created."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/database","children":"Database Object"}]]}]}]]}]
+42:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.delete"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a database is deleted."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/database","children":"Database Object"}]]}]}]]}]
+43:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"tablesdb.*.update"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This event triggers when a database is updated."," ","Returns ",["$","$Le",null,{"href":"/docs/references/cloud/models/database","children":"Database Object"}],["$","$Lf",null,{}]]}]}]]}]

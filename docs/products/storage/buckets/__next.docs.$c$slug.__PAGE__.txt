@@ -1,0 +1,618 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+10:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+11:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+12:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+13:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+2b:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+2c:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+2d:"$Sreact.suspense"
+2f:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T212b,---
+layout: article
+title: Buckets
+description: Organize and manage your files effectively with Clikkle Storage Buckets. Explore how to create, configure, and use storage buckets for seamless file organization.
+---
+
+Storage buckets are a group of files, similar to tables in Clikkle Databases.
+Buckets let you limit file size and extensions, whether or not to encrypt the files, and more.
+
+# Create Bucket {% #create-bucket %}
+You can create your bucket from the Clikkle Console, a [Server SDK](/docs/sdks#server), or the [CLI](/docs/tooling/command-line/buckets).
+
+{% tabs %}
+{% tabsitem #console title="Console" %}
+You can create a bucket by heading to the **Storage** page and clicking **Create bucket**.
+
+{% only_dark %}
+![Create bucket on console](/clikkle/images/docs/storage/dark/create-bucket.png)
+{% /only_dark %}
+{% only_light %}
+![Create bucket on console](/clikkle/images/docs/storage/create-bucket.png)
+{% /only_light %}
+{% /tabsitem %}
+
+{% tabsitem #server-sdk title="Server SDK" %}
+You can also create tables programmatically using a [Server SDK](/docs/sdks#server). Clikkle [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
+
+{% multicode %}
+
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const storage = new sdk.Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const promise = storage.createBucket({
+    bucketId: '<BUCKET_ID>',
+    name: '<NAME>'
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let storage = new sdk.Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+
+let promise = storage.createBucket({
+    bucketId: '<BUCKET_ID>',
+    name: '<NAME>'
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Storage;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>') // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$storage = new Storage($client);
+
+$result = $storage->createBucket('<BUCKET_ID>', '<NAME>');
+```
+```python
+from clikkle.client import Client
+from clikkle.services.storage import Storage
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>') # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+storage = Storage(client)
+
+result = storage.create_bucket('<BUCKET_ID>', '<NAME>')
+```
+```ruby
+require 'Clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>') # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+storage = Storage.new(client)
+
+response = storage.create_bucket(bucket_id: '<BUCKET_ID>', name: '<NAME>')
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>") // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var storage = new Storage(client);
+
+Bucket result = await storage.CreateBucket(
+    bucketId: "<BUCKET_ID>",
+    name: "<NAME>");
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = storage.createBucket(
+    bucketId: '<BUCKET_ID>',
+    name: '<NAME>',
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+val storage = Storage(client)
+
+val response = storage.createBucket(
+    bucketId = "<BUCKET_ID>",
+    name = "<NAME>",
+)
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Storage;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Storage storage = new Storage(client);
+
+storage.createBucket(
+    "<BUCKET_ID>",
+    "<NAME>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let storage = Storage(client)
+
+let bucket = try await storage.createBucket(
+    bucketId: "<BUCKET_ID>",
+    name: "<NAME>"
+)
+
+```
+{% /multicode %}
+
+You can also configure permission, file size and extension restrictions, and more in the `createBucket` method, learn more about the `createBucket` in the [API references](/docs/references/cloud/server-nodejs/storage#createBucket).
+{% /tabsitem %}
+
+{% tabsitem #cli title="CLI" %}
+
+Create a bucket using the CLI command `clikkle init buckets`.
+
+```sh
+clikkle init buckets
+```
+
+This will initialize your bucket in your `clikkle.config.json` file. To push your initialized bucket, use the `clikkle push buckets`.
+
+```sh
+clikkle push buckets
+```
+
+This will create your bucket in the Console with all of your `clikkle.config.json` configurations.
+
+{% arrow_link href="/docs/tooling/command-line/buckets#commands" %}
+Learn more about the CLI buckets commands
+{% /arrow_link %}
+
+{% /tabsitem %}
+{% /tabs %}
+
+# Permissions {% #permissions %}
+Clikkle uses permissions to control file access.
+For security, only users that are granted permissions can access a file.
+This helps prevent accidental data leaks by forcing you to make more concious decisions around permissions.
+
+By default, Clikkle doesn't grants permissions to any users when a new bucket is created.
+This means users can't create new files or read, update, and delete existing files.
+
+[Learn about configuring permissions](/docs/products/storage/permissions).
+
+# Encryption {% #encryption %}
+Clikkle provides added security settings for your buckets. Enable encryption under your bucket's **Settings** > **Security settings**.
+You can enable encryption to encrypt files in your buckets. If your files are leaked, encrypted files cannot be read by the malicious actor.
+Files bigger than 20MB cannot be encrypted.
+
+# Compression {% #compression %}
+Clikkle allows you to compress your files.
+Two algorithms are available, which are [gzip](https://www.gzip.org/) and [zstd](https://github.com/facebook/zstd).
+You can enable compress under your bucket's **Settings** > **Compression**.
+For files larger than 20MB, compression will be skipped even when enabled.
+
+# Maximum file size {% #max-size %}
+Limit the maximum file size allowed in the bucket to prevent abuse.
+You can configure maximum file size under your bucket's **Settings** > **Maximum file size**.
+
+# File extensions {% #extensions %}
+Limit the file extensions allowed in the bucket to prevent abuse. A maximum of 100 file extensions can be added. Leave blank to allow all file types.
+You can configure maximum file size under your bucket's **Settings** > **File extensions**.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T212b,---
+layout: article
+title: Buckets
+description: Organize and manage your files effectively with Clikkle Storage Buckets. Explore how to create, configure, and use storage buckets for seamless file organization.
+---
+
+Storage buckets are a group of files, similar to tables in Clikkle Databases.
+Buckets let you limit file size and extensions, whether or not to encrypt the files, and more.
+
+# Create Bucket {% #create-bucket %}
+You can create your bucket from the Clikkle Console, a [Server SDK](/docs/sdks#server), or the [CLI](/docs/tooling/command-line/buckets).
+
+{% tabs %}
+{% tabsitem #console title="Console" %}
+You can create a bucket by heading to the **Storage** page and clicking **Create bucket**.
+
+{% only_dark %}
+![Create bucket on console](/clikkle/images/docs/storage/dark/create-bucket.png)
+{% /only_dark %}
+{% only_light %}
+![Create bucket on console](/clikkle/images/docs/storage/create-bucket.png)
+{% /only_light %}
+{% /tabsitem %}
+
+{% tabsitem #server-sdk title="Server SDK" %}
+You can also create tables programmatically using a [Server SDK](/docs/sdks#server). Clikkle [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
+
+{% multicode %}
+
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const storage = new sdk.Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const promise = storage.createBucket({
+    bucketId: '<BUCKET_ID>',
+    name: '<NAME>'
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let storage = new sdk.Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+
+let promise = storage.createBucket({
+    bucketId: '<BUCKET_ID>',
+    name: '<NAME>'
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Storage;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>') // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$storage = new Storage($client);
+
+$result = $storage->createBucket('<BUCKET_ID>', '<NAME>');
+```
+```python
+from clikkle.client import Client
+from clikkle.services.storage import Storage
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>') # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+storage = Storage(client)
+
+result = storage.create_bucket('<BUCKET_ID>', '<NAME>')
+```
+```ruby
+require 'Clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>') # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+storage = Storage.new(client)
+
+response = storage.create_bucket(bucket_id: '<BUCKET_ID>', name: '<NAME>')
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>") // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var storage = new Storage(client);
+
+Bucket result = await storage.CreateBucket(
+    bucketId: "<BUCKET_ID>",
+    name: "<NAME>");
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = storage.createBucket(
+    bucketId: '<BUCKET_ID>',
+    name: '<NAME>',
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+val storage = Storage(client)
+
+val response = storage.createBucket(
+    bucketId = "<BUCKET_ID>",
+    name = "<NAME>",
+)
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Storage;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Storage storage = new Storage(client);
+
+storage.createBucket(
+    "<BUCKET_ID>",
+    "<NAME>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let storage = Storage(client)
+
+let bucket = try await storage.createBucket(
+    bucketId: "<BUCKET_ID>",
+    name: "<NAME>"
+)
+
+```
+{% /multicode %}
+
+You can also configure permission, file size and extension restrictions, and more in the `createBucket` method, learn more about the `createBucket` in the [API references](/docs/references/cloud/server-nodejs/storage#createBucket).
+{% /tabsitem %}
+
+{% tabsitem #cli title="CLI" %}
+
+Create a bucket using the CLI command `clikkle init buckets`.
+
+```sh
+clikkle init buckets
+```
+
+This will initialize your bucket in your `clikkle.config.json` file. To push your initialized bucket, use the `clikkle push buckets`.
+
+```sh
+clikkle push buckets
+```
+
+This will create your bucket in the Console with all of your `clikkle.config.json` configurations.
+
+{% arrow_link href="/docs/tooling/command-line/buckets#commands" %}
+Learn more about the CLI buckets commands
+{% /arrow_link %}
+
+{% /tabsitem %}
+{% /tabs %}
+
+# Permissions {% #permissions %}
+Clikkle uses permissions to control file access.
+For security, only users that are granted permissions can access a file.
+This helps prevent accidental data leaks by forcing you to make more concious decisions around permissions.
+
+By default, Clikkle doesn't grants permissions to any users when a new bucket is created.
+This means users can't create new files or read, update, and delete existing files.
+
+[Learn about configuring permissions](/docs/products/storage/permissions).
+
+# Encryption {% #encryption %}
+Clikkle provides added security settings for your buckets. Enable encryption under your bucket's **Settings** > **Security settings**.
+You can enable encryption to encrypt files in your buckets. If your files are leaked, encrypted files cannot be read by the malicious actor.
+Files bigger than 20MB cannot be encrypted.
+
+# Compression {% #compression %}
+Clikkle allows you to compress your files.
+Two algorithms are available, which are [gzip](https://www.gzip.org/) and [zstd](https://github.com/facebook/zstd).
+You can enable compress under your bucket's **Settings** > **Compression**.
+For files larger than 20MB, compression will be skipped even when enabled.
+
+# Maximum file size {% #max-size %}
+Limit the maximum file size allowed in the bucket to prevent abuse.
+You can configure maximum file size under your bucket's **Settings** > **Maximum file size**.
+
+# File extensions {% #extensions %}
+Limit the file extensions allowed in the bucket to prevent abuse. A maximum of 100 file extensions can be added. Leave blank to allow all file types.
+You can configure maximum file size under your bucket's **Settings** > **File extensions**.
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Buckets"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Storage buckets are a group of files, similar to tables in Clikkle Databases."," ","Buckets let you limit file size and extensions, whether or not to encrypt the files, and more."]}],["$","$Le",null,{"id":"create-bucket","level":1,"children":"Create Bucket "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can create your bucket from the Clikkle Console, a ",["$","$Lf",null,{"href":"/docs/sdks#server","children":"Server SDK"}],", or the ",["$","$Lf",null,{"href":"/docs/tooling/command-line/buckets","children":"CLI"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"id":"console","title":"Console","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can create a bucket by heading to the ",["$","strong",null,{"children":"Storage"}]," page and clicking ",["$","strong",null,{"children":"Create bucket"}],"."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/storage/dark/create-bucket.png","alt":"Create bucket on console","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/storage/create-bucket.png","alt":"Create bucket on console","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]]}],["$","$L11",null,{"id":"server-sdk","title":"Server SDK","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also create tables programmatically using a ",["$","$Lf",null,{"href":"/docs/sdks#server","children":"Server SDK"}],". Clikkle ",["$","$Lf",null,{"href":"/docs/sdks#server","children":"Server SDKs"}]," require an ",["$","$Lf",null,{"href":"/docs/advanced/platform/api-keys","children":"API key"}],"."]}],["$","$L12",null,{"children":[["$","$L13",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst storage = new sdk.Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst promise = storage.createBucket({\n    bucketId: '<BUCKET_ID>',\n    name: '<NAME>'\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst storage = new sdk.Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst promise = storage.createBucket({\n    bucketId: '<BUCKET_ID>',\n    name: '<NAME>'\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],["$","$L13",null,{"language":"deno","content":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet storage = new sdk.Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n\nlet promise = storage.createBucket({\n    bucketId: '<BUCKET_ID>',\n    name: '<NAME>'\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet storage = new sdk.Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n\nlet promise = storage.createBucket({\n    bucketId: '<BUCKET_ID>',\n    name: '<NAME>'\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}],"$L1c"]}],"$L1d"]}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]]}],"$L2a"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L2b",null,{"items":[{"id":"create-bucket","title":"Create Bucket","level":1},{"id":"permissions","title":"Permissions","level":1},{"id":"encryption","title":"Encryption","level":1},{"id":"compression","title":"Compression","level":1},{"id":"max-size","title":"Maximum file size","level":1},{"id":"extensions","title":"File extensions","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L2c",null,{"children":["$","$2d",null,{"name":"Next.MetadataOutlet","children":"$@2e"}]}]
+14:["$","$L13",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Storage;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>') // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$storage = new Storage($client);\n\n$result = $storage->createBucket('<BUCKET_ID>', '<NAME>');\n","children":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Storage;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>') // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$storage = new Storage($client);\n\n$result = $storage->createBucket('<BUCKET_ID>', '<NAME>');\n"}]
+15:["$","$L13",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.services.storage import Storage\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>') # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nstorage = Storage(client)\n\nresult = storage.create_bucket('<BUCKET_ID>', '<NAME>')\n","children":"from clikkle.client import Client\nfrom clikkle.services.storage import Storage\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>') # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nstorage = Storage(client)\n\nresult = storage.create_bucket('<BUCKET_ID>', '<NAME>')\n"}]
+16:["$","$L13",null,{"language":"ruby","content":"require 'Clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>') # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nstorage = Storage.new(client)\n\nresponse = storage.create_bucket(bucket_id: '<BUCKET_ID>', name: '<NAME>')\n\nputs response.inspect\n","children":"require 'Clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>') # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nstorage = Storage.new(client)\n\nresponse = storage.create_bucket(bucket_id: '<BUCKET_ID>', name: '<NAME>')\n\nputs response.inspect\n"}]
+17:["$","$L13",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\") // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar storage = new Storage(client);\n\nBucket result = await storage.CreateBucket(\n    bucketId: \"<BUCKET_ID>\",\n    name: \"<NAME>\");\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\") // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar storage = new Storage(client);\n\nBucket result = await storage.CreateBucket(\n    bucketId: \"<BUCKET_ID>\",\n    name: \"<NAME>\");\n"}]
+18:["$","$L13",null,{"language":"dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n  ;\n\n  Future result = storage.createBucket(\n    bucketId: '<BUCKET_ID>',\n    name: '<NAME>',\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n  ;\n\n  Future result = storage.createBucket(\n    bucketId: '<BUCKET_ID>',\n    name: '<NAME>',\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n"}]
+19:["$","$L13",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Storage\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nval storage = Storage(client)\n\nval response = storage.createBucket(\n    bucketId = \"<BUCKET_ID>\",\n    name = \"<NAME>\",\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Storage\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nval storage = Storage(client)\n\nval response = storage.createBucket(\n    bucketId = \"<BUCKET_ID>\",\n    name = \"<NAME>\",\n)\n"}]
+1a:["$","$L13",null,{"language":"java","content":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Storage;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nStorage storage = new Storage(client);\n\nstorage.createBucket(\n    \"<BUCKET_ID>\",\n    \"<NAME>\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(result);\n    })\n);\n","children":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Storage;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nStorage storage = new Storage(client);\n\nstorage.createBucket(\n    \"<BUCKET_ID>\",\n    \"<NAME>\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(result);\n    })\n);\n"}]
+1b:["$","$L13",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet storage = Storage(client)\n\nlet bucket = try await storage.createBucket(\n    bucketId: \"<BUCKET_ID>\",\n    name: \"<NAME>\"\n)\n\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet storage = Storage(client)\n\nlet bucket = try await storage.createBucket(\n    bucketId: \"<BUCKET_ID>\",\n    name: \"<NAME>\"\n)\n\n"}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also configure permission, file size and extension restrictions, and more in the ",["$","code",null,{"children":"createBucket"}]," method, learn more about the ",["$","code",null,{"children":"createBucket"}]," in the ",["$","$Lf",null,{"href":"/docs/references/cloud/server-nodejs/storage#createBucket","children":"API references"}],"."]}]
+1d:["$","$L11",null,{"id":"cli","title":"CLI","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a bucket using the CLI command ",["$","code",null,{"children":"clikkle init buckets"}],"."]}],["$","$L13",null,{"language":"sh","content":"clikkle init buckets\n","children":"clikkle init buckets\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will initialize your bucket in your ",["$","code",null,{"children":"clikkle.config.json"}]," file. To push your initialized bucket, use the ",["$","code",null,{"children":"clikkle push buckets"}],"."]}],["$","$L13",null,{"language":"sh","content":"clikkle push buckets\n","children":"clikkle push buckets\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will create your bucket in the Console with all of your ",["$","code",null,{"children":"clikkle.config.json"}]," configurations."]}],["$","$Lf",null,{"href":"/docs/tooling/command-line/buckets#commands","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn more about the CLI buckets commands"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]]}]
+1e:["$","$Le",null,{"id":"permissions","level":1,"children":"Permissions "}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle uses permissions to control file access."," ","For security, only users that are granted permissions can access a file."," ","This helps prevent accidental data leaks by forcing you to make more concious decisions around permissions."]}]
+20:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["By default, Clikkle doesn't grants permissions to any users when a new bucket is created."," ","This means users can't create new files or read, update, and delete existing files."]}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$Lf",null,{"href":"/docs/products/storage/permissions","children":"Learn about configuring permissions"}],"."]}]
+22:["$","$Le",null,{"id":"encryption","level":1,"children":"Encryption "}]
+23:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle provides added security settings for your buckets. Enable encryption under your bucket's ",["$","strong",null,{"children":"Settings"}]," > ",["$","strong",null,{"children":"Security settings"}],"."," ","You can enable encryption to encrypt files in your buckets. If your files are leaked, encrypted files cannot be read by the malicious actor."," ","Files bigger than 20MB cannot be encrypted."]}]
+24:["$","$Le",null,{"id":"compression","level":1,"children":"Compression "}]
+25:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle allows you to compress your files."," ","Two algorithms are available, which are ",["$","a",null,{"href":"https://www.gzip.org/","target":"_blank","rel":"noopener nofollow","children":"gzip"}]," and ",["$","a",null,{"href":"https://github.com/facebook/zstd","target":"_blank","rel":"noopener nofollow","children":"zstd"}],"."," ","You can enable compress under your bucket's ",["$","strong",null,{"children":"Settings"}]," > ",["$","strong",null,{"children":"Compression"}],"."," ","For files larger than 20MB, compression will be skipped even when enabled."]}]
+26:["$","$Le",null,{"id":"max-size","level":1,"children":"Maximum file size "}]
+27:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Limit the maximum file size allowed in the bucket to prevent abuse."," ","You can configure maximum file size under your bucket's ",["$","strong",null,{"children":"Settings"}]," > ",["$","strong",null,{"children":"Maximum file size"}],"."]}]
+28:["$","$Le",null,{"id":"extensions","level":1,"children":"File extensions "}]
+29:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Limit the file extensions allowed in the bucket to prevent abuse. A maximum of 100 file extensions can be added. Leave blank to allow all file types."," ","You can configure maximum file size under your bucket's ",["$","strong",null,{"children":"Settings"}]," > ",["$","strong",null,{"children":"File extensions"}],"."]}]
+2a:["$","$L2f",null,{}]
+2e:null

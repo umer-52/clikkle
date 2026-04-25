@@ -1,0 +1,109 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+b:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+c:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+d:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+10:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+11:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T7ac,---
+layout: article
+title: Migrate from Cloud
+description: Self-hosted application migration made easy with Clikkle. Discover the steps and strategies for migrating your self-hosted apps to Clikkle's managed platform.
+difficulty: beginner
+readtime: 10
+---
+  
+Migrations make it as easy as a couple of clicks to move all your Clikkle Cloud data into a self-hosted instance.
+
+{% section #notices step=1 title="Things to keep in mind" %}
+
+1. Data transferred by migrations will reset `$createdAt` and `$updatedAt` timestamps to the date of the migration.
+
+2. Your self-hosted Clikkle project must be accessible from the internet for the migration to work.
+
+3. Migrations are non-destructive. No data will be deleted or lost in the source project.
+
+{% /section %}
+
+{% section #create-migration step=2 title="Create migration" %}
+
+To begin migrating to self-hosted, make sure to read the [migration overview](/docs/advanced/migrations) and [things to keep in mind](#notices) sections above.
+
+1. Navigate to your Cloud project's console, navigate to **Settings** and click on the **Migrations** tab.
+
+1. Under **Export to self-hosted instance**, click **Export data**.
+
+1. You will complete the migration on your self-hosted instance.
+
+{% /section %}
+
+{% section #continue-on-self-hosted step=3 title="Continue on self-hosted" %}
+
+1. Once redirected to your self-hosted project, you'll be prompted to select an organization and a project. You can migrate to an existing project or create a new one.
+
+1. Select the data you wish to migrate. You can choose among accounts, databases, rows, files, functions, and sites.
+
+1. Click **Start Migration** to start the migration process. You do not need to keep the Clikkle Console open through the process.
+
+{% info title="Keep in mind" %}
+Your self-hosted instance will generate an API Key in the background to pass to Clikkle Cloud. You can revoke this key after the migration process is complete.
+{% /info %}
+{% /section %}
+
+4:T7ac,---
+layout: article
+title: Migrate from Cloud
+description: Self-hosted application migration made easy with Clikkle. Discover the steps and strategies for migrating your self-hosted apps to Clikkle's managed platform.
+difficulty: beginner
+readtime: 10
+---
+  
+Migrations make it as easy as a couple of clicks to move all your Clikkle Cloud data into a self-hosted instance.
+
+{% section #notices step=1 title="Things to keep in mind" %}
+
+1. Data transferred by migrations will reset `$createdAt` and `$updatedAt` timestamps to the date of the migration.
+
+2. Your self-hosted Clikkle project must be accessible from the internet for the migration to work.
+
+3. Migrations are non-destructive. No data will be deleted or lost in the source project.
+
+{% /section %}
+
+{% section #create-migration step=2 title="Create migration" %}
+
+To begin migrating to self-hosted, make sure to read the [migration overview](/docs/advanced/migrations) and [things to keep in mind](#notices) sections above.
+
+1. Navigate to your Cloud project's console, navigate to **Settings** and click on the **Migrations** tab.
+
+1. Under **Export to self-hosted instance**, click **Export data**.
+
+1. You will complete the migration on your self-hosted instance.
+
+{% /section %}
+
+{% section #continue-on-self-hosted step=3 title="Continue on self-hosted" %}
+
+1. Once redirected to your self-hosted project, you'll be prompted to select an organization and a project. You can migrate to an existing project or create a new one.
+
+1. Select the data you wish to migrate. You can choose among accounts, databases, rows, files, functions, and sites.
+
+1. Click **Start Migration** to start the migration process. You do not need to keep the Clikkle Console open through the process.
+
+{% info title="Keep in mind" %}
+Your self-hosted instance will generate an API Key in the background to pass to Clikkle Cloud. You can revoke this key after the migration process is complete.
+{% /info %}
+{% /section %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],["$","ul",null,{"className":"web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50","children":[["$","li",null,{"children":"beginner"}],["$","li",null,{"className":"text-[var(--color-border-strong)] dark:text-white/25","aria-hidden":true,"children":"•"}],["$","li",null,{"children":[10," min"]}]]}],["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Migrate from Cloud"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$4","className":"ml-0"}]}]]}]]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+5:["$","$Lb",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Lc",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Migrations make it as easy as a couple of clicks to move all your Clikkle Cloud data into a self-hosted instance."}],["$","$Ld",null,{"id":"notices","step":1,"title":"Things to keep in mind","children":["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Data transferred by migrations will reset ",["$","code",null,{"children":"$$createdAt"}]," and ",["$","code",null,{"children":"$$updatedAt"}]," timestamps to the date of the migration."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Your self-hosted Clikkle project must be accessible from the internet for the migration to work."}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Migrations are non-destructive. No data will be deleted or lost in the source project."}]}]]}]}],["$","$Ld",null,{"id":"create-migration","step":2,"title":"Create migration","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To begin migrating to self-hosted, make sure to read the ",["$","$Le",null,{"href":"/docs/advanced/migrations","children":"migration overview"}]," and ",["$","$Le",null,{"href":"#notices","children":"things to keep in mind"}]," sections above."]}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Navigate to your Cloud project's console, navigate to ",["$","strong",null,{"children":"Settings"}]," and click on the ",["$","strong",null,{"children":"Migrations"}]," tab."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Under ",["$","strong",null,{"children":"Export to self-hosted instance"}],", click ",["$","strong",null,{"children":"Export data"}],"."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You will complete the migration on your self-hosted instance."}]}]]}]]}],["$","$Ld",null,{"id":"continue-on-self-hosted","step":3,"title":"Continue on self-hosted","children":[["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Once redirected to your self-hosted project, you'll be prompted to select an organization and a project. You can migrate to an existing project or create a new one."}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Select the data you wish to migrate. You can choose among accounts, databases, rows, files, functions, and sites."}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Click ",["$","strong",null,{"children":"Start Migration"}]," to start the migration process. You do not need to keep the Clikkle Console open through the process."]}]}]]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Keep in mind"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Your self-hosted instance will generate an API Key in the background to pass to Clikkle Cloud. You can revoke this key after the migration process is complete."}]]}]]}]]}]}]]}],"$Lf"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L10",null,{"items":[{"id":"notices","title":"Things to keep in mind","level":2},{"id":"create-migration","title":"Create migration","level":2},{"id":"continue-on-self-hosted","title":"Continue on self-hosted","level":2}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+f:["$","$L14",null,{}]
+13:null

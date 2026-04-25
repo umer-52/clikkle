@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+b:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+c:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+d:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+e:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+14:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+15:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T945,---
+layout: article
+title: Scaling
+description: Learn how to scale your self-hosted Clikkle instance horizontally and vertically to handle increased load.
+---
+
+Clikkle is built with scalability in mind. Clikkle can scale both horizontally and vertically.
+
+Each Clikkle instance is composed of many containers, each with its unique job. Clikkle's functions and worker containers are stateless. To scale them, all you need is to replicate them and set up a load balancer to distribute their load.
+
+If you decide to set up a load balancer to scale a container, make sure **all** communication are routed through the load balancer and not directly to the replicated containers. You can configure communicating between Clikkle containers using Docker environment variables.
+
+Two Clikkle containers are stateful. The MariaDB and Redis containers are used for storing data, cache and pub/sub messaging, and usage stats, respectively. To scale these containers, set up a standard cluster (same as you would with any other app using these technologies) according to your needs and performance.
+
+# Performance considerations {% #performance-considerations %}
+
+You may want to adjust the `_APP_WORKER_PER_CORE` environment variable to optimize worker processes per CPU core based on your hardware:
+
+```bash
+_APP_WORKER_PER_CORE=<number_of_workers>
+```
+
+This setting affects the API, Realtime, and Executor containers and can be tuned according to your specific hardware specifications and workload requirements. The default value is 6.
+
+# Resource management considerations {% #resource-management %}
+
+When scaling Docker containers, consider implementing resource limits and monitoring:
+
+## Log rotation
+Consider configuring log rotation to prevent disk space issues:
+```yaml
+x-logging: &x-logging
+  logging:
+    driver: 'json-file'
+    options:
+      max-file: '<number_of_files>'
+      max-size: '<size_limit>'
+```
+
+## Redis memory management
+You may want to set memory limits for Redis to prevent out-of-memory issues:
+
+# Monitoring considerations {% #monitoring %}
+
+- **Health checks**: Consider implementing health check endpoints for services
+- **Resource monitoring**: Monitor CPU, memory, and disk usage as needed
+- **Log aggregation**: Centralized logging can help with debugging scaled deployments
+- **Alert thresholds**: Consider setting alerts for high resource usage
+
+
+
+4:T945,---
+layout: article
+title: Scaling
+description: Learn how to scale your self-hosted Clikkle instance horizontally and vertically to handle increased load.
+---
+
+Clikkle is built with scalability in mind. Clikkle can scale both horizontally and vertically.
+
+Each Clikkle instance is composed of many containers, each with its unique job. Clikkle's functions and worker containers are stateless. To scale them, all you need is to replicate them and set up a load balancer to distribute their load.
+
+If you decide to set up a load balancer to scale a container, make sure **all** communication are routed through the load balancer and not directly to the replicated containers. You can configure communicating between Clikkle containers using Docker environment variables.
+
+Two Clikkle containers are stateful. The MariaDB and Redis containers are used for storing data, cache and pub/sub messaging, and usage stats, respectively. To scale these containers, set up a standard cluster (same as you would with any other app using these technologies) according to your needs and performance.
+
+# Performance considerations {% #performance-considerations %}
+
+You may want to adjust the `_APP_WORKER_PER_CORE` environment variable to optimize worker processes per CPU core based on your hardware:
+
+```bash
+_APP_WORKER_PER_CORE=<number_of_workers>
+```
+
+This setting affects the API, Realtime, and Executor containers and can be tuned according to your specific hardware specifications and workload requirements. The default value is 6.
+
+# Resource management considerations {% #resource-management %}
+
+When scaling Docker containers, consider implementing resource limits and monitoring:
+
+## Log rotation
+Consider configuring log rotation to prevent disk space issues:
+```yaml
+x-logging: &x-logging
+  logging:
+    driver: 'json-file'
+    options:
+      max-file: '<number_of_files>'
+      max-size: '<size_limit>'
+```
+
+## Redis memory management
+You may want to set memory limits for Redis to prevent out-of-memory issues:
+
+# Monitoring considerations {% #monitoring %}
+
+- **Health checks**: Consider implementing health check endpoints for services
+- **Resource monitoring**: Monitor CPU, memory, and disk usage as needed
+- **Log aggregation**: Centralized logging can help with debugging scaled deployments
+- **Alert thresholds**: Consider setting alerts for high resource usage
+
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Scaling"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$4","className":"ml-0"}]}]]}]]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+5:["$","$Lb",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Lc",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle is built with scalability in mind. Clikkle can scale both horizontally and vertically."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Each Clikkle instance is composed of many containers, each with its unique job. Clikkle's functions and worker containers are stateless. To scale them, all you need is to replicate them and set up a load balancer to distribute their load."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you decide to set up a load balancer to scale a container, make sure ",["$","strong",null,{"children":"all"}]," communication are routed through the load balancer and not directly to the replicated containers. You can configure communicating between Clikkle containers using Docker environment variables."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Two Clikkle containers are stateful. The MariaDB and Redis containers are used for storing data, cache and pub/sub messaging, and usage stats, respectively. To scale these containers, set up a standard cluster (same as you would with any other app using these technologies) according to your needs and performance."}],["$","$Ld",null,{"id":"performance-considerations","level":1,"children":"Performance considerations "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You may want to adjust the ",["$","code",null,{"children":"_APP_WORKER_PER_CORE"}]," environment variable to optimize worker processes per CPU core based on your hardware:"]}],["$","$Le",null,{"language":"bash","content":"_APP_WORKER_PER_CORE=<number_of_workers>\n","children":"_APP_WORKER_PER_CORE=<number_of_workers>\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This setting affects the API, Realtime, and Executor containers and can be tuned according to your specific hardware specifications and workload requirements. The default value is 6."}],["$","$Ld",null,{"id":"resource-management","level":1,"children":"Resource management considerations "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When scaling Docker containers, consider implementing resource limits and monitoring:"}],["$","$Ld",null,{"level":2,"children":"Log rotation"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Consider configuring log rotation to prevent disk space issues:"}],["$","$Le",null,{"language":"yaml","content":"x-logging: &x-logging\n  logging:\n    driver: 'json-file'\n    options:\n      max-file: '<number_of_files>'\n      max-size: '<size_limit>'\n","children":"x-logging: &x-logging\n  logging:\n    driver: 'json-file'\n    options:\n      max-file: '<number_of_files>'\n      max-size: '<size_limit>'\n"}],["$","$Ld",null,{"level":2,"children":"Redis memory management"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You may want to set memory limits for Redis to prevent out-of-memory issues:"}],["$","$Ld",null,{"id":"monitoring","level":1,"children":"Monitoring considerations "}],["$","ul",null,{"className":"web-pink-dots","children":["$Lf","$L10","$L11","$L12"]}]]}]}]]}],"$L13"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L14",null,{"items":[{"id":"performance-considerations","title":"Performance considerations","level":1},{"id":"resource-management","title":"Resource management considerations","level":1},{"id":"log-rotation","title":"Log rotation","level":2},{"id":"redis-memory-management","title":"Redis memory management","level":2},{"id":"monitoring","title":"Monitoring considerations","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]
+f:["$","li",null,{"children":[["$","strong",null,{"children":"Health checks"}],": Consider implementing health check endpoints for services"]}]
+10:["$","li",null,{"children":[["$","strong",null,{"children":"Resource monitoring"}],": Monitor CPU, memory, and disk usage as needed"]}]
+11:["$","li",null,{"children":[["$","strong",null,{"children":"Log aggregation"}],": Centralized logging can help with debugging scaled deployments"]}]
+12:["$","li",null,{"children":[["$","strong",null,{"children":"Alert thresholds"}],": Consider setting alerts for high resource usage"]}]
+13:["$","$L18",null,{}]
+17:null

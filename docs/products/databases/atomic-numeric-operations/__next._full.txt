@@ -1,0 +1,1631 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+f:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","databases","atomic-numeric-operations"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/databases/atomic-numeric-operations","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],"$L7","$L8","$L9"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12","$L13","$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+16:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+17:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+18:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+20:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}]
+8:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+9:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L16",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+a:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L17",null,{"children":["$","$L18",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L19",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+1d:[]
+d:"$W1d"
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+23:T49a8,﻿---
+layout: article
+title: Atomic numeric operations
+description: Safely increment and decrement numeric fields without race conditions. Perfect for counters, quotas, inventory, and usage metrics in high-concurrency applications.
+---
+
+Atomic numeric operations allow you to safely increase or decrease numeric fields without fetching the full row. This eliminates race conditions and reduces bandwidth usage when updating any numeric values that need to be modified atomically, such as counters, scores, balances, and other fast-moving numeric data.
+
+# How atomic operations work {% #how-atomic-operations-work %}
+
+Instead of the traditional read-modify-write pattern, atomic numeric operations use dedicated methods to modify values directly on the server. The server applies the change atomically under concurrency control and returns the new value.
+
+**Traditional approach:**
+1. Fetch row → `{ likes: 42 }`
+2. Update client-side → `likes: 43`
+3. Write back → `{ likes: 43 }`
+
+**Atomic approach:**
+1. Call `incrementRowColumn()` with the column name and the value to increment by
+2. Server applies atomically → `likes: 43`
+
+# When to use atomic operations {% #when-to-use-atomic-operations %}
+
+Atomic numeric operations work well for:
+
+- **Social features**: Likes, follows, comment counts
+- **Usage metering**: API credits, storage quotas, request limits
+- **Game state**: Scores, lives, currency, experience points
+- **E-commerce**: Stock counts, inventory levels
+- **Workflow tracking**: Retry counts, progress indicators
+- **Rate limiting**: Request counters, usage tracking
+
+# Perform atomic operations {% #perform-atomic-operations %}
+
+Use the `incrementRowColumn` and `decrementRowColumn` methods to perform atomic numeric operations. The server will apply these changes atomically under concurrency control.
+
+## Increment a field {% #increment-field %}
+
+{% multicode %}
+```client-web
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<YOUR_PROJECT_ID>'); // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+const result = await tablesDB.incrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'likes', // column
+    value: 1 // value
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+final row = await tablesDB.incrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'likes',
+    value: 1
+);
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+let row = try await tablesDB.incrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "likes",
+    value: 1
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client(applicationContext)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+val row = tablesDB.incrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "likes",
+    value = 1
+)
+```
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('<API_KEY>'); // Your secret API key
+
+const tablesDB = new sdk.TablesDB(client);
+
+const result = await tablesDB.incrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'likes', // column
+    value: 1 // value
+});
+```
+```server-python
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+
+client = Client()
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+client.set_project('<PROJECT_ID>') # Your project ID
+client.set_key('<API_KEY>') # Your secret API key
+
+tablesDB = TablesDB(client)
+
+result = tablesDB.increment_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'likes', # column
+    value = 1 # value
+)
+```
+```graphql
+mutation {
+    databasesIncrementRowColumn(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        column: "likes",
+        value: 1
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+## Decrement a field {% #decrement-field %}
+
+Use the `decrementRowColumn` method to decrease numeric fields:
+
+{% multicode %}
+```client-web
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<YOUR_PROJECT_ID>'); // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+const result = await tablesDB.decrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 5 // value
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+final row = await tablesDB.decrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits',
+    value: 5
+);
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+let row = try await tablesDB.decrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "credits",
+    value: 5
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client(applicationContext)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+val row = tablesDB.decrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "credits",
+    value = 5
+)
+```
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('<API_KEY>'); // Your secret API key
+
+const tablesDB = new sdk.TablesDB(client);
+
+const result = await tablesDB.decrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 5 // value
+});
+```
+```server-python
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+
+client = Client()
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+client.set_project('<PROJECT_ID>') # Your project ID
+client.set_key('<API_KEY>') # Your secret API key
+
+tablesDB = TablesDB(client)
+
+result = tablesDB.decrement_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'credits', # column
+    value = 5 # value
+)
+```
+```graphql
+mutation {
+    databasesDecrementRowColumn(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        column: "credits",
+        value: 5
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+# Set constraints and bounds {% #set-constraints-and-bounds %}
+
+You can set minimum and maximum bounds for individual operations to prevent invalid values. Use the optional `min` and `max` parameters to ensure the final value stays within acceptable limits:
+
+## Example with constraints {% #example-with-constraints %}
+
+{% multicode %}
+```client-web
+// Increment with maximum constraint
+const result = await tablesDB.incrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 100, // value
+    max: 1000 // max (optional)
+});
+
+// Decrement with minimum constraint
+const result2 = await tablesDB.decrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 50, // value
+    min: 0 // min (optional)
+});
+```
+```client-flutter
+// Increment with maximum constraint
+final row = await tablesDB.incrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits',
+    value: 100,
+    max: 1000
+);
+
+// Decrement with minimum constraint
+final row2 = await tablesDB.decrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits',
+    value: 50,
+    min: 0
+);
+```
+```client-apple
+// Increment with maximum constraint
+let row = try await tablesDB.incrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "credits",
+    value: 100,
+    max: 1000
+)
+
+// Decrement with minimum constraint
+let row2 = try await tablesDB.decrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "credits",
+    value: 50,
+    min: 0
+)
+```
+```client-android-kotlin
+// Increment with maximum constraint
+val row = tablesDB.incrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "credits",
+    value = 100,
+    max = 1000
+)
+
+// Decrement with minimum constraint
+val row2 = tablesDB.decrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "credits",
+    value = 50,
+    min = 0
+)
+```
+```server-nodejs
+// Increment with maximum constraint
+const result = await tablesDB.incrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 100, // value
+    max: 1000 // max (optional)
+});
+
+// Decrement with minimum constraint
+const result2 = await tablesDB.decrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 50, // value
+    min: 0 // min (optional)
+});
+```
+```server-python
+# Increment with maximum constraint
+result = tablesDB.increment_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'credits', # column
+    value = 100, # value
+    max = 1000 # max (optional)
+)
+
+# Decrement with minimum constraint
+result2 = tablesDB.decrement_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'credits', # column
+    value = 50, # value
+    min = 0 # min (optional)
+)
+```
+{% /multicode %}
+
+# Follow best practices {% #follow-best-practices %}
+
+## Use for high-concurrency scenarios {% #use-for-high-concurrency-scenarios %}
+
+Atomic numeric operations are most beneficial when multiple users or processes might update the same numeric field simultaneously.
+
+## Combine with regular updates {% #combine-with-regular-updates %}
+
+For complex updates that include both atomic operations and regular field changes, you'll need to use separate API calls:
+
+{% multicode %}
+```client-web
+// First, increment the likes atomically
+const likeResult = await tablesDB.incrementRowColumn(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    'likes', // column
+    1 // value
+);
+
+// Then, update other fields
+const updateResult = await tablesDB.updateRow(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    {
+        lastLikedBy: userId,
+        lastLikedAt: new Date().toISOString()
+    }
+);
+```
+```client-flutter
+// First, increment the likes atomically
+final likeResult = await tablesDB.incrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'likes',
+    value: 1
+);
+
+// Then, update other fields
+final updateResult = await tablesDB.updateRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: {
+        'lastLikedBy': userId,
+        'lastLikedAt': DateTime.now().toIso8601String()
+    }
+);
+```
+```client-apple
+// First, increment the likes atomically
+let likeResult = try await tablesDB.incrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "likes",
+    value: 1
+)
+
+// Then, update other fields
+let updateResult = try await tablesDB.updateRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    data: [
+        "lastLikedBy": userId,
+        "lastLikedAt": ISO8601DateFormatter().string(from: Date())
+    ]
+)
+```
+```client-android-kotlin
+// First, increment the likes atomically
+val likeResult = tablesDB.incrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "likes",
+    value = 1
+)
+
+// Then, update other fields
+val updateResult = tablesDB.updateRow(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    data = mapOf(
+        "lastLikedBy" to userId,
+        "lastLikedAt" to Instant.now().toString()
+    )
+)
+```
+```server-nodejs
+// First, increment the likes atomically
+const likeResult = await tablesDB.incrementRowColumn(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    'likes', // column
+    1 // value
+);
+
+// Then, update other fields
+const updateResult = await tablesDB.updateRow(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    {
+        lastLikedBy: userId,
+        lastLikedAt: new Date().toISOString()
+    }
+);
+```
+```server-python
+# First, increment the likes atomically
+like_result = tablesDB.increment_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'likes', # column
+    value = 1 # value
+)
+
+# Then, update other fields
+update_result = tablesDB.update_row(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    data = {
+        'lastLikedBy': user_id,
+        'lastLikedAt': datetime.now().isoformat()
+    }
+)
+```
+{% /multicode %}
+
+# Use transactions {% #use-transactions %}
+
+Atomic numeric operations accept `transactionId`. When provided, increments/decrements are staged and applied on commit.
+
+{% multicode %}
+```client-web
+await tablesDB.incrementRowColumn({
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+});
+```
+```client-flutter
+await tablesDB.incrementRowColumn(
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+);
+```
+```client-apple
+try await tablesDB.incrementRowColumn(
+  databaseId: "<DATABASE_ID>",
+  tableId: "<TABLE_ID>",
+  rowId: "<ROW_ID>",
+  column: "likes",
+  value: 1,
+  transactionId: "<TRANSACTION_ID>"
+)
+```
+```client-android-kotlin
+tablesDB.incrementRowColumn(
+  databaseId = "<DATABASE_ID>",
+  tableId = "<TABLE_ID>",
+  rowId = "<ROW_ID>",
+  column = "likes",
+  value = 1,
+  transactionId = "<TRANSACTION_ID>"
+)
+```
+```client-android-java
+tablesDB.incrementRowColumn(
+  "<DATABASE_ID>",
+  "<TABLE_ID>",
+  "<ROW_ID>",
+  "likes",
+  1,
+  "<TRANSACTION_ID>",
+  new CoroutineCallback<>((result, error) -> {
+    if (error != null) {
+      error.printStackTrace();
+      return null;
+    }
+    System.out.println(result);
+    return null;
+  })
+);
+```
+```client-react-native
+await tablesDB.incrementRowColumn({
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-nodejs
+await tablesDB.incrementRowColumn({
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-deno
+await tablesDB.incrementRowColumn({
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-python
+tablesDB.increment_row_column(
+  database_id = '<DATABASE_ID>',
+  table_id = '<TABLE_ID>',
+  row_id = '<ROW_ID>',
+  column = 'likes',
+  value = 1,
+  transaction_id = '<TRANSACTION_ID>'
+)
+```
+```server-php
+$tablesDB->incrementRowColumn(
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+);
+```
+```server-ruby
+tablesDB.increment_row_column(
+  database_id: '<DATABASE_ID>',
+  table_id: '<TABLE_ID>',
+  row_id: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transaction_id: '<TRANSACTION_ID>'
+)
+```
+```server-dotnet
+await tablesDB.IncrementRowColumn(
+  databaseId: "<DATABASE_ID>",
+  tableId: "<TABLE_ID>",
+  rowId: "<ROW_ID>",
+  column: "likes",
+  value: 1,
+  transactionId: "<TRANSACTION_ID>"
+);
+```
+```server-dart
+await tablesDB.incrementRowColumn(
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+);
+```
+```server-swift
+try await tablesDB.incrementRowColumn(
+  databaseId: "<DATABASE_ID>",
+  tableId: "<TABLE_ID>",
+  rowId: "<ROW_ID>",
+  column: "likes",
+  value: 1,
+  transactionId: "<TRANSACTION_ID>"
+)
+```
+```server-kotlin
+tablesDB.incrementRowColumn(
+  databaseId = "<DATABASE_ID>",
+  tableId = "<TABLE_ID>",
+  rowId = "<ROW_ID>",
+  column = "likes",
+  value = 1,
+  transactionId = "<TRANSACTION_ID>"
+)
+```
+```server-java
+tablesDB.incrementRowColumn(
+  "<DATABASE_ID>",
+  "<TABLE_ID>",
+  "<ROW_ID>",
+  "likes",
+  1,
+  "<TRANSACTION_ID>",
+  new CoroutineCallback<>((result, error) -> {
+    if (error != null) {
+      error.printStackTrace();
+      return null;
+    }
+    System.out.println(result);
+    return null;
+  })
+);
+```
+{% /multicode %}
+
+## Explore related features
+
+- [Bulk operations](/docs/products/databases/bulk-operations) - Update multiple rows at once
+- [Permissions](/docs/products/databases/permissions) - Control access to rows
+- [Queries](/docs/products/databases/queries) - Find rows to update
+- [Relationships](/docs/products/databases/relationships) - Update related rows
+
+19:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L22",null,{"markdown":"$23","className":"ml-0"}]}]]}],null,"$L24"]}],"$L25","$L26"]}]}]
+28:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+29:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2a:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+40:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+27:T49a8,﻿---
+layout: article
+title: Atomic numeric operations
+description: Safely increment and decrement numeric fields without race conditions. Perfect for counters, quotas, inventory, and usage metrics in high-concurrency applications.
+---
+
+Atomic numeric operations allow you to safely increase or decrease numeric fields without fetching the full row. This eliminates race conditions and reduces bandwidth usage when updating any numeric values that need to be modified atomically, such as counters, scores, balances, and other fast-moving numeric data.
+
+# How atomic operations work {% #how-atomic-operations-work %}
+
+Instead of the traditional read-modify-write pattern, atomic numeric operations use dedicated methods to modify values directly on the server. The server applies the change atomically under concurrency control and returns the new value.
+
+**Traditional approach:**
+1. Fetch row → `{ likes: 42 }`
+2. Update client-side → `likes: 43`
+3. Write back → `{ likes: 43 }`
+
+**Atomic approach:**
+1. Call `incrementRowColumn()` with the column name and the value to increment by
+2. Server applies atomically → `likes: 43`
+
+# When to use atomic operations {% #when-to-use-atomic-operations %}
+
+Atomic numeric operations work well for:
+
+- **Social features**: Likes, follows, comment counts
+- **Usage metering**: API credits, storage quotas, request limits
+- **Game state**: Scores, lives, currency, experience points
+- **E-commerce**: Stock counts, inventory levels
+- **Workflow tracking**: Retry counts, progress indicators
+- **Rate limiting**: Request counters, usage tracking
+
+# Perform atomic operations {% #perform-atomic-operations %}
+
+Use the `incrementRowColumn` and `decrementRowColumn` methods to perform atomic numeric operations. The server will apply these changes atomically under concurrency control.
+
+## Increment a field {% #increment-field %}
+
+{% multicode %}
+```client-web
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<YOUR_PROJECT_ID>'); // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+const result = await tablesDB.incrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'likes', // column
+    value: 1 // value
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+final row = await tablesDB.incrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'likes',
+    value: 1
+);
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+let row = try await tablesDB.incrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "likes",
+    value: 1
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client(applicationContext)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+val row = tablesDB.incrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "likes",
+    value = 1
+)
+```
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('<API_KEY>'); // Your secret API key
+
+const tablesDB = new sdk.TablesDB(client);
+
+const result = await tablesDB.incrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'likes', // column
+    value: 1 // value
+});
+```
+```server-python
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+
+client = Client()
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+client.set_project('<PROJECT_ID>') # Your project ID
+client.set_key('<API_KEY>') # Your secret API key
+
+tablesDB = TablesDB(client)
+
+result = tablesDB.increment_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'likes', # column
+    value = 1 # value
+)
+```
+```graphql
+mutation {
+    databasesIncrementRowColumn(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        column: "likes",
+        value: 1
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+## Decrement a field {% #decrement-field %}
+
+Use the `decrementRowColumn` method to decrease numeric fields:
+
+{% multicode %}
+```client-web
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<YOUR_PROJECT_ID>'); // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+const result = await tablesDB.decrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 5 // value
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+final row = await tablesDB.decrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits',
+    value: 5
+);
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+let row = try await tablesDB.decrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "credits",
+    value: 5
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client(applicationContext)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+val row = tablesDB.decrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "credits",
+    value = 5
+)
+```
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('<API_KEY>'); // Your secret API key
+
+const tablesDB = new sdk.TablesDB(client);
+
+const result = await tablesDB.decrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 5 // value
+});
+```
+```server-python
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+
+client = Client()
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+client.set_project('<PROJECT_ID>') # Your project ID
+client.set_key('<API_KEY>') # Your secret API key
+
+tablesDB = TablesDB(client)
+
+result = tablesDB.decrement_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'credits', # column
+    value = 5 # value
+)
+```
+```graphql
+mutation {
+    databasesDecrementRowColumn(
+        databaseId: "<DATABASE_ID>",
+        tableId: "<TABLE_ID>",
+        rowId: "<ROW_ID>",
+        column: "credits",
+        value: 5
+    ) {
+        _id
+        _tableId
+        _databaseId
+        _createdAt
+        _updatedAt
+        _permissions
+        data
+    }
+}
+```
+{% /multicode %}
+
+# Set constraints and bounds {% #set-constraints-and-bounds %}
+
+You can set minimum and maximum bounds for individual operations to prevent invalid values. Use the optional `min` and `max` parameters to ensure the final value stays within acceptable limits:
+
+## Example with constraints {% #example-with-constraints %}
+
+{% multicode %}
+```client-web
+// Increment with maximum constraint
+const result = await tablesDB.incrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 100, // value
+    max: 1000 // max (optional)
+});
+
+// Decrement with minimum constraint
+const result2 = await tablesDB.decrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 50, // value
+    min: 0 // min (optional)
+});
+```
+```client-flutter
+// Increment with maximum constraint
+final row = await tablesDB.incrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits',
+    value: 100,
+    max: 1000
+);
+
+// Decrement with minimum constraint
+final row2 = await tablesDB.decrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits',
+    value: 50,
+    min: 0
+);
+```
+```client-apple
+// Increment with maximum constraint
+let row = try await tablesDB.incrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "credits",
+    value: 100,
+    max: 1000
+)
+
+// Decrement with minimum constraint
+let row2 = try await tablesDB.decrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "credits",
+    value: 50,
+    min: 0
+)
+```
+```client-android-kotlin
+// Increment with maximum constraint
+val row = tablesDB.incrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "credits",
+    value = 100,
+    max = 1000
+)
+
+// Decrement with minimum constraint
+val row2 = tablesDB.decrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "credits",
+    value = 50,
+    min = 0
+)
+```
+```server-nodejs
+// Increment with maximum constraint
+const result = await tablesDB.incrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 100, // value
+    max: 1000 // max (optional)
+});
+
+// Decrement with minimum constraint
+const result2 = await tablesDB.decrementRowColumn({
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'credits', // column
+    value: 50, // value
+    min: 0 // min (optional)
+});
+```
+```server-python
+# Increment with maximum constraint
+result = tablesDB.increment_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'credits', # column
+    value = 100, # value
+    max = 1000 # max (optional)
+)
+
+# Decrement with minimum constraint
+result2 = tablesDB.decrement_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'credits', # column
+    value = 50, # value
+    min = 0 # min (optional)
+)
+```
+{% /multicode %}
+
+# Follow best practices {% #follow-best-practices %}
+
+## Use for high-concurrency scenarios {% #use-for-high-concurrency-scenarios %}
+
+Atomic numeric operations are most beneficial when multiple users or processes might update the same numeric field simultaneously.
+
+## Combine with regular updates {% #combine-with-regular-updates %}
+
+For complex updates that include both atomic operations and regular field changes, you'll need to use separate API calls:
+
+{% multicode %}
+```client-web
+// First, increment the likes atomically
+const likeResult = await tablesDB.incrementRowColumn(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    'likes', // column
+    1 // value
+);
+
+// Then, update other fields
+const updateResult = await tablesDB.updateRow(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    {
+        lastLikedBy: userId,
+        lastLikedAt: new Date().toISOString()
+    }
+);
+```
+```client-flutter
+// First, increment the likes atomically
+final likeResult = await tablesDB.incrementRowColumn(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    column: 'likes',
+    value: 1
+);
+
+// Then, update other fields
+final updateResult = await tablesDB.updateRow(
+    databaseId: '<DATABASE_ID>',
+    tableId: '<TABLE_ID>',
+    rowId: '<ROW_ID>',
+    data: {
+        'lastLikedBy': userId,
+        'lastLikedAt': DateTime.now().toIso8601String()
+    }
+);
+```
+```client-apple
+// First, increment the likes atomically
+let likeResult = try await tablesDB.incrementRowColumn(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    column: "likes",
+    value: 1
+)
+
+// Then, update other fields
+let updateResult = try await tablesDB.updateRow(
+    databaseId: "<DATABASE_ID>",
+    tableId: "<TABLE_ID>",
+    rowId: "<ROW_ID>",
+    data: [
+        "lastLikedBy": userId,
+        "lastLikedAt": ISO8601DateFormatter().string(from: Date())
+    ]
+)
+```
+```client-android-kotlin
+// First, increment the likes atomically
+val likeResult = tablesDB.incrementRowColumn(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    column = "likes",
+    value = 1
+)
+
+// Then, update other fields
+val updateResult = tablesDB.updateRow(
+    databaseId = "<DATABASE_ID>",
+    tableId = "<TABLE_ID>",
+    rowId = "<ROW_ID>",
+    data = mapOf(
+        "lastLikedBy" to userId,
+        "lastLikedAt" to Instant.now().toString()
+    )
+)
+```
+```server-nodejs
+// First, increment the likes atomically
+const likeResult = await tablesDB.incrementRowColumn(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    'likes', // column
+    1 // value
+);
+
+// Then, update other fields
+const updateResult = await tablesDB.updateRow(
+    '<DATABASE_ID>',
+    '<TABLE_ID>',
+    '<ROW_ID>',
+    {
+        lastLikedBy: userId,
+        lastLikedAt: new Date().toISOString()
+    }
+);
+```
+```server-python
+# First, increment the likes atomically
+like_result = tablesDB.increment_row_column(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    column = 'likes', # column
+    value = 1 # value
+)
+
+# Then, update other fields
+update_result = tablesDB.update_row(
+    database_id = '<DATABASE_ID>',
+    table_id = '<TABLE_ID>',
+    row_id = '<ROW_ID>',
+    data = {
+        'lastLikedBy': user_id,
+        'lastLikedAt': datetime.now().isoformat()
+    }
+)
+```
+{% /multicode %}
+
+# Use transactions {% #use-transactions %}
+
+Atomic numeric operations accept `transactionId`. When provided, increments/decrements are staged and applied on commit.
+
+{% multicode %}
+```client-web
+await tablesDB.incrementRowColumn({
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+});
+```
+```client-flutter
+await tablesDB.incrementRowColumn(
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+);
+```
+```client-apple
+try await tablesDB.incrementRowColumn(
+  databaseId: "<DATABASE_ID>",
+  tableId: "<TABLE_ID>",
+  rowId: "<ROW_ID>",
+  column: "likes",
+  value: 1,
+  transactionId: "<TRANSACTION_ID>"
+)
+```
+```client-android-kotlin
+tablesDB.incrementRowColumn(
+  databaseId = "<DATABASE_ID>",
+  tableId = "<TABLE_ID>",
+  rowId = "<ROW_ID>",
+  column = "likes",
+  value = 1,
+  transactionId = "<TRANSACTION_ID>"
+)
+```
+```client-android-java
+tablesDB.incrementRowColumn(
+  "<DATABASE_ID>",
+  "<TABLE_ID>",
+  "<ROW_ID>",
+  "likes",
+  1,
+  "<TRANSACTION_ID>",
+  new CoroutineCallback<>((result, error) -> {
+    if (error != null) {
+      error.printStackTrace();
+      return null;
+    }
+    System.out.println(result);
+    return null;
+  })
+);
+```
+```client-react-native
+await tablesDB.incrementRowColumn({
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-nodejs
+await tablesDB.incrementRowColumn({
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-deno
+await tablesDB.incrementRowColumn({
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+});
+```
+```server-python
+tablesDB.increment_row_column(
+  database_id = '<DATABASE_ID>',
+  table_id = '<TABLE_ID>',
+  row_id = '<ROW_ID>',
+  column = 'likes',
+  value = 1,
+  transaction_id = '<TRANSACTION_ID>'
+)
+```
+```server-php
+$tablesDB->incrementRowColumn(
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+);
+```
+```server-ruby
+tablesDB.increment_row_column(
+  database_id: '<DATABASE_ID>',
+  table_id: '<TABLE_ID>',
+  row_id: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transaction_id: '<TRANSACTION_ID>'
+)
+```
+```server-dotnet
+await tablesDB.IncrementRowColumn(
+  databaseId: "<DATABASE_ID>",
+  tableId: "<TABLE_ID>",
+  rowId: "<ROW_ID>",
+  column: "likes",
+  value: 1,
+  transactionId: "<TRANSACTION_ID>"
+);
+```
+```server-dart
+await tablesDB.incrementRowColumn(
+  databaseId: '<DATABASE_ID>',
+  tableId: '<TABLE_ID>',
+  rowId: '<ROW_ID>',
+  column: 'likes',
+  value: 1,
+  transactionId: '<TRANSACTION_ID>'
+);
+```
+```server-swift
+try await tablesDB.incrementRowColumn(
+  databaseId: "<DATABASE_ID>",
+  tableId: "<TABLE_ID>",
+  rowId: "<ROW_ID>",
+  column: "likes",
+  value: 1,
+  transactionId: "<TRANSACTION_ID>"
+)
+```
+```server-kotlin
+tablesDB.incrementRowColumn(
+  databaseId = "<DATABASE_ID>",
+  tableId = "<TABLE_ID>",
+  rowId = "<ROW_ID>",
+  column = "likes",
+  value = 1,
+  transactionId = "<TRANSACTION_ID>"
+)
+```
+```server-java
+tablesDB.incrementRowColumn(
+  "<DATABASE_ID>",
+  "<TABLE_ID>",
+  "<ROW_ID>",
+  "likes",
+  1,
+  "<TRANSACTION_ID>",
+  new CoroutineCallback<>((result, error) -> {
+    if (error != null) {
+      error.printStackTrace();
+      return null;
+    }
+    System.out.println(result);
+    return null;
+  })
+);
+```
+{% /multicode %}
+
+## Explore related features
+
+- [Bulk operations](/docs/products/databases/bulk-operations) - Update multiple rows at once
+- [Permissions](/docs/products/databases/permissions) - Control access to rows
+- [Queries](/docs/products/databases/queries) - Find rows to update
+- [Relationships](/docs/products/databases/relationships) - Update related rows
+
+24:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Atomic numeric operations"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L22",null,{"markdown":"$27","className":"ml-0"}]}]]}]
+25:["$","$L28",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"New API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This is a relatively new API. For details on the previous version and its terminology, see the legacy"," ",["$","$L16",null,{"href":"/docs/products/databases/legacy/atomic-numeric-operations","className":"web-link underline","children":"Collections API documentation"}],"."]}]]}],null,["$","$L29",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Atomic numeric operations allow you to safely increase or decrease numeric fields without fetching the full row. This eliminates race conditions and reduces bandwidth usage when updating any numeric values that need to be modified atomically, such as counters, scores, balances, and other fast-moving numeric data."}],["$","$L2a",null,{"id":"how-atomic-operations-work","level":1,"children":"How atomic operations work "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Instead of the traditional read-modify-write pattern, atomic numeric operations use dedicated methods to modify values directly on the server. The server applies the change atomically under concurrency control and returns the new value."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","strong",null,{"children":"Traditional approach:"}]}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["Fetch row → ",["$","code",null,{"children":"{ likes: 42 }"}]]}],["$","li",null,{"children":["Update client-side → ",["$","code",null,{"children":"likes: 43"}]]}],["$","li",null,{"children":["Write back → ",["$","code",null,{"children":"{ likes: 43 }"}]]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","strong",null,{"children":"Atomic approach:"}]}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["Call ",["$","code",null,{"children":"incrementRowColumn()"}]," with the column name and the value to increment by"]}],["$","li",null,{"children":["Server applies atomically → ",["$","code",null,{"children":"likes: 43"}]]}]]}],["$","$L2a",null,{"id":"when-to-use-atomic-operations","level":1,"children":"When to use atomic operations "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Atomic numeric operations work well for:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Social features"}],": Likes, follows, comment counts"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Usage metering"}],": API credits, storage quotas, request limits"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Game state"}],": Scores, lives, currency, experience points"]}],["$","li",null,{"children":[["$","strong",null,{"children":"E-commerce"}],": Stock counts, inventory levels"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Workflow tracking"}],": Retry counts, progress indicators"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Rate limiting"}],": Request counters, usage tracking"]}]]}],["$","$L2a",null,{"id":"perform-atomic-operations","level":1,"children":"Perform atomic operations "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the ",["$","code",null,{"children":"incrementRowColumn"}]," and ",["$","code",null,{"children":"decrementRowColumn"}]," methods to perform atomic numeric operations. The server will apply these changes atomically under concurrency control."]}],"$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e"]}]}]]}],"$L3f"]}]
+26:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L40",null,{"items":[{"id":"how-atomic-operations-work","title":"How atomic operations work","level":1},{"id":"when-to-use-atomic-operations","title":"When to use atomic operations","level":1},{"id":"perform-atomic-operations","title":"Perform atomic operations","level":1},{"id":"increment-field","title":"Increment a field","level":2},{"id":"decrement-field","title":"Decrement a field","level":2},{"id":"set-constraints-and-bounds","title":"Set constraints and bounds","level":1},{"id":"example-with-constraints","title":"Example with constraints","level":2},{"id":"follow-best-practices","title":"Follow best practices","level":1},{"id":"use-for-high-concurrency-scenarios","title":"Use for high-concurrency scenarios","level":2},{"id":"combine-with-regular-updates","title":"Combine with regular updates","level":2},{"id":"use-transactions","title":"Use transactions","level":1},{"id":"explore-related-features","title":"Explore related features","level":2}]}]}]
+41:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+42:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+55:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2b:["$","$L2a",null,{"id":"increment-field","level":2,"children":"Increment a field "}]
+2c:["$","$L41",null,{"children":[["$","$L42",null,{"language":"client-web","content":"import { Client, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<YOUR_PROJECT_ID>'); // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nconst result = await tablesDB.incrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'likes', // column\n    value: 1 // value\n});\n","children":"import { Client, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<YOUR_PROJECT_ID>'); // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nconst result = await tablesDB.incrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'likes', // column\n    value: 1 // value\n});\n"}],["$","$L42",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nfinal row = await tablesDB.incrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'likes',\n    value: 1\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nfinal row = await tablesDB.incrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'likes',\n    value: 1\n);\n"}],["$","$L42",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\nlet row = try await tablesDB.incrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"likes\",\n    value: 1\n)\n","children":"import Clikkle\nimport ClikkleModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\nlet row = try await tablesDB.incrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"likes\",\n    value: 1\n)\n"}],["$","$L42",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client(applicationContext)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\nval row = tablesDB.incrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"likes\",\n    value = 1\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client(applicationContext)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\nval row = tablesDB.incrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"likes\",\n    value = 1\n)\n"}],"$L43","$L44","$L45"]}]
+2d:["$","$L2a",null,{"id":"decrement-field","level":2,"children":"Decrement a field "}]
+2e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the ",["$","code",null,{"children":"decrementRowColumn"}]," method to decrease numeric fields:"]}]
+2f:["$","$L41",null,{"children":[["$","$L42",null,{"language":"client-web","content":"import { Client, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<YOUR_PROJECT_ID>'); // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nconst result = await tablesDB.decrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 5 // value\n});\n","children":"import { Client, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<YOUR_PROJECT_ID>'); // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nconst result = await tablesDB.decrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 5 // value\n});\n"}],["$","$L42",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nfinal row = await tablesDB.decrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits',\n    value: 5\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nfinal row = await tablesDB.decrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits',\n    value: 5\n);\n"}],["$","$L42",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\nlet row = try await tablesDB.decrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"credits\",\n    value: 5\n)\n","children":"import Clikkle\nimport ClikkleModels\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\nlet row = try await tablesDB.decrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"credits\",\n    value: 5\n)\n"}],["$","$L42",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client(applicationContext)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\nval row = tablesDB.decrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"credits\",\n    value = 5\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client(applicationContext)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\nval row = tablesDB.decrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"credits\",\n    value = 5\n)\n"}],"$L46","$L47","$L48"]}]
+30:["$","$L2a",null,{"id":"set-constraints-and-bounds","level":1,"children":"Set constraints and bounds "}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can set minimum and maximum bounds for individual operations to prevent invalid values. Use the optional ",["$","code",null,{"children":"min"}]," and ",["$","code",null,{"children":"max"}]," parameters to ensure the final value stays within acceptable limits:"]}]
+32:["$","$L2a",null,{"id":"example-with-constraints","level":2,"children":"Example with constraints "}]
+33:["$","$L41",null,{"children":[["$","$L42",null,{"language":"client-web","content":"// Increment with maximum constraint\nconst result = await tablesDB.incrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 100, // value\n    max: 1000 // max (optional)\n});\n\n// Decrement with minimum constraint\nconst result2 = await tablesDB.decrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 50, // value\n    min: 0 // min (optional)\n});\n","children":"// Increment with maximum constraint\nconst result = await tablesDB.incrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 100, // value\n    max: 1000 // max (optional)\n});\n\n// Decrement with minimum constraint\nconst result2 = await tablesDB.decrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 50, // value\n    min: 0 // min (optional)\n});\n"}],["$","$L42",null,{"language":"client-flutter","content":"// Increment with maximum constraint\nfinal row = await tablesDB.incrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits',\n    value: 100,\n    max: 1000\n);\n\n// Decrement with minimum constraint\nfinal row2 = await tablesDB.decrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits',\n    value: 50,\n    min: 0\n);\n","children":"// Increment with maximum constraint\nfinal row = await tablesDB.incrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits',\n    value: 100,\n    max: 1000\n);\n\n// Decrement with minimum constraint\nfinal row2 = await tablesDB.decrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits',\n    value: 50,\n    min: 0\n);\n"}],["$","$L42",null,{"language":"client-apple","content":"// Increment with maximum constraint\nlet row = try await tablesDB.incrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"credits\",\n    value: 100,\n    max: 1000\n)\n\n// Decrement with minimum constraint\nlet row2 = try await tablesDB.decrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"credits\",\n    value: 50,\n    min: 0\n)\n","children":"// Increment with maximum constraint\nlet row = try await tablesDB.incrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"credits\",\n    value: 100,\n    max: 1000\n)\n\n// Decrement with minimum constraint\nlet row2 = try await tablesDB.decrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"credits\",\n    value: 50,\n    min: 0\n)\n"}],["$","$L42",null,{"language":"client-android-kotlin","content":"// Increment with maximum constraint\nval row = tablesDB.incrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"credits\",\n    value = 100,\n    max = 1000\n)\n\n// Decrement with minimum constraint\nval row2 = tablesDB.decrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"credits\",\n    value = 50,\n    min = 0\n)\n","children":"// Increment with maximum constraint\nval row = tablesDB.incrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"credits\",\n    value = 100,\n    max = 1000\n)\n\n// Decrement with minimum constraint\nval row2 = tablesDB.decrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"credits\",\n    value = 50,\n    min = 0\n)\n"}],"$L49","$L4a"]}]
+34:["$","$L2a",null,{"id":"follow-best-practices","level":1,"children":"Follow best practices "}]
+35:["$","$L2a",null,{"id":"use-for-high-concurrency-scenarios","level":2,"children":"Use for high-concurrency scenarios "}]
+36:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Atomic numeric operations are most beneficial when multiple users or processes might update the same numeric field simultaneously."}]
+37:["$","$L2a",null,{"id":"combine-with-regular-updates","level":2,"children":"Combine with regular updates "}]
+38:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For complex updates that include both atomic operations and regular field changes, you'll need to use separate API calls:"}]
+39:["$","$L41",null,{"children":[["$","$L42",null,{"language":"client-web","content":"// First, increment the likes atomically\nconst likeResult = await tablesDB.incrementRowColumn(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    'likes', // column\n    1 // value\n);\n\n// Then, update other fields\nconst updateResult = await tablesDB.updateRow(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    {\n        lastLikedBy: userId,\n        lastLikedAt: new Date().toISOString()\n    }\n);\n","children":"// First, increment the likes atomically\nconst likeResult = await tablesDB.incrementRowColumn(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    'likes', // column\n    1 // value\n);\n\n// Then, update other fields\nconst updateResult = await tablesDB.updateRow(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    {\n        lastLikedBy: userId,\n        lastLikedAt: new Date().toISOString()\n    }\n);\n"}],["$","$L42",null,{"language":"client-flutter","content":"// First, increment the likes atomically\nfinal likeResult = await tablesDB.incrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'likes',\n    value: 1\n);\n\n// Then, update other fields\nfinal updateResult = await tablesDB.updateRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: {\n        'lastLikedBy': userId,\n        'lastLikedAt': DateTime.now().toIso8601String()\n    }\n);\n","children":"// First, increment the likes atomically\nfinal likeResult = await tablesDB.incrementRowColumn(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'likes',\n    value: 1\n);\n\n// Then, update other fields\nfinal updateResult = await tablesDB.updateRow(\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    data: {\n        'lastLikedBy': userId,\n        'lastLikedAt': DateTime.now().toIso8601String()\n    }\n);\n"}],["$","$L42",null,{"language":"client-apple","content":"// First, increment the likes atomically\nlet likeResult = try await tablesDB.incrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"likes\",\n    value: 1\n)\n\n// Then, update other fields\nlet updateResult = try await tablesDB.updateRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    data: [\n        \"lastLikedBy\": userId,\n        \"lastLikedAt\": ISO8601DateFormatter().string(from: Date())\n    ]\n)\n","children":"// First, increment the likes atomically\nlet likeResult = try await tablesDB.incrementRowColumn(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    column: \"likes\",\n    value: 1\n)\n\n// Then, update other fields\nlet updateResult = try await tablesDB.updateRow(\n    databaseId: \"<DATABASE_ID>\",\n    tableId: \"<TABLE_ID>\",\n    rowId: \"<ROW_ID>\",\n    data: [\n        \"lastLikedBy\": userId,\n        \"lastLikedAt\": ISO8601DateFormatter().string(from: Date())\n    ]\n)\n"}],["$","$L42",null,{"language":"client-android-kotlin","content":"// First, increment the likes atomically\nval likeResult = tablesDB.incrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"likes\",\n    value = 1\n)\n\n// Then, update other fields\nval updateResult = tablesDB.updateRow(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    data = mapOf(\n        \"lastLikedBy\" to userId,\n        \"lastLikedAt\" to Instant.now().toString()\n    )\n)\n","children":"// First, increment the likes atomically\nval likeResult = tablesDB.incrementRowColumn(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    column = \"likes\",\n    value = 1\n)\n\n// Then, update other fields\nval updateResult = tablesDB.updateRow(\n    databaseId = \"<DATABASE_ID>\",\n    tableId = \"<TABLE_ID>\",\n    rowId = \"<ROW_ID>\",\n    data = mapOf(\n        \"lastLikedBy\" to userId,\n        \"lastLikedAt\" to Instant.now().toString()\n    )\n)\n"}],"$L4b","$L4c"]}]
+3a:["$","$L2a",null,{"id":"use-transactions","level":1,"children":"Use transactions "}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Atomic numeric operations accept ",["$","code",null,{"children":"transactionId"}],". When provided, increments/decrements are staged and applied on commit."]}]
+3c:["$","$L41",null,{"children":[["$","$L42",null,{"language":"client-web","content":"await tablesDB.incrementRowColumn({\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n});\n","children":"await tablesDB.incrementRowColumn({\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n});\n"}],["$","$L42",null,{"language":"client-flutter","content":"await tablesDB.incrementRowColumn(\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n);\n","children":"await tablesDB.incrementRowColumn(\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n);\n"}],["$","$L42",null,{"language":"client-apple","content":"try await tablesDB.incrementRowColumn(\n  databaseId: \"<DATABASE_ID>\",\n  tableId: \"<TABLE_ID>\",\n  rowId: \"<ROW_ID>\",\n  column: \"likes\",\n  value: 1,\n  transactionId: \"<TRANSACTION_ID>\"\n)\n","children":"try await tablesDB.incrementRowColumn(\n  databaseId: \"<DATABASE_ID>\",\n  tableId: \"<TABLE_ID>\",\n  rowId: \"<ROW_ID>\",\n  column: \"likes\",\n  value: 1,\n  transactionId: \"<TRANSACTION_ID>\"\n)\n"}],["$","$L42",null,{"language":"client-android-kotlin","content":"tablesDB.incrementRowColumn(\n  databaseId = \"<DATABASE_ID>\",\n  tableId = \"<TABLE_ID>\",\n  rowId = \"<ROW_ID>\",\n  column = \"likes\",\n  value = 1,\n  transactionId = \"<TRANSACTION_ID>\"\n)\n","children":"tablesDB.incrementRowColumn(\n  databaseId = \"<DATABASE_ID>\",\n  tableId = \"<TABLE_ID>\",\n  rowId = \"<ROW_ID>\",\n  column = \"likes\",\n  value = 1,\n  transactionId = \"<TRANSACTION_ID>\"\n)\n"}],["$","$L42",null,{"language":"client-android-java","content":"tablesDB.incrementRowColumn(\n  \"<DATABASE_ID>\",\n  \"<TABLE_ID>\",\n  \"<ROW_ID>\",\n  \"likes\",\n  1,\n  \"<TRANSACTION_ID>\",\n  new CoroutineCallback<>((result, error) -> {\n    if (error != null) {\n      error.printStackTrace();\n      return null;\n    }\n    System.out.println(result);\n    return null;\n  })\n);\n","children":"tablesDB.incrementRowColumn(\n  \"<DATABASE_ID>\",\n  \"<TABLE_ID>\",\n  \"<ROW_ID>\",\n  \"likes\",\n  1,\n  \"<TRANSACTION_ID>\",\n  new CoroutineCallback<>((result, error) -> {\n    if (error != null) {\n      error.printStackTrace();\n      return null;\n    }\n    System.out.println(result);\n    return null;\n  })\n);\n"}],["$","$L42",null,{"language":"client-react-native","content":"await tablesDB.incrementRowColumn({\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n});\n","children":"await tablesDB.incrementRowColumn({\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n});\n"}],["$","$L42",null,{"language":"server-nodejs","content":"await tablesDB.incrementRowColumn({\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n});\n","children":"await tablesDB.incrementRowColumn({\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n});\n"}],["$","$L42",null,{"language":"server-deno","content":"await tablesDB.incrementRowColumn({\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n});\n","children":"await tablesDB.incrementRowColumn({\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n});\n"}],"$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54"]}]
+3d:["$","$L2a",null,{"level":2,"children":"Explore related features"}]
+3e:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","$L16",null,{"href":"/docs/products/databases/bulk-operations","children":"Bulk operations"}]," - Update multiple rows at once"]}],["$","li",null,{"children":[["$","$L16",null,{"href":"/docs/products/databases/permissions","children":"Permissions"}]," - Control access to rows"]}],["$","li",null,{"children":[["$","$L16",null,{"href":"/docs/products/databases/queries","children":"Queries"}]," - Find rows to update"]}],["$","li",null,{"children":[["$","$L16",null,{"href":"/docs/products/databases/relationships","children":"Relationships"}]," - Update related rows"]}]]}]
+3f:["$","$L55",null,{"date":"$undefined"}]
+43:["$","$L42",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('<API_KEY>'); // Your secret API key\n\nconst tablesDB = new sdk.TablesDB(client);\n\nconst result = await tablesDB.incrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'likes', // column\n    value: 1 // value\n});\n","children":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('<API_KEY>'); // Your secret API key\n\nconst tablesDB = new sdk.TablesDB(client);\n\nconst result = await tablesDB.incrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'likes', // column\n    value: 1 // value\n});\n"}]
+44:["$","$L42",null,{"language":"server-python","content":"from clikkle.client import Client\nfrom clikkle.services.tables_db import TablesDB\n\nclient = Client()\nclient.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\nclient.set_project('<PROJECT_ID>') # Your project ID\nclient.set_key('<API_KEY>') # Your secret API key\n\ntablesDB = TablesDB(client)\n\nresult = tablesDB.increment_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'likes', # column\n    value = 1 # value\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.tables_db import TablesDB\n\nclient = Client()\nclient.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\nclient.set_project('<PROJECT_ID>') # Your project ID\nclient.set_key('<API_KEY>') # Your secret API key\n\ntablesDB = TablesDB(client)\n\nresult = tablesDB.increment_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'likes', # column\n    value = 1 # value\n)\n"}]
+45:["$","$L42",null,{"language":"graphql","content":"mutation {\n    databasesIncrementRowColumn(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        column: \"likes\",\n        value: 1\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n","children":"mutation {\n    databasesIncrementRowColumn(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        column: \"likes\",\n        value: 1\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n"}]
+46:["$","$L42",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('<API_KEY>'); // Your secret API key\n\nconst tablesDB = new sdk.TablesDB(client);\n\nconst result = await tablesDB.decrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 5 // value\n});\n","children":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('<API_KEY>'); // Your secret API key\n\nconst tablesDB = new sdk.TablesDB(client);\n\nconst result = await tablesDB.decrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 5 // value\n});\n"}]
+47:["$","$L42",null,{"language":"server-python","content":"from clikkle.client import Client\nfrom clikkle.services.tables_db import TablesDB\n\nclient = Client()\nclient.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\nclient.set_project('<PROJECT_ID>') # Your project ID\nclient.set_key('<API_KEY>') # Your secret API key\n\ntablesDB = TablesDB(client)\n\nresult = tablesDB.decrement_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'credits', # column\n    value = 5 # value\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.tables_db import TablesDB\n\nclient = Client()\nclient.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\nclient.set_project('<PROJECT_ID>') # Your project ID\nclient.set_key('<API_KEY>') # Your secret API key\n\ntablesDB = TablesDB(client)\n\nresult = tablesDB.decrement_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'credits', # column\n    value = 5 # value\n)\n"}]
+48:["$","$L42",null,{"language":"graphql","content":"mutation {\n    databasesDecrementRowColumn(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        column: \"credits\",\n        value: 5\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n","children":"mutation {\n    databasesDecrementRowColumn(\n        databaseId: \"<DATABASE_ID>\",\n        tableId: \"<TABLE_ID>\",\n        rowId: \"<ROW_ID>\",\n        column: \"credits\",\n        value: 5\n    ) {\n        _id\n        _tableId\n        _databaseId\n        _createdAt\n        _updatedAt\n        _permissions\n        data\n    }\n}\n"}]
+49:["$","$L42",null,{"language":"server-nodejs","content":"// Increment with maximum constraint\nconst result = await tablesDB.incrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 100, // value\n    max: 1000 // max (optional)\n});\n\n// Decrement with minimum constraint\nconst result2 = await tablesDB.decrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 50, // value\n    min: 0 // min (optional)\n});\n","children":"// Increment with maximum constraint\nconst result = await tablesDB.incrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 100, // value\n    max: 1000 // max (optional)\n});\n\n// Decrement with minimum constraint\nconst result2 = await tablesDB.decrementRowColumn({\n    databaseId: '<DATABASE_ID>',\n    tableId: '<TABLE_ID>',\n    rowId: '<ROW_ID>',\n    column: 'credits', // column\n    value: 50, // value\n    min: 0 // min (optional)\n});\n"}]
+4a:["$","$L42",null,{"language":"server-python","content":"# Increment with maximum constraint\nresult = tablesDB.increment_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'credits', # column\n    value = 100, # value\n    max = 1000 # max (optional)\n)\n\n# Decrement with minimum constraint\nresult2 = tablesDB.decrement_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'credits', # column\n    value = 50, # value\n    min = 0 # min (optional)\n)\n","children":"# Increment with maximum constraint\nresult = tablesDB.increment_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'credits', # column\n    value = 100, # value\n    max = 1000 # max (optional)\n)\n\n# Decrement with minimum constraint\nresult2 = tablesDB.decrement_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'credits', # column\n    value = 50, # value\n    min = 0 # min (optional)\n)\n"}]
+4b:["$","$L42",null,{"language":"server-nodejs","content":"// First, increment the likes atomically\nconst likeResult = await tablesDB.incrementRowColumn(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    'likes', // column\n    1 // value\n);\n\n// Then, update other fields\nconst updateResult = await tablesDB.updateRow(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    {\n        lastLikedBy: userId,\n        lastLikedAt: new Date().toISOString()\n    }\n);\n","children":"// First, increment the likes atomically\nconst likeResult = await tablesDB.incrementRowColumn(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    'likes', // column\n    1 // value\n);\n\n// Then, update other fields\nconst updateResult = await tablesDB.updateRow(\n    '<DATABASE_ID>',\n    '<TABLE_ID>',\n    '<ROW_ID>',\n    {\n        lastLikedBy: userId,\n        lastLikedAt: new Date().toISOString()\n    }\n);\n"}]
+4c:["$","$L42",null,{"language":"server-python","content":"# First, increment the likes atomically\nlike_result = tablesDB.increment_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'likes', # column\n    value = 1 # value\n)\n\n# Then, update other fields\nupdate_result = tablesDB.update_row(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    data = {\n        'lastLikedBy': user_id,\n        'lastLikedAt': datetime.now().isoformat()\n    }\n)\n","children":"# First, increment the likes atomically\nlike_result = tablesDB.increment_row_column(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    column = 'likes', # column\n    value = 1 # value\n)\n\n# Then, update other fields\nupdate_result = tablesDB.update_row(\n    database_id = '<DATABASE_ID>',\n    table_id = '<TABLE_ID>',\n    row_id = '<ROW_ID>',\n    data = {\n        'lastLikedBy': user_id,\n        'lastLikedAt': datetime.now().isoformat()\n    }\n)\n"}]
+4d:["$","$L42",null,{"language":"server-python","content":"tablesDB.increment_row_column(\n  database_id = '<DATABASE_ID>',\n  table_id = '<TABLE_ID>',\n  row_id = '<ROW_ID>',\n  column = 'likes',\n  value = 1,\n  transaction_id = '<TRANSACTION_ID>'\n)\n","children":"tablesDB.increment_row_column(\n  database_id = '<DATABASE_ID>',\n  table_id = '<TABLE_ID>',\n  row_id = '<ROW_ID>',\n  column = 'likes',\n  value = 1,\n  transaction_id = '<TRANSACTION_ID>'\n)\n"}]
+4e:["$","$L42",null,{"language":"server-php","content":"$$tablesDB->incrementRowColumn(\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n);\n","children":"$$tablesDB->incrementRowColumn(\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n);\n"}]
+4f:["$","$L42",null,{"language":"server-ruby","content":"tablesDB.increment_row_column(\n  database_id: '<DATABASE_ID>',\n  table_id: '<TABLE_ID>',\n  row_id: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transaction_id: '<TRANSACTION_ID>'\n)\n","children":"tablesDB.increment_row_column(\n  database_id: '<DATABASE_ID>',\n  table_id: '<TABLE_ID>',\n  row_id: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transaction_id: '<TRANSACTION_ID>'\n)\n"}]
+50:["$","$L42",null,{"language":"server-dotnet","content":"await tablesDB.IncrementRowColumn(\n  databaseId: \"<DATABASE_ID>\",\n  tableId: \"<TABLE_ID>\",\n  rowId: \"<ROW_ID>\",\n  column: \"likes\",\n  value: 1,\n  transactionId: \"<TRANSACTION_ID>\"\n);\n","children":"await tablesDB.IncrementRowColumn(\n  databaseId: \"<DATABASE_ID>\",\n  tableId: \"<TABLE_ID>\",\n  rowId: \"<ROW_ID>\",\n  column: \"likes\",\n  value: 1,\n  transactionId: \"<TRANSACTION_ID>\"\n);\n"}]
+51:["$","$L42",null,{"language":"server-dart","content":"await tablesDB.incrementRowColumn(\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n);\n","children":"await tablesDB.incrementRowColumn(\n  databaseId: '<DATABASE_ID>',\n  tableId: '<TABLE_ID>',\n  rowId: '<ROW_ID>',\n  column: 'likes',\n  value: 1,\n  transactionId: '<TRANSACTION_ID>'\n);\n"}]
+52:["$","$L42",null,{"language":"server-swift","content":"try await tablesDB.incrementRowColumn(\n  databaseId: \"<DATABASE_ID>\",\n  tableId: \"<TABLE_ID>\",\n  rowId: \"<ROW_ID>\",\n  column: \"likes\",\n  value: 1,\n  transactionId: \"<TRANSACTION_ID>\"\n)\n","children":"try await tablesDB.incrementRowColumn(\n  databaseId: \"<DATABASE_ID>\",\n  tableId: \"<TABLE_ID>\",\n  rowId: \"<ROW_ID>\",\n  column: \"likes\",\n  value: 1,\n  transactionId: \"<TRANSACTION_ID>\"\n)\n"}]
+53:["$","$L42",null,{"language":"server-kotlin","content":"tablesDB.incrementRowColumn(\n  databaseId = \"<DATABASE_ID>\",\n  tableId = \"<TABLE_ID>\",\n  rowId = \"<ROW_ID>\",\n  column = \"likes\",\n  value = 1,\n  transactionId = \"<TRANSACTION_ID>\"\n)\n","children":"tablesDB.incrementRowColumn(\n  databaseId = \"<DATABASE_ID>\",\n  tableId = \"<TABLE_ID>\",\n  rowId = \"<ROW_ID>\",\n  column = \"likes\",\n  value = 1,\n  transactionId = \"<TRANSACTION_ID>\"\n)\n"}]
+54:["$","$L42",null,{"language":"server-java","content":"tablesDB.incrementRowColumn(\n  \"<DATABASE_ID>\",\n  \"<TABLE_ID>\",\n  \"<ROW_ID>\",\n  \"likes\",\n  1,\n  \"<TRANSACTION_ID>\",\n  new CoroutineCallback<>((result, error) -> {\n    if (error != null) {\n      error.printStackTrace();\n      return null;\n    }\n    System.out.println(result);\n    return null;\n  })\n);\n","children":"tablesDB.incrementRowColumn(\n  \"<DATABASE_ID>\",\n  \"<TABLE_ID>\",\n  \"<ROW_ID>\",\n  \"likes\",\n  1,\n  \"<TRANSACTION_ID>\",\n  new CoroutineCallback<>((result, error) -> {\n    if (error != null) {\n      error.printStackTrace();\n      return null;\n    }\n    System.out.println(result);\n    return null;\n  })\n);\n"}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+56:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1c:null
+21:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L56","13",{}]]

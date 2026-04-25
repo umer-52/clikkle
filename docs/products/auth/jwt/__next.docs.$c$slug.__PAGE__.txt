@@ -1,0 +1,1198 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+2a:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+2b:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+2c:"$Sreact.suspense"
+31:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+3d:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T4820,---
+layout: article
+title: JWT login
+description: Integrate Clikkle's authentication into your server-side applications. Explore server integrations, best practices, and security considerations for seamless authentication.
+---
+
+You can extend Clikkle's APIs by building backend apps using [Server SDKs](/docs/sdks#server). To secure your backend app's APIs, client apps must prove their identity against your backend app before accessing sensitive information. You can secure these APIs and enforce access permissions in your backend app by using JWT authentication.
+
+If you are already authenticated on your client-side app and need your backend app to **act on behalf of the user**, this guide will walk you through the process.
+
+# Proof of Identity {% #proof-of-identity %}
+
+Before making requests to your backend APIs, your client application needs to first create a session **directly with Clikkle** using the account service. This session will act like an ID card for the user and can be used to access resources in Clikkle. The client will **only receive information accessible to the user** based on the resources' [permissions](/docs/advanced/platform/permissions).
+
+When you build backend APIs to extend Clikkle's functionality, these APIs should still **respect access permissions** to keep user data secure. Clikkle's backend SDKs allow you to securely act on behalf of a user with the same permissions by using JWT authentication.
+
+# JWT Authentication {% #jwt %}
+
+[JSON Web Tokens](https://jwt.io/introduction) (JWTs) are a secure means to transfer information or claims between two parties. JWTs act like temporary copies of the user's ID card that allow Clikkle's Server SDKs to access information on behalf of a user.
+
+You need to create a session using the Client SDKs **before** generating a JWT. The JWT will be a stateless proof of claim for the identity of the authenticated user and expire after 15 minutes or when the session is deleted.
+
+You can generate a JWT like this on a [Client SDK](/docs/sdks#client).
+
+{% multicode %}
+```client-web
+import { Client, Account } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+const account = new Account(client);
+
+const user = await account.createJWT();
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+final account = Account(client);
+
+final jwt = await account.createJWT();
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+
+let account = Account(client)
+
+let jwt = try await account.createJWT()
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Account
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+
+val account = Account(client)
+
+val jwt = account.createJWT()
+```
+```graphql
+mutation {
+    accountCreateJWT {
+        jwt
+    }
+}
+```
+{% /multicode %}
+
+Your server application can use the JWT to act on behalf of the user by creating a `Client` instance with the JWT for **each request it receives**. To keep your API secure, **discard the client object** after each request.
+
+Use JWTs tokens like this in a [Server SDK](/docs/sdks#server).
+{% multicode %}
+```js
+const { Client } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token
+```
+
+```php
+use Clikkle\Client;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                             // Your project ID
+    ->setJWT('eyJJ9.eyJ...886ca');                           // Your secret JSON Web Token
+```
+
+```python
+from clikkle.client import Client
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                  # Your project ID
+  .set_jwt('eyJJ9.eyJ...886ca')                 # Your secret JSON Web Token
+)
+```
+
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint
+    .set_project('<PROJECT_ID>')                    # Your project ID
+    .set_jwt('eyJJ9.eyJ...886ca')                   # Your secret JSON Web Token
+```
+
+```deno
+import { Client } from "npm:node-clikkle";
+
+let client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                     // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
+```
+
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                     // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
+```
+
+```kotlin
+import io.clikkle.Client
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                     // Your project ID
+    .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                     // Your project ID
+    .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
+```
+
+```csharp
+using Clikkle;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                     // Your project ID
+    .SetJWT("eyJJ9.eyJ...886ca");                   // Your secret JSON Web Token
+```
+{% /multicode %}
+
+
+# When should I use JWTs? {% #when-to-use %}
+
+JWT auth is useful when you need your backend app's Server SDK to be restricted by the same set of permissions.
+
+If your backend app's Server SDK is using an [API key](/docs/advanced/platform/api-keys), it will fetch **all resources** regardless of permissions. This means the Server SDK might fetch files and rows your user should not be able to see, which is not helpful when you need to act on behalf of a user.
+
+If your backend app's Server SDK is using a **JWT**, it will only fetch resources your user has permissions to access.
+
+# Example {% #when-to-use-example %}
+
+Here's an example table of birthdays with the following rows. Notice how they all have **different permissions**.
+
+| $id         | name  | birthday  | $permissions          |
+|-------------|-------|-----------|------------------------|
+| ac5fc866ad1e| Kevin | 2012-02-03| "read(\"user:user-a\")"|
+| bc7fc866ad1e| Laura | 1999-09-22| "read(\"user:user-b\")"|
+| cc2fc886ad1e| Bob   | 1982-05-11| "read(\"user:user-c\")"|
+
+If you're authenticated on the client-side as `user-a` and created a JWT `'eyJJ9.eyJ...886ca'`, you can pass this JWT to a Server SDK on the backend server to fetch only the birthdays `user-a` can read.
+
+{% multicode %}
+```js
+const { Client } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token
+
+const tablesDB = new sdk.TablesDB(client);
+
+const rows = await tablesDB.listRows({
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+});
+// ... More code to manipulate the results
+```
+```php
+use Clikkle\Client;
+
+$client = (new Client())
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint
+    .setProject('<PROJECT_ID>')                           // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                          // Your secret JSON Web Tokens
+
+$tablesDB = new TablesDB($client);
+
+$rows = $tablesDB->listRows(
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+);
+// ... More code to manipulate the results
+```
+```python
+from clikkle.client import Client
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')              # Your API Endpoint
+  .set_project('<PROJECT_ID>')                             # Your project ID
+  .set_jwt('eyJJ9.eyJ...886ca')                             # Your secret JSON Web Token
+)
+
+tablesDB = TablesDB(client)
+
+rows = tablesDB.list_rows(
+    database_id='642f358bf4084c662590',
+    table_id='642f3592aa5fc856ad1e'
+)
+# ... More code to manipulate the results
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')            # Your API Endpoint
+    .set_project('<PROJECT_ID>')                           # Your project ID
+    .set_jwt('eyJJ9.eyJ...886ca')                           # Your secret JSON Web Token
+
+tablesDB = TablesDB.new(client)
+
+rows = tablesDB.list_rows(
+    database_id: '642f358bf4084c662590',
+    table_id: '642f3592aa5fc856ad1e'
+)
+# ... More code to manipulate the results
+```
+```deno
+import { Client } from "npm:node-clikkle";
+
+let client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                     // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
+
+let tablesDB = new sdk.TablesDB(client);
+
+let rows = await tablesDB.listRows({
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+});
+// ... More code to manipulate the results
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                     // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
+
+final tablesDB = TablesDB(client);
+
+final rows = await tablesDB.listRows(
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e',
+);
+// ... More code to manipulate the results
+```
+```kotlin
+import io.clikkle.Client
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                     // Your project ID
+    .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
+
+val tablesDB = TablesDB(client)
+
+val rows = tablesDB.listRows(
+    databaseId = "642f358bf4084c662590",
+    tableId = "642f3592aa5fc856ad1e",
+)
+// ... More code to manipulate the results
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                     // Your project ID
+    .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
+    
+let tablesDB = TablesDB(client)
+
+let rows = try await tablesDB.listRows(
+    databaseId: "642f358bf4084c662590",
+    tableId: "642f3592aa5fc856ad1e"
+)
+// ... More code to manipulate the results
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                     // Your project ID
+    .SetJWT("eyJJ9.eyJ...886ca");                   // Your secret JSON Web Token
+
+var tablesDB = new TablesDB(client);
+
+var rows = await databases.listRows(
+    databaseId: "642f358bf4084c662590",
+    tableId: "642f3592aa5fc856ad1e");
+
+// ... More code to manipulate the results
+```
+
+{% /multicode %}
+
+Only Kevin's birthday is returned and rows where `user-A` has no permissions to access are not returned.
+
+```js
+{
+  "total": 1,
+  "rows": [
+    {
+      "name": "Kevin",
+      "birthday": "2012-02-03T00:00:00.000+00:00",
+      "$id": "ac5fc866ad1e",
+      "$permissions": [
+        "read(\"user:user-a\")"
+      ],
+      "$tableId": "642f3592aa5fc856ad1e",
+      "$databaseId": "642f358bf4084c662590",
+      ...
+    }
+  ]
+}
+```
+
+If the same request is made where the [Server SDK](/docs/sdks#server)'s `client` is authenticated with an API key instead of a JWT, the results returned will be different.
+
+{% multicode %}
+```js
+const { Client } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+const tablesDB = new sdk.TablesDB(client);
+
+const rows = await tablesDB.listRows({
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+});
+// ... More code to manipulate the results
+```
+
+```php
+use Clikkle\Client;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                  // Your project ID
+    ->setKey('98fd4...a2ad2');                    // Your secret API key
+
+$tablesDB = new TablesDB($client);
+
+$rows = $tablesDB->listRows(
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+);
+// ... More code to manipulate the results
+```
+
+```python
+from clikkle.client import Client
+
+client = Client()
+(client
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .set_project('<PROJECT_ID>')                  // Your project ID
+    .set_key('98fd4...a2ad2')                     // Your secret API key
+)
+
+tablesDB = TablesDB(client)
+
+rows = tablesDB.list_rows(
+    database_id='642f358bf4084c662590',
+    table_id='642f3592aa5fc856ad1e'
+)
+// ... More code to manipulate the results
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                  # Your project ID
+    .set_key('98fd4...a2ad2')                     # Your secret API key
+
+tablesDB = TablesDB.new(client)
+
+rows = tablesDB.list_rows(
+    database_id: '642f358bf4084c662590',
+    table_id: '642f3592aa5fc856ad1e'
+)
+# ... More code to manipulate the results
+```
+```deno
+import { Client } from "npm:node-clikkle";
+
+let client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+let tablesDB = new sdk.TablesDB(client);
+
+let rows = await tablesDB.listRows({
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+});
+// ... More code to manipulate the results
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+final tablesDB = TablesDB(client);
+
+final rows = await tablesDB.listRows(
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e',
+);
+// ... More code to manipulate the results
+```
+```kotlin
+import io.clikkle.Client
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+val tablesDB = TablesDB(client)
+
+val rows = tablesDB.listRows(
+    databaseId = "642f358bf4084c662590",
+    tableId = "642f3592aa5fc856ad1e",
+)
+// ... More code to manipulate the results
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+let tablesDB = TablesDB(client)
+
+let rows = try await tablesDB.listRows(
+    databaseId: "642f358bf4084c662590",
+    tableId: "642f3592aa5fc856ad1e"
+)
+// ... More code to manipulate the results
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey('98fd4...a2ad2');                    // Your secret API key
+
+var tablesDB = new TablesDB(client);
+
+var rows = await databases.listRows(
+    databaseId: "642f358bf4084c662590",
+    tableId: "642f3592aa5fc856ad1e");
+
+// ... More code to manipulate the results
+```
+{% /multicode %}
+
+This will return every row regardless of permissions, which could lead to privacy and security problems.
+
+```json
+{
+  "total": 3,
+  "rows": [
+    {
+      "name": "Kevin",
+      "birthday": "2012-02-03T00:00:00.000+00:00",
+      "$id": "ac5fc866ad1e",
+      "$permissions": [
+        "read(\"user:user-a\")"
+      ],
+      "$tableId": "642f3592aa5fc856ad1e",
+      "$databaseId": "642f358bf4084c662590",
+      ...
+    },
+    {
+      "name": "Laura",
+      "birthday": "1999-09-22T11:21:23.334+00:00",
+      "$id": "bc7fc866ad1e",
+      "$permissions": [
+        "read(\"user:user-b\")"
+      ],
+      "$tableId": "642f3592aa5fc856ad1e",
+      "$databaseId": "642f358bf4084c662590",
+      ...
+    },
+    {
+      "name": "Bob",
+      "birthday": "1982-05-11T12:31:39.381+00:00",
+      "$id": "cc2fc886ad1e",
+      "$permissions": [
+        "read(\"user:user-c\")"
+      ],
+      "$tableId": "642f3592aa5fc856ad1e",
+      "$databaseId": "642f358bf4084c662590",
+      ...
+    }
+  ]
+}
+```
+
+If you're integrating existing backend services with Clikkle or adding backend endpoints to perform more complex logic, JWT authentication helps them behave similarly to actual Clikkle endpoints.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T4820,---
+layout: article
+title: JWT login
+description: Integrate Clikkle's authentication into your server-side applications. Explore server integrations, best practices, and security considerations for seamless authentication.
+---
+
+You can extend Clikkle's APIs by building backend apps using [Server SDKs](/docs/sdks#server). To secure your backend app's APIs, client apps must prove their identity against your backend app before accessing sensitive information. You can secure these APIs and enforce access permissions in your backend app by using JWT authentication.
+
+If you are already authenticated on your client-side app and need your backend app to **act on behalf of the user**, this guide will walk you through the process.
+
+# Proof of Identity {% #proof-of-identity %}
+
+Before making requests to your backend APIs, your client application needs to first create a session **directly with Clikkle** using the account service. This session will act like an ID card for the user and can be used to access resources in Clikkle. The client will **only receive information accessible to the user** based on the resources' [permissions](/docs/advanced/platform/permissions).
+
+When you build backend APIs to extend Clikkle's functionality, these APIs should still **respect access permissions** to keep user data secure. Clikkle's backend SDKs allow you to securely act on behalf of a user with the same permissions by using JWT authentication.
+
+# JWT Authentication {% #jwt %}
+
+[JSON Web Tokens](https://jwt.io/introduction) (JWTs) are a secure means to transfer information or claims between two parties. JWTs act like temporary copies of the user's ID card that allow Clikkle's Server SDKs to access information on behalf of a user.
+
+You need to create a session using the Client SDKs **before** generating a JWT. The JWT will be a stateless proof of claim for the identity of the authenticated user and expire after 15 minutes or when the session is deleted.
+
+You can generate a JWT like this on a [Client SDK](/docs/sdks#client).
+
+{% multicode %}
+```client-web
+import { Client, Account } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+const account = new Account(client);
+
+const user = await account.createJWT();
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+final account = Account(client);
+
+final jwt = await account.createJWT();
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+
+let account = Account(client)
+
+let jwt = try await account.createJWT()
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Account
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+
+val account = Account(client)
+
+val jwt = account.createJWT()
+```
+```graphql
+mutation {
+    accountCreateJWT {
+        jwt
+    }
+}
+```
+{% /multicode %}
+
+Your server application can use the JWT to act on behalf of the user by creating a `Client` instance with the JWT for **each request it receives**. To keep your API secure, **discard the client object** after each request.
+
+Use JWTs tokens like this in a [Server SDK](/docs/sdks#server).
+{% multicode %}
+```js
+const { Client } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token
+```
+
+```php
+use Clikkle\Client;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                             // Your project ID
+    ->setJWT('eyJJ9.eyJ...886ca');                           // Your secret JSON Web Token
+```
+
+```python
+from clikkle.client import Client
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                  # Your project ID
+  .set_jwt('eyJJ9.eyJ...886ca')                 # Your secret JSON Web Token
+)
+```
+
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint
+    .set_project('<PROJECT_ID>')                    # Your project ID
+    .set_jwt('eyJJ9.eyJ...886ca')                   # Your secret JSON Web Token
+```
+
+```deno
+import { Client } from "npm:node-clikkle";
+
+let client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                     // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
+```
+
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                     // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
+```
+
+```kotlin
+import io.clikkle.Client
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                     // Your project ID
+    .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                     // Your project ID
+    .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
+```
+
+```csharp
+using Clikkle;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                     // Your project ID
+    .SetJWT("eyJJ9.eyJ...886ca");                   // Your secret JSON Web Token
+```
+{% /multicode %}
+
+
+# When should I use JWTs? {% #when-to-use %}
+
+JWT auth is useful when you need your backend app's Server SDK to be restricted by the same set of permissions.
+
+If your backend app's Server SDK is using an [API key](/docs/advanced/platform/api-keys), it will fetch **all resources** regardless of permissions. This means the Server SDK might fetch files and rows your user should not be able to see, which is not helpful when you need to act on behalf of a user.
+
+If your backend app's Server SDK is using a **JWT**, it will only fetch resources your user has permissions to access.
+
+# Example {% #when-to-use-example %}
+
+Here's an example table of birthdays with the following rows. Notice how they all have **different permissions**.
+
+| $id         | name  | birthday  | $permissions          |
+|-------------|-------|-----------|------------------------|
+| ac5fc866ad1e| Kevin | 2012-02-03| "read(\"user:user-a\")"|
+| bc7fc866ad1e| Laura | 1999-09-22| "read(\"user:user-b\")"|
+| cc2fc886ad1e| Bob   | 1982-05-11| "read(\"user:user-c\")"|
+
+If you're authenticated on the client-side as `user-a` and created a JWT `'eyJJ9.eyJ...886ca'`, you can pass this JWT to a Server SDK on the backend server to fetch only the birthdays `user-a` can read.
+
+{% multicode %}
+```js
+const { Client } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token
+
+const tablesDB = new sdk.TablesDB(client);
+
+const rows = await tablesDB.listRows({
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+});
+// ... More code to manipulate the results
+```
+```php
+use Clikkle\Client;
+
+$client = (new Client())
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint
+    .setProject('<PROJECT_ID>')                           // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                          // Your secret JSON Web Tokens
+
+$tablesDB = new TablesDB($client);
+
+$rows = $tablesDB->listRows(
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+);
+// ... More code to manipulate the results
+```
+```python
+from clikkle.client import Client
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')              # Your API Endpoint
+  .set_project('<PROJECT_ID>')                             # Your project ID
+  .set_jwt('eyJJ9.eyJ...886ca')                             # Your secret JSON Web Token
+)
+
+tablesDB = TablesDB(client)
+
+rows = tablesDB.list_rows(
+    database_id='642f358bf4084c662590',
+    table_id='642f3592aa5fc856ad1e'
+)
+# ... More code to manipulate the results
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')            # Your API Endpoint
+    .set_project('<PROJECT_ID>')                           # Your project ID
+    .set_jwt('eyJJ9.eyJ...886ca')                           # Your secret JSON Web Token
+
+tablesDB = TablesDB.new(client)
+
+rows = tablesDB.list_rows(
+    database_id: '642f358bf4084c662590',
+    table_id: '642f3592aa5fc856ad1e'
+)
+# ... More code to manipulate the results
+```
+```deno
+import { Client } from "npm:node-clikkle";
+
+let client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                     // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
+
+let tablesDB = new sdk.TablesDB(client);
+
+let rows = await tablesDB.listRows({
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+});
+// ... More code to manipulate the results
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                     // Your project ID
+    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token
+
+final tablesDB = TablesDB(client);
+
+final rows = await tablesDB.listRows(
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e',
+);
+// ... More code to manipulate the results
+```
+```kotlin
+import io.clikkle.Client
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                     // Your project ID
+    .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
+
+val tablesDB = TablesDB(client)
+
+val rows = tablesDB.listRows(
+    databaseId = "642f358bf4084c662590",
+    tableId = "642f3592aa5fc856ad1e",
+)
+// ... More code to manipulate the results
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                     // Your project ID
+    .setJWT("eyJJ9.eyJ...886ca")                    // Your secret JSON Web Token
+    
+let tablesDB = TablesDB(client)
+
+let rows = try await tablesDB.listRows(
+    databaseId: "642f358bf4084c662590",
+    tableId: "642f3592aa5fc856ad1e"
+)
+// ... More code to manipulate the results
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                     // Your project ID
+    .SetJWT("eyJJ9.eyJ...886ca");                   // Your secret JSON Web Token
+
+var tablesDB = new TablesDB(client);
+
+var rows = await databases.listRows(
+    databaseId: "642f358bf4084c662590",
+    tableId: "642f3592aa5fc856ad1e");
+
+// ... More code to manipulate the results
+```
+
+{% /multicode %}
+
+Only Kevin's birthday is returned and rows where `user-A` has no permissions to access are not returned.
+
+```js
+{
+  "total": 1,
+  "rows": [
+    {
+      "name": "Kevin",
+      "birthday": "2012-02-03T00:00:00.000+00:00",
+      "$id": "ac5fc866ad1e",
+      "$permissions": [
+        "read(\"user:user-a\")"
+      ],
+      "$tableId": "642f3592aa5fc856ad1e",
+      "$databaseId": "642f358bf4084c662590",
+      ...
+    }
+  ]
+}
+```
+
+If the same request is made where the [Server SDK](/docs/sdks#server)'s `client` is authenticated with an API key instead of a JWT, the results returned will be different.
+
+{% multicode %}
+```js
+const { Client } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+const tablesDB = new sdk.TablesDB(client);
+
+const rows = await tablesDB.listRows({
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+});
+// ... More code to manipulate the results
+```
+
+```php
+use Clikkle\Client;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                  // Your project ID
+    ->setKey('98fd4...a2ad2');                    // Your secret API key
+
+$tablesDB = new TablesDB($client);
+
+$rows = $tablesDB->listRows(
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+);
+// ... More code to manipulate the results
+```
+
+```python
+from clikkle.client import Client
+
+client = Client()
+(client
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .set_project('<PROJECT_ID>')                  // Your project ID
+    .set_key('98fd4...a2ad2')                     // Your secret API key
+)
+
+tablesDB = TablesDB(client)
+
+rows = tablesDB.list_rows(
+    database_id='642f358bf4084c662590',
+    table_id='642f3592aa5fc856ad1e'
+)
+// ... More code to manipulate the results
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                  # Your project ID
+    .set_key('98fd4...a2ad2')                     # Your secret API key
+
+tablesDB = TablesDB.new(client)
+
+rows = tablesDB.list_rows(
+    database_id: '642f358bf4084c662590',
+    table_id: '642f3592aa5fc856ad1e'
+)
+# ... More code to manipulate the results
+```
+```deno
+import { Client } from "npm:node-clikkle";
+
+let client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+let tablesDB = new sdk.TablesDB(client);
+
+let rows = await tablesDB.listRows({
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e'
+});
+// ... More code to manipulate the results
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+final tablesDB = TablesDB(client);
+
+final rows = await tablesDB.listRows(
+    databaseId: '642f358bf4084c662590',
+    tableId: '642f3592aa5fc856ad1e',
+);
+// ... More code to manipulate the results
+```
+```kotlin
+import io.clikkle.Client
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+val tablesDB = TablesDB(client)
+
+val rows = tablesDB.listRows(
+    databaseId = "642f358bf4084c662590",
+    tableId = "642f3592aa5fc856ad1e",
+)
+// ... More code to manipulate the results
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+let tablesDB = TablesDB(client)
+
+let rows = try await tablesDB.listRows(
+    databaseId: "642f358bf4084c662590",
+    tableId: "642f3592aa5fc856ad1e"
+)
+// ... More code to manipulate the results
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey('98fd4...a2ad2');                    // Your secret API key
+
+var tablesDB = new TablesDB(client);
+
+var rows = await databases.listRows(
+    databaseId: "642f358bf4084c662590",
+    tableId: "642f3592aa5fc856ad1e");
+
+// ... More code to manipulate the results
+```
+{% /multicode %}
+
+This will return every row regardless of permissions, which could lead to privacy and security problems.
+
+```json
+{
+  "total": 3,
+  "rows": [
+    {
+      "name": "Kevin",
+      "birthday": "2012-02-03T00:00:00.000+00:00",
+      "$id": "ac5fc866ad1e",
+      "$permissions": [
+        "read(\"user:user-a\")"
+      ],
+      "$tableId": "642f3592aa5fc856ad1e",
+      "$databaseId": "642f358bf4084c662590",
+      ...
+    },
+    {
+      "name": "Laura",
+      "birthday": "1999-09-22T11:21:23.334+00:00",
+      "$id": "bc7fc866ad1e",
+      "$permissions": [
+        "read(\"user:user-b\")"
+      ],
+      "$tableId": "642f3592aa5fc856ad1e",
+      "$databaseId": "642f358bf4084c662590",
+      ...
+    },
+    {
+      "name": "Bob",
+      "birthday": "1982-05-11T12:31:39.381+00:00",
+      "$id": "cc2fc886ad1e",
+      "$permissions": [
+        "read(\"user:user-c\")"
+      ],
+      "$tableId": "642f3592aa5fc856ad1e",
+      "$databaseId": "642f358bf4084c662590",
+      ...
+    }
+  ]
+}
+```
+
+If you're integrating existing backend services with Clikkle or adding backend endpoints to perform more complex logic, JWT authentication helps them behave similarly to actual Clikkle endpoints.
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"JWT login"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can extend Clikkle's APIs by building backend apps using ",["$","$Le",null,{"href":"/docs/sdks#server","children":"Server SDKs"}],". To secure your backend app's APIs, client apps must prove their identity against your backend app before accessing sensitive information. You can secure these APIs and enforce access permissions in your backend app by using JWT authentication."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you are already authenticated on your client-side app and need your backend app to ",["$","strong",null,{"children":"act on behalf of the user"}],", this guide will walk you through the process."]}],["$","$Lf",null,{"id":"proof-of-identity","level":1,"children":"Proof of Identity "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before making requests to your backend APIs, your client application needs to first create a session ",["$","strong",null,{"children":"directly with Clikkle"}]," using the account service. This session will act like an ID card for the user and can be used to access resources in Clikkle. The client will ",["$","strong",null,{"children":"only receive information accessible to the user"}]," based on the resources' ",["$","$Le",null,{"href":"/docs/advanced/platform/permissions","children":"permissions"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When you build backend APIs to extend Clikkle's functionality, these APIs should still ",["$","strong",null,{"children":"respect access permissions"}]," to keep user data secure. Clikkle's backend SDKs allow you to securely act on behalf of a user with the same permissions by using JWT authentication."]}],["$","$Lf",null,{"id":"jwt","level":1,"children":"JWT Authentication "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","a",null,{"href":"https://jwt.io/introduction","target":"_blank","rel":"noopener nofollow","children":"JSON Web Tokens"}]," (JWTs) are a secure means to transfer information or claims between two parties. JWTs act like temporary copies of the user's ID card that allow Clikkle's Server SDKs to access information on behalf of a user."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You need to create a session using the Client SDKs ",["$","strong",null,{"children":"before"}]," generating a JWT. The JWT will be a stateless proof of claim for the identity of the authenticated user and expire after 15 minutes or when the session is deleted."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can generate a JWT like this on a ",["$","$Le",null,{"href":"/docs/sdks#client","children":"Client SDK"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Account } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nconst account = new Account(client);\n\nconst user = await account.createJWT();\n","children":"import { Client, Account } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nconst account = new Account(client);\n\nconst user = await account.createJWT();\n"}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}]]}],"$L29"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L2a",null,{"items":[{"id":"proof-of-identity","title":"Proof of Identity","level":1},{"id":"jwt","title":"JWT Authentication","level":1},{"id":"when-to-use","title":"When should I use JWTs?","level":1},{"id":"when-to-use-example","title":"Example","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L2b",null,{"children":["$","$2c",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+12:["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nfinal account = Account(client);\n\nfinal jwt = await account.createJWT();\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nfinal account = Account(client);\n\nfinal jwt = await account.createJWT();\n"}]
+13:["$","$L11",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n\nlet account = Account(client)\n\nlet jwt = try await account.createJWT()\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n\nlet account = Account(client)\n\nlet jwt = try await account.createJWT()\n"}]
+14:["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Account\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n\nval account = Account(client)\n\nval jwt = account.createJWT()\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Account\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n\nval account = Account(client)\n\nval jwt = account.createJWT()\n"}]
+15:["$","$L11",null,{"language":"graphql","content":"mutation {\n    accountCreateJWT {\n        jwt\n    }\n}\n","children":"mutation {\n    accountCreateJWT {\n        jwt\n    }\n}\n"}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Your server application can use the JWT to act on behalf of the user by creating a ",["$","code",null,{"children":"Client"}]," instance with the JWT for ",["$","strong",null,{"children":"each request it receives"}],". To keep your API secure, ",["$","strong",null,{"children":"discard the client object"}]," after each request."]}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use JWTs tokens like this in a ",["$","$Le",null,{"href":"/docs/sdks#server","children":"Server SDK"}],"."]}]
+18:["$","$L10",null,{"children":[["$","$L11",null,{"language":"js","content":"const { Client } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token\n","children":"const { Client } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token\n"}],["$","$L11",null,{"language":"php","content":"use Clikkle\\Client;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                             // Your project ID\n    ->setJWT('eyJJ9.eyJ...886ca');                           // Your secret JSON Web Token\n","children":"use Clikkle\\Client;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                             // Your project ID\n    ->setJWT('eyJJ9.eyJ...886ca');                           // Your secret JSON Web Token\n"}],["$","$L11",null,{"language":"python","content":"from clikkle.client import Client\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                  # Your project ID\n  .set_jwt('eyJJ9.eyJ...886ca')                 # Your secret JSON Web Token\n)\n","children":"from clikkle.client import Client\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                  # Your project ID\n  .set_jwt('eyJJ9.eyJ...886ca')                 # Your secret JSON Web Token\n)\n"}],["$","$L11",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint\n    .set_project('<PROJECT_ID>')                    # Your project ID\n    .set_jwt('eyJJ9.eyJ...886ca')                   # Your secret JSON Web Token\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint\n    .set_project('<PROJECT_ID>')                    # Your project ID\n    .set_jwt('eyJJ9.eyJ...886ca')                   # Your secret JSON Web Token\n"}],["$","$L11",null,{"language":"deno","content":"import { Client } from \"npm:node-clikkle\";\n\nlet client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                     // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token\n","children":"import { Client } from \"npm:node-clikkle\";\n\nlet client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                     // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token\n"}],["$","$L11",null,{"language":"dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                     // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                     // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token\n"}],"$L2e","$L2f","$L30"]}]
+19:["$","$Lf",null,{"id":"when-to-use","level":1,"children":"When should I use JWTs? "}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"JWT auth is useful when you need your backend app's Server SDK to be restricted by the same set of permissions."}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If your backend app's Server SDK is using an ",["$","$Le",null,{"href":"/docs/advanced/platform/api-keys","children":"API key"}],", it will fetch ",["$","strong",null,{"children":"all resources"}]," regardless of permissions. This means the Server SDK might fetch files and rows your user should not be able to see, which is not helpful when you need to act on behalf of a user."]}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If your backend app's Server SDK is using a ",["$","strong",null,{"children":"JWT"}],", it will only fetch resources your user has permissions to access."]}]
+1d:["$","$Lf",null,{"id":"when-to-use-example","level":1,"children":"Example "}]
+1e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Here's an example table of birthdays with the following rows. Notice how they all have ",["$","strong",null,{"children":"different permissions"}],"."]}]
+1f:["$","$L31",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"$$id"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"name"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"birthday"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"$$permissions"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"ac5fc866ad1e"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Kevin"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"2012-02-03"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"\"read(\"user:user-a\")\""}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"bc7fc866ad1e"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Laura"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"1999-09-22"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"\"read(\"user:user-b\")\""}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"cc2fc886ad1e"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Bob"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"1982-05-11"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L32"}]]}]]}]]}]
+20:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you're authenticated on the client-side as ",["$","code",null,{"children":"user-a"}]," and created a JWT ",["$","code",null,{"children":"'eyJJ9.eyJ...886ca'"}],", you can pass this JWT to a Server SDK on the backend server to fetch only the birthdays ",["$","code",null,{"children":"user-a"}]," can read."]}]
+21:["$","$L10",null,{"children":[["$","$L11",null,{"language":"js","content":"const { Client } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token\n\nconst tablesDB = new sdk.TablesDB(client);\n\nconst rows = await tablesDB.listRows({\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n});\n// ... More code to manipulate the results\n","children":"const { Client } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                // Your secret JSON Web Token\n\nconst tablesDB = new sdk.TablesDB(client);\n\nconst rows = await tablesDB.listRows({\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n});\n// ... More code to manipulate the results\n"}],["$","$L11",null,{"language":"php","content":"use Clikkle\\Client;\n\n$client = (new Client())\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint\n    .setProject('<PROJECT_ID>')                           // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                          // Your secret JSON Web Tokens\n\n$tablesDB = new TablesDB($client);\n\n$rows = $tablesDB->listRows(\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n);\n// ... More code to manipulate the results\n","children":"use Clikkle\\Client;\n\n$client = (new Client())\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')            // Your API Endpoint\n    .setProject('<PROJECT_ID>')                           // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                          // Your secret JSON Web Tokens\n\n$tablesDB = new TablesDB($client);\n\n$rows = $tablesDB->listRows(\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n);\n// ... More code to manipulate the results\n"}],["$","$L11",null,{"language":"python","content":"from clikkle.client import Client\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')              # Your API Endpoint\n  .set_project('<PROJECT_ID>')                             # Your project ID\n  .set_jwt('eyJJ9.eyJ...886ca')                             # Your secret JSON Web Token\n)\n\ntablesDB = TablesDB(client)\n\nrows = tablesDB.list_rows(\n    database_id='642f358bf4084c662590',\n    table_id='642f3592aa5fc856ad1e'\n)\n# ... More code to manipulate the results\n","children":"from clikkle.client import Client\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')              # Your API Endpoint\n  .set_project('<PROJECT_ID>')                             # Your project ID\n  .set_jwt('eyJJ9.eyJ...886ca')                             # Your secret JSON Web Token\n)\n\ntablesDB = TablesDB(client)\n\nrows = tablesDB.list_rows(\n    database_id='642f358bf4084c662590',\n    table_id='642f3592aa5fc856ad1e'\n)\n# ... More code to manipulate the results\n"}],["$","$L11",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')            # Your API Endpoint\n    .set_project('<PROJECT_ID>')                           # Your project ID\n    .set_jwt('eyJJ9.eyJ...886ca')                           # Your secret JSON Web Token\n\ntablesDB = TablesDB.new(client)\n\nrows = tablesDB.list_rows(\n    database_id: '642f358bf4084c662590',\n    table_id: '642f3592aa5fc856ad1e'\n)\n# ... More code to manipulate the results\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')            # Your API Endpoint\n    .set_project('<PROJECT_ID>')                           # Your project ID\n    .set_jwt('eyJJ9.eyJ...886ca')                           # Your secret JSON Web Token\n\ntablesDB = TablesDB.new(client)\n\nrows = tablesDB.list_rows(\n    database_id: '642f358bf4084c662590',\n    table_id: '642f3592aa5fc856ad1e'\n)\n# ... More code to manipulate the results\n"}],"$L33","$L34","$L35","$L36","$L37"]}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Only Kevin's birthday is returned and rows where ",["$","code",null,{"children":"user-A"}]," has no permissions to access are not returned."]}]
+23:["$","$L11",null,{"language":"js","content":"{\n  \"total\": 1,\n  \"rows\": [\n    {\n      \"name\": \"Kevin\",\n      \"birthday\": \"2012-02-03T00:00:00.000+00:00\",\n      \"$id\": \"ac5fc866ad1e\",\n      \"$permissions\": [\n        \"read(\\\"user:user-a\\\")\"\n      ],\n      \"$tableId\": \"642f3592aa5fc856ad1e\",\n      \"$databaseId\": \"642f358bf4084c662590\",\n      ...\n    }\n  ]\n}\n","children":"{\n  \"total\": 1,\n  \"rows\": [\n    {\n      \"name\": \"Kevin\",\n      \"birthday\": \"2012-02-03T00:00:00.000+00:00\",\n      \"$id\": \"ac5fc866ad1e\",\n      \"$permissions\": [\n        \"read(\\\"user:user-a\\\")\"\n      ],\n      \"$tableId\": \"642f3592aa5fc856ad1e\",\n      \"$databaseId\": \"642f358bf4084c662590\",\n      ...\n    }\n  ]\n}\n"}]
+24:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the same request is made where the ",["$","$Le",null,{"href":"/docs/sdks#server","children":"Server SDK"}],"'s ",["$","code",null,{"children":"client"}]," is authenticated with an API key instead of a JWT, the results returned will be different."]}]
+25:["$","$L10",null,{"children":[["$","$L11",null,{"language":"js","content":"const { Client } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nconst tablesDB = new sdk.TablesDB(client);\n\nconst rows = await tablesDB.listRows({\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n});\n// ... More code to manipulate the results\n","children":"const { Client } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nconst tablesDB = new sdk.TablesDB(client);\n\nconst rows = await tablesDB.listRows({\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n});\n// ... More code to manipulate the results\n"}],["$","$L11",null,{"language":"php","content":"use Clikkle\\Client;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                  // Your project ID\n    ->setKey('98fd4...a2ad2');                    // Your secret API key\n\n$tablesDB = new TablesDB($client);\n\n$rows = $tablesDB->listRows(\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n);\n// ... More code to manipulate the results\n","children":"use Clikkle\\Client;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                  // Your project ID\n    ->setKey('98fd4...a2ad2');                    // Your secret API key\n\n$tablesDB = new TablesDB($client);\n\n$rows = $tablesDB->listRows(\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n);\n// ... More code to manipulate the results\n"}],["$","$L11",null,{"language":"python","content":"from clikkle.client import Client\n\nclient = Client()\n(client\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .set_project('<PROJECT_ID>')                  // Your project ID\n    .set_key('98fd4...a2ad2')                     // Your secret API key\n)\n\ntablesDB = TablesDB(client)\n\nrows = tablesDB.list_rows(\n    database_id='642f358bf4084c662590',\n    table_id='642f3592aa5fc856ad1e'\n)\n// ... More code to manipulate the results\n","children":"from clikkle.client import Client\n\nclient = Client()\n(client\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .set_project('<PROJECT_ID>')                  // Your project ID\n    .set_key('98fd4...a2ad2')                     // Your secret API key\n)\n\ntablesDB = TablesDB(client)\n\nrows = tablesDB.list_rows(\n    database_id='642f358bf4084c662590',\n    table_id='642f3592aa5fc856ad1e'\n)\n// ... More code to manipulate the results\n"}],["$","$L11",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                  # Your project ID\n    .set_key('98fd4...a2ad2')                     # Your secret API key\n\ntablesDB = TablesDB.new(client)\n\nrows = tablesDB.list_rows(\n    database_id: '642f358bf4084c662590',\n    table_id: '642f3592aa5fc856ad1e'\n)\n# ... More code to manipulate the results\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                  # Your project ID\n    .set_key('98fd4...a2ad2')                     # Your secret API key\n\ntablesDB = TablesDB.new(client)\n\nrows = tablesDB.list_rows(\n    database_id: '642f358bf4084c662590',\n    table_id: '642f3592aa5fc856ad1e'\n)\n# ... More code to manipulate the results\n"}],"$L38","$L39","$L3a","$L3b","$L3c"]}]
+26:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This will return every row regardless of permissions, which could lead to privacy and security problems."}]
+27:["$","$L11",null,{"language":"json","content":"{\n  \"total\": 3,\n  \"rows\": [\n    {\n      \"name\": \"Kevin\",\n      \"birthday\": \"2012-02-03T00:00:00.000+00:00\",\n      \"$id\": \"ac5fc866ad1e\",\n      \"$permissions\": [\n        \"read(\\\"user:user-a\\\")\"\n      ],\n      \"$tableId\": \"642f3592aa5fc856ad1e\",\n      \"$databaseId\": \"642f358bf4084c662590\",\n      ...\n    },\n    {\n      \"name\": \"Laura\",\n      \"birthday\": \"1999-09-22T11:21:23.334+00:00\",\n      \"$id\": \"bc7fc866ad1e\",\n      \"$permissions\": [\n        \"read(\\\"user:user-b\\\")\"\n      ],\n      \"$tableId\": \"642f3592aa5fc856ad1e\",\n      \"$databaseId\": \"642f358bf4084c662590\",\n      ...\n    },\n    {\n      \"name\": \"Bob\",\n      \"birthday\": \"1982-05-11T12:31:39.381+00:00\",\n      \"$id\": \"cc2fc886ad1e\",\n      \"$permissions\": [\n        \"read(\\\"user:user-c\\\")\"\n      ],\n      \"$tableId\": \"642f3592aa5fc856ad1e\",\n      \"$databaseId\": \"642f358bf4084c662590\",\n      ...\n    }\n  ]\n}\n","children":"{\n  \"total\": 3,\n  \"rows\": [\n    {\n      \"name\": \"Kevin\",\n      \"birthday\": \"2012-02-03T00:00:00.000+00:00\",\n      \"$id\": \"ac5fc866ad1e\",\n      \"$permissions\": [\n        \"read(\\\"user:user-a\\\")\"\n      ],\n      \"$tableId\": \"642f3592aa5fc856ad1e\",\n      \"$databaseId\": \"642f358bf4084c662590\",\n      ...\n    },\n    {\n      \"name\": \"Laura\",\n      \"birthday\": \"1999-09-22T11:21:23.334+00:00\",\n      \"$id\": \"bc7fc866ad1e\",\n      \"$permissions\": [\n        \"read(\\\"user:user-b\\\")\"\n      ],\n      \"$tableId\": \"642f3592aa5fc856ad1e\",\n      \"$databaseId\": \"642f358bf4084c662590\",\n      ...\n    },\n    {\n      \"name\": \"Bob\",\n      \"birthday\": \"1982-05-11T12:31:39.381+00:00\",\n      \"$id\": \"cc2fc886ad1e\",\n      \"$permissions\": [\n        \"read(\\\"user:user-c\\\")\"\n      ],\n      \"$tableId\": \"642f3592aa5fc856ad1e\",\n      \"$databaseId\": \"642f358bf4084c662590\",\n      ...\n    }\n  ]\n}\n"}]
+28:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you're integrating existing backend services with Clikkle or adding backend endpoints to perform more complex logic, JWT authentication helps them behave similarly to actual Clikkle endpoints."}]
+29:["$","$L3d",null,{}]
+2d:null
+2e:["$","$L11",null,{"language":"kotlin","content":"import io.clikkle.Client\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                     // Your project ID\n    .setJWT(\"eyJJ9.eyJ...886ca\")                    // Your secret JSON Web Token\n","children":"import io.clikkle.Client\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                     // Your project ID\n    .setJWT(\"eyJJ9.eyJ...886ca\")                    // Your secret JSON Web Token\n"}]
+2f:["$","$L11",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                     // Your project ID\n    .setJWT(\"eyJJ9.eyJ...886ca\")                    // Your secret JSON Web Token\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                     // Your project ID\n    .setJWT(\"eyJJ9.eyJ...886ca\")                    // Your secret JSON Web Token\n"}]
+30:["$","$L11",null,{"language":"csharp","content":"using Clikkle;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                     // Your project ID\n    .SetJWT(\"eyJJ9.eyJ...886ca\");                   // Your secret JSON Web Token\n","children":"using Clikkle;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                     // Your project ID\n    .SetJWT(\"eyJJ9.eyJ...886ca\");                   // Your secret JSON Web Token\n"}]
+32:["$","div",null,{"className":"td-wrapper","children":"\"read(\"user:user-c\")\""}]
+33:["$","$L11",null,{"language":"deno","content":"import { Client } from \"npm:node-clikkle\";\n\nlet client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                     // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token\n\nlet tablesDB = new sdk.TablesDB(client);\n\nlet rows = await tablesDB.listRows({\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n});\n// ... More code to manipulate the results\n","children":"import { Client } from \"npm:node-clikkle\";\n\nlet client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                     // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token\n\nlet tablesDB = new sdk.TablesDB(client);\n\nlet rows = await tablesDB.listRows({\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n});\n// ... More code to manipulate the results\n"}]
+34:["$","$L11",null,{"language":"dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                     // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token\n\nfinal tablesDB = TablesDB(client);\n\nfinal rows = await tablesDB.listRows(\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e',\n);\n// ... More code to manipulate the results\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                     // Your project ID\n    .setJWT('eyJJ9.eyJ...886ca');                   // Your secret JSON Web Token\n\nfinal tablesDB = TablesDB(client);\n\nfinal rows = await tablesDB.listRows(\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e',\n);\n// ... More code to manipulate the results\n"}]
+35:["$","$L11",null,{"language":"kotlin","content":"import io.clikkle.Client\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                     // Your project ID\n    .setJWT(\"eyJJ9.eyJ...886ca\")                    // Your secret JSON Web Token\n\nval tablesDB = TablesDB(client)\n\nval rows = tablesDB.listRows(\n    databaseId = \"642f358bf4084c662590\",\n    tableId = \"642f3592aa5fc856ad1e\",\n)\n// ... More code to manipulate the results\n","children":"import io.clikkle.Client\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                     // Your project ID\n    .setJWT(\"eyJJ9.eyJ...886ca\")                    // Your secret JSON Web Token\n\nval tablesDB = TablesDB(client)\n\nval rows = tablesDB.listRows(\n    databaseId = \"642f358bf4084c662590\",\n    tableId = \"642f3592aa5fc856ad1e\",\n)\n// ... More code to manipulate the results\n"}]
+36:["$","$L11",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                     // Your project ID\n    .setJWT(\"eyJJ9.eyJ...886ca\")                    // Your secret JSON Web Token\n    \nlet tablesDB = TablesDB(client)\n\nlet rows = try await tablesDB.listRows(\n    databaseId: \"642f358bf4084c662590\",\n    tableId: \"642f3592aa5fc856ad1e\"\n)\n// ... More code to manipulate the results\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                     // Your project ID\n    .setJWT(\"eyJJ9.eyJ...886ca\")                    // Your secret JSON Web Token\n    \nlet tablesDB = TablesDB(client)\n\nlet rows = try await tablesDB.listRows(\n    databaseId: \"642f358bf4084c662590\",\n    tableId: \"642f3592aa5fc856ad1e\"\n)\n// ... More code to manipulate the results\n"}]
+37:["$","$L11",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                     // Your project ID\n    .SetJWT(\"eyJJ9.eyJ...886ca\");                   // Your secret JSON Web Token\n\nvar tablesDB = new TablesDB(client);\n\nvar rows = await databases.listRows(\n    databaseId: \"642f358bf4084c662590\",\n    tableId: \"642f3592aa5fc856ad1e\");\n\n// ... More code to manipulate the results\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                     // Your project ID\n    .SetJWT(\"eyJJ9.eyJ...886ca\");                   // Your secret JSON Web Token\n\nvar tablesDB = new TablesDB(client);\n\nvar rows = await databases.listRows(\n    databaseId: \"642f358bf4084c662590\",\n    tableId: \"642f3592aa5fc856ad1e\");\n\n// ... More code to manipulate the results\n"}]
+38:["$","$L11",null,{"language":"deno","content":"import { Client } from \"npm:node-clikkle\";\n\nlet client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nlet tablesDB = new sdk.TablesDB(client);\n\nlet rows = await tablesDB.listRows({\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n});\n// ... More code to manipulate the results\n","children":"import { Client } from \"npm:node-clikkle\";\n\nlet client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nlet tablesDB = new sdk.TablesDB(client);\n\nlet rows = await tablesDB.listRows({\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e'\n});\n// ... More code to manipulate the results\n"}]
+39:["$","$L11",null,{"language":"dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nfinal tablesDB = TablesDB(client);\n\nfinal rows = await tablesDB.listRows(\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e',\n);\n// ... More code to manipulate the results\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nfinal tablesDB = TablesDB(client);\n\nfinal rows = await tablesDB.listRows(\n    databaseId: '642f358bf4084c662590',\n    tableId: '642f3592aa5fc856ad1e',\n);\n// ... More code to manipulate the results\n"}]
+3a:["$","$L11",null,{"language":"kotlin","content":"import io.clikkle.Client\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nval tablesDB = TablesDB(client)\n\nval rows = tablesDB.listRows(\n    databaseId = \"642f358bf4084c662590\",\n    tableId = \"642f3592aa5fc856ad1e\",\n)\n// ... More code to manipulate the results\n","children":"import io.clikkle.Client\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nval tablesDB = TablesDB(client)\n\nval rows = tablesDB.listRows(\n    databaseId = \"642f358bf4084c662590\",\n    tableId = \"642f3592aa5fc856ad1e\",\n)\n// ... More code to manipulate the results\n"}]
+3b:["$","$L11",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nlet tablesDB = TablesDB(client)\n\nlet rows = try await tablesDB.listRows(\n    databaseId: \"642f358bf4084c662590\",\n    tableId: \"642f3592aa5fc856ad1e\"\n)\n// ... More code to manipulate the results\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey('98fd4...a2ad2');                    // Your secret API key\n\nlet tablesDB = TablesDB(client)\n\nlet rows = try await tablesDB.listRows(\n    databaseId: \"642f358bf4084c662590\",\n    tableId: \"642f3592aa5fc856ad1e\"\n)\n// ... More code to manipulate the results\n"}]
+3c:["$","$L11",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey('98fd4...a2ad2');                    // Your secret API key\n\nvar tablesDB = new TablesDB(client);\n\nvar rows = await databases.listRows(\n    databaseId: \"642f358bf4084c662590\",\n    tableId: \"642f3592aa5fc856ad1e\");\n\n// ... More code to manipulate the results\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey('98fd4...a2ad2');                    // Your secret API key\n\nvar tablesDB = new TablesDB(client);\n\nvar rows = await databases.listRows(\n    databaseId: \"642f358bf4084c662590\",\n    tableId: \"642f3592aa5fc856ad1e\");\n\n// ... More code to manipulate the results\n"}]

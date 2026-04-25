@@ -1,0 +1,2721 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+e:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+7e:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+7f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+80:"$Sreact.suspense"
+82:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+86:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T76a6,---
+layout: article
+title: Queries
+description: Harness the power of querying with Clikkle Databases. Discover various query options, filtering, sorting, and advanced querying techniques.
+---
+
+Many list endpoints in Clikkle allow you to filter, sort, and paginate results using queries. Clikkle provides a common set of syntax to build queries.
+
+# Query class {% #query-class %}
+
+Clikkle SDKs provide a `Query` class to help you build queries. The `Query` class has methods for each type of supported query operation.
+
+# Building queries {% #building-queries %}
+
+Queries are passed to an endpoint through the `queries` parameter as an array of query strings, which can be generated using the `Query` class.
+
+Each query method is logically separated via `AND` operations. For `OR` operation, pass multiple values into the query method separated by commas.
+For example `Query.equal('title', ['Avatar', 'Lord of the Rings'])` will fetch the movies `Avatar` or `Lord of the Rings`.
+
+{% info title="Default pagination behavior" %}
+By default, results are limited to the **first 25 items**.
+You can change this through [pagination](/docs/products/databases/legacy/pagination).
+{% /info %}
+
+{% multicode %}
+
+```client-web
+import { Client, Databases, Query } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const databases = new Databases(client);
+
+databases.listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query.equal('title', ['Avatar', 'Lord of the Rings']),
+        Query.greaterThan('year', 1999)
+    ]
+);
+```
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client();
+
+const databases = new sdk.Databases(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>')
+;
+
+const promise = databases.listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        sdk.Query.equal('title', ['Avatar', 'Lord of the Rings']),
+        sdk.Query.greaterThan('year', 1999)
+    ]
+);
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final databases = Databases(client);
+
+    try {
+        final documents = await databases.listDocuments(
+            '<DATABASE_ID>',
+            '<COLLECTION_ID>',
+            [
+                Query.equal('title', ['Avatar', 'Lord of the Rings']),
+                Query.greaterThan('year', 1999)
+            ]
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let databases = Databases(client)
+
+    do {
+        let documents = try await databases.listDocuments(
+            databaseId: "<DATABASE_ID>",
+            collectionId: "<COLLECTION_ID>",
+            queries: [
+                Query.equal("title", value: ["Avatar", "Lord of the Rings"]),
+                Query.greaterThan("year", value: 1999)
+            ]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.Databases
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    val databases = Databases(client)
+
+    try {
+        val documents = databases.listDocuments(
+            databaseId = "<DATABASE_ID>",
+            collectionId = "<COLLECTION_ID>",
+            queries = listOf(
+                Query.equal("title", listOf("Avatar", "Lord of the Rings")),
+                Query.greaterThan("year", 1999)
+            )
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", e.message)
+    }
+}
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Query;
+use Clikkle\Services\Databases;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    ->setProject('<PROJECT_ID>')
+    ->setKey('<YOUR_API_KEY>')
+;
+
+$databases = new Databases($client);
+
+$result = $databases->listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query::equal('title', ['Avatar', 'Lord of the Rings']),
+        Query::greaterThan('year', 1999)
+    ]
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.query import Query
+from clikkle.services.databases import Databases
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+  .set_project('<PROJECT_ID>')
+  .set_key('<YOUR_API_KEY>')
+)
+
+databases = Databases(client)
+
+result = databases.list_documents(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query.equal('title', ['Avatar', 'Lord of the Rings']),
+        Query.greater_than('year', 1999)
+    ]
+)
+```
+```graphql
+query {
+    databasesListDocuments(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>"
+        queries: [
+            "{\"method\":\"equal\",\"attribute\":\"title\",\"values\":[\"Avatar\",\"Lord of the Rings\"]}",
+            "{\"method\":\"greaterThan\",\"attribute\":\"year\",\"values\":[1999]}"
+        ]
+    ) {
+        total
+        documents {
+            _id
+            data
+        }
+    }
+}
+```
+```http
+GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents?queries[]=%7B%22method%22%3A%22equal%22%2C%22attribute%22%3A%22title%22%2C%22values%22%3A%5B%22Avatar%22%2C%22Lord%20of%20the%20Rings%22%5D%7D&queries[]=%7B%22method%22%3A%22greaterThan%22%2C%22attribute%22%3A%22year%22%2C%22values%22%3A%5B1999%5D%7D HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+```
+{% /multicode %}
+
+# Query operators {% #query-operators %}
+
+## Select {% #select %}
+
+The `select` operator allows you to specify which attributes should be returned from a document. This is essential for optimizing response size, controlling which relationship data loads, and only retrieving the data you need.
+
+{% multicode %}
+```client-web
+Query.select(["name", "title"])
+```
+```client-flutter
+Query.select(["name", "title"])
+```
+```python
+Query.select(["name", "title"])
+```
+```ruby
+Query.select(["name", "title"])
+```
+```server-nodejs
+Query.select(["name", "title"])
+```
+```php
+Query::select(["name", "title"])
+```
+```swift
+Query.select(["name", "title"])
+```
+```http
+{"method":"select","values":["name","title"]}
+```
+{% /multicode %}
+
+### Select relationship data {% #relationship-select %}
+
+With [opt-in relationship loading](/docs/products/databases/legacy/relationships#performance-loading), you must explicitly select relationship data. This gives you fine-grained control over performance and payload size.
+
+#### Get documents without relationships
+By default, documents return only their own fields:
+
+{% multicode %}
+```client-web
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(['name', 'age'])]
+);
+```
+```client-flutter
+final doc = await databases.getDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    queries: [Query.select(["name", "age"])]
+);
+```
+```python
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age"])]
+)
+```
+```ruby
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age"])]
+)
+```
+```server-nodejs
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(['name', 'age'])]
+);
+```
+```php
+$doc = $databases->getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query::select(["name", "age"])]
+);
+```
+```swift
+let doc = try await databases.getDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: "<DOCUMENT_ID>",
+    queries: [Query.select(["name", "age"])]
+)
+```
+```http
+GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents/<DOCUMENT_ID>?queries[]=%7B%22method%22%3A%22select%22%2C%22values%22%3A%5B%22name%22%2C%22age%22%5D%7D HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+```
+{% /multicode %}
+
+#### Load all relationship data
+Use the `*` wildcard to load all fields from related documents:
+
+{% multicode %}
+```client-web
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(['*', 'reviews.*'])]
+);
+```
+```client-flutter
+final doc = await databases.getDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    queries: [Query.select(["*", "reviews.*"])]
+);
+```
+```python
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["*", "reviews.*"])]
+)
+```
+```ruby
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["*", "reviews.*"])]
+)
+```
+```server-nodejs
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["*", "reviews.*"])]
+);
+```
+```php
+$doc = $databases->getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query::select(["*", "reviews.*"])]
+);
+```
+```swift
+let doc = try await databases.getDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: "<DOCUMENT_ID>",
+    queries: [Query.select(["*", "reviews.*"])]
+)
+```
+```http
+GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents/<DOCUMENT_ID>?queries[]=%7B%22method%22%3A%22select%22%2C%22values%22%3A%5B%22%2A%22%2C%22reviews.%2A%22%5D%7D HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+{"method":"select","values":["*","reviews.*"]}
+```
+{% /multicode %}
+
+#### Select specific relationship fields
+For precise control, select only specific fields from related documents:
+
+{% multicode %}
+```client-web
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(['name', 'age', 'reviews.author', 'reviews.rating'])]
+);
+```
+```client-flutter
+final doc = await databases.getDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    queries: [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+);
+```
+```python
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+)
+```
+```ruby
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+)
+```
+```server-nodejs
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+);
+// Result: { name: "John", age: 30, reviews: [{ author: "...", rating: 5 }] }
+```
+```php
+$doc = $databases->getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query::select(["name", "age", "reviews.author", "reviews.rating"])]
+);
+```
+```swift
+let doc = try await databases.getDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: "<DOCUMENT_ID>",
+    queries: [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+)
+```
+```http
+# Load specific fields from main and related documents
+{"method":"select","values":["name","age","reviews.author","reviews.rating"]}
+```
+{% /multicode %}
+
+#### Load nested relationships
+You can also load relationships of relationships:
+
+{% multicode %}
+```client-web
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```client-flutter
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```python
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```ruby
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```server-nodejs
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```php
+Query::select(["*", "reviews.*", "reviews.author.*"])
+```
+```swift
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```http
+{"method":"select","values":["*","reviews.*","reviews.author.*"]}
+```
+{% /multicode %}
+
+### Use selection patterns {% #select-patterns %}
+
+| Pattern | Description | Use case |
+|---------|-------------|----------|
+| `["field1", "field2"]` | Specific attributes only | Minimize response size |
+| `["*"]` | All document attributes | Get complete document data |
+| `["*", "relationName.*"]` | Document + all relationship fields | Load document with complete related data |
+| `["field1", "relationName.field2"]` | Specific fields from document and relationships | Precise data loading |
+| `["*", "relationName.field1", "relationName.field2"]` | All document fields + specific relationship fields | Partial relationship loading |
+| `["relationName.*", "relationName.nestedRelation.*"]` | Nested relationship loading | Load relationships of relationships |
+
+### Optimize performance {% #select-performance %}
+
+**Optimize response size** - Only select the fields you actually need. Smaller responses are faster to transfer and parse.
+
+**Control relationship loading** - Related documents are not loaded by default. Use explicit selection to load only the relationships you need.
+
+**Reduce database load** - Selecting fewer fields reduces database processing time, especially for large documents.
+
+{% info title="Related documents" %}
+By default, relationship attributes contain only document IDs.
+To load the actual related document data, you must explicitly include relationship fields in your select query.
+Learn more about [relationship performance optimization](/docs/products/databases/legacy/relationships#performance-loading).
+{% /info %}
+
+## Comparison operators {% #comparison %}
+
+### Equal {% #equal %}
+
+Returns document if attribute is equal to any value in the provided array.
+
+{% multicode %}
+```client-web
+Query.equal("title", ["Iron Man"])
+```
+```client-flutter
+Query.equal("title", ["Iron Man"])
+```
+```python
+Query.equal("title", ["Iron Man"])
+```
+```ruby
+Query.equal("title", ["Iron Man"])
+```
+```server-nodejs
+Query.equal("title", ["Iron Man"])
+```
+```php
+Query::equal("title", ["Iron Man"])
+```
+```swift
+Query.equal("title", value: ["Iron Man"])
+```
+```http
+{"method":"equal","attribute":"title","values":["Iron Man"]}
+```
+{% /multicode %}
+
+### Not equal {% #not-equal %}
+
+Returns document if attribute is not equal to any value in the provided array.
+
+{% multicode %}
+```client-web
+Query.notEqual("title", "Iron Man")
+```
+```client-flutter
+Query.notEqual("title", "Iron Man")
+```
+```python
+Query.not_equal("title", "Iron Man")
+```
+```ruby
+Query.not_equal("title", "Iron Man")
+```
+```server-nodejs
+Query.notEqual("title", "Iron Man")
+```
+```php
+Query::notEqual("title", "Iron Man")
+```
+```swift
+Query.notEqual("title", value: "Iron Man")
+```
+```http
+{"method":"notEqual","attribute":"title","values":"Iron Man"}
+```
+{% /multicode %}
+
+### Less than {% #less-than %}
+
+Returns document if attribute is less than the provided value.
+
+{% multicode %}
+```client-web
+Query.lessThan("score", 10)
+```
+```client-flutter
+Query.lessThan("score", 10)
+```
+```python
+Query.less_than("score", 10)
+```
+```ruby
+Query.less_than("score", 10)
+```
+```server-nodejs
+Query.lessThan("score", 10)
+```
+```php
+Query::lessThan("score", 10)
+```
+```swift
+Query.lessThan("score", value: 10)
+```
+```http
+{"method":"lessThan","attribute":"score","values":[10]}
+```
+{% /multicode %}
+
+### Less than or equal {% #less-than-equal %}
+
+Returns document if attribute is less than or equal to the provided value.
+
+{% multicode %}
+```client-web
+Query.lessThanEqual("score", 10)
+```
+```client-flutter
+Query.lessThanEqual("score", 10)
+```
+```python
+Query.less_than_equal("score", 10)
+```
+```ruby
+Query.less_than_equal("score", 10)
+```
+```server-nodejs
+Query.lessThanEqual("score", 10)
+```
+```php
+Query::lessThanEqual("score", 10)
+```
+```swift
+Query.lessThanEqual("score", value: 10)
+```
+```http
+{"method":"lessThanEqual","attribute":"score","values":[10]}
+```
+{% /multicode %}
+
+### Greater than {% #greater-than %}
+
+Returns document if attribute is greater than the provided value.
+
+{% multicode %}
+```client-web
+Query.greaterThan("score", 10)
+```
+```client-flutter
+Query.greaterThan("score", 10)
+```
+```python
+Query.greater_than("score", 10)
+```
+```ruby
+Query.greater_than("score", 10)
+```
+```server-nodejs
+Query.greaterThan("score", 10)
+```
+```php
+Query::greaterThan("score", 10)
+```
+```swift
+Query.greaterThan("score", value: 10)
+```
+```http
+{"method":"greaterThan","attribute":"score","values":[10]}
+```
+{% /multicode %}
+
+### Greater than or equal {% #greater-than-equal %}
+
+Returns document if attribute is greater than or equal to the provided value.
+
+{% multicode %}
+```client-web
+Query.greaterThanEqual("score", 10)
+```
+```client-flutter
+Query.greaterThanEqual("score", 10)
+```
+```python
+Query.greater_than_equal("score", 10)
+```
+```ruby
+Query.greater_than_equal("score", 10)
+```
+```server-nodejs
+Query.greaterThanEqual("score", 10)
+```
+```php
+Query::greaterThanEqual("score", 10)
+```
+```swift
+Query.greaterThanEqual("score", value: 10)
+```
+```http
+{"method":"greaterThanEqual","attribute":"score","values":[10]}
+```
+{% /multicode %}
+
+### Between {% #between %}
+
+Returns document if attribute value falls between the two values. The boundary values are inclusive and can be strings or numbers.
+
+{% multicode %}
+```client-web
+Query.between("price", 5, 10)
+```
+```client-flutter
+Query.between("price", 5, 10)
+```
+```python
+Query.between("price", 5, 10)
+```
+```ruby
+Query.between("price", 5, 10)
+```
+```server-nodejs
+Query.between("price", 5, 10)
+```
+```php
+Query::between("price", 5, 10)
+```
+```swift
+Query.between("price", start: 5, end: 10)
+```
+```http
+{"method":"between","attribute":"price","values":[5,10]}
+```
+{% /multicode %}
+
+## Null checks {% #null-checks %}
+
+### Is null {% #is-null %}
+
+Returns documents where attribute value is null.
+
+{% multicode %}
+```client-web
+Query.isNull("name")
+```
+```client-flutter
+Query.isNull("name")
+```
+```python
+Query.is_null("name")
+```
+```ruby
+Query.is_null("name")
+```
+```server-nodejs
+Query.isNull("name")
+```
+```php
+Query::isNull("name")
+```
+```swift
+Query.isNull("name")
+```
+```http
+{"method":"isNull","attribute":"name"}
+```
+{% /multicode %}
+
+### Is not null {% #is-not-null %}
+
+Returns documents where attribute value is **not** null.
+
+{% multicode %}
+```client-web
+Query.isNotNull("name")
+```
+```client-flutter
+Query.isNotNull("name")
+```
+```python
+Query.is_not_null("name")
+```
+```ruby
+Query.is_not_null("name")
+```
+```server-nodejs
+Query.isNotNull("name")
+```
+```php
+Query::isNotNull("name")
+```
+```swift
+Query.isNotNull("name")
+```
+```http
+{"method":"isNotNull","attribute":"name"}
+```
+{% /multicode %}
+
+## String operations {% #string-operations %}
+
+### Starts with {% #starts-with %}
+
+Returns documents if a string attribute starts with a substring.
+
+{% multicode %}
+```client-web
+Query.startsWith("name", "Once upon a time")
+```
+```client-flutter
+Query.startsWith("name", "Once upon a time")
+```
+```python
+Query.starts_with("name", "Once upon a time")
+```
+```ruby
+Query.starts_with("name", "Once upon a time")
+```
+```server-nodejs
+Query.startsWith("name", "Once upon a time")
+```
+```php
+Query::startsWith("name", "Once upon a time")
+```
+```swift
+Query.startsWith("name", value: "Once upon a time")
+```
+```http
+{"method":"startsWith","attribute":"name","values":["Once upon a time"]}
+```
+{% /multicode %}
+
+### Ends with {% #ends-with %}
+
+Returns documents if a string attribute ends with a substring.
+
+{% multicode %}
+```client-web
+Query.endsWith("name", "happily ever after.")
+```
+```client-flutter
+Query.endsWith("name", "happily ever after.")
+```
+```python
+Query.ends_with("name", "happily ever after.")
+```
+```ruby
+Query.ends_with("name", "happily ever after.")
+```
+```server-nodejs
+Query.endsWith("name", "happily ever after.")
+```
+```php
+Query::endsWith("name", "happily ever after.")
+```
+```swift
+Query.endsWith("name", value: "happily ever after.")
+```
+```http
+{"method":"endsWith","attribute":"name","values":["happily ever after."]}
+```
+{% /multicode %}
+
+### Contains {% #contains %}
+
+Returns documents if the array attribute contains the specified elements or if a string attribute contains the specified substring.
+
+{% multicode %}
+```client-web
+// For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+// For strings
+Query.contains("name", "Tom")
+```
+```client-flutter
+// For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+// For strings
+Query.contains("name", "Tom")
+```
+```python
+# For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+# For strings
+Query.contains("name", "Tom")
+```
+```ruby
+# For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+# For strings
+Query.contains("name", "Tom")
+```
+```server-nodejs
+// For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+// For strings
+Query.contains("name", "Tom")
+```
+```php
+// For arrays
+Query::contains("ingredients", ['apple', 'banana'])
+
+// For strings
+Query::contains("name", "Tom")
+```
+```swift
+// For arrays
+Query.contains("ingredients", value: ['apple', 'banana'])
+
+// For strings
+Query.contains("name", value: "Tom")
+```
+```http
+# For arrays
+{"method":"contains","attribute":"ingredients","values":["apple","banana"]}
+
+# For strings
+{"method":"contains","attribute":"name","values":["Tom"]}
+```
+{% /multicode %}
+
+### Search {% #search %}
+
+Searches string attributes for provided keywords. Requires a [full-text index](/docs/products/databases/legacy/collections#indexes) on queried attributes. The search string must be at least **3 characters** to perform a search.
+
+{% info title="Searching values with hyphens" %}
+The hyphen (`-`) is treated as a stop character by the underlying search engine. To search for exact values that contain hyphens (for example, ticket or SKU codes like `SWT-2621-44`), wrap the value in quotes inside the search string: `Query.search(attribute, '"SWT-2621-44"')`.
+{% /info %}
+
+{% multicode %}
+```client-web
+Query.search("text", "key words")
+```
+```client-flutter
+Query.search("text", "key words")
+```
+```python
+Query.search("text", "key words")
+```
+```ruby
+Query.search("text", "key words")
+```
+```server-nodejs
+Query.search("text", "key words")
+```
+```php
+Query::search("text", "key words")
+```
+```swift
+Query.search("text", value: "key words")
+```
+```http
+{"method":"search","attribute":"text","values":["key words"]}
+```
+{% /multicode %}
+
+## Logical operators {% #logical-operators %}
+
+### AND {% #and %}
+
+Returns document if it matches all of the nested sub-queries in the array passed in.
+
+{% multicode %}
+```client-web
+Query.and([
+    Query.lessThan("size", 10),
+    Query.greaterThan("size", 5)
+])
+```
+```client-flutter
+Query.and([
+    Query.lessThan("size", 10),
+    Query.greaterThan("size", 5)
+])
+```
+```python
+Query.and_queries([
+    Query.less_than("size", 10),
+    Query.greater_than("size", 5)
+])
+```
+```ruby
+Query.and([
+    Query.less_than("size", 10),
+    Query.greater_than("size", 5)
+])
+```
+```server-nodejs
+Query.and([
+    Query.lessThan("size", 10),
+    Query.greaterThan("size", 5)
+])
+```
+```php
+Query::and([
+    Query::lessThan("size", 10),
+    Query::greaterThan("size", 5)
+])
+```
+```swift
+Query.and([
+    Query.lessThan("size", value: 10),
+    Query.greaterThan("size", value: 5)
+])
+```
+```http
+{"method":"and","values":[{"method":"lessThan","attribute":"size","values":[10]},{"method":"greaterThan","attribute":"size","values":[5]}]}
+```
+{% /multicode %}
+
+### OR {% #or %}
+
+Returns document if it matches any of the nested sub-queries in the array passed in.
+
+{% multicode %}
+```client-web
+Query.or([
+    Query.lessThan("size", 5),
+    Query.greaterThan("size", 10)
+])
+```
+```client-flutter
+Query.or([
+    Query.lessThan("size", 5),
+    Query.greaterThan("size", 10)
+])
+```
+```python
+Query.or_queries([
+    Query.less_than("size", 5),
+    Query.greater_than("size", 10)
+])
+```
+```ruby
+Query.or([
+    Query.less_than("size", 5),
+    Query.greater_than("size", 10)
+])
+```
+```server-nodejs
+Query.or([
+    Query.lessThan("size", 5),
+    Query.greaterThan("size", 10)
+])
+```
+```php
+Query::or([
+    Query::lessThan("size", 5),
+    Query::greaterThan("size", 10)
+])
+```
+```swift
+Query.or([
+    Query.lessThan("size", value: 5),
+    Query.greaterThan("size", value: 10)
+])
+```
+```http
+{"method":"or","values":[{"method":"lessThan","attribute":"size","values":[5]},{"method":"greaterThan","attribute":"size","values":[10]}]}
+```
+{% /multicode %}
+
+## Ordering {% #ordering %}
+
+### Order descending {% #order-desc %}
+
+Orders results in descending order by attribute. Attribute must be indexed.
+
+{% multicode %}
+```client-web
+Query.orderDesc("attribute")
+```
+```client-flutter
+Query.orderDesc("attribute")
+```
+```python
+Query.order_desc("attribute")
+```
+```ruby
+Query.order_desc("attribute")
+```
+```server-nodejs
+Query.orderDesc("attribute")
+```
+```php
+Query::orderDesc("attribute")
+```
+```swift
+Query.orderDesc("attribute")
+```
+```http
+{"method":"orderDesc","attribute":"attribute"}
+```
+{% /multicode %}
+
+### Order ascending {% #order-asc %}
+
+Orders results in ascending order by attribute. Attribute must be indexed.
+
+{% multicode %}
+```client-web
+Query.orderAsc("attribute")
+```
+```client-flutter
+Query.orderAsc("attribute")
+```
+```python
+Query.order_asc("attribute")
+```
+```ruby
+Query.order_asc("attribute")
+```
+```server-nodejs
+Query.orderAsc("attribute")
+```
+```php
+Query::orderAsc("attribute")
+```
+```swift
+Query.orderAsc("attribute")
+```
+```http
+{"method":"orderAsc","attribute":"attribute"}
+```
+{% /multicode %}
+
+## Pagination {% #pagination %}
+
+### Limit {% #limit %}
+
+Limits the number of results returned by the query. Used for [pagination](/docs/products/databases/legacy/pagination).
+
+{% multicode %}
+```client-web
+Query.limit(25)
+```
+```client-flutter
+Query.limit(25)
+```
+```python
+Query.limit(25)
+```
+```ruby
+Query.limit(25)
+```
+```server-nodejs
+Query.limit(25)
+```
+```php
+Query::limit(25)
+```
+```swift
+Query.limit(25)
+```
+```http
+{"method":"limit","values":[25]}
+```
+{% /multicode %}
+
+### Offset {% #offset %}
+
+Offset the results returned by skipping some of the results. Used for [pagination](/docs/products/databases/legacy/pagination).
+
+{% multicode %}
+```client-web
+Query.offset(0)
+```
+```client-flutter
+Query.offset(0)
+```
+```python
+Query.offset(0)
+```
+```ruby
+Query.offset(0)
+```
+```server-nodejs
+Query.offset(0)
+```
+```php
+Query::offset(0)
+```
+```swift
+Query.offset(0)
+```
+```http
+{"method":"offset","values":[0]}
+```
+{% /multicode %}
+
+### Cursor after {% #cursor-after %}
+
+Places the cursor after the specified resource ID. Used for [pagination](/docs/products/databases/legacy/pagination).
+
+{% multicode %}
+```client-web
+Query.cursorAfter("62a7...f620")
+```
+```client-flutter
+Query.cursorAfter("62a7...f620")
+```
+```python
+Query.cursor_after("62a7...f620")
+```
+```ruby
+Query.cursor_after("62a7...f620")
+```
+```server-nodejs
+Query.cursorAfter("62a7...f620")
+```
+```php
+Query::cursorAfter("62a7...f620")
+```
+```swift
+Query.cursorAfter("62a7...f620")
+```
+```http
+{"method":"cursorAfter","values":["62a7...f620"]}
+```
+{% /multicode %}
+
+### Cursor before {% #cursor-before %}
+
+Places the cursor before the specified resource ID. Used for [pagination](/docs/products/databases/legacy/pagination).
+
+{% multicode %}
+```client-web
+Query.cursorBefore("62a7...a600")
+```
+```client-flutter
+Query.cursorBefore("62a7...a600")
+```
+```python
+Query.cursor_before("62a7...a600")
+```
+```ruby
+Query.cursor_before("62a7...a600")
+```
+```server-nodejs
+Query.cursorBefore("62a7...a600")
+```
+```php
+Query::cursorBefore("62a7...a600")
+```
+```swift
+Query.cursorBefore("62a7...a600")
+```
+```http
+{"method":"cursorBefore","values":["62a7...a600"]}
+```
+{% /multicode %}
+
+# Complex queries {% #complex-queries %}
+
+You can create complex queries by combining AND and OR operations. For example, to find items that are either books under $20 or magazines under $10:
+
+{% multicode %}
+```client-web
+const results = await databases.listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query.or([
+            Query.and([
+                Query.equal('category', ['books']),
+                Query.lessThan('price', 20)
+            ]),
+            Query.and([
+                Query.equal('category', ['magazines']),
+                Query.lessThan('price', 10)
+            ])
+        ])
+    ]
+);
+```
+```client-flutter
+final results = await databases.listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query.or([
+            Query.and([
+                Query.equal('category', ['books']),
+                Query.lessThan('price', 20)
+            ]),
+            Query.and([
+                Query.equal('category', ['magazines']),
+                Query.lessThan('price', 10)
+            ])
+        ])
+    ]
+);
+```
+```python
+results = databases.list_documents(
+    database_id='<DATABASE_ID>',
+    collection_id='<COLLECTION_ID>',
+    queries=[
+        Query.or_queries([
+            Query.and_queries([
+                Query.equal('category', ['books']),
+                Query.less_than('price', 20)
+            ]),
+            Query.and_queries([
+                Query.equal('category', ['magazines']),
+                Query.less_than('price', 10)
+            ])
+        ])
+    ]
+)
+```
+```http
+{"method":"or","values":[{"method":"and","values":[{"method":"equal","attribute":"category","values":["books"]},{"method":"lessThan","attribute":"price","values":[20]}]},{"method":"and","values":[{"method":"equal","attribute":"category","values":["magazines"]},{"method":"lessThan","attribute":"price","values":[10]}]}]}
+```
+{% /multicode %}
+
+This example demonstrates how to combine `OR` and `AND` operations. The query uses `Query.or()` to match either condition: books under $20 OR magazines under $10.
+Each condition within the OR is composed of two AND conditions - one for the category and one for the price threshold. The database will return documents that match either of these combined conditions.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T76a6,---
+layout: article
+title: Queries
+description: Harness the power of querying with Clikkle Databases. Discover various query options, filtering, sorting, and advanced querying techniques.
+---
+
+Many list endpoints in Clikkle allow you to filter, sort, and paginate results using queries. Clikkle provides a common set of syntax to build queries.
+
+# Query class {% #query-class %}
+
+Clikkle SDKs provide a `Query` class to help you build queries. The `Query` class has methods for each type of supported query operation.
+
+# Building queries {% #building-queries %}
+
+Queries are passed to an endpoint through the `queries` parameter as an array of query strings, which can be generated using the `Query` class.
+
+Each query method is logically separated via `AND` operations. For `OR` operation, pass multiple values into the query method separated by commas.
+For example `Query.equal('title', ['Avatar', 'Lord of the Rings'])` will fetch the movies `Avatar` or `Lord of the Rings`.
+
+{% info title="Default pagination behavior" %}
+By default, results are limited to the **first 25 items**.
+You can change this through [pagination](/docs/products/databases/legacy/pagination).
+{% /info %}
+
+{% multicode %}
+
+```client-web
+import { Client, Databases, Query } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const databases = new Databases(client);
+
+databases.listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query.equal('title', ['Avatar', 'Lord of the Rings']),
+        Query.greaterThan('year', 1999)
+    ]
+);
+```
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client();
+
+const databases = new sdk.Databases(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>')
+;
+
+const promise = databases.listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        sdk.Query.equal('title', ['Avatar', 'Lord of the Rings']),
+        sdk.Query.greaterThan('year', 1999)
+    ]
+);
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() async {
+    final client = Client()
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    final databases = Databases(client);
+
+    try {
+        final documents = await databases.listDocuments(
+            '<DATABASE_ID>',
+            '<COLLECTION_ID>',
+            [
+                Query.equal('title', ['Avatar', 'Lord of the Rings']),
+                Query.greaterThan('year', 1999)
+            ]
+        );
+    } on ClikkleException catch(e) {
+        print(e);
+    }
+}
+```
+```client-apple
+import Clikkle
+import ClikkleModels
+
+func main() async throws {
+    let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+    let databases = Databases(client)
+
+    do {
+        let documents = try await databases.listDocuments(
+            databaseId: "<DATABASE_ID>",
+            collectionId: "<COLLECTION_ID>",
+            queries: [
+                Query.equal("title", value: ["Avatar", "Lord of the Rings"]),
+                Query.greaterThan("year", value: 1999)
+            ]
+        )
+    } catch {
+        print(error.localizedDescription)
+    }
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.Query
+import io.clikkle.services.Databases
+
+suspend fun main() {
+    val client = Client(applicationContext)
+        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+        .setProject('<PROJECT_ID>');
+
+    val databases = Databases(client)
+
+    try {
+        val documents = databases.listDocuments(
+            databaseId = "<DATABASE_ID>",
+            collectionId = "<COLLECTION_ID>",
+            queries = listOf(
+                Query.equal("title", listOf("Avatar", "Lord of the Rings")),
+                Query.greaterThan("year", 1999)
+            )
+        )
+    } catch (e: ClikkleException) {
+        Log.e("Clikkle", e.message)
+    }
+}
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Query;
+use Clikkle\Services\Databases;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    ->setProject('<PROJECT_ID>')
+    ->setKey('<YOUR_API_KEY>')
+;
+
+$databases = new Databases($client);
+
+$result = $databases->listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query::equal('title', ['Avatar', 'Lord of the Rings']),
+        Query::greaterThan('year', 1999)
+    ]
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.query import Query
+from clikkle.services.databases import Databases
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+  .set_project('<PROJECT_ID>')
+  .set_key('<YOUR_API_KEY>')
+)
+
+databases = Databases(client)
+
+result = databases.list_documents(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query.equal('title', ['Avatar', 'Lord of the Rings']),
+        Query.greater_than('year', 1999)
+    ]
+)
+```
+```graphql
+query {
+    databasesListDocuments(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>"
+        queries: [
+            "{\"method\":\"equal\",\"attribute\":\"title\",\"values\":[\"Avatar\",\"Lord of the Rings\"]}",
+            "{\"method\":\"greaterThan\",\"attribute\":\"year\",\"values\":[1999]}"
+        ]
+    ) {
+        total
+        documents {
+            _id
+            data
+        }
+    }
+}
+```
+```http
+GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents?queries[]=%7B%22method%22%3A%22equal%22%2C%22attribute%22%3A%22title%22%2C%22values%22%3A%5B%22Avatar%22%2C%22Lord%20of%20the%20Rings%22%5D%7D&queries[]=%7B%22method%22%3A%22greaterThan%22%2C%22attribute%22%3A%22year%22%2C%22values%22%3A%5B1999%5D%7D HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+```
+{% /multicode %}
+
+# Query operators {% #query-operators %}
+
+## Select {% #select %}
+
+The `select` operator allows you to specify which attributes should be returned from a document. This is essential for optimizing response size, controlling which relationship data loads, and only retrieving the data you need.
+
+{% multicode %}
+```client-web
+Query.select(["name", "title"])
+```
+```client-flutter
+Query.select(["name", "title"])
+```
+```python
+Query.select(["name", "title"])
+```
+```ruby
+Query.select(["name", "title"])
+```
+```server-nodejs
+Query.select(["name", "title"])
+```
+```php
+Query::select(["name", "title"])
+```
+```swift
+Query.select(["name", "title"])
+```
+```http
+{"method":"select","values":["name","title"]}
+```
+{% /multicode %}
+
+### Select relationship data {% #relationship-select %}
+
+With [opt-in relationship loading](/docs/products/databases/legacy/relationships#performance-loading), you must explicitly select relationship data. This gives you fine-grained control over performance and payload size.
+
+#### Get documents without relationships
+By default, documents return only their own fields:
+
+{% multicode %}
+```client-web
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(['name', 'age'])]
+);
+```
+```client-flutter
+final doc = await databases.getDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    queries: [Query.select(["name", "age"])]
+);
+```
+```python
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age"])]
+)
+```
+```ruby
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age"])]
+)
+```
+```server-nodejs
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(['name', 'age'])]
+);
+```
+```php
+$doc = $databases->getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query::select(["name", "age"])]
+);
+```
+```swift
+let doc = try await databases.getDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: "<DOCUMENT_ID>",
+    queries: [Query.select(["name", "age"])]
+)
+```
+```http
+GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents/<DOCUMENT_ID>?queries[]=%7B%22method%22%3A%22select%22%2C%22values%22%3A%5B%22name%22%2C%22age%22%5D%7D HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+```
+{% /multicode %}
+
+#### Load all relationship data
+Use the `*` wildcard to load all fields from related documents:
+
+{% multicode %}
+```client-web
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(['*', 'reviews.*'])]
+);
+```
+```client-flutter
+final doc = await databases.getDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    queries: [Query.select(["*", "reviews.*"])]
+);
+```
+```python
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["*", "reviews.*"])]
+)
+```
+```ruby
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["*", "reviews.*"])]
+)
+```
+```server-nodejs
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["*", "reviews.*"])]
+);
+```
+```php
+$doc = $databases->getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query::select(["*", "reviews.*"])]
+);
+```
+```swift
+let doc = try await databases.getDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: "<DOCUMENT_ID>",
+    queries: [Query.select(["*", "reviews.*"])]
+)
+```
+```http
+GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents/<DOCUMENT_ID>?queries[]=%7B%22method%22%3A%22select%22%2C%22values%22%3A%5B%22%2A%22%2C%22reviews.%2A%22%5D%7D HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+{"method":"select","values":["*","reviews.*"]}
+```
+{% /multicode %}
+
+#### Select specific relationship fields
+For precise control, select only specific fields from related documents:
+
+{% multicode %}
+```client-web
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(['name', 'age', 'reviews.author', 'reviews.rating'])]
+);
+```
+```client-flutter
+final doc = await databases.getDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    queries: [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+);
+```
+```python
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+)
+```
+```ruby
+doc = databases.get_document(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+)
+```
+```server-nodejs
+const doc = await databases.getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+);
+// Result: { name: "John", age: 30, reviews: [{ author: "...", rating: 5 }] }
+```
+```php
+$doc = $databases->getDocument(
+    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',
+    [Query::select(["name", "age", "reviews.author", "reviews.rating"])]
+);
+```
+```swift
+let doc = try await databases.getDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: "<DOCUMENT_ID>",
+    queries: [Query.select(["name", "age", "reviews.author", "reviews.rating"])]
+)
+```
+```http
+# Load specific fields from main and related documents
+{"method":"select","values":["name","age","reviews.author","reviews.rating"]}
+```
+{% /multicode %}
+
+#### Load nested relationships
+You can also load relationships of relationships:
+
+{% multicode %}
+```client-web
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```client-flutter
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```python
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```ruby
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```server-nodejs
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```php
+Query::select(["*", "reviews.*", "reviews.author.*"])
+```
+```swift
+Query.select(["*", "reviews.*", "reviews.author.*"])
+```
+```http
+{"method":"select","values":["*","reviews.*","reviews.author.*"]}
+```
+{% /multicode %}
+
+### Use selection patterns {% #select-patterns %}
+
+| Pattern | Description | Use case |
+|---------|-------------|----------|
+| `["field1", "field2"]` | Specific attributes only | Minimize response size |
+| `["*"]` | All document attributes | Get complete document data |
+| `["*", "relationName.*"]` | Document + all relationship fields | Load document with complete related data |
+| `["field1", "relationName.field2"]` | Specific fields from document and relationships | Precise data loading |
+| `["*", "relationName.field1", "relationName.field2"]` | All document fields + specific relationship fields | Partial relationship loading |
+| `["relationName.*", "relationName.nestedRelation.*"]` | Nested relationship loading | Load relationships of relationships |
+
+### Optimize performance {% #select-performance %}
+
+**Optimize response size** - Only select the fields you actually need. Smaller responses are faster to transfer and parse.
+
+**Control relationship loading** - Related documents are not loaded by default. Use explicit selection to load only the relationships you need.
+
+**Reduce database load** - Selecting fewer fields reduces database processing time, especially for large documents.
+
+{% info title="Related documents" %}
+By default, relationship attributes contain only document IDs.
+To load the actual related document data, you must explicitly include relationship fields in your select query.
+Learn more about [relationship performance optimization](/docs/products/databases/legacy/relationships#performance-loading).
+{% /info %}
+
+## Comparison operators {% #comparison %}
+
+### Equal {% #equal %}
+
+Returns document if attribute is equal to any value in the provided array.
+
+{% multicode %}
+```client-web
+Query.equal("title", ["Iron Man"])
+```
+```client-flutter
+Query.equal("title", ["Iron Man"])
+```
+```python
+Query.equal("title", ["Iron Man"])
+```
+```ruby
+Query.equal("title", ["Iron Man"])
+```
+```server-nodejs
+Query.equal("title", ["Iron Man"])
+```
+```php
+Query::equal("title", ["Iron Man"])
+```
+```swift
+Query.equal("title", value: ["Iron Man"])
+```
+```http
+{"method":"equal","attribute":"title","values":["Iron Man"]}
+```
+{% /multicode %}
+
+### Not equal {% #not-equal %}
+
+Returns document if attribute is not equal to any value in the provided array.
+
+{% multicode %}
+```client-web
+Query.notEqual("title", "Iron Man")
+```
+```client-flutter
+Query.notEqual("title", "Iron Man")
+```
+```python
+Query.not_equal("title", "Iron Man")
+```
+```ruby
+Query.not_equal("title", "Iron Man")
+```
+```server-nodejs
+Query.notEqual("title", "Iron Man")
+```
+```php
+Query::notEqual("title", "Iron Man")
+```
+```swift
+Query.notEqual("title", value: "Iron Man")
+```
+```http
+{"method":"notEqual","attribute":"title","values":"Iron Man"}
+```
+{% /multicode %}
+
+### Less than {% #less-than %}
+
+Returns document if attribute is less than the provided value.
+
+{% multicode %}
+```client-web
+Query.lessThan("score", 10)
+```
+```client-flutter
+Query.lessThan("score", 10)
+```
+```python
+Query.less_than("score", 10)
+```
+```ruby
+Query.less_than("score", 10)
+```
+```server-nodejs
+Query.lessThan("score", 10)
+```
+```php
+Query::lessThan("score", 10)
+```
+```swift
+Query.lessThan("score", value: 10)
+```
+```http
+{"method":"lessThan","attribute":"score","values":[10]}
+```
+{% /multicode %}
+
+### Less than or equal {% #less-than-equal %}
+
+Returns document if attribute is less than or equal to the provided value.
+
+{% multicode %}
+```client-web
+Query.lessThanEqual("score", 10)
+```
+```client-flutter
+Query.lessThanEqual("score", 10)
+```
+```python
+Query.less_than_equal("score", 10)
+```
+```ruby
+Query.less_than_equal("score", 10)
+```
+```server-nodejs
+Query.lessThanEqual("score", 10)
+```
+```php
+Query::lessThanEqual("score", 10)
+```
+```swift
+Query.lessThanEqual("score", value: 10)
+```
+```http
+{"method":"lessThanEqual","attribute":"score","values":[10]}
+```
+{% /multicode %}
+
+### Greater than {% #greater-than %}
+
+Returns document if attribute is greater than the provided value.
+
+{% multicode %}
+```client-web
+Query.greaterThan("score", 10)
+```
+```client-flutter
+Query.greaterThan("score", 10)
+```
+```python
+Query.greater_than("score", 10)
+```
+```ruby
+Query.greater_than("score", 10)
+```
+```server-nodejs
+Query.greaterThan("score", 10)
+```
+```php
+Query::greaterThan("score", 10)
+```
+```swift
+Query.greaterThan("score", value: 10)
+```
+```http
+{"method":"greaterThan","attribute":"score","values":[10]}
+```
+{% /multicode %}
+
+### Greater than or equal {% #greater-than-equal %}
+
+Returns document if attribute is greater than or equal to the provided value.
+
+{% multicode %}
+```client-web
+Query.greaterThanEqual("score", 10)
+```
+```client-flutter
+Query.greaterThanEqual("score", 10)
+```
+```python
+Query.greater_than_equal("score", 10)
+```
+```ruby
+Query.greater_than_equal("score", 10)
+```
+```server-nodejs
+Query.greaterThanEqual("score", 10)
+```
+```php
+Query::greaterThanEqual("score", 10)
+```
+```swift
+Query.greaterThanEqual("score", value: 10)
+```
+```http
+{"method":"greaterThanEqual","attribute":"score","values":[10]}
+```
+{% /multicode %}
+
+### Between {% #between %}
+
+Returns document if attribute value falls between the two values. The boundary values are inclusive and can be strings or numbers.
+
+{% multicode %}
+```client-web
+Query.between("price", 5, 10)
+```
+```client-flutter
+Query.between("price", 5, 10)
+```
+```python
+Query.between("price", 5, 10)
+```
+```ruby
+Query.between("price", 5, 10)
+```
+```server-nodejs
+Query.between("price", 5, 10)
+```
+```php
+Query::between("price", 5, 10)
+```
+```swift
+Query.between("price", start: 5, end: 10)
+```
+```http
+{"method":"between","attribute":"price","values":[5,10]}
+```
+{% /multicode %}
+
+## Null checks {% #null-checks %}
+
+### Is null {% #is-null %}
+
+Returns documents where attribute value is null.
+
+{% multicode %}
+```client-web
+Query.isNull("name")
+```
+```client-flutter
+Query.isNull("name")
+```
+```python
+Query.is_null("name")
+```
+```ruby
+Query.is_null("name")
+```
+```server-nodejs
+Query.isNull("name")
+```
+```php
+Query::isNull("name")
+```
+```swift
+Query.isNull("name")
+```
+```http
+{"method":"isNull","attribute":"name"}
+```
+{% /multicode %}
+
+### Is not null {% #is-not-null %}
+
+Returns documents where attribute value is **not** null.
+
+{% multicode %}
+```client-web
+Query.isNotNull("name")
+```
+```client-flutter
+Query.isNotNull("name")
+```
+```python
+Query.is_not_null("name")
+```
+```ruby
+Query.is_not_null("name")
+```
+```server-nodejs
+Query.isNotNull("name")
+```
+```php
+Query::isNotNull("name")
+```
+```swift
+Query.isNotNull("name")
+```
+```http
+{"method":"isNotNull","attribute":"name"}
+```
+{% /multicode %}
+
+## String operations {% #string-operations %}
+
+### Starts with {% #starts-with %}
+
+Returns documents if a string attribute starts with a substring.
+
+{% multicode %}
+```client-web
+Query.startsWith("name", "Once upon a time")
+```
+```client-flutter
+Query.startsWith("name", "Once upon a time")
+```
+```python
+Query.starts_with("name", "Once upon a time")
+```
+```ruby
+Query.starts_with("name", "Once upon a time")
+```
+```server-nodejs
+Query.startsWith("name", "Once upon a time")
+```
+```php
+Query::startsWith("name", "Once upon a time")
+```
+```swift
+Query.startsWith("name", value: "Once upon a time")
+```
+```http
+{"method":"startsWith","attribute":"name","values":["Once upon a time"]}
+```
+{% /multicode %}
+
+### Ends with {% #ends-with %}
+
+Returns documents if a string attribute ends with a substring.
+
+{% multicode %}
+```client-web
+Query.endsWith("name", "happily ever after.")
+```
+```client-flutter
+Query.endsWith("name", "happily ever after.")
+```
+```python
+Query.ends_with("name", "happily ever after.")
+```
+```ruby
+Query.ends_with("name", "happily ever after.")
+```
+```server-nodejs
+Query.endsWith("name", "happily ever after.")
+```
+```php
+Query::endsWith("name", "happily ever after.")
+```
+```swift
+Query.endsWith("name", value: "happily ever after.")
+```
+```http
+{"method":"endsWith","attribute":"name","values":["happily ever after."]}
+```
+{% /multicode %}
+
+### Contains {% #contains %}
+
+Returns documents if the array attribute contains the specified elements or if a string attribute contains the specified substring.
+
+{% multicode %}
+```client-web
+// For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+// For strings
+Query.contains("name", "Tom")
+```
+```client-flutter
+// For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+// For strings
+Query.contains("name", "Tom")
+```
+```python
+# For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+# For strings
+Query.contains("name", "Tom")
+```
+```ruby
+# For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+# For strings
+Query.contains("name", "Tom")
+```
+```server-nodejs
+// For arrays
+Query.contains("ingredients", ['apple', 'banana'])
+
+// For strings
+Query.contains("name", "Tom")
+```
+```php
+// For arrays
+Query::contains("ingredients", ['apple', 'banana'])
+
+// For strings
+Query::contains("name", "Tom")
+```
+```swift
+// For arrays
+Query.contains("ingredients", value: ['apple', 'banana'])
+
+// For strings
+Query.contains("name", value: "Tom")
+```
+```http
+# For arrays
+{"method":"contains","attribute":"ingredients","values":["apple","banana"]}
+
+# For strings
+{"method":"contains","attribute":"name","values":["Tom"]}
+```
+{% /multicode %}
+
+### Search {% #search %}
+
+Searches string attributes for provided keywords. Requires a [full-text index](/docs/products/databases/legacy/collections#indexes) on queried attributes. The search string must be at least **3 characters** to perform a search.
+
+{% info title="Searching values with hyphens" %}
+The hyphen (`-`) is treated as a stop character by the underlying search engine. To search for exact values that contain hyphens (for example, ticket or SKU codes like `SWT-2621-44`), wrap the value in quotes inside the search string: `Query.search(attribute, '"SWT-2621-44"')`.
+{% /info %}
+
+{% multicode %}
+```client-web
+Query.search("text", "key words")
+```
+```client-flutter
+Query.search("text", "key words")
+```
+```python
+Query.search("text", "key words")
+```
+```ruby
+Query.search("text", "key words")
+```
+```server-nodejs
+Query.search("text", "key words")
+```
+```php
+Query::search("text", "key words")
+```
+```swift
+Query.search("text", value: "key words")
+```
+```http
+{"method":"search","attribute":"text","values":["key words"]}
+```
+{% /multicode %}
+
+## Logical operators {% #logical-operators %}
+
+### AND {% #and %}
+
+Returns document if it matches all of the nested sub-queries in the array passed in.
+
+{% multicode %}
+```client-web
+Query.and([
+    Query.lessThan("size", 10),
+    Query.greaterThan("size", 5)
+])
+```
+```client-flutter
+Query.and([
+    Query.lessThan("size", 10),
+    Query.greaterThan("size", 5)
+])
+```
+```python
+Query.and_queries([
+    Query.less_than("size", 10),
+    Query.greater_than("size", 5)
+])
+```
+```ruby
+Query.and([
+    Query.less_than("size", 10),
+    Query.greater_than("size", 5)
+])
+```
+```server-nodejs
+Query.and([
+    Query.lessThan("size", 10),
+    Query.greaterThan("size", 5)
+])
+```
+```php
+Query::and([
+    Query::lessThan("size", 10),
+    Query::greaterThan("size", 5)
+])
+```
+```swift
+Query.and([
+    Query.lessThan("size", value: 10),
+    Query.greaterThan("size", value: 5)
+])
+```
+```http
+{"method":"and","values":[{"method":"lessThan","attribute":"size","values":[10]},{"method":"greaterThan","attribute":"size","values":[5]}]}
+```
+{% /multicode %}
+
+### OR {% #or %}
+
+Returns document if it matches any of the nested sub-queries in the array passed in.
+
+{% multicode %}
+```client-web
+Query.or([
+    Query.lessThan("size", 5),
+    Query.greaterThan("size", 10)
+])
+```
+```client-flutter
+Query.or([
+    Query.lessThan("size", 5),
+    Query.greaterThan("size", 10)
+])
+```
+```python
+Query.or_queries([
+    Query.less_than("size", 5),
+    Query.greater_than("size", 10)
+])
+```
+```ruby
+Query.or([
+    Query.less_than("size", 5),
+    Query.greater_than("size", 10)
+])
+```
+```server-nodejs
+Query.or([
+    Query.lessThan("size", 5),
+    Query.greaterThan("size", 10)
+])
+```
+```php
+Query::or([
+    Query::lessThan("size", 5),
+    Query::greaterThan("size", 10)
+])
+```
+```swift
+Query.or([
+    Query.lessThan("size", value: 5),
+    Query.greaterThan("size", value: 10)
+])
+```
+```http
+{"method":"or","values":[{"method":"lessThan","attribute":"size","values":[5]},{"method":"greaterThan","attribute":"size","values":[10]}]}
+```
+{% /multicode %}
+
+## Ordering {% #ordering %}
+
+### Order descending {% #order-desc %}
+
+Orders results in descending order by attribute. Attribute must be indexed.
+
+{% multicode %}
+```client-web
+Query.orderDesc("attribute")
+```
+```client-flutter
+Query.orderDesc("attribute")
+```
+```python
+Query.order_desc("attribute")
+```
+```ruby
+Query.order_desc("attribute")
+```
+```server-nodejs
+Query.orderDesc("attribute")
+```
+```php
+Query::orderDesc("attribute")
+```
+```swift
+Query.orderDesc("attribute")
+```
+```http
+{"method":"orderDesc","attribute":"attribute"}
+```
+{% /multicode %}
+
+### Order ascending {% #order-asc %}
+
+Orders results in ascending order by attribute. Attribute must be indexed.
+
+{% multicode %}
+```client-web
+Query.orderAsc("attribute")
+```
+```client-flutter
+Query.orderAsc("attribute")
+```
+```python
+Query.order_asc("attribute")
+```
+```ruby
+Query.order_asc("attribute")
+```
+```server-nodejs
+Query.orderAsc("attribute")
+```
+```php
+Query::orderAsc("attribute")
+```
+```swift
+Query.orderAsc("attribute")
+```
+```http
+{"method":"orderAsc","attribute":"attribute"}
+```
+{% /multicode %}
+
+## Pagination {% #pagination %}
+
+### Limit {% #limit %}
+
+Limits the number of results returned by the query. Used for [pagination](/docs/products/databases/legacy/pagination).
+
+{% multicode %}
+```client-web
+Query.limit(25)
+```
+```client-flutter
+Query.limit(25)
+```
+```python
+Query.limit(25)
+```
+```ruby
+Query.limit(25)
+```
+```server-nodejs
+Query.limit(25)
+```
+```php
+Query::limit(25)
+```
+```swift
+Query.limit(25)
+```
+```http
+{"method":"limit","values":[25]}
+```
+{% /multicode %}
+
+### Offset {% #offset %}
+
+Offset the results returned by skipping some of the results. Used for [pagination](/docs/products/databases/legacy/pagination).
+
+{% multicode %}
+```client-web
+Query.offset(0)
+```
+```client-flutter
+Query.offset(0)
+```
+```python
+Query.offset(0)
+```
+```ruby
+Query.offset(0)
+```
+```server-nodejs
+Query.offset(0)
+```
+```php
+Query::offset(0)
+```
+```swift
+Query.offset(0)
+```
+```http
+{"method":"offset","values":[0]}
+```
+{% /multicode %}
+
+### Cursor after {% #cursor-after %}
+
+Places the cursor after the specified resource ID. Used for [pagination](/docs/products/databases/legacy/pagination).
+
+{% multicode %}
+```client-web
+Query.cursorAfter("62a7...f620")
+```
+```client-flutter
+Query.cursorAfter("62a7...f620")
+```
+```python
+Query.cursor_after("62a7...f620")
+```
+```ruby
+Query.cursor_after("62a7...f620")
+```
+```server-nodejs
+Query.cursorAfter("62a7...f620")
+```
+```php
+Query::cursorAfter("62a7...f620")
+```
+```swift
+Query.cursorAfter("62a7...f620")
+```
+```http
+{"method":"cursorAfter","values":["62a7...f620"]}
+```
+{% /multicode %}
+
+### Cursor before {% #cursor-before %}
+
+Places the cursor before the specified resource ID. Used for [pagination](/docs/products/databases/legacy/pagination).
+
+{% multicode %}
+```client-web
+Query.cursorBefore("62a7...a600")
+```
+```client-flutter
+Query.cursorBefore("62a7...a600")
+```
+```python
+Query.cursor_before("62a7...a600")
+```
+```ruby
+Query.cursor_before("62a7...a600")
+```
+```server-nodejs
+Query.cursorBefore("62a7...a600")
+```
+```php
+Query::cursorBefore("62a7...a600")
+```
+```swift
+Query.cursorBefore("62a7...a600")
+```
+```http
+{"method":"cursorBefore","values":["62a7...a600"]}
+```
+{% /multicode %}
+
+# Complex queries {% #complex-queries %}
+
+You can create complex queries by combining AND and OR operations. For example, to find items that are either books under $20 or magazines under $10:
+
+{% multicode %}
+```client-web
+const results = await databases.listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query.or([
+            Query.and([
+                Query.equal('category', ['books']),
+                Query.lessThan('price', 20)
+            ]),
+            Query.and([
+                Query.equal('category', ['magazines']),
+                Query.lessThan('price', 10)
+            ])
+        ])
+    ]
+);
+```
+```client-flutter
+final results = await databases.listDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        Query.or([
+            Query.and([
+                Query.equal('category', ['books']),
+                Query.lessThan('price', 20)
+            ]),
+            Query.and([
+                Query.equal('category', ['magazines']),
+                Query.lessThan('price', 10)
+            ])
+        ])
+    ]
+);
+```
+```python
+results = databases.list_documents(
+    database_id='<DATABASE_ID>',
+    collection_id='<COLLECTION_ID>',
+    queries=[
+        Query.or_queries([
+            Query.and_queries([
+                Query.equal('category', ['books']),
+                Query.less_than('price', 20)
+            ]),
+            Query.and_queries([
+                Query.equal('category', ['magazines']),
+                Query.less_than('price', 10)
+            ])
+        ])
+    ]
+)
+```
+```http
+{"method":"or","values":[{"method":"and","values":[{"method":"equal","attribute":"category","values":["books"]},{"method":"lessThan","attribute":"price","values":[20]}]},{"method":"and","values":[{"method":"equal","attribute":"category","values":["magazines"]},{"method":"lessThan","attribute":"price","values":[10]}]}]}
+```
+{% /multicode %}
+
+This example demonstrates how to combine `OR` and `AND` operations. The query uses `Query.or()` to match either condition: books under $20 OR magazines under $10.
+Each condition within the OR is composed of two AND conditions - one for the category and one for the price threshold. The database will return documents that match either of these combined conditions.
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Queries"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Deprecated API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This API uses outdated terminology and is no longer maintained. Refer to the"," ",["$","$Ld",null,{"href":"/docs/products/databases/queries","className":"web-link underline","children":"updated documentation"}]," ","for improved compatibility and migration guidance."]}]]}],null,["$","$Le",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Many list endpoints in Clikkle allow you to filter, sort, and paginate results using queries. Clikkle provides a common set of syntax to build queries."}],["$","$Lf",null,{"id":"query-class","level":1,"children":"Query class "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle SDKs provide a ",["$","code",null,{"children":"Query"}]," class to help you build queries. The ",["$","code",null,{"children":"Query"}]," class has methods for each type of supported query operation."]}],["$","$Lf",null,{"id":"building-queries","level":1,"children":"Building queries "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Queries are passed to an endpoint through the ",["$","code",null,{"children":"queries"}]," parameter as an array of query strings, which can be generated using the ",["$","code",null,{"children":"Query"}]," class."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Each query method is logically separated via ",["$","code",null,{"children":"AND"}]," operations. For ",["$","code",null,{"children":"OR"}]," operation, pass multiple values into the query method separated by commas."," ","For example ",["$","code",null,{"children":"Query.equal('title', ['Avatar', 'Lord of the Rings'])"}]," will fetch the movies ",["$","code",null,{"children":"Avatar"}]," or ",["$","code",null,{"children":"Lord of the Rings"}],"."]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Default pagination behavior"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["By default, results are limited to the ",["$","strong",null,{"children":"first 25 items"}],"."," ","You can change this through ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/pagination","children":"pagination"}],"."]}]]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Databases, Query } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst databases = new Databases(client);\n\ndatabases.listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query.equal('title', ['Avatar', 'Lord of the Rings']),\n        Query.greaterThan('year', 1999)\n    ]\n);\n","children":"import { Client, Databases, Query } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst databases = new Databases(client);\n\ndatabases.listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query.equal('title', ['Avatar', 'Lord of the Rings']),\n        Query.greaterThan('year', 1999)\n    ]\n);\n"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b","$L5c","$L5d","$L5e","$L5f","$L60","$L61","$L62","$L63","$L64","$L65","$L66","$L67","$L68","$L69","$L6a","$L6b","$L6c","$L6d","$L6e","$L6f","$L70","$L71","$L72","$L73","$L74","$L75","$L76","$L77","$L78","$L79","$L7a","$L7b","$L7c"]}]}]]}],"$L7d"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L7e",null,{"items":[{"id":"query-class","title":"Query class","level":1},{"id":"building-queries","title":"Building queries","level":1},{"id":"query-operators","title":"Query operators","level":1},{"id":"select","title":"Select","level":2},{"id":"relationship-select","title":"Select relationship data","level":3},{"id":"get-documents-without-relationships","title":"Get documents without relationships","level":4},{"id":"load-all-relationship-data","title":"Load all relationship data","level":4},{"id":"select-specific-relationship-fields","title":"Select specific relationship fields","level":4},{"id":"load-nested-relationships","title":"Load nested relationships","level":4},{"id":"select-patterns","title":"Use selection patterns","level":3},{"id":"select-performance","title":"Optimize performance","level":3},{"id":"comparison","title":"Comparison operators","level":2},{"id":"equal","title":"Equal","level":3},{"id":"not-equal","title":"Not equal","level":3},{"id":"less-than","title":"Less than","level":3},{"id":"less-than-equal","title":"Less than or equal","level":3},{"id":"greater-than","title":"Greater than","level":3},{"id":"greater-than-equal","title":"Greater than or equal","level":3},{"id":"between","title":"Between","level":3},{"id":"null-checks","title":"Null checks","level":2},{"id":"is-null","title":"Is null","level":3},{"id":"is-not-null","title":"Is not null","level":3},{"id":"string-operations","title":"String operations","level":2},{"id":"starts-with","title":"Starts with","level":3},{"id":"ends-with","title":"Ends with","level":3},{"id":"contains","title":"Contains","level":3},{"id":"search","title":"Search","level":3},{"id":"logical-operators","title":"Logical operators","level":2},{"id":"and","title":"AND","level":3},{"id":"or","title":"OR","level":3},{"id":"ordering","title":"Ordering","level":2},{"id":"order-desc","title":"Order descending","level":3},{"id":"order-asc","title":"Order ascending","level":3},{"id":"pagination","title":"Pagination","level":2},{"id":"limit","title":"Limit","level":3},{"id":"offset","title":"Offset","level":3},{"id":"cursor-after","title":"Cursor after","level":3},{"id":"cursor-before","title":"Cursor before","level":3},{"id":"complex-queries","title":"Complex queries","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L7f",null,{"children":["$","$80",null,{"name":"Next.MetadataOutlet","children":"$@81"}]}]
+12:["$","$L11",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client();\n\nconst databases = new sdk.Databases(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>')\n;\n\nconst promise = databases.listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        sdk.Query.equal('title', ['Avatar', 'Lord of the Rings']),\n        sdk.Query.greaterThan('year', 1999)\n    ]\n);\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client();\n\nconst databases = new sdk.Databases(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>')\n;\n\nconst promise = databases.listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        sdk.Query.equal('title', ['Avatar', 'Lord of the Rings']),\n        sdk.Query.greaterThan('year', 1999)\n    ]\n);\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}]
+13:["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final databases = Databases(client);\n\n    try {\n        final documents = await databases.listDocuments(\n            '<DATABASE_ID>',\n            '<COLLECTION_ID>',\n            [\n                Query.equal('title', ['Avatar', 'Lord of the Rings']),\n                Query.greaterThan('year', 1999)\n            ]\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() async {\n    final client = Client()\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    final databases = Databases(client);\n\n    try {\n        final documents = await databases.listDocuments(\n            '<DATABASE_ID>',\n            '<COLLECTION_ID>',\n            [\n                Query.equal('title', ['Avatar', 'Lord of the Rings']),\n                Query.greaterThan('year', 1999)\n            ]\n        );\n    } on ClikkleException catch(e) {\n        print(e);\n    }\n}\n"}]
+14:["$","$L11",null,{"language":"client-apple","content":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let databases = Databases(client)\n\n    do {\n        let documents = try await databases.listDocuments(\n            databaseId: \"<DATABASE_ID>\",\n            collectionId: \"<COLLECTION_ID>\",\n            queries: [\n                Query.equal(\"title\", value: [\"Avatar\", \"Lord of the Rings\"]),\n                Query.greaterThan(\"year\", value: 1999)\n            ]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n","children":"import Clikkle\nimport ClikkleModels\n\nfunc main() async throws {\n    let client = Client()\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n        .setProject(\"<PROJECT_ID>\")\n\n    let databases = Databases(client)\n\n    do {\n        let documents = try await databases.listDocuments(\n            databaseId: \"<DATABASE_ID>\",\n            collectionId: \"<COLLECTION_ID>\",\n            queries: [\n                Query.equal(\"title\", value: [\"Avatar\", \"Lord of the Rings\"]),\n                Query.greaterThan(\"year\", value: 1999)\n            ]\n        )\n    } catch {\n        print(error.localizedDescription)\n    }\n}\n"}]
+15:["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.Query\nimport io.clikkle.services.Databases\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    val databases = Databases(client)\n\n    try {\n        val documents = databases.listDocuments(\n            databaseId = \"<DATABASE_ID>\",\n            collectionId = \"<COLLECTION_ID>\",\n            queries = listOf(\n                Query.equal(\"title\", listOf(\"Avatar\", \"Lord of the Rings\")),\n                Query.greaterThan(\"year\", 1999)\n            )\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", e.message)\n    }\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.Query\nimport io.clikkle.services.Databases\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n        .setProject('<PROJECT_ID>');\n\n    val databases = Databases(client)\n\n    try {\n        val documents = databases.listDocuments(\n            databaseId = \"<DATABASE_ID>\",\n            collectionId = \"<COLLECTION_ID>\",\n            queries = listOf(\n                Query.equal(\"title\", listOf(\"Avatar\", \"Lord of the Rings\")),\n                Query.greaterThan(\"year\", 1999)\n            )\n        )\n    } catch (e: ClikkleException) {\n        Log.e(\"Clikkle\", e.message)\n    }\n}\n"}]
+16:["$","$L11",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Query;\nuse Clikkle\\Services\\Databases;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    ->setProject('<PROJECT_ID>')\n    ->setKey('<YOUR_API_KEY>')\n;\n\n$databases = new Databases($client);\n\n$result = $databases->listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query::equal('title', ['Avatar', 'Lord of the Rings']),\n        Query::greaterThan('year', 1999)\n    ]\n);\n","children":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Query;\nuse Clikkle\\Services\\Databases;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    ->setProject('<PROJECT_ID>')\n    ->setKey('<YOUR_API_KEY>')\n;\n\n$databases = new Databases($client);\n\n$result = $databases->listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query::equal('title', ['Avatar', 'Lord of the Rings']),\n        Query::greaterThan('year', 1999)\n    ]\n);\n"}]
+17:["$","$L11",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.query import Query\nfrom clikkle.services.databases import Databases\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n  .set_project('<PROJECT_ID>')\n  .set_key('<YOUR_API_KEY>')\n)\n\ndatabases = Databases(client)\n\nresult = databases.list_documents(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query.equal('title', ['Avatar', 'Lord of the Rings']),\n        Query.greater_than('year', 1999)\n    ]\n)\n","children":"from clikkle.client import Client\nfrom clikkle.query import Query\nfrom clikkle.services.databases import Databases\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n  .set_project('<PROJECT_ID>')\n  .set_key('<YOUR_API_KEY>')\n)\n\ndatabases = Databases(client)\n\nresult = databases.list_documents(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query.equal('title', ['Avatar', 'Lord of the Rings']),\n        Query.greater_than('year', 1999)\n    ]\n)\n"}]
+18:["$","$L11",null,{"language":"graphql","content":"query {\n    databasesListDocuments(\n        databaseId: \"<DATABASE_ID>\",\n        collectionId: \"<COLLECTION_ID>\"\n        queries: [\n            \"{\\\"method\\\":\\\"equal\\\",\\\"attribute\\\":\\\"title\\\",\\\"values\\\":[\\\"Avatar\\\",\\\"Lord of the Rings\\\"]}\",\n            \"{\\\"method\\\":\\\"greaterThan\\\",\\\"attribute\\\":\\\"year\\\",\\\"values\\\":[1999]}\"\n        ]\n    ) {\n        total\n        documents {\n            _id\n            data\n        }\n    }\n}\n","children":"query {\n    databasesListDocuments(\n        databaseId: \"<DATABASE_ID>\",\n        collectionId: \"<COLLECTION_ID>\"\n        queries: [\n            \"{\\\"method\\\":\\\"equal\\\",\\\"attribute\\\":\\\"title\\\",\\\"values\\\":[\\\"Avatar\\\",\\\"Lord of the Rings\\\"]}\",\n            \"{\\\"method\\\":\\\"greaterThan\\\",\\\"attribute\\\":\\\"year\\\",\\\"values\\\":[1999]}\"\n        ]\n    ) {\n        total\n        documents {\n            _id\n            data\n        }\n    }\n}\n"}]
+19:["$","$L11",null,{"language":"http","content":"GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents?queries[]=%7B%22method%22%3A%22equal%22%2C%22attribute%22%3A%22title%22%2C%22values%22%3A%5B%22Avatar%22%2C%22Lord%20of%20the%20Rings%22%5D%7D&queries[]=%7B%22method%22%3A%22greaterThan%22%2C%22attribute%22%3A%22year%22%2C%22values%22%3A%5B1999%5D%7D HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n","children":"GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents?queries[]=%7B%22method%22%3A%22equal%22%2C%22attribute%22%3A%22title%22%2C%22values%22%3A%5B%22Avatar%22%2C%22Lord%20of%20the%20Rings%22%5D%7D&queries[]=%7B%22method%22%3A%22greaterThan%22%2C%22attribute%22%3A%22year%22%2C%22values%22%3A%5B1999%5D%7D HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n"}]
+1a:["$","$Lf",null,{"id":"query-operators","level":1,"children":"Query operators "}]
+1b:["$","$Lf",null,{"id":"select","level":2,"children":"Select "}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The ",["$","code",null,{"children":"select"}]," operator allows you to specify which attributes should be returned from a document. This is essential for optimizing response size, controlling which relationship data loads, and only retrieving the data you need."]}]
+1d:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.select([\"name\", \"title\"])\n","children":"Query.select([\"name\", \"title\"])\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.select([\"name\", \"title\"])\n","children":"Query.select([\"name\", \"title\"])\n"}],["$","$L11",null,{"language":"python","content":"Query.select([\"name\", \"title\"])\n","children":"Query.select([\"name\", \"title\"])\n"}],["$","$L11",null,{"language":"ruby","content":"Query.select([\"name\", \"title\"])\n","children":"Query.select([\"name\", \"title\"])\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.select([\"name\", \"title\"])\n","children":"Query.select([\"name\", \"title\"])\n"}],["$","$L11",null,{"language":"php","content":"Query::select([\"name\", \"title\"])\n","children":"Query::select([\"name\", \"title\"])\n"}],["$","$L11",null,{"language":"swift","content":"Query.select([\"name\", \"title\"])\n","children":"Query.select([\"name\", \"title\"])\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"select\",\"values\":[\"name\",\"title\"]}\n","children":"{\"method\":\"select\",\"values\":[\"name\",\"title\"]}\n"}]]}]
+1e:["$","$Lf",null,{"id":"relationship-select","level":3,"children":"Select relationship data "}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["With ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/relationships#performance-loading","children":"opt-in relationship loading"}],", you must explicitly select relationship data. This gives you fine-grained control over performance and payload size."]}]
+20:["$","$Lf",null,{"level":4,"children":"Get documents without relationships"}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"By default, documents return only their own fields:"}]
+22:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select(['name', 'age'])]\n);\n","children":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select(['name', 'age'])]\n);\n"}],["$","$L11",null,{"language":"client-flutter","content":"final doc = await databases.getDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    queries: [Query.select([\"name\", \"age\"])]\n);\n","children":"final doc = await databases.getDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    queries: [Query.select([\"name\", \"age\"])]\n);\n"}],["$","$L11",null,{"language":"python","content":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\"])]\n)\n","children":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\"])]\n)\n"}],["$","$L11",null,{"language":"ruby","content":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\"])]\n)\n","children":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\"])]\n)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select(['name', 'age'])]\n);\n","children":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select(['name', 'age'])]\n);\n"}],["$","$L11",null,{"language":"php","content":"$$doc = $databases->getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query::select([\"name\", \"age\"])]\n);\n","children":"$$doc = $databases->getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query::select([\"name\", \"age\"])]\n);\n"}],["$","$L11",null,{"language":"swift","content":"let doc = try await databases.getDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: \"<DOCUMENT_ID>\",\n    queries: [Query.select([\"name\", \"age\"])]\n)\n","children":"let doc = try await databases.getDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: \"<DOCUMENT_ID>\",\n    queries: [Query.select([\"name\", \"age\"])]\n)\n"}],["$","$L11",null,{"language":"http","content":"GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents/<DOCUMENT_ID>?queries[]=%7B%22method%22%3A%22select%22%2C%22values%22%3A%5B%22name%22%2C%22age%22%5D%7D HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n","children":"GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents/<DOCUMENT_ID>?queries[]=%7B%22method%22%3A%22select%22%2C%22values%22%3A%5B%22name%22%2C%22age%22%5D%7D HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n"}]]}]
+23:["$","$Lf",null,{"level":4,"children":"Load all relationship data"}]
+24:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the ",["$","code",null,{"children":"*"}]," wildcard to load all fields from related documents:"]}]
+25:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select(['*', 'reviews.*'])]\n);\n","children":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select(['*', 'reviews.*'])]\n);\n"}],["$","$L11",null,{"language":"client-flutter","content":"final doc = await databases.getDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    queries: [Query.select([\"*\", \"reviews.*\"])]\n);\n","children":"final doc = await databases.getDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    queries: [Query.select([\"*\", \"reviews.*\"])]\n);\n"}],["$","$L11",null,{"language":"python","content":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"*\", \"reviews.*\"])]\n)\n","children":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"*\", \"reviews.*\"])]\n)\n"}],["$","$L11",null,{"language":"ruby","content":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"*\", \"reviews.*\"])]\n)\n","children":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"*\", \"reviews.*\"])]\n)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"*\", \"reviews.*\"])]\n);\n","children":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"*\", \"reviews.*\"])]\n);\n"}],["$","$L11",null,{"language":"php","content":"$$doc = $databases->getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query::select([\"*\", \"reviews.*\"])]\n);\n","children":"$$doc = $databases->getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query::select([\"*\", \"reviews.*\"])]\n);\n"}],["$","$L11",null,{"language":"swift","content":"let doc = try await databases.getDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: \"<DOCUMENT_ID>\",\n    queries: [Query.select([\"*\", \"reviews.*\"])]\n)\n","children":"let doc = try await databases.getDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: \"<DOCUMENT_ID>\",\n    queries: [Query.select([\"*\", \"reviews.*\"])]\n)\n"}],["$","$L11",null,{"language":"http","content":"GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents/<DOCUMENT_ID>?queries[]=%7B%22method%22%3A%22select%22%2C%22values%22%3A%5B%22%2A%22%2C%22reviews.%2A%22%5D%7D HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n{\"method\":\"select\",\"values\":[\"*\",\"reviews.*\"]}\n","children":"GET /v1/databases/<DATABASE_ID>/collections/<COLLECTION_ID>/documents/<DOCUMENT_ID>?queries[]=%7B%22method%22%3A%22select%22%2C%22values%22%3A%5B%22%2A%22%2C%22reviews.%2A%22%5D%7D HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n{\"method\":\"select\",\"values\":[\"*\",\"reviews.*\"]}\n"}]]}]
+26:["$","$Lf",null,{"level":4,"children":"Select specific relationship fields"}]
+27:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For precise control, select only specific fields from related documents:"}]
+28:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select(['name', 'age', 'reviews.author', 'reviews.rating'])]\n);\n","children":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select(['name', 'age', 'reviews.author', 'reviews.rating'])]\n);\n"}],["$","$L11",null,{"language":"client-flutter","content":"final doc = await databases.getDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    queries: [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n);\n","children":"final doc = await databases.getDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    queries: [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n);\n"}],["$","$L11",null,{"language":"python","content":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n)\n","children":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n)\n"}],["$","$L11",null,{"language":"ruby","content":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n)\n","children":"doc = databases.get_document(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n);\n// Result: { name: \"John\", age: 30, reviews: [{ author: \"...\", rating: 5 }] }\n","children":"const doc = await databases.getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n);\n// Result: { name: \"John\", age: 30, reviews: [{ author: \"...\", rating: 5 }] }\n"}],["$","$L11",null,{"language":"php","content":"$$doc = $databases->getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query::select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n);\n","children":"$$doc = $databases->getDocument(\n    '<DATABASE_ID>', '<COLLECTION_ID>', '<DOCUMENT_ID>',\n    [Query::select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n);\n"}],["$","$L11",null,{"language":"swift","content":"let doc = try await databases.getDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: \"<DOCUMENT_ID>\",\n    queries: [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n)\n","children":"let doc = try await databases.getDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: \"<DOCUMENT_ID>\",\n    queries: [Query.select([\"name\", \"age\", \"reviews.author\", \"reviews.rating\"])]\n)\n"}],["$","$L11",null,{"language":"http","content":"# Load specific fields from main and related documents\n{\"method\":\"select\",\"values\":[\"name\",\"age\",\"reviews.author\",\"reviews.rating\"]}\n","children":"# Load specific fields from main and related documents\n{\"method\":\"select\",\"values\":[\"name\",\"age\",\"reviews.author\",\"reviews.rating\"]}\n"}]]}]
+29:["$","$Lf",null,{"level":4,"children":"Load nested relationships"}]
+2a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can also load relationships of relationships:"}]
+2b:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n","children":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n","children":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n"}],["$","$L11",null,{"language":"python","content":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n","children":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n"}],["$","$L11",null,{"language":"ruby","content":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n","children":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n","children":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n"}],["$","$L11",null,{"language":"php","content":"Query::select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n","children":"Query::select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n"}],["$","$L11",null,{"language":"swift","content":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n","children":"Query.select([\"*\", \"reviews.*\", \"reviews.author.*\"])\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"select\",\"values\":[\"*\",\"reviews.*\",\"reviews.author.*\"]}\n","children":"{\"method\":\"select\",\"values\":[\"*\",\"reviews.*\",\"reviews.author.*\"]}\n"}]]}]
+2c:["$","$Lf",null,{"id":"select-patterns","level":3,"children":"Use selection patterns "}]
+2d:["$","$L82",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Pattern"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Use case"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"[\"field1\", \"field2\"]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Specific attributes only"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Minimize response size"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"[\"*\"]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"All document attributes"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get complete document data"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"[\"*\", \"relationName.*\"]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Document + all relationship fields"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Load document with complete related data"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"[\"field1\", \"relationName.field2\"]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Specific fields from document and relationships"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L83"}]]}],"$L84","$L85"]}]]}]
+2e:["$","$Lf",null,{"id":"select-performance","level":3,"children":"Optimize performance "}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Optimize response size"}]," - Only select the fields you actually need. Smaller responses are faster to transfer and parse."]}]
+30:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Control relationship loading"}]," - Related documents are not loaded by default. Use explicit selection to load only the relationships you need."]}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Reduce database load"}]," - Selecting fewer fields reduces database processing time, especially for large documents."]}]
+32:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Related documents"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["By default, relationship attributes contain only document IDs."," ","To load the actual related document data, you must explicitly include relationship fields in your select query."," ","Learn more about ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/relationships#performance-loading","children":"relationship performance optimization"}],"."]}]]}]
+33:["$","$Lf",null,{"id":"comparison","level":2,"children":"Comparison operators "}]
+34:["$","$Lf",null,{"id":"equal","level":3,"children":"Equal "}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if attribute is equal to any value in the provided array."}]
+36:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.equal(\"title\", [\"Iron Man\"])\n","children":"Query.equal(\"title\", [\"Iron Man\"])\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.equal(\"title\", [\"Iron Man\"])\n","children":"Query.equal(\"title\", [\"Iron Man\"])\n"}],["$","$L11",null,{"language":"python","content":"Query.equal(\"title\", [\"Iron Man\"])\n","children":"Query.equal(\"title\", [\"Iron Man\"])\n"}],["$","$L11",null,{"language":"ruby","content":"Query.equal(\"title\", [\"Iron Man\"])\n","children":"Query.equal(\"title\", [\"Iron Man\"])\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.equal(\"title\", [\"Iron Man\"])\n","children":"Query.equal(\"title\", [\"Iron Man\"])\n"}],["$","$L11",null,{"language":"php","content":"Query::equal(\"title\", [\"Iron Man\"])\n","children":"Query::equal(\"title\", [\"Iron Man\"])\n"}],["$","$L11",null,{"language":"swift","content":"Query.equal(\"title\", value: [\"Iron Man\"])\n","children":"Query.equal(\"title\", value: [\"Iron Man\"])\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"equal\",\"attribute\":\"title\",\"values\":[\"Iron Man\"]}\n","children":"{\"method\":\"equal\",\"attribute\":\"title\",\"values\":[\"Iron Man\"]}\n"}]]}]
+37:["$","$Lf",null,{"id":"not-equal","level":3,"children":"Not equal "}]
+38:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if attribute is not equal to any value in the provided array."}]
+39:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.notEqual(\"title\", \"Iron Man\")\n","children":"Query.notEqual(\"title\", \"Iron Man\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.notEqual(\"title\", \"Iron Man\")\n","children":"Query.notEqual(\"title\", \"Iron Man\")\n"}],["$","$L11",null,{"language":"python","content":"Query.not_equal(\"title\", \"Iron Man\")\n","children":"Query.not_equal(\"title\", \"Iron Man\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.not_equal(\"title\", \"Iron Man\")\n","children":"Query.not_equal(\"title\", \"Iron Man\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.notEqual(\"title\", \"Iron Man\")\n","children":"Query.notEqual(\"title\", \"Iron Man\")\n"}],["$","$L11",null,{"language":"php","content":"Query::notEqual(\"title\", \"Iron Man\")\n","children":"Query::notEqual(\"title\", \"Iron Man\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.notEqual(\"title\", value: \"Iron Man\")\n","children":"Query.notEqual(\"title\", value: \"Iron Man\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"notEqual\",\"attribute\":\"title\",\"values\":\"Iron Man\"}\n","children":"{\"method\":\"notEqual\",\"attribute\":\"title\",\"values\":\"Iron Man\"}\n"}]]}]
+3a:["$","$Lf",null,{"id":"less-than","level":3,"children":"Less than "}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if attribute is less than the provided value."}]
+3c:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.lessThan(\"score\", 10)\n","children":"Query.lessThan(\"score\", 10)\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.lessThan(\"score\", 10)\n","children":"Query.lessThan(\"score\", 10)\n"}],["$","$L11",null,{"language":"python","content":"Query.less_than(\"score\", 10)\n","children":"Query.less_than(\"score\", 10)\n"}],["$","$L11",null,{"language":"ruby","content":"Query.less_than(\"score\", 10)\n","children":"Query.less_than(\"score\", 10)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.lessThan(\"score\", 10)\n","children":"Query.lessThan(\"score\", 10)\n"}],["$","$L11",null,{"language":"php","content":"Query::lessThan(\"score\", 10)\n","children":"Query::lessThan(\"score\", 10)\n"}],["$","$L11",null,{"language":"swift","content":"Query.lessThan(\"score\", value: 10)\n","children":"Query.lessThan(\"score\", value: 10)\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"lessThan\",\"attribute\":\"score\",\"values\":[10]}\n","children":"{\"method\":\"lessThan\",\"attribute\":\"score\",\"values\":[10]}\n"}]]}]
+3d:["$","$Lf",null,{"id":"less-than-equal","level":3,"children":"Less than or equal "}]
+3e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if attribute is less than or equal to the provided value."}]
+3f:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.lessThanEqual(\"score\", 10)\n","children":"Query.lessThanEqual(\"score\", 10)\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.lessThanEqual(\"score\", 10)\n","children":"Query.lessThanEqual(\"score\", 10)\n"}],["$","$L11",null,{"language":"python","content":"Query.less_than_equal(\"score\", 10)\n","children":"Query.less_than_equal(\"score\", 10)\n"}],["$","$L11",null,{"language":"ruby","content":"Query.less_than_equal(\"score\", 10)\n","children":"Query.less_than_equal(\"score\", 10)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.lessThanEqual(\"score\", 10)\n","children":"Query.lessThanEqual(\"score\", 10)\n"}],["$","$L11",null,{"language":"php","content":"Query::lessThanEqual(\"score\", 10)\n","children":"Query::lessThanEqual(\"score\", 10)\n"}],["$","$L11",null,{"language":"swift","content":"Query.lessThanEqual(\"score\", value: 10)\n","children":"Query.lessThanEqual(\"score\", value: 10)\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"lessThanEqual\",\"attribute\":\"score\",\"values\":[10]}\n","children":"{\"method\":\"lessThanEqual\",\"attribute\":\"score\",\"values\":[10]}\n"}]]}]
+40:["$","$Lf",null,{"id":"greater-than","level":3,"children":"Greater than "}]
+41:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if attribute is greater than the provided value."}]
+42:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.greaterThan(\"score\", 10)\n","children":"Query.greaterThan(\"score\", 10)\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.greaterThan(\"score\", 10)\n","children":"Query.greaterThan(\"score\", 10)\n"}],["$","$L11",null,{"language":"python","content":"Query.greater_than(\"score\", 10)\n","children":"Query.greater_than(\"score\", 10)\n"}],["$","$L11",null,{"language":"ruby","content":"Query.greater_than(\"score\", 10)\n","children":"Query.greater_than(\"score\", 10)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.greaterThan(\"score\", 10)\n","children":"Query.greaterThan(\"score\", 10)\n"}],["$","$L11",null,{"language":"php","content":"Query::greaterThan(\"score\", 10)\n","children":"Query::greaterThan(\"score\", 10)\n"}],["$","$L11",null,{"language":"swift","content":"Query.greaterThan(\"score\", value: 10)\n","children":"Query.greaterThan(\"score\", value: 10)\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"greaterThan\",\"attribute\":\"score\",\"values\":[10]}\n","children":"{\"method\":\"greaterThan\",\"attribute\":\"score\",\"values\":[10]}\n"}]]}]
+43:["$","$Lf",null,{"id":"greater-than-equal","level":3,"children":"Greater than or equal "}]
+44:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if attribute is greater than or equal to the provided value."}]
+45:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.greaterThanEqual(\"score\", 10)\n","children":"Query.greaterThanEqual(\"score\", 10)\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.greaterThanEqual(\"score\", 10)\n","children":"Query.greaterThanEqual(\"score\", 10)\n"}],["$","$L11",null,{"language":"python","content":"Query.greater_than_equal(\"score\", 10)\n","children":"Query.greater_than_equal(\"score\", 10)\n"}],["$","$L11",null,{"language":"ruby","content":"Query.greater_than_equal(\"score\", 10)\n","children":"Query.greater_than_equal(\"score\", 10)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.greaterThanEqual(\"score\", 10)\n","children":"Query.greaterThanEqual(\"score\", 10)\n"}],["$","$L11",null,{"language":"php","content":"Query::greaterThanEqual(\"score\", 10)\n","children":"Query::greaterThanEqual(\"score\", 10)\n"}],["$","$L11",null,{"language":"swift","content":"Query.greaterThanEqual(\"score\", value: 10)\n","children":"Query.greaterThanEqual(\"score\", value: 10)\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"greaterThanEqual\",\"attribute\":\"score\",\"values\":[10]}\n","children":"{\"method\":\"greaterThanEqual\",\"attribute\":\"score\",\"values\":[10]}\n"}]]}]
+46:["$","$Lf",null,{"id":"between","level":3,"children":"Between "}]
+47:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if attribute value falls between the two values. The boundary values are inclusive and can be strings or numbers."}]
+48:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.between(\"price\", 5, 10)\n","children":"Query.between(\"price\", 5, 10)\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.between(\"price\", 5, 10)\n","children":"Query.between(\"price\", 5, 10)\n"}],["$","$L11",null,{"language":"python","content":"Query.between(\"price\", 5, 10)\n","children":"Query.between(\"price\", 5, 10)\n"}],["$","$L11",null,{"language":"ruby","content":"Query.between(\"price\", 5, 10)\n","children":"Query.between(\"price\", 5, 10)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.between(\"price\", 5, 10)\n","children":"Query.between(\"price\", 5, 10)\n"}],["$","$L11",null,{"language":"php","content":"Query::between(\"price\", 5, 10)\n","children":"Query::between(\"price\", 5, 10)\n"}],["$","$L11",null,{"language":"swift","content":"Query.between(\"price\", start: 5, end: 10)\n","children":"Query.between(\"price\", start: 5, end: 10)\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"between\",\"attribute\":\"price\",\"values\":[5,10]}\n","children":"{\"method\":\"between\",\"attribute\":\"price\",\"values\":[5,10]}\n"}]]}]
+49:["$","$Lf",null,{"id":"null-checks","level":2,"children":"Null checks "}]
+4a:["$","$Lf",null,{"id":"is-null","level":3,"children":"Is null "}]
+4b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns documents where attribute value is null."}]
+4c:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.isNull(\"name\")\n","children":"Query.isNull(\"name\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.isNull(\"name\")\n","children":"Query.isNull(\"name\")\n"}],["$","$L11",null,{"language":"python","content":"Query.is_null(\"name\")\n","children":"Query.is_null(\"name\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.is_null(\"name\")\n","children":"Query.is_null(\"name\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.isNull(\"name\")\n","children":"Query.isNull(\"name\")\n"}],["$","$L11",null,{"language":"php","content":"Query::isNull(\"name\")\n","children":"Query::isNull(\"name\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.isNull(\"name\")\n","children":"Query.isNull(\"name\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"isNull\",\"attribute\":\"name\"}\n","children":"{\"method\":\"isNull\",\"attribute\":\"name\"}\n"}]]}]
+4d:["$","$Lf",null,{"id":"is-not-null","level":3,"children":"Is not null "}]
+4e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Returns documents where attribute value is ",["$","strong",null,{"children":"not"}]," null."]}]
+4f:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.isNotNull(\"name\")\n","children":"Query.isNotNull(\"name\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.isNotNull(\"name\")\n","children":"Query.isNotNull(\"name\")\n"}],["$","$L11",null,{"language":"python","content":"Query.is_not_null(\"name\")\n","children":"Query.is_not_null(\"name\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.is_not_null(\"name\")\n","children":"Query.is_not_null(\"name\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.isNotNull(\"name\")\n","children":"Query.isNotNull(\"name\")\n"}],["$","$L11",null,{"language":"php","content":"Query::isNotNull(\"name\")\n","children":"Query::isNotNull(\"name\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.isNotNull(\"name\")\n","children":"Query.isNotNull(\"name\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"isNotNull\",\"attribute\":\"name\"}\n","children":"{\"method\":\"isNotNull\",\"attribute\":\"name\"}\n"}]]}]
+50:["$","$Lf",null,{"id":"string-operations","level":2,"children":"String operations "}]
+51:["$","$Lf",null,{"id":"starts-with","level":3,"children":"Starts with "}]
+52:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns documents if a string attribute starts with a substring."}]
+53:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.startsWith(\"name\", \"Once upon a time\")\n","children":"Query.startsWith(\"name\", \"Once upon a time\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.startsWith(\"name\", \"Once upon a time\")\n","children":"Query.startsWith(\"name\", \"Once upon a time\")\n"}],["$","$L11",null,{"language":"python","content":"Query.starts_with(\"name\", \"Once upon a time\")\n","children":"Query.starts_with(\"name\", \"Once upon a time\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.starts_with(\"name\", \"Once upon a time\")\n","children":"Query.starts_with(\"name\", \"Once upon a time\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.startsWith(\"name\", \"Once upon a time\")\n","children":"Query.startsWith(\"name\", \"Once upon a time\")\n"}],["$","$L11",null,{"language":"php","content":"Query::startsWith(\"name\", \"Once upon a time\")\n","children":"Query::startsWith(\"name\", \"Once upon a time\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.startsWith(\"name\", value: \"Once upon a time\")\n","children":"Query.startsWith(\"name\", value: \"Once upon a time\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"startsWith\",\"attribute\":\"name\",\"values\":[\"Once upon a time\"]}\n","children":"{\"method\":\"startsWith\",\"attribute\":\"name\",\"values\":[\"Once upon a time\"]}\n"}]]}]
+54:["$","$Lf",null,{"id":"ends-with","level":3,"children":"Ends with "}]
+55:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns documents if a string attribute ends with a substring."}]
+56:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.endsWith(\"name\", \"happily ever after.\")\n","children":"Query.endsWith(\"name\", \"happily ever after.\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.endsWith(\"name\", \"happily ever after.\")\n","children":"Query.endsWith(\"name\", \"happily ever after.\")\n"}],["$","$L11",null,{"language":"python","content":"Query.ends_with(\"name\", \"happily ever after.\")\n","children":"Query.ends_with(\"name\", \"happily ever after.\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.ends_with(\"name\", \"happily ever after.\")\n","children":"Query.ends_with(\"name\", \"happily ever after.\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.endsWith(\"name\", \"happily ever after.\")\n","children":"Query.endsWith(\"name\", \"happily ever after.\")\n"}],["$","$L11",null,{"language":"php","content":"Query::endsWith(\"name\", \"happily ever after.\")\n","children":"Query::endsWith(\"name\", \"happily ever after.\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.endsWith(\"name\", value: \"happily ever after.\")\n","children":"Query.endsWith(\"name\", value: \"happily ever after.\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"endsWith\",\"attribute\":\"name\",\"values\":[\"happily ever after.\"]}\n","children":"{\"method\":\"endsWith\",\"attribute\":\"name\",\"values\":[\"happily ever after.\"]}\n"}]]}]
+57:["$","$Lf",null,{"id":"contains","level":3,"children":"Contains "}]
+58:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns documents if the array attribute contains the specified elements or if a string attribute contains the specified substring."}]
+59:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"// For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n// For strings\nQuery.contains(\"name\", \"Tom\")\n","children":"// For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n// For strings\nQuery.contains(\"name\", \"Tom\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"// For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n// For strings\nQuery.contains(\"name\", \"Tom\")\n","children":"// For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n// For strings\nQuery.contains(\"name\", \"Tom\")\n"}],["$","$L11",null,{"language":"python","content":"# For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n# For strings\nQuery.contains(\"name\", \"Tom\")\n","children":"# For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n# For strings\nQuery.contains(\"name\", \"Tom\")\n"}],["$","$L11",null,{"language":"ruby","content":"# For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n# For strings\nQuery.contains(\"name\", \"Tom\")\n","children":"# For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n# For strings\nQuery.contains(\"name\", \"Tom\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"// For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n// For strings\nQuery.contains(\"name\", \"Tom\")\n","children":"// For arrays\nQuery.contains(\"ingredients\", ['apple', 'banana'])\n\n// For strings\nQuery.contains(\"name\", \"Tom\")\n"}],["$","$L11",null,{"language":"php","content":"// For arrays\nQuery::contains(\"ingredients\", ['apple', 'banana'])\n\n// For strings\nQuery::contains(\"name\", \"Tom\")\n","children":"// For arrays\nQuery::contains(\"ingredients\", ['apple', 'banana'])\n\n// For strings\nQuery::contains(\"name\", \"Tom\")\n"}],["$","$L11",null,{"language":"swift","content":"// For arrays\nQuery.contains(\"ingredients\", value: ['apple', 'banana'])\n\n// For strings\nQuery.contains(\"name\", value: \"Tom\")\n","children":"// For arrays\nQuery.contains(\"ingredients\", value: ['apple', 'banana'])\n\n// For strings\nQuery.contains(\"name\", value: \"Tom\")\n"}],["$","$L11",null,{"language":"http","content":"# For arrays\n{\"method\":\"contains\",\"attribute\":\"ingredients\",\"values\":[\"apple\",\"banana\"]}\n\n# For strings\n{\"method\":\"contains\",\"attribute\":\"name\",\"values\":[\"Tom\"]}\n","children":"# For arrays\n{\"method\":\"contains\",\"attribute\":\"ingredients\",\"values\":[\"apple\",\"banana\"]}\n\n# For strings\n{\"method\":\"contains\",\"attribute\":\"name\",\"values\":[\"Tom\"]}\n"}]]}]
+5a:["$","$Lf",null,{"id":"search","level":3,"children":"Search "}]
+5b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Searches string attributes for provided keywords. Requires a ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/collections#indexes","children":"full-text index"}]," on queried attributes. The search string must be at least ",["$","strong",null,{"children":"3 characters"}]," to perform a search."]}]
+5c:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Searching values with hyphens"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The hyphen (",["$","code",null,{"children":"-"}],") is treated as a stop character by the underlying search engine. To search for exact values that contain hyphens (for example, ticket or SKU codes like ",["$","code",null,{"children":"SWT-2621-44"}],"), wrap the value in quotes inside the search string: ",["$","code",null,{"children":"Query.search(attribute, '\"SWT-2621-44\"')"}],"."]}]]}]
+5d:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.search(\"text\", \"key words\")\n","children":"Query.search(\"text\", \"key words\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.search(\"text\", \"key words\")\n","children":"Query.search(\"text\", \"key words\")\n"}],["$","$L11",null,{"language":"python","content":"Query.search(\"text\", \"key words\")\n","children":"Query.search(\"text\", \"key words\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.search(\"text\", \"key words\")\n","children":"Query.search(\"text\", \"key words\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.search(\"text\", \"key words\")\n","children":"Query.search(\"text\", \"key words\")\n"}],["$","$L11",null,{"language":"php","content":"Query::search(\"text\", \"key words\")\n","children":"Query::search(\"text\", \"key words\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.search(\"text\", value: \"key words\")\n","children":"Query.search(\"text\", value: \"key words\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"search\",\"attribute\":\"text\",\"values\":[\"key words\"]}\n","children":"{\"method\":\"search\",\"attribute\":\"text\",\"values\":[\"key words\"]}\n"}]]}]
+5e:["$","$Lf",null,{"id":"logical-operators","level":2,"children":"Logical operators "}]
+5f:["$","$Lf",null,{"id":"and","level":3,"children":"AND "}]
+60:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if it matches all of the nested sub-queries in the array passed in."}]
+61:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.and([\n    Query.lessThan(\"size\", 10),\n    Query.greaterThan(\"size\", 5)\n])\n","children":"Query.and([\n    Query.lessThan(\"size\", 10),\n    Query.greaterThan(\"size\", 5)\n])\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.and([\n    Query.lessThan(\"size\", 10),\n    Query.greaterThan(\"size\", 5)\n])\n","children":"Query.and([\n    Query.lessThan(\"size\", 10),\n    Query.greaterThan(\"size\", 5)\n])\n"}],["$","$L11",null,{"language":"python","content":"Query.and_queries([\n    Query.less_than(\"size\", 10),\n    Query.greater_than(\"size\", 5)\n])\n","children":"Query.and_queries([\n    Query.less_than(\"size\", 10),\n    Query.greater_than(\"size\", 5)\n])\n"}],["$","$L11",null,{"language":"ruby","content":"Query.and([\n    Query.less_than(\"size\", 10),\n    Query.greater_than(\"size\", 5)\n])\n","children":"Query.and([\n    Query.less_than(\"size\", 10),\n    Query.greater_than(\"size\", 5)\n])\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.and([\n    Query.lessThan(\"size\", 10),\n    Query.greaterThan(\"size\", 5)\n])\n","children":"Query.and([\n    Query.lessThan(\"size\", 10),\n    Query.greaterThan(\"size\", 5)\n])\n"}],["$","$L11",null,{"language":"php","content":"Query::and([\n    Query::lessThan(\"size\", 10),\n    Query::greaterThan(\"size\", 5)\n])\n","children":"Query::and([\n    Query::lessThan(\"size\", 10),\n    Query::greaterThan(\"size\", 5)\n])\n"}],["$","$L11",null,{"language":"swift","content":"Query.and([\n    Query.lessThan(\"size\", value: 10),\n    Query.greaterThan(\"size\", value: 5)\n])\n","children":"Query.and([\n    Query.lessThan(\"size\", value: 10),\n    Query.greaterThan(\"size\", value: 5)\n])\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"and\",\"values\":[{\"method\":\"lessThan\",\"attribute\":\"size\",\"values\":[10]},{\"method\":\"greaterThan\",\"attribute\":\"size\",\"values\":[5]}]}\n","children":"{\"method\":\"and\",\"values\":[{\"method\":\"lessThan\",\"attribute\":\"size\",\"values\":[10]},{\"method\":\"greaterThan\",\"attribute\":\"size\",\"values\":[5]}]}\n"}]]}]
+62:["$","$Lf",null,{"id":"or","level":3,"children":"OR "}]
+63:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Returns document if it matches any of the nested sub-queries in the array passed in."}]
+64:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.or([\n    Query.lessThan(\"size\", 5),\n    Query.greaterThan(\"size\", 10)\n])\n","children":"Query.or([\n    Query.lessThan(\"size\", 5),\n    Query.greaterThan(\"size\", 10)\n])\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.or([\n    Query.lessThan(\"size\", 5),\n    Query.greaterThan(\"size\", 10)\n])\n","children":"Query.or([\n    Query.lessThan(\"size\", 5),\n    Query.greaterThan(\"size\", 10)\n])\n"}],["$","$L11",null,{"language":"python","content":"Query.or_queries([\n    Query.less_than(\"size\", 5),\n    Query.greater_than(\"size\", 10)\n])\n","children":"Query.or_queries([\n    Query.less_than(\"size\", 5),\n    Query.greater_than(\"size\", 10)\n])\n"}],["$","$L11",null,{"language":"ruby","content":"Query.or([\n    Query.less_than(\"size\", 5),\n    Query.greater_than(\"size\", 10)\n])\n","children":"Query.or([\n    Query.less_than(\"size\", 5),\n    Query.greater_than(\"size\", 10)\n])\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.or([\n    Query.lessThan(\"size\", 5),\n    Query.greaterThan(\"size\", 10)\n])\n","children":"Query.or([\n    Query.lessThan(\"size\", 5),\n    Query.greaterThan(\"size\", 10)\n])\n"}],["$","$L11",null,{"language":"php","content":"Query::or([\n    Query::lessThan(\"size\", 5),\n    Query::greaterThan(\"size\", 10)\n])\n","children":"Query::or([\n    Query::lessThan(\"size\", 5),\n    Query::greaterThan(\"size\", 10)\n])\n"}],["$","$L11",null,{"language":"swift","content":"Query.or([\n    Query.lessThan(\"size\", value: 5),\n    Query.greaterThan(\"size\", value: 10)\n])\n","children":"Query.or([\n    Query.lessThan(\"size\", value: 5),\n    Query.greaterThan(\"size\", value: 10)\n])\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"or\",\"values\":[{\"method\":\"lessThan\",\"attribute\":\"size\",\"values\":[5]},{\"method\":\"greaterThan\",\"attribute\":\"size\",\"values\":[10]}]}\n","children":"{\"method\":\"or\",\"values\":[{\"method\":\"lessThan\",\"attribute\":\"size\",\"values\":[5]},{\"method\":\"greaterThan\",\"attribute\":\"size\",\"values\":[10]}]}\n"}]]}]
+65:["$","$Lf",null,{"id":"ordering","level":2,"children":"Ordering "}]
+66:["$","$Lf",null,{"id":"order-desc","level":3,"children":"Order descending "}]
+67:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Orders results in descending order by attribute. Attribute must be indexed."}]
+68:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.orderDesc(\"attribute\")\n","children":"Query.orderDesc(\"attribute\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.orderDesc(\"attribute\")\n","children":"Query.orderDesc(\"attribute\")\n"}],["$","$L11",null,{"language":"python","content":"Query.order_desc(\"attribute\")\n","children":"Query.order_desc(\"attribute\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.order_desc(\"attribute\")\n","children":"Query.order_desc(\"attribute\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.orderDesc(\"attribute\")\n","children":"Query.orderDesc(\"attribute\")\n"}],["$","$L11",null,{"language":"php","content":"Query::orderDesc(\"attribute\")\n","children":"Query::orderDesc(\"attribute\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.orderDesc(\"attribute\")\n","children":"Query.orderDesc(\"attribute\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"orderDesc\",\"attribute\":\"attribute\"}\n","children":"{\"method\":\"orderDesc\",\"attribute\":\"attribute\"}\n"}]]}]
+69:["$","$Lf",null,{"id":"order-asc","level":3,"children":"Order ascending "}]
+6a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Orders results in ascending order by attribute. Attribute must be indexed."}]
+6b:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.orderAsc(\"attribute\")\n","children":"Query.orderAsc(\"attribute\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.orderAsc(\"attribute\")\n","children":"Query.orderAsc(\"attribute\")\n"}],["$","$L11",null,{"language":"python","content":"Query.order_asc(\"attribute\")\n","children":"Query.order_asc(\"attribute\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.order_asc(\"attribute\")\n","children":"Query.order_asc(\"attribute\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.orderAsc(\"attribute\")\n","children":"Query.orderAsc(\"attribute\")\n"}],["$","$L11",null,{"language":"php","content":"Query::orderAsc(\"attribute\")\n","children":"Query::orderAsc(\"attribute\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.orderAsc(\"attribute\")\n","children":"Query.orderAsc(\"attribute\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"orderAsc\",\"attribute\":\"attribute\"}\n","children":"{\"method\":\"orderAsc\",\"attribute\":\"attribute\"}\n"}]]}]
+6c:["$","$Lf",null,{"id":"pagination","level":2,"children":"Pagination "}]
+6d:["$","$Lf",null,{"id":"limit","level":3,"children":"Limit "}]
+6e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Limits the number of results returned by the query. Used for ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/pagination","children":"pagination"}],"."]}]
+6f:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.limit(25)\n","children":"Query.limit(25)\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.limit(25)\n","children":"Query.limit(25)\n"}],["$","$L11",null,{"language":"python","content":"Query.limit(25)\n","children":"Query.limit(25)\n"}],["$","$L11",null,{"language":"ruby","content":"Query.limit(25)\n","children":"Query.limit(25)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.limit(25)\n","children":"Query.limit(25)\n"}],["$","$L11",null,{"language":"php","content":"Query::limit(25)\n","children":"Query::limit(25)\n"}],["$","$L11",null,{"language":"swift","content":"Query.limit(25)\n","children":"Query.limit(25)\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"limit\",\"values\":[25]}\n","children":"{\"method\":\"limit\",\"values\":[25]}\n"}]]}]
+70:["$","$Lf",null,{"id":"offset","level":3,"children":"Offset "}]
+71:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Offset the results returned by skipping some of the results. Used for ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/pagination","children":"pagination"}],"."]}]
+72:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.offset(0)\n","children":"Query.offset(0)\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.offset(0)\n","children":"Query.offset(0)\n"}],["$","$L11",null,{"language":"python","content":"Query.offset(0)\n","children":"Query.offset(0)\n"}],["$","$L11",null,{"language":"ruby","content":"Query.offset(0)\n","children":"Query.offset(0)\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.offset(0)\n","children":"Query.offset(0)\n"}],["$","$L11",null,{"language":"php","content":"Query::offset(0)\n","children":"Query::offset(0)\n"}],["$","$L11",null,{"language":"swift","content":"Query.offset(0)\n","children":"Query.offset(0)\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"offset\",\"values\":[0]}\n","children":"{\"method\":\"offset\",\"values\":[0]}\n"}]]}]
+73:["$","$Lf",null,{"id":"cursor-after","level":3,"children":"Cursor after "}]
+74:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Places the cursor after the specified resource ID. Used for ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/pagination","children":"pagination"}],"."]}]
+75:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.cursorAfter(\"62a7...f620\")\n","children":"Query.cursorAfter(\"62a7...f620\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.cursorAfter(\"62a7...f620\")\n","children":"Query.cursorAfter(\"62a7...f620\")\n"}],["$","$L11",null,{"language":"python","content":"Query.cursor_after(\"62a7...f620\")\n","children":"Query.cursor_after(\"62a7...f620\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.cursor_after(\"62a7...f620\")\n","children":"Query.cursor_after(\"62a7...f620\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.cursorAfter(\"62a7...f620\")\n","children":"Query.cursorAfter(\"62a7...f620\")\n"}],["$","$L11",null,{"language":"php","content":"Query::cursorAfter(\"62a7...f620\")\n","children":"Query::cursorAfter(\"62a7...f620\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.cursorAfter(\"62a7...f620\")\n","children":"Query.cursorAfter(\"62a7...f620\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"cursorAfter\",\"values\":[\"62a7...f620\"]}\n","children":"{\"method\":\"cursorAfter\",\"values\":[\"62a7...f620\"]}\n"}]]}]
+76:["$","$Lf",null,{"id":"cursor-before","level":3,"children":"Cursor before "}]
+77:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Places the cursor before the specified resource ID. Used for ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/pagination","children":"pagination"}],"."]}]
+78:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"Query.cursorBefore(\"62a7...a600\")\n","children":"Query.cursorBefore(\"62a7...a600\")\n"}],["$","$L11",null,{"language":"client-flutter","content":"Query.cursorBefore(\"62a7...a600\")\n","children":"Query.cursorBefore(\"62a7...a600\")\n"}],["$","$L11",null,{"language":"python","content":"Query.cursor_before(\"62a7...a600\")\n","children":"Query.cursor_before(\"62a7...a600\")\n"}],["$","$L11",null,{"language":"ruby","content":"Query.cursor_before(\"62a7...a600\")\n","children":"Query.cursor_before(\"62a7...a600\")\n"}],["$","$L11",null,{"language":"server-nodejs","content":"Query.cursorBefore(\"62a7...a600\")\n","children":"Query.cursorBefore(\"62a7...a600\")\n"}],["$","$L11",null,{"language":"php","content":"Query::cursorBefore(\"62a7...a600\")\n","children":"Query::cursorBefore(\"62a7...a600\")\n"}],["$","$L11",null,{"language":"swift","content":"Query.cursorBefore(\"62a7...a600\")\n","children":"Query.cursorBefore(\"62a7...a600\")\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"cursorBefore\",\"values\":[\"62a7...a600\"]}\n","children":"{\"method\":\"cursorBefore\",\"values\":[\"62a7...a600\"]}\n"}]]}]
+79:["$","$Lf",null,{"id":"complex-queries","level":1,"children":"Complex queries "}]
+7a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can create complex queries by combining AND and OR operations. For example, to find items that are either books under $20 or magazines under $10:"}]
+7b:["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const results = await databases.listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query.or([\n            Query.and([\n                Query.equal('category', ['books']),\n                Query.lessThan('price', 20)\n            ]),\n            Query.and([\n                Query.equal('category', ['magazines']),\n                Query.lessThan('price', 10)\n            ])\n        ])\n    ]\n);\n","children":"const results = await databases.listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query.or([\n            Query.and([\n                Query.equal('category', ['books']),\n                Query.lessThan('price', 20)\n            ]),\n            Query.and([\n                Query.equal('category', ['magazines']),\n                Query.lessThan('price', 10)\n            ])\n        ])\n    ]\n);\n"}],["$","$L11",null,{"language":"client-flutter","content":"final results = await databases.listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query.or([\n            Query.and([\n                Query.equal('category', ['books']),\n                Query.lessThan('price', 20)\n            ]),\n            Query.and([\n                Query.equal('category', ['magazines']),\n                Query.lessThan('price', 10)\n            ])\n        ])\n    ]\n);\n","children":"final results = await databases.listDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        Query.or([\n            Query.and([\n                Query.equal('category', ['books']),\n                Query.lessThan('price', 20)\n            ]),\n            Query.and([\n                Query.equal('category', ['magazines']),\n                Query.lessThan('price', 10)\n            ])\n        ])\n    ]\n);\n"}],["$","$L11",null,{"language":"python","content":"results = databases.list_documents(\n    database_id='<DATABASE_ID>',\n    collection_id='<COLLECTION_ID>',\n    queries=[\n        Query.or_queries([\n            Query.and_queries([\n                Query.equal('category', ['books']),\n                Query.less_than('price', 20)\n            ]),\n            Query.and_queries([\n                Query.equal('category', ['magazines']),\n                Query.less_than('price', 10)\n            ])\n        ])\n    ]\n)\n","children":"results = databases.list_documents(\n    database_id='<DATABASE_ID>',\n    collection_id='<COLLECTION_ID>',\n    queries=[\n        Query.or_queries([\n            Query.and_queries([\n                Query.equal('category', ['books']),\n                Query.less_than('price', 20)\n            ]),\n            Query.and_queries([\n                Query.equal('category', ['magazines']),\n                Query.less_than('price', 10)\n            ])\n        ])\n    ]\n)\n"}],["$","$L11",null,{"language":"http","content":"{\"method\":\"or\",\"values\":[{\"method\":\"and\",\"values\":[{\"method\":\"equal\",\"attribute\":\"category\",\"values\":[\"books\"]},{\"method\":\"lessThan\",\"attribute\":\"price\",\"values\":[20]}]},{\"method\":\"and\",\"values\":[{\"method\":\"equal\",\"attribute\":\"category\",\"values\":[\"magazines\"]},{\"method\":\"lessThan\",\"attribute\":\"price\",\"values\":[10]}]}]}\n","children":"{\"method\":\"or\",\"values\":[{\"method\":\"and\",\"values\":[{\"method\":\"equal\",\"attribute\":\"category\",\"values\":[\"books\"]},{\"method\":\"lessThan\",\"attribute\":\"price\",\"values\":[20]}]},{\"method\":\"and\",\"values\":[{\"method\":\"equal\",\"attribute\":\"category\",\"values\":[\"magazines\"]},{\"method\":\"lessThan\",\"attribute\":\"price\",\"values\":[10]}]}]}\n"}]]}]
+7c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This example demonstrates how to combine ",["$","code",null,{"children":"OR"}]," and ",["$","code",null,{"children":"AND"}]," operations. The query uses ",["$","code",null,{"children":"Query.or()"}]," to match either condition: books under $20 OR magazines under $10."," ","Each condition within the OR is composed of two AND conditions - one for the category and one for the price threshold. The database will return documents that match either of these combined conditions."]}]
+7d:["$","$L86",null,{}]
+81:null
+83:["$","div",null,{"className":"td-wrapper","children":"Precise data loading"}]
+84:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"[\"*\", \"relationName.field1\", \"relationName.field2\"]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"All document fields + specific relationship fields"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Partial relationship loading"}]}]]}]
+85:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"[\"relationName.*\", \"relationName.nestedRelation.*\"]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Nested relationship loading"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Load relationships of relationships"}]}]]}]

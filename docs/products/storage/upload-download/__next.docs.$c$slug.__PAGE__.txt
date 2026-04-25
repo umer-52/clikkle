@@ -1,0 +1,1912 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+10:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+2b:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+2c:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+2d:"$Sreact.suspense"
+2f:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+30:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+31:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+32:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+49:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T7a46,---
+layout: article
+title: Upload and download
+description: Effortlessly upload and download files with Clikkle Storage. Learn how to handle file uploads, manage file versions, and ensure secure downloads in your applications.
+---
+
+You can upload and download files both programmatically using SDKs or through the Clikkle Console.
+
+# Create file {% #create-file %}
+
+After you create a bucket or have navigated to bucket details, you can access the **Files** tab so you can upload, view, delete and update files in the bucket using the Clikkle project's dashboard. You can also perform all those operations from Clikkle's client SDK, server SDKs, and REST APIs as long as you have the proper permission.
+
+When you are in the **Files** tab, you can click **Add File** and select a file to upload. If the bucket is configured to accept the file type and size you are uploading, your file will be uploaded, and you will see the file in the list of files.
+
+You can also upload files programmatically using our SDKs:
+
+{% multicode %}
+  ```client-web
+  import { Client, Storage, ID } from "clikkle";
+
+  const client = new Client()
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+      .setProject('<PROJECT_ID>');
+
+  const storage = new Storage(client);
+
+  const promise = storage.createFile({
+      bucketId: '<BUCKET_ID>',
+      fileId: ID.unique(),
+      file: document.getElementById('uploader').files[0]
+  });
+
+  promise.then(function (response) {
+      console.log(response); // Success
+  }, function (error) {
+      console.log(error); // Failure
+  });
+  ```
+
+  ```server-nodejs
+  const sdk = require('node-clikkle');
+  const { InputFile } = require('node-clikkle/file');
+
+  const client = new sdk.Client()
+      .setEndpoint('https://cloud.clikkle.io/v1')
+      .setProject('<PROJECT_ID>')
+      .setKey('<API_KEY>');
+
+  const storage = new sdk.Storage(client);
+
+  // If running in a browser environment, you can use File directly
+  const browserFile = new File(['hello'], 'hello.txt');
+  await storage.createFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: ID.unique(),
+    file: browserFile
+  });
+
+  // If running in Node.js, use InputFile
+  const nodeFile = InputFile.fromPath('/path/to/file.jpg', 'file.jpg');
+  await storage.createFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: ID.unique(),
+    file: nodeFile
+  });
+  ```
+
+  ```client-flutter
+  import 'package:clikkle/clikkle.dart';
+
+  void main() { // Init SDK
+    final client = Client()
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+      .setProject('<PROJECT_ID>');
+
+    final storage = Storage(client);
+
+    final file = await storage.createFile(
+      bucketId: '<BUCKET_ID>',
+      fileId: ID.unique(),
+      file: InputFile.fromPath(path: './path-to-files/image.jpg', filename: 'image.jpg'),
+    );
+  }
+  ```
+
+  ```client-android-kotlin
+  import io.clikkle.Client
+  import io.clikkle.services.Storage
+
+  suspend fun main() {
+      val client = Client(applicationContext)
+          .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+          .setProject("<PROJECT_ID>") // Your project ID
+
+      val storage = Storage(client)
+
+      val file = storage.createFile(
+          bucketId = "<BUCKET_ID>",
+          fileId = ID.unique(),
+          file = File("./path-to-files/image.jpg"),
+      )
+  }
+  ```
+
+  ```client-react-native
+  import { Client, Storage, ID } from 'react-native-clikkle';
+
+  const client = new Client()
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+      .setProject('<PROJECT_ID>');
+
+  const storage = new Storage(client);
+
+  const promise = storage.createFile({
+      bucketId: '<BUCKET_ID>',
+      fileId: ID.unique(),
+      file: {
+          name: 'image.jpg',
+          type: 'image/jpeg',
+          size: 1234567,
+          uri: 'file:///path/to/file.jpg',
+      }
+  });
+
+  promise.then(function (response) {
+      console.log(response); // Success
+  }, function (error) {
+      console.log(error); // Failure
+  });
+  ```
+
+  ```client-apple
+  import Clikkle
+
+  func main() async throws {
+      let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+      let storage = Storage(client)
+
+      let file = try await storage.createFile(
+          bucketId: "<BUCKET_ID>",
+          fileId: ID.unique(),
+          file: InputFile.fromBuffer(yourByteBuffer,
+              filename: "image.jpg",
+              mimeType: "image/jpeg"
+          )
+      )
+  }
+  ```
+
+  ```http
+  POST /v1/storage/buckets/{bucketId}/files HTTP/1.1
+  Content-Type: multipart/form-data; boundary="cec8e8123c05ba25"
+  Content-Length: *Length of your entity body in bytes*
+  X-Clikkle-Project: <PROJECT_ID>
+
+  --cec8e8123c05ba25
+  Content-Disposition: form-data; name="operations"
+
+  { "query": "mutation CreateFile($bucketId: String!, $fileId: String!, $file: InputFile!) { storageCreateFile(bucketId: $bucketId, fileId: $fileId, file: $file) { id } }", "variables": { "bucketId": "<BUCKET_ID>", "fileId": "<FILE_ID>", "file": null } }
+  --cec8e8123c05ba25
+  Content-Disposition: form-data; name="map"
+
+  { "0": ["variables.file"] }
+  --cec8e8123c05ba25
+  Content-Disposition: form-data; name="0"; filename="file.txt"
+  Content-Type: text/plain
+
+  File content.
+
+  --cec8e8123c05ba25--
+  ```
+
+{% /multicode %}
+
+# Large files {% #large-files %}
+When you are trying to upload any files above 5MB, you will need to upload them in chunks for better reliability and performance.
+If you're using an Clikkle SDK, this is handled automatically.
+If you're not using an SDK, you can [learn more about REST API file handling](/docs/apis/rest#files).
+
+# InputFile {% #input-file %}
+Every language and platform handles file inputs differently. This section rows the expected input type of each SDK. Where applicable, Clikkle provides an `InputFile` class to accept multiple file sources, like paths, buffers, or plain text.
+
+# Client SDKs {% #client-sdks %}
+
+{% tabs %}
+{% tabsitem #web title="Web" %}
+The Clikkle Web SDK expects a [File](https://developer.mozilla.org/en-US/docs/Web/API/File) object for file creation. This is most commonly associated with DOM file inputs.
+
+For example, for the input tag `<input type="file" id="uploader">`, you would call create file like this:
+
+```js
+const promise = storage.createFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: ID.unique(),
+    file: document.getElementById('uploader').files[0]
+});
+```
+{% /tabsitem %}
+
+{% tabsitem #flutter title="Flutter" %}
+
+The Clikkle Flutter SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(path: [PATH], filename: [NAME], contentType: [MIME TYPE])` | Used to upload files from a provided path, `filename` and `contentType` are optional. Used for Flutter apps on mobile and desktop. |
+| `InputFile.fromBytes(bytes: [BYTE LIST], filename: [NAME], contentType: [MIME TYPE])` | Used to upload files from a byte list, `contentType` is optional. Used for Flutter apps on the web. |
+{% /tabsitem %}
+
+{% tabsitem #android title="Android" %}
+
+The Clikkle Android SDK expects an `InputFile` class for file inputs.
+
+| Method                         | Description                                      |
+| ------------------------------ | ------------------------------------------------ |
+| `InputFile.fromPath(path: String)` | Used to upload files from a provided path.     |
+| `InputFile.fromFile(file: File)`   | Used to upload files from a [File](https://docs.oracle.com/javase/8/docs/api/java/io/File.html) object. |
+| `InputFile.fromBytes(bytes: ByteArray, filename: String, mimeType: String)` | Used to upload files from a [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+
+{% /tabsitem %}
+
+{% tabsitem #apple title="Apple" %}
+The Clikkle Apple SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(_ path: String)`        | Used to upload files from a provided path.                  |
+| `InputFile.fromData(_ data: Data, filename: String, mimeType: String)` | Used to upload files from a [Data](https://developer.apple.com/documentation/foundation/data) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+| `InputFile.fromBuffer(_ buffer: ByteBuffer, filename: String, mimeType: String)` | Used to upload files from a [NIO Buffer](https://swiftinit.org/reference/swift-nio/niocore/bytebuffer) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+{% /tabsitem %}
+
+{% tabsitem #react-native title="React Native" %}
+The Clikkle React Native SDK expects a file object with the following properties for file inputs:
+
+| Property | Description |
+| -------- | ----------- |
+| `name` | The name of the file. |
+| `type` | The MIME type of the file. |
+| `size` | The size of the file in bytes. |
+| `uri` | The URI of the file on the device. |
+
+This object structure aligns with what is typically returned from image picker libraries such as `react-native-image-picker`:
+
+```js
+// Example with react-native-image-picker
+import { launchImageLibrary } from 'react-native-image-picker';
+
+const pickImage = async () => {
+  const result = await launchImageLibrary({
+    mediaType: 'photo',
+  });
+
+  if (result.assets && result.assets[0]) {
+    const fileInfo = result.assets[0];
+
+    return {
+      name: fileInfo.fileName,
+      type: fileInfo.type,
+      size: fileInfo.fileSize,
+      uri: fileInfo.uri,
+    };
+  }
+};
+```
+
+You can also use the file picker or row picker from Expo:
+
+```js
+// Example with expo-row-picker
+import * as DocumentPicker from 'expo-row-picker';
+
+const pickDocument = async () => {
+  const result = await DocumentPicker.getRowAsync();
+
+  if (result.assets && result.assets[0]) {
+    return {
+      name: result.assets[0].name,
+      type: result.assets[0].mimeType,
+      size: result.assets[0].size,
+      uri: result.assets[0].uri,
+    };
+  }
+};
+```
+{% /tabsitem %}
+{% /tabs %}
+
+# Server SDKs {% #server-sdks %}
+
+{% tabs %}
+{% tabsitem #nodejs title="Node.js" %}
+In browser environments, you can use the `File` object directly. For Node.js environments, import the `InputFile` class from 'node-clikkle/file'.
+
+When using `InputFile`, the following methods are available:
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(filePath, filename)`     | Used to upload files from a provided path.                  |
+| `InputFile.fromBuffer(buffer, filename)`     | Used to upload files from a [Buffer](https://nodejs.org/api/buffer.html#buffer) or [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob) object. |
+| `InputFile.fromPlainText(content, filename)`  | Used to upload files in plain text. Expects a string encoded in UTF-8. |
+{% /tabsitem %}
+
+{% tabsitem #php title="PHP" %}
+
+The Clikkle PHP SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.withPath(string $path, ?string $mimeType = null, ?string $filename = null)` | Used to upload files from a provided path.                  |
+| `InputFile.withData(string $data, ?string $mimeType = null, ?string $filename = null)` | Used to upload files from a string.                         |
+{% /tabsitem %}
+
+{% tabsitem #python title="Python" %}
+The Clikkle Python SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.from_path(path)`                | Used to upload files from a provided path.                  |
+| `InputFile.from_bytes(bytes)`              | Used to upload files from an array of bytes.               |
+{% /tabsitem %}
+
+{% tabsitem #ruby title="Ruby" %}
+The Clikkle Ruby SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.from_path(path)`                | Used to upload files from a provided path.                  |
+| `InputFile.from_string(string)`            | Used to upload files from a String.                         |
+| `InputFile.from_bytes(bytes)`              | Used to upload files from an array of bytes.               |
+
+{% /tabsitem %}
+
+{% tabsitem #deno title="Deno" %}
+The Clikkle Deno SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(filePath, filename)`     | Used to upload files from a provided path.                  |
+| `InputFile.fromBuffer(buffer, filename)`     | Used to upload files from a [Uint8Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array) object. |
+| `InputFile.fromPlainText(content, filename)`  | Used to upload files in plain text. Expects a string encoded in UTF-8. |
+{% /tabsitem %}
+
+{% tabsitem #dart title="Dart" %}
+The Clikkle Dart SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(path: [PATH], filename: [NAME], contentType: [MIME TYPE])` | Used to upload files from a provided path, `filename` and `contentType` are optional. |
+| `InputFile.fromBytes(bytes: [BYTE LIST], filename: [NAME], contentType: [MIME TYPE])` | Used to upload files from a byte list, `contentType` is optional. |
+{% /tabsitem %}
+
+{% tabsitem #kotlin title="Kotlin" %}
+
+The Clikkle Kotlin SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(path: String)`          | Used to upload files from a provided path.                  |
+| `InputFile.fromFile(file: File)`            | Used to upload files from a [File](https://docs.oracle.com/javase/8/docs/api/java/io/File.html) object. |
+| `InputFile.fromBytes(bytes: ByteArray, filename: String, mimeType: String)` | Used to upload files from a [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+{% /tabsitem %}
+
+{% tabsitem #swift title="Swift" %}
+The Clikkle Swift SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(_ path: String)`        | Used to upload files from a provided path.                  |
+| `InputFile.fromData(_ data: Data, filename: String, mimeType: String)` | Used to upload files from a [Data](https://developer.apple.com/documentation/foundation/data) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+| `InputFile.fromBuffer(_ buffer: ByteBuffer, filename: String, mimeType: String)` | Used to upload files from a [NIO Buffer](https://swiftinit.org/reference/swift-nio/niocore/bytebuffer) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+{% /tabsitem %}
+
+{% tabsitem #dotnet title=".NET" %}
+The Clikkle .NET SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.FromPath(string path)`           | Used to upload files from a provided path.                  |
+| `InputFile.FromBytes(byte[] bytes, string filename, string mimeType)` | Used to upload files from an array of bytes. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+{% /tabsitem %}
+{% /tabs %}
+
+# Get file {% #get-file %}
+To get a metadata about a file, use the `getFile` method.
+
+{% multicode %}
+```client-web
+import { Client, Storage } from "clikkle";
+
+const client = new Client();
+
+const storage = new Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const promise = storage.getFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  // downloading file
+  Future result = storage.getFile(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes)
+  }).catchError((error) {
+      print(error.response);
+  })
+}
+
+//displaying image preview
+FutureBuilder(
+  future: storage.getFile(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ), //works for both public file and private file, for private files you need to be logged in
+  builder: (context, snapshot) {
+    return snapshot.hasData && snapshot.data != null
+      ? Image.memory(
+          snapshot.data,
+        )
+      : CircularProgressIndicator();
+  },
+);
+```
+```client-apple
+import Clikkle
+
+func main() async throws {
+    let client = Client()
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+      .setProject("<PROJECT_ID>")
+
+      let storage = Storage(client)
+
+      let byteBuffer = try await storage.getFile(
+          bucketId: "<BUCKET_ID>",
+          fileId: "<FILE_ID>"
+      )
+
+      print(String(describing: byteBuffer)
+}
+```
+```client-android-kotlin
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val client = Client(applicationContext)
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+            .setProject("<PROJECT_ID>") // Your project ID
+
+        val storage = Storage(client)
+
+        val result = storage.getFile(
+            bucketId = "<BUCKET_ID>",
+            fileId = "<FILE_ID>"
+        )
+        println(result); // Resource URL
+    }
+}
+```
+```client-react-native
+import { Client, Storage } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const storage = new Storage(client);
+
+const promise = storage.getFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+{% /multicode %}
+
+# Download file {% #download-file %}
+To download a file, use the `getFileDownload` method.
+
+{% multicode %}
+```client-web
+import { Client, Storage } from "clikkle";
+
+const client = new Client();
+
+const storage = new Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const result = storage.getFileDownload({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  // downloading file
+  Future result = storage.getFileDownload(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes)
+  }).catchError((error) {
+      print(error.response);
+  })
+}
+
+//displaying image preview
+FutureBuilder(
+  future: storage.getFileDownload(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ), //works for both public file and private file, for private files you need to be logged in
+  builder: (context, snapshot) {
+    return snapshot.hasData && snapshot.data != null
+      ? Image.memory(
+          snapshot.data,
+        )
+      : CircularProgressIndicator();
+  },
+);
+```
+```client-apple
+import Clikkle
+
+func main() async throws {
+    let client = Client()
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+      .setProject("<PROJECT_ID>") // Your project ID
+    let storage = Storage(client)
+    let byteBuffer = try await storage.getFileDownload(
+        bucketId: "<BUCKET_ID>",
+        fileId: "<FILE_ID>"
+    )
+
+    print(String(describing: byteBuffer))
+}
+```
+```client-android-kotlin
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val client = Client(applicationContext)
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+            .setProject("<PROJECT_ID>") // Your project ID
+
+        val storage = Storage(client)
+
+        val result = storage.getFileDownload(
+            bucketId = "<BUCKET_ID>",
+            fileId = "<FILE_ID>"
+        )
+        println(result); // Resource URL
+    }
+}
+```
+```client-react-native
+import { Client, Storage } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const storage = new Storage(client);
+
+// Downloads the file data as ArrayBuffer
+const result = await storage.getFileDownload({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // ArrayBuffer with file data
+
+// To get just the download URL without downloading:
+const downloadUrl = storage.getFileDownloadURL({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(downloadUrl); // URL object
+```
+{% /multicode %}
+
+# Get File Preview {% #get-file-preview %}
+To get a file preview image , use the `getFilePreview` method.
+
+{% multicode %}
+```client-web
+import { Client, Storage } from "clikkle";
+
+const client = new Client();
+
+const storage = new Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const result = storage.getFilePreview({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  // downloading file
+  Future result = storage.getFilePreview(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes)
+  }).catchError((error) {
+      print(error.response);
+  })
+}
+
+//displaying image preview
+FutureBuilder(
+  future: storage.getFilePreview(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ), //works for both public file and private file, for private files you need to be logged in
+  builder: (context, snapshot) {
+    return snapshot.hasData && snapshot.data != null
+      ? Image.memory(
+          snapshot.data,
+        )
+      : CircularProgressIndicator();
+  },
+);
+```
+```client-apple
+import Clikkle
+
+func main() async throws {
+    let client = Client()
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+      .setProject("<PROJECT_ID>") // Your project ID
+    let storage = Storage(client)
+    let byteBuffer = try await storage.getFilePreview(
+        bucketId: "<BUCKET_ID>",
+        fileId: "<FILE_ID>"
+    )
+
+    print(String(describing: byteBuffer))
+}
+```
+```client-android-kotlin
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val client = Client(applicationContext)
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+            .setProject("<PROJECT_ID>") // Your project ID
+
+        val storage = Storage(client)
+
+        val result = storage.getFilePreview(
+            bucketId = "<BUCKET_ID>",
+            fileId = "<FILE_ID>"
+        )
+        println(result); // Resource URL
+    }
+}
+```
+```client-react-native
+import { Client, Storage, ImageGravity } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const storage = new Storage(client);
+
+// Downloads the preview image data as ArrayBuffer
+const result = await storage.getFilePreview({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+    width: 200,
+    height: 200,
+    gravity: ImageGravity.Center,
+    quality: 100
+});
+
+console.log(result); // ArrayBuffer with image data
+
+// To get just the preview URL without downloading:
+const previewUrl = storage.getFilePreviewURL({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+    width: 200,
+    height: 200,
+    gravity: ImageGravity.Center,
+    quality: 100
+});
+
+console.log(previewUrl); // URL object
+```
+{% /multicode %}
+
+# View File {% #view-file%}
+
+To view a file, use the `getFileView` method.
+
+{% multicode %}
+```client-web
+import { Client, Storage } from "clikkle";
+
+const client = new Client();
+
+const storage = new Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const result = storage.getFileView({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  // downloading file
+  Future result = storage.getFileView(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes)
+  }).catchError((error) {
+      print(error.response);
+  })
+}
+
+//displaying image preview
+FutureBuilder(
+  future: storage.getFileView(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ), //works for both public file and private file, for private files you need to be logged in
+  builder: (context, snapshot) {
+    return snapshot.hasData && snapshot.data != null
+      ? Image.memory(
+          snapshot.data,
+        )
+      : CircularProgressIndicator();
+  },
+);
+```
+```client-apple
+import Clikkle
+
+func main() async throws {
+    let client = Client()
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+      .setProject("<PROJECT_ID>") // Your project ID
+    let storage = Storage(client)
+    let byteBuffer = try await storage.getFileView(
+        bucketId: "<BUCKET_ID>",
+        fileId: "<FILE_ID>"
+    )
+
+    print(String(describing: byteBuffer))
+}
+```
+```client-android-kotlin
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val client = Client(applicationContext)
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+            .setProject("<PROJECT_ID>") // Your project ID
+
+        val storage = Storage(client)
+
+        val result = storage.getFileView(
+            bucketId = "<BUCKET_ID>",
+            fileId = "<FILE_ID>"
+        )
+        println(result); // Resource URL
+    }
+}
+```
+```client-react-native
+import { Client, Storage } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const storage = new Storage(client);
+
+// Downloads the file data as ArrayBuffer
+const result = await storage.getFileView({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // ArrayBuffer with file data
+
+// To get just the view URL without downloading:
+const viewUrl = storage.getFileViewURL({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(viewUrl); // URL object
+```
+{% /multicode %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T7a46,---
+layout: article
+title: Upload and download
+description: Effortlessly upload and download files with Clikkle Storage. Learn how to handle file uploads, manage file versions, and ensure secure downloads in your applications.
+---
+
+You can upload and download files both programmatically using SDKs or through the Clikkle Console.
+
+# Create file {% #create-file %}
+
+After you create a bucket or have navigated to bucket details, you can access the **Files** tab so you can upload, view, delete and update files in the bucket using the Clikkle project's dashboard. You can also perform all those operations from Clikkle's client SDK, server SDKs, and REST APIs as long as you have the proper permission.
+
+When you are in the **Files** tab, you can click **Add File** and select a file to upload. If the bucket is configured to accept the file type and size you are uploading, your file will be uploaded, and you will see the file in the list of files.
+
+You can also upload files programmatically using our SDKs:
+
+{% multicode %}
+  ```client-web
+  import { Client, Storage, ID } from "clikkle";
+
+  const client = new Client()
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+      .setProject('<PROJECT_ID>');
+
+  const storage = new Storage(client);
+
+  const promise = storage.createFile({
+      bucketId: '<BUCKET_ID>',
+      fileId: ID.unique(),
+      file: document.getElementById('uploader').files[0]
+  });
+
+  promise.then(function (response) {
+      console.log(response); // Success
+  }, function (error) {
+      console.log(error); // Failure
+  });
+  ```
+
+  ```server-nodejs
+  const sdk = require('node-clikkle');
+  const { InputFile } = require('node-clikkle/file');
+
+  const client = new sdk.Client()
+      .setEndpoint('https://cloud.clikkle.io/v1')
+      .setProject('<PROJECT_ID>')
+      .setKey('<API_KEY>');
+
+  const storage = new sdk.Storage(client);
+
+  // If running in a browser environment, you can use File directly
+  const browserFile = new File(['hello'], 'hello.txt');
+  await storage.createFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: ID.unique(),
+    file: browserFile
+  });
+
+  // If running in Node.js, use InputFile
+  const nodeFile = InputFile.fromPath('/path/to/file.jpg', 'file.jpg');
+  await storage.createFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: ID.unique(),
+    file: nodeFile
+  });
+  ```
+
+  ```client-flutter
+  import 'package:clikkle/clikkle.dart';
+
+  void main() { // Init SDK
+    final client = Client()
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+      .setProject('<PROJECT_ID>');
+
+    final storage = Storage(client);
+
+    final file = await storage.createFile(
+      bucketId: '<BUCKET_ID>',
+      fileId: ID.unique(),
+      file: InputFile.fromPath(path: './path-to-files/image.jpg', filename: 'image.jpg'),
+    );
+  }
+  ```
+
+  ```client-android-kotlin
+  import io.clikkle.Client
+  import io.clikkle.services.Storage
+
+  suspend fun main() {
+      val client = Client(applicationContext)
+          .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+          .setProject("<PROJECT_ID>") // Your project ID
+
+      val storage = Storage(client)
+
+      val file = storage.createFile(
+          bucketId = "<BUCKET_ID>",
+          fileId = ID.unique(),
+          file = File("./path-to-files/image.jpg"),
+      )
+  }
+  ```
+
+  ```client-react-native
+  import { Client, Storage, ID } from 'react-native-clikkle';
+
+  const client = new Client()
+      .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+      .setProject('<PROJECT_ID>');
+
+  const storage = new Storage(client);
+
+  const promise = storage.createFile({
+      bucketId: '<BUCKET_ID>',
+      fileId: ID.unique(),
+      file: {
+          name: 'image.jpg',
+          type: 'image/jpeg',
+          size: 1234567,
+          uri: 'file:///path/to/file.jpg',
+      }
+  });
+
+  promise.then(function (response) {
+      console.log(response); // Success
+  }, function (error) {
+      console.log(error); // Failure
+  });
+  ```
+
+  ```client-apple
+  import Clikkle
+
+  func main() async throws {
+      let client = Client()
+        .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+        .setProject("<PROJECT_ID>")
+
+      let storage = Storage(client)
+
+      let file = try await storage.createFile(
+          bucketId: "<BUCKET_ID>",
+          fileId: ID.unique(),
+          file: InputFile.fromBuffer(yourByteBuffer,
+              filename: "image.jpg",
+              mimeType: "image/jpeg"
+          )
+      )
+  }
+  ```
+
+  ```http
+  POST /v1/storage/buckets/{bucketId}/files HTTP/1.1
+  Content-Type: multipart/form-data; boundary="cec8e8123c05ba25"
+  Content-Length: *Length of your entity body in bytes*
+  X-Clikkle-Project: <PROJECT_ID>
+
+  --cec8e8123c05ba25
+  Content-Disposition: form-data; name="operations"
+
+  { "query": "mutation CreateFile($bucketId: String!, $fileId: String!, $file: InputFile!) { storageCreateFile(bucketId: $bucketId, fileId: $fileId, file: $file) { id } }", "variables": { "bucketId": "<BUCKET_ID>", "fileId": "<FILE_ID>", "file": null } }
+  --cec8e8123c05ba25
+  Content-Disposition: form-data; name="map"
+
+  { "0": ["variables.file"] }
+  --cec8e8123c05ba25
+  Content-Disposition: form-data; name="0"; filename="file.txt"
+  Content-Type: text/plain
+
+  File content.
+
+  --cec8e8123c05ba25--
+  ```
+
+{% /multicode %}
+
+# Large files {% #large-files %}
+When you are trying to upload any files above 5MB, you will need to upload them in chunks for better reliability and performance.
+If you're using an Clikkle SDK, this is handled automatically.
+If you're not using an SDK, you can [learn more about REST API file handling](/docs/apis/rest#files).
+
+# InputFile {% #input-file %}
+Every language and platform handles file inputs differently. This section rows the expected input type of each SDK. Where applicable, Clikkle provides an `InputFile` class to accept multiple file sources, like paths, buffers, or plain text.
+
+# Client SDKs {% #client-sdks %}
+
+{% tabs %}
+{% tabsitem #web title="Web" %}
+The Clikkle Web SDK expects a [File](https://developer.mozilla.org/en-US/docs/Web/API/File) object for file creation. This is most commonly associated with DOM file inputs.
+
+For example, for the input tag `<input type="file" id="uploader">`, you would call create file like this:
+
+```js
+const promise = storage.createFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: ID.unique(),
+    file: document.getElementById('uploader').files[0]
+});
+```
+{% /tabsitem %}
+
+{% tabsitem #flutter title="Flutter" %}
+
+The Clikkle Flutter SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(path: [PATH], filename: [NAME], contentType: [MIME TYPE])` | Used to upload files from a provided path, `filename` and `contentType` are optional. Used for Flutter apps on mobile and desktop. |
+| `InputFile.fromBytes(bytes: [BYTE LIST], filename: [NAME], contentType: [MIME TYPE])` | Used to upload files from a byte list, `contentType` is optional. Used for Flutter apps on the web. |
+{% /tabsitem %}
+
+{% tabsitem #android title="Android" %}
+
+The Clikkle Android SDK expects an `InputFile` class for file inputs.
+
+| Method                         | Description                                      |
+| ------------------------------ | ------------------------------------------------ |
+| `InputFile.fromPath(path: String)` | Used to upload files from a provided path.     |
+| `InputFile.fromFile(file: File)`   | Used to upload files from a [File](https://docs.oracle.com/javase/8/docs/api/java/io/File.html) object. |
+| `InputFile.fromBytes(bytes: ByteArray, filename: String, mimeType: String)` | Used to upload files from a [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+
+{% /tabsitem %}
+
+{% tabsitem #apple title="Apple" %}
+The Clikkle Apple SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(_ path: String)`        | Used to upload files from a provided path.                  |
+| `InputFile.fromData(_ data: Data, filename: String, mimeType: String)` | Used to upload files from a [Data](https://developer.apple.com/documentation/foundation/data) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+| `InputFile.fromBuffer(_ buffer: ByteBuffer, filename: String, mimeType: String)` | Used to upload files from a [NIO Buffer](https://swiftinit.org/reference/swift-nio/niocore/bytebuffer) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+{% /tabsitem %}
+
+{% tabsitem #react-native title="React Native" %}
+The Clikkle React Native SDK expects a file object with the following properties for file inputs:
+
+| Property | Description |
+| -------- | ----------- |
+| `name` | The name of the file. |
+| `type` | The MIME type of the file. |
+| `size` | The size of the file in bytes. |
+| `uri` | The URI of the file on the device. |
+
+This object structure aligns with what is typically returned from image picker libraries such as `react-native-image-picker`:
+
+```js
+// Example with react-native-image-picker
+import { launchImageLibrary } from 'react-native-image-picker';
+
+const pickImage = async () => {
+  const result = await launchImageLibrary({
+    mediaType: 'photo',
+  });
+
+  if (result.assets && result.assets[0]) {
+    const fileInfo = result.assets[0];
+
+    return {
+      name: fileInfo.fileName,
+      type: fileInfo.type,
+      size: fileInfo.fileSize,
+      uri: fileInfo.uri,
+    };
+  }
+};
+```
+
+You can also use the file picker or row picker from Expo:
+
+```js
+// Example with expo-row-picker
+import * as DocumentPicker from 'expo-row-picker';
+
+const pickDocument = async () => {
+  const result = await DocumentPicker.getRowAsync();
+
+  if (result.assets && result.assets[0]) {
+    return {
+      name: result.assets[0].name,
+      type: result.assets[0].mimeType,
+      size: result.assets[0].size,
+      uri: result.assets[0].uri,
+    };
+  }
+};
+```
+{% /tabsitem %}
+{% /tabs %}
+
+# Server SDKs {% #server-sdks %}
+
+{% tabs %}
+{% tabsitem #nodejs title="Node.js" %}
+In browser environments, you can use the `File` object directly. For Node.js environments, import the `InputFile` class from 'node-clikkle/file'.
+
+When using `InputFile`, the following methods are available:
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(filePath, filename)`     | Used to upload files from a provided path.                  |
+| `InputFile.fromBuffer(buffer, filename)`     | Used to upload files from a [Buffer](https://nodejs.org/api/buffer.html#buffer) or [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob) object. |
+| `InputFile.fromPlainText(content, filename)`  | Used to upload files in plain text. Expects a string encoded in UTF-8. |
+{% /tabsitem %}
+
+{% tabsitem #php title="PHP" %}
+
+The Clikkle PHP SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.withPath(string $path, ?string $mimeType = null, ?string $filename = null)` | Used to upload files from a provided path.                  |
+| `InputFile.withData(string $data, ?string $mimeType = null, ?string $filename = null)` | Used to upload files from a string.                         |
+{% /tabsitem %}
+
+{% tabsitem #python title="Python" %}
+The Clikkle Python SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.from_path(path)`                | Used to upload files from a provided path.                  |
+| `InputFile.from_bytes(bytes)`              | Used to upload files from an array of bytes.               |
+{% /tabsitem %}
+
+{% tabsitem #ruby title="Ruby" %}
+The Clikkle Ruby SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.from_path(path)`                | Used to upload files from a provided path.                  |
+| `InputFile.from_string(string)`            | Used to upload files from a String.                         |
+| `InputFile.from_bytes(bytes)`              | Used to upload files from an array of bytes.               |
+
+{% /tabsitem %}
+
+{% tabsitem #deno title="Deno" %}
+The Clikkle Deno SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(filePath, filename)`     | Used to upload files from a provided path.                  |
+| `InputFile.fromBuffer(buffer, filename)`     | Used to upload files from a [Uint8Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array) object. |
+| `InputFile.fromPlainText(content, filename)`  | Used to upload files in plain text. Expects a string encoded in UTF-8. |
+{% /tabsitem %}
+
+{% tabsitem #dart title="Dart" %}
+The Clikkle Dart SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(path: [PATH], filename: [NAME], contentType: [MIME TYPE])` | Used to upload files from a provided path, `filename` and `contentType` are optional. |
+| `InputFile.fromBytes(bytes: [BYTE LIST], filename: [NAME], contentType: [MIME TYPE])` | Used to upload files from a byte list, `contentType` is optional. |
+{% /tabsitem %}
+
+{% tabsitem #kotlin title="Kotlin" %}
+
+The Clikkle Kotlin SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(path: String)`          | Used to upload files from a provided path.                  |
+| `InputFile.fromFile(file: File)`            | Used to upload files from a [File](https://docs.oracle.com/javase/8/docs/api/java/io/File.html) object. |
+| `InputFile.fromBytes(bytes: ByteArray, filename: String, mimeType: String)` | Used to upload files from a [ByteArray](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+{% /tabsitem %}
+
+{% tabsitem #swift title="Swift" %}
+The Clikkle Swift SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.fromPath(_ path: String)`        | Used to upload files from a provided path.                  |
+| `InputFile.fromData(_ data: Data, filename: String, mimeType: String)` | Used to upload files from a [Data](https://developer.apple.com/documentation/foundation/data) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+| `InputFile.fromBuffer(_ buffer: ByteBuffer, filename: String, mimeType: String)` | Used to upload files from a [NIO Buffer](https://swiftinit.org/reference/swift-nio/niocore/bytebuffer) object. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+{% /tabsitem %}
+
+{% tabsitem #dotnet title=".NET" %}
+The Clikkle .NET SDK expects an `InputFile` class for file inputs.
+
+| Method                                     | Description                                                  |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| `InputFile.FromPath(string path)`           | Used to upload files from a provided path.                  |
+| `InputFile.FromBytes(byte[] bytes, string filename, string mimeType)` | Used to upload files from an array of bytes. Specify the file [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) using the `mimeType` param. |
+{% /tabsitem %}
+{% /tabs %}
+
+# Get file {% #get-file %}
+To get a metadata about a file, use the `getFile` method.
+
+{% multicode %}
+```client-web
+import { Client, Storage } from "clikkle";
+
+const client = new Client();
+
+const storage = new Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const promise = storage.getFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  // downloading file
+  Future result = storage.getFile(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes)
+  }).catchError((error) {
+      print(error.response);
+  })
+}
+
+//displaying image preview
+FutureBuilder(
+  future: storage.getFile(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ), //works for both public file and private file, for private files you need to be logged in
+  builder: (context, snapshot) {
+    return snapshot.hasData && snapshot.data != null
+      ? Image.memory(
+          snapshot.data,
+        )
+      : CircularProgressIndicator();
+  },
+);
+```
+```client-apple
+import Clikkle
+
+func main() async throws {
+    let client = Client()
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+      .setProject("<PROJECT_ID>")
+
+      let storage = Storage(client)
+
+      let byteBuffer = try await storage.getFile(
+          bucketId: "<BUCKET_ID>",
+          fileId: "<FILE_ID>"
+      )
+
+      print(String(describing: byteBuffer)
+}
+```
+```client-android-kotlin
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val client = Client(applicationContext)
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+            .setProject("<PROJECT_ID>") // Your project ID
+
+        val storage = Storage(client)
+
+        val result = storage.getFile(
+            bucketId = "<BUCKET_ID>",
+            fileId = "<FILE_ID>"
+        )
+        println(result); // Resource URL
+    }
+}
+```
+```client-react-native
+import { Client, Storage } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const storage = new Storage(client);
+
+const promise = storage.getFile({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+{% /multicode %}
+
+# Download file {% #download-file %}
+To download a file, use the `getFileDownload` method.
+
+{% multicode %}
+```client-web
+import { Client, Storage } from "clikkle";
+
+const client = new Client();
+
+const storage = new Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const result = storage.getFileDownload({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  // downloading file
+  Future result = storage.getFileDownload(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes)
+  }).catchError((error) {
+      print(error.response);
+  })
+}
+
+//displaying image preview
+FutureBuilder(
+  future: storage.getFileDownload(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ), //works for both public file and private file, for private files you need to be logged in
+  builder: (context, snapshot) {
+    return snapshot.hasData && snapshot.data != null
+      ? Image.memory(
+          snapshot.data,
+        )
+      : CircularProgressIndicator();
+  },
+);
+```
+```client-apple
+import Clikkle
+
+func main() async throws {
+    let client = Client()
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+      .setProject("<PROJECT_ID>") // Your project ID
+    let storage = Storage(client)
+    let byteBuffer = try await storage.getFileDownload(
+        bucketId: "<BUCKET_ID>",
+        fileId: "<FILE_ID>"
+    )
+
+    print(String(describing: byteBuffer))
+}
+```
+```client-android-kotlin
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val client = Client(applicationContext)
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+            .setProject("<PROJECT_ID>") // Your project ID
+
+        val storage = Storage(client)
+
+        val result = storage.getFileDownload(
+            bucketId = "<BUCKET_ID>",
+            fileId = "<FILE_ID>"
+        )
+        println(result); // Resource URL
+    }
+}
+```
+```client-react-native
+import { Client, Storage } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const storage = new Storage(client);
+
+// Downloads the file data as ArrayBuffer
+const result = await storage.getFileDownload({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // ArrayBuffer with file data
+
+// To get just the download URL without downloading:
+const downloadUrl = storage.getFileDownloadURL({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(downloadUrl); // URL object
+```
+{% /multicode %}
+
+# Get File Preview {% #get-file-preview %}
+To get a file preview image , use the `getFilePreview` method.
+
+{% multicode %}
+```client-web
+import { Client, Storage } from "clikkle";
+
+const client = new Client();
+
+const storage = new Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const result = storage.getFilePreview({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  // downloading file
+  Future result = storage.getFilePreview(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes)
+  }).catchError((error) {
+      print(error.response);
+  })
+}
+
+//displaying image preview
+FutureBuilder(
+  future: storage.getFilePreview(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ), //works for both public file and private file, for private files you need to be logged in
+  builder: (context, snapshot) {
+    return snapshot.hasData && snapshot.data != null
+      ? Image.memory(
+          snapshot.data,
+        )
+      : CircularProgressIndicator();
+  },
+);
+```
+```client-apple
+import Clikkle
+
+func main() async throws {
+    let client = Client()
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+      .setProject("<PROJECT_ID>") // Your project ID
+    let storage = Storage(client)
+    let byteBuffer = try await storage.getFilePreview(
+        bucketId: "<BUCKET_ID>",
+        fileId: "<FILE_ID>"
+    )
+
+    print(String(describing: byteBuffer))
+}
+```
+```client-android-kotlin
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val client = Client(applicationContext)
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+            .setProject("<PROJECT_ID>") // Your project ID
+
+        val storage = Storage(client)
+
+        val result = storage.getFilePreview(
+            bucketId = "<BUCKET_ID>",
+            fileId = "<FILE_ID>"
+        )
+        println(result); // Resource URL
+    }
+}
+```
+```client-react-native
+import { Client, Storage, ImageGravity } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const storage = new Storage(client);
+
+// Downloads the preview image data as ArrayBuffer
+const result = await storage.getFilePreview({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+    width: 200,
+    height: 200,
+    gravity: ImageGravity.Center,
+    quality: 100
+});
+
+console.log(result); // ArrayBuffer with image data
+
+// To get just the preview URL without downloading:
+const previewUrl = storage.getFilePreviewURL({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+    width: 200,
+    height: 200,
+    gravity: ImageGravity.Center,
+    quality: 100
+});
+
+console.log(previewUrl); // URL object
+```
+{% /multicode %}
+
+# View File {% #view-file%}
+
+To view a file, use the `getFileView` method.
+
+{% multicode %}
+```client-web
+import { Client, Storage } from "clikkle";
+
+const client = new Client();
+
+const storage = new Storage(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+;
+
+const result = storage.getFileView({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Storage storage = Storage(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+  ;
+  // downloading file
+  Future result = storage.getFileView(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ).then((bytes) {
+    final file = File('path_to_file/filename.ext');
+    file.writeAsBytesSync(bytes)
+  }).catchError((error) {
+      print(error.response);
+  })
+}
+
+//displaying image preview
+FutureBuilder(
+  future: storage.getFileView(
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>',
+  ), //works for both public file and private file, for private files you need to be logged in
+  builder: (context, snapshot) {
+    return snapshot.hasData && snapshot.data != null
+      ? Image.memory(
+          snapshot.data,
+        )
+      : CircularProgressIndicator();
+  },
+);
+```
+```client-apple
+import Clikkle
+
+func main() async throws {
+    let client = Client()
+      .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+      .setProject("<PROJECT_ID>") // Your project ID
+    let storage = Storage(client)
+    let byteBuffer = try await storage.getFileView(
+        bucketId: "<BUCKET_ID>",
+        fileId: "<FILE_ID>"
+    )
+
+    print(String(describing: byteBuffer))
+}
+```
+```client-android-kotlin
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
+import io.clikkle.Client
+import io.clikkle.services.Storage
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        val client = Client(applicationContext)
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+            .setProject("<PROJECT_ID>") // Your project ID
+
+        val storage = Storage(client)
+
+        val result = storage.getFileView(
+            bucketId = "<BUCKET_ID>",
+            fileId = "<FILE_ID>"
+        )
+        println(result); // Resource URL
+    }
+}
+```
+```client-react-native
+import { Client, Storage } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const storage = new Storage(client);
+
+// Downloads the file data as ArrayBuffer
+const result = await storage.getFileView({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(result); // ArrayBuffer with file data
+
+// To get just the view URL without downloading:
+const viewUrl = storage.getFileViewURL({
+    bucketId: '<BUCKET_ID>',
+    fileId: '<FILE_ID>'
+});
+
+console.log(viewUrl); // URL object
+```
+{% /multicode %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Upload and download"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can upload and download files both programmatically using SDKs or through the Clikkle Console."}],["$","$Le",null,{"id":"create-file","level":1,"children":"Create file "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After you create a bucket or have navigated to bucket details, you can access the ",["$","strong",null,{"children":"Files"}]," tab so you can upload, view, delete and update files in the bucket using the Clikkle project's dashboard. You can also perform all those operations from Clikkle's client SDK, server SDKs, and REST APIs as long as you have the proper permission."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When you are in the ",["$","strong",null,{"children":"Files"}]," tab, you can click ",["$","strong",null,{"children":"Add File"}]," and select a file to upload. If the bucket is configured to accept the file type and size you are uploading, your file will be uploaded, and you will see the file in the list of files."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can also upload files programmatically using our SDKs:"}],["$","$Lf",null,{"children":[["$","$L10",null,{"language":"client-web","content":"import { Client, Storage, ID } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\nconst promise = storage.createFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: ID.unique(),\n    file: document.getElementById('uploader').files[0]\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n","children":"import { Client, Storage, ID } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\nconst promise = storage.createFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: ID.unique(),\n    file: document.getElementById('uploader').files[0]\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n"}],["$","$L10",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\nconst { InputFile } = require('node-clikkle/file');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>')\n    .setKey('<API_KEY>');\n\nconst storage = new sdk.Storage(client);\n\n// If running in a browser environment, you can use File directly\nconst browserFile = new File(['hello'], 'hello.txt');\nawait storage.createFile({\n  bucketId: '<BUCKET_ID>',\n  fileId: ID.unique(),\n  file: browserFile\n});\n\n// If running in Node.js, use InputFile\nconst nodeFile = InputFile.fromPath('/path/to/file.jpg', 'file.jpg');\nawait storage.createFile({\n  bucketId: '<BUCKET_ID>',\n  fileId: ID.unique(),\n  file: nodeFile\n});\n","children":"const sdk = require('node-clikkle');\nconst { InputFile } = require('node-clikkle/file');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>')\n    .setKey('<API_KEY>');\n\nconst storage = new sdk.Storage(client);\n\n// If running in a browser environment, you can use File directly\nconst browserFile = new File(['hello'], 'hello.txt');\nawait storage.createFile({\n  bucketId: '<BUCKET_ID>',\n  fileId: ID.unique(),\n  file: browserFile\n});\n\n// If running in Node.js, use InputFile\nconst nodeFile = InputFile.fromPath('/path/to/file.jpg', 'file.jpg');\nawait storage.createFile({\n  bucketId: '<BUCKET_ID>',\n  fileId: ID.unique(),\n  file: nodeFile\n});\n"}],"$L11","$L12","$L13","$L14","$L15"]}],"$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]]}],"$L2a"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L2b",null,{"items":[{"id":"create-file","title":"Create file","level":1},{"id":"large-files","title":"Large files","level":1},{"id":"input-file","title":"InputFile","level":1},{"id":"client-sdks","title":"Client SDKs","level":1},{"id":"server-sdks","title":"Server SDKs","level":1},{"id":"get-file","title":"Get file","level":1},{"id":"download-file","title":"Download file","level":1},{"id":"get-file-preview","title":"Get File Preview","level":1},{"id":"view-file","title":"View File","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L2c",null,{"children":["$","$2d",null,{"name":"Next.MetadataOutlet","children":"$@2e"}]}]
+11:["$","$L10",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  final client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\n  final storage = Storage(client);\n\n  final file = await storage.createFile(\n    bucketId: '<BUCKET_ID>',\n    fileId: ID.unique(),\n    file: InputFile.fromPath(path: './path-to-files/image.jpg', filename: 'image.jpg'),\n  );\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  final client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\n  final storage = Storage(client);\n\n  final file = await storage.createFile(\n    bucketId: '<BUCKET_ID>',\n    fileId: ID.unique(),\n    file: InputFile.fromPath(path: './path-to-files/image.jpg', filename: 'image.jpg'),\n  );\n}\n"}]
+12:["$","$L10",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Storage\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n        .setProject(\"<PROJECT_ID>\") // Your project ID\n\n    val storage = Storage(client)\n\n    val file = storage.createFile(\n        bucketId = \"<BUCKET_ID>\",\n        fileId = ID.unique(),\n        file = File(\"./path-to-files/image.jpg\"),\n    )\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Storage\n\nsuspend fun main() {\n    val client = Client(applicationContext)\n        .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n        .setProject(\"<PROJECT_ID>\") // Your project ID\n\n    val storage = Storage(client)\n\n    val file = storage.createFile(\n        bucketId = \"<BUCKET_ID>\",\n        fileId = ID.unique(),\n        file = File(\"./path-to-files/image.jpg\"),\n    )\n}\n"}]
+13:["$","$L10",null,{"language":"client-react-native","content":"import { Client, Storage, ID } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\nconst promise = storage.createFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: ID.unique(),\n    file: {\n        name: 'image.jpg',\n        type: 'image/jpeg',\n        size: 1234567,\n        uri: 'file:///path/to/file.jpg',\n    }\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n","children":"import { Client, Storage, ID } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\nconst promise = storage.createFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: ID.unique(),\n    file: {\n        name: 'image.jpg',\n        type: 'image/jpeg',\n        size: 1234567,\n        uri: 'file:///path/to/file.jpg',\n    }\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n"}]
+14:["$","$L10",null,{"language":"client-apple","content":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n      .setProject(\"<PROJECT_ID>\")\n\n    let storage = Storage(client)\n\n    let file = try await storage.createFile(\n        bucketId: \"<BUCKET_ID>\",\n        fileId: ID.unique(),\n        file: InputFile.fromBuffer(yourByteBuffer,\n            filename: \"image.jpg\",\n            mimeType: \"image/jpeg\"\n        )\n    )\n}\n","children":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n      .setProject(\"<PROJECT_ID>\")\n\n    let storage = Storage(client)\n\n    let file = try await storage.createFile(\n        bucketId: \"<BUCKET_ID>\",\n        fileId: ID.unique(),\n        file: InputFile.fromBuffer(yourByteBuffer,\n            filename: \"image.jpg\",\n            mimeType: \"image/jpeg\"\n        )\n    )\n}\n"}]
+15:["$","$L10",null,{"language":"http","content":"POST /v1/storage/buckets/{bucketId}/files HTTP/1.1\nContent-Type: multipart/form-data; boundary=\"cec8e8123c05ba25\"\nContent-Length: *Length of your entity body in bytes*\nX-Clikkle-Project: <PROJECT_ID>\n\n--cec8e8123c05ba25\nContent-Disposition: form-data; name=\"operations\"\n\n{ \"query\": \"mutation CreateFile($bucketId: String!, $fileId: String!, $file: InputFile!) { storageCreateFile(bucketId: $bucketId, fileId: $fileId, file: $file) { id } }\", \"variables\": { \"bucketId\": \"<BUCKET_ID>\", \"fileId\": \"<FILE_ID>\", \"file\": null } }\n--cec8e8123c05ba25\nContent-Disposition: form-data; name=\"map\"\n\n{ \"0\": [\"variables.file\"] }\n--cec8e8123c05ba25\nContent-Disposition: form-data; name=\"0\"; filename=\"file.txt\"\nContent-Type: text/plain\n\nFile content.\n\n--cec8e8123c05ba25--\n","children":"POST /v1/storage/buckets/{bucketId}/files HTTP/1.1\nContent-Type: multipart/form-data; boundary=\"cec8e8123c05ba25\"\nContent-Length: *Length of your entity body in bytes*\nX-Clikkle-Project: <PROJECT_ID>\n\n--cec8e8123c05ba25\nContent-Disposition: form-data; name=\"operations\"\n\n{ \"query\": \"mutation CreateFile($bucketId: String!, $fileId: String!, $file: InputFile!) { storageCreateFile(bucketId: $bucketId, fileId: $fileId, file: $file) { id } }\", \"variables\": { \"bucketId\": \"<BUCKET_ID>\", \"fileId\": \"<FILE_ID>\", \"file\": null } }\n--cec8e8123c05ba25\nContent-Disposition: form-data; name=\"map\"\n\n{ \"0\": [\"variables.file\"] }\n--cec8e8123c05ba25\nContent-Disposition: form-data; name=\"0\"; filename=\"file.txt\"\nContent-Type: text/plain\n\nFile content.\n\n--cec8e8123c05ba25--\n"}]
+16:["$","$Le",null,{"id":"large-files","level":1,"children":"Large files "}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When you are trying to upload any files above 5MB, you will need to upload them in chunks for better reliability and performance."," ","If you're using an Clikkle SDK, this is handled automatically."," ","If you're not using an SDK, you can ",["$","$L2f",null,{"href":"/docs/apis/rest#files","children":"learn more about REST API file handling"}],"."]}]
+18:["$","$Le",null,{"id":"input-file","level":1,"children":"InputFile "}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Every language and platform handles file inputs differently. This section rows the expected input type of each SDK. Where applicable, Clikkle provides an ",["$","code",null,{"children":"InputFile"}]," class to accept multiple file sources, like paths, buffers, or plain text."]}]
+1a:["$","$Le",null,{"id":"client-sdks","level":1,"children":"Client SDKs "}]
+1b:["$","$L30",null,{"children":[["$","$L31",null,{"id":"web","title":"Web","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Web SDK expects a ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/API/File","target":"_blank","rel":"noopener nofollow","children":"File"}]," object for file creation. This is most commonly associated with DOM file inputs."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For example, for the input tag ",["$","code",null,{"children":"<input type=\"file\" id=\"uploader\">"}],", you would call create file like this:"]}],["$","$L10",null,{"language":"js","content":"const promise = storage.createFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: ID.unique(),\n    file: document.getElementById('uploader').files[0]\n});\n","children":"const promise = storage.createFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: ID.unique(),\n    file: document.getElementById('uploader').files[0]\n});\n"}]]}],["$","$L31",null,{"id":"flutter","title":"Flutter","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Flutter SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPath(path: [PATH], filename: [NAME], contentType: [MIME TYPE])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a provided path, ",["$","code",null,{"children":"filename"}]," and ",["$","code",null,{"children":"contentType"}]," are optional. Used for Flutter apps on mobile and desktop."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromBytes(bytes: [BYTE LIST], filename: [NAME], contentType: [MIME TYPE])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a byte list, ",["$","code",null,{"children":"contentType"}]," is optional. Used for Flutter apps on the web."]}]}]]}]]}]]}]]}],["$","$L31",null,{"id":"android","title":"Android","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Android SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":"$L33"}],"$L34"]}]}],"$L35"]}]]}],"$L36","$L37"]}]
+1c:["$","$Le",null,{"id":"server-sdks","level":1,"children":"Server SDKs "}]
+1d:["$","$L30",null,{"children":[["$","$L31",null,{"id":"nodejs","title":"Node.js","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In browser environments, you can use the ",["$","code",null,{"children":"File"}]," object directly. For Node.js environments, import the ",["$","code",null,{"children":"InputFile"}]," class from 'node-clikkle/file'."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When using ",["$","code",null,{"children":"InputFile"}],", the following methods are available:"]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPath(filePath, filename)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromBuffer(buffer, filename)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://nodejs.org/api/buffer.html#buffer","target":"_blank","rel":"noopener nofollow","children":"Buffer"}]," or ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/API/Blob","target":"_blank","rel":"noopener nofollow","children":"Blob"}]," object."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPlainText(content, filename)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files in plain text. Expects a string encoded in UTF-8."}]}]]}]]}]]}]]}],["$","$L31",null,{"id":"php","title":"PHP","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle PHP SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":"$L38"}]]}]}],"$L39"]}]]}],"$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40"]}]
+1e:["$","$Le",null,{"id":"get-file","level":1,"children":"Get file "}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To get a metadata about a file, use the ",["$","code",null,{"children":"getFile"}]," method."]}]
+20:["$","$Lf",null,{"children":[["$","$L10",null,{"language":"client-web","content":"import { Client, Storage } from \"clikkle\";\n\nconst client = new Client();\n\nconst storage = new Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst promise = storage.getFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n","children":"import { Client, Storage } from \"clikkle\";\n\nconst client = new Client();\n\nconst storage = new Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst promise = storage.getFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n"}],["$","$L10",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  // downloading file\n  Future result = storage.getFile(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes)\n  }).catchError((error) {\n      print(error.response);\n  })\n}\n\n//displaying image preview\nFutureBuilder(\n  future: storage.getFile(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ), //works for both public file and private file, for private files you need to be logged in\n  builder: (context, snapshot) {\n    return snapshot.hasData && snapshot.data != null\n      ? Image.memory(\n          snapshot.data,\n        )\n      : CircularProgressIndicator();\n  },\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  // downloading file\n  Future result = storage.getFile(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes)\n  }).catchError((error) {\n      print(error.response);\n  })\n}\n\n//displaying image preview\nFutureBuilder(\n  future: storage.getFile(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ), //works for both public file and private file, for private files you need to be logged in\n  builder: (context, snapshot) {\n    return snapshot.hasData && snapshot.data != null\n      ? Image.memory(\n          snapshot.data,\n        )\n      : CircularProgressIndicator();\n  },\n);\n"}],["$","$L10",null,{"language":"client-apple","content":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n      .setProject(\"<PROJECT_ID>\")\n\n      let storage = Storage(client)\n\n      let byteBuffer = try await storage.getFile(\n          bucketId: \"<BUCKET_ID>\",\n          fileId: \"<FILE_ID>\"\n      )\n\n      print(String(describing: byteBuffer)\n}\n","children":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n      .setProject(\"<PROJECT_ID>\")\n\n      let storage = Storage(client)\n\n      let byteBuffer = try await storage.getFile(\n          bucketId: \"<BUCKET_ID>\",\n          fileId: \"<FILE_ID>\"\n      )\n\n      print(String(describing: byteBuffer)\n}\n"}],"$L41","$L42"]}]
+21:["$","$Le",null,{"id":"download-file","level":1,"children":"Download file "}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To download a file, use the ",["$","code",null,{"children":"getFileDownload"}]," method."]}]
+23:["$","$Lf",null,{"children":[["$","$L10",null,{"language":"client-web","content":"import { Client, Storage } from \"clikkle\";\n\nconst client = new Client();\n\nconst storage = new Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst result = storage.getFileDownload({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // Resource URL\n","children":"import { Client, Storage } from \"clikkle\";\n\nconst client = new Client();\n\nconst storage = new Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst result = storage.getFileDownload({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // Resource URL\n"}],["$","$L10",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  // downloading file\n  Future result = storage.getFileDownload(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes)\n  }).catchError((error) {\n      print(error.response);\n  })\n}\n\n//displaying image preview\nFutureBuilder(\n  future: storage.getFileDownload(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ), //works for both public file and private file, for private files you need to be logged in\n  builder: (context, snapshot) {\n    return snapshot.hasData && snapshot.data != null\n      ? Image.memory(\n          snapshot.data,\n        )\n      : CircularProgressIndicator();\n  },\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  // downloading file\n  Future result = storage.getFileDownload(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes)\n  }).catchError((error) {\n      print(error.response);\n  })\n}\n\n//displaying image preview\nFutureBuilder(\n  future: storage.getFileDownload(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ), //works for both public file and private file, for private files you need to be logged in\n  builder: (context, snapshot) {\n    return snapshot.hasData && snapshot.data != null\n      ? Image.memory(\n          snapshot.data,\n        )\n      : CircularProgressIndicator();\n  },\n);\n"}],["$","$L10",null,{"language":"client-apple","content":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n      .setProject(\"<PROJECT_ID>\") // Your project ID\n    let storage = Storage(client)\n    let byteBuffer = try await storage.getFileDownload(\n        bucketId: \"<BUCKET_ID>\",\n        fileId: \"<FILE_ID>\"\n    )\n\n    print(String(describing: byteBuffer))\n}\n","children":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n      .setProject(\"<PROJECT_ID>\") // Your project ID\n    let storage = Storage(client)\n    let byteBuffer = try await storage.getFileDownload(\n        bucketId: \"<BUCKET_ID>\",\n        fileId: \"<FILE_ID>\"\n    )\n\n    print(String(describing: byteBuffer))\n}\n"}],"$L43","$L44"]}]
+24:["$","$Le",null,{"id":"get-file-preview","level":1,"children":"Get File Preview "}]
+25:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To get a file preview image , use the ",["$","code",null,{"children":"getFilePreview"}]," method."]}]
+26:["$","$Lf",null,{"children":[["$","$L10",null,{"language":"client-web","content":"import { Client, Storage } from \"clikkle\";\n\nconst client = new Client();\n\nconst storage = new Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst result = storage.getFilePreview({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // Resource URL\n","children":"import { Client, Storage } from \"clikkle\";\n\nconst client = new Client();\n\nconst storage = new Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst result = storage.getFilePreview({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // Resource URL\n"}],["$","$L10",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  // downloading file\n  Future result = storage.getFilePreview(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes)\n  }).catchError((error) {\n      print(error.response);\n  })\n}\n\n//displaying image preview\nFutureBuilder(\n  future: storage.getFilePreview(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ), //works for both public file and private file, for private files you need to be logged in\n  builder: (context, snapshot) {\n    return snapshot.hasData && snapshot.data != null\n      ? Image.memory(\n          snapshot.data,\n        )\n      : CircularProgressIndicator();\n  },\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  // downloading file\n  Future result = storage.getFilePreview(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes)\n  }).catchError((error) {\n      print(error.response);\n  })\n}\n\n//displaying image preview\nFutureBuilder(\n  future: storage.getFilePreview(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ), //works for both public file and private file, for private files you need to be logged in\n  builder: (context, snapshot) {\n    return snapshot.hasData && snapshot.data != null\n      ? Image.memory(\n          snapshot.data,\n        )\n      : CircularProgressIndicator();\n  },\n);\n"}],["$","$L10",null,{"language":"client-apple","content":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n      .setProject(\"<PROJECT_ID>\") // Your project ID\n    let storage = Storage(client)\n    let byteBuffer = try await storage.getFilePreview(\n        bucketId: \"<BUCKET_ID>\",\n        fileId: \"<FILE_ID>\"\n    )\n\n    print(String(describing: byteBuffer))\n}\n","children":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n      .setProject(\"<PROJECT_ID>\") // Your project ID\n    let storage = Storage(client)\n    let byteBuffer = try await storage.getFilePreview(\n        bucketId: \"<BUCKET_ID>\",\n        fileId: \"<FILE_ID>\"\n    )\n\n    print(String(describing: byteBuffer))\n}\n"}],"$L45","$L46"]}]
+27:["$","$Le",null,{"id":"view-file","level":1,"children":"View File "}]
+28:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To view a file, use the ",["$","code",null,{"children":"getFileView"}]," method."]}]
+29:["$","$Lf",null,{"children":[["$","$L10",null,{"language":"client-web","content":"import { Client, Storage } from \"clikkle\";\n\nconst client = new Client();\n\nconst storage = new Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst result = storage.getFileView({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // Resource URL\n","children":"import { Client, Storage } from \"clikkle\";\n\nconst client = new Client();\n\nconst storage = new Storage(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n;\n\nconst result = storage.getFileView({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // Resource URL\n"}],["$","$L10",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  // downloading file\n  Future result = storage.getFileView(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes)\n  }).catchError((error) {\n      print(error.response);\n  })\n}\n\n//displaying image preview\nFutureBuilder(\n  future: storage.getFileView(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ), //works for both public file and private file, for private files you need to be logged in\n  builder: (context, snapshot) {\n    return snapshot.hasData && snapshot.data != null\n      ? Image.memory(\n          snapshot.data,\n        )\n      : CircularProgressIndicator();\n  },\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Storage storage = Storage(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n  ;\n  // downloading file\n  Future result = storage.getFileView(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ).then((bytes) {\n    final file = File('path_to_file/filename.ext');\n    file.writeAsBytesSync(bytes)\n  }).catchError((error) {\n      print(error.response);\n  })\n}\n\n//displaying image preview\nFutureBuilder(\n  future: storage.getFileView(\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n  ), //works for both public file and private file, for private files you need to be logged in\n  builder: (context, snapshot) {\n    return snapshot.hasData && snapshot.data != null\n      ? Image.memory(\n          snapshot.data,\n        )\n      : CircularProgressIndicator();\n  },\n);\n"}],["$","$L10",null,{"language":"client-apple","content":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n      .setProject(\"<PROJECT_ID>\") // Your project ID\n    let storage = Storage(client)\n    let byteBuffer = try await storage.getFileView(\n        bucketId: \"<BUCKET_ID>\",\n        fileId: \"<FILE_ID>\"\n    )\n\n    print(String(describing: byteBuffer))\n}\n","children":"import Clikkle\n\nfunc main() async throws {\n    let client = Client()\n      .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n      .setProject(\"<PROJECT_ID>\") // Your project ID\n    let storage = Storage(client)\n    let byteBuffer = try await storage.getFileView(\n        bucketId: \"<BUCKET_ID>\",\n        fileId: \"<FILE_ID>\"\n    )\n\n    print(String(describing: byteBuffer))\n}\n"}],"$L47","$L48"]}]
+2a:["$","$L49",null,{}]
+2e:null
+33:["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]
+34:["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]
+35:["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPath(path: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromFile(file: File)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://docs.oracle.com/javase/8/docs/api/java/io/File.html","target":"_blank","rel":"noopener nofollow","children":"File"}]," object."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromBytes(bytes: ByteArray, filename: String, mimeType: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/","target":"_blank","rel":"noopener nofollow","children":"ByteArray"}]," object. Specify the file ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types","target":"_blank","rel":"noopener nofollow","children":"MIME type"}]," using the ",["$","code",null,{"children":"mimeType"}]," param."]}]}]]}]]}]
+36:["$","$L31",null,{"id":"apple","title":"Apple","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Apple SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPath(_ path: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromData(_ data: Data, filename: String, mimeType: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://developer.apple.com/documentation/foundation/data","target":"_blank","rel":"noopener nofollow","children":"Data"}]," object. Specify the file ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types","target":"_blank","rel":"noopener nofollow","children":"MIME type"}]," using the ",["$","code",null,{"children":"mimeType"}]," param."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromBuffer(_ buffer: ByteBuffer, filename: String, mimeType: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://swiftinit.org/reference/swift-nio/niocore/bytebuffer","target":"_blank","rel":"noopener nofollow","children":"NIO Buffer"}]," object. Specify the file ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types","target":"_blank","rel":"noopener nofollow","children":"MIME type"}]," using the ",["$","code",null,{"children":"mimeType"}]," param."]}]}]]}]]}]]}]]}]
+37:["$","$L31",null,{"id":"react-native","title":"React Native","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The Clikkle React Native SDK expects a file object with the following properties for file inputs:"}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Property"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"name"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The name of the file."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"type"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The MIME type of the file."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"size"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The size of the file in bytes."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"uri"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The URI of the file on the device."}]}]]}]]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This object structure aligns with what is typically returned from image picker libraries such as ",["$","code",null,{"children":"react-native-image-picker"}],":"]}],["$","$L10",null,{"language":"js","content":"// Example with react-native-image-picker\nimport { launchImageLibrary } from 'react-native-image-picker';\n\nconst pickImage = async () => {\n  const result = await launchImageLibrary({\n    mediaType: 'photo',\n  });\n\n  if (result.assets && result.assets[0]) {\n    const fileInfo = result.assets[0];\n\n    return {\n      name: fileInfo.fileName,\n      type: fileInfo.type,\n      size: fileInfo.fileSize,\n      uri: fileInfo.uri,\n    };\n  }\n};\n","children":"// Example with react-native-image-picker\nimport { launchImageLibrary } from 'react-native-image-picker';\n\nconst pickImage = async () => {\n  const result = await launchImageLibrary({\n    mediaType: 'photo',\n  });\n\n  if (result.assets && result.assets[0]) {\n    const fileInfo = result.assets[0];\n\n    return {\n      name: fileInfo.fileName,\n      type: fileInfo.type,\n      size: fileInfo.fileSize,\n      uri: fileInfo.uri,\n    };\n  }\n};\n"}],"$L4a","$L4b"]}]
+38:["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]
+39:["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.withPath(string $path, ?string $mimeType = null, ?string $filename = null)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.withData(string $data, ?string $mimeType = null, ?string $filename = null)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a string."}]}]]}]]}]
+3a:["$","$L31",null,{"id":"python","title":"Python","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Python SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.from_path(path)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.from_bytes(bytes)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from an array of bytes."}]}]]}]]}]]}]]}]
+3b:["$","$L31",null,{"id":"ruby","title":"Ruby","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Ruby SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.from_path(path)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.from_string(string)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a String."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.from_bytes(bytes)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from an array of bytes."}]}]]}]]}]]}]]}]
+3c:["$","$L31",null,{"id":"deno","title":"Deno","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Deno SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPath(filePath, filename)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromBuffer(buffer, filename)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array","target":"_blank","rel":"noopener nofollow","children":"Uint8Array"}]," object."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPlainText(content, filename)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files in plain text. Expects a string encoded in UTF-8."}]}]]}]]}]]}]]}]
+3d:["$","$L31",null,{"id":"dart","title":"Dart","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Dart SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPath(path: [PATH], filename: [NAME], contentType: [MIME TYPE])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a provided path, ",["$","code",null,{"children":"filename"}]," and ",["$","code",null,{"children":"contentType"}]," are optional."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromBytes(bytes: [BYTE LIST], filename: [NAME], contentType: [MIME TYPE])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a byte list, ",["$","code",null,{"children":"contentType"}]," is optional."]}]}]]}]]}]]}]]}]
+3e:["$","$L31",null,{"id":"kotlin","title":"Kotlin","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Kotlin SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPath(path: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromFile(file: File)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://docs.oracle.com/javase/8/docs/api/java/io/File.html","target":"_blank","rel":"noopener nofollow","children":"File"}]," object."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromBytes(bytes: ByteArray, filename: String, mimeType: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-byte-array/","target":"_blank","rel":"noopener nofollow","children":"ByteArray"}]," object. Specify the file ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types","target":"_blank","rel":"noopener nofollow","children":"MIME type"}]," using the ",["$","code",null,{"children":"mimeType"}]," param."]}]}]]}]]}]]}]]}]
+3f:["$","$L31",null,{"id":"swift","title":"Swift","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Swift SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromPath(_ path: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromData(_ data: Data, filename: String, mimeType: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://developer.apple.com/documentation/foundation/data","target":"_blank","rel":"noopener nofollow","children":"Data"}]," object. Specify the file ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types","target":"_blank","rel":"noopener nofollow","children":"MIME type"}]," using the ",["$","code",null,{"children":"mimeType"}]," param."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.fromBuffer(_ buffer: ByteBuffer, filename: String, mimeType: String)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from a ",["$","a",null,{"href":"https://swiftinit.org/reference/swift-nio/niocore/bytebuffer","target":"_blank","rel":"noopener nofollow","children":"NIO Buffer"}]," object. Specify the file ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types","target":"_blank","rel":"noopener nofollow","children":"MIME type"}]," using the ",["$","code",null,{"children":"mimeType"}]," param."]}]}]]}]]}]]}]]}]
+40:["$","$L31",null,{"id":"dotnet","title":".NET","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle .NET SDK expects an ",["$","code",null,{"children":"InputFile"}]," class for file inputs."]}],["$","$L32",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.FromPath(string path)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Used to upload files from a provided path."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"InputFile.FromBytes(byte[] bytes, string filename, string mimeType)"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Used to upload files from an array of bytes. Specify the file ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types","target":"_blank","rel":"noopener nofollow","children":"MIME type"}]," using the ",["$","code",null,{"children":"mimeType"}]," param."]}]}]]}]]}]]}]]}]
+41:["$","$L10",null,{"language":"client-android-kotlin","content":"import androidx.appcompat.app.AppCompatActivity\nimport android.os.Bundle\nimport kotlinx.coroutines.GlobalScope\nimport kotlinx.coroutines.launch\nimport io.clikkle.Client\nimport io.clikkle.services.Storage\n\nclass MainActivity : AppCompatActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContentView(R.layout.activity_main)\n\n        val client = Client(applicationContext)\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n            .setProject(\"<PROJECT_ID>\") // Your project ID\n\n        val storage = Storage(client)\n\n        val result = storage.getFile(\n            bucketId = \"<BUCKET_ID>\",\n            fileId = \"<FILE_ID>\"\n        )\n        println(result); // Resource URL\n    }\n}\n","children":"import androidx.appcompat.app.AppCompatActivity\nimport android.os.Bundle\nimport kotlinx.coroutines.GlobalScope\nimport kotlinx.coroutines.launch\nimport io.clikkle.Client\nimport io.clikkle.services.Storage\n\nclass MainActivity : AppCompatActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContentView(R.layout.activity_main)\n\n        val client = Client(applicationContext)\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n            .setProject(\"<PROJECT_ID>\") // Your project ID\n\n        val storage = Storage(client)\n\n        val result = storage.getFile(\n            bucketId = \"<BUCKET_ID>\",\n            fileId = \"<FILE_ID>\"\n        )\n        println(result); // Resource URL\n    }\n}\n"}]
+42:["$","$L10",null,{"language":"client-react-native","content":"import { Client, Storage } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\nconst promise = storage.getFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n","children":"import { Client, Storage } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\nconst promise = storage.getFile({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n"}]
+43:["$","$L10",null,{"language":"client-android-kotlin","content":"import androidx.appcompat.app.AppCompatActivity\nimport android.os.Bundle\nimport kotlinx.coroutines.GlobalScope\nimport kotlinx.coroutines.launch\nimport io.clikkle.Client\nimport io.clikkle.services.Storage\n\nclass MainActivity : AppCompatActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContentView(R.layout.activity_main)\n\n        val client = Client(applicationContext)\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n            .setProject(\"<PROJECT_ID>\") // Your project ID\n\n        val storage = Storage(client)\n\n        val result = storage.getFileDownload(\n            bucketId = \"<BUCKET_ID>\",\n            fileId = \"<FILE_ID>\"\n        )\n        println(result); // Resource URL\n    }\n}\n","children":"import androidx.appcompat.app.AppCompatActivity\nimport android.os.Bundle\nimport kotlinx.coroutines.GlobalScope\nimport kotlinx.coroutines.launch\nimport io.clikkle.Client\nimport io.clikkle.services.Storage\n\nclass MainActivity : AppCompatActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContentView(R.layout.activity_main)\n\n        val client = Client(applicationContext)\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n            .setProject(\"<PROJECT_ID>\") // Your project ID\n\n        val storage = Storage(client)\n\n        val result = storage.getFileDownload(\n            bucketId = \"<BUCKET_ID>\",\n            fileId = \"<FILE_ID>\"\n        )\n        println(result); // Resource URL\n    }\n}\n"}]
+44:["$","$L10",null,{"language":"client-react-native","content":"import { Client, Storage } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\n// Downloads the file data as ArrayBuffer\nconst result = await storage.getFileDownload({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // ArrayBuffer with file data\n\n// To get just the download URL without downloading:\nconst downloadUrl = storage.getFileDownloadURL({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(downloadUrl); // URL object\n","children":"import { Client, Storage } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\n// Downloads the file data as ArrayBuffer\nconst result = await storage.getFileDownload({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // ArrayBuffer with file data\n\n// To get just the download URL without downloading:\nconst downloadUrl = storage.getFileDownloadURL({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(downloadUrl); // URL object\n"}]
+45:["$","$L10",null,{"language":"client-android-kotlin","content":"import androidx.appcompat.app.AppCompatActivity\nimport android.os.Bundle\nimport kotlinx.coroutines.GlobalScope\nimport kotlinx.coroutines.launch\nimport io.clikkle.Client\nimport io.clikkle.services.Storage\n\nclass MainActivity : AppCompatActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContentView(R.layout.activity_main)\n\n        val client = Client(applicationContext)\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n            .setProject(\"<PROJECT_ID>\") // Your project ID\n\n        val storage = Storage(client)\n\n        val result = storage.getFilePreview(\n            bucketId = \"<BUCKET_ID>\",\n            fileId = \"<FILE_ID>\"\n        )\n        println(result); // Resource URL\n    }\n}\n","children":"import androidx.appcompat.app.AppCompatActivity\nimport android.os.Bundle\nimport kotlinx.coroutines.GlobalScope\nimport kotlinx.coroutines.launch\nimport io.clikkle.Client\nimport io.clikkle.services.Storage\n\nclass MainActivity : AppCompatActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContentView(R.layout.activity_main)\n\n        val client = Client(applicationContext)\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n            .setProject(\"<PROJECT_ID>\") // Your project ID\n\n        val storage = Storage(client)\n\n        val result = storage.getFilePreview(\n            bucketId = \"<BUCKET_ID>\",\n            fileId = \"<FILE_ID>\"\n        )\n        println(result); // Resource URL\n    }\n}\n"}]
+46:["$","$L10",null,{"language":"client-react-native","content":"import { Client, Storage, ImageGravity } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\n// Downloads the preview image data as ArrayBuffer\nconst result = await storage.getFilePreview({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n    width: 200,\n    height: 200,\n    gravity: ImageGravity.Center,\n    quality: 100\n});\n\nconsole.log(result); // ArrayBuffer with image data\n\n// To get just the preview URL without downloading:\nconst previewUrl = storage.getFilePreviewURL({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n    width: 200,\n    height: 200,\n    gravity: ImageGravity.Center,\n    quality: 100\n});\n\nconsole.log(previewUrl); // URL object\n","children":"import { Client, Storage, ImageGravity } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\n// Downloads the preview image data as ArrayBuffer\nconst result = await storage.getFilePreview({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n    width: 200,\n    height: 200,\n    gravity: ImageGravity.Center,\n    quality: 100\n});\n\nconsole.log(result); // ArrayBuffer with image data\n\n// To get just the preview URL without downloading:\nconst previewUrl = storage.getFilePreviewURL({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>',\n    width: 200,\n    height: 200,\n    gravity: ImageGravity.Center,\n    quality: 100\n});\n\nconsole.log(previewUrl); // URL object\n"}]
+47:["$","$L10",null,{"language":"client-android-kotlin","content":"import androidx.appcompat.app.AppCompatActivity\nimport android.os.Bundle\nimport kotlinx.coroutines.GlobalScope\nimport kotlinx.coroutines.launch\nimport io.clikkle.Client\nimport io.clikkle.services.Storage\n\nclass MainActivity : AppCompatActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContentView(R.layout.activity_main)\n\n        val client = Client(applicationContext)\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n            .setProject(\"<PROJECT_ID>\") // Your project ID\n\n        val storage = Storage(client)\n\n        val result = storage.getFileView(\n            bucketId = \"<BUCKET_ID>\",\n            fileId = \"<FILE_ID>\"\n        )\n        println(result); // Resource URL\n    }\n}\n","children":"import androidx.appcompat.app.AppCompatActivity\nimport android.os.Bundle\nimport kotlinx.coroutines.GlobalScope\nimport kotlinx.coroutines.launch\nimport io.clikkle.Client\nimport io.clikkle.services.Storage\n\nclass MainActivity : AppCompatActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContentView(R.layout.activity_main)\n\n        val client = Client(applicationContext)\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n            .setProject(\"<PROJECT_ID>\") // Your project ID\n\n        val storage = Storage(client)\n\n        val result = storage.getFileView(\n            bucketId = \"<BUCKET_ID>\",\n            fileId = \"<FILE_ID>\"\n        )\n        println(result); // Resource URL\n    }\n}\n"}]
+48:["$","$L10",null,{"language":"client-react-native","content":"import { Client, Storage } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\n// Downloads the file data as ArrayBuffer\nconst result = await storage.getFileView({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // ArrayBuffer with file data\n\n// To get just the view URL without downloading:\nconst viewUrl = storage.getFileViewURL({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(viewUrl); // URL object\n","children":"import { Client, Storage } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst storage = new Storage(client);\n\n// Downloads the file data as ArrayBuffer\nconst result = await storage.getFileView({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(result); // ArrayBuffer with file data\n\n// To get just the view URL without downloading:\nconst viewUrl = storage.getFileViewURL({\n    bucketId: '<BUCKET_ID>',\n    fileId: '<FILE_ID>'\n});\n\nconsole.log(viewUrl); // URL object\n"}]
+4a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can also use the file picker or row picker from Expo:"}]
+4b:["$","$L10",null,{"language":"js","content":"// Example with expo-row-picker\nimport * as DocumentPicker from 'expo-row-picker';\n\nconst pickDocument = async () => {\n  const result = await DocumentPicker.getRowAsync();\n\n  if (result.assets && result.assets[0]) {\n    return {\n      name: result.assets[0].name,\n      type: result.assets[0].mimeType,\n      size: result.assets[0].size,\n      uri: result.assets[0].uri,\n    };\n  }\n};\n","children":"// Example with expo-row-picker\nimport * as DocumentPicker from 'expo-row-picker';\n\nconst pickDocument = async () => {\n  const result = await DocumentPicker.getRowAsync();\n\n  if (result.assets && result.assets[0]) {\n    return {\n      name: result.assets[0].name,\n      type: result.assets[0].mimeType,\n      size: result.assets[0].size,\n      uri: result.assets[0].uri,\n    };\n  }\n};\n"}]

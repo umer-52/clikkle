@@ -1,0 +1,513 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+e:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","quick-starts","web"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","quick-starts/web","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}],"$L7","$L8"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf","$L10","$L11","$L12","$L13","$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+15:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+16:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+17:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+19:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+1f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+8:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L15",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+9:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L16",null,{"children":["$","$L17",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L18",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+1c:[]
+c:"$W1c"
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L20"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+21:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+22:T19b5,﻿---
+layout: article
+title: Start with Web
+description: Build JavaScript or Typescript web apps with Clikkle. Add authentication, user management, file storage, and more. Read our guide to get started!
+difficulty: beginner
+readtime: 3
+back: /docs/quick-starts
+---
+
+Learn how to add Clikkle to your web apps.
+{% section #step-1 step=1 title="Create project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add a **Web app**.
+The **Hostname** should be `localhost` or the domain on which you're hosting your web app.
+
+{% info title="Cross-Origin Resource Sharing (CORS)" %}
+Adding `localhost` as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors.
+
+Learn more in our [CORS error guide](/blog/post/cors-error).
+{% /info %}
+
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+
+{% /section %}
+{% section #step-2 step=2 title="Install Clikkle" %}
+You can install the Clikkle Web SDK using a package manager.
+```sh
+npm install clikkle
+```
+
+You can also add the Clikkle Web SDK using CDN by adding a script tag to your HTML file. The SDK will be available globally through the `Clikkle` namespace.
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/clikkle@17.0.0"></script>
+```
+{% /section %}
+{% section #step-3 step=3 title="Initialize Clikkle" %}
+
+If you installed via npm, you can import `Client` and `Account` from the Clikkle SDK.
+
+```client-web
+import { Client, Account } from 'clikkle';
+
+export const client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account = new Account(client);
+export { ID } from 'clikkle';
+```
+
+If you're using CDN, the library loads directly in your browser as a global object, so you access it through Clikkle instead of imports.
+
+```js
+const client = new Clikkle.Client()
+
+client
+    .setEndpoint('https://cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>') // Replace with your project ID
+
+const account = new Clikkle.Account(client)
+const tablesDB = new Clikkle.TablesDB(client)
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Using TypeScript" %}
+If you prefer TypeScript, you can import TypeScript models from the Clikkle SDK.
+
+```ts
+// clikkle.ts
+
+import { Client, TablesDB, Account } from "clikkle";
+// Import type models for Clikkle
+import { type Models } from 'clikkle';
+
+const client: Client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account: Account = new Account(client);
+export const tablesDB: TablesDB = new TablesDB(client);
+
+// You then use the imported type definitions like this
+const authUser: Models.Session = await account.createEmailPasswordSession({
+  email,
+  password
+});
+```
+{% /section %}
+
+{% section #step-5 step=5 title="Extending TypeScript models" %}
+Sometimes you'll need to extend TypeScript models with your own type definitions.
+
+For example, when you fetch a list of rows from a table, you can define the expected structure of the rows like this.
+```ts
+interface Idea extends Models.Row {
+    title: string;
+    description: string;
+    userId: string;
+}
+```
+
+When you fetch rows, you can use this new `Idea` interface like this.
+
+```ts
+const response = await tablesDB.listRows({
+    databaseId: ideasDatabaseId,
+    tableId: ideasTableId,
+    queries: [Query.orderDesc("$createdAt"), Query.limit(queryLimit)]
+});
+const ideas = response.rows as Idea[];
+```
+{% /section %}
+
+{% section #step-6 step=6 title="All set" %}
+The Clikkle SDK works with your favorite Web frameworks.
+
+Learn to use Clikkle by adding authentication to a simple web app.
+{% cards %}
+{% cards_item href="/docs/quick-starts/nextjs" title="Next.js" %}
+Get started with Clikkle and Next.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/react" title="React" %}
+Get started with Clikkle and React
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/vue" title="Vue.js" %}
+Get started with Clikkle and Vue.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/nuxt" title="Nuxt" %}
+Get started with Clikkle and Nuxt
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/sveltekit" title="SvelteKit" %}
+Get started with Clikkle and SvelteKit
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/angular" title="Angular" %}
+Get started with Clikkle and Angular
+{% /cards_item %}
+{% /cards %}
+
+Learn to use Clikkle by building an idea tracker app.
+{% cards %}
+{% cards_item href="/docs/tutorials/react" title="React" %}
+Get started with Clikkle and React
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/vue" title="Vue.js" %}
+Get started with Clikkle and Vue.js
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/nuxt" title="Nuxt" %}
+Get started with Clikkle and Nuxt
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/sveltekit" title="SvelteKit" %}
+Get started with Clikkle and SvelteKit
+{% /cards_item %}
+{% /cards %}
+{% /section %}
+
+{% section #step-7 step=7 title="Type safety with TypeScript" %}
+## Type safety with TypeScript
+
+For better type safety in TypeScript projects, define interfaces and use generics:
+
+```typescript
+interface User {
+    name: string;
+    email: string;
+    isVerified: boolean;
+}
+
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const databases = new TablesDB(client);
+
+// Type-safe database operations
+try {
+    const users = await databases.listRows<User>({
+        databaseId: '[DATABASE_ID]',
+        tableId: '[TABLE_ID]'
+    });
+
+    users.rows.forEach(user => {
+        console.log(`User: ${user.name} (${user.email})`);
+    });
+} catch (error) {
+    console.log(error);
+}
+```
+
+{% info title="Generate types automatically" %}
+Use the [Clikkle CLI](/docs/products/databases/type-generation) to generate TypeScript interfaces automatically: `clikkle types ./types`
+{% /info %}
+
+{% /section %}
+
+18:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[["$","$L15",null,{"href":"/docs/quick-starts","className":"web-icon-button","aria-label":"Back","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-5 w-5 pr-0.5","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}]}],["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L21",null,{"markdown":"$22","className":"ml-0"}]}]]}],"$L23","$L24"]}],"$L25","$L26"]}]}]
+28:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+29:I[5178904,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"AiPromptBox"]
+2a:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2b:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+35:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+23:["$","ul",null,{"className":"web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50","children":[["$","li",null,{"children":"beginner"}],["$","li",null,{"className":"text-[var(--color-border-strong)] dark:text-white/25","aria-hidden":true,"children":"•"}],["$","li",null,{"children":[3," min"]}]]}]
+27:T19b5,﻿---
+layout: article
+title: Start with Web
+description: Build JavaScript or Typescript web apps with Clikkle. Add authentication, user management, file storage, and more. Read our guide to get started!
+difficulty: beginner
+readtime: 3
+back: /docs/quick-starts
+---
+
+Learn how to add Clikkle to your web apps.
+{% section #step-1 step=1 title="Create project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add a **Web app**.
+The **Hostname** should be `localhost` or the domain on which you're hosting your web app.
+
+{% info title="Cross-Origin Resource Sharing (CORS)" %}
+Adding `localhost` as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors.
+
+Learn more in our [CORS error guide](/blog/post/cors-error).
+{% /info %}
+
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+
+{% /section %}
+{% section #step-2 step=2 title="Install Clikkle" %}
+You can install the Clikkle Web SDK using a package manager.
+```sh
+npm install clikkle
+```
+
+You can also add the Clikkle Web SDK using CDN by adding a script tag to your HTML file. The SDK will be available globally through the `Clikkle` namespace.
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/clikkle@17.0.0"></script>
+```
+{% /section %}
+{% section #step-3 step=3 title="Initialize Clikkle" %}
+
+If you installed via npm, you can import `Client` and `Account` from the Clikkle SDK.
+
+```client-web
+import { Client, Account } from 'clikkle';
+
+export const client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account = new Account(client);
+export { ID } from 'clikkle';
+```
+
+If you're using CDN, the library loads directly in your browser as a global object, so you access it through Clikkle instead of imports.
+
+```js
+const client = new Clikkle.Client()
+
+client
+    .setEndpoint('https://cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>') // Replace with your project ID
+
+const account = new Clikkle.Account(client)
+const tablesDB = new Clikkle.TablesDB(client)
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Using TypeScript" %}
+If you prefer TypeScript, you can import TypeScript models from the Clikkle SDK.
+
+```ts
+// clikkle.ts
+
+import { Client, TablesDB, Account } from "clikkle";
+// Import type models for Clikkle
+import { type Models } from 'clikkle';
+
+const client: Client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account: Account = new Account(client);
+export const tablesDB: TablesDB = new TablesDB(client);
+
+// You then use the imported type definitions like this
+const authUser: Models.Session = await account.createEmailPasswordSession({
+  email,
+  password
+});
+```
+{% /section %}
+
+{% section #step-5 step=5 title="Extending TypeScript models" %}
+Sometimes you'll need to extend TypeScript models with your own type definitions.
+
+For example, when you fetch a list of rows from a table, you can define the expected structure of the rows like this.
+```ts
+interface Idea extends Models.Row {
+    title: string;
+    description: string;
+    userId: string;
+}
+```
+
+When you fetch rows, you can use this new `Idea` interface like this.
+
+```ts
+const response = await tablesDB.listRows({
+    databaseId: ideasDatabaseId,
+    tableId: ideasTableId,
+    queries: [Query.orderDesc("$createdAt"), Query.limit(queryLimit)]
+});
+const ideas = response.rows as Idea[];
+```
+{% /section %}
+
+{% section #step-6 step=6 title="All set" %}
+The Clikkle SDK works with your favorite Web frameworks.
+
+Learn to use Clikkle by adding authentication to a simple web app.
+{% cards %}
+{% cards_item href="/docs/quick-starts/nextjs" title="Next.js" %}
+Get started with Clikkle and Next.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/react" title="React" %}
+Get started with Clikkle and React
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/vue" title="Vue.js" %}
+Get started with Clikkle and Vue.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/nuxt" title="Nuxt" %}
+Get started with Clikkle and Nuxt
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/sveltekit" title="SvelteKit" %}
+Get started with Clikkle and SvelteKit
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/angular" title="Angular" %}
+Get started with Clikkle and Angular
+{% /cards_item %}
+{% /cards %}
+
+Learn to use Clikkle by building an idea tracker app.
+{% cards %}
+{% cards_item href="/docs/tutorials/react" title="React" %}
+Get started with Clikkle and React
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/vue" title="Vue.js" %}
+Get started with Clikkle and Vue.js
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/nuxt" title="Nuxt" %}
+Get started with Clikkle and Nuxt
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/sveltekit" title="SvelteKit" %}
+Get started with Clikkle and SvelteKit
+{% /cards_item %}
+{% /cards %}
+{% /section %}
+
+{% section #step-7 step=7 title="Type safety with TypeScript" %}
+## Type safety with TypeScript
+
+For better type safety in TypeScript projects, define interfaces and use generics:
+
+```typescript
+interface User {
+    name: string;
+    email: string;
+    isVerified: boolean;
+}
+
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const databases = new TablesDB(client);
+
+// Type-safe database operations
+try {
+    const users = await databases.listRows<User>({
+        databaseId: '[DATABASE_ID]',
+        tableId: '[TABLE_ID]'
+    });
+
+    users.rows.forEach(user => {
+        console.log(`User: ${user.name} (${user.email})`);
+    });
+} catch (error) {
+    console.log(error);
+}
+```
+
+{% info title="Generate types automatically" %}
+Use the [Clikkle CLI](/docs/products/databases/type-generation) to generate TypeScript interfaces automatically: `clikkle types ./types`
+{% /info %}
+
+{% /section %}
+
+24:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[["$","$L15",null,{"href":"/docs/quick-starts","className":"web-icon-button web-u-translate-x-negative absolute hidden size-10 items-center md:flex","aria-label":"Back","children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-5 w-5 pr-0.5","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}]}],["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Start with Web"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L21",null,{"markdown":"$27","className":"ml-0"}]}]]}]
+25:["$","$L28",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,["$","$L29",null,{}],["$","$L2a",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn how to add Clikkle to your web apps."}],["$","$L2b",null,{"id":"step-1","step":1,"title":"Create project","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to the ",["$","a",null,{"href":"https://cloud.clikkle.io/console","target":"$undefined","rel":"$undefined","children":"Clikkle Console"}],"."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/create-project.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/create-project.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If this is your first time using Clikkle, create an account and create your first project."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then, under ",["$","strong",null,{"children":"Add a platform"}],", add a ",["$","strong",null,{"children":"Web app"}],"."," ","The ",["$","strong",null,{"children":"Hostname"}]," should be ",["$","code",null,{"children":"localhost"}]," or the domain on which you're hosting your web app."]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Cross-Origin Resource Sharing (CORS)"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Adding ",["$","code",null,{"children":"localhost"}]," as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Learn more in our ",["$","$L15",null,{"href":"/blog/post/cors-error","children":"CORS error guide"}],"."]}]]]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can skip optional steps."}]]}],["$","$L2b",null,{"id":"step-2","step":2,"title":"Install Clikkle","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can install the Clikkle Web SDK using a package manager."}],"$L2c","$L2d","$L2e"]}],"$L2f","$L30","$L31","$L32","$L33"]}]}]]}],"$L34"]}]
+26:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L35",null,{"items":[{"id":"step-1","title":"Create project","level":2},{"id":"step-2","title":"Install Clikkle","level":2},{"id":"step-3","title":"Initialize Clikkle","level":2},{"id":"step-4","title":"Using TypeScript","level":2},{"id":"step-5","title":"Extending TypeScript models","level":2},{"id":"step-6","title":"All set","level":2},{"id":"step-7","title":"Type safety with TypeScript","level":2},{"id":"type-safety-with-typescript","title":"Type safety with TypeScript","level":2}]}]}]
+36:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+38:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+39:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2c:["$","$L36",null,{"language":"sh","content":"npm install clikkle\n","children":"npm install clikkle\n"}]
+2d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also add the Clikkle Web SDK using CDN by adding a script tag to your HTML file. The SDK will be available globally through the ",["$","code",null,{"children":"Clikkle"}]," namespace."]}]
+2e:["$","$L36",null,{"language":"html","content":"<script src=\"https://cdn.jsdelivr.net/npm/clikkle@17.0.0\"></script>\n","children":"<script src=\"https://cdn.jsdelivr.net/npm/clikkle@17.0.0\"></script>\n"}]
+2f:["$","$L2b",null,{"id":"step-3","step":3,"title":"Initialize Clikkle","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you installed via npm, you can import ",["$","code",null,{"children":"Client"}]," and ",["$","code",null,{"children":"Account"}]," from the Clikkle SDK."]}],["$","$L36",null,{"language":"client-web","content":"import { Client, Account } from 'clikkle';\n\nexport const client = new Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>'); // Replace with your project ID\n\nexport const account = new Account(client);\nexport { ID } from 'clikkle';\n","children":"import { Client, Account } from 'clikkle';\n\nexport const client = new Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>'); // Replace with your project ID\n\nexport const account = new Account(client);\nexport { ID } from 'clikkle';\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you're using CDN, the library loads directly in your browser as a global object, so you access it through Clikkle instead of imports."}],["$","$L36",null,{"language":"js","content":"const client = new Clikkle.Client()\n\nclient\n    .setEndpoint('https://cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>') // Replace with your project ID\n\nconst account = new Clikkle.Account(client)\nconst tablesDB = new Clikkle.TablesDB(client)\n","children":"const client = new Clikkle.Client()\n\nclient\n    .setEndpoint('https://cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>') // Replace with your project ID\n\nconst account = new Clikkle.Account(client)\nconst tablesDB = new Clikkle.TablesDB(client)\n"}]]}]
+30:["$","$L2b",null,{"id":"step-4","step":4,"title":"Using TypeScript","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you prefer TypeScript, you can import TypeScript models from the Clikkle SDK."}],["$","$L36",null,{"language":"ts","content":"// clikkle.ts\n\nimport { Client, TablesDB, Account } from \"clikkle\";\n// Import type models for Clikkle\nimport { type Models } from 'clikkle';\n\nconst client: Client = new Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>'); // Replace with your project ID\n\nexport const account: Account = new Account(client);\nexport const tablesDB: TablesDB = new TablesDB(client);\n\n// You then use the imported type definitions like this\nconst authUser: Models.Session = await account.createEmailPasswordSession({\n  email,\n  password\n});\n","children":"// clikkle.ts\n\nimport { Client, TablesDB, Account } from \"clikkle\";\n// Import type models for Clikkle\nimport { type Models } from 'clikkle';\n\nconst client: Client = new Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>'); // Replace with your project ID\n\nexport const account: Account = new Account(client);\nexport const tablesDB: TablesDB = new TablesDB(client);\n\n// You then use the imported type definitions like this\nconst authUser: Models.Session = await account.createEmailPasswordSession({\n  email,\n  password\n});\n"}]]}]
+31:["$","$L2b",null,{"id":"step-5","step":5,"title":"Extending TypeScript models","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Sometimes you'll need to extend TypeScript models with your own type definitions."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For example, when you fetch a list of rows from a table, you can define the expected structure of the rows like this."}],["$","$L36",null,{"language":"ts","content":"interface Idea extends Models.Row {\n    title: string;\n    description: string;\n    userId: string;\n}\n","children":"interface Idea extends Models.Row {\n    title: string;\n    description: string;\n    userId: string;\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When you fetch rows, you can use this new ",["$","code",null,{"children":"Idea"}]," interface like this."]}],["$","$L36",null,{"language":"ts","content":"const response = await tablesDB.listRows({\n    databaseId: ideasDatabaseId,\n    tableId: ideasTableId,\n    queries: [Query.orderDesc(\"$createdAt\"), Query.limit(queryLimit)]\n});\nconst ideas = response.rows as Idea[];\n","children":"const response = await tablesDB.listRows({\n    databaseId: ideasDatabaseId,\n    tableId: ideasTableId,\n    queries: [Query.orderDesc(\"$createdAt\"), Query.limit(queryLimit)]\n});\nconst ideas = response.rows as Idea[];\n"}]]}]
+32:["$","$L2b",null,{"id":"step-6","step":6,"title":"All set","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The Clikkle SDK works with your favorite Web frameworks."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn to use Clikkle by adding authentication to a simple web app."}],["$","div",null,{"className":"not-prose my-8 grid grid-cols-1 gap-8 md:grid-cols-2","children":[["$","$L15",null,{"href":"/docs/quick-starts/nextjs","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Next.js"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Next.js"}]}]]}],["$","$L15",null,{"href":"/docs/quick-starts/react","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"React"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and React"}]}]]}],["$","$L15",null,{"href":"/docs/quick-starts/vue","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Vue.js"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Vue.js"}]}]]}],["$","$L15",null,{"href":"/docs/quick-starts/nuxt","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Nuxt"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Nuxt"}]}]]}],["$","$L15",null,{"href":"/docs/quick-starts/sveltekit","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"SvelteKit"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and SvelteKit"}]}]]}],["$","$L15",null,{"href":"/docs/quick-starts/angular","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Angular"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Angular"}]}]]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn to use Clikkle by building an idea tracker app."}],"$L37"]}]
+33:["$","$L2b",null,{"id":"step-7","step":7,"title":"Type safety with TypeScript","children":[["$","$L38",null,{"level":2,"children":"Type safety with TypeScript"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For better type safety in TypeScript projects, define interfaces and use generics:"}],["$","$L36",null,{"language":"typescript","content":"interface User {\n    name: string;\n    email: string;\n    isVerified: boolean;\n}\n\nimport { Client, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst databases = new TablesDB(client);\n\n// Type-safe database operations\ntry {\n    const users = await databases.listRows<User>({\n        databaseId: '[DATABASE_ID]',\n        tableId: '[TABLE_ID]'\n    });\n\n    users.rows.forEach(user => {\n        console.log(`User: ${user.name} (${user.email})`);\n    });\n} catch (error) {\n    console.log(error);\n}\n","children":"interface User {\n    name: string;\n    email: string;\n    isVerified: boolean;\n}\n\nimport { Client, TablesDB } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst databases = new TablesDB(client);\n\n// Type-safe database operations\ntry {\n    const users = await databases.listRows<User>({\n        databaseId: '[DATABASE_ID]',\n        tableId: '[TABLE_ID]'\n    });\n\n    users.rows.forEach(user => {\n        console.log(`User: ${user.name} (${user.email})`);\n    });\n} catch (error) {\n    console.log(error);\n}\n"}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Generate types automatically"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the ",["$","$L15",null,{"href":"/docs/products/databases/type-generation","children":"Clikkle CLI"}]," to generate TypeScript interfaces automatically: ",["$","code",null,{"children":"clikkle types ./types"}]]}]]}]]}]
+34:["$","$L39",null,{"date":"$undefined"}]
+37:["$","div",null,{"className":"not-prose my-8 grid grid-cols-1 gap-8 md:grid-cols-2","children":[["$","$L15",null,{"href":"/docs/tutorials/react","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"React"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and React"}]}]]}],["$","$L15",null,{"href":"/docs/tutorials/vue","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Vue.js"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Vue.js"}]}]]}],["$","$L15",null,{"href":"/docs/tutorials/nuxt","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"Nuxt"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and Nuxt"}]}]]}],["$","$L15",null,{"href":"/docs/tutorials/sveltekit","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[null,null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"SvelteKit"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Get started with Clikkle and SvelteKit"}]}]]}]]}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+3a:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1b:null
+20:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L3a","13",{}]]

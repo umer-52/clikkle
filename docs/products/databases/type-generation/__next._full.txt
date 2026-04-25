@@ -1,0 +1,1927 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+f:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","databases","type-generation"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/databases/type-generation","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],"$L7","$L8","$L9"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12","$L13","$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+16:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+17:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+18:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+20:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}]
+8:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+9:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L16",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+a:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L17",null,{"children":["$","$L18",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L19",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+1d:[]
+d:"$W1d"
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+23:T3b00,﻿---
+layout: article
+title: Type generation
+description: Generate types from your Clikkle database schema. Learn how to use the Clikkle CLI to create and manage your types effectively.
+---
+
+The Clikkle CLI provides a simple way to generate types based on your Clikkle database schema. This feature is particularly useful for developers who want to ensure type safety in their applications by generating type definitions that match their database tables and columns.
+
+To generate types, the CLI reads the database schema from your project's `clikkle.json` file and generates type definitions for each table.
+
+## Generating types
+
+First, ensure you have the [Clikkle CLI](/docs/tooling/command-line/installation#getting-started) installed and your project is [initialised](/docs/tooling/command-line/installation#initialization). Then, run the following command in your terminal to pull tables from your Clikkle project:
+
+```bash
+clikkle pull tables
+```
+
+To generate types, you can use the Clikkle CLI command:
+
+```bash
+clikkle types [options] <output-directory>
+```
+
+The following options are currently available:
+
+| Option | Description |
+|--------|-------------|
+| `--language` or `-l` |  The programming language for which types can be generated. Choices include `ts`, `js`, `php`, `kotlin`, `swift`, `java`, `dart`, `auto`. The CLI will use `auto` as the default option if this option is skipped. |
+| `--strict` or `-s` |  Enables strict type generation. This option ensures that all the columns follow language conventions, even if that leads to mismatches with the schema defined in your Clikkle console. |
+| `--help` or `-h` | Displays help information for the command. |
+
+## Example usage
+
+Suppose you want to generate types for a table with data on books with the following schema from your `clikkle.json` file:
+
+```json
+{
+    "projectId": "682ca9a50004cf4b330f",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "projectName": "Clikkle project",
+    "databases": [
+        {
+            "$id": "684c678b00211ddac082",
+            "name": "Library",
+            "enabled": true
+        }
+    ],
+    "tables": [
+        {
+            "$id": "684c6790002d457ee89d",
+            "$permissions": [],
+            "databaseId": "684c678b00211ddac082",
+            "name": "Books",
+            "enabled": true,
+            "rowSecurity": false,
+            "columns": [
+                {
+                    "key": "name",
+                    "type": "varchar",
+                    "required": true,
+                    "array": false,
+                    "size": 255,
+                    "default": null
+                },
+                {
+                    "key": "author",
+                    "type": "varchar",
+                    "required": true,
+                    "array": false,
+                    "size": 255,
+                    "default": null
+                },
+                {
+                    "key": "release_year",
+                    "type": "datetime",
+                    "required": false,
+                    "array": false,
+                    "format": "",
+                    "default": null
+                },
+                {
+                    "key": "category",
+                    "type": "varchar",
+                    "required": false,
+                    "array": false,
+                    "elements": [
+                        "fiction",
+                        "nonfiction"
+                    ],
+                    "format": "enum",
+                    "default": null
+                },
+                {
+                    "key": "genre",
+                    "type": "varchar",
+                    "required": false,
+                    "array": true,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "is_checked_out",
+                    "type": "boolean",
+                    "required": true,
+                    "array": false,
+                    "default": null
+                }
+            ],
+            "indexes": []
+        }
+    ]
+}
+```
+
+Here's how you can generate types for this table across all supported languages:
+
+{% tabs %}
+{% tabsitem #ts title="TypeScript" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language ts ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```ts
+import { type Models } from 'clikkle';
+
+export enum Category {
+  FICTION = "fiction",
+  NONFICTION = "nonfiction",
+}
+
+export type Books = Models.Row & {
+  name: string;
+  author: string;
+  releaseYear: string | null;
+  category: Category | null;
+  genre: string[] | null;
+  isCheckedOut: boolean;
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #js title="JavaScript" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language js ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```js
+/**
+ * @typedef {import('clikkle').Models.Row} Row
+ */
+
+
+/**
+ * @typedef {Object} Books
+ * @property {string} name
+ * @property {string} author
+ * @property {string|null|undefined} releaseYear
+ * @property {"fiction"|"nonfiction"|null|undefined} category
+ * @property {string[]|null|undefined} genre
+ * @property {boolean} isCheckedOut
+ */
+```
+{% /tabsitem %}
+
+{% tabsitem #java title="Java" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language java ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```java
+package io.clikkle.models;
+
+import java.util.*;
+public class Books {
+
+    public enum Category {
+        fiction,
+        nonfiction;
+    }
+
+    private String name;
+    private String author;
+    private String releaseYear;
+    private Category category;
+    private List<String> genre;
+    private boolean isCheckedOut;
+
+    public Books() {
+    }
+
+    public Books(
+        String name,
+        String author,
+        String releaseYear,
+        Category category,
+        List<String> genre,
+        boolean isCheckedOut
+    ) {
+        this.name = name;
+        this.author = author;
+        this.releaseYear = releaseYear;
+        this.category = category;
+        this.genre = genre;
+        this.isCheckedOut = isCheckedOut;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public String getReleaseYear() {
+        return releaseYear;
+    }
+
+    public void setReleaseYear(String releaseYear) {
+        this.releaseYear = releaseYear;
+    }
+
+    public Category getCategory() {
+        return category;
+    }
+
+    public void setCategory(Category category) {
+        this.category = category;
+    }
+
+    public List<String> getGenre() {
+        return genre;
+    }
+
+    public void setGenre(List<String> genre) {
+        this.genre = genre;
+    }
+
+    public boolean getIsCheckedOut() {
+        return isCheckedOut;
+    }
+
+    public void setIsCheckedOut(boolean isCheckedOut) {
+        this.isCheckedOut = isCheckedOut;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+        Books that = (Books) obj;
+        return Objects.equals(name, that.name) &&
+              Objects.equals(author, that.author) &&
+              Objects.equals(releaseYear, that.releaseYear) &&
+              Objects.equals(category, that.category) &&
+              Objects.equals(genre, that.genre) &&
+              Objects.equals(isCheckedOut, that.isCheckedOut);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, author, releaseYear, category, genre, isCheckedOut);
+    }
+
+    @Override
+    public String toString() {
+        return "Books{" +
+                "name=" + name +
+                "author=" + author +
+                "releaseYear=" + releaseYear +
+                "category=" + category +
+                "genre=" + genre +
+                "isCheckedOut=" + isCheckedOut +
+                '}';
+    }
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #php title="PHP" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language php ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```php
+<?php
+namespace Clikkle\Models;
+
+enum Category: string {
+  case FICTION = 'fiction';
+  case NONFICTION = 'nonfiction';
+}
+
+class Books {
+  private string $name;
+  private string $author;
+  private string|null $releaseYear;
+  private Category|null $category;
+  private array $genre;
+  private bool $isCheckedOut;
+
+  public function __construct(
+    string $name,
+    string $author,
+    ?string $releaseYear = null,
+    ?Category $category = null,
+    ?array $genre = null,
+    bool $isCheckedOut
+  ) {
+    $this->name = $name;
+    $this->author = $author;
+    $this->releaseYear = $releaseYear;
+    $this->category = $category;
+    $this->genre = $genre;
+    $this->isCheckedOut = $isCheckedOut;
+  }
+
+  public function getName(): string {
+    return $this->name;
+  }
+
+  public function setName(string $name): void {
+    $this->name = $name;
+  }
+  public function getAuthor(): string {
+    return $this->author;
+  }
+
+  public function setAuthor(string $author): void {
+    $this->author = $author;
+  }
+  public function getReleaseYear(): string|null {
+    return $this->releaseYear;
+  }
+
+  public function setReleaseYear(string|null $releaseYear): void {
+    $this->releaseYear = $releaseYear;
+  }
+  public function getCategory(): Category|null {
+    return $this->category;
+  }
+
+  public function setCategory(Category|null $category): void {
+    $this->category = $category;
+  }
+  public function getGenre(): array {
+    return $this->genre;
+  }
+
+  public function setGenre(array $genre): void {
+    $this->genre = $genre;
+  }
+  public function getIsCheckedOut(): bool {
+    return $this->isCheckedOut;
+  }
+
+  public function setIsCheckedOut(bool $isCheckedOut): void {
+    $this->isCheckedOut = $isCheckedOut;
+  }
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #dart title="Dart" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language dart ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```dart
+enum Category {
+  fiction,
+  nonfiction,
+}
+
+class Books {
+  String name;
+  String author;
+  String? releaseYear;
+  Category? category;
+  List<String>? genre;
+  bool isCheckedOut;
+
+  Books({
+    required this.name,
+    required this.author,
+    this.releaseYear,
+    this.category,
+    this.genre,
+    required this.isCheckedOut,
+  });
+
+  factory Books.fromMap(Map<String, dynamic> map) {
+    return Books(
+      name: map['name'].toString(),
+      author: map['author'].toString(),
+      releaseYear: map['release_year']?.toString() ?? null,
+      category: map['category'] != null ? Category.values.where((e) => e.name == map['category']).firstOrNull : null,
+      genre: List<String>.from(map['genre'] ?? []) ?? [],
+      isCheckedOut: map['is_checked_out'],
+    );
+  }
+
+  Map<String, dynamic> toMap() {
+    return {
+      "name": name,
+      "author": author,
+      "release_year": releaseYear,
+      "category": category?.name ?? null,
+      "genre": genre,
+      "is_checked_out": isCheckedOut,
+    };
+  }
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #kotlin title="Kotlin" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language kotlin ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```kotlin
+package io.clikkle.models
+
+enum class Category {
+    fiction,
+    nonfiction
+}
+
+data class Books(
+    val name: String,
+    val author: String,
+    val releaseYear: String?,
+    val category: Category?,
+    val genre: List<String>?,
+    val isCheckedOut: Boolean,
+)
+```
+{% /tabsitem %}
+
+{% tabsitem #swift title="Swift" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language swift ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```swift
+import Foundation
+
+public enum Category: String, Codable, CaseIterable {
+  case fiction = "fiction"
+  case nonfiction = "nonfiction"
+}
+
+public class Books: Codable {
+    public let name: String
+    public let author: String
+    public let releaseYear: String?
+    public let category: Category?
+    public let genre: [String]?
+    public let isCheckedOut: Bool
+
+    enum CodingKeys: String, CodingKey {
+        case name = "name"
+        case author = "author"
+        case releaseYear = "release_year"
+        case category = "category"
+        case genre = "genre"
+        case isCheckedOut = "is_checked_out"
+    }
+
+    init(
+        name: String,
+        author: String,
+        releaseYear: String?,
+        category: Category?,
+        genre: [String]?,
+        isCheckedOut: Bool
+    ) {
+        self.name = name
+        self.author = author
+        self.releaseYear = releaseYear
+        self.category = category
+        self.genre = genre
+        self.isCheckedOut = isCheckedOut
+    }
+
+    public required init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+
+        self.name = try container.decode(String.self, forKey: .name)
+        self.author = try container.decode(String.self, forKey: .author)
+        self.releaseYear = try container.decodeIfPresent(String.self, forKey: .releaseYear)
+        self.category = try container.decodeIfPresent(Category.self, forKey: .category)
+        self.genre = try container.decodeIfPresent([String].self, forKey: .genre)
+        self.isCheckedOut = try container.decode(Bool.self, forKey: .isCheckedOut)
+    }
+
+    public func encode(to encoder: Encoder) throws {
+        var container = encoder.container(keyedBy: CodingKeys.self)
+
+        try container.encode(name, forKey: .name)
+        try container.encode(author, forKey: .author)
+        try container.encodeIfPresent(releaseYear, forKey: .releaseYear)
+        try container.encodeIfPresent(category, forKey: .category)
+        try container.encodeIfPresent(genre, forKey: .genre)
+        try container.encode(isCheckedOut, forKey: .isCheckedOut)
+    }
+
+    public func toMap() -> [String: Any] {
+        return [
+            "name": name as Any,
+            "author": author as Any,
+            "release_year": releaseYear as Any,
+            "category": category as Any,
+            "genre": genre as Any,
+            "is_checked_out": isCheckedOut as Any
+        ]
+    }
+
+    public static func from(map: [String: Any]) -> Books {
+        return Books(
+            name: map["name"] as! String,
+            author: map["author"] as! String,
+            releaseYear: map["release_year"] as? String,
+            category: map["category"] as? String,
+            genre: map["genre"] as? [String],
+            isCheckedOut: map["is_checked_out"] as! Bool
+        )
+    }
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+19:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L22",null,{"markdown":"$23","className":"ml-0"}]}]]}],null,"$L24"]}],"$L25","$L26"]}]}]
+28:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+29:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2a:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+2b:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+2c:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+3e:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+27:T3b00,﻿---
+layout: article
+title: Type generation
+description: Generate types from your Clikkle database schema. Learn how to use the Clikkle CLI to create and manage your types effectively.
+---
+
+The Clikkle CLI provides a simple way to generate types based on your Clikkle database schema. This feature is particularly useful for developers who want to ensure type safety in their applications by generating type definitions that match their database tables and columns.
+
+To generate types, the CLI reads the database schema from your project's `clikkle.json` file and generates type definitions for each table.
+
+## Generating types
+
+First, ensure you have the [Clikkle CLI](/docs/tooling/command-line/installation#getting-started) installed and your project is [initialised](/docs/tooling/command-line/installation#initialization). Then, run the following command in your terminal to pull tables from your Clikkle project:
+
+```bash
+clikkle pull tables
+```
+
+To generate types, you can use the Clikkle CLI command:
+
+```bash
+clikkle types [options] <output-directory>
+```
+
+The following options are currently available:
+
+| Option | Description |
+|--------|-------------|
+| `--language` or `-l` |  The programming language for which types can be generated. Choices include `ts`, `js`, `php`, `kotlin`, `swift`, `java`, `dart`, `auto`. The CLI will use `auto` as the default option if this option is skipped. |
+| `--strict` or `-s` |  Enables strict type generation. This option ensures that all the columns follow language conventions, even if that leads to mismatches with the schema defined in your Clikkle console. |
+| `--help` or `-h` | Displays help information for the command. |
+
+## Example usage
+
+Suppose you want to generate types for a table with data on books with the following schema from your `clikkle.json` file:
+
+```json
+{
+    "projectId": "682ca9a50004cf4b330f",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "projectName": "Clikkle project",
+    "databases": [
+        {
+            "$id": "684c678b00211ddac082",
+            "name": "Library",
+            "enabled": true
+        }
+    ],
+    "tables": [
+        {
+            "$id": "684c6790002d457ee89d",
+            "$permissions": [],
+            "databaseId": "684c678b00211ddac082",
+            "name": "Books",
+            "enabled": true,
+            "rowSecurity": false,
+            "columns": [
+                {
+                    "key": "name",
+                    "type": "varchar",
+                    "required": true,
+                    "array": false,
+                    "size": 255,
+                    "default": null
+                },
+                {
+                    "key": "author",
+                    "type": "varchar",
+                    "required": true,
+                    "array": false,
+                    "size": 255,
+                    "default": null
+                },
+                {
+                    "key": "release_year",
+                    "type": "datetime",
+                    "required": false,
+                    "array": false,
+                    "format": "",
+                    "default": null
+                },
+                {
+                    "key": "category",
+                    "type": "varchar",
+                    "required": false,
+                    "array": false,
+                    "elements": [
+                        "fiction",
+                        "nonfiction"
+                    ],
+                    "format": "enum",
+                    "default": null
+                },
+                {
+                    "key": "genre",
+                    "type": "varchar",
+                    "required": false,
+                    "array": true,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "is_checked_out",
+                    "type": "boolean",
+                    "required": true,
+                    "array": false,
+                    "default": null
+                }
+            ],
+            "indexes": []
+        }
+    ]
+}
+```
+
+Here's how you can generate types for this table across all supported languages:
+
+{% tabs %}
+{% tabsitem #ts title="TypeScript" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language ts ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```ts
+import { type Models } from 'clikkle';
+
+export enum Category {
+  FICTION = "fiction",
+  NONFICTION = "nonfiction",
+}
+
+export type Books = Models.Row & {
+  name: string;
+  author: string;
+  releaseYear: string | null;
+  category: Category | null;
+  genre: string[] | null;
+  isCheckedOut: boolean;
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #js title="JavaScript" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language js ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```js
+/**
+ * @typedef {import('clikkle').Models.Row} Row
+ */
+
+
+/**
+ * @typedef {Object} Books
+ * @property {string} name
+ * @property {string} author
+ * @property {string|null|undefined} releaseYear
+ * @property {"fiction"|"nonfiction"|null|undefined} category
+ * @property {string[]|null|undefined} genre
+ * @property {boolean} isCheckedOut
+ */
+```
+{% /tabsitem %}
+
+{% tabsitem #java title="Java" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language java ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```java
+package io.clikkle.models;
+
+import java.util.*;
+public class Books {
+
+    public enum Category {
+        fiction,
+        nonfiction;
+    }
+
+    private String name;
+    private String author;
+    private String releaseYear;
+    private Category category;
+    private List<String> genre;
+    private boolean isCheckedOut;
+
+    public Books() {
+    }
+
+    public Books(
+        String name,
+        String author,
+        String releaseYear,
+        Category category,
+        List<String> genre,
+        boolean isCheckedOut
+    ) {
+        this.name = name;
+        this.author = author;
+        this.releaseYear = releaseYear;
+        this.category = category;
+        this.genre = genre;
+        this.isCheckedOut = isCheckedOut;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public String getReleaseYear() {
+        return releaseYear;
+    }
+
+    public void setReleaseYear(String releaseYear) {
+        this.releaseYear = releaseYear;
+    }
+
+    public Category getCategory() {
+        return category;
+    }
+
+    public void setCategory(Category category) {
+        this.category = category;
+    }
+
+    public List<String> getGenre() {
+        return genre;
+    }
+
+    public void setGenre(List<String> genre) {
+        this.genre = genre;
+    }
+
+    public boolean getIsCheckedOut() {
+        return isCheckedOut;
+    }
+
+    public void setIsCheckedOut(boolean isCheckedOut) {
+        this.isCheckedOut = isCheckedOut;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+        Books that = (Books) obj;
+        return Objects.equals(name, that.name) &&
+              Objects.equals(author, that.author) &&
+              Objects.equals(releaseYear, that.releaseYear) &&
+              Objects.equals(category, that.category) &&
+              Objects.equals(genre, that.genre) &&
+              Objects.equals(isCheckedOut, that.isCheckedOut);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, author, releaseYear, category, genre, isCheckedOut);
+    }
+
+    @Override
+    public String toString() {
+        return "Books{" +
+                "name=" + name +
+                "author=" + author +
+                "releaseYear=" + releaseYear +
+                "category=" + category +
+                "genre=" + genre +
+                "isCheckedOut=" + isCheckedOut +
+                '}';
+    }
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #php title="PHP" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language php ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```php
+<?php
+namespace Clikkle\Models;
+
+enum Category: string {
+  case FICTION = 'fiction';
+  case NONFICTION = 'nonfiction';
+}
+
+class Books {
+  private string $name;
+  private string $author;
+  private string|null $releaseYear;
+  private Category|null $category;
+  private array $genre;
+  private bool $isCheckedOut;
+
+  public function __construct(
+    string $name,
+    string $author,
+    ?string $releaseYear = null,
+    ?Category $category = null,
+    ?array $genre = null,
+    bool $isCheckedOut
+  ) {
+    $this->name = $name;
+    $this->author = $author;
+    $this->releaseYear = $releaseYear;
+    $this->category = $category;
+    $this->genre = $genre;
+    $this->isCheckedOut = $isCheckedOut;
+  }
+
+  public function getName(): string {
+    return $this->name;
+  }
+
+  public function setName(string $name): void {
+    $this->name = $name;
+  }
+  public function getAuthor(): string {
+    return $this->author;
+  }
+
+  public function setAuthor(string $author): void {
+    $this->author = $author;
+  }
+  public function getReleaseYear(): string|null {
+    return $this->releaseYear;
+  }
+
+  public function setReleaseYear(string|null $releaseYear): void {
+    $this->releaseYear = $releaseYear;
+  }
+  public function getCategory(): Category|null {
+    return $this->category;
+  }
+
+  public function setCategory(Category|null $category): void {
+    $this->category = $category;
+  }
+  public function getGenre(): array {
+    return $this->genre;
+  }
+
+  public function setGenre(array $genre): void {
+    $this->genre = $genre;
+  }
+  public function getIsCheckedOut(): bool {
+    return $this->isCheckedOut;
+  }
+
+  public function setIsCheckedOut(bool $isCheckedOut): void {
+    $this->isCheckedOut = $isCheckedOut;
+  }
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #dart title="Dart" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language dart ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```dart
+enum Category {
+  fiction,
+  nonfiction,
+}
+
+class Books {
+  String name;
+  String author;
+  String? releaseYear;
+  Category? category;
+  List<String>? genre;
+  bool isCheckedOut;
+
+  Books({
+    required this.name,
+    required this.author,
+    this.releaseYear,
+    this.category,
+    this.genre,
+    required this.isCheckedOut,
+  });
+
+  factory Books.fromMap(Map<String, dynamic> map) {
+    return Books(
+      name: map['name'].toString(),
+      author: map['author'].toString(),
+      releaseYear: map['release_year']?.toString() ?? null,
+      category: map['category'] != null ? Category.values.where((e) => e.name == map['category']).firstOrNull : null,
+      genre: List<String>.from(map['genre'] ?? []) ?? [],
+      isCheckedOut: map['is_checked_out'],
+    );
+  }
+
+  Map<String, dynamic> toMap() {
+    return {
+      "name": name,
+      "author": author,
+      "release_year": releaseYear,
+      "category": category?.name ?? null,
+      "genre": genre,
+      "is_checked_out": isCheckedOut,
+    };
+  }
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #kotlin title="Kotlin" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language kotlin ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```kotlin
+package io.clikkle.models
+
+enum class Category {
+    fiction,
+    nonfiction
+}
+
+data class Books(
+    val name: String,
+    val author: String,
+    val releaseYear: String?,
+    val category: Category?,
+    val genre: List<String>?,
+    val isCheckedOut: Boolean,
+)
+```
+{% /tabsitem %}
+
+{% tabsitem #swift title="Swift" %}
+Run the following command in your terminal:
+
+```bash
+clikkle types --language swift ./types
+```
+
+This will generate the following types in the `./types` sub-directory of your project:
+
+```swift
+import Foundation
+
+public enum Category: String, Codable, CaseIterable {
+  case fiction = "fiction"
+  case nonfiction = "nonfiction"
+}
+
+public class Books: Codable {
+    public let name: String
+    public let author: String
+    public let releaseYear: String?
+    public let category: Category?
+    public let genre: [String]?
+    public let isCheckedOut: Bool
+
+    enum CodingKeys: String, CodingKey {
+        case name = "name"
+        case author = "author"
+        case releaseYear = "release_year"
+        case category = "category"
+        case genre = "genre"
+        case isCheckedOut = "is_checked_out"
+    }
+
+    init(
+        name: String,
+        author: String,
+        releaseYear: String?,
+        category: Category?,
+        genre: [String]?,
+        isCheckedOut: Bool
+    ) {
+        self.name = name
+        self.author = author
+        self.releaseYear = releaseYear
+        self.category = category
+        self.genre = genre
+        self.isCheckedOut = isCheckedOut
+    }
+
+    public required init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+
+        self.name = try container.decode(String.self, forKey: .name)
+        self.author = try container.decode(String.self, forKey: .author)
+        self.releaseYear = try container.decodeIfPresent(String.self, forKey: .releaseYear)
+        self.category = try container.decodeIfPresent(Category.self, forKey: .category)
+        self.genre = try container.decodeIfPresent([String].self, forKey: .genre)
+        self.isCheckedOut = try container.decode(Bool.self, forKey: .isCheckedOut)
+    }
+
+    public func encode(to encoder: Encoder) throws {
+        var container = encoder.container(keyedBy: CodingKeys.self)
+
+        try container.encode(name, forKey: .name)
+        try container.encode(author, forKey: .author)
+        try container.encodeIfPresent(releaseYear, forKey: .releaseYear)
+        try container.encodeIfPresent(category, forKey: .category)
+        try container.encodeIfPresent(genre, forKey: .genre)
+        try container.encode(isCheckedOut, forKey: .isCheckedOut)
+    }
+
+    public func toMap() -> [String: Any] {
+        return [
+            "name": name as Any,
+            "author": author as Any,
+            "release_year": releaseYear as Any,
+            "category": category as Any,
+            "genre": genre as Any,
+            "is_checked_out": isCheckedOut as Any
+        ]
+    }
+
+    public static func from(map: [String: Any]) -> Books {
+        return Books(
+            name: map["name"] as! String,
+            author: map["author"] as! String,
+            releaseYear: map["release_year"] as? String,
+            category: map["category"] as? String,
+            genre: map["genre"] as? [String],
+            isCheckedOut: map["is_checked_out"] as! Bool
+        )
+    }
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+24:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Type generation"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L22",null,{"markdown":"$27","className":"ml-0"}]}]]}]
+25:["$","$L28",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"New API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This is a relatively new API. For details on the previous version and its terminology, see the legacy"," ",["$","$L16",null,{"href":"/docs/products/databases/legacy/type-generation","className":"web-link underline","children":"Collections API documentation"}],"."]}]]}],null,["$","$L29",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The Clikkle CLI provides a simple way to generate types based on your Clikkle database schema. This feature is particularly useful for developers who want to ensure type safety in their applications by generating type definitions that match their database tables and columns."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To generate types, the CLI reads the database schema from your project's ",["$","code",null,{"children":"clikkle.json"}]," file and generates type definitions for each table."]}],["$","$L2a",null,{"level":2,"children":"Generating types"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["First, ensure you have the ",["$","$L16",null,{"href":"/docs/tooling/command-line/installation#getting-started","children":"Clikkle CLI"}]," installed and your project is ",["$","$L16",null,{"href":"/docs/tooling/command-line/installation#initialization","children":"initialised"}],". Then, run the following command in your terminal to pull tables from your Clikkle project:"]}],["$","$L2b",null,{"language":"bash","content":"clikkle pull tables\n","children":"clikkle pull tables\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To generate types, you can use the Clikkle CLI command:"}],["$","$L2b",null,{"language":"bash","content":"clikkle types [options] <output-directory>\n","children":"clikkle types [options] <output-directory>\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The following options are currently available:"}],["$","$L2c",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Option"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"--language"}]," or ",["$","code",null,{"children":"-l"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["The programming language for which types can be generated. Choices include ","$L2d",", ","$L2e",", ","$L2f",", ","$L30",", ","$L31",", ","$L32",", ","$L33",", ","$L34",". The CLI will use ","$L35"," as the default option if this option is skipped."]}]}]]}],"$L36","$L37"]}]]}],"$L38","$L39","$L3a","$L3b","$L3c"]}]}]]}],"$L3d"]}]
+26:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L3e",null,{"items":[{"id":"generating-types","title":"Generating types","level":2},{"id":"example-usage","title":"Example usage","level":2}]}]}]
+41:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+42:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+49:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2d:["$","code",null,{"children":"ts"}]
+2e:["$","code",null,{"children":"js"}]
+2f:["$","code",null,{"children":"php"}]
+30:["$","code",null,{"children":"kotlin"}]
+31:["$","code",null,{"children":"swift"}]
+32:["$","code",null,{"children":"java"}]
+33:["$","code",null,{"children":"dart"}]
+34:["$","code",null,{"children":"auto"}]
+35:["$","code",null,{"children":"auto"}]
+36:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"--strict"}]," or ",["$","code",null,{"children":"-s"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Enables strict type generation. This option ensures that all the columns follow language conventions, even if that leads to mismatches with the schema defined in your Clikkle console."}]}]]}]
+37:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"--help"}]," or ",["$","code",null,{"children":"-h"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Displays help information for the command."}]}]]}]
+38:["$","$L2a",null,{"level":2,"children":"Example usage"}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Suppose you want to generate types for a table with data on books with the following schema from your ",["$","code",null,{"children":"clikkle.json"}]," file:"]}]
+3f:T8d9,{
+    "projectId": "682ca9a50004cf4b330f",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "projectName": "Clikkle project",
+    "databases": [
+        {
+            "$id": "684c678b00211ddac082",
+            "name": "Library",
+            "enabled": true
+        }
+    ],
+    "tables": [
+        {
+            "$id": "684c6790002d457ee89d",
+            "$permissions": [],
+            "databaseId": "684c678b00211ddac082",
+            "name": "Books",
+            "enabled": true,
+            "rowSecurity": false,
+            "columns": [
+                {
+                    "key": "name",
+                    "type": "varchar",
+                    "required": true,
+                    "array": false,
+                    "size": 255,
+                    "default": null
+                },
+                {
+                    "key": "author",
+                    "type": "varchar",
+                    "required": true,
+                    "array": false,
+                    "size": 255,
+                    "default": null
+                },
+                {
+                    "key": "release_year",
+                    "type": "datetime",
+                    "required": false,
+                    "array": false,
+                    "format": "",
+                    "default": null
+                },
+                {
+                    "key": "category",
+                    "type": "varchar",
+                    "required": false,
+                    "array": false,
+                    "elements": [
+                        "fiction",
+                        "nonfiction"
+                    ],
+                    "format": "enum",
+                    "default": null
+                },
+                {
+                    "key": "genre",
+                    "type": "varchar",
+                    "required": false,
+                    "array": true,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "is_checked_out",
+                    "type": "boolean",
+                    "required": true,
+                    "array": false,
+                    "default": null
+                }
+            ],
+            "indexes": []
+        }
+    ]
+}
+40:T8d9,{
+    "projectId": "682ca9a50004cf4b330f",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "projectName": "Clikkle project",
+    "databases": [
+        {
+            "$id": "684c678b00211ddac082",
+            "name": "Library",
+            "enabled": true
+        }
+    ],
+    "tables": [
+        {
+            "$id": "684c6790002d457ee89d",
+            "$permissions": [],
+            "databaseId": "684c678b00211ddac082",
+            "name": "Books",
+            "enabled": true,
+            "rowSecurity": false,
+            "columns": [
+                {
+                    "key": "name",
+                    "type": "varchar",
+                    "required": true,
+                    "array": false,
+                    "size": 255,
+                    "default": null
+                },
+                {
+                    "key": "author",
+                    "type": "varchar",
+                    "required": true,
+                    "array": false,
+                    "size": 255,
+                    "default": null
+                },
+                {
+                    "key": "release_year",
+                    "type": "datetime",
+                    "required": false,
+                    "array": false,
+                    "format": "",
+                    "default": null
+                },
+                {
+                    "key": "category",
+                    "type": "varchar",
+                    "required": false,
+                    "array": false,
+                    "elements": [
+                        "fiction",
+                        "nonfiction"
+                    ],
+                    "format": "enum",
+                    "default": null
+                },
+                {
+                    "key": "genre",
+                    "type": "varchar",
+                    "required": false,
+                    "array": true,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "is_checked_out",
+                    "type": "boolean",
+                    "required": true,
+                    "array": false,
+                    "default": null
+                }
+            ],
+            "indexes": []
+        }
+    ]
+}
+3a:["$","$L2b",null,{"language":"json","content":"$3f","children":"$40"}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Here's how you can generate types for this table across all supported languages:"}]
+43:Ta81,package io.clikkle.models;
+
+import java.util.*;
+public class Books {
+
+    public enum Category {
+        fiction,
+        nonfiction;
+    }
+
+    private String name;
+    private String author;
+    private String releaseYear;
+    private Category category;
+    private List<String> genre;
+    private boolean isCheckedOut;
+
+    public Books() {
+    }
+
+    public Books(
+        String name,
+        String author,
+        String releaseYear,
+        Category category,
+        List<String> genre,
+        boolean isCheckedOut
+    ) {
+        this.name = name;
+        this.author = author;
+        this.releaseYear = releaseYear;
+        this.category = category;
+        this.genre = genre;
+        this.isCheckedOut = isCheckedOut;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public String getReleaseYear() {
+        return releaseYear;
+    }
+
+    public void setReleaseYear(String releaseYear) {
+        this.releaseYear = releaseYear;
+    }
+
+    public Category getCategory() {
+        return category;
+    }
+
+    public void setCategory(Category category) {
+        this.category = category;
+    }
+
+    public List<String> getGenre() {
+        return genre;
+    }
+
+    public void setGenre(List<String> genre) {
+        this.genre = genre;
+    }
+
+    public boolean getIsCheckedOut() {
+        return isCheckedOut;
+    }
+
+    public void setIsCheckedOut(boolean isCheckedOut) {
+        this.isCheckedOut = isCheckedOut;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+        Books that = (Books) obj;
+        return Objects.equals(name, that.name) &&
+              Objects.equals(author, that.author) &&
+              Objects.equals(releaseYear, that.releaseYear) &&
+              Objects.equals(category, that.category) &&
+              Objects.equals(genre, that.genre) &&
+              Objects.equals(isCheckedOut, that.isCheckedOut);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, author, releaseYear, category, genre, isCheckedOut);
+    }
+
+    @Override
+    public String toString() {
+        return "Books{" +
+                "name=" + name +
+                "author=" + author +
+                "releaseYear=" + releaseYear +
+                "category=" + category +
+                "genre=" + genre +
+                "isCheckedOut=" + isCheckedOut +
+                '}';
+    }
+}
+44:Ta81,package io.clikkle.models;
+
+import java.util.*;
+public class Books {
+
+    public enum Category {
+        fiction,
+        nonfiction;
+    }
+
+    private String name;
+    private String author;
+    private String releaseYear;
+    private Category category;
+    private List<String> genre;
+    private boolean isCheckedOut;
+
+    public Books() {
+    }
+
+    public Books(
+        String name,
+        String author,
+        String releaseYear,
+        Category category,
+        List<String> genre,
+        boolean isCheckedOut
+    ) {
+        this.name = name;
+        this.author = author;
+        this.releaseYear = releaseYear;
+        this.category = category;
+        this.genre = genre;
+        this.isCheckedOut = isCheckedOut;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(String author) {
+        this.author = author;
+    }
+
+    public String getReleaseYear() {
+        return releaseYear;
+    }
+
+    public void setReleaseYear(String releaseYear) {
+        this.releaseYear = releaseYear;
+    }
+
+    public Category getCategory() {
+        return category;
+    }
+
+    public void setCategory(Category category) {
+        this.category = category;
+    }
+
+    public List<String> getGenre() {
+        return genre;
+    }
+
+    public void setGenre(List<String> genre) {
+        this.genre = genre;
+    }
+
+    public boolean getIsCheckedOut() {
+        return isCheckedOut;
+    }
+
+    public void setIsCheckedOut(boolean isCheckedOut) {
+        this.isCheckedOut = isCheckedOut;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) return true;
+        if (obj == null || getClass() != obj.getClass()) return false;
+        Books that = (Books) obj;
+        return Objects.equals(name, that.name) &&
+              Objects.equals(author, that.author) &&
+              Objects.equals(releaseYear, that.releaseYear) &&
+              Objects.equals(category, that.category) &&
+              Objects.equals(genre, that.genre) &&
+              Objects.equals(isCheckedOut, that.isCheckedOut);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, author, releaseYear, category, genre, isCheckedOut);
+    }
+
+    @Override
+    public String toString() {
+        return "Books{" +
+                "name=" + name +
+                "author=" + author +
+                "releaseYear=" + releaseYear +
+                "category=" + category +
+                "genre=" + genre +
+                "isCheckedOut=" + isCheckedOut +
+                '}';
+    }
+}
+3c:["$","$L41",null,{"children":[["$","$L42",null,{"id":"ts","title":"TypeScript","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Run the following command in your terminal:"}],["$","$L2b",null,{"language":"bash","content":"clikkle types --language ts ./types\n","children":"clikkle types --language ts ./types\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will generate the following types in the ",["$","code",null,{"children":"./types"}]," sub-directory of your project:"]}],["$","$L2b",null,{"language":"ts","content":"import { type Models } from 'clikkle';\n\nexport enum Category {\n  FICTION = \"fiction\",\n  NONFICTION = \"nonfiction\",\n}\n\nexport type Books = Models.Row & {\n  name: string;\n  author: string;\n  releaseYear: string | null;\n  category: Category | null;\n  genre: string[] | null;\n  isCheckedOut: boolean;\n}\n","children":"import { type Models } from 'clikkle';\n\nexport enum Category {\n  FICTION = \"fiction\",\n  NONFICTION = \"nonfiction\",\n}\n\nexport type Books = Models.Row & {\n  name: string;\n  author: string;\n  releaseYear: string | null;\n  category: Category | null;\n  genre: string[] | null;\n  isCheckedOut: boolean;\n}\n"}]]}],["$","$L42",null,{"id":"js","title":"JavaScript","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Run the following command in your terminal:"}],["$","$L2b",null,{"language":"bash","content":"clikkle types --language js ./types\n","children":"clikkle types --language js ./types\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will generate the following types in the ",["$","code",null,{"children":"./types"}]," sub-directory of your project:"]}],["$","$L2b",null,{"language":"js","content":"/**\n * @typedef {import('clikkle').Models.Row} Row\n */\n\n\n/**\n * @typedef {Object} Books\n * @property {string} name\n * @property {string} author\n * @property {string|null|undefined} releaseYear\n * @property {\"fiction\"|\"nonfiction\"|null|undefined} category\n * @property {string[]|null|undefined} genre\n * @property {boolean} isCheckedOut\n */\n","children":"/**\n * @typedef {import('clikkle').Models.Row} Row\n */\n\n\n/**\n * @typedef {Object} Books\n * @property {string} name\n * @property {string} author\n * @property {string|null|undefined} releaseYear\n * @property {\"fiction\"|\"nonfiction\"|null|undefined} category\n * @property {string[]|null|undefined} genre\n * @property {boolean} isCheckedOut\n */\n"}]]}],["$","$L42",null,{"id":"java","title":"Java","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Run the following command in your terminal:"}],["$","$L2b",null,{"language":"bash","content":"clikkle types --language java ./types\n","children":"clikkle types --language java ./types\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will generate the following types in the ",["$","code",null,{"children":"./types"}]," sub-directory of your project:"]}],["$","$L2b",null,{"language":"java","content":"$43","children":"$44"}]]}],"$L45","$L46","$L47","$L48"]}]
+3d:["$","$L49",null,{"date":"$undefined"}]
+4a:T6b4,<?php
+namespace Clikkle\Models;
+
+enum Category: string {
+  case FICTION = 'fiction';
+  case NONFICTION = 'nonfiction';
+}
+
+class Books {
+  private string $name;
+  private string $author;
+  private string|null $releaseYear;
+  private Category|null $category;
+  private array $genre;
+  private bool $isCheckedOut;
+
+  public function __construct(
+    string $name,
+    string $author,
+    ?string $releaseYear = null,
+    ?Category $category = null,
+    ?array $genre = null,
+    bool $isCheckedOut
+  ) {
+    $this->name = $name;
+    $this->author = $author;
+    $this->releaseYear = $releaseYear;
+    $this->category = $category;
+    $this->genre = $genre;
+    $this->isCheckedOut = $isCheckedOut;
+  }
+
+  public function getName(): string {
+    return $this->name;
+  }
+
+  public function setName(string $name): void {
+    $this->name = $name;
+  }
+  public function getAuthor(): string {
+    return $this->author;
+  }
+
+  public function setAuthor(string $author): void {
+    $this->author = $author;
+  }
+  public function getReleaseYear(): string|null {
+    return $this->releaseYear;
+  }
+
+  public function setReleaseYear(string|null $releaseYear): void {
+    $this->releaseYear = $releaseYear;
+  }
+  public function getCategory(): Category|null {
+    return $this->category;
+  }
+
+  public function setCategory(Category|null $category): void {
+    $this->category = $category;
+  }
+  public function getGenre(): array {
+    return $this->genre;
+  }
+
+  public function setGenre(array $genre): void {
+    $this->genre = $genre;
+  }
+  public function getIsCheckedOut(): bool {
+    return $this->isCheckedOut;
+  }
+
+  public function setIsCheckedOut(bool $isCheckedOut): void {
+    $this->isCheckedOut = $isCheckedOut;
+  }
+}
+4b:T6b4,<?php
+namespace Clikkle\Models;
+
+enum Category: string {
+  case FICTION = 'fiction';
+  case NONFICTION = 'nonfiction';
+}
+
+class Books {
+  private string $name;
+  private string $author;
+  private string|null $releaseYear;
+  private Category|null $category;
+  private array $genre;
+  private bool $isCheckedOut;
+
+  public function __construct(
+    string $name,
+    string $author,
+    ?string $releaseYear = null,
+    ?Category $category = null,
+    ?array $genre = null,
+    bool $isCheckedOut
+  ) {
+    $this->name = $name;
+    $this->author = $author;
+    $this->releaseYear = $releaseYear;
+    $this->category = $category;
+    $this->genre = $genre;
+    $this->isCheckedOut = $isCheckedOut;
+  }
+
+  public function getName(): string {
+    return $this->name;
+  }
+
+  public function setName(string $name): void {
+    $this->name = $name;
+  }
+  public function getAuthor(): string {
+    return $this->author;
+  }
+
+  public function setAuthor(string $author): void {
+    $this->author = $author;
+  }
+  public function getReleaseYear(): string|null {
+    return $this->releaseYear;
+  }
+
+  public function setReleaseYear(string|null $releaseYear): void {
+    $this->releaseYear = $releaseYear;
+  }
+  public function getCategory(): Category|null {
+    return $this->category;
+  }
+
+  public function setCategory(Category|null $category): void {
+    $this->category = $category;
+  }
+  public function getGenre(): array {
+    return $this->genre;
+  }
+
+  public function setGenre(array $genre): void {
+    $this->genre = $genre;
+  }
+  public function getIsCheckedOut(): bool {
+    return $this->isCheckedOut;
+  }
+
+  public function setIsCheckedOut(bool $isCheckedOut): void {
+    $this->isCheckedOut = $isCheckedOut;
+  }
+}
+45:["$","$L42",null,{"id":"php","title":"PHP","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Run the following command in your terminal:"}],["$","$L2b",null,{"language":"bash","content":"clikkle types --language php ./types\n","children":"clikkle types --language php ./types\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will generate the following types in the ",["$","code",null,{"children":"./types"}]," sub-directory of your project:"]}],["$","$L2b",null,{"language":"php","content":"$4a","children":"$4b"}]]}]
+46:["$","$L42",null,{"id":"dart","title":"Dart","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Run the following command in your terminal:"}],["$","$L2b",null,{"language":"bash","content":"clikkle types --language dart ./types\n","children":"clikkle types --language dart ./types\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will generate the following types in the ",["$","code",null,{"children":"./types"}]," sub-directory of your project:"]}],["$","$L2b",null,{"language":"dart","content":"enum Category {\n  fiction,\n  nonfiction,\n}\n\nclass Books {\n  String name;\n  String author;\n  String? releaseYear;\n  Category? category;\n  List<String>? genre;\n  bool isCheckedOut;\n\n  Books({\n    required this.name,\n    required this.author,\n    this.releaseYear,\n    this.category,\n    this.genre,\n    required this.isCheckedOut,\n  });\n\n  factory Books.fromMap(Map<String, dynamic> map) {\n    return Books(\n      name: map['name'].toString(),\n      author: map['author'].toString(),\n      releaseYear: map['release_year']?.toString() ?? null,\n      category: map['category'] != null ? Category.values.where((e) => e.name == map['category']).firstOrNull : null,\n      genre: List<String>.from(map['genre'] ?? []) ?? [],\n      isCheckedOut: map['is_checked_out'],\n    );\n  }\n\n  Map<String, dynamic> toMap() {\n    return {\n      \"name\": name,\n      \"author\": author,\n      \"release_year\": releaseYear,\n      \"category\": category?.name ?? null,\n      \"genre\": genre,\n      \"is_checked_out\": isCheckedOut,\n    };\n  }\n}\n","children":"enum Category {\n  fiction,\n  nonfiction,\n}\n\nclass Books {\n  String name;\n  String author;\n  String? releaseYear;\n  Category? category;\n  List<String>? genre;\n  bool isCheckedOut;\n\n  Books({\n    required this.name,\n    required this.author,\n    this.releaseYear,\n    this.category,\n    this.genre,\n    required this.isCheckedOut,\n  });\n\n  factory Books.fromMap(Map<String, dynamic> map) {\n    return Books(\n      name: map['name'].toString(),\n      author: map['author'].toString(),\n      releaseYear: map['release_year']?.toString() ?? null,\n      category: map['category'] != null ? Category.values.where((e) => e.name == map['category']).firstOrNull : null,\n      genre: List<String>.from(map['genre'] ?? []) ?? [],\n      isCheckedOut: map['is_checked_out'],\n    );\n  }\n\n  Map<String, dynamic> toMap() {\n    return {\n      \"name\": name,\n      \"author\": author,\n      \"release_year\": releaseYear,\n      \"category\": category?.name ?? null,\n      \"genre\": genre,\n      \"is_checked_out\": isCheckedOut,\n    };\n  }\n}\n"}]]}]
+47:["$","$L42",null,{"id":"kotlin","title":"Kotlin","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Run the following command in your terminal:"}],["$","$L2b",null,{"language":"bash","content":"clikkle types --language kotlin ./types\n","children":"clikkle types --language kotlin ./types\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will generate the following types in the ",["$","code",null,{"children":"./types"}]," sub-directory of your project:"]}],["$","$L2b",null,{"language":"kotlin","content":"package io.clikkle.models\n\nenum class Category {\n    fiction,\n    nonfiction\n}\n\ndata class Books(\n    val name: String,\n    val author: String,\n    val releaseYear: String?,\n    val category: Category?,\n    val genre: List<String>?,\n    val isCheckedOut: Boolean,\n)\n","children":"package io.clikkle.models\n\nenum class Category {\n    fiction,\n    nonfiction\n}\n\ndata class Books(\n    val name: String,\n    val author: String,\n    val releaseYear: String?,\n    val category: Category?,\n    val genre: List<String>?,\n    val isCheckedOut: Boolean,\n)\n"}]]}]
+4c:Tb16,import Foundation
+
+public enum Category: String, Codable, CaseIterable {
+  case fiction = "fiction"
+  case nonfiction = "nonfiction"
+}
+
+public class Books: Codable {
+    public let name: String
+    public let author: String
+    public let releaseYear: String?
+    public let category: Category?
+    public let genre: [String]?
+    public let isCheckedOut: Bool
+
+    enum CodingKeys: String, CodingKey {
+        case name = "name"
+        case author = "author"
+        case releaseYear = "release_year"
+        case category = "category"
+        case genre = "genre"
+        case isCheckedOut = "is_checked_out"
+    }
+
+    init(
+        name: String,
+        author: String,
+        releaseYear: String?,
+        category: Category?,
+        genre: [String]?,
+        isCheckedOut: Bool
+    ) {
+        self.name = name
+        self.author = author
+        self.releaseYear = releaseYear
+        self.category = category
+        self.genre = genre
+        self.isCheckedOut = isCheckedOut
+    }
+
+    public required init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+
+        self.name = try container.decode(String.self, forKey: .name)
+        self.author = try container.decode(String.self, forKey: .author)
+        self.releaseYear = try container.decodeIfPresent(String.self, forKey: .releaseYear)
+        self.category = try container.decodeIfPresent(Category.self, forKey: .category)
+        self.genre = try container.decodeIfPresent([String].self, forKey: .genre)
+        self.isCheckedOut = try container.decode(Bool.self, forKey: .isCheckedOut)
+    }
+
+    public func encode(to encoder: Encoder) throws {
+        var container = encoder.container(keyedBy: CodingKeys.self)
+
+        try container.encode(name, forKey: .name)
+        try container.encode(author, forKey: .author)
+        try container.encodeIfPresent(releaseYear, forKey: .releaseYear)
+        try container.encodeIfPresent(category, forKey: .category)
+        try container.encodeIfPresent(genre, forKey: .genre)
+        try container.encode(isCheckedOut, forKey: .isCheckedOut)
+    }
+
+    public func toMap() -> [String: Any] {
+        return [
+            "name": name as Any,
+            "author": author as Any,
+            "release_year": releaseYear as Any,
+            "category": category as Any,
+            "genre": genre as Any,
+            "is_checked_out": isCheckedOut as Any
+        ]
+    }
+
+    public static func from(map: [String: Any]) -> Books {
+        return Books(
+            name: map["name"] as! String,
+            author: map["author"] as! String,
+            releaseYear: map["release_year"] as? String,
+            category: map["category"] as? String,
+            genre: map["genre"] as? [String],
+            isCheckedOut: map["is_checked_out"] as! Bool
+        )
+    }
+}
+4d:Tb16,import Foundation
+
+public enum Category: String, Codable, CaseIterable {
+  case fiction = "fiction"
+  case nonfiction = "nonfiction"
+}
+
+public class Books: Codable {
+    public let name: String
+    public let author: String
+    public let releaseYear: String?
+    public let category: Category?
+    public let genre: [String]?
+    public let isCheckedOut: Bool
+
+    enum CodingKeys: String, CodingKey {
+        case name = "name"
+        case author = "author"
+        case releaseYear = "release_year"
+        case category = "category"
+        case genre = "genre"
+        case isCheckedOut = "is_checked_out"
+    }
+
+    init(
+        name: String,
+        author: String,
+        releaseYear: String?,
+        category: Category?,
+        genre: [String]?,
+        isCheckedOut: Bool
+    ) {
+        self.name = name
+        self.author = author
+        self.releaseYear = releaseYear
+        self.category = category
+        self.genre = genre
+        self.isCheckedOut = isCheckedOut
+    }
+
+    public required init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+
+        self.name = try container.decode(String.self, forKey: .name)
+        self.author = try container.decode(String.self, forKey: .author)
+        self.releaseYear = try container.decodeIfPresent(String.self, forKey: .releaseYear)
+        self.category = try container.decodeIfPresent(Category.self, forKey: .category)
+        self.genre = try container.decodeIfPresent([String].self, forKey: .genre)
+        self.isCheckedOut = try container.decode(Bool.self, forKey: .isCheckedOut)
+    }
+
+    public func encode(to encoder: Encoder) throws {
+        var container = encoder.container(keyedBy: CodingKeys.self)
+
+        try container.encode(name, forKey: .name)
+        try container.encode(author, forKey: .author)
+        try container.encodeIfPresent(releaseYear, forKey: .releaseYear)
+        try container.encodeIfPresent(category, forKey: .category)
+        try container.encodeIfPresent(genre, forKey: .genre)
+        try container.encode(isCheckedOut, forKey: .isCheckedOut)
+    }
+
+    public func toMap() -> [String: Any] {
+        return [
+            "name": name as Any,
+            "author": author as Any,
+            "release_year": releaseYear as Any,
+            "category": category as Any,
+            "genre": genre as Any,
+            "is_checked_out": isCheckedOut as Any
+        ]
+    }
+
+    public static func from(map: [String: Any]) -> Books {
+        return Books(
+            name: map["name"] as! String,
+            author: map["author"] as! String,
+            releaseYear: map["release_year"] as? String,
+            category: map["category"] as? String,
+            genre: map["genre"] as? [String],
+            isCheckedOut: map["is_checked_out"] as! Bool
+        )
+    }
+}
+48:["$","$L42",null,{"id":"swift","title":"Swift","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Run the following command in your terminal:"}],["$","$L2b",null,{"language":"bash","content":"clikkle types --language swift ./types\n","children":"clikkle types --language swift ./types\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will generate the following types in the ",["$","code",null,{"children":"./types"}]," sub-directory of your project:"]}],["$","$L2b",null,{"language":"swift","content":"$4c","children":"$4d"}]]}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+4e:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1c:null
+21:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L4e","13",{}]]

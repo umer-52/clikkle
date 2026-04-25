@@ -1,0 +1,1452 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+f:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+18:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+19:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+1d:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+22:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T4901,---
+layout: article
+title: Start with Authentication
+description: Effortlessly add authentication to your apps - simple signup & login in just minutes with Clikkle Authentication
+---
+You can get up and running with Clikkle Authentication in minutes.
+You can add basic email and password authentication to your app with just a few lines of code.
+
+{% section #sign-up step=1 title="Signup" %}
+You can use the Clikkle [Client SDKs](/docs/sdks#client) to create an account using email and password.
+
+{% multicode %}
+```client-web
+import { Client, Account, ID } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+const account = new Account(client);
+
+const user = await account.create({
+    userId: ID.unique(), 
+    email: 'email@example.com', 
+    password: 'password'
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+final account = Account(client);
+
+final user = await account.create(
+    userId: ID.unique(),
+    email: 'email@example.com',
+    password: 'password',
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+
+let account = Account(client)
+
+let user = try await account.create(
+    userId: ID.unique(),
+    email: "email@example.com",
+    password: "password"
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+
+val account = Account(client)
+
+val user = account.create(
+    userId = ID.unique(),
+    email = "email@example.com",
+    password = "password"
+)
+```
+```graphql
+mutation {
+    accountCreate(userId: "unique()", email: "email@example.com", password: "password") {
+        _id
+        email
+        name
+    }
+}
+```
+
+```client-react-native
+import { Client, Account, ID } from "clikkle";
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+const account = new Account(client);
+
+const user = await account.create({
+    userId: ID.unique(), 
+    email: 'email@example.com', 
+    password: 'password'
+});
+```
+{% /multicode %}
+{% /section %}
+
+{% section #login step=2 title="Login" %}
+
+After you've created your account, users can be logged in using the [Create Email Session](/docs/references/cloud/client-web/account#createEmailPasswordSession) method.
+
+{% multicode %}
+```client-web
+const session = await account.createEmailPasswordSession({
+    email: email, 
+    password: password
+});
+```
+
+```client-flutter
+final session = await account.createEmailPasswordSession(
+    email: 'email@example.com',
+    password: 'password'
+);
+```
+
+```client-apple
+let session = try await account.createEmailPasswordSession(
+    email: "email@example.com",
+    password: "password"
+)
+```
+
+```client-android-kotlin
+val session = account.createEmailPasswordSession(
+    email = "email@example.com",
+    password = "password"
+)
+```
+
+```graphql
+mutation {
+    accountcreateEmailPasswordSession(email: "email@example.com", password: "password") {
+        _id
+        userId
+        provider
+        expire
+    }
+}
+```
+
+```client-react-native
+const session = await account.createEmailPasswordSession({
+    email: email, 
+    password: password
+});
+```
+{% /multicode %}
+{% /section %}
+
+{% section #check-authentication-state step=3 title="Check authentication state" %}
+After logging in, you can check the authentication state of the user.
+
+Clikkle's SDKs are stateless, so you need to manage the session state in your app. 
+You can use the [Get Account](/docs/references/cloud/client-web/account#get) method to check if the user is logged in.
+
+{% multicode %}
+```client-web
+try {
+    const user = await account.get();
+    // Logged in
+} catch (err) {
+    // Not logged in
+}
+```
+```client-flutter
+try {
+    final user = await account.get();
+    // Logged in
+} catch(e) {
+    // Not logged in
+}
+```
+```client-apple
+do {
+    let user = try account.get()
+    // Logged in
+} catch {
+    // Not logged in
+}
+```
+```client-android-kotlin
+return try {
+    val user = account.get()
+    // Logged in
+} catch (e: ClikkleException) {
+    // Not logged in
+}
+```
+```graphql
+query {
+    accountGet {
+        _id
+        _createdAt
+        _updatedAt
+        name
+        registration
+        status
+        labels
+        passwordUpdate
+        email
+        phone
+        emailVerification
+        phoneVerification
+        prefs {
+            data
+        }
+        accessedAt
+    }
+}
+```
+```client-react-native
+try {
+    const user = await account.get();
+    // Logged in
+} catch (err) {
+    // Not logged in
+}
+```
+{% /multicode %}
+{% /section %}
+
+{% section #auth-and-nav step=4 title="Navigation (Optional)" %}
+A common pattern is to use route guards to redirect users to the login page if they are not authenticated.
+You can check the authentication state on app launch and before entering a protected route by calling `get()`.
+
+Route guard implementations are **opinionated** and depend on the platform and frame you are using. 
+Take a look at some example usages from different platforms as inspiration.
+
+{% accordion %}
+{% accordion_item title="Web frameworks" %}
+Before routing to a page, you can check if the user is logged in and redirect them to the login page if they are not.
+
+{% tabs %}
+{% tabsitem #react-router title="React router" %}
+You can use [React router loaders](https://reactrouter.com/en/main/route/loader) to check if the user is logged in before rendering a route.
+
+You can find a similar example in this [YouTube video](https://youtu.be/pyfwQUc5Ssk).
+
+```client-web 
+import * as React from "react";
+import {
+  createBrowserRouter,
+} from "react-router-dom";
+import "./index.css";
+
+import Login from "./Login";
+import Protected from "./Protected";
+import { account } from "./lib/clikkle";
+import { redirect } from "react-router-dom";
+
+
+const router = createBrowserRouter([
+  {
+    path: "/protected",
+    element: <Protected />,
+    loader: async () => {
+      try{
+        // logged in? pass user to the route
+        const user = await account.get();
+        return { user };
+      }
+      catch {
+        // not logged in? redirect to login
+        throw redirect('/login')
+      }
+    }
+  },
+  {
+    path: "/login",
+    element: <Login />,
+  },
+]);
+
+export default router;
+```
+{% /tabsitem %}
+{% tabsitem #vue-router title="Vue router" %}
+You can use [Vue router](https://router.vuejs.org/) wiht a [Pinia store](https://pinia.vuejs.org/) to check if the user is logged in before rendering a route.
+
+First, create a simple Pinia store to manage the authentication state.
+```client-web
+import { account, ID, type Models } from '@/lib/clikkle'
+import type { register } from 'module';
+import { defineStore } from 'pinia'
+
+export const useAuthStore = defineStore({
+  id: 'auth',
+  state: () => ({
+    user: null as null | Models.User<Models.Preferences>,
+  }),
+getters: {
+    isLoggedIn(): boolean {
+      return !!this.user;
+    },
+},
+  actions: {
+    async init() {
+        try {
+            this.user = await account.get();
+        }
+        catch (error) {
+            this.user = null;
+        }
+    },
+    // ... other operations
+  },
+})
+```
+Then, check the authentication state before routing to a protected route.
+```client-web
+import { createApp } from 'vue'
+import { createPinia } from 'pinia'
+
+import App from './App.vue'
+import router from './router'
+import { useAuthStore } from './stores/auth'
+
+const app = createApp(App)
+app.use(createPinia())
+
+const auth = useAuthStore();
+
+auth.init().then(() => {
+  router.beforeEach((to, from, next) => {
+    // Not logged in? 
+    if (to.name == 'protected' && auth.isLoggedIn == false) {
+    // Redirect to login if going to a protected route
+      next({ name: 'login' })
+    } else {
+      next()
+    }
+  })
+  app.use(router)
+  app.mount('#app')
+})
+```
+{% /tabsitem %}
+{% tabsitem #angular-router title="Angular router" %}
+```client-web
+import { Injectable } from '@angular/core';
+import { ActivatedRouteSnapshot, CanActivate, RouterStateSnapshot, UrlTree, Router } from '@angular/router';
+import { Observable, from, of } from 'rxjs';
+import { catchError, map } from 'rxjs/operators';
+import { account } from './lib/clikkle';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class AuthGuardGuard implements CanActivate {
+  constructor(private router: Router) {}
+
+  canActivate(
+    route: ActivatedRouteSnapshot,
+    state: RouterStateSnapshot): Observable<boolean | UrlTree> | Promise<boolean | UrlTree> | boolean | UrlTree {
+    if (route.routeConfig?.path === "protected") {
+      return this.checkLogin();
+    }
+    return of(true);
+  }
+
+  private checkLogin(): Observable<boolean | UrlTree> {
+    return from(account.get()).pipe(
+      map(() => true),
+      catchError(() => of(this.router.createUrlTree(['/login'])))
+    );
+  }
+}
+```
+{% /tabsitem %}
+{% tabsitem #svelte title="Svelte" %}
+In the root level `+layout.svelte` file, you can check the authentication state before rendering a route.
+```client-web
+// src/routes/+layout.js
+import { clikkle } from "$lib/clikkle";
+
+// Turn off SSR globally, turning the project into a static site
+export const ssr = false;
+
+export const load = async () => {
+  try {
+    return {
+      account: await clikkle.account.get(),
+    };
+  } catch {
+    return {
+      account: null,
+    };
+  }
+};
+```
+
+This will be accessible in the `load` function of each child route.
+```client-web
+// src/routes/protected/+page.js
+import { redirect } from '@sveltejs/kit';
+
+/** @type {import('./$types').PageLoad} */
+export async function load({ parent }) {
+	const { account } = await parent();
+	if (!account) {
+		throw redirect(303, '/login');
+	}
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+{% /accordion_item %}
+{% accordion_item title="Mobile and native" %}
+With mobile apps, you can apply similar logic to check the authentication state before displaying a screen or view.
+
+{% tabs %}
+{% tabsitem #flutter-go-router title="Flutter Go router" %}
+This example uses the Flutter Go router as an example, but the same concepts apply to other routing libraries.
+
+First, create a `ChangeNotifier` to manage the authentication state.
+
+```client-flutter
+import 'package:flutter/material.dart';
+import 'package:clikkle/clikkle.dart' show Client, ID;
+import 'package:clikkle/clikkle.dart' as Clikkle;
+import 'package:clikkle/models.dart' show User;
+
+class Account extends ChangeNotifier {
+  final Clikkle.Account _account;
+
+  User? _user;
+  User? get user => _user;
+
+  Account(Client client) : _account = Clikkle.Account(client);
+
+  Future<void> init() async {
+    try {
+      _user = await _account.get();
+      
+      notifyListeners();
+    } catch(e) {
+      debugPrint(e.toString());
+      rethrow;
+    }
+  }
+  // ... other operations
+}
+```
+
+You can then use this state to redirect users to the login page if they are not authenticated.
+```client-flutter
+import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import 'package:provider/provider.dart';
+
+import './providers/account.dart';
+
+import './pages/login.dart';
+import './pages/protected.dart';
+
+String Function(BuildContext context, GoRouterState state) redirect = 
+  (BuildContext context, GoRouterState state) => 
+    context.read<Account>().user == null && state.matchedLocation != '/login'
+    ? '/login' 
+    : state.matchedLocation;
+
+final router = GoRouter(
+  redirect: redirect,
+  initialLocation: '/login',
+  routes: [
+    GoRoute(
+      path: '/login',
+      pageBuilder: (context, state) => const MaterialPage(child: LoginPage()),
+    ),
+    GoRoute(
+      path: '/protected',
+      pageBuilder: (context, state) => const MaterialPage(child: ProtectedPage()),
+    )
+  ],  
+);
+```
+{% /tabsitem %}
+
+{% tabsitem #apple title="Apple" %}
+For Apple platforms, this example uses a `NavigationStack` but you can use similar concepts with other navigation methods.
+
+Initialize Clikkle and create an `ClikkleService`.
+```client-apple
+import Foundation
+import Clikkle
+import ClikkleModels
+import JSONCodable
+
+class Clikkle {
+    var client: Client
+    var account: Account
+    var tablesDB: TablesDB
+    let databaseId = "default"
+    let tableId = "ideas-tracker"
+
+    public init() {
+        self.client = Client()
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+            .setProject("<PROJECT_ID>")
+        
+        self.account = Account(client)
+    }
+    public func getUser() async throws -> User<[String: AnyCodable]> {
+        let user = try await account.get()
+        // you can also store the user in a local store
+        return user
+    }
+}
+
+```
+
+On launch, you can display a `SplashView` while you verify the authentication state.
+```client-apple
+import Foundation
+import SwiftUI
+
+struct SplashView: View {
+    @EnvironmentObject private var router: Router
+    @EnvironmentObject private var ClikkleService: ClikkleService
+
+    var body: some View {
+        NavigationStack(path: $router.routes) {
+            VStack {
+                Text("Example App")
+                    .font(.largeTitle)
+                    .fontWeight(.bold)
+                    .padding()
+            }.task {
+                let user = await self.ClikkleService.getUser();
+
+                if !user {
+                    router.pushReplacement(.login)
+                } else {
+                    router.pushReplacement(.protected)
+                }
+            }
+            .navigationDestination(for: Route.self, destination: { $0 })
+
+        }
+    }
+}
+```
+
+In your router, you can also check the authentication state before rendering a route.
+
+```client-apple
+final class Router: ObservableObject {
+    @Published var routes = [Route]()
+
+    func push(_ screen: Route) {
+        // Make sure you've already stored the user and auth state in a local store
+        if (screen == .protected && !isLoggedIn){
+            routes.append(.login)
+        }
+        routes.append(screen)
+    }
+    // ... other operations
+}
+```
+{% /tabsitem %}
+{% tabsitem #android title="Android" %}
+Create some Clikkle Service, for example, `ClikkleService` to manage the authentication state.
+You can find a version of this example in the [Clikkle Android tutorial](/docs/tutorials/android/step-1).
+```client-android-kotlin
+//... imports
+
+object Clikkle {
+    private const val ENDPOINT = "https://<REGION>.cloud.clikkle.io/v1"
+    private const val PROJECT_ID = "<PROJECT_ID>"
+
+    private lateinit var client: Client
+
+    fun init(context: Context) {
+        client = Client(context)
+            .setEndpoint(ENDPOINT)
+            .setProject(PROJECT_ID)
+    }
+}
+
+```
+
+Then, create an auth service to manage the authentication state.
+
+```client-android-kotlin
+//... imports
+
+class AccountService(client: Client) {
+    private val account = Account(client)
+
+    suspend fun getLoggedIn(): User<Map<String, Any>>? {
+        return try {
+            account.get()
+        } catch (e: ClikkleException) {
+            null
+        }
+    }   
+    // ... other operations
+}
+```
+
+Wrap your routes in some view, for example, `AppContent`, to check the authentication state before rendering a route.
+
+```client-android-kotlin
+@Composable
+private fun AppContent(accountService: AccountService) {
+    val user = remember { mutableStateOf<User<Map<String, Any>>?>(null) }
+    val screen = remember { mutableStateOf(Screen.Protected) }
+
+    LaunchedEffect(screen) {
+        user.value = accountService.getLoggedIn()
+    }
+
+    Scaffold(bottomBar = { AppBottomBar(screen) }) { padding ->
+        Column(modifier = Modifier.padding(padding)) {
+            when (screen.value) {
+                Screen.User -> LoginScreen(user, accountService)
+                else -> ProtectedScreen(user.value)
+            }
+        }
+    }
+}
+```
+
+In the `MainActivity` class, initialize the Clikkle service and display the `AppContent` based on the authentication state.
+
+```client-android-kotlin
+// ...imports 
+In the `MainActivity` class, initialize the Clikkle service.
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        Clikkle.init(applicationContext)
+
+        setContent {
+            // Update this line 👇
+            AppContent(Clikkle.account)
+        }
+    }
+}
+```
+{% /tabsitem %}
+{% tabsitem #react-native title="React Native" %}
+This example will use `@react-navigation/native` and `@react-navigation/native-stack` to manage the authentication state and redirect users to the login page if they are not authenticated.
+You can find a version of this example in the [Clikkle Android tutorial](/docs/tutorials/android/step-1).
+
+Create a `UserContext` to manage the authentication state.
+```client-react-native
+import { StyleSheet, Text, View } from 'react-native';
+import { UserProvider } from './contexts/UserContext';
+import { Router } from './lib/Router';
+
+export default function App() {
+  return (
+    <UserProvider>
+        <Router />
+    </UserProvider >
+  );
+}
+```
+
+Then, consume the `UserContext` in your `Router` component to check the authentication state before rendering a route.
+```client-react-native
+import { NavigationContainer } from '@react-navigation/native';
+import LoginScreen from '../views/Login';
+import ProtectedSCreen from '../views/Protected';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { useUser } from '../contexts/UserContext';
+
+const Stack = createNativeStackNavigator();
+export function Router() {
+    const user = useUser();
+    return (
+        <NavigationContainer>
+            <Stack.Navigator>
+                {user.current == null ? (
+                    <Stack.Screen
+                        name="Login"
+                        component={LoginScreen}
+                        options={{ title: 'Login' }}
+                    />
+                ) : (
+                    <Stack.Screen
+                        name="Protected"
+                        component={ProtectedSCreen}
+                        options={{ title: 'Protected' }}
+                    />
+                )}
+
+            </Stack.Navigator>
+        </NavigationContainer>
+    );
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+{% /accordion_item %}
+{% /accordion %}
+{% /section %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T4901,---
+layout: article
+title: Start with Authentication
+description: Effortlessly add authentication to your apps - simple signup & login in just minutes with Clikkle Authentication
+---
+You can get up and running with Clikkle Authentication in minutes.
+You can add basic email and password authentication to your app with just a few lines of code.
+
+{% section #sign-up step=1 title="Signup" %}
+You can use the Clikkle [Client SDKs](/docs/sdks#client) to create an account using email and password.
+
+{% multicode %}
+```client-web
+import { Client, Account, ID } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+const account = new Account(client);
+
+const user = await account.create({
+    userId: ID.unique(), 
+    email: 'email@example.com', 
+    password: 'password'
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+final account = Account(client);
+
+final user = await account.create(
+    userId: ID.unique(),
+    email: 'email@example.com',
+    password: 'password',
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+
+let account = Account(client)
+
+let user = try await account.create(
+    userId: ID.unique(),
+    email: "email@example.com",
+    password: "password"
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Account
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+
+val account = Account(client)
+
+val user = account.create(
+    userId = ID.unique(),
+    email = "email@example.com",
+    password = "password"
+)
+```
+```graphql
+mutation {
+    accountCreate(userId: "unique()", email: "email@example.com", password: "password") {
+        _id
+        email
+        name
+    }
+}
+```
+
+```client-react-native
+import { Client, Account, ID } from "clikkle";
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');                 // Your project ID
+
+const account = new Account(client);
+
+const user = await account.create({
+    userId: ID.unique(), 
+    email: 'email@example.com', 
+    password: 'password'
+});
+```
+{% /multicode %}
+{% /section %}
+
+{% section #login step=2 title="Login" %}
+
+After you've created your account, users can be logged in using the [Create Email Session](/docs/references/cloud/client-web/account#createEmailPasswordSession) method.
+
+{% multicode %}
+```client-web
+const session = await account.createEmailPasswordSession({
+    email: email, 
+    password: password
+});
+```
+
+```client-flutter
+final session = await account.createEmailPasswordSession(
+    email: 'email@example.com',
+    password: 'password'
+);
+```
+
+```client-apple
+let session = try await account.createEmailPasswordSession(
+    email: "email@example.com",
+    password: "password"
+)
+```
+
+```client-android-kotlin
+val session = account.createEmailPasswordSession(
+    email = "email@example.com",
+    password = "password"
+)
+```
+
+```graphql
+mutation {
+    accountcreateEmailPasswordSession(email: "email@example.com", password: "password") {
+        _id
+        userId
+        provider
+        expire
+    }
+}
+```
+
+```client-react-native
+const session = await account.createEmailPasswordSession({
+    email: email, 
+    password: password
+});
+```
+{% /multicode %}
+{% /section %}
+
+{% section #check-authentication-state step=3 title="Check authentication state" %}
+After logging in, you can check the authentication state of the user.
+
+Clikkle's SDKs are stateless, so you need to manage the session state in your app. 
+You can use the [Get Account](/docs/references/cloud/client-web/account#get) method to check if the user is logged in.
+
+{% multicode %}
+```client-web
+try {
+    const user = await account.get();
+    // Logged in
+} catch (err) {
+    // Not logged in
+}
+```
+```client-flutter
+try {
+    final user = await account.get();
+    // Logged in
+} catch(e) {
+    // Not logged in
+}
+```
+```client-apple
+do {
+    let user = try account.get()
+    // Logged in
+} catch {
+    // Not logged in
+}
+```
+```client-android-kotlin
+return try {
+    val user = account.get()
+    // Logged in
+} catch (e: ClikkleException) {
+    // Not logged in
+}
+```
+```graphql
+query {
+    accountGet {
+        _id
+        _createdAt
+        _updatedAt
+        name
+        registration
+        status
+        labels
+        passwordUpdate
+        email
+        phone
+        emailVerification
+        phoneVerification
+        prefs {
+            data
+        }
+        accessedAt
+    }
+}
+```
+```client-react-native
+try {
+    const user = await account.get();
+    // Logged in
+} catch (err) {
+    // Not logged in
+}
+```
+{% /multicode %}
+{% /section %}
+
+{% section #auth-and-nav step=4 title="Navigation (Optional)" %}
+A common pattern is to use route guards to redirect users to the login page if they are not authenticated.
+You can check the authentication state on app launch and before entering a protected route by calling `get()`.
+
+Route guard implementations are **opinionated** and depend on the platform and frame you are using. 
+Take a look at some example usages from different platforms as inspiration.
+
+{% accordion %}
+{% accordion_item title="Web frameworks" %}
+Before routing to a page, you can check if the user is logged in and redirect them to the login page if they are not.
+
+{% tabs %}
+{% tabsitem #react-router title="React router" %}
+You can use [React router loaders](https://reactrouter.com/en/main/route/loader) to check if the user is logged in before rendering a route.
+
+You can find a similar example in this [YouTube video](https://youtu.be/pyfwQUc5Ssk).
+
+```client-web 
+import * as React from "react";
+import {
+  createBrowserRouter,
+} from "react-router-dom";
+import "./index.css";
+
+import Login from "./Login";
+import Protected from "./Protected";
+import { account } from "./lib/clikkle";
+import { redirect } from "react-router-dom";
+
+
+const router = createBrowserRouter([
+  {
+    path: "/protected",
+    element: <Protected />,
+    loader: async () => {
+      try{
+        // logged in? pass user to the route
+        const user = await account.get();
+        return { user };
+      }
+      catch {
+        // not logged in? redirect to login
+        throw redirect('/login')
+      }
+    }
+  },
+  {
+    path: "/login",
+    element: <Login />,
+  },
+]);
+
+export default router;
+```
+{% /tabsitem %}
+{% tabsitem #vue-router title="Vue router" %}
+You can use [Vue router](https://router.vuejs.org/) wiht a [Pinia store](https://pinia.vuejs.org/) to check if the user is logged in before rendering a route.
+
+First, create a simple Pinia store to manage the authentication state.
+```client-web
+import { account, ID, type Models } from '@/lib/clikkle'
+import type { register } from 'module';
+import { defineStore } from 'pinia'
+
+export const useAuthStore = defineStore({
+  id: 'auth',
+  state: () => ({
+    user: null as null | Models.User<Models.Preferences>,
+  }),
+getters: {
+    isLoggedIn(): boolean {
+      return !!this.user;
+    },
+},
+  actions: {
+    async init() {
+        try {
+            this.user = await account.get();
+        }
+        catch (error) {
+            this.user = null;
+        }
+    },
+    // ... other operations
+  },
+})
+```
+Then, check the authentication state before routing to a protected route.
+```client-web
+import { createApp } from 'vue'
+import { createPinia } from 'pinia'
+
+import App from './App.vue'
+import router from './router'
+import { useAuthStore } from './stores/auth'
+
+const app = createApp(App)
+app.use(createPinia())
+
+const auth = useAuthStore();
+
+auth.init().then(() => {
+  router.beforeEach((to, from, next) => {
+    // Not logged in? 
+    if (to.name == 'protected' && auth.isLoggedIn == false) {
+    // Redirect to login if going to a protected route
+      next({ name: 'login' })
+    } else {
+      next()
+    }
+  })
+  app.use(router)
+  app.mount('#app')
+})
+```
+{% /tabsitem %}
+{% tabsitem #angular-router title="Angular router" %}
+```client-web
+import { Injectable } from '@angular/core';
+import { ActivatedRouteSnapshot, CanActivate, RouterStateSnapshot, UrlTree, Router } from '@angular/router';
+import { Observable, from, of } from 'rxjs';
+import { catchError, map } from 'rxjs/operators';
+import { account } from './lib/clikkle';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class AuthGuardGuard implements CanActivate {
+  constructor(private router: Router) {}
+
+  canActivate(
+    route: ActivatedRouteSnapshot,
+    state: RouterStateSnapshot): Observable<boolean | UrlTree> | Promise<boolean | UrlTree> | boolean | UrlTree {
+    if (route.routeConfig?.path === "protected") {
+      return this.checkLogin();
+    }
+    return of(true);
+  }
+
+  private checkLogin(): Observable<boolean | UrlTree> {
+    return from(account.get()).pipe(
+      map(() => true),
+      catchError(() => of(this.router.createUrlTree(['/login'])))
+    );
+  }
+}
+```
+{% /tabsitem %}
+{% tabsitem #svelte title="Svelte" %}
+In the root level `+layout.svelte` file, you can check the authentication state before rendering a route.
+```client-web
+// src/routes/+layout.js
+import { clikkle } from "$lib/clikkle";
+
+// Turn off SSR globally, turning the project into a static site
+export const ssr = false;
+
+export const load = async () => {
+  try {
+    return {
+      account: await clikkle.account.get(),
+    };
+  } catch {
+    return {
+      account: null,
+    };
+  }
+};
+```
+
+This will be accessible in the `load` function of each child route.
+```client-web
+// src/routes/protected/+page.js
+import { redirect } from '@sveltejs/kit';
+
+/** @type {import('./$types').PageLoad} */
+export async function load({ parent }) {
+	const { account } = await parent();
+	if (!account) {
+		throw redirect(303, '/login');
+	}
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+{% /accordion_item %}
+{% accordion_item title="Mobile and native" %}
+With mobile apps, you can apply similar logic to check the authentication state before displaying a screen or view.
+
+{% tabs %}
+{% tabsitem #flutter-go-router title="Flutter Go router" %}
+This example uses the Flutter Go router as an example, but the same concepts apply to other routing libraries.
+
+First, create a `ChangeNotifier` to manage the authentication state.
+
+```client-flutter
+import 'package:flutter/material.dart';
+import 'package:clikkle/clikkle.dart' show Client, ID;
+import 'package:clikkle/clikkle.dart' as Clikkle;
+import 'package:clikkle/models.dart' show User;
+
+class Account extends ChangeNotifier {
+  final Clikkle.Account _account;
+
+  User? _user;
+  User? get user => _user;
+
+  Account(Client client) : _account = Clikkle.Account(client);
+
+  Future<void> init() async {
+    try {
+      _user = await _account.get();
+      
+      notifyListeners();
+    } catch(e) {
+      debugPrint(e.toString());
+      rethrow;
+    }
+  }
+  // ... other operations
+}
+```
+
+You can then use this state to redirect users to the login page if they are not authenticated.
+```client-flutter
+import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import 'package:provider/provider.dart';
+
+import './providers/account.dart';
+
+import './pages/login.dart';
+import './pages/protected.dart';
+
+String Function(BuildContext context, GoRouterState state) redirect = 
+  (BuildContext context, GoRouterState state) => 
+    context.read<Account>().user == null && state.matchedLocation != '/login'
+    ? '/login' 
+    : state.matchedLocation;
+
+final router = GoRouter(
+  redirect: redirect,
+  initialLocation: '/login',
+  routes: [
+    GoRoute(
+      path: '/login',
+      pageBuilder: (context, state) => const MaterialPage(child: LoginPage()),
+    ),
+    GoRoute(
+      path: '/protected',
+      pageBuilder: (context, state) => const MaterialPage(child: ProtectedPage()),
+    )
+  ],  
+);
+```
+{% /tabsitem %}
+
+{% tabsitem #apple title="Apple" %}
+For Apple platforms, this example uses a `NavigationStack` but you can use similar concepts with other navigation methods.
+
+Initialize Clikkle and create an `ClikkleService`.
+```client-apple
+import Foundation
+import Clikkle
+import ClikkleModels
+import JSONCodable
+
+class Clikkle {
+    var client: Client
+    var account: Account
+    var tablesDB: TablesDB
+    let databaseId = "default"
+    let tableId = "ideas-tracker"
+
+    public init() {
+        self.client = Client()
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+            .setProject("<PROJECT_ID>")
+        
+        self.account = Account(client)
+    }
+    public func getUser() async throws -> User<[String: AnyCodable]> {
+        let user = try await account.get()
+        // you can also store the user in a local store
+        return user
+    }
+}
+
+```
+
+On launch, you can display a `SplashView` while you verify the authentication state.
+```client-apple
+import Foundation
+import SwiftUI
+
+struct SplashView: View {
+    @EnvironmentObject private var router: Router
+    @EnvironmentObject private var ClikkleService: ClikkleService
+
+    var body: some View {
+        NavigationStack(path: $router.routes) {
+            VStack {
+                Text("Example App")
+                    .font(.largeTitle)
+                    .fontWeight(.bold)
+                    .padding()
+            }.task {
+                let user = await self.ClikkleService.getUser();
+
+                if !user {
+                    router.pushReplacement(.login)
+                } else {
+                    router.pushReplacement(.protected)
+                }
+            }
+            .navigationDestination(for: Route.self, destination: { $0 })
+
+        }
+    }
+}
+```
+
+In your router, you can also check the authentication state before rendering a route.
+
+```client-apple
+final class Router: ObservableObject {
+    @Published var routes = [Route]()
+
+    func push(_ screen: Route) {
+        // Make sure you've already stored the user and auth state in a local store
+        if (screen == .protected && !isLoggedIn){
+            routes.append(.login)
+        }
+        routes.append(screen)
+    }
+    // ... other operations
+}
+```
+{% /tabsitem %}
+{% tabsitem #android title="Android" %}
+Create some Clikkle Service, for example, `ClikkleService` to manage the authentication state.
+You can find a version of this example in the [Clikkle Android tutorial](/docs/tutorials/android/step-1).
+```client-android-kotlin
+//... imports
+
+object Clikkle {
+    private const val ENDPOINT = "https://<REGION>.cloud.clikkle.io/v1"
+    private const val PROJECT_ID = "<PROJECT_ID>"
+
+    private lateinit var client: Client
+
+    fun init(context: Context) {
+        client = Client(context)
+            .setEndpoint(ENDPOINT)
+            .setProject(PROJECT_ID)
+    }
+}
+
+```
+
+Then, create an auth service to manage the authentication state.
+
+```client-android-kotlin
+//... imports
+
+class AccountService(client: Client) {
+    private val account = Account(client)
+
+    suspend fun getLoggedIn(): User<Map<String, Any>>? {
+        return try {
+            account.get()
+        } catch (e: ClikkleException) {
+            null
+        }
+    }   
+    // ... other operations
+}
+```
+
+Wrap your routes in some view, for example, `AppContent`, to check the authentication state before rendering a route.
+
+```client-android-kotlin
+@Composable
+private fun AppContent(accountService: AccountService) {
+    val user = remember { mutableStateOf<User<Map<String, Any>>?>(null) }
+    val screen = remember { mutableStateOf(Screen.Protected) }
+
+    LaunchedEffect(screen) {
+        user.value = accountService.getLoggedIn()
+    }
+
+    Scaffold(bottomBar = { AppBottomBar(screen) }) { padding ->
+        Column(modifier = Modifier.padding(padding)) {
+            when (screen.value) {
+                Screen.User -> LoginScreen(user, accountService)
+                else -> ProtectedScreen(user.value)
+            }
+        }
+    }
+}
+```
+
+In the `MainActivity` class, initialize the Clikkle service and display the `AppContent` based on the authentication state.
+
+```client-android-kotlin
+// ...imports 
+In the `MainActivity` class, initialize the Clikkle service.
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        Clikkle.init(applicationContext)
+
+        setContent {
+            // Update this line 👇
+            AppContent(Clikkle.account)
+        }
+    }
+}
+```
+{% /tabsitem %}
+{% tabsitem #react-native title="React Native" %}
+This example will use `@react-navigation/native` and `@react-navigation/native-stack` to manage the authentication state and redirect users to the login page if they are not authenticated.
+You can find a version of this example in the [Clikkle Android tutorial](/docs/tutorials/android/step-1).
+
+Create a `UserContext` to manage the authentication state.
+```client-react-native
+import { StyleSheet, Text, View } from 'react-native';
+import { UserProvider } from './contexts/UserContext';
+import { Router } from './lib/Router';
+
+export default function App() {
+  return (
+    <UserProvider>
+        <Router />
+    </UserProvider >
+  );
+}
+```
+
+Then, consume the `UserContext` in your `Router` component to check the authentication state before rendering a route.
+```client-react-native
+import { NavigationContainer } from '@react-navigation/native';
+import LoginScreen from '../views/Login';
+import ProtectedSCreen from '../views/Protected';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { useUser } from '../contexts/UserContext';
+
+const Stack = createNativeStackNavigator();
+export function Router() {
+    const user = useUser();
+    return (
+        <NavigationContainer>
+            <Stack.Navigator>
+                {user.current == null ? (
+                    <Stack.Screen
+                        name="Login"
+                        component={LoginScreen}
+                        options={{ title: 'Login' }}
+                    />
+                ) : (
+                    <Stack.Screen
+                        name="Protected"
+                        component={ProtectedSCreen}
+                        options={{ title: 'Protected' }}
+                    />
+                )}
+
+            </Stack.Navigator>
+        </NavigationContainer>
+    );
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+{% /accordion_item %}
+{% /accordion %}
+{% /section %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Start with Authentication"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can get up and running with Clikkle Authentication in minutes."," ","You can add basic email and password authentication to your app with just a few lines of code."]}],["$","$Le",null,{"id":"sign-up","step":1,"title":"Signup","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can use the Clikkle ",["$","$Lf",null,{"href":"/docs/sdks#client","children":"Client SDKs"}]," to create an account using email and password."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"import { Client, Account, ID } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nconst account = new Account(client);\n\nconst user = await account.create({\n    userId: ID.unique(), \n    email: 'email@example.com', \n    password: 'password'\n});\n","children":"import { Client, Account, ID } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nconst account = new Account(client);\n\nconst user = await account.create({\n    userId: ID.unique(), \n    email: 'email@example.com', \n    password: 'password'\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nfinal account = Account(client);\n\nfinal user = await account.create(\n    userId: ID.unique(),\n    email: 'email@example.com',\n    password: 'password',\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nfinal account = Account(client);\n\nfinal user = await account.create(\n    userId: ID.unique(),\n    email: 'email@example.com',\n    password: 'password',\n);\n"}],["$","$L11",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n\nlet account = Account(client)\n\nlet user = try await account.create(\n    userId: ID.unique(),\n    email: \"email@example.com\",\n    password: \"password\"\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n\nlet account = Account(client)\n\nlet user = try await account.create(\n    userId: ID.unique(),\n    email: \"email@example.com\",\n    password: \"password\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Account\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n\nval account = Account(client)\n\nval user = account.create(\n    userId = ID.unique(),\n    email = \"email@example.com\",\n    password = \"password\"\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Account\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n\nval account = Account(client)\n\nval user = account.create(\n    userId = ID.unique(),\n    email = \"email@example.com\",\n    password = \"password\"\n)\n"}],"$L12","$L13"]}]]}],"$L14","$L15","$L16"]}]}]]}],"$L17"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L18",null,{"items":[{"id":"sign-up","title":"Signup","level":2},{"id":"login","title":"Login","level":2},{"id":"check-authentication-state","title":"Check authentication state","level":2},{"id":"auth-and-nav","title":"Navigation (Optional)","level":2}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+12:["$","$L11",null,{"language":"graphql","content":"mutation {\n    accountCreate(userId: \"unique()\", email: \"email@example.com\", password: \"password\") {\n        _id\n        email\n        name\n    }\n}\n","children":"mutation {\n    accountCreate(userId: \"unique()\", email: \"email@example.com\", password: \"password\") {\n        _id\n        email\n        name\n    }\n}\n"}]
+13:["$","$L11",null,{"language":"client-react-native","content":"import { Client, Account, ID } from \"clikkle\";\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nconst account = new Account(client);\n\nconst user = await account.create({\n    userId: ID.unique(), \n    email: 'email@example.com', \n    password: 'password'\n});\n","children":"import { Client, Account, ID } from \"clikkle\";\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');                 // Your project ID\n\nconst account = new Account(client);\n\nconst user = await account.create({\n    userId: ID.unique(), \n    email: 'email@example.com', \n    password: 'password'\n});\n"}]
+14:["$","$Le",null,{"id":"login","step":2,"title":"Login","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After you've created your account, users can be logged in using the ",["$","$Lf",null,{"href":"/docs/references/cloud/client-web/account#createEmailPasswordSession","children":"Create Email Session"}]," method."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"const session = await account.createEmailPasswordSession({\n    email: email, \n    password: password\n});\n","children":"const session = await account.createEmailPasswordSession({\n    email: email, \n    password: password\n});\n"}],["$","$L11",null,{"language":"client-flutter","content":"final session = await account.createEmailPasswordSession(\n    email: 'email@example.com',\n    password: 'password'\n);\n","children":"final session = await account.createEmailPasswordSession(\n    email: 'email@example.com',\n    password: 'password'\n);\n"}],["$","$L11",null,{"language":"client-apple","content":"let session = try await account.createEmailPasswordSession(\n    email: \"email@example.com\",\n    password: \"password\"\n)\n","children":"let session = try await account.createEmailPasswordSession(\n    email: \"email@example.com\",\n    password: \"password\"\n)\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"val session = account.createEmailPasswordSession(\n    email = \"email@example.com\",\n    password = \"password\"\n)\n","children":"val session = account.createEmailPasswordSession(\n    email = \"email@example.com\",\n    password = \"password\"\n)\n"}],["$","$L11",null,{"language":"graphql","content":"mutation {\n    accountcreateEmailPasswordSession(email: \"email@example.com\", password: \"password\") {\n        _id\n        userId\n        provider\n        expire\n    }\n}\n","children":"mutation {\n    accountcreateEmailPasswordSession(email: \"email@example.com\", password: \"password\") {\n        _id\n        userId\n        provider\n        expire\n    }\n}\n"}],["$","$L11",null,{"language":"client-react-native","content":"const session = await account.createEmailPasswordSession({\n    email: email, \n    password: password\n});\n","children":"const session = await account.createEmailPasswordSession({\n    email: email, \n    password: password\n});\n"}]]}]]}]
+15:["$","$Le",null,{"id":"check-authentication-state","step":3,"title":"Check authentication state","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After logging in, you can check the authentication state of the user."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle's SDKs are stateless, so you need to manage the session state in your app."," ","You can use the ",["$","$Lf",null,{"href":"/docs/references/cloud/client-web/account#get","children":"Get Account"}]," method to check if the user is logged in."]}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"client-web","content":"try {\n    const user = await account.get();\n    // Logged in\n} catch (err) {\n    // Not logged in\n}\n","children":"try {\n    const user = await account.get();\n    // Logged in\n} catch (err) {\n    // Not logged in\n}\n"}],["$","$L11",null,{"language":"client-flutter","content":"try {\n    final user = await account.get();\n    // Logged in\n} catch(e) {\n    // Not logged in\n}\n","children":"try {\n    final user = await account.get();\n    // Logged in\n} catch(e) {\n    // Not logged in\n}\n"}],["$","$L11",null,{"language":"client-apple","content":"do {\n    let user = try account.get()\n    // Logged in\n} catch {\n    // Not logged in\n}\n","children":"do {\n    let user = try account.get()\n    // Logged in\n} catch {\n    // Not logged in\n}\n"}],["$","$L11",null,{"language":"client-android-kotlin","content":"return try {\n    val user = account.get()\n    // Logged in\n} catch (e: ClikkleException) {\n    // Not logged in\n}\n","children":"return try {\n    val user = account.get()\n    // Logged in\n} catch (e: ClikkleException) {\n    // Not logged in\n}\n"}],["$","$L11",null,{"language":"graphql","content":"query {\n    accountGet {\n        _id\n        _createdAt\n        _updatedAt\n        name\n        registration\n        status\n        labels\n        passwordUpdate\n        email\n        phone\n        emailVerification\n        phoneVerification\n        prefs {\n            data\n        }\n        accessedAt\n    }\n}\n","children":"query {\n    accountGet {\n        _id\n        _createdAt\n        _updatedAt\n        name\n        registration\n        status\n        labels\n        passwordUpdate\n        email\n        phone\n        emailVerification\n        phoneVerification\n        prefs {\n            data\n        }\n        accessedAt\n    }\n}\n"}],["$","$L11",null,{"language":"client-react-native","content":"try {\n    const user = await account.get();\n    // Logged in\n} catch (err) {\n    // Not logged in\n}\n","children":"try {\n    const user = await account.get();\n    // Logged in\n} catch (err) {\n    // Not logged in\n}\n"}]]}]]}]
+16:["$","$Le",null,{"id":"auth-and-nav","step":4,"title":"Navigation (Optional)","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["A common pattern is to use route guards to redirect users to the login page if they are not authenticated."," ","You can check the authentication state on app launch and before entering a protected route by calling ",["$","code",null,{"children":"get()"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Route guard implementations are ",["$","strong",null,{"children":"opinionated"}]," and depend on the platform and frame you are using."," ","Take a look at some example usages from different platforms as inspiration."]}],["$","ul",null,{"className":"collapsible not-prose w-full","style":{"--p-toggle-border-color":"var(--web-color-border)"},"children":[["$","li",null,{"className":"collapsible-item","children":["$","details",null,{"className":"collapsible-wrapper group","open":false,"children":[["$","summary",null,{"className":"collapsible-button flex cursor-pointer list-none appearance-none items-center justify-between marker:hidden [&::-webkit-details-marker]:hidden","children":[["$","span",null,{"className":"text-primary text-sub-body font-medium","children":"Web frameworks"}],["$","div",null,{"className":"icon text-primary transition-transform group-[&[open]]:rotate-180","children":["$","span",null,{"className":"icon-cheveron-down","aria-hidden":"true"}]}]]}],["$","div",null,{"className":"collapsible-content text-secondary text-sub-body flex flex-col","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Before routing to a page, you can check if the user is logged in and redirect them to the login page if they are not."}],["$","$L1c",null,{"children":[["$","$L1d",null,{"id":"react-router","title":"React router","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can use ",["$","a",null,{"href":"https://reactrouter.com/en/main/route/loader","target":"_blank","rel":"noopener nofollow","children":"React router loaders"}]," to check if the user is logged in before rendering a route."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can find a similar example in this ",["$","a",null,{"href":"https://youtu.be/pyfwQUc5Ssk","target":"_blank","rel":"noopener nofollow","children":"YouTube video"}],"."]}],["$","$L11",null,{"language":"client-web","content":"import * as React from \"react\";\nimport {\n  createBrowserRouter,\n} from \"react-router-dom\";\nimport \"./index.css\";\n\nimport Login from \"./Login\";\nimport Protected from \"./Protected\";\nimport { account } from \"./lib/clikkle\";\nimport { redirect } from \"react-router-dom\";\n\n\nconst router = createBrowserRouter([\n  {\n    path: \"/protected\",\n    element: <Protected />,\n    loader: async () => {\n      try{\n        // logged in? pass user to the route\n        const user = await account.get();\n        return { user };\n      }\n      catch {\n        // not logged in? redirect to login\n        throw redirect('/login')\n      }\n    }\n  },\n  {\n    path: \"/login\",\n    element: <Login />,\n  },\n]);\n\nexport default router;\n","children":"import * as React from \"react\";\nimport {\n  createBrowserRouter,\n} from \"react-router-dom\";\nimport \"./index.css\";\n\nimport Login from \"./Login\";\nimport Protected from \"./Protected\";\nimport { account } from \"./lib/clikkle\";\nimport { redirect } from \"react-router-dom\";\n\n\nconst router = createBrowserRouter([\n  {\n    path: \"/protected\",\n    element: <Protected />,\n    loader: async () => {\n      try{\n        // logged in? pass user to the route\n        const user = await account.get();\n        return { user };\n      }\n      catch {\n        // not logged in? redirect to login\n        throw redirect('/login')\n      }\n    }\n  },\n  {\n    path: \"/login\",\n    element: <Login />,\n  },\n]);\n\nexport default router;\n"}]]}],"$L1e","$L1f","$L20"]}]]}]]}]}],"$L21"]}]]}]
+17:["$","$L22",null,{}]
+1b:null
+1e:["$","$L1d",null,{"id":"vue-router","title":"Vue router","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can use ",["$","a",null,{"href":"https://router.vuejs.org/","target":"_blank","rel":"noopener nofollow","children":"Vue router"}]," wiht a ",["$","a",null,{"href":"https://pinia.vuejs.org/","target":"_blank","rel":"noopener nofollow","children":"Pinia store"}]," to check if the user is logged in before rendering a route."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"First, create a simple Pinia store to manage the authentication state."}],["$","$L11",null,{"language":"client-web","content":"import { account, ID, type Models } from '@/lib/clikkle'\nimport type { register } from 'module';\nimport { defineStore } from 'pinia'\n\nexport const useAuthStore = defineStore({\n  id: 'auth',\n  state: () => ({\n    user: null as null | Models.User<Models.Preferences>,\n  }),\ngetters: {\n    isLoggedIn(): boolean {\n      return !!this.user;\n    },\n},\n  actions: {\n    async init() {\n        try {\n            this.user = await account.get();\n        }\n        catch (error) {\n            this.user = null;\n        }\n    },\n    // ... other operations\n  },\n})\n","children":"import { account, ID, type Models } from '@/lib/clikkle'\nimport type { register } from 'module';\nimport { defineStore } from 'pinia'\n\nexport const useAuthStore = defineStore({\n  id: 'auth',\n  state: () => ({\n    user: null as null | Models.User<Models.Preferences>,\n  }),\ngetters: {\n    isLoggedIn(): boolean {\n      return !!this.user;\n    },\n},\n  actions: {\n    async init() {\n        try {\n            this.user = await account.get();\n        }\n        catch (error) {\n            this.user = null;\n        }\n    },\n    // ... other operations\n  },\n})\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Then, check the authentication state before routing to a protected route."}],["$","$L11",null,{"language":"client-web","content":"import { createApp } from 'vue'\nimport { createPinia } from 'pinia'\n\nimport App from './App.vue'\nimport router from './router'\nimport { useAuthStore } from './stores/auth'\n\nconst app = createApp(App)\napp.use(createPinia())\n\nconst auth = useAuthStore();\n\nauth.init().then(() => {\n  router.beforeEach((to, from, next) => {\n    // Not logged in? \n    if (to.name == 'protected' && auth.isLoggedIn == false) {\n    // Redirect to login if going to a protected route\n      next({ name: 'login' })\n    } else {\n      next()\n    }\n  })\n  app.use(router)\n  app.mount('#app')\n})\n","children":"import { createApp } from 'vue'\nimport { createPinia } from 'pinia'\n\nimport App from './App.vue'\nimport router from './router'\nimport { useAuthStore } from './stores/auth'\n\nconst app = createApp(App)\napp.use(createPinia())\n\nconst auth = useAuthStore();\n\nauth.init().then(() => {\n  router.beforeEach((to, from, next) => {\n    // Not logged in? \n    if (to.name == 'protected' && auth.isLoggedIn == false) {\n    // Redirect to login if going to a protected route\n      next({ name: 'login' })\n    } else {\n      next()\n    }\n  })\n  app.use(router)\n  app.mount('#app')\n})\n"}]]}]
+1f:["$","$L1d",null,{"id":"angular-router","title":"Angular router","children":["$","$L11",null,{"language":"client-web","content":"import { Injectable } from '@angular/core';\nimport { ActivatedRouteSnapshot, CanActivate, RouterStateSnapshot, UrlTree, Router } from '@angular/router';\nimport { Observable, from, of } from 'rxjs';\nimport { catchError, map } from 'rxjs/operators';\nimport { account } from './lib/clikkle';\n\n@Injectable({\n  providedIn: 'root'\n})\nexport class AuthGuardGuard implements CanActivate {\n  constructor(private router: Router) {}\n\n  canActivate(\n    route: ActivatedRouteSnapshot,\n    state: RouterStateSnapshot): Observable<boolean | UrlTree> | Promise<boolean | UrlTree> | boolean | UrlTree {\n    if (route.routeConfig?.path === \"protected\") {\n      return this.checkLogin();\n    }\n    return of(true);\n  }\n\n  private checkLogin(): Observable<boolean | UrlTree> {\n    return from(account.get()).pipe(\n      map(() => true),\n      catchError(() => of(this.router.createUrlTree(['/login'])))\n    );\n  }\n}\n","children":"import { Injectable } from '@angular/core';\nimport { ActivatedRouteSnapshot, CanActivate, RouterStateSnapshot, UrlTree, Router } from '@angular/router';\nimport { Observable, from, of } from 'rxjs';\nimport { catchError, map } from 'rxjs/operators';\nimport { account } from './lib/clikkle';\n\n@Injectable({\n  providedIn: 'root'\n})\nexport class AuthGuardGuard implements CanActivate {\n  constructor(private router: Router) {}\n\n  canActivate(\n    route: ActivatedRouteSnapshot,\n    state: RouterStateSnapshot): Observable<boolean | UrlTree> | Promise<boolean | UrlTree> | boolean | UrlTree {\n    if (route.routeConfig?.path === \"protected\") {\n      return this.checkLogin();\n    }\n    return of(true);\n  }\n\n  private checkLogin(): Observable<boolean | UrlTree> {\n    return from(account.get()).pipe(\n      map(() => true),\n      catchError(() => of(this.router.createUrlTree(['/login'])))\n    );\n  }\n}\n"}]}]
+20:["$","$L1d",null,{"id":"svelte","title":"Svelte","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In the root level ",["$","code",null,{"children":"+layout.svelte"}]," file, you can check the authentication state before rendering a route."]}],["$","$L11",null,{"language":"client-web","content":"// src/routes/+layout.js\nimport { clikkle } from \"$lib/clikkle\";\n\n// Turn off SSR globally, turning the project into a static site\nexport const ssr = false;\n\nexport const load = async () => {\n  try {\n    return {\n      account: await clikkle.account.get(),\n    };\n  } catch {\n    return {\n      account: null,\n    };\n  }\n};\n","children":"// src/routes/+layout.js\nimport { clikkle } from \"$lib/clikkle\";\n\n// Turn off SSR globally, turning the project into a static site\nexport const ssr = false;\n\nexport const load = async () => {\n  try {\n    return {\n      account: await clikkle.account.get(),\n    };\n  } catch {\n    return {\n      account: null,\n    };\n  }\n};\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will be accessible in the ",["$","code",null,{"children":"load"}]," function of each child route."]}],["$","$L11",null,{"language":"client-web","content":"// src/routes/protected/+page.js\nimport { redirect } from '@sveltejs/kit';\n\n/** @type {import('./$types').PageLoad} */\nexport async function load({ parent }) {\n\tconst { account } = await parent();\n\tif (!account) {\n\t\tthrow redirect(303, '/login');\n\t}\n}\n","children":"// src/routes/protected/+page.js\nimport { redirect } from '@sveltejs/kit';\n\n/** @type {import('./$types').PageLoad} */\nexport async function load({ parent }) {\n\tconst { account } = await parent();\n\tif (!account) {\n\t\tthrow redirect(303, '/login');\n\t}\n}\n"}]]}]
+21:["$","li",null,{"className":"collapsible-item","children":["$","details",null,{"className":"collapsible-wrapper group","open":false,"children":[["$","summary",null,{"className":"collapsible-button flex cursor-pointer list-none appearance-none items-center justify-between marker:hidden [&::-webkit-details-marker]:hidden","children":[["$","span",null,{"className":"text-primary text-sub-body font-medium","children":"Mobile and native"}],["$","div",null,{"className":"icon text-primary transition-transform group-[&[open]]:rotate-180","children":["$","span",null,{"className":"icon-cheveron-down","aria-hidden":"true"}]}]]}],["$","div",null,{"className":"collapsible-content text-secondary text-sub-body flex flex-col","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"With mobile apps, you can apply similar logic to check the authentication state before displaying a screen or view."}],["$","$L1c",null,{"children":[["$","$L1d",null,{"id":"flutter-go-router","title":"Flutter Go router","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This example uses the Flutter Go router as an example, but the same concepts apply to other routing libraries."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["First, create a ",["$","code",null,{"children":"ChangeNotifier"}]," to manage the authentication state."]}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:flutter/material.dart';\nimport 'package:clikkle/clikkle.dart' show Client, ID;\nimport 'package:clikkle/clikkle.dart' as Clikkle;\nimport 'package:clikkle/models.dart' show User;\n\nclass Account extends ChangeNotifier {\n  final Clikkle.Account _account;\n\n  User? _user;\n  User? get user => _user;\n\n  Account(Client client) : _account = Clikkle.Account(client);\n\n  Future<void> init() async {\n    try {\n      _user = await _account.get();\n      \n      notifyListeners();\n    } catch(e) {\n      debugPrint(e.toString());\n      rethrow;\n    }\n  }\n  // ... other operations\n}\n","children":"import 'package:flutter/material.dart';\nimport 'package:clikkle/clikkle.dart' show Client, ID;\nimport 'package:clikkle/clikkle.dart' as Clikkle;\nimport 'package:clikkle/models.dart' show User;\n\nclass Account extends ChangeNotifier {\n  final Clikkle.Account _account;\n\n  User? _user;\n  User? get user => _user;\n\n  Account(Client client) : _account = Clikkle.Account(client);\n\n  Future<void> init() async {\n    try {\n      _user = await _account.get();\n      \n      notifyListeners();\n    } catch(e) {\n      debugPrint(e.toString());\n      rethrow;\n    }\n  }\n  // ... other operations\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can then use this state to redirect users to the login page if they are not authenticated."}],["$","$L11",null,{"language":"client-flutter","content":"import 'package:flutter/material.dart';\nimport 'package:go_router/go_router.dart';\nimport 'package:provider/provider.dart';\n\nimport './providers/account.dart';\n\nimport './pages/login.dart';\nimport './pages/protected.dart';\n\nString Function(BuildContext context, GoRouterState state) redirect = \n  (BuildContext context, GoRouterState state) => \n    context.read<Account>().user == null && state.matchedLocation != '/login'\n    ? '/login' \n    : state.matchedLocation;\n\nfinal router = GoRouter(\n  redirect: redirect,\n  initialLocation: '/login',\n  routes: [\n    GoRoute(\n      path: '/login',\n      pageBuilder: (context, state) => const MaterialPage(child: LoginPage()),\n    ),\n    GoRoute(\n      path: '/protected',\n      pageBuilder: (context, state) => const MaterialPage(child: ProtectedPage()),\n    )\n  ],  \n);\n","children":"import 'package:flutter/material.dart';\nimport 'package:go_router/go_router.dart';\nimport 'package:provider/provider.dart';\n\nimport './providers/account.dart';\n\nimport './pages/login.dart';\nimport './pages/protected.dart';\n\nString Function(BuildContext context, GoRouterState state) redirect = \n  (BuildContext context, GoRouterState state) => \n    context.read<Account>().user == null && state.matchedLocation != '/login'\n    ? '/login' \n    : state.matchedLocation;\n\nfinal router = GoRouter(\n  redirect: redirect,\n  initialLocation: '/login',\n  routes: [\n    GoRoute(\n      path: '/login',\n      pageBuilder: (context, state) => const MaterialPage(child: LoginPage()),\n    ),\n    GoRoute(\n      path: '/protected',\n      pageBuilder: (context, state) => const MaterialPage(child: ProtectedPage()),\n    )\n  ],  \n);\n"}]]}],"$L23","$L24","$L25"]}]]}]]}]}]
+23:["$","$L1d",null,{"id":"apple","title":"Apple","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For Apple platforms, this example uses a ",["$","code",null,{"children":"NavigationStack"}]," but you can use similar concepts with other navigation methods."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Initialize Clikkle and create an ",["$","code",null,{"children":"ClikkleService"}],"."]}],["$","$L11",null,{"language":"client-apple","content":"import Foundation\nimport Clikkle\nimport ClikkleModels\nimport JSONCodable\n\nclass Clikkle {\n    var client: Client\n    var account: Account\n    var tablesDB: TablesDB\n    let databaseId = \"default\"\n    let tableId = \"ideas-tracker\"\n\n    public init() {\n        self.client = Client()\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n            .setProject(\"<PROJECT_ID>\")\n        \n        self.account = Account(client)\n    }\n    public func getUser() async throws -> User<[String: AnyCodable]> {\n        let user = try await account.get()\n        // you can also store the user in a local store\n        return user\n    }\n}\n\n","children":"import Foundation\nimport Clikkle\nimport ClikkleModels\nimport JSONCodable\n\nclass Clikkle {\n    var client: Client\n    var account: Account\n    var tablesDB: TablesDB\n    let databaseId = \"default\"\n    let tableId = \"ideas-tracker\"\n\n    public init() {\n        self.client = Client()\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n            .setProject(\"<PROJECT_ID>\")\n        \n        self.account = Account(client)\n    }\n    public func getUser() async throws -> User<[String: AnyCodable]> {\n        let user = try await account.get()\n        // you can also store the user in a local store\n        return user\n    }\n}\n\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["On launch, you can display a ",["$","code",null,{"children":"SplashView"}]," while you verify the authentication state."]}],["$","$L11",null,{"language":"client-apple","content":"import Foundation\nimport SwiftUI\n\nstruct SplashView: View {\n    @EnvironmentObject private var router: Router\n    @EnvironmentObject private var ClikkleService: ClikkleService\n\n    var body: some View {\n        NavigationStack(path: $router.routes) {\n            VStack {\n                Text(\"Example App\")\n                    .font(.largeTitle)\n                    .fontWeight(.bold)\n                    .padding()\n            }.task {\n                let user = await self.ClikkleService.getUser();\n\n                if !user {\n                    router.pushReplacement(.login)\n                } else {\n                    router.pushReplacement(.protected)\n                }\n            }\n            .navigationDestination(for: Route.self, destination: { $0 })\n\n        }\n    }\n}\n","children":"import Foundation\nimport SwiftUI\n\nstruct SplashView: View {\n    @EnvironmentObject private var router: Router\n    @EnvironmentObject private var ClikkleService: ClikkleService\n\n    var body: some View {\n        NavigationStack(path: $router.routes) {\n            VStack {\n                Text(\"Example App\")\n                    .font(.largeTitle)\n                    .fontWeight(.bold)\n                    .padding()\n            }.task {\n                let user = await self.ClikkleService.getUser();\n\n                if !user {\n                    router.pushReplacement(.login)\n                } else {\n                    router.pushReplacement(.protected)\n                }\n            }\n            .navigationDestination(for: Route.self, destination: { $0 })\n\n        }\n    }\n}\n"}],"$L26","$L27"]}]
+24:["$","$L1d",null,{"id":"android","title":"Android","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create some Clikkle Service, for example, ",["$","code",null,{"children":"ClikkleService"}]," to manage the authentication state."," ","You can find a version of this example in the ",["$","$Lf",null,{"href":"/docs/tutorials/android/step-1","children":"Clikkle Android tutorial"}],"."]}],["$","$L11",null,{"language":"client-android-kotlin","content":"//... imports\n\nobject Clikkle {\n    private const val ENDPOINT = \"https://<REGION>.cloud.clikkle.io/v1\"\n    private const val PROJECT_ID = \"<PROJECT_ID>\"\n\n    private lateinit var client: Client\n\n    fun init(context: Context) {\n        client = Client(context)\n            .setEndpoint(ENDPOINT)\n            .setProject(PROJECT_ID)\n    }\n}\n\n","children":"//... imports\n\nobject Clikkle {\n    private const val ENDPOINT = \"https://<REGION>.cloud.clikkle.io/v1\"\n    private const val PROJECT_ID = \"<PROJECT_ID>\"\n\n    private lateinit var client: Client\n\n    fun init(context: Context) {\n        client = Client(context)\n            .setEndpoint(ENDPOINT)\n            .setProject(PROJECT_ID)\n    }\n}\n\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Then, create an auth service to manage the authentication state."}],["$","$L11",null,{"language":"client-android-kotlin","content":"//... imports\n\nclass AccountService(client: Client) {\n    private val account = Account(client)\n\n    suspend fun getLoggedIn(): User<Map<String, Any>>? {\n        return try {\n            account.get()\n        } catch (e: ClikkleException) {\n            null\n        }\n    }   \n    // ... other operations\n}\n","children":"//... imports\n\nclass AccountService(client: Client) {\n    private val account = Account(client)\n\n    suspend fun getLoggedIn(): User<Map<String, Any>>? {\n        return try {\n            account.get()\n        } catch (e: ClikkleException) {\n            null\n        }\n    }   \n    // ... other operations\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Wrap your routes in some view, for example, ",["$","code",null,{"children":"AppContent"}],", to check the authentication state before rendering a route."]}],["$","$L11",null,{"language":"client-android-kotlin","content":"@Composable\nprivate fun AppContent(accountService: AccountService) {\n    val user = remember { mutableStateOf<User<Map<String, Any>>?>(null) }\n    val screen = remember { mutableStateOf(Screen.Protected) }\n\n    LaunchedEffect(screen) {\n        user.value = accountService.getLoggedIn()\n    }\n\n    Scaffold(bottomBar = { AppBottomBar(screen) }) { padding ->\n        Column(modifier = Modifier.padding(padding)) {\n            when (screen.value) {\n                Screen.User -> LoginScreen(user, accountService)\n                else -> ProtectedScreen(user.value)\n            }\n        }\n    }\n}\n","children":"@Composable\nprivate fun AppContent(accountService: AccountService) {\n    val user = remember { mutableStateOf<User<Map<String, Any>>?>(null) }\n    val screen = remember { mutableStateOf(Screen.Protected) }\n\n    LaunchedEffect(screen) {\n        user.value = accountService.getLoggedIn()\n    }\n\n    Scaffold(bottomBar = { AppBottomBar(screen) }) { padding ->\n        Column(modifier = Modifier.padding(padding)) {\n            when (screen.value) {\n                Screen.User -> LoginScreen(user, accountService)\n                else -> ProtectedScreen(user.value)\n            }\n        }\n    }\n}\n"}],"$L28","$L29"]}]
+25:["$","$L1d",null,{"id":"react-native","title":"React Native","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This example will use ",["$","code",null,{"children":"@react-navigation/native"}]," and ",["$","code",null,{"children":"@react-navigation/native-stack"}]," to manage the authentication state and redirect users to the login page if they are not authenticated."," ","You can find a version of this example in the ",["$","$Lf",null,{"href":"/docs/tutorials/android/step-1","children":"Clikkle Android tutorial"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a ",["$","code",null,{"children":"UserContext"}]," to manage the authentication state."]}],["$","$L11",null,{"language":"client-react-native","content":"import { StyleSheet, Text, View } from 'react-native';\nimport { UserProvider } from './contexts/UserContext';\nimport { Router } from './lib/Router';\n\nexport default function App() {\n  return (\n    <UserProvider>\n        <Router />\n    </UserProvider >\n  );\n}\n","children":"import { StyleSheet, Text, View } from 'react-native';\nimport { UserProvider } from './contexts/UserContext';\nimport { Router } from './lib/Router';\n\nexport default function App() {\n  return (\n    <UserProvider>\n        <Router />\n    </UserProvider >\n  );\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then, consume the ",["$","code",null,{"children":"UserContext"}]," in your ",["$","code",null,{"children":"Router"}]," component to check the authentication state before rendering a route."]}],["$","$L11",null,{"language":"client-react-native","content":"import { NavigationContainer } from '@react-navigation/native';\nimport LoginScreen from '../views/Login';\nimport ProtectedSCreen from '../views/Protected';\nimport { createNativeStackNavigator } from '@react-navigation/native-stack';\nimport { useUser } from '../contexts/UserContext';\n\nconst Stack = createNativeStackNavigator();\nexport function Router() {\n    const user = useUser();\n    return (\n        <NavigationContainer>\n            <Stack.Navigator>\n                {user.current == null ? (\n                    <Stack.Screen\n                        name=\"Login\"\n                        component={LoginScreen}\n                        options={{ title: 'Login' }}\n                    />\n                ) : (\n                    <Stack.Screen\n                        name=\"Protected\"\n                        component={ProtectedSCreen}\n                        options={{ title: 'Protected' }}\n                    />\n                )}\n\n            </Stack.Navigator>\n        </NavigationContainer>\n    );\n}\n","children":"import { NavigationContainer } from '@react-navigation/native';\nimport LoginScreen from '../views/Login';\nimport ProtectedSCreen from '../views/Protected';\nimport { createNativeStackNavigator } from '@react-navigation/native-stack';\nimport { useUser } from '../contexts/UserContext';\n\nconst Stack = createNativeStackNavigator();\nexport function Router() {\n    const user = useUser();\n    return (\n        <NavigationContainer>\n            <Stack.Navigator>\n                {user.current == null ? (\n                    <Stack.Screen\n                        name=\"Login\"\n                        component={LoginScreen}\n                        options={{ title: 'Login' }}\n                    />\n                ) : (\n                    <Stack.Screen\n                        name=\"Protected\"\n                        component={ProtectedSCreen}\n                        options={{ title: 'Protected' }}\n                    />\n                )}\n\n            </Stack.Navigator>\n        </NavigationContainer>\n    );\n}\n"}]]}]
+26:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"In your router, you can also check the authentication state before rendering a route."}]
+27:["$","$L11",null,{"language":"client-apple","content":"final class Router: ObservableObject {\n    @Published var routes = [Route]()\n\n    func push(_ screen: Route) {\n        // Make sure you've already stored the user and auth state in a local store\n        if (screen == .protected && !isLoggedIn){\n            routes.append(.login)\n        }\n        routes.append(screen)\n    }\n    // ... other operations\n}\n","children":"final class Router: ObservableObject {\n    @Published var routes = [Route]()\n\n    func push(_ screen: Route) {\n        // Make sure you've already stored the user and auth state in a local store\n        if (screen == .protected && !isLoggedIn){\n            routes.append(.login)\n        }\n        routes.append(screen)\n    }\n    // ... other operations\n}\n"}]
+28:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In the ",["$","code",null,{"children":"MainActivity"}]," class, initialize the Clikkle service and display the ",["$","code",null,{"children":"AppContent"}]," based on the authentication state."]}]
+29:["$","$L11",null,{"language":"client-android-kotlin","content":"// ...imports \nIn the `MainActivity` class, initialize the Clikkle service.\nclass MainActivity : ComponentActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n\n        Clikkle.init(applicationContext)\n\n        setContent {\n            // Update this line 👇\n            AppContent(Clikkle.account)\n        }\n    }\n}\n","children":"// ...imports \nIn the `MainActivity` class, initialize the Clikkle service.\nclass MainActivity : ComponentActivity() {\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n\n        Clikkle.init(applicationContext)\n\n        setContent {\n            // Update this line 👇\n            AppContent(Clikkle.account)\n        }\n    }\n}\n"}]

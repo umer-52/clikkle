@@ -1,0 +1,219 @@
+﻿---
+layout: article
+title: Start with Web
+description: Build JavaScript or Typescript web apps with Clikkle. Add authentication, user management, file storage, and more. Read our guide to get started!
+difficulty: beginner
+readtime: 3
+back: /docs/quick-starts
+---
+
+Learn how to add Clikkle to your web apps.
+{% section #step-1 step=1 title="Create project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add a **Web app**.
+The **Hostname** should be `localhost` or the domain on which you're hosting your web app.
+
+{% info title="Cross-Origin Resource Sharing (CORS)" %}
+Adding `localhost` as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors.
+
+Learn more in our [CORS error guide](/blog/post/cors-error).
+{% /info %}
+
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+
+{% /section %}
+{% section #step-2 step=2 title="Install Clikkle" %}
+You can install the Clikkle Web SDK using a package manager.
+```sh
+npm install clikkle
+```
+
+You can also add the Clikkle Web SDK using CDN by adding a script tag to your HTML file. The SDK will be available globally through the `Clikkle` namespace.
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/clikkle@17.0.0"></script>
+```
+{% /section %}
+{% section #step-3 step=3 title="Initialize Clikkle" %}
+
+If you installed via npm, you can import `Client` and `Account` from the Clikkle SDK.
+
+```client-web
+import { Client, Account } from 'clikkle';
+
+export const client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account = new Account(client);
+export { ID } from 'clikkle';
+```
+
+If you're using CDN, the library loads directly in your browser as a global object, so you access it through Clikkle instead of imports.
+
+```js
+const client = new Clikkle.Client()
+
+client
+    .setEndpoint('https://cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>') // Replace with your project ID
+
+const account = new Clikkle.Account(client)
+const tablesDB = new Clikkle.TablesDB(client)
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Using TypeScript" %}
+If you prefer TypeScript, you can import TypeScript models from the Clikkle SDK.
+
+```ts
+// clikkle.ts
+
+import { Client, TablesDB, Account } from "clikkle";
+// Import type models for Clikkle
+import { type Models } from 'clikkle';
+
+const client: Client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account: Account = new Account(client);
+export const tablesDB: TablesDB = new TablesDB(client);
+
+// You then use the imported type definitions like this
+const authUser: Models.Session = await account.createEmailPasswordSession({
+  email,
+  password
+});
+```
+{% /section %}
+
+{% section #step-5 step=5 title="Extending TypeScript models" %}
+Sometimes you'll need to extend TypeScript models with your own type definitions.
+
+For example, when you fetch a list of rows from a table, you can define the expected structure of the rows like this.
+```ts
+interface Idea extends Models.Row {
+    title: string;
+    description: string;
+    userId: string;
+}
+```
+
+When you fetch rows, you can use this new `Idea` interface like this.
+
+```ts
+const response = await tablesDB.listRows({
+    databaseId: ideasDatabaseId,
+    tableId: ideasTableId,
+    queries: [Query.orderDesc("$createdAt"), Query.limit(queryLimit)]
+});
+const ideas = response.rows as Idea[];
+```
+{% /section %}
+
+{% section #step-6 step=6 title="All set" %}
+The Clikkle SDK works with your favorite Web frameworks.
+
+Learn to use Clikkle by adding authentication to a simple web app.
+{% cards %}
+{% cards_item href="/docs/quick-starts/nextjs" title="Next.js" %}
+Get started with Clikkle and Next.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/react" title="React" %}
+Get started with Clikkle and React
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/vue" title="Vue.js" %}
+Get started with Clikkle and Vue.js
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/nuxt" title="Nuxt" %}
+Get started with Clikkle and Nuxt
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/sveltekit" title="SvelteKit" %}
+Get started with Clikkle and SvelteKit
+{% /cards_item %}
+{% cards_item href="/docs/quick-starts/angular" title="Angular" %}
+Get started with Clikkle and Angular
+{% /cards_item %}
+{% /cards %}
+
+Learn to use Clikkle by building an idea tracker app.
+{% cards %}
+{% cards_item href="/docs/tutorials/react" title="React" %}
+Get started with Clikkle and React
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/vue" title="Vue.js" %}
+Get started with Clikkle and Vue.js
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/nuxt" title="Nuxt" %}
+Get started with Clikkle and Nuxt
+{% /cards_item %}
+{% cards_item href="/docs/tutorials/sveltekit" title="SvelteKit" %}
+Get started with Clikkle and SvelteKit
+{% /cards_item %}
+{% /cards %}
+{% /section %}
+
+{% section #step-7 step=7 title="Type safety with TypeScript" %}
+## Type safety with TypeScript
+
+For better type safety in TypeScript projects, define interfaces and use generics:
+
+```typescript
+interface User {
+    name: string;
+    email: string;
+    isVerified: boolean;
+}
+
+import { Client, TablesDB } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const databases = new TablesDB(client);
+
+// Type-safe database operations
+try {
+    const users = await databases.listRows<User>({
+        databaseId: '[DATABASE_ID]',
+        tableId: '[TABLE_ID]'
+    });
+
+    users.rows.forEach(user => {
+        console.log(`User: ${user.name} (${user.email})`);
+    });
+} catch (error) {
+    console.log(error);
+}
+```
+
+{% info title="Generate types automatically" %}
+Use the [Clikkle CLI](/docs/products/databases/type-generation) to generate TypeScript interfaces automatically: `clikkle types ./types`
+{% /info %}
+
+{% /section %}
+

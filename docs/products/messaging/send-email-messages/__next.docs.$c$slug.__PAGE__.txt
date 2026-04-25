@@ -1,0 +1,2765 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+27:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+28:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+29:"$Sreact.suspense"
+2b:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+2c:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+4e:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T8da4,---
+layout: article
+title: Send email messages
+description: Send email messages to your users using Clikkle Messaging.
+---
+You can send custom email messages to your app's users using Clikkle Messaging and a connected SMTP service.
+This guide takes you through the implementation path of adding email messaging to your app.
+
+# Add a provider {% #add-a-provider %}
+Clikkle supports [Mailgun](/docs/products/messaging/mailgun/) and [Sendgrid](/docs/products/messaging/sendgrid/) as
+SMTP providers. You must configure one of them as a provider.
+{% only_dark %}
+![Add a SMTP provider](/clikkle/images/docs/messaging/providers/mailgun/dark/add-mailgun.png)
+{% /only_dark %}
+{% only_light %}
+![Add a SMTP provider](/clikkle/images/docs/messaging/providers/mailgun/add-mailgun.png)
+{% /only_light %}
+To add a new provider navigate to **Messaging** > **Providers** > {% icon icon="plus" size="m" /%} **Add provider** > **Email**
+and follow the wizard. You can find more details about configuring in the provider guides for
+[Mailgun](/docs/products/messaging/mailgun#configure-provider) and [Sendgrid](/docs/products/messaging/sendgrid#configure-provider).
+
+# Add targets {% #add-targets %}
+In Clikkle Messaging, each user has **targets** like their email, phone number, and devices with your app installed.
+You can deliver messages to users through their **targets**.
+
+{% only_dark %}
+![Target overview](/clikkle/images/docs/messaging/targets/dark/target-overview.png)
+{% /only_dark %}
+{% only_light %}
+![Target overview](/clikkle/images/docs/messaging/targets/target-overview.png)
+{% /only_light %}
+
+If the user signed up with email and password, their account would already have email as a target.
+During development, you can add targets to existing accounts by navigating to **Authentication** > **Users** > **Select a user** > **Targets** > **Add a subscriber**.
+{% only_dark %}
+![Add a target](/clikkle/images/docs/messaging/targets/dark/add-targets.png)
+{% /only_dark %}
+{% only_light %}
+![Add a target](/clikkle/images/docs/messaging/targets/add-targets.png)
+{% /only_light %}
+
+You can also implement forms in your app to collect contact information and add it as a target with the [createTarget](/docs/references/cloud/server-nodejs/users#createTarget) endpoint.
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2');                  // Your secret API key
+
+const users = new sdk.Users(client);
+
+const target = await users.createTarget(
+    '<USER_ID>',                     // userId
+    '<TARGET_ID>',                   // targetId
+    sdk.MessagingProviderType.Email, // providerType
+    '<IDENTIFIER>',                  // identifier
+    '<PROVIDER_ID>',                 // providerId (optional)
+    '<NAME>'                         // name (optional)
+);
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setJWT('eyJhbVCJ9.eyJ...');                    // Your secret JSON Web Token
+
+const users = new sdk.Users(client);
+
+const target = await users.createTarget(
+    '<USER_ID>',                     // userId
+    '<TARGET_ID>',                   // targetId
+    sdk.MessagingProviderType.Email, // providerType
+    '<IDENTIFIER>',                  // identifier
+    '<PROVIDER_ID>',                 // providerId (optional)
+    '<NAME>'                         // name (optional)
+);
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Users;
+use Clikkle\Enums\MessagingProviderType;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                  // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2'); // Your secret API key
+
+$users = new Users($client);
+
+$target = $users->createTarget(
+    userId: '<USER_ID>',
+    targetId: '<TARGET_ID>',
+    providerType: MessagingProviderType::EMAIL(),
+    identifier: '<IDENTIFIER>',
+    providerId: '<PROVIDER_ID>',    // optional
+    name: '<NAME>'                  // optional
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.enums import MessagingProviderType
+
+client = Client()
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+client.set_project('<PROJECT_ID>')                 # Your project ID
+client.set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+users = Users(client)
+
+target = users.create_target(
+    user_id = '<USER_ID>',
+    target_id = '<TARGET_ID>',
+    provider_type = MessagingProviderType.EMAIL,
+    identifier = '<IDENTIFIER>',
+    provider_id = '<PROVIDER_ID>', # optional
+    name = '<NAME>' # optional
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+include Clikkle::Enums
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint
+    .set_project('<PROJECT_ID>')                   # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2')   # Your secret API key
+
+users = Users.new(client)
+
+target = users.create_target(
+    user_id: '<USER_ID>',
+    target_id: '<TARGET_ID>',
+    provider_type: MessagingProviderType::EMAIL,
+    identifier: '<IDENTIFIER>',
+    provider_id: '<PROVIDER_ID>',   # optional
+    name: '<NAME>'                  # optional
+)
+
+puts target.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+using Clikkle.Enums;
+
+Client client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Users users = new Users(client);
+
+Target target = await users.CreateTarget(
+    userId: "<USER_ID>",
+    targetId: "<TARGET_ID>",
+    providerType: MessagingProviderType.Email,
+    identifier: "<IDENTIFIER>",
+    providerId: "<PROVIDER_ID>",  // optional
+    name: "<NAME>"                // optional
+);
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+Client client = Client()
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+  .setProject('<PROJECT_ID>')                  // Your project ID
+  .setKey('919c2d18fb5d4...a2ae413da83346ad2'); // Your secret API key
+
+Users users = Users(client);
+
+final target = await users.createTarget(
+  userId: '<USER_ID>',
+  targetId: '<TARGET_ID>',
+  providerType:  MessagingProviderType.email,
+  identifier: '<IDENTIFIER>',
+  providerId: '<PROVIDER_ID>',  // (optional)
+  name: '<NAME>',               // (optional)
+);
+
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.coroutines.CoroutineCallback
+import io.clikkle.services.Users
+import io.clikkle.enums.MessagingProviderType
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+val users = Users(client)
+
+val target = users.createTarget(
+    userId = "<USER_ID>",
+    targetId = "<TARGET_ID>",
+    providerType =  MessagingProviderType.EMAIL,
+    identifier = "<IDENTIFIER>",
+    providerId = "<PROVIDER_ID>",   // optional
+    name = "<NAME>"                 // optional
+)
+
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Users;
+import io.clikkle.enums.MessagingProviderType;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Users users = new Users(client);
+
+users.createTarget(
+    "<USER_ID>",                    // userId
+    "<TARGET_ID>",                  // targetId
+    MessagingProviderType.EMAIL,    // providerType
+    "<IDENTIFIER>",                 // identifier
+    "<PROVIDER_ID>",                // providerId (optional)
+    "<NAME>",                       // name (optional)
+    new CoroutineCallback<>((target, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(target);
+    })
+);
+```
+```swift
+import Clikkle
+import ClikkleEnums
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let users = Users(client)
+
+let target = try await users.createTarget(
+    userId: "<USER_ID>",
+    targetId: "<TARGET_ID>",
+    providerType: .email,
+    identifier: "<IDENTIFIER>",
+    providerId: "<PROVIDER_ID>", // optional
+    name: "<NAME>"               // optional
+)
+```
+{% /multicode %}
+# Create topics (optional) {% #create-topics %}
+You can use topics to organize targets that should receive the same messages, so you can send emails to groups of targets instead of one at time.
+This step is optional if you plan to only send emails to individual targets.
+
+To create a topic in the Clikkle Console, navigate to **Messaging** > **Topics** > {% icon icon="plus" size="m" /%} **Create topic**.
+{% only_dark %}
+![Add a target](/clikkle/images/docs/messaging/topics/dark/create-topics.png)
+{% /only_dark %}
+{% only_light %}
+![Add a target](/clikkle/images/docs/messaging/topics/create-topics.png)
+{% /only_light %}
+
+You can also create topics programmatically using an [Clikkle Server SDK](/docs/references/cloud/server-nodejs/messaging#createTopic).
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const topic = await messaging.createTopic(
+        '<TOPIC_ID>',                            // topicId
+        '<NAME>'                                 // name
+    );
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const topic = await messaging.createTopic(
+        '<TOPIC_ID>',                            // topicId
+        '<NAME>'                                 // name
+    );
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                 // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createTopic(
+    topicId: '<TOPIC_ID>',
+    name: '<NAME>'
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_topic(
+    topic_id = '<TOPIC_ID>',
+    name = '<NAME>'
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                 # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_topic(
+    topic_id: '<TOPIC_ID>',
+    name: '<NAME>'
+)
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var messaging = new Messaging(client);
+
+Topic result = await messaging.CreateTopic(
+    topicId: "<TOPIC_ID>",
+    name: "<NAME>");
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() async {                                 // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = await messaging.createTopic(
+    topicId: '<TOPIC_ID>',
+    name: '<NAME>',
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createTopic(
+    "<TOPIC_ID>",                                 // topicId
+    "<NAME>"                                      // name
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createTopic(
+    "<TOPIC_ID>",                                 // topicId
+    "<NAME>"                                      // name
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let messaging = Messaging(client)
+
+let topic = try await messaging.createTopic(
+  topicId: "<TOPIC_ID>",
+  name: "<NAME>"
+)
+```
+{% /multicode %}
+
+# Send emails {% #send-emails %}
+You can send emails using a Server SDK. 
+To send an email immediately, you can call the `createEmail` endpoint with `schedule` left empty.
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        [],                                      // attachments (optional)
+        false,                                   // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        [],                                      // attachments (optional)
+        false,                                   // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                 // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                   // optional
+    users: [],                                    // optional
+    targets: [],                                  // optional
+    cc: [],                                       // optional
+    bcc: [],                                      // optional
+    draft: false,                                 // optional
+    html: false,                                  // optional
+    scheduledAt: ''                               // optional
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_email(
+    message_id = '<MESSAGE_ID>',
+    subject = '<SUBJECT>',
+    content = '<CONTENT>',
+    topics = [],                                # optional
+    users = [],                                 # optional
+    targets = [],                               # optional
+    cc = [],                                    # optional
+    bcc = [],                                   # optional
+    draft = False,                              # optional
+    html = False,                               # optional
+    scheduled_at = ''                           # optional
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                 # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_email(
+    message_id: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                   # optional
+    users: [],                                    # optional
+    targets: [],                                  # optional
+    cc: [],                                       # optional
+    bcc: [],                                      # optional
+    draft: false,                                 # optional
+    html: false,                                  # optional
+    scheduled_at: ''                              # optional
+)
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var messaging = new Messaging(client);
+
+Message result = await messaging.CreateEmail(
+    messageId: "<MESSAGE_ID>",
+    subject: "<SUBJECT>",
+    content: "<CONTENT>"    
+    topics: new List<string> {}                   // optional    
+    users: new List<string> {}                    // optional    
+    targets: new List<string> {}                  // optional    
+    cc: new List<string> {}                       // optional    
+    bcc: new List<string> {}                      // optional    
+    draft: false                                  // optional    
+    html: false                                   // optional    
+    scheduledAt: "");                             // optional
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() {                                    // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                  // optional
+    users: [],                                   // optional
+    targets: [],                                 // optional
+    cc: [],                                      // optional
+    bcc: [],                                     // optional
+    draft: false,                                // optional
+    html: false,                                 // optional
+    scheduledAt: '',                             // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",                               // messageId
+    "<SUBJECT>",                                  // subject
+    "<CONTENT>",                                  // content
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    listOf(),                                     // cc (optional)
+    listOf(),                                     // bcc (optional)
+    false,                                        // draft (optional)
+    false,                                        // html (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",   // messageId
+    "<SUBJECT>",      // subject
+    "<CONTENT>",      // content
+    listOf(),         // topics (optional)
+    listOf(),         // users (optional)
+    listOf(),         // targets (optional)
+    listOf(),         // cc (optional)
+    listOf(),         // bcc (optional)
+    false,            // draft (optional)
+    false,            // html (optional)
+    ""                // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let messaging = Messaging(client)
+
+let message = try await messaging.createEmail(
+  messageId: "<MESSAGE_ID>",
+  subject: "<SUBJECT>",
+  content: "<CONTENT>",
+  topics: [],                                    // optional
+  users: [],                                     // optional
+  targets: [],                                   // optional
+  cc: [],                                        // optional
+  bcc: [],                                       // optional
+  draft: false,                                  // optional
+  html: xfalse,                                  // optional
+  scheduledAt: ""                                // optional
+)
+```
+{% /multicode %}
+
+
+# Schedule emails {% #schedule-emails %}
+To send a scheduled email, you can call the `createEmail` endpoint with `status` set to `'scheduled'` and `schedule` as a ISO 8601 date time string for the scheduled time.
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',            // messageId
+        '<SUBJECT>',               // subject
+        '<CONTENT>',               // content
+        [],                        // topics (optional)
+        [],                        // users (optional)
+        [],                        // targets (optional)
+        [],                        // cc (optional)
+        [],                        // bcc (optional)
+        false,                     // draft (optional)
+        false,                     // html (optional)
+        '2025-02-13T22:01:00+0000' // scheduledAt (optional)
+    );
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message - await messaging.createEmail(
+        '<MESSAGE_ID>',            // messageId
+        '<SUBJECT>',               // subject
+        '<CONTENT>',               // content
+        [],                        // topics (optional)
+        [],                        // users (optional)
+        [],                        // targets (optional)
+        [],                        // cc (optional)
+        [],                        // bcc (optional)
+        false,                     // draft (optional)
+        false,                     // html (optional)
+        '2025-02-13T22:01:00+0000' // scheduledAt (optional)
+    );
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                  // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2')  // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createEmail( 
+    messageId: '<MESSAGE_ID>', 
+    subject: '<SUBJECT>', 
+    content: '<CONTENT>', 
+    topics: [],       // optional
+    users: [],        // optional
+    targets: [],      // optional
+    cc: [],           // optional
+    bcc: [],          // optional
+    draft: false,     // optional
+    html: false,      // optional
+    scheduledAt: '2025-02-13T22:01:00+0000'
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_email( 
+    message_id = '<MESSAGE_ID>', 
+    subject = '<SUBJECT>', 
+    content = '<CONTENT>', 
+    topics = [],                # optional
+    users = [],                 # optional
+    targets = [],               # optional
+    cc = [],                    # optional
+    bcc = [],                   # optional
+    draft = False,              # optional
+    html = False,               # optional
+    scheduled_at = '2025-02-13T22:01:00+0000'
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                 # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_email(
+    message_id: '<MESSAGE_ID>', 
+    subject: '<SUBJECT>', 
+    content: '<CONTENT>', 
+    topics: [],        # optional
+    users: [],         # optional
+    targets: [],       # optional
+    cc: [],            # optional
+    bcc: [],           # optional
+    draft: false,      # optional
+    html: false,       # optional
+    scheduled_at: '2025-02-13T22:01:00+0000'    
+)
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                 // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2");// Your secret API key
+
+var messaging = new Messaging(client);
+
+Message result = await messaging.CreateEmail(
+    messageId: "<MESSAGE_ID>",
+    subject: "<SUBJECT>",
+    content: "<CONTENT>"    
+    topics: new List<string> {}    // optional    
+    users: new List<string> {}     // optional    
+    targets: new List<string> {}   // optional    
+    cc: new List<string> {}        // optional    
+    bcc: new List<string> {}       // optional    
+    draft: false                   // optional    
+    html: false                    // optional    
+    scheduledAt: "2025-02-13T22:01:00+0000");     // optional
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() {                                          // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    cc: [],             // optional
+    bcc: [],            // optional
+    draft: false,       // optional
+    html: false,        // optional
+    scheduledAt: '2025-02-13T22:01:00+0000',     
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                       // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");      // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",  // messageId
+    "<SUBJECT>",     // subject
+    "<CONTENT>",     // content
+    listOf(),        // topics (optional)
+    listOf(),        // users (optional)
+    listOf(),        // targets (optional)
+    listOf(),        // cc (optional)
+    listOf(),        // bcc (optional)
+    false,           // draft (optional)
+    false,           // html (optional)
+    "2025-02-13T22:01:00+0000"      // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");// Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",    // messageId
+    "<SUBJECT>",       // subject
+    "<CONTENT>",       // content
+    listOf(),          // topics (optional)
+    listOf(),          // users (optional)
+    listOf(),          // targets (optional)
+    listOf(),          // cc (optional)
+    listOf(),          // bcc (optional)
+    false,             // draft (optional)
+    false,             // html (optional)
+    "2025-02-13T22:01:00+0000"                         
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let messaging = Messaging(client)
+
+let message = try await messaging.createEmail(
+  messageId: "<MESSAGE_ID>",
+  subject: "<SUBJECT>",
+  content: "<CONTENT>",
+  topics: [],           // optional
+  users: [],            // optional
+  targets: [],          // optional
+  cc: [],               // optional
+  bcc: [],              // optional
+  draft: false,         // optional
+  html: xfalse,         // optional
+  scheduledAt: "2025-02-13T22:01:00+0000"   
+)
+```
+{% /multicode %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T8da4,---
+layout: article
+title: Send email messages
+description: Send email messages to your users using Clikkle Messaging.
+---
+You can send custom email messages to your app's users using Clikkle Messaging and a connected SMTP service.
+This guide takes you through the implementation path of adding email messaging to your app.
+
+# Add a provider {% #add-a-provider %}
+Clikkle supports [Mailgun](/docs/products/messaging/mailgun/) and [Sendgrid](/docs/products/messaging/sendgrid/) as
+SMTP providers. You must configure one of them as a provider.
+{% only_dark %}
+![Add a SMTP provider](/clikkle/images/docs/messaging/providers/mailgun/dark/add-mailgun.png)
+{% /only_dark %}
+{% only_light %}
+![Add a SMTP provider](/clikkle/images/docs/messaging/providers/mailgun/add-mailgun.png)
+{% /only_light %}
+To add a new provider navigate to **Messaging** > **Providers** > {% icon icon="plus" size="m" /%} **Add provider** > **Email**
+and follow the wizard. You can find more details about configuring in the provider guides for
+[Mailgun](/docs/products/messaging/mailgun#configure-provider) and [Sendgrid](/docs/products/messaging/sendgrid#configure-provider).
+
+# Add targets {% #add-targets %}
+In Clikkle Messaging, each user has **targets** like their email, phone number, and devices with your app installed.
+You can deliver messages to users through their **targets**.
+
+{% only_dark %}
+![Target overview](/clikkle/images/docs/messaging/targets/dark/target-overview.png)
+{% /only_dark %}
+{% only_light %}
+![Target overview](/clikkle/images/docs/messaging/targets/target-overview.png)
+{% /only_light %}
+
+If the user signed up with email and password, their account would already have email as a target.
+During development, you can add targets to existing accounts by navigating to **Authentication** > **Users** > **Select a user** > **Targets** > **Add a subscriber**.
+{% only_dark %}
+![Add a target](/clikkle/images/docs/messaging/targets/dark/add-targets.png)
+{% /only_dark %}
+{% only_light %}
+![Add a target](/clikkle/images/docs/messaging/targets/add-targets.png)
+{% /only_light %}
+
+You can also implement forms in your app to collect contact information and add it as a target with the [createTarget](/docs/references/cloud/server-nodejs/users#createTarget) endpoint.
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    .setProject('<PROJECT_ID>')                  // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2');                  // Your secret API key
+
+const users = new sdk.Users(client);
+
+const target = await users.createTarget(
+    '<USER_ID>',                     // userId
+    '<TARGET_ID>',                   // targetId
+    sdk.MessagingProviderType.Email, // providerType
+    '<IDENTIFIER>',                  // identifier
+    '<PROVIDER_ID>',                 // providerId (optional)
+    '<NAME>'                         // name (optional)
+);
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setJWT('eyJhbVCJ9.eyJ...');                    // Your secret JSON Web Token
+
+const users = new sdk.Users(client);
+
+const target = await users.createTarget(
+    '<USER_ID>',                     // userId
+    '<TARGET_ID>',                   // targetId
+    sdk.MessagingProviderType.Email, // providerType
+    '<IDENTIFIER>',                  // identifier
+    '<PROVIDER_ID>',                 // providerId (optional)
+    '<NAME>'                         // name (optional)
+);
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Users;
+use Clikkle\Enums\MessagingProviderType;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                  // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2'); // Your secret API key
+
+$users = new Users($client);
+
+$target = $users->createTarget(
+    userId: '<USER_ID>',
+    targetId: '<TARGET_ID>',
+    providerType: MessagingProviderType::EMAIL(),
+    identifier: '<IDENTIFIER>',
+    providerId: '<PROVIDER_ID>',    // optional
+    name: '<NAME>'                  // optional
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.enums import MessagingProviderType
+
+client = Client()
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+client.set_project('<PROJECT_ID>')                 # Your project ID
+client.set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+users = Users(client)
+
+target = users.create_target(
+    user_id = '<USER_ID>',
+    target_id = '<TARGET_ID>',
+    provider_type = MessagingProviderType.EMAIL,
+    identifier = '<IDENTIFIER>',
+    provider_id = '<PROVIDER_ID>', # optional
+    name = '<NAME>' # optional
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+include Clikkle::Enums
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint
+    .set_project('<PROJECT_ID>')                   # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2')   # Your secret API key
+
+users = Users.new(client)
+
+target = users.create_target(
+    user_id: '<USER_ID>',
+    target_id: '<TARGET_ID>',
+    provider_type: MessagingProviderType::EMAIL,
+    identifier: '<IDENTIFIER>',
+    provider_id: '<PROVIDER_ID>',   # optional
+    name: '<NAME>'                  # optional
+)
+
+puts target.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+using Clikkle.Enums;
+
+Client client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Users users = new Users(client);
+
+Target target = await users.CreateTarget(
+    userId: "<USER_ID>",
+    targetId: "<TARGET_ID>",
+    providerType: MessagingProviderType.Email,
+    identifier: "<IDENTIFIER>",
+    providerId: "<PROVIDER_ID>",  // optional
+    name: "<NAME>"                // optional
+);
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+Client client = Client()
+  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+  .setProject('<PROJECT_ID>')                  // Your project ID
+  .setKey('919c2d18fb5d4...a2ae413da83346ad2'); // Your secret API key
+
+Users users = Users(client);
+
+final target = await users.createTarget(
+  userId: '<USER_ID>',
+  targetId: '<TARGET_ID>',
+  providerType:  MessagingProviderType.email,
+  identifier: '<IDENTIFIER>',
+  providerId: '<PROVIDER_ID>',  // (optional)
+  name: '<NAME>',               // (optional)
+);
+
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.coroutines.CoroutineCallback
+import io.clikkle.services.Users
+import io.clikkle.enums.MessagingProviderType
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+val users = Users(client)
+
+val target = users.createTarget(
+    userId = "<USER_ID>",
+    targetId = "<TARGET_ID>",
+    providerType =  MessagingProviderType.EMAIL,
+    identifier = "<IDENTIFIER>",
+    providerId = "<PROVIDER_ID>",   // optional
+    name = "<NAME>"                 // optional
+)
+
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Users;
+import io.clikkle.enums.MessagingProviderType;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Users users = new Users(client);
+
+users.createTarget(
+    "<USER_ID>",                    // userId
+    "<TARGET_ID>",                  // targetId
+    MessagingProviderType.EMAIL,    // providerType
+    "<IDENTIFIER>",                 // identifier
+    "<PROVIDER_ID>",                // providerId (optional)
+    "<NAME>",                       // name (optional)
+    new CoroutineCallback<>((target, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(target);
+    })
+);
+```
+```swift
+import Clikkle
+import ClikkleEnums
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let users = Users(client)
+
+let target = try await users.createTarget(
+    userId: "<USER_ID>",
+    targetId: "<TARGET_ID>",
+    providerType: .email,
+    identifier: "<IDENTIFIER>",
+    providerId: "<PROVIDER_ID>", // optional
+    name: "<NAME>"               // optional
+)
+```
+{% /multicode %}
+# Create topics (optional) {% #create-topics %}
+You can use topics to organize targets that should receive the same messages, so you can send emails to groups of targets instead of one at time.
+This step is optional if you plan to only send emails to individual targets.
+
+To create a topic in the Clikkle Console, navigate to **Messaging** > **Topics** > {% icon icon="plus" size="m" /%} **Create topic**.
+{% only_dark %}
+![Add a target](/clikkle/images/docs/messaging/topics/dark/create-topics.png)
+{% /only_dark %}
+{% only_light %}
+![Add a target](/clikkle/images/docs/messaging/topics/create-topics.png)
+{% /only_light %}
+
+You can also create topics programmatically using an [Clikkle Server SDK](/docs/references/cloud/server-nodejs/messaging#createTopic).
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const topic = await messaging.createTopic(
+        '<TOPIC_ID>',                            // topicId
+        '<NAME>'                                 // name
+    );
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const topic = await messaging.createTopic(
+        '<TOPIC_ID>',                            // topicId
+        '<NAME>'                                 // name
+    );
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                 // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createTopic(
+    topicId: '<TOPIC_ID>',
+    name: '<NAME>'
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_topic(
+    topic_id = '<TOPIC_ID>',
+    name = '<NAME>'
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                 # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_topic(
+    topic_id: '<TOPIC_ID>',
+    name: '<NAME>'
+)
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var messaging = new Messaging(client);
+
+Topic result = await messaging.CreateTopic(
+    topicId: "<TOPIC_ID>",
+    name: "<NAME>");
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() async {                                 // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = await messaging.createTopic(
+    topicId: '<TOPIC_ID>',
+    name: '<NAME>',
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createTopic(
+    "<TOPIC_ID>",                                 // topicId
+    "<NAME>"                                      // name
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createTopic(
+    "<TOPIC_ID>",                                 // topicId
+    "<NAME>"                                      // name
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let messaging = Messaging(client)
+
+let topic = try await messaging.createTopic(
+  topicId: "<TOPIC_ID>",
+  name: "<NAME>"
+)
+```
+{% /multicode %}
+
+# Send emails {% #send-emails %}
+You can send emails using a Server SDK. 
+To send an email immediately, you can call the `createEmail` endpoint with `schedule` left empty.
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        [],                                      // attachments (optional)
+        false,                                   // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        [],                                      // attachments (optional)
+        false,                                   // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                 // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                   // optional
+    users: [],                                    // optional
+    targets: [],                                  // optional
+    cc: [],                                       // optional
+    bcc: [],                                      // optional
+    draft: false,                                 // optional
+    html: false,                                  // optional
+    scheduledAt: ''                               // optional
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_email(
+    message_id = '<MESSAGE_ID>',
+    subject = '<SUBJECT>',
+    content = '<CONTENT>',
+    topics = [],                                # optional
+    users = [],                                 # optional
+    targets = [],                               # optional
+    cc = [],                                    # optional
+    bcc = [],                                   # optional
+    draft = False,                              # optional
+    html = False,                               # optional
+    scheduled_at = ''                           # optional
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                 # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_email(
+    message_id: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                   # optional
+    users: [],                                    # optional
+    targets: [],                                  # optional
+    cc: [],                                       # optional
+    bcc: [],                                      # optional
+    draft: false,                                 # optional
+    html: false,                                  # optional
+    scheduled_at: ''                              # optional
+)
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                  // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var messaging = new Messaging(client);
+
+Message result = await messaging.CreateEmail(
+    messageId: "<MESSAGE_ID>",
+    subject: "<SUBJECT>",
+    content: "<CONTENT>"    
+    topics: new List<string> {}                   // optional    
+    users: new List<string> {}                    // optional    
+    targets: new List<string> {}                  // optional    
+    cc: new List<string> {}                       // optional    
+    bcc: new List<string> {}                      // optional    
+    draft: false                                  // optional    
+    html: false                                   // optional    
+    scheduledAt: "");                             // optional
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() {                                    // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                  // optional
+    users: [],                                   // optional
+    targets: [],                                 // optional
+    cc: [],                                      // optional
+    bcc: [],                                     // optional
+    draft: false,                                // optional
+    html: false,                                 // optional
+    scheduledAt: '',                             // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",                               // messageId
+    "<SUBJECT>",                                  // subject
+    "<CONTENT>",                                  // content
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    listOf(),                                     // cc (optional)
+    listOf(),                                     // bcc (optional)
+    false,                                        // draft (optional)
+    false,                                        // html (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",   // messageId
+    "<SUBJECT>",      // subject
+    "<CONTENT>",      // content
+    listOf(),         // topics (optional)
+    listOf(),         // users (optional)
+    listOf(),         // targets (optional)
+    listOf(),         // cc (optional)
+    listOf(),         // bcc (optional)
+    false,            // draft (optional)
+    false,            // html (optional)
+    ""                // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let messaging = Messaging(client)
+
+let message = try await messaging.createEmail(
+  messageId: "<MESSAGE_ID>",
+  subject: "<SUBJECT>",
+  content: "<CONTENT>",
+  topics: [],                                    // optional
+  users: [],                                     // optional
+  targets: [],                                   // optional
+  cc: [],                                        // optional
+  bcc: [],                                       // optional
+  draft: false,                                  // optional
+  html: xfalse,                                  // optional
+  scheduledAt: ""                                // optional
+)
+```
+{% /multicode %}
+
+
+# Schedule emails {% #schedule-emails %}
+To send a scheduled email, you can call the `createEmail` endpoint with `status` set to `'scheduled'` and `schedule` as a ISO 8601 date time string for the scheduled time.
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',            // messageId
+        '<SUBJECT>',               // subject
+        '<CONTENT>',               // content
+        [],                        // topics (optional)
+        [],                        // users (optional)
+        [],                        // targets (optional)
+        [],                        // cc (optional)
+        [],                        // bcc (optional)
+        false,                     // draft (optional)
+        false,                     // html (optional)
+        '2025-02-13T22:01:00+0000' // scheduledAt (optional)
+    );
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message - await messaging.createEmail(
+        '<MESSAGE_ID>',            // messageId
+        '<SUBJECT>',               // subject
+        '<CONTENT>',               // content
+        [],                        // topics (optional)
+        [],                        // users (optional)
+        [],                        // targets (optional)
+        [],                        // cc (optional)
+        [],                        // bcc (optional)
+        false,                     // draft (optional)
+        false,                     // html (optional)
+        '2025-02-13T22:01:00+0000' // scheduledAt (optional)
+    );
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                  // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2')  // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createEmail( 
+    messageId: '<MESSAGE_ID>', 
+    subject: '<SUBJECT>', 
+    content: '<CONTENT>', 
+    topics: [],       // optional
+    users: [],        // optional
+    targets: [],      // optional
+    cc: [],           // optional
+    bcc: [],          // optional
+    draft: false,     // optional
+    html: false,      // optional
+    scheduledAt: '2025-02-13T22:01:00+0000'
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_email( 
+    message_id = '<MESSAGE_ID>', 
+    subject = '<SUBJECT>', 
+    content = '<CONTENT>', 
+    topics = [],                # optional
+    users = [],                 # optional
+    targets = [],               # optional
+    cc = [],                    # optional
+    bcc = [],                   # optional
+    draft = False,              # optional
+    html = False,               # optional
+    scheduled_at = '2025-02-13T22:01:00+0000'
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                 # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_email(
+    message_id: '<MESSAGE_ID>', 
+    subject: '<SUBJECT>', 
+    content: '<CONTENT>', 
+    topics: [],        # optional
+    users: [],         # optional
+    targets: [],       # optional
+    cc: [],            # optional
+    bcc: [],           # optional
+    draft: false,      # optional
+    html: false,       # optional
+    scheduled_at: '2025-02-13T22:01:00+0000'    
+)
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                 // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2");// Your secret API key
+
+var messaging = new Messaging(client);
+
+Message result = await messaging.CreateEmail(
+    messageId: "<MESSAGE_ID>",
+    subject: "<SUBJECT>",
+    content: "<CONTENT>"    
+    topics: new List<string> {}    // optional    
+    users: new List<string> {}     // optional    
+    targets: new List<string> {}   // optional    
+    cc: new List<string> {}        // optional    
+    bcc: new List<string> {}       // optional    
+    draft: false                   // optional    
+    html: false                    // optional    
+    scheduledAt: "2025-02-13T22:01:00+0000");     // optional
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() {                                          // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    cc: [],             // optional
+    bcc: [],            // optional
+    draft: false,       // optional
+    html: false,        // optional
+    scheduledAt: '2025-02-13T22:01:00+0000',     
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                       // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");      // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",  // messageId
+    "<SUBJECT>",     // subject
+    "<CONTENT>",     // content
+    listOf(),        // topics (optional)
+    listOf(),        // users (optional)
+    listOf(),        // targets (optional)
+    listOf(),        // cc (optional)
+    listOf(),        // bcc (optional)
+    false,           // draft (optional)
+    false,           // html (optional)
+    "2025-02-13T22:01:00+0000"      // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");// Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",    // messageId
+    "<SUBJECT>",       // subject
+    "<CONTENT>",       // content
+    listOf(),          // topics (optional)
+    listOf(),          // users (optional)
+    listOf(),          // targets (optional)
+    listOf(),          // cc (optional)
+    listOf(),          // bcc (optional)
+    false,             // draft (optional)
+    false,             // html (optional)
+    "2025-02-13T22:01:00+0000"                         
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let messaging = Messaging(client)
+
+let message = try await messaging.createEmail(
+  messageId: "<MESSAGE_ID>",
+  subject: "<SUBJECT>",
+  content: "<CONTENT>",
+  topics: [],           // optional
+  users: [],            // optional
+  targets: [],          // optional
+  cc: [],               // optional
+  bcc: [],              // optional
+  draft: false,         // optional
+  html: xfalse,         // optional
+  scheduledAt: "2025-02-13T22:01:00+0000"   
+)
+```
+{% /multicode %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Send email messages"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can send custom email messages to your app's users using Clikkle Messaging and a connected SMTP service."," ","This guide takes you through the implementation path of adding email messaging to your app."]}],["$","$Le",null,{"id":"add-a-provider","level":1,"children":"Add a provider "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle supports ",["$","$Lf",null,{"href":"/docs/products/messaging/mailgun/","children":"Mailgun"}]," and ",["$","$Lf",null,{"href":"/docs/products/messaging/sendgrid/","children":"Sendgrid"}]," as"," ","SMTP providers. You must configure one of them as a provider."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/providers/mailgun/dark/add-mailgun.png","alt":"Add a SMTP provider","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/providers/mailgun/add-mailgun.png","alt":"Add a SMTP provider","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To add a new provider navigate to ",["$","strong",null,{"children":"Messaging"}]," > ",["$","strong",null,{"children":"Providers"}]," > ",["$","span",null,{"className":"icon-plus","style":{"fontSize":"20px"}}]," ",["$","strong",null,{"children":"Add provider"}]," > ",["$","strong",null,{"children":"Email"}]," ","and follow the wizard. You can find more details about configuring in the provider guides for"," ",["$","$Lf",null,{"href":"/docs/products/messaging/mailgun#configure-provider","children":"Mailgun"}]," and ",["$","$Lf",null,{"href":"/docs/products/messaging/sendgrid#configure-provider","children":"Sendgrid"}],"."]}],["$","$Le",null,{"id":"add-targets","level":1,"children":"Add targets "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In Clikkle Messaging, each user has ",["$","strong",null,{"children":"targets"}]," like their email, phone number, and devices with your app installed."," ","You can deliver messages to users through their ",["$","strong",null,{"children":"targets"}],"."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/targets/dark/target-overview.png","alt":"Target overview","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/targets/target-overview.png","alt":"Target overview","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the user signed up with email and password, their account would already have email as a target."," ","During development, you can add targets to existing accounts by navigating to ","$L10"," > ","$L11"," > ","$L12"," > ","$L13"," > ","$L14","."]}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]]}],"$L26"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L27",null,{"items":[{"id":"add-a-provider","title":"Add a provider","level":1},{"id":"add-targets","title":"Add targets","level":1},{"id":"create-topics","title":"Create topics (optional)","level":1},{"id":"send-emails","title":"Send emails","level":1},{"id":"schedule-emails","title":"Schedule emails","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L28",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+10:["$","strong",null,{"children":"Authentication"}]
+11:["$","strong",null,{"children":"Users"}]
+12:["$","strong",null,{"children":"Select a user"}]
+13:["$","strong",null,{"children":"Targets"}]
+14:["$","strong",null,{"children":"Add a subscriber"}]
+15:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/targets/dark/add-targets.png","alt":"Add a target","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+16:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/targets/add-targets.png","alt":"Add a target","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also implement forms in your app to collect contact information and add it as a target with the ",["$","$Lf",null,{"href":"/docs/references/cloud/server-nodejs/users#createTarget","children":"createTarget"}]," endpoint."]}]
+18:["$","$L2b",null,{"children":[["$","$L2c",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2');                  // Your secret API key\n\nconst users = new sdk.Users(client);\n\nconst target = await users.createTarget(\n    '<USER_ID>',                     // userId\n    '<TARGET_ID>',                   // targetId\n    sdk.MessagingProviderType.Email, // providerType\n    '<IDENTIFIER>',                  // identifier\n    '<PROVIDER_ID>',                 // providerId (optional)\n    '<NAME>'                         // name (optional)\n);\n","children":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    .setProject('<PROJECT_ID>')                  // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2');                  // Your secret API key\n\nconst users = new sdk.Users(client);\n\nconst target = await users.createTarget(\n    '<USER_ID>',                     // userId\n    '<TARGET_ID>',                   // targetId\n    sdk.MessagingProviderType.Email, // providerType\n    '<IDENTIFIER>',                  // identifier\n    '<PROVIDER_ID>',                 // providerId (optional)\n    '<NAME>'                         // name (optional)\n);\n"}],["$","$L2c",null,{"language":"deno","content":"import * as sdk from \"npm:node-clikkle\";\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                    // Your project ID\n    .setJWT('eyJhbVCJ9.eyJ...');                    // Your secret JSON Web Token\n\nconst users = new sdk.Users(client);\n\nconst target = await users.createTarget(\n    '<USER_ID>',                     // userId\n    '<TARGET_ID>',                   // targetId\n    sdk.MessagingProviderType.Email, // providerType\n    '<IDENTIFIER>',                  // identifier\n    '<PROVIDER_ID>',                 // providerId (optional)\n    '<NAME>'                         // name (optional)\n);\n","children":"import * as sdk from \"npm:node-clikkle\";\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint\n    .setProject('<PROJECT_ID>')                    // Your project ID\n    .setJWT('eyJhbVCJ9.eyJ...');                    // Your secret JSON Web Token\n\nconst users = new sdk.Users(client);\n\nconst target = await users.createTarget(\n    '<USER_ID>',                     // userId\n    '<TARGET_ID>',                   // targetId\n    sdk.MessagingProviderType.Email, // providerType\n    '<IDENTIFIER>',                  // identifier\n    '<PROVIDER_ID>',                 // providerId (optional)\n    '<NAME>'                         // name (optional)\n);\n"}],["$","$L2c",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Users;\nuse Clikkle\\Enums\\MessagingProviderType;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                  // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2'); // Your secret API key\n\n$users = new Users($client);\n\n$target = $users->createTarget(\n    userId: '<USER_ID>',\n    targetId: '<TARGET_ID>',\n    providerType: MessagingProviderType::EMAIL(),\n    identifier: '<IDENTIFIER>',\n    providerId: '<PROVIDER_ID>',    // optional\n    name: '<NAME>'                  // optional\n);\n","children":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Users;\nuse Clikkle\\Enums\\MessagingProviderType;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                  // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2'); // Your secret API key\n\n$users = new Users($client);\n\n$target = $users->createTarget(\n    userId: '<USER_ID>',\n    targetId: '<TARGET_ID>',\n    providerType: MessagingProviderType::EMAIL(),\n    identifier: '<IDENTIFIER>',\n    providerId: '<PROVIDER_ID>',    // optional\n    name: '<NAME>'                  // optional\n);\n"}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33"]}]
+19:["$","$Le",null,{"id":"create-topics","level":1,"children":"Create topics (optional) "}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can use topics to organize targets that should receive the same messages, so you can send emails to groups of targets instead of one at time."," ","This step is optional if you plan to only send emails to individual targets."]}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To create a topic in the Clikkle Console, navigate to ",["$","strong",null,{"children":"Messaging"}]," > ",["$","strong",null,{"children":"Topics"}]," > ",["$","span",null,{"className":"icon-plus","style":{"fontSize":"20px"}}]," ",["$","strong",null,{"children":"Create topic"}],"."]}]
+1c:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/topics/dark/create-topics.png","alt":"Add a target","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+1d:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/topics/create-topics.png","alt":"Add a target","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+1e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also create topics programmatically using an ",["$","$Lf",null,{"href":"/docs/references/cloud/server-nodejs/messaging#createTopic","children":"Clikkle Server SDK"}],"."]}]
+1f:["$","$L2b",null,{"children":[["$","$L2c",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst topic = await messaging.createTopic(\n        '<TOPIC_ID>',                            // topicId\n        '<NAME>'                                 // name\n    );\n","children":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst topic = await messaging.createTopic(\n        '<TOPIC_ID>',                            // topicId\n        '<NAME>'                                 // name\n    );\n"}],["$","$L2c",null,{"language":"deno","content":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst topic = await messaging.createTopic(\n        '<TOPIC_ID>',                            // topicId\n        '<NAME>'                                 // name\n    );\n","children":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst topic = await messaging.createTopic(\n        '<TOPIC_ID>',                            // topicId\n        '<NAME>'                                 // name\n    );\n"}],["$","$L2c",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                 // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createTopic(\n    topicId: '<TOPIC_ID>',\n    name: '<NAME>'\n);\n","children":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                 // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createTopic(\n    topicId: '<TOPIC_ID>',\n    name: '<NAME>'\n);\n"}],["$","$L2c",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_topic(\n    topic_id = '<TOPIC_ID>',\n    name = '<NAME>'\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_topic(\n    topic_id = '<TOPIC_ID>',\n    name = '<NAME>'\n)\n"}],"$L34","$L35","$L36","$L37","$L38","$L39"]}]
+20:["$","$Le",null,{"id":"send-emails","level":1,"children":"Send emails "}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can send emails using a Server SDK."," ","To send an email immediately, you can call the ",["$","code",null,{"children":"createEmail"}]," endpoint with ",["$","code",null,{"children":"schedule"}]," left empty."]}]
+3a:T4c5,const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        [],                                      // attachments (optional)
+        false,                                   // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+3b:T4c5,const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        [],                                      // attachments (optional)
+        false,                                   // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+3c:T4c5,import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        [],                                      // attachments (optional)
+        false,                                   // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+3d:T4c5,import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const message = await messaging.createEmail(
+        '<MESSAGE_ID>',                          // messageId
+        '<SUBJECT>',                             // subject
+        '<CONTENT>',                             // content
+        [],                                      // topics (optional)
+        [],                                      // users (optional)
+        [],                                      // targets (optional)
+        [],                                      // cc (optional)
+        [],                                      // bcc (optional)
+        [],                                      // attachments (optional)
+        false,                                   // draft (optional)
+        false,                                   // html (optional)
+        ''                                       // scheduledAt (optional)
+    );
+22:["$","$L2b",null,{"children":[["$","$L2c",null,{"language":"server-nodejs","content":"$3a","children":"$3b"}],["$","$L2c",null,{"language":"deno","content":"$3c","children":"$3d"}],"$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45"]}]
+23:["$","$Le",null,{"id":"schedule-emails","level":1,"children":"Schedule emails "}]
+24:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To send a scheduled email, you can call the ",["$","code",null,{"children":"createEmail"}]," endpoint with ",["$","code",null,{"children":"status"}]," set to ",["$","code",null,{"children":"'scheduled'"}]," and ",["$","code",null,{"children":"schedule"}]," as a ISO 8601 date time string for the scheduled time."]}]
+25:["$","$L2b",null,{"children":[["$","$L2c",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst message = await messaging.createEmail(\n        '<MESSAGE_ID>',            // messageId\n        '<SUBJECT>',               // subject\n        '<CONTENT>',               // content\n        [],                        // topics (optional)\n        [],                        // users (optional)\n        [],                        // targets (optional)\n        [],                        // cc (optional)\n        [],                        // bcc (optional)\n        false,                     // draft (optional)\n        false,                     // html (optional)\n        '2025-02-13T22:01:00+0000' // scheduledAt (optional)\n    );\n","children":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst message = await messaging.createEmail(\n        '<MESSAGE_ID>',            // messageId\n        '<SUBJECT>',               // subject\n        '<CONTENT>',               // content\n        [],                        // topics (optional)\n        [],                        // users (optional)\n        [],                        // targets (optional)\n        [],                        // cc (optional)\n        [],                        // bcc (optional)\n        false,                     // draft (optional)\n        false,                     // html (optional)\n        '2025-02-13T22:01:00+0000' // scheduledAt (optional)\n    );\n"}],["$","$L2c",null,{"language":"deno","content":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst message - await messaging.createEmail(\n        '<MESSAGE_ID>',            // messageId\n        '<SUBJECT>',               // subject\n        '<CONTENT>',               // content\n        [],                        // topics (optional)\n        [],                        // users (optional)\n        [],                        // targets (optional)\n        [],                        // cc (optional)\n        [],                        // bcc (optional)\n        false,                     // draft (optional)\n        false,                     // html (optional)\n        '2025-02-13T22:01:00+0000' // scheduledAt (optional)\n    );\n","children":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet messaging = new sdk.Messaging(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst message - await messaging.createEmail(\n        '<MESSAGE_ID>',            // messageId\n        '<SUBJECT>',               // subject\n        '<CONTENT>',               // content\n        [],                        // topics (optional)\n        [],                        // users (optional)\n        [],                        // targets (optional)\n        [],                        // cc (optional)\n        [],                        // bcc (optional)\n        false,                     // draft (optional)\n        false,                     // html (optional)\n        '2025-02-13T22:01:00+0000' // scheduledAt (optional)\n    );\n"}],"$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d"]}]
+26:["$","$L4e",null,{}]
+2a:null
+2d:["$","$L2c",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.enums import MessagingProviderType\n\nclient = Client()\nclient.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\nclient.set_project('<PROJECT_ID>')                 # Your project ID\nclient.set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nusers = Users(client)\n\ntarget = users.create_target(\n    user_id = '<USER_ID>',\n    target_id = '<TARGET_ID>',\n    provider_type = MessagingProviderType.EMAIL,\n    identifier = '<IDENTIFIER>',\n    provider_id = '<PROVIDER_ID>', # optional\n    name = '<NAME>' # optional\n)\n","children":"from clikkle.client import Client\nfrom clikkle.enums import MessagingProviderType\n\nclient = Client()\nclient.set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\nclient.set_project('<PROJECT_ID>')                 # Your project ID\nclient.set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nusers = Users(client)\n\ntarget = users.create_target(\n    user_id = '<USER_ID>',\n    target_id = '<TARGET_ID>',\n    provider_type = MessagingProviderType.EMAIL,\n    identifier = '<IDENTIFIER>',\n    provider_id = '<PROVIDER_ID>', # optional\n    name = '<NAME>' # optional\n)\n"}]
+2e:["$","$L2c",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\ninclude Clikkle::Enums\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint\n    .set_project('<PROJECT_ID>')                   # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2')   # Your secret API key\n\nusers = Users.new(client)\n\ntarget = users.create_target(\n    user_id: '<USER_ID>',\n    target_id: '<TARGET_ID>',\n    provider_type: MessagingProviderType::EMAIL,\n    identifier: '<IDENTIFIER>',\n    provider_id: '<PROVIDER_ID>',   # optional\n    name: '<NAME>'                  # optional\n)\n\nputs target.inspect\n","children":"require 'clikkle'\n\ninclude Clikkle\ninclude Clikkle::Enums\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint\n    .set_project('<PROJECT_ID>')                   # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2')   # Your secret API key\n\nusers = Users.new(client)\n\ntarget = users.create_target(\n    user_id: '<USER_ID>',\n    target_id: '<TARGET_ID>',\n    provider_type: MessagingProviderType::EMAIL,\n    identifier: '<IDENTIFIER>',\n    provider_id: '<PROVIDER_ID>',   # optional\n    name: '<NAME>'                  # optional\n)\n\nputs target.inspect\n"}]
+2f:["$","$L2c",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\nusing Clikkle.Enums;\n\nClient client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\")  // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nUsers users = new Users(client);\n\nTarget target = await users.CreateTarget(\n    userId: \"<USER_ID>\",\n    targetId: \"<TARGET_ID>\",\n    providerType: MessagingProviderType.Email,\n    identifier: \"<IDENTIFIER>\",\n    providerId: \"<PROVIDER_ID>\",  // optional\n    name: \"<NAME>\"                // optional\n);\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\nusing Clikkle.Enums;\n\nClient client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\")  // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nUsers users = new Users(client);\n\nTarget target = await users.CreateTarget(\n    userId: \"<USER_ID>\",\n    targetId: \"<TARGET_ID>\",\n    providerType: MessagingProviderType.Email,\n    identifier: \"<IDENTIFIER>\",\n    providerId: \"<PROVIDER_ID>\",  // optional\n    name: \"<NAME>\"                // optional\n);\n"}]
+30:["$","$L2c",null,{"language":"dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\nimport 'package:dart_clikkle/enums.dart';\nimport 'package:dart_clikkle/models.dart';\n\nClient client = Client()\n  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n  .setProject('<PROJECT_ID>')                  // Your project ID\n  .setKey('919c2d18fb5d4...a2ae413da83346ad2'); // Your secret API key\n\nUsers users = Users(client);\n\nfinal target = await users.createTarget(\n  userId: '<USER_ID>',\n  targetId: '<TARGET_ID>',\n  providerType:  MessagingProviderType.email,\n  identifier: '<IDENTIFIER>',\n  providerId: '<PROVIDER_ID>',  // (optional)\n  name: '<NAME>',               // (optional)\n);\n\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\nimport 'package:dart_clikkle/enums.dart';\nimport 'package:dart_clikkle/models.dart';\n\nClient client = Client()\n  .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n  .setProject('<PROJECT_ID>')                  // Your project ID\n  .setKey('919c2d18fb5d4...a2ae413da83346ad2'); // Your secret API key\n\nUsers users = Users(client);\n\nfinal target = await users.createTarget(\n  userId: '<USER_ID>',\n  targetId: '<TARGET_ID>',\n  providerType:  MessagingProviderType.email,\n  identifier: '<IDENTIFIER>',\n  providerId: '<PROVIDER_ID>',  // (optional)\n  name: '<NAME>',               // (optional)\n);\n\n"}]
+31:["$","$L2c",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.coroutines.CoroutineCallback\nimport io.clikkle.services.Users\nimport io.clikkle.enums.MessagingProviderType\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nval users = Users(client)\n\nval target = users.createTarget(\n    userId = \"<USER_ID>\",\n    targetId = \"<TARGET_ID>\",\n    providerType =  MessagingProviderType.EMAIL,\n    identifier = \"<IDENTIFIER>\",\n    providerId = \"<PROVIDER_ID>\",   // optional\n    name = \"<NAME>\"                 // optional\n)\n\n","children":"import io.clikkle.Client\nimport io.clikkle.coroutines.CoroutineCallback\nimport io.clikkle.services.Users\nimport io.clikkle.enums.MessagingProviderType\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nval users = Users(client)\n\nval target = users.createTarget(\n    userId = \"<USER_ID>\",\n    targetId = \"<TARGET_ID>\",\n    providerType =  MessagingProviderType.EMAIL,\n    identifier = \"<IDENTIFIER>\",\n    providerId = \"<PROVIDER_ID>\",   // optional\n    name = \"<NAME>\"                 // optional\n)\n\n"}]
+32:["$","$L2c",null,{"language":"java","content":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Users;\nimport io.clikkle.enums.MessagingProviderType;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")  // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nUsers users = new Users(client);\n\nusers.createTarget(\n    \"<USER_ID>\",                    // userId\n    \"<TARGET_ID>\",                  // targetId\n    MessagingProviderType.EMAIL,    // providerType\n    \"<IDENTIFIER>\",                 // identifier\n    \"<PROVIDER_ID>\",                // providerId (optional)\n    \"<NAME>\",                       // name (optional)\n    new CoroutineCallback<>((target, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(target);\n    })\n);\n","children":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Users;\nimport io.clikkle.enums.MessagingProviderType;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")  // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nUsers users = new Users(client);\n\nusers.createTarget(\n    \"<USER_ID>\",                    // userId\n    \"<TARGET_ID>\",                  // targetId\n    MessagingProviderType.EMAIL,    // providerType\n    \"<IDENTIFIER>\",                 // identifier\n    \"<PROVIDER_ID>\",                // providerId (optional)\n    \"<NAME>\",                       // name (optional)\n    new CoroutineCallback<>((target, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(target);\n    })\n);\n"}]
+33:["$","$L2c",null,{"language":"swift","content":"import Clikkle\nimport ClikkleEnums\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet users = Users(client)\n\nlet target = try await users.createTarget(\n    userId: \"<USER_ID>\",\n    targetId: \"<TARGET_ID>\",\n    providerType: .email,\n    identifier: \"<IDENTIFIER>\",\n    providerId: \"<PROVIDER_ID>\", // optional\n    name: \"<NAME>\"               // optional\n)\n","children":"import Clikkle\nimport ClikkleEnums\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet users = Users(client)\n\nlet target = try await users.createTarget(\n    userId: \"<USER_ID>\",\n    targetId: \"<TARGET_ID>\",\n    providerType: .email,\n    identifier: \"<IDENTIFIER>\",\n    providerId: \"<PROVIDER_ID>\", // optional\n    name: \"<NAME>\"               // optional\n)\n"}]
+34:["$","$L2c",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                 # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_topic(\n    topic_id: '<TOPIC_ID>',\n    name: '<NAME>'\n)\n\nputs response.inspect\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                 # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_topic(\n    topic_id: '<TOPIC_ID>',\n    name: '<NAME>'\n)\n\nputs response.inspect\n"}]
+35:["$","$L2c",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar messaging = new Messaging(client);\n\nTopic result = await messaging.CreateTopic(\n    topicId: \"<TOPIC_ID>\",\n    name: \"<NAME>\");\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar messaging = new Messaging(client);\n\nTopic result = await messaging.CreateTopic(\n    topicId: \"<TOPIC_ID>\",\n    name: \"<NAME>\");\n"}]
+36:["$","$L2c",null,{"language":"dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\nimport 'package:dart_clikkle/enums.dart';\nimport 'package:dart_clikkle/models.dart';\n\nvoid main() async {                                 // Init SDK\n  Client client = Client();\n  Messaging messaging = Messaging(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n  ;\n\n  Future result = await messaging.createTopic(\n    topicId: '<TOPIC_ID>',\n    name: '<NAME>',\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\nimport 'package:dart_clikkle/enums.dart';\nimport 'package:dart_clikkle/models.dart';\n\nvoid main() async {                                 // Init SDK\n  Client client = Client();\n  Messaging messaging = Messaging(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n  ;\n\n  Future result = await messaging.createTopic(\n    topicId: '<TOPIC_ID>',\n    name: '<NAME>',\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n"}]
+37:["$","$L2c",null,{"language":"kotlin","content":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Messaging;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nMessaging messaging = new Messaging(client);\n\nmessaging.createTopic(\n    \"<TOPIC_ID>\",                                 // topicId\n    \"<NAME>\"                                      // name\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(result);\n    })\n);\n","children":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Messaging;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nMessaging messaging = new Messaging(client);\n\nmessaging.createTopic(\n    \"<TOPIC_ID>\",                                 // topicId\n    \"<NAME>\"                                      // name\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(result);\n    })\n);\n"}]
+38:["$","$L2c",null,{"language":"java","content":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Messaging;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nMessaging messaging = new Messaging(client);\n\nmessaging.createTopic(\n    \"<TOPIC_ID>\",                                 // topicId\n    \"<NAME>\"                                      // name\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(result);\n    })\n);\n","children":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Messaging;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nMessaging messaging = new Messaging(client);\n\nmessaging.createTopic(\n    \"<TOPIC_ID>\",                                 // topicId\n    \"<NAME>\"                                      // name\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(result);\n    })\n);\n"}]
+39:["$","$L2c",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet topic = try await messaging.createTopic(\n  topicId: \"<TOPIC_ID>\",\n  name: \"<NAME>\"\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet topic = try await messaging.createTopic(\n  topicId: \"<TOPIC_ID>\",\n  name: \"<NAME>\"\n)\n"}]
+3e:["$","$L2c",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                 // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createEmail(\n    messageId: '<MESSAGE_ID>',\n    subject: '<SUBJECT>',\n    content: '<CONTENT>',\n    topics: [],                                   // optional\n    users: [],                                    // optional\n    targets: [],                                  // optional\n    cc: [],                                       // optional\n    bcc: [],                                      // optional\n    draft: false,                                 // optional\n    html: false,                                  // optional\n    scheduledAt: ''                               // optional\n);\n","children":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                 // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createEmail(\n    messageId: '<MESSAGE_ID>',\n    subject: '<SUBJECT>',\n    content: '<CONTENT>',\n    topics: [],                                   // optional\n    users: [],                                    // optional\n    targets: [],                                  // optional\n    cc: [],                                       // optional\n    bcc: [],                                      // optional\n    draft: false,                                 // optional\n    html: false,                                  // optional\n    scheduledAt: ''                               // optional\n);\n"}]
+3f:["$","$L2c",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_email(\n    message_id = '<MESSAGE_ID>',\n    subject = '<SUBJECT>',\n    content = '<CONTENT>',\n    topics = [],                                # optional\n    users = [],                                 # optional\n    targets = [],                               # optional\n    cc = [],                                    # optional\n    bcc = [],                                   # optional\n    draft = False,                              # optional\n    html = False,                               # optional\n    scheduled_at = ''                           # optional\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_email(\n    message_id = '<MESSAGE_ID>',\n    subject = '<SUBJECT>',\n    content = '<CONTENT>',\n    topics = [],                                # optional\n    users = [],                                 # optional\n    targets = [],                               # optional\n    cc = [],                                    # optional\n    bcc = [],                                   # optional\n    draft = False,                              # optional\n    html = False,                               # optional\n    scheduled_at = ''                           # optional\n)\n"}]
+40:["$","$L2c",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                 # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_email(\n    message_id: '<MESSAGE_ID>',\n    subject: '<SUBJECT>',\n    content: '<CONTENT>',\n    topics: [],                                   # optional\n    users: [],                                    # optional\n    targets: [],                                  # optional\n    cc: [],                                       # optional\n    bcc: [],                                      # optional\n    draft: false,                                 # optional\n    html: false,                                  # optional\n    scheduled_at: ''                              # optional\n)\n\nputs response.inspect\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                 # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_email(\n    message_id: '<MESSAGE_ID>',\n    subject: '<SUBJECT>',\n    content: '<CONTENT>',\n    topics: [],                                   # optional\n    users: [],                                    # optional\n    targets: [],                                  # optional\n    cc: [],                                       # optional\n    bcc: [],                                      # optional\n    draft: false,                                 # optional\n    html: false,                                  # optional\n    scheduled_at: ''                              # optional\n)\n\nputs response.inspect\n"}]
+41:["$","$L2c",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar messaging = new Messaging(client);\n\nMessage result = await messaging.CreateEmail(\n    messageId: \"<MESSAGE_ID>\",\n    subject: \"<SUBJECT>\",\n    content: \"<CONTENT>\"    \n    topics: new List<string> {}                   // optional    \n    users: new List<string> {}                    // optional    \n    targets: new List<string> {}                  // optional    \n    cc: new List<string> {}                       // optional    \n    bcc: new List<string> {}                      // optional    \n    draft: false                                  // optional    \n    html: false                                   // optional    \n    scheduledAt: \"\");                             // optional\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                  // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar messaging = new Messaging(client);\n\nMessage result = await messaging.CreateEmail(\n    messageId: \"<MESSAGE_ID>\",\n    subject: \"<SUBJECT>\",\n    content: \"<CONTENT>\"    \n    topics: new List<string> {}                   // optional    \n    users: new List<string> {}                    // optional    \n    targets: new List<string> {}                  // optional    \n    cc: new List<string> {}                       // optional    \n    bcc: new List<string> {}                      // optional    \n    draft: false                                  // optional    \n    html: false                                   // optional    \n    scheduledAt: \"\");                             // optional\n"}]
+4f:T4d5,import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() {                                    // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                  // optional
+    users: [],                                   // optional
+    targets: [],                                 // optional
+    cc: [],                                      // optional
+    bcc: [],                                     // optional
+    draft: false,                                // optional
+    html: false,                                 // optional
+    scheduledAt: '',                             // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+50:T4d5,import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() {                                    // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],                                  // optional
+    users: [],                                   // optional
+    targets: [],                                 // optional
+    cc: [],                                      // optional
+    bcc: [],                                     // optional
+    draft: false,                                // optional
+    html: false,                                 // optional
+    scheduledAt: '',                             // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+42:["$","$L2c",null,{"language":"dart","content":"$4f","children":"$50"}]
+51:T55b,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",                               // messageId
+    "<SUBJECT>",                                  // subject
+    "<CONTENT>",                                  // content
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    listOf(),                                     // cc (optional)
+    listOf(),                                     // bcc (optional)
+    false,                                        // draft (optional)
+    false,                                        // html (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+52:T55b,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",                               // messageId
+    "<SUBJECT>",                                  // subject
+    "<CONTENT>",                                  // content
+    listOf(),                                     // topics (optional)
+    listOf(),                                     // users (optional)
+    listOf(),                                     // targets (optional)
+    listOf(),                                     // cc (optional)
+    listOf(),                                     // bcc (optional)
+    false,                                        // draft (optional)
+    false,                                        // html (optional)
+    ""                                            // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+43:["$","$L2c",null,{"language":"kotlin","content":"$51","children":"$52"}]
+53:T428,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",   // messageId
+    "<SUBJECT>",      // subject
+    "<CONTENT>",      // content
+    listOf(),         // topics (optional)
+    listOf(),         // users (optional)
+    listOf(),         // targets (optional)
+    listOf(),         // cc (optional)
+    listOf(),         // bcc (optional)
+    false,            // draft (optional)
+    false,            // html (optional)
+    ""                // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+54:T428,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",   // messageId
+    "<SUBJECT>",      // subject
+    "<CONTENT>",      // content
+    listOf(),         // topics (optional)
+    listOf(),         // users (optional)
+    listOf(),         // targets (optional)
+    listOf(),         // cc (optional)
+    listOf(),         // bcc (optional)
+    false,            // draft (optional)
+    false,            // html (optional)
+    ""                // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+44:["$","$L2c",null,{"language":"java","content":"$53","children":"$54"}]
+45:["$","$L2c",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet message = try await messaging.createEmail(\n  messageId: \"<MESSAGE_ID>\",\n  subject: \"<SUBJECT>\",\n  content: \"<CONTENT>\",\n  topics: [],                                    // optional\n  users: [],                                     // optional\n  targets: [],                                   // optional\n  cc: [],                                        // optional\n  bcc: [],                                       // optional\n  draft: false,                                  // optional\n  html: xfalse,                                  // optional\n  scheduledAt: \"\"                                // optional\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet message = try await messaging.createEmail(\n  messageId: \"<MESSAGE_ID>\",\n  subject: \"<SUBJECT>\",\n  content: \"<CONTENT>\",\n  topics: [],                                    // optional\n  users: [],                                     // optional\n  targets: [],                                   // optional\n  cc: [],                                        // optional\n  bcc: [],                                       // optional\n  draft: false,                                  // optional\n  html: xfalse,                                  // optional\n  scheduledAt: \"\"                                // optional\n)\n"}]
+46:["$","$L2c",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                  // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2')  // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createEmail( \n    messageId: '<MESSAGE_ID>', \n    subject: '<SUBJECT>', \n    content: '<CONTENT>', \n    topics: [],       // optional\n    users: [],        // optional\n    targets: [],      // optional\n    cc: [],           // optional\n    bcc: [],          // optional\n    draft: false,     // optional\n    html: false,      // optional\n    scheduledAt: '2025-02-13T22:01:00+0000'\n);\n","children":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                  // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2')  // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createEmail( \n    messageId: '<MESSAGE_ID>', \n    subject: '<SUBJECT>', \n    content: '<CONTENT>', \n    topics: [],       // optional\n    users: [],        // optional\n    targets: [],      // optional\n    cc: [],           // optional\n    bcc: [],          // optional\n    draft: false,     // optional\n    html: false,      // optional\n    scheduledAt: '2025-02-13T22:01:00+0000'\n);\n"}]
+47:["$","$L2c",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_email( \n    message_id = '<MESSAGE_ID>', \n    subject = '<SUBJECT>', \n    content = '<CONTENT>', \n    topics = [],                # optional\n    users = [],                 # optional\n    targets = [],               # optional\n    cc = [],                    # optional\n    bcc = [],                   # optional\n    draft = False,              # optional\n    html = False,               # optional\n    scheduled_at = '2025-02-13T22:01:00+0000'\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_email( \n    message_id = '<MESSAGE_ID>', \n    subject = '<SUBJECT>', \n    content = '<CONTENT>', \n    topics = [],                # optional\n    users = [],                 # optional\n    targets = [],               # optional\n    cc = [],                    # optional\n    bcc = [],                   # optional\n    draft = False,              # optional\n    html = False,               # optional\n    scheduled_at = '2025-02-13T22:01:00+0000'\n)\n"}]
+48:["$","$L2c",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                 # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_email(\n    message_id: '<MESSAGE_ID>', \n    subject: '<SUBJECT>', \n    content: '<CONTENT>', \n    topics: [],        # optional\n    users: [],         # optional\n    targets: [],       # optional\n    cc: [],            # optional\n    bcc: [],           # optional\n    draft: false,      # optional\n    html: false,       # optional\n    scheduled_at: '2025-02-13T22:01:00+0000'    \n)\n\nputs response.inspect\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>')                 # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_email(\n    message_id: '<MESSAGE_ID>', \n    subject: '<SUBJECT>', \n    content: '<CONTENT>', \n    topics: [],        # optional\n    users: [],         # optional\n    targets: [],       # optional\n    cc: [],            # optional\n    bcc: [],           # optional\n    draft: false,      # optional\n    html: false,       # optional\n    scheduled_at: '2025-02-13T22:01:00+0000'    \n)\n\nputs response.inspect\n"}]
+49:["$","$L2c",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                 // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\");// Your secret API key\n\nvar messaging = new Messaging(client);\n\nMessage result = await messaging.CreateEmail(\n    messageId: \"<MESSAGE_ID>\",\n    subject: \"<SUBJECT>\",\n    content: \"<CONTENT>\"    \n    topics: new List<string> {}    // optional    \n    users: new List<string> {}     // optional    \n    targets: new List<string> {}   // optional    \n    cc: new List<string> {}        // optional    \n    bcc: new List<string> {}       // optional    \n    draft: false                   // optional    \n    html: false                    // optional    \n    scheduledAt: \"2025-02-13T22:01:00+0000\");     // optional\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                 // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\");// Your secret API key\n\nvar messaging = new Messaging(client);\n\nMessage result = await messaging.CreateEmail(\n    messageId: \"<MESSAGE_ID>\",\n    subject: \"<SUBJECT>\",\n    content: \"<CONTENT>\"    \n    topics: new List<string> {}    // optional    \n    users: new List<string> {}     // optional    \n    targets: new List<string> {}   // optional    \n    cc: new List<string> {}        // optional    \n    bcc: new List<string> {}       // optional    \n    draft: false                   // optional    \n    html: false                    // optional    \n    scheduledAt: \"2025-02-13T22:01:00+0000\");     // optional\n"}]
+55:T421,import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() {                                          // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    cc: [],             // optional
+    bcc: [],            // optional
+    draft: false,       // optional
+    html: false,        // optional
+    scheduledAt: '2025-02-13T22:01:00+0000',     
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+56:T421,import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() {                                          // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = messaging.createEmail(
+    messageId: '<MESSAGE_ID>',
+    subject: '<SUBJECT>',
+    content: '<CONTENT>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    cc: [],             // optional
+    bcc: [],            // optional
+    draft: false,       // optional
+    html: false,        // optional
+    scheduledAt: '2025-02-13T22:01:00+0000',     
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+4a:["$","$L2c",null,{"language":"dart","content":"$55","children":"$56"}]
+57:T435,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                       // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");      // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",  // messageId
+    "<SUBJECT>",     // subject
+    "<CONTENT>",     // content
+    listOf(),        // topics (optional)
+    listOf(),        // users (optional)
+    listOf(),        // targets (optional)
+    listOf(),        // cc (optional)
+    listOf(),        // bcc (optional)
+    false,           // draft (optional)
+    false,           // html (optional)
+    "2025-02-13T22:01:00+0000"      // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+58:T435,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                       // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");      // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",  // messageId
+    "<SUBJECT>",     // subject
+    "<CONTENT>",     // content
+    listOf(),        // topics (optional)
+    listOf(),        // users (optional)
+    listOf(),        // targets (optional)
+    listOf(),        // cc (optional)
+    listOf(),        // bcc (optional)
+    false,           // draft (optional)
+    false,           // html (optional)
+    "2025-02-13T22:01:00+0000"      // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+4b:["$","$L2c",null,{"language":"kotlin","content":"$57","children":"$58"}]
+59:T437,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");// Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",    // messageId
+    "<SUBJECT>",       // subject
+    "<CONTENT>",       // content
+    listOf(),          // topics (optional)
+    listOf(),          // users (optional)
+    listOf(),          // targets (optional)
+    listOf(),          // cc (optional)
+    listOf(),          // bcc (optional)
+    false,             // draft (optional)
+    false,             // html (optional)
+    "2025-02-13T22:01:00+0000"                         
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+5a:T437,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");// Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createEmail(
+    "<MESSAGE_ID>",    // messageId
+    "<SUBJECT>",       // subject
+    "<CONTENT>",       // content
+    listOf(),          // topics (optional)
+    listOf(),          // users (optional)
+    listOf(),          // targets (optional)
+    listOf(),          // cc (optional)
+    listOf(),          // bcc (optional)
+    false,             // draft (optional)
+    false,             // html (optional)
+    "2025-02-13T22:01:00+0000"                         
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+4c:["$","$L2c",null,{"language":"java","content":"$59","children":"$5a"}]
+4d:["$","$L2c",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet message = try await messaging.createEmail(\n  messageId: \"<MESSAGE_ID>\",\n  subject: \"<SUBJECT>\",\n  content: \"<CONTENT>\",\n  topics: [],           // optional\n  users: [],            // optional\n  targets: [],          // optional\n  cc: [],               // optional\n  bcc: [],              // optional\n  draft: false,         // optional\n  html: xfalse,         // optional\n  scheduledAt: \"2025-02-13T22:01:00+0000\"   \n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet message = try await messaging.createEmail(\n  messageId: \"<MESSAGE_ID>\",\n  subject: \"<SUBJECT>\",\n  content: \"<CONTENT>\",\n  topics: [],           // optional\n  users: [],            // optional\n  targets: [],          // optional\n  cc: [],               // optional\n  bcc: [],              // optional\n  draft: false,         // optional\n  html: xfalse,         // optional\n  scheduledAt: \"2025-02-13T22:01:00+0000\"   \n)\n"}]

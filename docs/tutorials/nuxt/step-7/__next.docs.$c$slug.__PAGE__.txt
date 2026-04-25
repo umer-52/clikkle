@@ -1,0 +1,382 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+c:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+5:T174b,---
+layout: tutorial
+title: Ideas page
+description: Add ideas from Clikkle database in your app.
+step: 7
+---
+
+With the methods in the `useIdeas` composable we can get some ideas to the home page for the users to interact with.
+We will use it in a form component so the logged in users can add their ideas, and in a list component to render the ten most recent ideas.
+We start with building the form.
+
+## Idea form {% #idea-form %}
+
+On the home page, the logged in users should be able to add their ideas to the Clikkle database.
+The form need a text field for filling in the title, a textarea for the description and a submit button.
+
+From the `components` directory, add the file `IdeasForm.vue` and add the following code.
+
+```vue
+<!-- components/IdeasForm.vue -->
+<script setup>
+const ideas = useIdeas();
+const user = useUserSession();
+
+const handleAddIdea = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  // Extract the values from the FormData object and add userId
+  const postIdeaData = {
+    userId: user.current.value.userId,
+    title: formData.get('title'),
+    description: formData.get('description'),
+  };
+
+  await ideas.add(postIdeaData);
+
+  form.reset(); // Clear the form
+};
+</script>
+
+<template>
+  <div>
+    <article class="container padding-0">
+      <h4 class="heading-level-4">Submit Idea</h4>
+      <form @submit.prevent="handleAddIdea" class="u-margin-block-start-16">
+        <ul class="form-list">
+          <li class="form-item">
+            <label class="label">Title</label>
+            <input
+              type="text"
+              placeholder="Title"
+              name="title"
+            />
+          </li>
+          <li class="form-item">
+            <label class="label">Description</label>
+            <textarea
+              placeholder="Description"
+              name="description"
+            />
+          </li>
+          <button class="button" aria-label="Submit idea" type="submit">
+            Submit
+          </button>
+        </ul>
+      </form>
+    </article>
+  </div>
+</template>
+```
+
+Next, add the component to the page `pages/index.vue` by auto-importing it in the `<template>` tag.
+In doing that, we need to take a moment to think about how we want to display the form to the users.
+
+Since it should only be shown to logged in user, we need to wrap it in a `<section>` that renders conditionally when the `isLoggedIn` reference in the `useUserSession` is true.
+If the requirement is not met, we show a paragraph with some information to the user instead.
+
+Add the following code to the `index.vue` page to conditionally render the form and information paragraph.
+
+Overwrite the contents of `pages/index.vue` with the following code.
+
+```vue
+<!-- pages/index.vue -->
+<script setup>
+const user = useUserSession();
+</script>
+
+<template>
+  <div class="u-max-width-650" style="margin-inline: auto;">
+    <!-- Idea form component for logged in users -->
+    <section v-if="user.current.value" class="card u-margin-32">
+      <IdeasForm />
+    </section>
+
+    <section v-else class="card u-margin-32">
+      <div class="container">
+        <p class="body-text-1" style="width: 100%;">
+          Please login to submit an idea.
+        </p>
+      </div>
+    </section>
+    <IdeasList />
+  </div>
+</template>
+<style>
+article.box {
+  background-color: hsl(var(--color-neutral-0));
+}
+</style>
+````
+
+## Ideas list {% #ideas-list %}
+Now that we can get some ideas to show, we go on to build the component for the list of ideas.
+
+Once again, we need to take a moment to think about how this component should work.
+First of all, the ideas should be visible for the users before any interaction has taken place on the page.
+To catch that moment in time when the page loads, we call our `fetch` function, that fetches the ideas in Clikkle, from the built-in `onMounted` function.
+
+Second, it's likely that a user will want to delete one of their ideas from the database.
+We help them do that by adding a delete button in the top right corner of the idea list item, but only on the ideas added by the user itself.
+
+Add the file `IdeasList` from the `components` directory and insert the following code:
+
+```vue
+<!-- components/IdeasList.vue -->
+<script setup>
+import { onMounted } from 'vue';
+
+const ideas = useIdeas();
+const user = useUserSession();
+</script>
+
+<template>
+    <section class="u-margin-32">
+      <article class="card">
+        <h4 class="heading-level-4">Latest Ideas</h4>
+        <ul class="u-margin-block-start-8">
+          <template v-if="ideas.current.value && ideas.current.value.length">
+            <li v-for="idea in ideas.current.value">
+              <div class="box">
+                <h5 class="heading-level-6">{{ idea.title }}</h5>
+                <p class="body-text-2">{{ idea.description }}</p>
+                <div class="u-position-absolute u-inset-inline-end-8 u-inset-block-start-8">
+                  <button class="button is-small is-text is-only-icon" aria-label="Remove item" v-if="user.current.value &&
+                    idea.userId === user.current.value.userId
+                    " type="button" @click="ideas.remove(idea.$id)">
+                    <span class="icon-row-remove" aria-hidden="true" />
+                  </button>
+                </div>
+              </div>
+            </li>
+          </template>
+          <template v-else>
+            <p>No ideas yet.</p>
+          </template>
+        </ul>
+      </article>
+    </section>
+  </template>
+```
+
+Return to the file `pages/index.vue` once more to import the list of ideas.
+This component should be visible to all users, so no conditional rendering neeeds to be handled.
+
+```vue
+<!-- pages/index.vue -->
+
+<template>
+  <div class="u-max-width-650" style="margin: 0 auto;">
+    <!-- ... Some skipped code -->
+    <IdeasList />
+  </div>
+</template>
+
+<!-- ... Some skipped code -->
+````
+
+Congratulations!
+You now have an ideas tracker built with Nuxt and Clikkle to use locally.
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Build an ideas tracker with Nuxt","steps":[{"step":1,"title":"Build an ideas tracker with Nuxt","href":"/docs/tutorials/nuxt/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":25},{"step":2,"title":"Create app","href":"/docs/tutorials/nuxt/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":25},{"step":3,"title":"Set up Clikkle","href":"/docs/tutorials/nuxt/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":25},{"step":4,"title":"Add authentication","href":"/docs/tutorials/nuxt/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":25},{"step":5,"title":"Add navigation","href":"/docs/tutorials/nuxt/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":25},{"step":6,"title":"Add database","href":"/docs/tutorials/nuxt/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":25},{"step":7,"title":"Ideas page","href":"/docs/tutorials/nuxt/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":25},{"step":8,"title":"Next steps","href":"/docs/tutorials/nuxt/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":25}],"currentStep":7,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:6","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+d:T53a,<!-- components/IdeasForm.vue -->
+<script setup>
+const ideas = useIdeas();
+const user = useUserSession();
+
+const handleAddIdea = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  // Extract the values from the FormData object and add userId
+  const postIdeaData = {
+    userId: user.current.value.userId,
+    title: formData.get('title'),
+    description: formData.get('description'),
+  };
+
+  await ideas.add(postIdeaData);
+
+  form.reset(); // Clear the form
+};
+</script>
+
+<template>
+  <div>
+    <article class="container padding-0">
+      <h4 class="heading-level-4">Submit Idea</h4>
+      <form @submit.prevent="handleAddIdea" class="u-margin-block-start-16">
+        <ul class="form-list">
+          <li class="form-item">
+            <label class="label">Title</label>
+            <input
+              type="text"
+              placeholder="Title"
+              name="title"
+            />
+          </li>
+          <li class="form-item">
+            <label class="label">Description</label>
+            <textarea
+              placeholder="Description"
+              name="description"
+            />
+          </li>
+          <button class="button" aria-label="Submit idea" type="submit">
+            Submit
+          </button>
+        </ul>
+      </form>
+    </article>
+  </div>
+</template>
+e:T53a,<!-- components/IdeasForm.vue -->
+<script setup>
+const ideas = useIdeas();
+const user = useUserSession();
+
+const handleAddIdea = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  // Extract the values from the FormData object and add userId
+  const postIdeaData = {
+    userId: user.current.value.userId,
+    title: formData.get('title'),
+    description: formData.get('description'),
+  };
+
+  await ideas.add(postIdeaData);
+
+  form.reset(); // Clear the form
+};
+</script>
+
+<template>
+  <div>
+    <article class="container padding-0">
+      <h4 class="heading-level-4">Submit Idea</h4>
+      <form @submit.prevent="handleAddIdea" class="u-margin-block-start-16">
+        <ul class="form-list">
+          <li class="form-item">
+            <label class="label">Title</label>
+            <input
+              type="text"
+              placeholder="Title"
+              name="title"
+            />
+          </li>
+          <li class="form-item">
+            <label class="label">Description</label>
+            <textarea
+              placeholder="Description"
+              name="description"
+            />
+          </li>
+          <button class="button" aria-label="Submit idea" type="submit">
+            Submit
+          </button>
+        </ul>
+      </form>
+    </article>
+  </div>
+</template>
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["With the methods in the ",["$","code",null,{"children":"useIdeas"}]," composable we can get some ideas to the home page for the users to interact with."," ","We will use it in a form component so the logged in users can add their ideas, and in a list component to render the ten most recent ideas."," ","We start with building the form."]}],["$","$Lb",null,{"id":"idea-form","level":2,"children":"Idea form "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["On the home page, the logged in users should be able to add their ideas to the Clikkle database."," ","The form need a text field for filling in the title, a textarea for the description and a submit button."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["From the ",["$","code",null,{"children":"components"}]," directory, add the file ",["$","code",null,{"children":"IdeasForm.vue"}]," and add the following code."]}],["$","$Lc",null,{"language":"vue","content":"$d","children":"$e"}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Next, add the component to the page ",["$","code",null,{"children":"pages/index.vue"}]," by auto-importing it in the ",["$","code",null,{"children":"<template>"}]," tag."," ","In doing that, we need to take a moment to think about how we want to display the form to the users."]}]
+10:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Since it should only be shown to logged in user, we need to wrap it in a ",["$","code",null,{"children":"<section>"}]," that renders conditionally when the ",["$","code",null,{"children":"isLoggedIn"}]," reference in the ",["$","code",null,{"children":"useUserSession"}]," is true."," ","If the requirement is not met, we show a paragraph with some information to the user instead."]}]
+11:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add the following code to the ",["$","code",null,{"children":"index.vue"}]," page to conditionally render the form and information paragraph."]}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Overwrite the contents of ",["$","code",null,{"children":"pages/index.vue"}]," with the following code."]}]
+13:["$","$Lc",null,{"language":"vue","content":"<!-- pages/index.vue -->\n<script setup>\nconst user = useUserSession();\n</script>\n\n<template>\n  <div class=\"u-max-width-650\" style=\"margin-inline: auto;\">\n    <!-- Idea form component for logged in users -->\n    <section v-if=\"user.current.value\" class=\"card u-margin-32\">\n      <IdeasForm />\n    </section>\n\n    <section v-else class=\"card u-margin-32\">\n      <div class=\"container\">\n        <p class=\"body-text-1\" style=\"width: 100%;\">\n          Please login to submit an idea.\n        </p>\n      </div>\n    </section>\n    <IdeasList />\n  </div>\n</template>\n<style>\narticle.box {\n  background-color: hsl(var(--color-neutral-0));\n}\n</style>\n","children":"<!-- pages/index.vue -->\n<script setup>\nconst user = useUserSession();\n</script>\n\n<template>\n  <div class=\"u-max-width-650\" style=\"margin-inline: auto;\">\n    <!-- Idea form component for logged in users -->\n    <section v-if=\"user.current.value\" class=\"card u-margin-32\">\n      <IdeasForm />\n    </section>\n\n    <section v-else class=\"card u-margin-32\">\n      <div class=\"container\">\n        <p class=\"body-text-1\" style=\"width: 100%;\">\n          Please login to submit an idea.\n        </p>\n      </div>\n    </section>\n    <IdeasList />\n  </div>\n</template>\n<style>\narticle.box {\n  background-color: hsl(var(--color-neutral-0));\n}\n</style>\n"}]
+14:["$","$Lb",null,{"id":"ideas-list","level":2,"children":"Ideas list "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Now that we can get some ideas to show, we go on to build the component for the list of ideas."}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Once again, we need to take a moment to think about how this component should work."," ","First of all, the ideas should be visible for the users before any interaction has taken place on the page."," ","To catch that moment in time when the page loads, we call our ",["$","code",null,{"children":"fetch"}]," function, that fetches the ideas in Clikkle, from the built-in ",["$","code",null,{"children":"onMounted"}]," function."]}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Second, it's likely that a user will want to delete one of their ideas from the database."," ","We help them do that by adding a delete button in the top right corner of the idea list item, but only on the ideas added by the user itself."]}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add the file ",["$","code",null,{"children":"IdeasList"}]," from the ",["$","code",null,{"children":"components"}]," directory and insert the following code:"]}]
+20:T50d,<!-- components/IdeasList.vue -->
+<script setup>
+import { onMounted } from 'vue';
+
+const ideas = useIdeas();
+const user = useUserSession();
+</script>
+
+<template>
+    <section class="u-margin-32">
+      <article class="card">
+        <h4 class="heading-level-4">Latest Ideas</h4>
+        <ul class="u-margin-block-start-8">
+          <template v-if="ideas.current.value && ideas.current.value.length">
+            <li v-for="idea in ideas.current.value">
+              <div class="box">
+                <h5 class="heading-level-6">{{ idea.title }}</h5>
+                <p class="body-text-2">{{ idea.description }}</p>
+                <div class="u-position-absolute u-inset-inline-end-8 u-inset-block-start-8">
+                  <button class="button is-small is-text is-only-icon" aria-label="Remove item" v-if="user.current.value &&
+                    idea.userId === user.current.value.userId
+                    " type="button" @click="ideas.remove(idea.$id)">
+                    <span class="icon-row-remove" aria-hidden="true" />
+                  </button>
+                </div>
+              </div>
+            </li>
+          </template>
+          <template v-else>
+            <p>No ideas yet.</p>
+          </template>
+        </ul>
+      </article>
+    </section>
+  </template>
+21:T50d,<!-- components/IdeasList.vue -->
+<script setup>
+import { onMounted } from 'vue';
+
+const ideas = useIdeas();
+const user = useUserSession();
+</script>
+
+<template>
+    <section class="u-margin-32">
+      <article class="card">
+        <h4 class="heading-level-4">Latest Ideas</h4>
+        <ul class="u-margin-block-start-8">
+          <template v-if="ideas.current.value && ideas.current.value.length">
+            <li v-for="idea in ideas.current.value">
+              <div class="box">
+                <h5 class="heading-level-6">{{ idea.title }}</h5>
+                <p class="body-text-2">{{ idea.description }}</p>
+                <div class="u-position-absolute u-inset-inline-end-8 u-inset-block-start-8">
+                  <button class="button is-small is-text is-only-icon" aria-label="Remove item" v-if="user.current.value &&
+                    idea.userId === user.current.value.userId
+                    " type="button" @click="ideas.remove(idea.$id)">
+                    <span class="icon-row-remove" aria-hidden="true" />
+                  </button>
+                </div>
+              </div>
+            </li>
+          </template>
+          <template v-else>
+            <p>No ideas yet.</p>
+          </template>
+        </ul>
+      </article>
+    </section>
+  </template>
+19:["$","$Lc",null,{"language":"vue","content":"$20","children":"$21"}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Return to the file ",["$","code",null,{"children":"pages/index.vue"}]," once more to import the list of ideas."," ","This component should be visible to all users, so no conditional rendering neeeds to be handled."]}]
+1b:["$","$Lc",null,{"language":"vue","content":"<!-- pages/index.vue -->\n\n<template>\n  <div class=\"u-max-width-650\" style=\"margin: 0 auto;\">\n    <!-- ... Some skipped code -->\n    <IdeasList />\n  </div>\n</template>\n\n<!-- ... Some skipped code -->\n","children":"<!-- pages/index.vue -->\n\n<template>\n  <div class=\"u-max-width-650\" style=\"margin: 0 auto;\">\n    <!-- ... Some skipped code -->\n    <IdeasList />\n  </div>\n</template>\n\n<!-- ... Some skipped code -->\n"}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Congratulations!"," ","You now have an ideas tracker built with Nuxt and Clikkle to use locally."]}]
+1f:null

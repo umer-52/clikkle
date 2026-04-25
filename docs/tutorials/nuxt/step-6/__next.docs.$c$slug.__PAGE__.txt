@@ -1,0 +1,274 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+1b:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+1f:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+20:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+5:Tf00,---
+layout: tutorial
+title: Add database
+description: Add databases and queries for ideas in your Nuxt project.
+step: 6
+---
+
+In Clikkle, data is stored as a table of rows. 
+Create a new database and table in the [Clikkle Console](https://cloud.clikkle.io/) to store the ideas.
+
+{% only_dark %}
+![Create table screen](/clikkle/images/docs/tutorials/dark/idea-tracker-table.png)
+{% /only_dark %}
+{% only_light %}
+![Create table screen](/clikkle/images/docs/tutorials/idea-tracker-table.png)
+{% /only_light %}
+
+Create a new table with the following columns:
+| Field       | Type   | Required | Size     |
+|-------------|--------|----------|----------|
+| userId      | Varchar | Yes      | 200      |
+| title       | Varchar | Yes      | 200      |
+| description | Text    | No       | -        |
+
+Change the table's permissions in the settings to give access.
+
+{% only_dark %}
+![Table permissions screen](/clikkle/images/docs/tutorials/dark/idea-tracker-permissions.png)
+{% /only_dark %}
+{% only_light %}
+![Table permissions screen](/clikkle/images/docs/tutorials/idea-tracker-permissions.png)
+{% /only_light %}
+
+Navigate to the **Settings** tab of your table, add the role **Any** and check the **Read** box.
+Next, add a **Users** role and give them access to **Create**, **Update** and **Delete** by checking those boxes.
+
+## Environment variables {% #environment-variables %}
+
+Just like when we set up the connection to Clikkle in [step 3](/docs/tutorials/nuxt/step-3), we need to keep the variables with the table id secret.
+Open the `.env` file and add your database id and your table id to it.
+
+```
+VITE_DATABASE_ID="YOUR_DATABASE_ID"
+VITE_TABLE_ID="YOUR_TABLE_ID"
+```
+
+## Query methods {% #query-methods %}
+
+Now that we have a table in the database to hold ideas, we can connect to it from our app.
+Our users should be able to read, add and remove ideas.
+We will add a new composable, `useIdeas`, to handle this functionality.
+
+Create a new file in the composables directory, `useIdeas.js` and add the following code.
+
+```ts
+// composables/useIdeas.ts
+
+import { ID, Query, Models} from "clikkle";
+import { tablesDB } from "~/clikkle";
+import { ref } from "vue";
+
+const ideasDatabaseId: string = import.meta.env.VITE_DATABASE_ID;
+const ideasTableId: string = import.meta.env.VITE_TABLE_ID;
+const queryLimit: number = 10;
+
+interface Idea extends Models.Row{
+    title: string;
+    description: string;
+    userId: string;
+}
+
+const current = ref<Idea[] | null>(null); // Reference for the fetched data
+
+export const useIdeas = () => {
+
+    // Fetch the 10 most recent ideas from the database
+    // Add the list to the current reference object
+    const fetch = async (): Promise<void> => {
+        const response = await tablesDB.listRows({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            queries: [Query.orderDesc("$createdAt"), Query.limit(queryLimit)]
+        });
+        current.value = response.rows as Idea[];
+    };
+
+    // Add new idea to the database,
+    // Change the value of the current object
+    const add = async (idea: Idea): Promise<void> => {
+        const response = await tablesDB.createRow({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            rowId: ID.unique(),
+            data: idea
+        });
+        current.value = [response, ...(current.value as Idea[])].slice(0, 10) as Idea[];
+    };
+
+    const remove = async (id: string): Promise<void> => {
+        await tablesDB.deleteRow({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            rowId: id
+        });
+        await fetch(); // Refetch ideas to ensure we have 10 items
+    };
+
+    fetch();
+
+    return {
+        add,
+        current,
+        fetch,
+        remove,
+    };
+};
+```
+
+Now we can call the `useIdeas` composable from the home page.
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Build an ideas tracker with Nuxt","steps":[{"step":1,"title":"Build an ideas tracker with Nuxt","href":"/docs/tutorials/nuxt/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":25},{"step":2,"title":"Create app","href":"/docs/tutorials/nuxt/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":25},{"step":3,"title":"Set up Clikkle","href":"/docs/tutorials/nuxt/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":25},{"step":4,"title":"Add authentication","href":"/docs/tutorials/nuxt/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":25},{"step":5,"title":"Add navigation","href":"/docs/tutorials/nuxt/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":25},{"step":6,"title":"Add database","href":"/docs/tutorials/nuxt/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":25},{"step":7,"title":"Ideas page","href":"/docs/tutorials/nuxt/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":25},{"step":8,"title":"Next steps","href":"/docs/tutorials/nuxt/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":25}],"currentStep":6,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:5","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In Clikkle, data is stored as a table of rows."," ","Create a new database and table in the ",["$","a",null,{"href":"https://cloud.clikkle.io/","children":"Clikkle Console"}]," to store the ideas."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/dark/idea-tracker-table.png","alt":"Create table screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/idea-tracker-table.png","alt":"Create table screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Create a new table with the following columns:"}],["$","$Lb",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Field"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Required"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Size"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"userId"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Varchar"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Yes"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"200"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"title"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Varchar"}]}],"$Lc","$Ld"]}],"$Le"]}]]}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+c:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Yes"}]}]
+d:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"200"}]}]
+e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"description"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Text"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"No"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"-"}]}]]}]
+f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Change the table's permissions in the settings to give access."}]
+10:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/dark/idea-tracker-permissions.png","alt":"Table permissions screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+11:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/idea-tracker-permissions.png","alt":"Table permissions screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Navigate to the ",["$","strong",null,{"children":"Settings"}]," tab of your table, add the role ",["$","strong",null,{"children":"Any"}]," and check the ",["$","strong",null,{"children":"Read"}]," box."," ","Next, add a ",["$","strong",null,{"children":"Users"}]," role and give them access to ",["$","strong",null,{"children":"Create"}],", ",["$","strong",null,{"children":"Update"}]," and ",["$","strong",null,{"children":"Delete"}]," by checking those boxes."]}]
+13:["$","$L1e",null,{"id":"environment-variables","level":2,"children":"Environment variables "}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Just like when we set up the connection to Clikkle in ",["$","$L1f",null,{"href":"/docs/tutorials/nuxt/step-3","children":"step 3"}],", we need to keep the variables with the table id secret."," ","Open the ",["$","code",null,{"children":".env"}]," file and add your database id and your table id to it."]}]
+15:["$","$L20",null,{"content":"VITE_DATABASE_ID=\"YOUR_DATABASE_ID\"\nVITE_TABLE_ID=\"YOUR_TABLE_ID\"\n","children":"VITE_DATABASE_ID=\"YOUR_DATABASE_ID\"\nVITE_TABLE_ID=\"YOUR_TABLE_ID\"\n"}]
+16:["$","$L1e",null,{"id":"query-methods","level":2,"children":"Query methods "}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now that we have a table in the database to hold ideas, we can connect to it from our app."," ","Our users should be able to read, add and remove ideas."," ","We will add a new composable, ",["$","code",null,{"children":"useIdeas"}],", to handle this functionality."]}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file in the composables directory, ",["$","code",null,{"children":"useIdeas.js"}]," and add the following code."]}]
+21:T6cf,// composables/useIdeas.ts
+
+import { ID, Query, Models} from "clikkle";
+import { tablesDB } from "~/clikkle";
+import { ref } from "vue";
+
+const ideasDatabaseId: string = import.meta.env.VITE_DATABASE_ID;
+const ideasTableId: string = import.meta.env.VITE_TABLE_ID;
+const queryLimit: number = 10;
+
+interface Idea extends Models.Row{
+    title: string;
+    description: string;
+    userId: string;
+}
+
+const current = ref<Idea[] | null>(null); // Reference for the fetched data
+
+export const useIdeas = () => {
+
+    // Fetch the 10 most recent ideas from the database
+    // Add the list to the current reference object
+    const fetch = async (): Promise<void> => {
+        const response = await tablesDB.listRows({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            queries: [Query.orderDesc("$createdAt"), Query.limit(queryLimit)]
+        });
+        current.value = response.rows as Idea[];
+    };
+
+    // Add new idea to the database,
+    // Change the value of the current object
+    const add = async (idea: Idea): Promise<void> => {
+        const response = await tablesDB.createRow({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            rowId: ID.unique(),
+            data: idea
+        });
+        current.value = [response, ...(current.value as Idea[])].slice(0, 10) as Idea[];
+    };
+
+    const remove = async (id: string): Promise<void> => {
+        await tablesDB.deleteRow({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            rowId: id
+        });
+        await fetch(); // Refetch ideas to ensure we have 10 items
+    };
+
+    fetch();
+
+    return {
+        add,
+        current,
+        fetch,
+        remove,
+    };
+};
+22:T6cf,// composables/useIdeas.ts
+
+import { ID, Query, Models} from "clikkle";
+import { tablesDB } from "~/clikkle";
+import { ref } from "vue";
+
+const ideasDatabaseId: string = import.meta.env.VITE_DATABASE_ID;
+const ideasTableId: string = import.meta.env.VITE_TABLE_ID;
+const queryLimit: number = 10;
+
+interface Idea extends Models.Row{
+    title: string;
+    description: string;
+    userId: string;
+}
+
+const current = ref<Idea[] | null>(null); // Reference for the fetched data
+
+export const useIdeas = () => {
+
+    // Fetch the 10 most recent ideas from the database
+    // Add the list to the current reference object
+    const fetch = async (): Promise<void> => {
+        const response = await tablesDB.listRows({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            queries: [Query.orderDesc("$createdAt"), Query.limit(queryLimit)]
+        });
+        current.value = response.rows as Idea[];
+    };
+
+    // Add new idea to the database,
+    // Change the value of the current object
+    const add = async (idea: Idea): Promise<void> => {
+        const response = await tablesDB.createRow({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            rowId: ID.unique(),
+            data: idea
+        });
+        current.value = [response, ...(current.value as Idea[])].slice(0, 10) as Idea[];
+    };
+
+    const remove = async (id: string): Promise<void> => {
+        await tablesDB.deleteRow({
+            databaseId: ideasDatabaseId,
+            tableId: ideasTableId,
+            rowId: id
+        });
+        await fetch(); // Refetch ideas to ensure we have 10 items
+    };
+
+    fetch();
+
+    return {
+        add,
+        current,
+        fetch,
+        remove,
+    };
+};
+19:["$","$L20",null,{"language":"ts","content":"$21","children":"$22"}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now we can call the ",["$","code",null,{"children":"useIdeas"}]," composable from the home page."]}]
+1d:null

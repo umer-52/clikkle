@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+b:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+c:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+d:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+e:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+f:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+10:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+3:T937,---
+layout: article
+title: DDoS mitigation
+description: Learn how Clikkle protects your applications from Distributed Denial-of-Service (DDoS) attacks with built-in, always-on protection for all Clikkle Cloud plans.
+---
+
+Distributed Denial-of-Service (DDoS) attacks are one of the most common threats to online applications, aimed at overwhelming servers with malicious traffic to disrupt services. Clikkle provides robust, always-on DDoS protection across all Clikkle Cloud plans to ensure the reliability and security of your applications.
+
+Clikkle's network is designed to detect and mitigate malicious traffic before it reaches your application. Using a combination of automated filtering and intelligent traffic analysis, our DDoS protection:  
+
+- Identifies and blocks large-scale attack patterns in real-time.  
+- Ensures legitimate traffic continues to flow uninterrupted.  
+- Prevents application downtime and minimizes performance impacts.
+
+# Design {% #design %}
+
+Clikkle's DDoS protection operates across multiple OSI layers to provide comprehensive coverage:  
+
+- **Network Layer (Layer 3)**: Detects and mitigates large-scale attacks such as ICMP floods and UDP amplification.  
+- **Transport Layer (Layer 4)**: Protects against attacks like SYN floods and TCP-based exploits by identifying anomalous traffic patterns.  
+- **Application Layer (Layer 7)**: Blocks high-level attacks, such as HTTP floods, by filtering malicious requests while allowing legitimate user traffic.  
+
+# Benefits {% #benefits %}
+
+- **Cost control**: Malicious traffic blocked by DDoS protection does not count towards your bandwidth or request usage, saving you from unnecessary charges.  
+- **Reliability**: Keeps your application online and responsive, even during attempted attacks.  
+- **Zero configuration**: DDoS protection is fully managed by Clikkle and requires no manual setup or maintenance. Protection is enabled by default on all Cloud plans.
+
+# Availability {% #availability %}
+
+DDoS mitigation is automatically enabled by default for all Clikkle Cloud plans, ensuring every application hosted on Clikkle benefits from this safeguard without additional costs. This includes:  
+
+This protection is integrated directly into Clikkle's console, edge and region infrastructure, providing seamless coverage without requiring additional setup from developers.
+
+4:T937,---
+layout: article
+title: DDoS mitigation
+description: Learn how Clikkle protects your applications from Distributed Denial-of-Service (DDoS) attacks with built-in, always-on protection for all Clikkle Cloud plans.
+---
+
+Distributed Denial-of-Service (DDoS) attacks are one of the most common threats to online applications, aimed at overwhelming servers with malicious traffic to disrupt services. Clikkle provides robust, always-on DDoS protection across all Clikkle Cloud plans to ensure the reliability and security of your applications.
+
+Clikkle's network is designed to detect and mitigate malicious traffic before it reaches your application. Using a combination of automated filtering and intelligent traffic analysis, our DDoS protection:  
+
+- Identifies and blocks large-scale attack patterns in real-time.  
+- Ensures legitimate traffic continues to flow uninterrupted.  
+- Prevents application downtime and minimizes performance impacts.
+
+# Design {% #design %}
+
+Clikkle's DDoS protection operates across multiple OSI layers to provide comprehensive coverage:  
+
+- **Network Layer (Layer 3)**: Detects and mitigates large-scale attacks such as ICMP floods and UDP amplification.  
+- **Transport Layer (Layer 4)**: Protects against attacks like SYN floods and TCP-based exploits by identifying anomalous traffic patterns.  
+- **Application Layer (Layer 7)**: Blocks high-level attacks, such as HTTP floods, by filtering malicious requests while allowing legitimate user traffic.  
+
+# Benefits {% #benefits %}
+
+- **Cost control**: Malicious traffic blocked by DDoS protection does not count towards your bandwidth or request usage, saving you from unnecessary charges.  
+- **Reliability**: Keeps your application online and responsive, even during attempted attacks.  
+- **Zero configuration**: DDoS protection is fully managed by Clikkle and requires no manual setup or maintenance. Protection is enabled by default on all Cloud plans.
+
+# Availability {% #availability %}
+
+DDoS mitigation is automatically enabled by default for all Clikkle Cloud plans, ensuring every application hosted on Clikkle benefits from this safeguard without additional costs. This includes:  
+
+This protection is integrated directly into Clikkle's console, edge and region infrastructure, providing seamless coverage without requiring additional setup from developers.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"DDoS mitigation"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$4","className":"ml-0"}]}]]}]]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+5:["$","$Lb",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Lc",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Distributed Denial-of-Service (DDoS) attacks are one of the most common threats to online applications, aimed at overwhelming servers with malicious traffic to disrupt services. Clikkle provides robust, always-on DDoS protection across all Clikkle Cloud plans to ensure the reliability and security of your applications."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's network is designed to detect and mitigate malicious traffic before it reaches your application. Using a combination of automated filtering and intelligent traffic analysis, our DDoS protection:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Identifies and blocks large-scale attack patterns in real-time."}],["$","li",null,{"children":"Ensures legitimate traffic continues to flow uninterrupted."}],["$","li",null,{"children":"Prevents application downtime and minimizes performance impacts."}]]}],["$","$Ld",null,{"id":"design","level":1,"children":"Design "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's DDoS protection operates across multiple OSI layers to provide comprehensive coverage:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Network Layer (Layer 3)"}],": Detects and mitigates large-scale attacks such as ICMP floods and UDP amplification."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Transport Layer (Layer 4)"}],": Protects against attacks like SYN floods and TCP-based exploits by identifying anomalous traffic patterns."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Application Layer (Layer 7)"}],": Blocks high-level attacks, such as HTTP floods, by filtering malicious requests while allowing legitimate user traffic."]}]]}],["$","$Ld",null,{"id":"benefits","level":1,"children":"Benefits "}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Cost control"}],": Malicious traffic blocked by DDoS protection does not count towards your bandwidth or request usage, saving you from unnecessary charges."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Reliability"}],": Keeps your application online and responsive, even during attempted attacks."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Zero configuration"}],": DDoS protection is fully managed by Clikkle and requires no manual setup or maintenance. Protection is enabled by default on all Cloud plans."]}]]}],["$","$Ld",null,{"id":"availability","level":1,"children":"Availability "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"DDoS mitigation is automatically enabled by default for all Clikkle Cloud plans, ensuring every application hosted on Clikkle benefits from this safeguard without additional costs. This includes:"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This protection is integrated directly into Clikkle's console, edge and region infrastructure, providing seamless coverage without requiring additional setup from developers."}]]}]}]]}],["$","$Le",null,{}]]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$Lf",null,{"items":[{"id":"design","title":"Design","level":1},{"id":"benefits","title":"Benefits","level":1},{"id":"availability","title":"Availability","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

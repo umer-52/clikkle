@@ -1,0 +1,220 @@
+# locale
+
+The Locale service allows you to customize your app based on your users' location. Using this service, you can get your users' location, IP address, list of countries and continents names, phone codes, currencies, and more. Country codes returned follow the ISO 3166-1 standard.
+
+The user service supports multiple locales. This feature allows you to fetch countries and continents information in your app language. To switch locales, all you need to do is pass the 'X-Clikkle-Locale' header or set the 'setLocale' method using any of our available SDKs. View here the list of available locales.
+
+
+## Base URL
+
+```
+https://<REGION>.cloud.appwrite.io/v1
+```
+
+## Endpoints
+
+#### Get User Locale
+
+Get the current user location based on IP. Returns an object with user country code, country name, continent name, continent code, ip address and suggested currency. You can use the locale header to get the data in a supported language.
+
+(IP Geolocation by DB-IP)
+
+**Endpoint:** `GET /locale`
+
+**Responses:**
+
+- **200**: application/json
+  - [Locale](/docs/references/1.3.x/models/locale)
+
+**Example:**
+
+```client-apple
+import Appwrite
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("5df5acd0d48c2") // Your project ID
+
+let locale = Locale(client)
+
+let locale = try await locale.get()
+
+
+```
+
+---
+
+#### List Continents
+
+List of all continents. You can use the locale header to get the data in a supported language.
+
+**Endpoint:** `GET /locale/continents`
+
+**Responses:**
+
+- **200**: application/json
+  - [Continents List](/docs/references/1.3.x/models/continentList)
+
+**Example:**
+
+```client-apple
+import Appwrite
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("5df5acd0d48c2") // Your project ID
+
+let locale = Locale(client)
+
+let continentList = try await locale.listContinents()
+
+
+```
+
+---
+
+#### List Countries
+
+List of all countries. You can use the locale header to get the data in a supported language.
+
+**Endpoint:** `GET /locale/countries`
+
+**Responses:**
+
+- **200**: application/json
+  - [Countries List](/docs/references/1.3.x/models/countryList)
+
+**Example:**
+
+```client-apple
+import Appwrite
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("5df5acd0d48c2") // Your project ID
+
+let locale = Locale(client)
+
+let countryList = try await locale.listCountries()
+
+
+```
+
+---
+
+#### List Countries Phone Codes
+
+List of all countries phone codes. You can use the locale header to get the data in a supported language.
+
+**Endpoint:** `GET /locale/countries/phones`
+
+**Responses:**
+
+- **200**: application/json
+  - [Phones List](/docs/references/1.3.x/models/phoneList)
+
+**Example:**
+
+```client-apple
+import Appwrite
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("5df5acd0d48c2") // Your project ID
+
+let locale = Locale(client)
+
+let phoneList = try await locale.listCountriesPhones()
+
+
+```
+
+---
+
+#### List Currencies
+
+List of all currencies, including currency symbol, name, plural, and decimal digits for all major and minor currencies. You can use the locale header to get the data in a supported language.
+
+**Endpoint:** `GET /locale/currencies`
+
+**Responses:**
+
+- **200**: application/json
+  - [Currencies List](/docs/references/1.3.x/models/currencyList)
+
+**Example:**
+
+```client-apple
+import Appwrite
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("5df5acd0d48c2") // Your project ID
+
+let locale = Locale(client)
+
+let currencyList = try await locale.listCurrencies()
+
+
+```
+
+---
+
+#### List EU Countries
+
+List of all countries that are currently members of the EU. You can use the locale header to get the data in a supported language.
+
+**Endpoint:** `GET /locale/countries/eu`
+
+**Responses:**
+
+- **200**: application/json
+  - [Countries List](/docs/references/1.3.x/models/countryList)
+
+**Example:**
+
+```client-apple
+import Appwrite
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("5df5acd0d48c2") // Your project ID
+
+let locale = Locale(client)
+
+let countryList = try await locale.listCountriesEU()
+
+
+```
+
+---
+
+#### List Languages
+
+List of all languages classified by ISO 639-1 including 2-letter code, name in English, and name in the respective language.
+
+**Endpoint:** `GET /locale/languages`
+
+**Responses:**
+
+- **200**: application/json
+  - [Languages List](/docs/references/1.3.x/models/languageList)
+
+**Example:**
+
+```client-apple
+import Appwrite
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.appwrite.io/v1") // Your API Endpoint
+    .setProject("5df5acd0d48c2") // Your project ID
+
+let locale = Locale(client)
+
+let languageList = try await locale.listLanguages()
+
+
+```
+
+---
+

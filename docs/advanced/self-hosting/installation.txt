@@ -1,0 +1,402 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+f:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","advanced","self-hosting","installation"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","advanced/self-hosting/installation","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],"$L7","$L8","$L9"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12","$L13","$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+16:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+17:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+18:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+20:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}]
+8:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+9:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L16",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+a:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L17",null,{"children":["$","$L18",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L19",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+1d:[]
+d:"$W1d"
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+23:T124a,﻿---
+layout: article
+title: Installation
+description: Step-by-step guide to install Clikkle using Docker. Learn how to set up a self-hosted Clikkle instance with Docker Compose on any operating system.
+---
+
+This guide will walk you through installing Clikkle on your server using Docker. Clikkle is designed to run on any operating system that supports Docker.
+
+# System requirements {% #system-requirements %}
+
+Before installing Clikkle, ensure your system meets these minimum requirements:
+
+- **2 CPU cores**
+- **4GB of RAM**
+- **2GB of swap memory**
+- **Operating system** that supports Docker
+- **Docker Compose Version 2**
+
+# Install with Docker {% #install-with-docker %}
+
+The easiest way to install Clikkle is using our Docker installer tool. This automated installer will guide you through the setup process.
+
+Before running the installation command, ensure you have [Docker CLI](https://www.docker.com/products/docker-desktop) installed on your host machine.
+
+## Installation prompts {% #installation-prompts %}
+
+During setup, you'll be prompted to configure:
+
+1. **HTTP and HTTPS ports** - Your Clikkle instance's HTTP and HTTPS ports.
+2. **Secret key** - Your Clikkle instance's secret key used to encrypt sensitive data.
+3. **Main hostname** - Your Clikkle instance's main hostname. Clikkle will generate a certificate using this hostname.
+4. **DNS A record hostname** - Usually the same as your main hostname.
+
+## Installation commands {% #installation-commands %}
+
+{% tabs %}
+{% tabsitem #unix title="macOS and Linux" %}
+Run the following command in your terminal:
+
+```bash
+docker run -it --rm \
+    --volume /var/run/docker.sock:/var/run/docker.sock \
+    --volume "$(pwd)"/clikkle:/usr/src/code/clikkle:rw \
+    --entrypoint="install" \
+    clikkle/clikkle:1.8.1
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+## CMD
+```cmd
+docker run -it --rm ^
+    --volume //var/run/docker.sock:/var/run/docker.sock ^
+    --volume "%cd%"/clikkle:/usr/src/code/clikkle:rw ^
+    --entrypoint="install" ^
+    clikkle/clikkle:1.8.1
+```
+
+## PowerShell
+```powershell
+docker run -it --rm `
+    --volume /var/run/docker.sock:/var/run/docker.sock `
+    --volume ${pwd}/clikkle:/usr/src/code/clikkle:rw `
+    --entrypoint="install" `
+    clikkle/clikkle:1.8.1
+```
+{% /tabsitem %}
+{% /tabs %}
+
+# Manual installation {% #manual-installation %}
+
+For advanced users who prefer manual setup, you can install Clikkle using Docker Compose directly.
+
+## Download configuration files {% #download-configuration %}
+
+Download the required configuration files:
+
+1. Download [`docker-compose.yml`](/install/compose)
+2. Download [`.env`](/install/env)
+3. Create a directory named `clikkle` and move both files inside
+
+## Configure environment {% #configure-environment %}
+
+Edit the `.env` file to customize your installation:
+
+- Update environment variables as needed
+- Set your desired configuration options
+- Ensure all required values are properly set
+
+## Start Clikkle {% #start-clikkle %}
+
+Once configured, start your Clikkle stack:
+
+```bash
+docker compose up -d --remove-orphans
+```
+
+# Post-installation {% #post-installation %}
+
+After installation completes:
+
+1. **Access the Console** - Navigate to your machine's hostname or IP address in your browser
+2. **Create an account** - Sign up for your Clikkle account
+3. **Create your first project** - Set up your development environment
+
+{% info title="Startup time" %}
+On non-Linux hosts, the server might take a few minutes to start after installation completes. This is normal behavior.
+{% /info %}
+
+# Managing your installation {% #managing-installation %}
+
+## Stop Clikkle {% #stop %}
+
+To stop your Clikkle containers:
+
+```bash
+docker compose stop
+```
+
+## Restart Clikkle {% #restart %}
+
+To restart your Clikkle containers:
+
+```bash
+docker compose start
+```
+
+## Uninstall Clikkle {% #uninstall %}
+
+To completely remove Clikkle and all its data:
+
+```bash
+docker compose down -v
+```
+
+{% info title="Data loss warning" %}
+The uninstall command will permanently delete all your Clikkle data. Make sure to backup any important information before running this command.
+{% /info %}
+
+# Next steps {% #next-steps %}
+
+After successfully installing Clikkle, you can:
+
+[Deploy on cloud platforms](/docs/advanced/self-hosting/platforms/aws) - Learn how to deploy on AWS, DigitalOcean, and other cloud providers
+
+[Configure services](/docs/advanced/self-hosting/configuration/email) - Set up email, SMS, storage, and other services
+
+[Production setup](/docs/advanced/self-hosting/production) - Prepare your installation for production use
+
+[Update Clikkle](/docs/advanced/self-hosting/production/updates) - Keep your installation up to date
+
+19:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L22",null,{"markdown":"$23","className":"ml-0"}]}]]}],null,"$L24"]}],"$L25","$L26"]}]}]
+28:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+29:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2a:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+2b:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+2c:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+2d:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+51:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+27:T124a,﻿---
+layout: article
+title: Installation
+description: Step-by-step guide to install Clikkle using Docker. Learn how to set up a self-hosted Clikkle instance with Docker Compose on any operating system.
+---
+
+This guide will walk you through installing Clikkle on your server using Docker. Clikkle is designed to run on any operating system that supports Docker.
+
+# System requirements {% #system-requirements %}
+
+Before installing Clikkle, ensure your system meets these minimum requirements:
+
+- **2 CPU cores**
+- **4GB of RAM**
+- **2GB of swap memory**
+- **Operating system** that supports Docker
+- **Docker Compose Version 2**
+
+# Install with Docker {% #install-with-docker %}
+
+The easiest way to install Clikkle is using our Docker installer tool. This automated installer will guide you through the setup process.
+
+Before running the installation command, ensure you have [Docker CLI](https://www.docker.com/products/docker-desktop) installed on your host machine.
+
+## Installation prompts {% #installation-prompts %}
+
+During setup, you'll be prompted to configure:
+
+1. **HTTP and HTTPS ports** - Your Clikkle instance's HTTP and HTTPS ports.
+2. **Secret key** - Your Clikkle instance's secret key used to encrypt sensitive data.
+3. **Main hostname** - Your Clikkle instance's main hostname. Clikkle will generate a certificate using this hostname.
+4. **DNS A record hostname** - Usually the same as your main hostname.
+
+## Installation commands {% #installation-commands %}
+
+{% tabs %}
+{% tabsitem #unix title="macOS and Linux" %}
+Run the following command in your terminal:
+
+```bash
+docker run -it --rm \
+    --volume /var/run/docker.sock:/var/run/docker.sock \
+    --volume "$(pwd)"/clikkle:/usr/src/code/clikkle:rw \
+    --entrypoint="install" \
+    clikkle/clikkle:1.8.1
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+## CMD
+```cmd
+docker run -it --rm ^
+    --volume //var/run/docker.sock:/var/run/docker.sock ^
+    --volume "%cd%"/clikkle:/usr/src/code/clikkle:rw ^
+    --entrypoint="install" ^
+    clikkle/clikkle:1.8.1
+```
+
+## PowerShell
+```powershell
+docker run -it --rm `
+    --volume /var/run/docker.sock:/var/run/docker.sock `
+    --volume ${pwd}/clikkle:/usr/src/code/clikkle:rw `
+    --entrypoint="install" `
+    clikkle/clikkle:1.8.1
+```
+{% /tabsitem %}
+{% /tabs %}
+
+# Manual installation {% #manual-installation %}
+
+For advanced users who prefer manual setup, you can install Clikkle using Docker Compose directly.
+
+## Download configuration files {% #download-configuration %}
+
+Download the required configuration files:
+
+1. Download [`docker-compose.yml`](/install/compose)
+2. Download [`.env`](/install/env)
+3. Create a directory named `clikkle` and move both files inside
+
+## Configure environment {% #configure-environment %}
+
+Edit the `.env` file to customize your installation:
+
+- Update environment variables as needed
+- Set your desired configuration options
+- Ensure all required values are properly set
+
+## Start Clikkle {% #start-clikkle %}
+
+Once configured, start your Clikkle stack:
+
+```bash
+docker compose up -d --remove-orphans
+```
+
+# Post-installation {% #post-installation %}
+
+After installation completes:
+
+1. **Access the Console** - Navigate to your machine's hostname or IP address in your browser
+2. **Create an account** - Sign up for your Clikkle account
+3. **Create your first project** - Set up your development environment
+
+{% info title="Startup time" %}
+On non-Linux hosts, the server might take a few minutes to start after installation completes. This is normal behavior.
+{% /info %}
+
+# Managing your installation {% #managing-installation %}
+
+## Stop Clikkle {% #stop %}
+
+To stop your Clikkle containers:
+
+```bash
+docker compose stop
+```
+
+## Restart Clikkle {% #restart %}
+
+To restart your Clikkle containers:
+
+```bash
+docker compose start
+```
+
+## Uninstall Clikkle {% #uninstall %}
+
+To completely remove Clikkle and all its data:
+
+```bash
+docker compose down -v
+```
+
+{% info title="Data loss warning" %}
+The uninstall command will permanently delete all your Clikkle data. Make sure to backup any important information before running this command.
+{% /info %}
+
+# Next steps {% #next-steps %}
+
+After successfully installing Clikkle, you can:
+
+[Deploy on cloud platforms](/docs/advanced/self-hosting/platforms/aws) - Learn how to deploy on AWS, DigitalOcean, and other cloud providers
+
+[Configure services](/docs/advanced/self-hosting/configuration/email) - Set up email, SMS, storage, and other services
+
+[Production setup](/docs/advanced/self-hosting/production) - Prepare your installation for production use
+
+[Update Clikkle](/docs/advanced/self-hosting/production/updates) - Keep your installation up to date
+
+24:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Installation"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L22",null,{"markdown":"$27","className":"ml-0"}]}]]}]
+25:["$","$L28",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L29",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This guide will walk you through installing Clikkle on your server using Docker. Clikkle is designed to run on any operating system that supports Docker."}],["$","$L2a",null,{"id":"system-requirements","level":1,"children":"System requirements "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Before installing Clikkle, ensure your system meets these minimum requirements:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["$","strong",null,{"children":"2 CPU cores"}]}],["$","li",null,{"children":["$","strong",null,{"children":"4GB of RAM"}]}],["$","li",null,{"children":["$","strong",null,{"children":"2GB of swap memory"}]}],["$","li",null,{"children":[["$","strong",null,{"children":"Operating system"}]," that supports Docker"]}],["$","li",null,{"children":["$","strong",null,{"children":"Docker Compose Version 2"}]}]]}],["$","$L2a",null,{"id":"install-with-docker","level":1,"children":"Install with Docker "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The easiest way to install Clikkle is using our Docker installer tool. This automated installer will guide you through the setup process."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before running the installation command, ensure you have ",["$","a",null,{"href":"https://www.docker.com/products/docker-desktop","target":"_blank","rel":"noopener nofollow","children":"Docker CLI"}]," installed on your host machine."]}],["$","$L2a",null,{"id":"installation-prompts","level":2,"children":"Installation prompts "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"During setup, you'll be prompted to configure:"}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":[["$","strong",null,{"children":"HTTP and HTTPS ports"}]," - Your Clikkle instance's HTTP and HTTPS ports."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Secret key"}]," - Your Clikkle instance's secret key used to encrypt sensitive data."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Main hostname"}]," - Your Clikkle instance's main hostname. Clikkle will generate a certificate using this hostname."]}],["$","li",null,{"children":[["$","strong",null,{"children":"DNS A record hostname"}]," - Usually the same as your main hostname."]}]]}],["$","$L2a",null,{"id":"installation-commands","level":2,"children":"Installation commands "}],["$","$L2b",null,{"children":[["$","$L2c",null,{"id":"unix","title":"macOS and Linux","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Run the following command in your terminal:"}],["$","$L2d",null,{"language":"bash","content":"docker run -it --rm \\\n    --volume /var/run/docker.sock:/var/run/docker.sock \\\n    --volume \"$(pwd)\"/clikkle:/usr/src/code/clikkle:rw \\\n    --entrypoint=\"install\" \\\n    clikkle/clikkle:1.8.1\n","children":"docker run -it --rm \\\n    --volume /var/run/docker.sock:/var/run/docker.sock \\\n    --volume \"$(pwd)\"/clikkle:/usr/src/code/clikkle:rw \\\n    --entrypoint=\"install\" \\\n    clikkle/clikkle:1.8.1\n"}]]}],["$","$L2c",null,{"id":"windows","title":"Windows","children":[["$","$L2a",null,{"level":2,"children":"CMD"}],["$","$L2d",null,{"language":"cmd","content":"docker run -it --rm ^\n    --volume //var/run/docker.sock:/var/run/docker.sock ^\n    --volume \"%cd%\"/clikkle:/usr/src/code/clikkle:rw ^\n    --entrypoint=\"install\" ^\n    clikkle/clikkle:1.8.1\n","children":"docker run -it --rm ^\n    --volume //var/run/docker.sock:/var/run/docker.sock ^\n    --volume \"%cd%\"/clikkle:/usr/src/code/clikkle:rw ^\n    --entrypoint=\"install\" ^\n    clikkle/clikkle:1.8.1\n"}],"$L2e","$L2f"]}]]}],"$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f"]}]}]]}],"$L50"]}]
+26:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L51",null,{"items":[{"id":"system-requirements","title":"System requirements","level":1},{"id":"install-with-docker","title":"Install with Docker","level":1},{"id":"installation-prompts","title":"Installation prompts","level":2},{"id":"installation-commands","title":"Installation commands","level":2},{"id":"cmd","title":"CMD","level":2},{"id":"powershell","title":"PowerShell","level":2},{"id":"manual-installation","title":"Manual installation","level":1},{"id":"download-configuration","title":"Download configuration files","level":2},{"id":"configure-environment","title":"Configure environment","level":2},{"id":"start-clikkle","title":"Start Clikkle","level":2},{"id":"post-installation","title":"Post-installation","level":1},{"id":"managing-installation","title":"Managing your installation","level":1},{"id":"stop","title":"Stop Clikkle","level":2},{"id":"restart","title":"Restart Clikkle","level":2},{"id":"uninstall","title":"Uninstall Clikkle","level":2},{"id":"next-steps","title":"Next steps","level":1}]}]}]
+52:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2e:["$","$L2a",null,{"level":2,"children":"PowerShell"}]
+2f:["$","$L2d",null,{"language":"powershell","content":"docker run -it --rm `\n    --volume /var/run/docker.sock:/var/run/docker.sock `\n    --volume ${pwd}/clikkle:/usr/src/code/clikkle:rw `\n    --entrypoint=\"install\" `\n    clikkle/clikkle:1.8.1\n","children":"docker run -it --rm `\n    --volume /var/run/docker.sock:/var/run/docker.sock `\n    --volume ${pwd}/clikkle:/usr/src/code/clikkle:rw `\n    --entrypoint=\"install\" `\n    clikkle/clikkle:1.8.1\n"}]
+30:["$","$L2a",null,{"id":"manual-installation","level":1,"children":"Manual installation "}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For advanced users who prefer manual setup, you can install Clikkle using Docker Compose directly."}]
+32:["$","$L2a",null,{"id":"download-configuration","level":2,"children":"Download configuration files "}]
+33:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Download the required configuration files:"}]
+34:["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["Download ",["$","$L16",null,{"href":"/install/compose","children":["$","code",null,{"children":"docker-compose.yml"}]}]]}],["$","li",null,{"children":["Download ",["$","$L16",null,{"href":"/install/env","children":["$","code",null,{"children":".env"}]}]]}],["$","li",null,{"children":["Create a directory named ",["$","code",null,{"children":"clikkle"}]," and move both files inside"]}]]}]
+35:["$","$L2a",null,{"id":"configure-environment","level":2,"children":"Configure environment "}]
+36:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Edit the ",["$","code",null,{"children":".env"}]," file to customize your installation:"]}]
+37:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Update environment variables as needed"}],["$","li",null,{"children":"Set your desired configuration options"}],["$","li",null,{"children":"Ensure all required values are properly set"}]]}]
+38:["$","$L2a",null,{"id":"start-clikkle","level":2,"children":"Start Clikkle "}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Once configured, start your Clikkle stack:"}]
+3a:["$","$L2d",null,{"language":"bash","content":"docker compose up -d --remove-orphans\n","children":"docker compose up -d --remove-orphans\n"}]
+3b:["$","$L2a",null,{"id":"post-installation","level":1,"children":"Post-installation "}]
+3c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After installation completes:"}]
+3d:["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Access the Console"}]," - Navigate to your machine's hostname or IP address in your browser"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Create an account"}]," - Sign up for your Clikkle account"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Create your first project"}]," - Set up your development environment"]}]]}]
+3e:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Startup time"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"On non-Linux hosts, the server might take a few minutes to start after installation completes. This is normal behavior."}]]}]
+3f:["$","$L2a",null,{"id":"managing-installation","level":1,"children":"Managing your installation "}]
+40:["$","$L2a",null,{"id":"stop","level":2,"children":"Stop Clikkle "}]
+41:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To stop your Clikkle containers:"}]
+42:["$","$L2d",null,{"language":"bash","content":"docker compose stop\n","children":"docker compose stop\n"}]
+43:["$","$L2a",null,{"id":"restart","level":2,"children":"Restart Clikkle "}]
+44:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To restart your Clikkle containers:"}]
+45:["$","$L2d",null,{"language":"bash","content":"docker compose start\n","children":"docker compose start\n"}]
+46:["$","$L2a",null,{"id":"uninstall","level":2,"children":"Uninstall Clikkle "}]
+47:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To completely remove Clikkle and all its data:"}]
+48:["$","$L2d",null,{"language":"bash","content":"docker compose down -v\n","children":"docker compose down -v\n"}]
+49:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Data loss warning"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The uninstall command will permanently delete all your Clikkle data. Make sure to backup any important information before running this command."}]]}]
+4a:["$","$L2a",null,{"id":"next-steps","level":1,"children":"Next steps "}]
+4b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After successfully installing Clikkle, you can:"}]
+4c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$L16",null,{"href":"/docs/advanced/self-hosting/platforms/aws","children":"Deploy on cloud platforms"}]," - Learn how to deploy on AWS, DigitalOcean, and other cloud providers"]}]
+4d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$L16",null,{"href":"/docs/advanced/self-hosting/configuration/email","children":"Configure services"}]," - Set up email, SMS, storage, and other services"]}]
+4e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$L16",null,{"href":"/docs/advanced/self-hosting/production","children":"Production setup"}]," - Prepare your installation for production use"]}]
+4f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$L16",null,{"href":"/docs/advanced/self-hosting/production/updates","children":"Update Clikkle"}]," - Keep your installation up to date"]}]
+50:["$","$L52",null,{"date":"$undefined"}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+53:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1c:null
+21:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L53","13",{}]]

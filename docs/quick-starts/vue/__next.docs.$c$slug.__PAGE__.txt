@@ -1,0 +1,431 @@
+1:"$Sreact.fragment"
+2:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+3:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+e:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+f:I[5178904,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"AiPromptBox"]
+10:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+11:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+12:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+18:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+19:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1e:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+4:Tfc2,---
+layout: article
+title: Start with Vue.js
+description: Build Vue.js apps with Clikkle and learn how to use our powerful backend to add authentication, user management, file storage, and more.
+difficulty: beginner
+readtime: 3
+back: /docs/quick-starts
+---
+
+Learn how to setup your first Vue project powered by Clikkle.
+{% section #step-1 step=1 title="Create project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add a **Web app**. The **Hostname** should be `localhost`.
+
+{% info title="Cross-Origin Resource Sharing (CORS)" %}
+Adding `localhost` as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors.
+
+Learn more in our [CORS error guide](/blog/post/cors-error).
+{% /info %}
+
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+
+{% /section %}
+{% section #step-2 step=2 title="Create Vue project" %}
+Create a Vue project.
+
+```sh
+npm init vue@latest my-app && cd my-app
+```
+{% /section %}
+{% section #step-3 step=3 title="Install Clikkle" %}
+
+Install the JavaScript Clikkle SDK.
+
+```sh
+npm install clikkle
+```
+{% /section %}
+{% section #step-4 step=4 title="Import Clikkle" %}
+Find your project's ID in the **Settings** page.
+
+{% only_dark %}
+![Project settings screen](/clikkle/images/docs/quick-starts/dark/project-id.png)
+{% /only_dark %}
+{% only_light %}
+![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
+{% /only_light %}
+
+Create a new file `src/lib/clikkle.js` and add the following code to it, replace `<PROJECT_ID>` with your project ID.
+
+```client-web
+import { Client, Account} from 'clikkle';
+
+export const client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account = new Account(client);
+export { ID } from 'clikkle';
+```
+{% /section %}
+{% section #step-5 step=5 title="Create a login page" %}
+Add the following code to `src/App.vue`.
+
+```html
+<template>
+  <div>
+    <p>
+      {{ loggedInUser ? `Logged in as ${loggedInUser.name}` : 'Not logged in' }}
+    </p>
+
+    <form>
+      <input type="email" placeholder="Email" v-model="email" />
+      <input type="password" placeholder="Password" v-model="password" />
+      <input type="text" placeholder="Name" v-model="name" />
+      <button type="button" @click="login(email, password)">Login</button>
+      <button type="button" @click="register">
+        Register
+      </button>
+      <button type="button" @click="logout">
+        Logout
+      </button>
+    </form>
+  </div>
+</template>
+
+<script setup>
+import { ref } from 'vue';
+import { account, ID } from './lib/clikkle.js';
+
+const loggedInUser = ref(null);
+const email = ref('');
+const password = ref('');
+const name = ref('');
+
+const login = async (email, password) => {
+  await account.createEmailPasswordSession({
+    email,
+    password
+  });
+  loggedInUser.value = await account.get();
+};
+
+const register = async () => {
+  await account.create({
+    userId: ID.unique(),
+    email: email.value,
+    password: password.value,
+    name: name.value
+  });
+  login(email.value, password.value);
+};
+
+const logout = async () => {
+  await account.deleteSession({
+    sessionId: 'current'
+  });
+  loggedInUser.value = null;
+};
+</script>
+```
+{% /section %}
+
+{% section #step-6 step=6 title="All set" %}
+Run your project with `npm run dev -- --open --port 3000` and open [Localhost on Port 3000](http://localhost:3000) in your browser.
+{% /section %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[["$","$L2",null,{"href":"/docs/quick-starts","className":"web-icon-button","aria-label":"Back","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-5 w-5 pr-0.5","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}]}],["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L3",null,{"markdown":"$4","className":"ml-0"}]}]]}],"$L5","$L6"]}],"$L7","$L8"]}]}],["$L9","$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+5:["$","ul",null,{"className":"web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50","children":[["$","li",null,{"children":"beginner"}],["$","li",null,{"className":"text-[var(--color-border-strong)] dark:text-white/25","aria-hidden":true,"children":"•"}],["$","li",null,{"children":[3," min"]}]]}]
+d:Tfc2,---
+layout: article
+title: Start with Vue.js
+description: Build Vue.js apps with Clikkle and learn how to use our powerful backend to add authentication, user management, file storage, and more.
+difficulty: beginner
+readtime: 3
+back: /docs/quick-starts
+---
+
+Learn how to setup your first Vue project powered by Clikkle.
+{% section #step-1 step=1 title="Create project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add a **Web app**. The **Hostname** should be `localhost`.
+
+{% info title="Cross-Origin Resource Sharing (CORS)" %}
+Adding `localhost` as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors.
+
+Learn more in our [CORS error guide](/blog/post/cors-error).
+{% /info %}
+
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+
+{% /section %}
+{% section #step-2 step=2 title="Create Vue project" %}
+Create a Vue project.
+
+```sh
+npm init vue@latest my-app && cd my-app
+```
+{% /section %}
+{% section #step-3 step=3 title="Install Clikkle" %}
+
+Install the JavaScript Clikkle SDK.
+
+```sh
+npm install clikkle
+```
+{% /section %}
+{% section #step-4 step=4 title="Import Clikkle" %}
+Find your project's ID in the **Settings** page.
+
+{% only_dark %}
+![Project settings screen](/clikkle/images/docs/quick-starts/dark/project-id.png)
+{% /only_dark %}
+{% only_light %}
+![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
+{% /only_light %}
+
+Create a new file `src/lib/clikkle.js` and add the following code to it, replace `<PROJECT_ID>` with your project ID.
+
+```client-web
+import { Client, Account} from 'clikkle';
+
+export const client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account = new Account(client);
+export { ID } from 'clikkle';
+```
+{% /section %}
+{% section #step-5 step=5 title="Create a login page" %}
+Add the following code to `src/App.vue`.
+
+```html
+<template>
+  <div>
+    <p>
+      {{ loggedInUser ? `Logged in as ${loggedInUser.name}` : 'Not logged in' }}
+    </p>
+
+    <form>
+      <input type="email" placeholder="Email" v-model="email" />
+      <input type="password" placeholder="Password" v-model="password" />
+      <input type="text" placeholder="Name" v-model="name" />
+      <button type="button" @click="login(email, password)">Login</button>
+      <button type="button" @click="register">
+        Register
+      </button>
+      <button type="button" @click="logout">
+        Logout
+      </button>
+    </form>
+  </div>
+</template>
+
+<script setup>
+import { ref } from 'vue';
+import { account, ID } from './lib/clikkle.js';
+
+const loggedInUser = ref(null);
+const email = ref('');
+const password = ref('');
+const name = ref('');
+
+const login = async (email, password) => {
+  await account.createEmailPasswordSession({
+    email,
+    password
+  });
+  loggedInUser.value = await account.get();
+};
+
+const register = async () => {
+  await account.create({
+    userId: ID.unique(),
+    email: email.value,
+    password: password.value,
+    name: name.value
+  });
+  login(email.value, password.value);
+};
+
+const logout = async () => {
+  await account.deleteSession({
+    sessionId: 'current'
+  });
+  loggedInUser.value = null;
+};
+</script>
+```
+{% /section %}
+
+{% section #step-6 step=6 title="All set" %}
+Run your project with `npm run dev -- --open --port 3000` and open [Localhost on Port 3000](http://localhost:3000) in your browser.
+{% /section %}
+
+6:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[["$","$L2",null,{"href":"/docs/quick-starts","className":"web-icon-button web-u-translate-x-negative absolute hidden size-10 items-center md:flex","aria-label":"Back","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-5 w-5 pr-0.5","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}]}],["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Start with Vue.js"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L3",null,{"markdown":"$d","className":"ml-0"}]}]]}]
+7:["$","$Le",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,["$","$Lf",null,{}],["$","$L10",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn how to setup your first Vue project powered by Clikkle."}],["$","$L11",null,{"id":"step-1","step":1,"title":"Create project","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to the ",["$","a",null,{"href":"https://cloud.clikkle.io/console","children":"Clikkle Console"}],"."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/create-project.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/create-project.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If this is your first time using Clikkle, create an account and create your first project."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then, under ",["$","strong",null,{"children":"Add a platform"}],", add a ",["$","strong",null,{"children":"Web app"}],". The ",["$","strong",null,{"children":"Hostname"}]," should be ",["$","code",null,{"children":"localhost"}],"."]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Cross-Origin Resource Sharing (CORS)"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Adding ",["$","code",null,{"children":"localhost"}]," as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Learn more in our ",["$","$L2",null,{"href":"/blog/post/cors-error","children":"CORS error guide"}],"."]}]]]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can skip optional steps."}]]}],["$","$L11",null,{"id":"step-2","step":2,"title":"Create Vue project","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Create a Vue project."}],["$","$L12",null,{"language":"sh","content":"npm init vue@latest my-app && cd my-app\n","children":"npm init vue@latest my-app && cd my-app\n"}]]}],"$L13","$L14","$L15","$L16"]}]}]]}],"$L17"]}]
+8:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L18",null,{"items":[{"id":"step-1","title":"Create project","level":2},{"id":"step-2","title":"Create Vue project","level":2},{"id":"step-3","title":"Install Clikkle","level":2},{"id":"step-4","title":"Import Clikkle","level":2},{"id":"step-5","title":"Create a login page","level":2},{"id":"step-6","title":"All set","level":2}]}]}]
+9:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+a:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+b:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+c:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+13:["$","$L11",null,{"id":"step-3","step":3,"title":"Install Clikkle","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Install the JavaScript Clikkle SDK."}],["$","$L12",null,{"language":"sh","content":"npm install clikkle\n","children":"npm install clikkle\n"}]]}]
+14:["$","$L11",null,{"id":"step-4","step":4,"title":"Import Clikkle","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Find your project's ID in the ",["$","strong",null,{"children":"Settings"}]," page."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/project-id.png","alt":"Project settings screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/project-id.png","alt":"Project settings screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file ",["$","code",null,{"children":"src/lib/clikkle.js"}]," and add the following code to it, replace ",["$","code",null,{"children":"<PROJECT_ID>"}]," with your project ID."]}],["$","$L12",null,{"language":"client-web","content":"import { Client, Account} from 'clikkle';\n\nexport const client = new Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>'); // Replace with your project ID\n\nexport const account = new Account(client);\nexport { ID } from 'clikkle';\n","children":"import { Client, Account} from 'clikkle';\n\nexport const client = new Client();\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>'); // Replace with your project ID\n\nexport const account = new Account(client);\nexport { ID } from 'clikkle';\n"}]]}]
+1c:T50e,<template>
+  <div>
+    <p>
+      {{ loggedInUser ? `Logged in as ${loggedInUser.name}` : 'Not logged in' }}
+    </p>
+
+    <form>
+      <input type="email" placeholder="Email" v-model="email" />
+      <input type="password" placeholder="Password" v-model="password" />
+      <input type="text" placeholder="Name" v-model="name" />
+      <button type="button" @click="login(email, password)">Login</button>
+      <button type="button" @click="register">
+        Register
+      </button>
+      <button type="button" @click="logout">
+        Logout
+      </button>
+    </form>
+  </div>
+</template>
+
+<script setup>
+import { ref } from 'vue';
+import { account, ID } from './lib/clikkle.js';
+
+const loggedInUser = ref(null);
+const email = ref('');
+const password = ref('');
+const name = ref('');
+
+const login = async (email, password) => {
+  await account.createEmailPasswordSession({
+    email,
+    password
+  });
+  loggedInUser.value = await account.get();
+};
+
+const register = async () => {
+  await account.create({
+    userId: ID.unique(),
+    email: email.value,
+    password: password.value,
+    name: name.value
+  });
+  login(email.value, password.value);
+};
+
+const logout = async () => {
+  await account.deleteSession({
+    sessionId: 'current'
+  });
+  loggedInUser.value = null;
+};
+</script>
+1d:T50e,<template>
+  <div>
+    <p>
+      {{ loggedInUser ? `Logged in as ${loggedInUser.name}` : 'Not logged in' }}
+    </p>
+
+    <form>
+      <input type="email" placeholder="Email" v-model="email" />
+      <input type="password" placeholder="Password" v-model="password" />
+      <input type="text" placeholder="Name" v-model="name" />
+      <button type="button" @click="login(email, password)">Login</button>
+      <button type="button" @click="register">
+        Register
+      </button>
+      <button type="button" @click="logout">
+        Logout
+      </button>
+    </form>
+  </div>
+</template>
+
+<script setup>
+import { ref } from 'vue';
+import { account, ID } from './lib/clikkle.js';
+
+const loggedInUser = ref(null);
+const email = ref('');
+const password = ref('');
+const name = ref('');
+
+const login = async (email, password) => {
+  await account.createEmailPasswordSession({
+    email,
+    password
+  });
+  loggedInUser.value = await account.get();
+};
+
+const register = async () => {
+  await account.create({
+    userId: ID.unique(),
+    email: email.value,
+    password: password.value,
+    name: name.value
+  });
+  login(email.value, password.value);
+};
+
+const logout = async () => {
+  await account.deleteSession({
+    sessionId: 'current'
+  });
+  loggedInUser.value = null;
+};
+</script>
+15:["$","$L11",null,{"id":"step-5","step":5,"title":"Create a login page","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add the following code to ",["$","code",null,{"children":"src/App.vue"}],"."]}],["$","$L12",null,{"language":"html","content":"$1c","children":"$1d"}]]}]
+16:["$","$L11",null,{"id":"step-6","step":6,"title":"All set","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Run your project with ",["$","code",null,{"children":"npm run dev -- --open --port 3000"}]," and open ",["$","a",null,{"href":"http://localhost:3000","target":"_blank","rel":"noopener nofollow","children":"Localhost on Port 3000"}]," in your browser."]}]}]
+17:["$","$L1e",null,{}]
+1b:null

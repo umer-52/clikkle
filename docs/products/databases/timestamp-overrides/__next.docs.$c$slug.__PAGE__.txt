@@ -1,0 +1,2217 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+e:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+2e:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+2f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+30:"$Sreact.suspense"
+3e:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T68de,---
+layout: article
+title: Timestamp overrides
+description: Set custom $createdAt and $updatedAt timestamps for your documents when using server SDKs.
+---
+
+When creating or updating documents, Clikkle automatically sets `$createdAt` and `$updatedAt` timestamps. However, there are scenarios where you might need to set these timestamps manually, such as when migrating data from another system or backfilling historical records.
+
+{% info title="Server SDKs required" %}
+To manually set `$createdAt` and `$updatedAt`, you must use a **server SDK** with an **API key**. These attributes can be passed inside the `data` parameter on any of the create, update, or upsert routes (single or bulk).
+{% /info %}
+
+# Setting custom timestamps {% #setting-custom-timestamps %}
+
+You can override a document's timestamps by providing ISO 8601 strings (for example, `2025-08-10T12:34:56.000Z`) in the `data` payload. If these attributes are not provided, Clikkle will set them automatically.
+
+Custom timestamps work with all document operations: create, update, upsert, and their bulk variants.
+
+## Single document operations {% #single-document-operations %}
+
+When working with individual documents, you can set custom timestamps during create, update, and upsert operations.
+
+### Create with custom timestamps {% #create-custom %}
+
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>')
+    .setKey('<API_KEY>');
+
+const databases = new sdk.Databases(client);
+
+await databases.createDocument(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    sdk.ID.unique(),
+    {
+        '$createdAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),
+        '$updatedAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),
+        // ...your attributes
+    }
+);
+```
+```server-php
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    ->setProject('<YOUR_PROJECT_ID>')
+    ->setKey('<YOUR_API_KEY>');
+
+$databases = new Databases($client);
+
+$databases->createDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    [
+        '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+        '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+        // ...your attributes
+    ]
+);
+```
+```server-swift
+import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+let customDate = isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date()
+let createdAt = isoFormatter.string(from: customDate)
+let updatedAt = isoFormatter.string(from: customDate)
+
+do {
+    let created = try await databases.createDocument(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documentId: "<DOCUMENT_ID>",
+        data: [
+            "$createdAt": createdAt,
+            "$updatedAt": updatedAt,
+            // ...your attributes
+        ]
+    )
+    print("Created:", created)
+} catch {
+    print("Create error:", error)
+}
+```
+```server-python
+from clikkle.client import Client
+from clikkle.services.databases import Databases
+from clikkle.id import ID
+from datetime import datetime, timezone
+
+client = Client()
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+client.set_project('<PROJECT_ID>')
+client.set_key('<API_KEY>')
+
+databases = Databases(client)
+
+iso = datetime(2025, 8, 10, 12, 34, 56, tzinfo=timezone.utc).isoformat()
+
+databases.create_document(
+        database_id='<DATABASE_ID>',
+        collection_id='<COLLECTION_ID>',
+        document_id=ID.unique(),
+        data={
+                '$createdAt': iso,
+                '$updatedAt': iso,
+                # ...your attributes
+        }
+)
+```
+```server-ruby
+require 'clikkle'
+require 'time'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .set_project('<YOUR_PROJECT_ID>')
+    .set_key('<YOUR_API_KEY>')
+
+databases = Databases.new(client)
+
+custom_date = Time.parse('2025-08-10T12:34:56.000Z').iso8601
+
+databases.create_document(
+    database_id: '<DATABASE_ID>',
+    collection_id: '<COLLECTION_ID>',
+    document_id: ID.unique(),
+    data: {
+        '$createdAt' => custom_date,
+        '$updatedAt' => custom_date,
+        # ...your attributes
+    }
+)
+```
+```server-dotnet
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
+
+Client client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<YOUR_PROJECT_ID>")
+    .SetKey("<YOUR_API_KEY>");
+
+Databases databases = new Databases(client);
+
+string customDate = DateTimeOffset.Parse("2025-08-10T12:34:56.000Z").ToString("O");
+
+await databases.CreateDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: ID.Unique(),
+    data: new Dictionary<string, object>
+    {
+        ["$createdAt"] = customDate,
+        ["$updatedAt"] = customDate,
+        // ...your attributes
+    }
+);
+```
+```server-dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>');
+
+Databases databases = Databases(client);
+
+String customDate = DateTime.parse('2025-08-10T12:34:56.000Z').toIso8601String();
+
+await databases.createDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: ID.unique(),
+    data: {
+        '\$createdAt': customDate,
+        '\$updatedAt': customDate,
+        // ...your attributes
+    },
+);
+```
+{% /multicode %}
+
+### Update with custom timestamps {% #update-custom %}
+
+When updating documents, you can also set a custom `$updatedAt` timestamp:
+
+{% multicode %}
+```server-nodejs
+await databases.updateDocument(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    '<DOCUMENT_ID>',
+    {
+        '$updatedAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),
+        // ...your attributes
+    }
+);
+```
+```server-php
+$databases->updateDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    [
+        '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+        // ...your attributes
+    ]
+);
+```
+```server-python
+from datetime import datetime, timezone
+
+databases.update_document(
+    database_id='<DATABASE_ID>',
+    collection_id='<COLLECTION_ID>',
+    document_id='<DOCUMENT_ID>',
+    data={
+        '$updatedAt': datetime(2025, 8, 10, 12, 34, 56, tzinfo=timezone.utc).isoformat(),
+        # ...your attributes
+    }
+)
+```
+```server-swift
+import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+let updatedAt = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+
+do {
+    let updated = try await databases.updateDocument(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documentId: "<DOCUMENT_ID>",
+        data: [
+            "$updatedAt": updatedAt,
+            // ...your attributes
+        ]
+    )
+    print("Updated:", updated)
+} catch {
+    print("Update error:", error)
+}
+```
+```server-ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .set_project('<YOUR_PROJECT_ID>')
+    .set_key('<YOUR_API_KEY>')
+
+databases = Databases.new(client)
+
+custom_date = Time.parse('<CUSTOM_DATE>').iso8601
+
+databases.update_document(
+  database_id: '<DATABASE_ID>',
+  collection_id: '<COLLECTION_ID>',
+  document_id: '<DOCUMENT_ID>',
+  data: {
+    '$updatedAt' => custom_date,
+    # ...your attributes
+  }
+)
+```
+```server-dotnet
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
+
+Client client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<YOUR_PROJECT_ID>")
+    .SetKey("<YOUR_API_KEY>");
+
+Databases databases = new Databases(client);
+
+string customDate = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+
+await databases.UpdateDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: "<DOCUMENT_ID>",
+    data: new Dictionary<string, object>
+    {
+        ["$updatedAt"] = customDate,
+        // ...your attributes
+    }
+);
+```
+```server-dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>');
+
+Databases databases = Databases(client);
+
+String customDate = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+
+await databases.updateDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: '<COLLECTION_ID>',
+  documentId: '<DOCUMENT_ID>',
+  data: {
+    '\$updatedAt': customDate,
+    // ...your attributes
+  },
+);
+```
+{% /multicode %}
+
+## Bulk operations {% #bulk-operations %}
+
+Custom timestamps also work with bulk operations, allowing you to set different timestamps for each document in the batch:
+
+### Bulk create {% #bulk-create %}
+
+{% multicode %}
+```server-nodejs
+await databases.createDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        {
+            '$id': sdk.ID.unique(),
+            '$createdAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),
+            '$updatedAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),
+            // ...your attributes
+        },
+        {
+            '$id': sdk.ID.unique(),
+            '$createdAt': new Date('2024-02-01T00:00:00.000Z').toISOString(),
+            '$updatedAt': new Date('2024-02-01T00:00:00.000Z').toISOString(),
+            // ...your attributes
+        }
+    ]
+);
+```
+```server-python
+databases.create_documents(
+        database_id='<DATABASE_ID>',
+        collection_id='<COLLECTION_ID>',
+        documents=[
+            {
+                '$id': ID.unique(),
+                '$createdAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),
+                '$updatedAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),
+                # ...your attributes
+            },
+            {
+                '$id': ID.unique(),
+                '$createdAt': datetime(2024, 2, 1, tzinfo=timezone.utc).isoformat(),
+                '$updatedAt': datetime(2024, 2, 1, tzinfo=timezone.utc).isoformat(),
+                # ...your attributes
+            }
+        ]
+)
+```
+```server-php
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    ->setProject('<YOUR_PROJECT_ID>')
+    ->setKey('<YOUR_API_KEY>');
+
+$databases = new Databases($client);
+
+$databases->createDocuments(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documents: [
+        [
+            '$id' => ID::unique(),
+            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            // ...your attributes
+        ],
+        [
+            '$id' => ID::unique(),
+            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            // ...your attributes
+        ],
+    ]
+);
+```
+```server-swift
+import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+
+let first = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+let second = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+
+do {
+    let bulkCreated = try await databases.createDocuments(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documents: [
+            [
+                "$id": ID.unique(),
+                "$createdAt": first,
+                "$updatedAt": first,
+                // ...your attributes
+            ],
+            [
+                "$id": ID.unique(),
+                "$createdAt": second,
+                "$updatedAt": second,
+                // ...your attributes
+            ]
+        ]
+    )
+    print("Bulk create:", bulkCreated)
+} catch {
+    print("Bulk create error:", error)
+}
+```
+```server-ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .set_project('<YOUR_PROJECT_ID>')
+    .set_key('<YOUR_API_KEY>')
+
+databases = Databases.new(client)
+
+first = Time.parse('<CUSTOM_DATE>').iso8601
+second = Time.parse('<CUSTOM_DATE>').iso8601
+
+databases.create_documents(
+  database_id: '<DATABASE_ID>',
+  collection_id: '<COLLECTION_ID>',
+  documents: [
+    {
+      '$id' => ID.unique(),
+      '$createdAt' => first,
+      '$updatedAt' => first,
+      # ...your attributes
+    },
+    {
+      '$id' => ID.unique(),
+      '$createdAt' => second,
+      '$updatedAt' => second,
+      # ...your attributes
+    }
+  ]
+)
+```
+```server-dotnet
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
+
+Client client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<YOUR_PROJECT_ID>")
+    .SetKey("<YOUR_API_KEY>");
+
+Databases databases = new Databases(client);
+
+string first = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+string second = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+
+await databases.CreateDocuments(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documents: new List<object>
+    {
+        new Dictionary<string, object>
+        {
+            ["$id"] = ID.Unique(),
+            ["$createdAt"] = first,
+            ["$updatedAt"] = first,
+            // ...your attributes
+        },
+        new Dictionary<string, object>
+        {
+            ["$id"] = ID.Unique(),
+            ["$createdAt"] = second,
+            ["$updatedAt"] = second,
+            // ...your attributes
+        }
+    }
+);
+```
+```server-dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>');
+
+Databases databases = Databases(client);
+
+String first = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+String second = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+
+await databases.createDocuments(
+  databaseId: '<DATABASE_ID>',
+  collectionId: '<COLLECTION_ID>',
+  documents: [
+    {
+      '\$id': ID.unique(),
+      '\$createdAt': first,
+      '\$updatedAt': first,
+      // ...your attributes
+    },
+    {
+      '\$id': ID.unique(),
+      '\$createdAt': second,
+      '\$updatedAt': second,
+      // ...your attributes
+    }
+  ],
+);
+```
+{% /multicode %}
+
+### Bulk upsert {% #bulk-upsert %}
+
+{% multicode %}
+```server-nodejs
+await databases.upsertDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        {
+            '$id': '<DOCUMENT_ID_OR_NEW_ID>',
+            '$createdAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),
+            '$updatedAt': new Date('2025-01-01T00:00:00.000Z').toISOString(),
+            // ...your attributes
+        }
+    ]
+);
+```
+```server-python
+databases.upsert_documents(
+    database_id='<DATABASE_ID>',
+    collection_id='<COLLECTION_ID>',
+    documents=[
+        {
+            '$id': '<DOCUMENT_ID_OR_NEW_ID>',
+            '$createdAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),
+            '$updatedAt': datetime(2025, 1, 1, tzinfo=timezone.utc).isoformat(),
+            # ...your attributes
+        }
+    ]
+)
+```
+```server-php
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    ->setProject('<YOUR_PROJECT_ID>')
+    ->setKey('<YOUR_API_KEY>');
+
+$databases = new Databases($client);
+
+$databases->upsertDocuments(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documents: [
+        [
+            '$id' => '<DOCUMENT_ID_OR_NEW_ID>',
+            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            // ...your attributes
+        ],
+    ]
+);
+```
+```server-swift
+import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+let createdAt = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+let updatedAt = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+
+do {
+    let bulkUpserted = try await databases.upsertDocuments(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documents: [
+            [
+                "$id": "<DOCUMENT_ID_OR_NEW_ID>",
+                "$createdAt": createdAt,
+                "$updatedAt": updatedAt,
+                // ...your attributes
+            ]
+        ]
+    )
+    print("Bulk upsert:", bulkUpserted)
+} catch {
+    print("Bulk upsert error:", error)
+}
+```
+```server-ruby
+require 'clikkle'
+require 'time'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .set_project('<YOUR_PROJECT_ID>')
+    .set_key('<YOUR_API_KEY>')
+
+databases = Databases.new(client)
+
+custom_date = Time.parse('<CUSTOM_DATE>').iso8601
+
+databases.upsert_documents(
+  database_id: '<DATABASE_ID>',
+  collection_id: '<COLLECTION_ID>',
+  documents: [
+    {
+      '$id' => '<DOCUMENT_ID_OR_NEW_ID>',
+      '$createdAt' => custom_date,
+      '$updatedAt' => custom_date,
+      # ...your attributes
+    }
+  ]
+)
+```
+```server-dotnet
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
+
+Client client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<YOUR_PROJECT_ID>")
+    .SetKey("<YOUR_API_KEY>");
+
+Databases databases = new Databases(client);
+
+string createdAt = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+string updatedAt = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+
+await databases.UpsertDocuments(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documents: new List<object>
+    {
+        new Dictionary<string, object>
+        {
+            ["$id"] = "<DOCUMENT_ID_OR_NEW_ID>",
+            ["$createdAt"] = createdAt,
+            ["$updatedAt"] = updatedAt,
+            // ...your attributes
+        }
+    }
+);
+```
+```server-dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>');
+
+Databases databases = Databases(client);
+
+String createdAt = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+String updatedAt = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+
+await databases.upsertDocuments(
+  databaseId: '<DATABASE_ID>',
+  collectionId: '<COLLECTION_ID>',
+  documents: [
+    {
+      '\$id': '<DOCUMENT_ID_OR_NEW_ID>',
+      '\$createdAt': createdAt,
+      '\$updatedAt': updatedAt,
+      // ...your attributes
+    }
+  ],
+);
+```
+{% /multicode %}
+
+# Common use cases {% #use-cases %}
+
+Custom timestamps are particularly useful in several scenarios:
+
+## Data migration {% #data-migration %}
+When migrating existing data from another system, you can preserve the original
+creation and modification times:
+
+{% multicode %}
+```server-nodejs
+await databases.createDocument(
+  '<DATABASE_ID>',
+  'blog_posts',
+  sdk.ID.unique(),
+  {
+    '$createdAt': '<ORIGINAL_CREATED_AT_ISO>',
+    '$updatedAt': '<LAST_MODIFIED_ISO>',
+    title: '<TITLE>',
+    content: '<CONTENT>'
+  }
+)
+```
+```server-php
+$databases->createDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'blog_posts',
+  documentId: ID::unique(),
+  [
+    '$createdAt' => '<ORIGINAL_CREATED_AT_ISO>',
+    '$updatedAt' => '<LAST_MODIFIED_ISO>',
+    'title' => '<TITLE>',
+    'content' => '<CONTENT>'
+  ]
+);
+```
+```server-swift
+let _ = try await databases.createDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "blog_posts",
+  documentId: ID.unique(),
+  data: [
+    "$createdAt": "<ORIGINAL_CREATED_AT_ISO>",
+    "$updatedAt": "<LAST_MODIFIED_ISO>",
+    "title": "<TITLE>",
+    "content": "<CONTENT>"
+  ]
+)
+```
+```server-python
+databases.create_document(
+  database_id='<DATABASE_ID>',
+  collection_id='blog_posts',
+  document_id=ID.unique(),
+  data={
+    '$createdAt': '<ORIGINAL_CREATED_AT_ISO>',
+    '$updatedAt': '<LAST_MODIFIED_ISO>',
+    'title': '<TITLE>',
+    'content': '<CONTENT>'
+  }
+)
+```
+```server-ruby
+databases.create_document(
+  database_id: '<DATABASE_ID>',
+  collection_id: 'blog_posts',
+  document_id: ID.unique(),
+  data: {
+    '$createdAt' => '<ORIGINAL_CREATED_AT_ISO>',
+    '$updatedAt' => '<LAST_MODIFIED_ISO>',
+    'title' => '<TITLE>',
+    'content' => '<CONTENT>'
+  }
+)
+```
+```server-dotnet
+await databases.CreateDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "blog_posts",
+  documentId: ID.Unique(),
+  data: new Dictionary<string, object>
+  {
+    ["$createdAt"] = "<ORIGINAL_CREATED_AT_ISO>",
+    ["$updatedAt"] = "<LAST_MODIFIED_ISO>",
+    ["title"] = "<TITLE>",
+    ["content"] = "<CONTENT>"
+  }
+);
+```
+```server-dart
+await databases.createDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'blog_posts',
+  documentId: ID.unique(),
+  data: {
+    '\$createdAt': '<ORIGINAL_CREATED_AT_ISO>',
+    '\$updatedAt': '<LAST_MODIFIED_ISO>',
+    'title': '<TITLE>',
+    'content': '<CONTENT>'
+  },
+);
+```
+{% /multicode %}
+
+## Backdating records {% #backdating %}
+For historical data entry or when creating records that represent past events:
+
+{% multicode %}
+```server-nodejs
+await databases.createDocument(
+  '<DATABASE_ID>',
+  'transactions',
+  sdk.ID.unique(),
+  {
+    '$createdAt': '2023-12-31T23:59:59.000Z',
+    '$updatedAt': '2023-12-31T23:59:59.000Z',
+    amount: 1000,
+    type: 'year-end-bonus'
+  }
+)
+```
+```server-php
+$databases->createDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'transactions',
+  documentId: ID::unique(),
+  [
+    '$createdAt' => '2023-12-31T23:59:59.000Z',
+    '$updatedAt' => '2023-12-31T23:59:59.000Z',
+    'amount' => 1000,
+    'type' => 'year-end-bonus'
+  ]
+);
+```
+```server-swift
+let _ = try await databases.createDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "transactions",
+  documentId: ID.unique(),
+  data: [
+    "$createdAt": "2023-12-31T23:59:59.000Z",
+    "$updatedAt": "2023-12-31T23:59:59.000Z",
+    "amount": 1000,
+    "type": "year-end-bonus"
+  ]
+)
+```
+```server-python
+databases.create_document(
+  database_id='<DATABASE_ID>',
+  collection_id='transactions',
+  document_id=ID.unique(),
+  data={
+    '$createdAt': '2023-12-31T23:59:59.000Z',
+    '$updatedAt': '2023-12-31T23:59:59.000Z',
+    'amount': 1000,
+    'type': 'year-end-bonus'
+  }
+)
+```
+```server-ruby
+databases.create_document(
+  database_id: '<DATABASE_ID>',
+  collection_id: 'transactions',
+  document_id: ID.unique(),
+  data: {
+    '$createdAt' => '2023-12-31T23:59:59.000Z',
+    '$updatedAt' => '2023-12-31T23:59:59.000Z',
+    'amount' => 1000,
+    'type' => 'year-end-bonus'
+  }
+)
+```
+```server-dotnet
+await databases.CreateDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "transactions",
+  documentId: ID.Unique(),
+  data: new Dictionary<string, object>
+  {
+    ["$createdAt"] = "2023-12-31T23:59:59.000Z",
+    ["$updatedAt"] = "2023-12-31T23:59:59.000Z",
+    ["amount"] = 1000,
+    ["type"] = "year-end-bonus"
+  }
+);
+```
+```server-dart
+await databases.createDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'transactions',
+  documentId: ID.unique(),
+  data: {
+    '\$createdAt': '2023-12-31T23:59:59.000Z',
+    '\$updatedAt': '2023-12-31T23:59:59.000Z',
+    'amount': 1000,
+    'type': 'year-end-bonus'
+  },
+);
+```
+{% /multicode %}
+
+## Synchronization {% #synchronization %}
+When synchronizing data between systems while maintaining timestamp consistency:
+
+{% multicode %}
+```server-nodejs
+await databases.upsertDocument(
+  '<DATABASE_ID>',
+  'users',
+  '<DOCUMENT_ID_OR_NEW_ID>',
+  {
+    '$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',
+    profile: '<PROFILE_DATA>'
+  }
+)
+```
+```server-php
+$databases->upsertDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'users',
+  documentId: '<DOCUMENT_ID_OR_NEW_ID>',
+  [
+    '$updatedAt' => '<EXTERNAL_LAST_MODIFIED_ISO>',
+    'profile' => '<PROFILE_DATA>'
+  ]
+);
+```
+```server-swift
+let _ = try await databases.upsertDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "users",
+  documentId: "<DOCUMENT_ID_OR_NEW_ID>",
+  data: [
+    "$updatedAt": "<EXTERNAL_LAST_MODIFIED_ISO>",
+    "profile": "<PROFILE_DATA>"
+  ]
+)
+```
+```server-python
+databases.upsert_document(
+  database_id='<DATABASE_ID>',
+  collection_id='users',
+  document_id='<DOCUMENT_ID_OR_NEW_ID>',
+  data={
+    '$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',
+    'profile': '<PROFILE_DATA>'
+  }
+)
+```
+```server-ruby
+databases.upsert_document(
+  database_id: '<DATABASE_ID>',
+  collection_id: 'users',
+  document_id: '<DOCUMENT_ID_OR_NEW_ID>',
+  data: {
+    '$updatedAt' => '<EXTERNAL_LAST_MODIFIED_ISO>',
+    'profile' => '<PROFILE_DATA>'
+  }
+)
+```
+```server-dotnet
+await databases.UpsertDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "users",
+  documentId: "<DOCUMENT_ID_OR_NEW_ID>",
+  data: new Dictionary<string, object>
+  {
+    ["$updatedAt"] = "<EXTERNAL_LAST_MODIFIED_ISO>",
+    ["profile"] = "<PROFILE_DATA>"
+  }
+);
+```
+```server-dart
+await databases.upsertDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'users',
+  documentId: '<DOCUMENT_ID_OR_NEW_ID>',
+  data: {
+    '\$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',
+    'profile': '<PROFILE_DATA>'
+  },
+);
+```
+{% /multicode %}
+
+{% info title="Timestamp format and usage" %}
+- Values must be valid ISO 8601 date-time strings (UTC recommended). Using `toISOString()` (JavaScript) or `datetime.isoformat()` (Python) is a good default.
+- You can set either or both attributes as needed. If omitted, Clikkle sets them automatically.
+{% /info %}
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T68de,---
+layout: article
+title: Timestamp overrides
+description: Set custom $createdAt and $updatedAt timestamps for your documents when using server SDKs.
+---
+
+When creating or updating documents, Clikkle automatically sets `$createdAt` and `$updatedAt` timestamps. However, there are scenarios where you might need to set these timestamps manually, such as when migrating data from another system or backfilling historical records.
+
+{% info title="Server SDKs required" %}
+To manually set `$createdAt` and `$updatedAt`, you must use a **server SDK** with an **API key**. These attributes can be passed inside the `data` parameter on any of the create, update, or upsert routes (single or bulk).
+{% /info %}
+
+# Setting custom timestamps {% #setting-custom-timestamps %}
+
+You can override a document's timestamps by providing ISO 8601 strings (for example, `2025-08-10T12:34:56.000Z`) in the `data` payload. If these attributes are not provided, Clikkle will set them automatically.
+
+Custom timestamps work with all document operations: create, update, upsert, and their bulk variants.
+
+## Single document operations {% #single-document-operations %}
+
+When working with individual documents, you can set custom timestamps during create, update, and upsert operations.
+
+### Create with custom timestamps {% #create-custom %}
+
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>')
+    .setKey('<API_KEY>');
+
+const databases = new sdk.Databases(client);
+
+await databases.createDocument(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    sdk.ID.unique(),
+    {
+        '$createdAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),
+        '$updatedAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),
+        // ...your attributes
+    }
+);
+```
+```server-php
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    ->setProject('<YOUR_PROJECT_ID>')
+    ->setKey('<YOUR_API_KEY>');
+
+$databases = new Databases($client);
+
+$databases->createDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    [
+        '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+        '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+        // ...your attributes
+    ]
+);
+```
+```server-swift
+import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+let customDate = isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date()
+let createdAt = isoFormatter.string(from: customDate)
+let updatedAt = isoFormatter.string(from: customDate)
+
+do {
+    let created = try await databases.createDocument(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documentId: "<DOCUMENT_ID>",
+        data: [
+            "$createdAt": createdAt,
+            "$updatedAt": updatedAt,
+            // ...your attributes
+        ]
+    )
+    print("Created:", created)
+} catch {
+    print("Create error:", error)
+}
+```
+```server-python
+from clikkle.client import Client
+from clikkle.services.databases import Databases
+from clikkle.id import ID
+from datetime import datetime, timezone
+
+client = Client()
+client.set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+client.set_project('<PROJECT_ID>')
+client.set_key('<API_KEY>')
+
+databases = Databases(client)
+
+iso = datetime(2025, 8, 10, 12, 34, 56, tzinfo=timezone.utc).isoformat()
+
+databases.create_document(
+        database_id='<DATABASE_ID>',
+        collection_id='<COLLECTION_ID>',
+        document_id=ID.unique(),
+        data={
+                '$createdAt': iso,
+                '$updatedAt': iso,
+                # ...your attributes
+        }
+)
+```
+```server-ruby
+require 'clikkle'
+require 'time'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .set_project('<YOUR_PROJECT_ID>')
+    .set_key('<YOUR_API_KEY>')
+
+databases = Databases.new(client)
+
+custom_date = Time.parse('2025-08-10T12:34:56.000Z').iso8601
+
+databases.create_document(
+    database_id: '<DATABASE_ID>',
+    collection_id: '<COLLECTION_ID>',
+    document_id: ID.unique(),
+    data: {
+        '$createdAt' => custom_date,
+        '$updatedAt' => custom_date,
+        # ...your attributes
+    }
+)
+```
+```server-dotnet
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
+
+Client client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<YOUR_PROJECT_ID>")
+    .SetKey("<YOUR_API_KEY>");
+
+Databases databases = new Databases(client);
+
+string customDate = DateTimeOffset.Parse("2025-08-10T12:34:56.000Z").ToString("O");
+
+await databases.CreateDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: ID.Unique(),
+    data: new Dictionary<string, object>
+    {
+        ["$createdAt"] = customDate,
+        ["$updatedAt"] = customDate,
+        // ...your attributes
+    }
+);
+```
+```server-dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>');
+
+Databases databases = Databases(client);
+
+String customDate = DateTime.parse('2025-08-10T12:34:56.000Z').toIso8601String();
+
+await databases.createDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: ID.unique(),
+    data: {
+        '\$createdAt': customDate,
+        '\$updatedAt': customDate,
+        // ...your attributes
+    },
+);
+```
+{% /multicode %}
+
+### Update with custom timestamps {% #update-custom %}
+
+When updating documents, you can also set a custom `$updatedAt` timestamp:
+
+{% multicode %}
+```server-nodejs
+await databases.updateDocument(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    '<DOCUMENT_ID>',
+    {
+        '$updatedAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),
+        // ...your attributes
+    }
+);
+```
+```server-php
+$databases->updateDocument(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documentId: '<DOCUMENT_ID>',
+    [
+        '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+        // ...your attributes
+    ]
+);
+```
+```server-python
+from datetime import datetime, timezone
+
+databases.update_document(
+    database_id='<DATABASE_ID>',
+    collection_id='<COLLECTION_ID>',
+    document_id='<DOCUMENT_ID>',
+    data={
+        '$updatedAt': datetime(2025, 8, 10, 12, 34, 56, tzinfo=timezone.utc).isoformat(),
+        # ...your attributes
+    }
+)
+```
+```server-swift
+import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+let updatedAt = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+
+do {
+    let updated = try await databases.updateDocument(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documentId: "<DOCUMENT_ID>",
+        data: [
+            "$updatedAt": updatedAt,
+            // ...your attributes
+        ]
+    )
+    print("Updated:", updated)
+} catch {
+    print("Update error:", error)
+}
+```
+```server-ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .set_project('<YOUR_PROJECT_ID>')
+    .set_key('<YOUR_API_KEY>')
+
+databases = Databases.new(client)
+
+custom_date = Time.parse('<CUSTOM_DATE>').iso8601
+
+databases.update_document(
+  database_id: '<DATABASE_ID>',
+  collection_id: '<COLLECTION_ID>',
+  document_id: '<DOCUMENT_ID>',
+  data: {
+    '$updatedAt' => custom_date,
+    # ...your attributes
+  }
+)
+```
+```server-dotnet
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
+
+Client client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<YOUR_PROJECT_ID>")
+    .SetKey("<YOUR_API_KEY>");
+
+Databases databases = new Databases(client);
+
+string customDate = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+
+await databases.UpdateDocument(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documentId: "<DOCUMENT_ID>",
+    data: new Dictionary<string, object>
+    {
+        ["$updatedAt"] = customDate,
+        // ...your attributes
+    }
+);
+```
+```server-dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>');
+
+Databases databases = Databases(client);
+
+String customDate = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+
+await databases.updateDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: '<COLLECTION_ID>',
+  documentId: '<DOCUMENT_ID>',
+  data: {
+    '\$updatedAt': customDate,
+    // ...your attributes
+  },
+);
+```
+{% /multicode %}
+
+## Bulk operations {% #bulk-operations %}
+
+Custom timestamps also work with bulk operations, allowing you to set different timestamps for each document in the batch:
+
+### Bulk create {% #bulk-create %}
+
+{% multicode %}
+```server-nodejs
+await databases.createDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        {
+            '$id': sdk.ID.unique(),
+            '$createdAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),
+            '$updatedAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),
+            // ...your attributes
+        },
+        {
+            '$id': sdk.ID.unique(),
+            '$createdAt': new Date('2024-02-01T00:00:00.000Z').toISOString(),
+            '$updatedAt': new Date('2024-02-01T00:00:00.000Z').toISOString(),
+            // ...your attributes
+        }
+    ]
+);
+```
+```server-python
+databases.create_documents(
+        database_id='<DATABASE_ID>',
+        collection_id='<COLLECTION_ID>',
+        documents=[
+            {
+                '$id': ID.unique(),
+                '$createdAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),
+                '$updatedAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),
+                # ...your attributes
+            },
+            {
+                '$id': ID.unique(),
+                '$createdAt': datetime(2024, 2, 1, tzinfo=timezone.utc).isoformat(),
+                '$updatedAt': datetime(2024, 2, 1, tzinfo=timezone.utc).isoformat(),
+                # ...your attributes
+            }
+        ]
+)
+```
+```server-php
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    ->setProject('<YOUR_PROJECT_ID>')
+    ->setKey('<YOUR_API_KEY>');
+
+$databases = new Databases($client);
+
+$databases->createDocuments(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documents: [
+        [
+            '$id' => ID::unique(),
+            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            // ...your attributes
+        ],
+        [
+            '$id' => ID::unique(),
+            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            // ...your attributes
+        ],
+    ]
+);
+```
+```server-swift
+import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+
+let first = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+let second = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+
+do {
+    let bulkCreated = try await databases.createDocuments(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documents: [
+            [
+                "$id": ID.unique(),
+                "$createdAt": first,
+                "$updatedAt": first,
+                // ...your attributes
+            ],
+            [
+                "$id": ID.unique(),
+                "$createdAt": second,
+                "$updatedAt": second,
+                // ...your attributes
+            ]
+        ]
+    )
+    print("Bulk create:", bulkCreated)
+} catch {
+    print("Bulk create error:", error)
+}
+```
+```server-ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .set_project('<YOUR_PROJECT_ID>')
+    .set_key('<YOUR_API_KEY>')
+
+databases = Databases.new(client)
+
+first = Time.parse('<CUSTOM_DATE>').iso8601
+second = Time.parse('<CUSTOM_DATE>').iso8601
+
+databases.create_documents(
+  database_id: '<DATABASE_ID>',
+  collection_id: '<COLLECTION_ID>',
+  documents: [
+    {
+      '$id' => ID.unique(),
+      '$createdAt' => first,
+      '$updatedAt' => first,
+      # ...your attributes
+    },
+    {
+      '$id' => ID.unique(),
+      '$createdAt' => second,
+      '$updatedAt' => second,
+      # ...your attributes
+    }
+  ]
+)
+```
+```server-dotnet
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
+
+Client client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<YOUR_PROJECT_ID>")
+    .SetKey("<YOUR_API_KEY>");
+
+Databases databases = new Databases(client);
+
+string first = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+string second = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+
+await databases.CreateDocuments(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documents: new List<object>
+    {
+        new Dictionary<string, object>
+        {
+            ["$id"] = ID.Unique(),
+            ["$createdAt"] = first,
+            ["$updatedAt"] = first,
+            // ...your attributes
+        },
+        new Dictionary<string, object>
+        {
+            ["$id"] = ID.Unique(),
+            ["$createdAt"] = second,
+            ["$updatedAt"] = second,
+            // ...your attributes
+        }
+    }
+);
+```
+```server-dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>');
+
+Databases databases = Databases(client);
+
+String first = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+String second = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+
+await databases.createDocuments(
+  databaseId: '<DATABASE_ID>',
+  collectionId: '<COLLECTION_ID>',
+  documents: [
+    {
+      '\$id': ID.unique(),
+      '\$createdAt': first,
+      '\$updatedAt': first,
+      // ...your attributes
+    },
+    {
+      '\$id': ID.unique(),
+      '\$createdAt': second,
+      '\$updatedAt': second,
+      // ...your attributes
+    }
+  ],
+);
+```
+{% /multicode %}
+
+### Bulk upsert {% #bulk-upsert %}
+
+{% multicode %}
+```server-nodejs
+await databases.upsertDocuments(
+    '<DATABASE_ID>',
+    '<COLLECTION_ID>',
+    [
+        {
+            '$id': '<DOCUMENT_ID_OR_NEW_ID>',
+            '$createdAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),
+            '$updatedAt': new Date('2025-01-01T00:00:00.000Z').toISOString(),
+            // ...your attributes
+        }
+    ]
+);
+```
+```server-python
+databases.upsert_documents(
+    database_id='<DATABASE_ID>',
+    collection_id='<COLLECTION_ID>',
+    documents=[
+        {
+            '$id': '<DOCUMENT_ID_OR_NEW_ID>',
+            '$createdAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),
+            '$updatedAt': datetime(2025, 1, 1, tzinfo=timezone.utc).isoformat(),
+            # ...your attributes
+        }
+    ]
+)
+```
+```server-php
+use Clikkle\Client;
+use Clikkle\ID;
+use Clikkle\Services\Databases;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    ->setProject('<YOUR_PROJECT_ID>')
+    ->setKey('<YOUR_API_KEY>');
+
+$databases = new Databases($client);
+
+$databases->upsertDocuments(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    documents: [
+        [
+            '$id' => '<DOCUMENT_ID_OR_NEW_ID>',
+            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),
+            // ...your attributes
+        ],
+    ]
+);
+```
+```server-swift
+import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+let createdAt = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+let updatedAt = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+
+do {
+    let bulkUpserted = try await databases.upsertDocuments(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documents: [
+            [
+                "$id": "<DOCUMENT_ID_OR_NEW_ID>",
+                "$createdAt": createdAt,
+                "$updatedAt": updatedAt,
+                // ...your attributes
+            ]
+        ]
+    )
+    print("Bulk upsert:", bulkUpserted)
+} catch {
+    print("Bulk upsert error:", error)
+}
+```
+```server-ruby
+require 'clikkle'
+require 'time'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .set_project('<YOUR_PROJECT_ID>')
+    .set_key('<YOUR_API_KEY>')
+
+databases = Databases.new(client)
+
+custom_date = Time.parse('<CUSTOM_DATE>').iso8601
+
+databases.upsert_documents(
+  database_id: '<DATABASE_ID>',
+  collection_id: '<COLLECTION_ID>',
+  documents: [
+    {
+      '$id' => '<DOCUMENT_ID_OR_NEW_ID>',
+      '$createdAt' => custom_date,
+      '$updatedAt' => custom_date,
+      # ...your attributes
+    }
+  ]
+)
+```
+```server-dotnet
+using Clikkle;
+using Clikkle.Models;
+using Clikkle.Services;
+
+Client client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<YOUR_PROJECT_ID>")
+    .SetKey("<YOUR_API_KEY>");
+
+Databases databases = new Databases(client);
+
+string createdAt = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+string updatedAt = DateTimeOffset.Parse("<CUSTOM_DATE>").ToString("O");
+
+await databases.UpsertDocuments(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    documents: new List<object>
+    {
+        new Dictionary<string, object>
+        {
+            ["$id"] = "<DOCUMENT_ID_OR_NEW_ID>",
+            ["$createdAt"] = createdAt,
+            ["$updatedAt"] = updatedAt,
+            // ...your attributes
+        }
+    }
+);
+```
+```server-dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setKey('<YOUR_API_KEY>');
+
+Databases databases = Databases(client);
+
+String createdAt = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+String updatedAt = DateTime.parse('<CUSTOM_DATE>').toIso8601String();
+
+await databases.upsertDocuments(
+  databaseId: '<DATABASE_ID>',
+  collectionId: '<COLLECTION_ID>',
+  documents: [
+    {
+      '\$id': '<DOCUMENT_ID_OR_NEW_ID>',
+      '\$createdAt': createdAt,
+      '\$updatedAt': updatedAt,
+      // ...your attributes
+    }
+  ],
+);
+```
+{% /multicode %}
+
+# Common use cases {% #use-cases %}
+
+Custom timestamps are particularly useful in several scenarios:
+
+## Data migration {% #data-migration %}
+When migrating existing data from another system, you can preserve the original
+creation and modification times:
+
+{% multicode %}
+```server-nodejs
+await databases.createDocument(
+  '<DATABASE_ID>',
+  'blog_posts',
+  sdk.ID.unique(),
+  {
+    '$createdAt': '<ORIGINAL_CREATED_AT_ISO>',
+    '$updatedAt': '<LAST_MODIFIED_ISO>',
+    title: '<TITLE>',
+    content: '<CONTENT>'
+  }
+)
+```
+```server-php
+$databases->createDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'blog_posts',
+  documentId: ID::unique(),
+  [
+    '$createdAt' => '<ORIGINAL_CREATED_AT_ISO>',
+    '$updatedAt' => '<LAST_MODIFIED_ISO>',
+    'title' => '<TITLE>',
+    'content' => '<CONTENT>'
+  ]
+);
+```
+```server-swift
+let _ = try await databases.createDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "blog_posts",
+  documentId: ID.unique(),
+  data: [
+    "$createdAt": "<ORIGINAL_CREATED_AT_ISO>",
+    "$updatedAt": "<LAST_MODIFIED_ISO>",
+    "title": "<TITLE>",
+    "content": "<CONTENT>"
+  ]
+)
+```
+```server-python
+databases.create_document(
+  database_id='<DATABASE_ID>',
+  collection_id='blog_posts',
+  document_id=ID.unique(),
+  data={
+    '$createdAt': '<ORIGINAL_CREATED_AT_ISO>',
+    '$updatedAt': '<LAST_MODIFIED_ISO>',
+    'title': '<TITLE>',
+    'content': '<CONTENT>'
+  }
+)
+```
+```server-ruby
+databases.create_document(
+  database_id: '<DATABASE_ID>',
+  collection_id: 'blog_posts',
+  document_id: ID.unique(),
+  data: {
+    '$createdAt' => '<ORIGINAL_CREATED_AT_ISO>',
+    '$updatedAt' => '<LAST_MODIFIED_ISO>',
+    'title' => '<TITLE>',
+    'content' => '<CONTENT>'
+  }
+)
+```
+```server-dotnet
+await databases.CreateDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "blog_posts",
+  documentId: ID.Unique(),
+  data: new Dictionary<string, object>
+  {
+    ["$createdAt"] = "<ORIGINAL_CREATED_AT_ISO>",
+    ["$updatedAt"] = "<LAST_MODIFIED_ISO>",
+    ["title"] = "<TITLE>",
+    ["content"] = "<CONTENT>"
+  }
+);
+```
+```server-dart
+await databases.createDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'blog_posts',
+  documentId: ID.unique(),
+  data: {
+    '\$createdAt': '<ORIGINAL_CREATED_AT_ISO>',
+    '\$updatedAt': '<LAST_MODIFIED_ISO>',
+    'title': '<TITLE>',
+    'content': '<CONTENT>'
+  },
+);
+```
+{% /multicode %}
+
+## Backdating records {% #backdating %}
+For historical data entry or when creating records that represent past events:
+
+{% multicode %}
+```server-nodejs
+await databases.createDocument(
+  '<DATABASE_ID>',
+  'transactions',
+  sdk.ID.unique(),
+  {
+    '$createdAt': '2023-12-31T23:59:59.000Z',
+    '$updatedAt': '2023-12-31T23:59:59.000Z',
+    amount: 1000,
+    type: 'year-end-bonus'
+  }
+)
+```
+```server-php
+$databases->createDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'transactions',
+  documentId: ID::unique(),
+  [
+    '$createdAt' => '2023-12-31T23:59:59.000Z',
+    '$updatedAt' => '2023-12-31T23:59:59.000Z',
+    'amount' => 1000,
+    'type' => 'year-end-bonus'
+  ]
+);
+```
+```server-swift
+let _ = try await databases.createDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "transactions",
+  documentId: ID.unique(),
+  data: [
+    "$createdAt": "2023-12-31T23:59:59.000Z",
+    "$updatedAt": "2023-12-31T23:59:59.000Z",
+    "amount": 1000,
+    "type": "year-end-bonus"
+  ]
+)
+```
+```server-python
+databases.create_document(
+  database_id='<DATABASE_ID>',
+  collection_id='transactions',
+  document_id=ID.unique(),
+  data={
+    '$createdAt': '2023-12-31T23:59:59.000Z',
+    '$updatedAt': '2023-12-31T23:59:59.000Z',
+    'amount': 1000,
+    'type': 'year-end-bonus'
+  }
+)
+```
+```server-ruby
+databases.create_document(
+  database_id: '<DATABASE_ID>',
+  collection_id: 'transactions',
+  document_id: ID.unique(),
+  data: {
+    '$createdAt' => '2023-12-31T23:59:59.000Z',
+    '$updatedAt' => '2023-12-31T23:59:59.000Z',
+    'amount' => 1000,
+    'type' => 'year-end-bonus'
+  }
+)
+```
+```server-dotnet
+await databases.CreateDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "transactions",
+  documentId: ID.Unique(),
+  data: new Dictionary<string, object>
+  {
+    ["$createdAt"] = "2023-12-31T23:59:59.000Z",
+    ["$updatedAt"] = "2023-12-31T23:59:59.000Z",
+    ["amount"] = 1000,
+    ["type"] = "year-end-bonus"
+  }
+);
+```
+```server-dart
+await databases.createDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'transactions',
+  documentId: ID.unique(),
+  data: {
+    '\$createdAt': '2023-12-31T23:59:59.000Z',
+    '\$updatedAt': '2023-12-31T23:59:59.000Z',
+    'amount': 1000,
+    'type': 'year-end-bonus'
+  },
+);
+```
+{% /multicode %}
+
+## Synchronization {% #synchronization %}
+When synchronizing data between systems while maintaining timestamp consistency:
+
+{% multicode %}
+```server-nodejs
+await databases.upsertDocument(
+  '<DATABASE_ID>',
+  'users',
+  '<DOCUMENT_ID_OR_NEW_ID>',
+  {
+    '$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',
+    profile: '<PROFILE_DATA>'
+  }
+)
+```
+```server-php
+$databases->upsertDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'users',
+  documentId: '<DOCUMENT_ID_OR_NEW_ID>',
+  [
+    '$updatedAt' => '<EXTERNAL_LAST_MODIFIED_ISO>',
+    'profile' => '<PROFILE_DATA>'
+  ]
+);
+```
+```server-swift
+let _ = try await databases.upsertDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "users",
+  documentId: "<DOCUMENT_ID_OR_NEW_ID>",
+  data: [
+    "$updatedAt": "<EXTERNAL_LAST_MODIFIED_ISO>",
+    "profile": "<PROFILE_DATA>"
+  ]
+)
+```
+```server-python
+databases.upsert_document(
+  database_id='<DATABASE_ID>',
+  collection_id='users',
+  document_id='<DOCUMENT_ID_OR_NEW_ID>',
+  data={
+    '$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',
+    'profile': '<PROFILE_DATA>'
+  }
+)
+```
+```server-ruby
+databases.upsert_document(
+  database_id: '<DATABASE_ID>',
+  collection_id: 'users',
+  document_id: '<DOCUMENT_ID_OR_NEW_ID>',
+  data: {
+    '$updatedAt' => '<EXTERNAL_LAST_MODIFIED_ISO>',
+    'profile' => '<PROFILE_DATA>'
+  }
+)
+```
+```server-dotnet
+await databases.UpsertDocument(
+  databaseId: "<DATABASE_ID>",
+  collectionId: "users",
+  documentId: "<DOCUMENT_ID_OR_NEW_ID>",
+  data: new Dictionary<string, object>
+  {
+    ["$updatedAt"] = "<EXTERNAL_LAST_MODIFIED_ISO>",
+    ["profile"] = "<PROFILE_DATA>"
+  }
+);
+```
+```server-dart
+await databases.upsertDocument(
+  databaseId: '<DATABASE_ID>',
+  collectionId: 'users',
+  documentId: '<DOCUMENT_ID_OR_NEW_ID>',
+  data: {
+    '\$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',
+    'profile': '<PROFILE_DATA>'
+  },
+);
+```
+{% /multicode %}
+
+{% info title="Timestamp format and usage" %}
+- Values must be valid ISO 8601 date-time strings (UTC recommended). Using `toISOString()` (JavaScript) or `datetime.isoformat()` (Python) is a good default.
+- You can set either or both attributes as needed. If omitted, Clikkle sets them automatically.
+{% /info %}
+
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Timestamp overrides"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"New API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This is a relatively new API. For details on the previous version and its terminology, see the legacy"," ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/timestamp-overrides","className":"web-link underline","children":"Collections API documentation"}],"."]}]]}],null,["$","$Le",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When creating or updating documents, Clikkle automatically sets ",["$","code",null,{"children":"$$createdAt"}]," and ",["$","code",null,{"children":"$$updatedAt"}]," timestamps. However, there are scenarios where you might need to set these timestamps manually, such as when migrating data from another system or backfilling historical records."]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Server SDKs required"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To manually set ",["$","code",null,{"children":"$$createdAt"}]," and ",["$","code",null,{"children":"$$updatedAt"}],", you must use a ",["$","strong",null,{"children":"server SDK"}]," with an ",["$","strong",null,{"children":"API key"}],". These attributes can be passed inside the ",["$","code",null,{"children":"data"}]," parameter on any of the create, update, or upsert routes (single or bulk)."]}]]}],["$","$Lf",null,{"id":"setting-custom-timestamps","level":1,"children":"Setting custom timestamps "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can override a document's timestamps by providing ISO 8601 strings (for example, ",["$","code",null,{"children":"2025-08-10T12:34:56.000Z"}],") in the ",["$","code",null,{"children":"data"}]," payload. If these attributes are not provided, Clikkle will set them automatically."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Custom timestamps work with all document operations: create, update, upsert, and their bulk variants."}],["$","$Lf",null,{"id":"single-document-operations","level":2,"children":"Single document operations "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When working with individual documents, you can set custom timestamps during create, update, and upsert operations."}],["$","$Lf",null,{"id":"create-custom","level":3,"children":"Create with custom timestamps "}],["$","$L10",null,{"children":[["$","$L11",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>')\n    .setKey('<API_KEY>');\n\nconst databases = new sdk.Databases(client);\n\nawait databases.createDocument(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    sdk.ID.unique(),\n    {\n        '$createdAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),\n        '$updatedAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),\n        // ...your attributes\n    }\n);\n","children":"const sdk = require('node-clikkle');\n\nconst client = new sdk.Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>')\n    .setKey('<API_KEY>');\n\nconst databases = new sdk.Databases(client);\n\nawait databases.createDocument(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    sdk.ID.unique(),\n    {\n        '$createdAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),\n        '$updatedAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),\n        // ...your attributes\n    }\n);\n"}],"$L12","$L13","$L14","$L15","$L16","$L17"]}],"$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c"]}]}]]}],"$L2d"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L2e",null,{"items":[{"id":"setting-custom-timestamps","title":"Setting custom timestamps","level":1},{"id":"single-document-operations","title":"Single document operations","level":2},{"id":"create-custom","title":"Create with custom timestamps","level":3},{"id":"update-custom","title":"Update with custom timestamps","level":3},{"id":"bulk-operations","title":"Bulk operations","level":2},{"id":"bulk-create","title":"Bulk create","level":3},{"id":"bulk-upsert","title":"Bulk upsert","level":3},{"id":"use-cases","title":"Common use cases","level":1},{"id":"data-migration","title":"Data migration","level":2},{"id":"backdating","title":"Backdating records","level":2},{"id":"synchronization","title":"Synchronization","level":2}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L2f",null,{"children":["$","$30",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
+12:["$","$L11",null,{"language":"server-php","content":"use Clikkle\\Client;\nuse Clikkle\\ID;\nuse Clikkle\\Services\\Databases;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    ->setProject('<YOUR_PROJECT_ID>')\n    ->setKey('<YOUR_API_KEY>');\n\n$databases = new Databases($client);\n\n$databases->createDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    [\n        '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n        '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n        // ...your attributes\n    ]\n);\n","children":"use Clikkle\\Client;\nuse Clikkle\\ID;\nuse Clikkle\\Services\\Databases;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    ->setProject('<YOUR_PROJECT_ID>')\n    ->setKey('<YOUR_API_KEY>');\n\n$databases = new Databases($client);\n\n$databases->createDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    [\n        '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n        '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n        // ...your attributes\n    ]\n);\n"}]
+13:["$","$L11",null,{"language":"server-swift","content":"import Clikkle\nimport Foundation\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setKey(\"<YOUR_API_KEY>\")\n\nlet databases = Databases(client)\n\nlet isoFormatter = ISO8601DateFormatter()\nisoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]\nlet customDate = isoFormatter.date(from: \"<CUSTOM_DATE>\") ?? Date()\nlet createdAt = isoFormatter.string(from: customDate)\nlet updatedAt = isoFormatter.string(from: customDate)\n\ndo {\n    let created = try await databases.createDocument(\n        databaseId: \"<DATABASE_ID>\",\n        collectionId: \"<COLLECTION_ID>\",\n        documentId: \"<DOCUMENT_ID>\",\n        data: [\n            \"$createdAt\": createdAt,\n            \"$updatedAt\": updatedAt,\n            // ...your attributes\n        ]\n    )\n    print(\"Created:\", created)\n} catch {\n    print(\"Create error:\", error)\n}\n","children":"import Clikkle\nimport Foundation\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setKey(\"<YOUR_API_KEY>\")\n\nlet databases = Databases(client)\n\nlet isoFormatter = ISO8601DateFormatter()\nisoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]\nlet customDate = isoFormatter.date(from: \"<CUSTOM_DATE>\") ?? Date()\nlet createdAt = isoFormatter.string(from: customDate)\nlet updatedAt = isoFormatter.string(from: customDate)\n\ndo {\n    let created = try await databases.createDocument(\n        databaseId: \"<DATABASE_ID>\",\n        collectionId: \"<COLLECTION_ID>\",\n        documentId: \"<DOCUMENT_ID>\",\n        data: [\n            \"$createdAt\": createdAt,\n            \"$updatedAt\": updatedAt,\n            // ...your attributes\n        ]\n    )\n    print(\"Created:\", created)\n} catch {\n    print(\"Create error:\", error)\n}\n"}]
+14:["$","$L11",null,{"language":"server-python","content":"from clikkle.client import Client\nfrom clikkle.services.databases import Databases\nfrom clikkle.id import ID\nfrom datetime import datetime, timezone\n\nclient = Client()\nclient.set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\nclient.set_project('<PROJECT_ID>')\nclient.set_key('<API_KEY>')\n\ndatabases = Databases(client)\n\niso = datetime(2025, 8, 10, 12, 34, 56, tzinfo=timezone.utc).isoformat()\n\ndatabases.create_document(\n        database_id='<DATABASE_ID>',\n        collection_id='<COLLECTION_ID>',\n        document_id=ID.unique(),\n        data={\n                '$createdAt': iso,\n                '$updatedAt': iso,\n                # ...your attributes\n        }\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.databases import Databases\nfrom clikkle.id import ID\nfrom datetime import datetime, timezone\n\nclient = Client()\nclient.set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\nclient.set_project('<PROJECT_ID>')\nclient.set_key('<API_KEY>')\n\ndatabases = Databases(client)\n\niso = datetime(2025, 8, 10, 12, 34, 56, tzinfo=timezone.utc).isoformat()\n\ndatabases.create_document(\n        database_id='<DATABASE_ID>',\n        collection_id='<COLLECTION_ID>',\n        document_id=ID.unique(),\n        data={\n                '$createdAt': iso,\n                '$updatedAt': iso,\n                # ...your attributes\n        }\n)\n"}]
+15:["$","$L11",null,{"language":"server-ruby","content":"require 'clikkle'\nrequire 'time'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .set_project('<YOUR_PROJECT_ID>')\n    .set_key('<YOUR_API_KEY>')\n\ndatabases = Databases.new(client)\n\ncustom_date = Time.parse('2025-08-10T12:34:56.000Z').iso8601\n\ndatabases.create_document(\n    database_id: '<DATABASE_ID>',\n    collection_id: '<COLLECTION_ID>',\n    document_id: ID.unique(),\n    data: {\n        '$createdAt' => custom_date,\n        '$updatedAt' => custom_date,\n        # ...your attributes\n    }\n)\n","children":"require 'clikkle'\nrequire 'time'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .set_project('<YOUR_PROJECT_ID>')\n    .set_key('<YOUR_API_KEY>')\n\ndatabases = Databases.new(client)\n\ncustom_date = Time.parse('2025-08-10T12:34:56.000Z').iso8601\n\ndatabases.create_document(\n    database_id: '<DATABASE_ID>',\n    collection_id: '<COLLECTION_ID>',\n    document_id: ID.unique(),\n    data: {\n        '$createdAt' => custom_date,\n        '$updatedAt' => custom_date,\n        # ...your attributes\n    }\n)\n"}]
+16:["$","$L11",null,{"language":"server-dotnet","content":"using Clikkle;\nusing Clikkle.Models;\nusing Clikkle.Services;\n\nClient client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<YOUR_PROJECT_ID>\")\n    .SetKey(\"<YOUR_API_KEY>\");\n\nDatabases databases = new Databases(client);\n\nstring customDate = DateTimeOffset.Parse(\"2025-08-10T12:34:56.000Z\").ToString(\"O\");\n\nawait databases.CreateDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: ID.Unique(),\n    data: new Dictionary<string, object>\n    {\n        [\"$createdAt\"] = customDate,\n        [\"$updatedAt\"] = customDate,\n        // ...your attributes\n    }\n);\n","children":"using Clikkle;\nusing Clikkle.Models;\nusing Clikkle.Services;\n\nClient client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<YOUR_PROJECT_ID>\")\n    .SetKey(\"<YOUR_API_KEY>\");\n\nDatabases databases = new Databases(client);\n\nstring customDate = DateTimeOffset.Parse(\"2025-08-10T12:34:56.000Z\").ToString(\"O\");\n\nawait databases.CreateDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: ID.Unique(),\n    data: new Dictionary<string, object>\n    {\n        [\"$createdAt\"] = customDate,\n        [\"$updatedAt\"] = customDate,\n        // ...your attributes\n    }\n);\n"}]
+17:["$","$L11",null,{"language":"server-dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>');\n\nDatabases databases = Databases(client);\n\nString customDate = DateTime.parse('2025-08-10T12:34:56.000Z').toIso8601String();\n\nawait databases.createDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: ID.unique(),\n    data: {\n        '\\$createdAt': customDate,\n        '\\$updatedAt': customDate,\n        // ...your attributes\n    },\n);\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>');\n\nDatabases databases = Databases(client);\n\nString customDate = DateTime.parse('2025-08-10T12:34:56.000Z').toIso8601String();\n\nawait databases.createDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: ID.unique(),\n    data: {\n        '\\$createdAt': customDate,\n        '\\$updatedAt': customDate,\n        // ...your attributes\n    },\n);\n"}]
+18:["$","$Lf",null,{"id":"update-custom","level":3,"children":"Update with custom timestamps "}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When updating documents, you can also set a custom ",["$","code",null,{"children":"$$updatedAt"}]," timestamp:"]}]
+1a:["$","$L10",null,{"children":[["$","$L11",null,{"language":"server-nodejs","content":"await databases.updateDocument(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    '<DOCUMENT_ID>',\n    {\n        '$updatedAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),\n        // ...your attributes\n    }\n);\n","children":"await databases.updateDocument(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    '<DOCUMENT_ID>',\n    {\n        '$updatedAt': new Date('2025-08-10T12:34:56.000Z').toISOString(),\n        // ...your attributes\n    }\n);\n"}],["$","$L11",null,{"language":"server-php","content":"$$databases->updateDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    [\n        '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n        // ...your attributes\n    ]\n);\n","children":"$$databases->updateDocument(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documentId: '<DOCUMENT_ID>',\n    [\n        '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n        // ...your attributes\n    ]\n);\n"}],["$","$L11",null,{"language":"server-python","content":"from datetime import datetime, timezone\n\ndatabases.update_document(\n    database_id='<DATABASE_ID>',\n    collection_id='<COLLECTION_ID>',\n    document_id='<DOCUMENT_ID>',\n    data={\n        '$updatedAt': datetime(2025, 8, 10, 12, 34, 56, tzinfo=timezone.utc).isoformat(),\n        # ...your attributes\n    }\n)\n","children":"from datetime import datetime, timezone\n\ndatabases.update_document(\n    database_id='<DATABASE_ID>',\n    collection_id='<COLLECTION_ID>',\n    document_id='<DOCUMENT_ID>',\n    data={\n        '$updatedAt': datetime(2025, 8, 10, 12, 34, 56, tzinfo=timezone.utc).isoformat(),\n        # ...your attributes\n    }\n)\n"}],["$","$L11",null,{"language":"server-swift","content":"import Clikkle\nimport Foundation\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setKey(\"<YOUR_API_KEY>\")\n\nlet databases = Databases(client)\n\nlet isoFormatter = ISO8601DateFormatter()\nisoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]\nlet updatedAt = isoFormatter.string(from: isoFormatter.date(from: \"<CUSTOM_DATE>\") ?? Date())\n\ndo {\n    let updated = try await databases.updateDocument(\n        databaseId: \"<DATABASE_ID>\",\n        collectionId: \"<COLLECTION_ID>\",\n        documentId: \"<DOCUMENT_ID>\",\n        data: [\n            \"$updatedAt\": updatedAt,\n            // ...your attributes\n        ]\n    )\n    print(\"Updated:\", updated)\n} catch {\n    print(\"Update error:\", error)\n}\n","children":"import Clikkle\nimport Foundation\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setKey(\"<YOUR_API_KEY>\")\n\nlet databases = Databases(client)\n\nlet isoFormatter = ISO8601DateFormatter()\nisoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]\nlet updatedAt = isoFormatter.string(from: isoFormatter.date(from: \"<CUSTOM_DATE>\") ?? Date())\n\ndo {\n    let updated = try await databases.updateDocument(\n        databaseId: \"<DATABASE_ID>\",\n        collectionId: \"<COLLECTION_ID>\",\n        documentId: \"<DOCUMENT_ID>\",\n        data: [\n            \"$updatedAt\": updatedAt,\n            // ...your attributes\n        ]\n    )\n    print(\"Updated:\", updated)\n} catch {\n    print(\"Update error:\", error)\n}\n"}],"$L32","$L33","$L34"]}]
+1b:["$","$Lf",null,{"id":"bulk-operations","level":2,"children":"Bulk operations "}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Custom timestamps also work with bulk operations, allowing you to set different timestamps for each document in the batch:"}]
+1d:["$","$Lf",null,{"id":"bulk-create","level":3,"children":"Bulk create "}]
+1e:["$","$L10",null,{"children":[["$","$L11",null,{"language":"server-nodejs","content":"await databases.createDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        {\n            '$id': sdk.ID.unique(),\n            '$createdAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),\n            '$updatedAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),\n            // ...your attributes\n        },\n        {\n            '$id': sdk.ID.unique(),\n            '$createdAt': new Date('2024-02-01T00:00:00.000Z').toISOString(),\n            '$updatedAt': new Date('2024-02-01T00:00:00.000Z').toISOString(),\n            // ...your attributes\n        }\n    ]\n);\n","children":"await databases.createDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        {\n            '$id': sdk.ID.unique(),\n            '$createdAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),\n            '$updatedAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),\n            // ...your attributes\n        },\n        {\n            '$id': sdk.ID.unique(),\n            '$createdAt': new Date('2024-02-01T00:00:00.000Z').toISOString(),\n            '$updatedAt': new Date('2024-02-01T00:00:00.000Z').toISOString(),\n            // ...your attributes\n        }\n    ]\n);\n"}],["$","$L11",null,{"language":"server-python","content":"databases.create_documents(\n        database_id='<DATABASE_ID>',\n        collection_id='<COLLECTION_ID>',\n        documents=[\n            {\n                '$id': ID.unique(),\n                '$createdAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),\n                '$updatedAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),\n                # ...your attributes\n            },\n            {\n                '$id': ID.unique(),\n                '$createdAt': datetime(2024, 2, 1, tzinfo=timezone.utc).isoformat(),\n                '$updatedAt': datetime(2024, 2, 1, tzinfo=timezone.utc).isoformat(),\n                # ...your attributes\n            }\n        ]\n)\n","children":"databases.create_documents(\n        database_id='<DATABASE_ID>',\n        collection_id='<COLLECTION_ID>',\n        documents=[\n            {\n                '$id': ID.unique(),\n                '$createdAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),\n                '$updatedAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),\n                # ...your attributes\n            },\n            {\n                '$id': ID.unique(),\n                '$createdAt': datetime(2024, 2, 1, tzinfo=timezone.utc).isoformat(),\n                '$updatedAt': datetime(2024, 2, 1, tzinfo=timezone.utc).isoformat(),\n                # ...your attributes\n            }\n        ]\n)\n"}],["$","$L11",null,{"language":"server-php","content":"use Clikkle\\Client;\nuse Clikkle\\ID;\nuse Clikkle\\Services\\Databases;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    ->setProject('<YOUR_PROJECT_ID>')\n    ->setKey('<YOUR_API_KEY>');\n\n$databases = new Databases($client);\n\n$databases->createDocuments(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documents: [\n        [\n            '$id' => ID::unique(),\n            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            // ...your attributes\n        ],\n        [\n            '$id' => ID::unique(),\n            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            // ...your attributes\n        ],\n    ]\n);\n","children":"use Clikkle\\Client;\nuse Clikkle\\ID;\nuse Clikkle\\Services\\Databases;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    ->setProject('<YOUR_PROJECT_ID>')\n    ->setKey('<YOUR_API_KEY>');\n\n$databases = new Databases($client);\n\n$databases->createDocuments(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documents: [\n        [\n            '$id' => ID::unique(),\n            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            // ...your attributes\n        ],\n        [\n            '$id' => ID::unique(),\n            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            // ...your attributes\n        ],\n    ]\n);\n"}],"$L35","$L36","$L37","$L38"]}]
+1f:["$","$Lf",null,{"id":"bulk-upsert","level":3,"children":"Bulk upsert "}]
+20:["$","$L10",null,{"children":[["$","$L11",null,{"language":"server-nodejs","content":"await databases.upsertDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        {\n            '$id': '<DOCUMENT_ID_OR_NEW_ID>',\n            '$createdAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),\n            '$updatedAt': new Date('2025-01-01T00:00:00.000Z').toISOString(),\n            // ...your attributes\n        }\n    ]\n);\n","children":"await databases.upsertDocuments(\n    '<DATABASE_ID>',\n    '<COLLECTION_ID>',\n    [\n        {\n            '$id': '<DOCUMENT_ID_OR_NEW_ID>',\n            '$createdAt': new Date('2024-01-01T00:00:00.000Z').toISOString(),\n            '$updatedAt': new Date('2025-01-01T00:00:00.000Z').toISOString(),\n            // ...your attributes\n        }\n    ]\n);\n"}],["$","$L11",null,{"language":"server-python","content":"databases.upsert_documents(\n    database_id='<DATABASE_ID>',\n    collection_id='<COLLECTION_ID>',\n    documents=[\n        {\n            '$id': '<DOCUMENT_ID_OR_NEW_ID>',\n            '$createdAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),\n            '$updatedAt': datetime(2025, 1, 1, tzinfo=timezone.utc).isoformat(),\n            # ...your attributes\n        }\n    ]\n)\n","children":"databases.upsert_documents(\n    database_id='<DATABASE_ID>',\n    collection_id='<COLLECTION_ID>',\n    documents=[\n        {\n            '$id': '<DOCUMENT_ID_OR_NEW_ID>',\n            '$createdAt': datetime(2024, 1, 1, tzinfo=timezone.utc).isoformat(),\n            '$updatedAt': datetime(2025, 1, 1, tzinfo=timezone.utc).isoformat(),\n            # ...your attributes\n        }\n    ]\n)\n"}],["$","$L11",null,{"language":"server-php","content":"use Clikkle\\Client;\nuse Clikkle\\ID;\nuse Clikkle\\Services\\Databases;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    ->setProject('<YOUR_PROJECT_ID>')\n    ->setKey('<YOUR_API_KEY>');\n\n$databases = new Databases($client);\n\n$databases->upsertDocuments(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documents: [\n        [\n            '$id' => '<DOCUMENT_ID_OR_NEW_ID>',\n            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            // ...your attributes\n        ],\n    ]\n);\n","children":"use Clikkle\\Client;\nuse Clikkle\\ID;\nuse Clikkle\\Services\\Databases;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    ->setProject('<YOUR_PROJECT_ID>')\n    ->setKey('<YOUR_API_KEY>');\n\n$databases = new Databases($client);\n\n$databases->upsertDocuments(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    documents: [\n        [\n            '$id' => '<DOCUMENT_ID_OR_NEW_ID>',\n            '$createdAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            '$updatedAt' => (new DateTime('<CUSTOM_DATE>'))->format(DATE_ATOM),\n            // ...your attributes\n        ],\n    ]\n);\n"}],["$","$L11",null,{"language":"server-swift","content":"import Clikkle\nimport Foundation\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setKey(\"<YOUR_API_KEY>\")\n\nlet databases = Databases(client)\n\nlet isoFormatter = ISO8601DateFormatter()\nisoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]\nlet createdAt = isoFormatter.string(from: isoFormatter.date(from: \"<CUSTOM_DATE>\") ?? Date())\nlet updatedAt = isoFormatter.string(from: isoFormatter.date(from: \"<CUSTOM_DATE>\") ?? Date())\n\ndo {\n    let bulkUpserted = try await databases.upsertDocuments(\n        databaseId: \"<DATABASE_ID>\",\n        collectionId: \"<COLLECTION_ID>\",\n        documents: [\n            [\n                \"$id\": \"<DOCUMENT_ID_OR_NEW_ID>\",\n                \"$createdAt\": createdAt,\n                \"$updatedAt\": updatedAt,\n                // ...your attributes\n            ]\n        ]\n    )\n    print(\"Bulk upsert:\", bulkUpserted)\n} catch {\n    print(\"Bulk upsert error:\", error)\n}\n","children":"import Clikkle\nimport Foundation\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<YOUR_PROJECT_ID>\")\n    .setKey(\"<YOUR_API_KEY>\")\n\nlet databases = Databases(client)\n\nlet isoFormatter = ISO8601DateFormatter()\nisoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]\nlet createdAt = isoFormatter.string(from: isoFormatter.date(from: \"<CUSTOM_DATE>\") ?? Date())\nlet updatedAt = isoFormatter.string(from: isoFormatter.date(from: \"<CUSTOM_DATE>\") ?? Date())\n\ndo {\n    let bulkUpserted = try await databases.upsertDocuments(\n        databaseId: \"<DATABASE_ID>\",\n        collectionId: \"<COLLECTION_ID>\",\n        documents: [\n            [\n                \"$id\": \"<DOCUMENT_ID_OR_NEW_ID>\",\n                \"$createdAt\": createdAt,\n                \"$updatedAt\": updatedAt,\n                // ...your attributes\n            ]\n        ]\n    )\n    print(\"Bulk upsert:\", bulkUpserted)\n} catch {\n    print(\"Bulk upsert error:\", error)\n}\n"}],"$L39","$L3a","$L3b"]}]
+21:["$","$Lf",null,{"id":"use-cases","level":1,"children":"Common use cases "}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Custom timestamps are particularly useful in several scenarios:"}]
+23:["$","$Lf",null,{"id":"data-migration","level":2,"children":"Data migration "}]
+24:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When migrating existing data from another system, you can preserve the original"," ","creation and modification times:"]}]
+25:["$","$L10",null,{"children":[["$","$L11",null,{"language":"server-nodejs","content":"await databases.createDocument(\n  '<DATABASE_ID>',\n  'blog_posts',\n  sdk.ID.unique(),\n  {\n    '$createdAt': '<ORIGINAL_CREATED_AT_ISO>',\n    '$updatedAt': '<LAST_MODIFIED_ISO>',\n    title: '<TITLE>',\n    content: '<CONTENT>'\n  }\n)\n","children":"await databases.createDocument(\n  '<DATABASE_ID>',\n  'blog_posts',\n  sdk.ID.unique(),\n  {\n    '$createdAt': '<ORIGINAL_CREATED_AT_ISO>',\n    '$updatedAt': '<LAST_MODIFIED_ISO>',\n    title: '<TITLE>',\n    content: '<CONTENT>'\n  }\n)\n"}],["$","$L11",null,{"language":"server-php","content":"$$databases->createDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'blog_posts',\n  documentId: ID::unique(),\n  [\n    '$createdAt' => '<ORIGINAL_CREATED_AT_ISO>',\n    '$updatedAt' => '<LAST_MODIFIED_ISO>',\n    'title' => '<TITLE>',\n    'content' => '<CONTENT>'\n  ]\n);\n","children":"$$databases->createDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'blog_posts',\n  documentId: ID::unique(),\n  [\n    '$createdAt' => '<ORIGINAL_CREATED_AT_ISO>',\n    '$updatedAt' => '<LAST_MODIFIED_ISO>',\n    'title' => '<TITLE>',\n    'content' => '<CONTENT>'\n  ]\n);\n"}],["$","$L11",null,{"language":"server-swift","content":"let _ = try await databases.createDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"blog_posts\",\n  documentId: ID.unique(),\n  data: [\n    \"$createdAt\": \"<ORIGINAL_CREATED_AT_ISO>\",\n    \"$updatedAt\": \"<LAST_MODIFIED_ISO>\",\n    \"title\": \"<TITLE>\",\n    \"content\": \"<CONTENT>\"\n  ]\n)\n","children":"let _ = try await databases.createDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"blog_posts\",\n  documentId: ID.unique(),\n  data: [\n    \"$createdAt\": \"<ORIGINAL_CREATED_AT_ISO>\",\n    \"$updatedAt\": \"<LAST_MODIFIED_ISO>\",\n    \"title\": \"<TITLE>\",\n    \"content\": \"<CONTENT>\"\n  ]\n)\n"}],["$","$L11",null,{"language":"server-python","content":"databases.create_document(\n  database_id='<DATABASE_ID>',\n  collection_id='blog_posts',\n  document_id=ID.unique(),\n  data={\n    '$createdAt': '<ORIGINAL_CREATED_AT_ISO>',\n    '$updatedAt': '<LAST_MODIFIED_ISO>',\n    'title': '<TITLE>',\n    'content': '<CONTENT>'\n  }\n)\n","children":"databases.create_document(\n  database_id='<DATABASE_ID>',\n  collection_id='blog_posts',\n  document_id=ID.unique(),\n  data={\n    '$createdAt': '<ORIGINAL_CREATED_AT_ISO>',\n    '$updatedAt': '<LAST_MODIFIED_ISO>',\n    'title': '<TITLE>',\n    'content': '<CONTENT>'\n  }\n)\n"}],["$","$L11",null,{"language":"server-ruby","content":"databases.create_document(\n  database_id: '<DATABASE_ID>',\n  collection_id: 'blog_posts',\n  document_id: ID.unique(),\n  data: {\n    '$createdAt' => '<ORIGINAL_CREATED_AT_ISO>',\n    '$updatedAt' => '<LAST_MODIFIED_ISO>',\n    'title' => '<TITLE>',\n    'content' => '<CONTENT>'\n  }\n)\n","children":"databases.create_document(\n  database_id: '<DATABASE_ID>',\n  collection_id: 'blog_posts',\n  document_id: ID.unique(),\n  data: {\n    '$createdAt' => '<ORIGINAL_CREATED_AT_ISO>',\n    '$updatedAt' => '<LAST_MODIFIED_ISO>',\n    'title' => '<TITLE>',\n    'content' => '<CONTENT>'\n  }\n)\n"}],["$","$L11",null,{"language":"server-dotnet","content":"await databases.CreateDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"blog_posts\",\n  documentId: ID.Unique(),\n  data: new Dictionary<string, object>\n  {\n    [\"$createdAt\"] = \"<ORIGINAL_CREATED_AT_ISO>\",\n    [\"$updatedAt\"] = \"<LAST_MODIFIED_ISO>\",\n    [\"title\"] = \"<TITLE>\",\n    [\"content\"] = \"<CONTENT>\"\n  }\n);\n","children":"await databases.CreateDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"blog_posts\",\n  documentId: ID.Unique(),\n  data: new Dictionary<string, object>\n  {\n    [\"$createdAt\"] = \"<ORIGINAL_CREATED_AT_ISO>\",\n    [\"$updatedAt\"] = \"<LAST_MODIFIED_ISO>\",\n    [\"title\"] = \"<TITLE>\",\n    [\"content\"] = \"<CONTENT>\"\n  }\n);\n"}],"$L3c"]}]
+26:["$","$Lf",null,{"id":"backdating","level":2,"children":"Backdating records "}]
+27:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For historical data entry or when creating records that represent past events:"}]
+28:["$","$L10",null,{"children":[["$","$L11",null,{"language":"server-nodejs","content":"await databases.createDocument(\n  '<DATABASE_ID>',\n  'transactions',\n  sdk.ID.unique(),\n  {\n    '$createdAt': '2023-12-31T23:59:59.000Z',\n    '$updatedAt': '2023-12-31T23:59:59.000Z',\n    amount: 1000,\n    type: 'year-end-bonus'\n  }\n)\n","children":"await databases.createDocument(\n  '<DATABASE_ID>',\n  'transactions',\n  sdk.ID.unique(),\n  {\n    '$createdAt': '2023-12-31T23:59:59.000Z',\n    '$updatedAt': '2023-12-31T23:59:59.000Z',\n    amount: 1000,\n    type: 'year-end-bonus'\n  }\n)\n"}],["$","$L11",null,{"language":"server-php","content":"$$databases->createDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'transactions',\n  documentId: ID::unique(),\n  [\n    '$createdAt' => '2023-12-31T23:59:59.000Z',\n    '$updatedAt' => '2023-12-31T23:59:59.000Z',\n    'amount' => 1000,\n    'type' => 'year-end-bonus'\n  ]\n);\n","children":"$$databases->createDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'transactions',\n  documentId: ID::unique(),\n  [\n    '$createdAt' => '2023-12-31T23:59:59.000Z',\n    '$updatedAt' => '2023-12-31T23:59:59.000Z',\n    'amount' => 1000,\n    'type' => 'year-end-bonus'\n  ]\n);\n"}],["$","$L11",null,{"language":"server-swift","content":"let _ = try await databases.createDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"transactions\",\n  documentId: ID.unique(),\n  data: [\n    \"$createdAt\": \"2023-12-31T23:59:59.000Z\",\n    \"$updatedAt\": \"2023-12-31T23:59:59.000Z\",\n    \"amount\": 1000,\n    \"type\": \"year-end-bonus\"\n  ]\n)\n","children":"let _ = try await databases.createDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"transactions\",\n  documentId: ID.unique(),\n  data: [\n    \"$createdAt\": \"2023-12-31T23:59:59.000Z\",\n    \"$updatedAt\": \"2023-12-31T23:59:59.000Z\",\n    \"amount\": 1000,\n    \"type\": \"year-end-bonus\"\n  ]\n)\n"}],["$","$L11",null,{"language":"server-python","content":"databases.create_document(\n  database_id='<DATABASE_ID>',\n  collection_id='transactions',\n  document_id=ID.unique(),\n  data={\n    '$createdAt': '2023-12-31T23:59:59.000Z',\n    '$updatedAt': '2023-12-31T23:59:59.000Z',\n    'amount': 1000,\n    'type': 'year-end-bonus'\n  }\n)\n","children":"databases.create_document(\n  database_id='<DATABASE_ID>',\n  collection_id='transactions',\n  document_id=ID.unique(),\n  data={\n    '$createdAt': '2023-12-31T23:59:59.000Z',\n    '$updatedAt': '2023-12-31T23:59:59.000Z',\n    'amount': 1000,\n    'type': 'year-end-bonus'\n  }\n)\n"}],["$","$L11",null,{"language":"server-ruby","content":"databases.create_document(\n  database_id: '<DATABASE_ID>',\n  collection_id: 'transactions',\n  document_id: ID.unique(),\n  data: {\n    '$createdAt' => '2023-12-31T23:59:59.000Z',\n    '$updatedAt' => '2023-12-31T23:59:59.000Z',\n    'amount' => 1000,\n    'type' => 'year-end-bonus'\n  }\n)\n","children":"databases.create_document(\n  database_id: '<DATABASE_ID>',\n  collection_id: 'transactions',\n  document_id: ID.unique(),\n  data: {\n    '$createdAt' => '2023-12-31T23:59:59.000Z',\n    '$updatedAt' => '2023-12-31T23:59:59.000Z',\n    'amount' => 1000,\n    'type' => 'year-end-bonus'\n  }\n)\n"}],["$","$L11",null,{"language":"server-dotnet","content":"await databases.CreateDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"transactions\",\n  documentId: ID.Unique(),\n  data: new Dictionary<string, object>\n  {\n    [\"$createdAt\"] = \"2023-12-31T23:59:59.000Z\",\n    [\"$updatedAt\"] = \"2023-12-31T23:59:59.000Z\",\n    [\"amount\"] = 1000,\n    [\"type\"] = \"year-end-bonus\"\n  }\n);\n","children":"await databases.CreateDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"transactions\",\n  documentId: ID.Unique(),\n  data: new Dictionary<string, object>\n  {\n    [\"$createdAt\"] = \"2023-12-31T23:59:59.000Z\",\n    [\"$updatedAt\"] = \"2023-12-31T23:59:59.000Z\",\n    [\"amount\"] = 1000,\n    [\"type\"] = \"year-end-bonus\"\n  }\n);\n"}],"$L3d"]}]
+29:["$","$Lf",null,{"id":"synchronization","level":2,"children":"Synchronization "}]
+2a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When synchronizing data between systems while maintaining timestamp consistency:"}]
+2b:["$","$L10",null,{"children":[["$","$L11",null,{"language":"server-nodejs","content":"await databases.upsertDocument(\n  '<DATABASE_ID>',\n  'users',\n  '<DOCUMENT_ID_OR_NEW_ID>',\n  {\n    '$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',\n    profile: '<PROFILE_DATA>'\n  }\n)\n","children":"await databases.upsertDocument(\n  '<DATABASE_ID>',\n  'users',\n  '<DOCUMENT_ID_OR_NEW_ID>',\n  {\n    '$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',\n    profile: '<PROFILE_DATA>'\n  }\n)\n"}],["$","$L11",null,{"language":"server-php","content":"$$databases->upsertDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'users',\n  documentId: '<DOCUMENT_ID_OR_NEW_ID>',\n  [\n    '$updatedAt' => '<EXTERNAL_LAST_MODIFIED_ISO>',\n    'profile' => '<PROFILE_DATA>'\n  ]\n);\n","children":"$$databases->upsertDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'users',\n  documentId: '<DOCUMENT_ID_OR_NEW_ID>',\n  [\n    '$updatedAt' => '<EXTERNAL_LAST_MODIFIED_ISO>',\n    'profile' => '<PROFILE_DATA>'\n  ]\n);\n"}],["$","$L11",null,{"language":"server-swift","content":"let _ = try await databases.upsertDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"users\",\n  documentId: \"<DOCUMENT_ID_OR_NEW_ID>\",\n  data: [\n    \"$updatedAt\": \"<EXTERNAL_LAST_MODIFIED_ISO>\",\n    \"profile\": \"<PROFILE_DATA>\"\n  ]\n)\n","children":"let _ = try await databases.upsertDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"users\",\n  documentId: \"<DOCUMENT_ID_OR_NEW_ID>\",\n  data: [\n    \"$updatedAt\": \"<EXTERNAL_LAST_MODIFIED_ISO>\",\n    \"profile\": \"<PROFILE_DATA>\"\n  ]\n)\n"}],["$","$L11",null,{"language":"server-python","content":"databases.upsert_document(\n  database_id='<DATABASE_ID>',\n  collection_id='users',\n  document_id='<DOCUMENT_ID_OR_NEW_ID>',\n  data={\n    '$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',\n    'profile': '<PROFILE_DATA>'\n  }\n)\n","children":"databases.upsert_document(\n  database_id='<DATABASE_ID>',\n  collection_id='users',\n  document_id='<DOCUMENT_ID_OR_NEW_ID>',\n  data={\n    '$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',\n    'profile': '<PROFILE_DATA>'\n  }\n)\n"}],["$","$L11",null,{"language":"server-ruby","content":"databases.upsert_document(\n  database_id: '<DATABASE_ID>',\n  collection_id: 'users',\n  document_id: '<DOCUMENT_ID_OR_NEW_ID>',\n  data: {\n    '$updatedAt' => '<EXTERNAL_LAST_MODIFIED_ISO>',\n    'profile' => '<PROFILE_DATA>'\n  }\n)\n","children":"databases.upsert_document(\n  database_id: '<DATABASE_ID>',\n  collection_id: 'users',\n  document_id: '<DOCUMENT_ID_OR_NEW_ID>',\n  data: {\n    '$updatedAt' => '<EXTERNAL_LAST_MODIFIED_ISO>',\n    'profile' => '<PROFILE_DATA>'\n  }\n)\n"}],["$","$L11",null,{"language":"server-dotnet","content":"await databases.UpsertDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"users\",\n  documentId: \"<DOCUMENT_ID_OR_NEW_ID>\",\n  data: new Dictionary<string, object>\n  {\n    [\"$updatedAt\"] = \"<EXTERNAL_LAST_MODIFIED_ISO>\",\n    [\"profile\"] = \"<PROFILE_DATA>\"\n  }\n);\n","children":"await databases.UpsertDocument(\n  databaseId: \"<DATABASE_ID>\",\n  collectionId: \"users\",\n  documentId: \"<DOCUMENT_ID_OR_NEW_ID>\",\n  data: new Dictionary<string, object>\n  {\n    [\"$updatedAt\"] = \"<EXTERNAL_LAST_MODIFIED_ISO>\",\n    [\"profile\"] = \"<PROFILE_DATA>\"\n  }\n);\n"}],["$","$L11",null,{"language":"server-dart","content":"await databases.upsertDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'users',\n  documentId: '<DOCUMENT_ID_OR_NEW_ID>',\n  data: {\n    '\\$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',\n    'profile': '<PROFILE_DATA>'\n  },\n);\n","children":"await databases.upsertDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'users',\n  documentId: '<DOCUMENT_ID_OR_NEW_ID>',\n  data: {\n    '\\$updatedAt': '<EXTERNAL_LAST_MODIFIED_ISO>',\n    'profile': '<PROFILE_DATA>'\n  },\n);\n"}]]}]
+2c:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Timestamp format and usage"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["Values must be valid ISO 8601 date-time strings (UTC recommended). Using ",["$","code",null,{"children":"toISOString()"}]," (JavaScript) or ",["$","code",null,{"children":"datetime.isoformat()"}]," (Python) is a good default."]}],["$","li",null,{"children":"You can set either or both attributes as needed. If omitted, Clikkle sets them automatically."}]]}]]}]
+2d:["$","$L3e",null,{}]
+31:null
+32:["$","$L11",null,{"language":"server-ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .set_project('<YOUR_PROJECT_ID>')\n    .set_key('<YOUR_API_KEY>')\n\ndatabases = Databases.new(client)\n\ncustom_date = Time.parse('<CUSTOM_DATE>').iso8601\n\ndatabases.update_document(\n  database_id: '<DATABASE_ID>',\n  collection_id: '<COLLECTION_ID>',\n  document_id: '<DOCUMENT_ID>',\n  data: {\n    '$updatedAt' => custom_date,\n    # ...your attributes\n  }\n)\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .set_project('<YOUR_PROJECT_ID>')\n    .set_key('<YOUR_API_KEY>')\n\ndatabases = Databases.new(client)\n\ncustom_date = Time.parse('<CUSTOM_DATE>').iso8601\n\ndatabases.update_document(\n  database_id: '<DATABASE_ID>',\n  collection_id: '<COLLECTION_ID>',\n  document_id: '<DOCUMENT_ID>',\n  data: {\n    '$updatedAt' => custom_date,\n    # ...your attributes\n  }\n)\n"}]
+33:["$","$L11",null,{"language":"server-dotnet","content":"using Clikkle;\nusing Clikkle.Models;\nusing Clikkle.Services;\n\nClient client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<YOUR_PROJECT_ID>\")\n    .SetKey(\"<YOUR_API_KEY>\");\n\nDatabases databases = new Databases(client);\n\nstring customDate = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\n\nawait databases.UpdateDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: \"<DOCUMENT_ID>\",\n    data: new Dictionary<string, object>\n    {\n        [\"$updatedAt\"] = customDate,\n        // ...your attributes\n    }\n);\n","children":"using Clikkle;\nusing Clikkle.Models;\nusing Clikkle.Services;\n\nClient client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<YOUR_PROJECT_ID>\")\n    .SetKey(\"<YOUR_API_KEY>\");\n\nDatabases databases = new Databases(client);\n\nstring customDate = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\n\nawait databases.UpdateDocument(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documentId: \"<DOCUMENT_ID>\",\n    data: new Dictionary<string, object>\n    {\n        [\"$updatedAt\"] = customDate,\n        // ...your attributes\n    }\n);\n"}]
+34:["$","$L11",null,{"language":"server-dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>');\n\nDatabases databases = Databases(client);\n\nString customDate = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\n\nawait databases.updateDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: '<COLLECTION_ID>',\n  documentId: '<DOCUMENT_ID>',\n  data: {\n    '\\$updatedAt': customDate,\n    // ...your attributes\n  },\n);\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>');\n\nDatabases databases = Databases(client);\n\nString customDate = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\n\nawait databases.updateDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: '<COLLECTION_ID>',\n  documentId: '<DOCUMENT_ID>',\n  data: {\n    '\\$updatedAt': customDate,\n    // ...your attributes\n  },\n);\n"}]
+3f:T476,import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+
+let first = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+let second = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+
+do {
+    let bulkCreated = try await databases.createDocuments(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documents: [
+            [
+                "$id": ID.unique(),
+                "$createdAt": first,
+                "$updatedAt": first,
+                // ...your attributes
+            ],
+            [
+                "$id": ID.unique(),
+                "$createdAt": second,
+                "$updatedAt": second,
+                // ...your attributes
+            ]
+        ]
+    )
+    print("Bulk create:", bulkCreated)
+} catch {
+    print("Bulk create error:", error)
+}
+40:T476,import Clikkle
+import Foundation
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setKey("<YOUR_API_KEY>")
+
+let databases = Databases(client)
+
+let isoFormatter = ISO8601DateFormatter()
+isoFormatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+
+let first = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+let second = isoFormatter.string(from: isoFormatter.date(from: "<CUSTOM_DATE>") ?? Date())
+
+do {
+    let bulkCreated = try await databases.createDocuments(
+        databaseId: "<DATABASE_ID>",
+        collectionId: "<COLLECTION_ID>",
+        documents: [
+            [
+                "$id": ID.unique(),
+                "$createdAt": first,
+                "$updatedAt": first,
+                // ...your attributes
+            ],
+            [
+                "$id": ID.unique(),
+                "$createdAt": second,
+                "$updatedAt": second,
+                // ...your attributes
+            ]
+        ]
+    )
+    print("Bulk create:", bulkCreated)
+} catch {
+    print("Bulk create error:", error)
+}
+35:["$","$L11",null,{"language":"server-swift","content":"$3f","children":"$40"}]
+36:["$","$L11",null,{"language":"server-ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .set_project('<YOUR_PROJECT_ID>')\n    .set_key('<YOUR_API_KEY>')\n\ndatabases = Databases.new(client)\n\nfirst = Time.parse('<CUSTOM_DATE>').iso8601\nsecond = Time.parse('<CUSTOM_DATE>').iso8601\n\ndatabases.create_documents(\n  database_id: '<DATABASE_ID>',\n  collection_id: '<COLLECTION_ID>',\n  documents: [\n    {\n      '$id' => ID.unique(),\n      '$createdAt' => first,\n      '$updatedAt' => first,\n      # ...your attributes\n    },\n    {\n      '$id' => ID.unique(),\n      '$createdAt' => second,\n      '$updatedAt' => second,\n      # ...your attributes\n    }\n  ]\n)\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .set_project('<YOUR_PROJECT_ID>')\n    .set_key('<YOUR_API_KEY>')\n\ndatabases = Databases.new(client)\n\nfirst = Time.parse('<CUSTOM_DATE>').iso8601\nsecond = Time.parse('<CUSTOM_DATE>').iso8601\n\ndatabases.create_documents(\n  database_id: '<DATABASE_ID>',\n  collection_id: '<COLLECTION_ID>',\n  documents: [\n    {\n      '$id' => ID.unique(),\n      '$createdAt' => first,\n      '$updatedAt' => first,\n      # ...your attributes\n    },\n    {\n      '$id' => ID.unique(),\n      '$createdAt' => second,\n      '$updatedAt' => second,\n      # ...your attributes\n    }\n  ]\n)\n"}]
+37:["$","$L11",null,{"language":"server-dotnet","content":"using Clikkle;\nusing Clikkle.Models;\nusing Clikkle.Services;\n\nClient client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<YOUR_PROJECT_ID>\")\n    .SetKey(\"<YOUR_API_KEY>\");\n\nDatabases databases = new Databases(client);\n\nstring first = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\nstring second = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\n\nawait databases.CreateDocuments(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documents: new List<object>\n    {\n        new Dictionary<string, object>\n        {\n            [\"$id\"] = ID.Unique(),\n            [\"$createdAt\"] = first,\n            [\"$updatedAt\"] = first,\n            // ...your attributes\n        },\n        new Dictionary<string, object>\n        {\n            [\"$id\"] = ID.Unique(),\n            [\"$createdAt\"] = second,\n            [\"$updatedAt\"] = second,\n            // ...your attributes\n        }\n    }\n);\n","children":"using Clikkle;\nusing Clikkle.Models;\nusing Clikkle.Services;\n\nClient client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<YOUR_PROJECT_ID>\")\n    .SetKey(\"<YOUR_API_KEY>\");\n\nDatabases databases = new Databases(client);\n\nstring first = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\nstring second = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\n\nawait databases.CreateDocuments(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documents: new List<object>\n    {\n        new Dictionary<string, object>\n        {\n            [\"$id\"] = ID.Unique(),\n            [\"$createdAt\"] = first,\n            [\"$updatedAt\"] = first,\n            // ...your attributes\n        },\n        new Dictionary<string, object>\n        {\n            [\"$id\"] = ID.Unique(),\n            [\"$createdAt\"] = second,\n            [\"$updatedAt\"] = second,\n            // ...your attributes\n        }\n    }\n);\n"}]
+38:["$","$L11",null,{"language":"server-dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>');\n\nDatabases databases = Databases(client);\n\nString first = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\nString second = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\n\nawait databases.createDocuments(\n  databaseId: '<DATABASE_ID>',\n  collectionId: '<COLLECTION_ID>',\n  documents: [\n    {\n      '\\$id': ID.unique(),\n      '\\$createdAt': first,\n      '\\$updatedAt': first,\n      // ...your attributes\n    },\n    {\n      '\\$id': ID.unique(),\n      '\\$createdAt': second,\n      '\\$updatedAt': second,\n      // ...your attributes\n    }\n  ],\n);\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>');\n\nDatabases databases = Databases(client);\n\nString first = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\nString second = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\n\nawait databases.createDocuments(\n  databaseId: '<DATABASE_ID>',\n  collectionId: '<COLLECTION_ID>',\n  documents: [\n    {\n      '\\$id': ID.unique(),\n      '\\$createdAt': first,\n      '\\$updatedAt': first,\n      // ...your attributes\n    },\n    {\n      '\\$id': ID.unique(),\n      '\\$createdAt': second,\n      '\\$updatedAt': second,\n      // ...your attributes\n    }\n  ],\n);\n"}]
+39:["$","$L11",null,{"language":"server-ruby","content":"require 'clikkle'\nrequire 'time'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .set_project('<YOUR_PROJECT_ID>')\n    .set_key('<YOUR_API_KEY>')\n\ndatabases = Databases.new(client)\n\ncustom_date = Time.parse('<CUSTOM_DATE>').iso8601\n\ndatabases.upsert_documents(\n  database_id: '<DATABASE_ID>',\n  collection_id: '<COLLECTION_ID>',\n  documents: [\n    {\n      '$id' => '<DOCUMENT_ID_OR_NEW_ID>',\n      '$createdAt' => custom_date,\n      '$updatedAt' => custom_date,\n      # ...your attributes\n    }\n  ]\n)\n","children":"require 'clikkle'\nrequire 'time'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .set_project('<YOUR_PROJECT_ID>')\n    .set_key('<YOUR_API_KEY>')\n\ndatabases = Databases.new(client)\n\ncustom_date = Time.parse('<CUSTOM_DATE>').iso8601\n\ndatabases.upsert_documents(\n  database_id: '<DATABASE_ID>',\n  collection_id: '<COLLECTION_ID>',\n  documents: [\n    {\n      '$id' => '<DOCUMENT_ID_OR_NEW_ID>',\n      '$createdAt' => custom_date,\n      '$updatedAt' => custom_date,\n      # ...your attributes\n    }\n  ]\n)\n"}]
+3a:["$","$L11",null,{"language":"server-dotnet","content":"using Clikkle;\nusing Clikkle.Models;\nusing Clikkle.Services;\n\nClient client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<YOUR_PROJECT_ID>\")\n    .SetKey(\"<YOUR_API_KEY>\");\n\nDatabases databases = new Databases(client);\n\nstring createdAt = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\nstring updatedAt = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\n\nawait databases.UpsertDocuments(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documents: new List<object>\n    {\n        new Dictionary<string, object>\n        {\n            [\"$id\"] = \"<DOCUMENT_ID_OR_NEW_ID>\",\n            [\"$createdAt\"] = createdAt,\n            [\"$updatedAt\"] = updatedAt,\n            // ...your attributes\n        }\n    }\n);\n","children":"using Clikkle;\nusing Clikkle.Models;\nusing Clikkle.Services;\n\nClient client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<YOUR_PROJECT_ID>\")\n    .SetKey(\"<YOUR_API_KEY>\");\n\nDatabases databases = new Databases(client);\n\nstring createdAt = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\nstring updatedAt = DateTimeOffset.Parse(\"<CUSTOM_DATE>\").ToString(\"O\");\n\nawait databases.UpsertDocuments(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    documents: new List<object>\n    {\n        new Dictionary<string, object>\n        {\n            [\"$id\"] = \"<DOCUMENT_ID_OR_NEW_ID>\",\n            [\"$createdAt\"] = createdAt,\n            [\"$updatedAt\"] = updatedAt,\n            // ...your attributes\n        }\n    }\n);\n"}]
+3b:["$","$L11",null,{"language":"server-dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>');\n\nDatabases databases = Databases(client);\n\nString createdAt = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\nString updatedAt = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\n\nawait databases.upsertDocuments(\n  databaseId: '<DATABASE_ID>',\n  collectionId: '<COLLECTION_ID>',\n  documents: [\n    {\n      '\\$id': '<DOCUMENT_ID_OR_NEW_ID>',\n      '\\$createdAt': createdAt,\n      '\\$updatedAt': updatedAt,\n      // ...your attributes\n    }\n  ],\n);\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nClient client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<YOUR_PROJECT_ID>')\n    .setKey('<YOUR_API_KEY>');\n\nDatabases databases = Databases(client);\n\nString createdAt = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\nString updatedAt = DateTime.parse('<CUSTOM_DATE>').toIso8601String();\n\nawait databases.upsertDocuments(\n  databaseId: '<DATABASE_ID>',\n  collectionId: '<COLLECTION_ID>',\n  documents: [\n    {\n      '\\$id': '<DOCUMENT_ID_OR_NEW_ID>',\n      '\\$createdAt': createdAt,\n      '\\$updatedAt': updatedAt,\n      // ...your attributes\n    }\n  ],\n);\n"}]
+3c:["$","$L11",null,{"language":"server-dart","content":"await databases.createDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'blog_posts',\n  documentId: ID.unique(),\n  data: {\n    '\\$createdAt': '<ORIGINAL_CREATED_AT_ISO>',\n    '\\$updatedAt': '<LAST_MODIFIED_ISO>',\n    'title': '<TITLE>',\n    'content': '<CONTENT>'\n  },\n);\n","children":"await databases.createDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'blog_posts',\n  documentId: ID.unique(),\n  data: {\n    '\\$createdAt': '<ORIGINAL_CREATED_AT_ISO>',\n    '\\$updatedAt': '<LAST_MODIFIED_ISO>',\n    'title': '<TITLE>',\n    'content': '<CONTENT>'\n  },\n);\n"}]
+3d:["$","$L11",null,{"language":"server-dart","content":"await databases.createDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'transactions',\n  documentId: ID.unique(),\n  data: {\n    '\\$createdAt': '2023-12-31T23:59:59.000Z',\n    '\\$updatedAt': '2023-12-31T23:59:59.000Z',\n    'amount': 1000,\n    'type': 'year-end-bonus'\n  },\n);\n","children":"await databases.createDocument(\n  databaseId: '<DATABASE_ID>',\n  collectionId: 'transactions',\n  documentId: ID.unique(),\n  data: {\n    '\\$createdAt': '2023-12-31T23:59:59.000Z',\n    '\\$updatedAt': '2023-12-31T23:59:59.000Z',\n    'amount': 1000,\n    'type': 'year-end-bonus'\n  },\n);\n"}]

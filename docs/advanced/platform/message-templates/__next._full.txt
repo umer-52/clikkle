@@ -1,0 +1,569 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+f:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","advanced","platform","message-templates"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","advanced/platform/message-templates","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],"$L7","$L8","$L9"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12","$L13","$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+16:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+17:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+18:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+20:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}]
+8:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+9:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L16",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+a:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L17",null,{"children":["$","$L18",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L19",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+1d:[]
+d:"$W1d"
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+23:T2d71,﻿---
+layout: article
+title: Message templates
+description: Communicate using your brand and voice by customizing email and SMS message templates, localized to your user's language.
+---
+
+Clikkle uses emails to communicate with users to perform authentication and verification actions. Emails can be customized to fit your app's design and voice.
+
+Each Clikkle project can have its own set of unique templates. Templates also support localization, so every template can be written in multiple languages and served depending on the configured locale.
+
+# Custom SMTP server {% #smtp %}
+
+Clikkle Cloud has a default SMTP server to get you started. This SMTP server sends generic emails and doesn't allow customizing SMTP templates. To use custom SMTP templates, you will need to configure your own SMTP server.
+
+There are many third-party SMTP providers like SendGrid and Mailgun. Before proceeding, pick an SMTP provider, create an account, and obtain **Sender name**, **Sender email**, **Server host**, **Server port**, **Username**, and **Password**.
+
+1. Navigate to your project's **Settings**.
+1. Navigate to the **SMTP** tab.
+1. Under **SMTP server**, toggle **Custom SMTP server**.
+1. Input **Sender name**, **Sender email**, **Server host**, **Server port**, **Username**, and **Password** from your provider.
+1. Click **Update**.
+
+# Customize templates {% #customize %}
+
+You can customize email templates for each of your projects in the Clikkle Console.
+
+{% info title="Custom SMTP server required" %}
+The built-in email service does not support custom email templates to prevent malicious templates.
+Configure a [custom SMTP server](#smtp) to enable custom email templates.
+{% /info %}
+
+1. In your project, navigate to the **Auth** service.
+1. Under the **Auth** service, navigate to the **Templates** tab.
+1. Expand the email template you want to edit.
+1. Select the **Template language**. You can have a different template for each language your app supports.
+1. Update the email template fields and click **Update** to save your changes.
+
+# Email templates {% #email-templates %}
+
+You can customize the email templates for account verification, magic-url authentication, password resets, and user invites.
+
+## Email template components {% #email-template-components %}
+
+Each email template has the following components that you can customize.
+
+| Component                                                                                                                                                                                                                                                             | Description                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sender name                                                                                                                                                                                                                                                           | Readers will see this as a display name of the sender.                                                                                                                                                                                                                |
+| Sender email                                                                                                                                                                                                                                                          | Readers will see this as a display email of the sender. This email must be authenticated on the SMTP provider you've configured, otherwise it will be delivered to the spam folder. This usually means the email must end with the same domain as your SMTP username. |
+| Reply to                                                                                                                                                                                                                                                              | Readers will reply to this email address instead of the sender address. You can leave this field empty, and the sender email will be used automatically.                                                                                                              |
+| Subject                                                                                                                                                                                                                                                               | The title of the email.                                                                                                                                                                                                                                               |
+| Message                                                                                                                                                                                                                                                               | The body of the email in HTML format. You can find the variables available in the [Email Template Syntax](#email-template-syntax) section.                                                                                                                            |
+
+## Email template syntax {% #email-template-syntax %}
+
+Variables can be used in email templates to dynamically construct unique emails for each reader. These variables can only be used in the **Message** field of the email template.
+
+| Variable                                                                                                                              | Description                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| `{{project}}`                                                                                                                         | The project name.                                                                                                                     |
+| `{{team}}`                                                                                                                            | The project team's name.                                                                                                              |
+| `{{user}}`                                                                                                                            | The name of the user receiving the email. This variable is not available in the Magic URL template, as there might not be a user yet. |
+| `{{redirect}}`                                                                                                                        | The URL for the user to complete the email template's action.                                                                         |
+
+## Email template syntax {% #email-template-examples %}
+
+Here's an example of using these variables in a template.
+
+```html
+<!doctype html>
+<html>
+
+<head>
+    <!-- <style>
+        ... your style here
+    </style> -->
+</head>
+
+<body style="direction: ltr">
+
+    <div style="max-width:650px; word-wrap: break-word; overflow-wrap: break-word;
+  word-break: break-all; margin:0 auto;">
+        <table style="margin-top: 32px">
+            <tr>
+                <td>
+                    <h1>{{subject}}</h1>
+                </td>
+            </tr>
+        </table>
+
+        <table style="margin-top: 40px">
+            <tr>
+                <td>
+                    <p>Hello </p>
+
+                    <p>Follow this link to reset your {{project}} password.</p>
+
+                    <a href="{{redirect}}" target="_blank" rel="noopener noreferrer">{{redirect}}</a>
+
+                    <p><br />If you didn't ask to reset your password, you can ignore this message.</p>
+                    <br />
+
+                    <p>Thanks
+                        <br />
+                        {{project}} team</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+
+</html>
+```
+
+# Localization {% #localization %}
+
+Each template can have multiple supported locales, displayed in different format and language. This can be configured under the **Template language** selector of each template.
+
+You can send messages in different languages by setting the locale with `client.setLocale()` in the SDKs or the `X-Clikkle-Locale` HTTP header. [View here the list of available locales](https://github.com/clikkle/clikkle/blob/master/app/config/locale/codes.php).
+
+For example, you can send an email verification in French.
+
+{% multicode %}
+```client-web
+import { Client, Account } from "clikkle";
+
+const client = new Client();
+
+const account = new Account(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setLocale('fr')                             // Your locale
+;
+
+const promise = account.createVerification({
+    url: 'https://example.com'
+});
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Account account = Account(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setLocale('fr')                             // Your locale
+  ;
+  Future result = account.createVerification('https://example.com');
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Account
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setLocale('fr')                             // Your locale
+
+val account = Account(client)
+
+val response = account.createVerification('https://example.com')
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setLocale('fr')                             // Your locale
+
+let account = Account(client)
+
+let token = try await account.createVerification('https://example.com')
+```
+{% /multicode %}
+
+19:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L22",null,{"markdown":"$23","className":"ml-0"}]}]]}],null,"$L24"]}],"$L25","$L26"]}]}]
+28:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+29:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2a:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+3d:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+27:T2d71,﻿---
+layout: article
+title: Message templates
+description: Communicate using your brand and voice by customizing email and SMS message templates, localized to your user's language.
+---
+
+Clikkle uses emails to communicate with users to perform authentication and verification actions. Emails can be customized to fit your app's design and voice.
+
+Each Clikkle project can have its own set of unique templates. Templates also support localization, so every template can be written in multiple languages and served depending on the configured locale.
+
+# Custom SMTP server {% #smtp %}
+
+Clikkle Cloud has a default SMTP server to get you started. This SMTP server sends generic emails and doesn't allow customizing SMTP templates. To use custom SMTP templates, you will need to configure your own SMTP server.
+
+There are many third-party SMTP providers like SendGrid and Mailgun. Before proceeding, pick an SMTP provider, create an account, and obtain **Sender name**, **Sender email**, **Server host**, **Server port**, **Username**, and **Password**.
+
+1. Navigate to your project's **Settings**.
+1. Navigate to the **SMTP** tab.
+1. Under **SMTP server**, toggle **Custom SMTP server**.
+1. Input **Sender name**, **Sender email**, **Server host**, **Server port**, **Username**, and **Password** from your provider.
+1. Click **Update**.
+
+# Customize templates {% #customize %}
+
+You can customize email templates for each of your projects in the Clikkle Console.
+
+{% info title="Custom SMTP server required" %}
+The built-in email service does not support custom email templates to prevent malicious templates.
+Configure a [custom SMTP server](#smtp) to enable custom email templates.
+{% /info %}
+
+1. In your project, navigate to the **Auth** service.
+1. Under the **Auth** service, navigate to the **Templates** tab.
+1. Expand the email template you want to edit.
+1. Select the **Template language**. You can have a different template for each language your app supports.
+1. Update the email template fields and click **Update** to save your changes.
+
+# Email templates {% #email-templates %}
+
+You can customize the email templates for account verification, magic-url authentication, password resets, and user invites.
+
+## Email template components {% #email-template-components %}
+
+Each email template has the following components that you can customize.
+
+| Component                                                                                                                                                                                                                                                             | Description                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sender name                                                                                                                                                                                                                                                           | Readers will see this as a display name of the sender.                                                                                                                                                                                                                |
+| Sender email                                                                                                                                                                                                                                                          | Readers will see this as a display email of the sender. This email must be authenticated on the SMTP provider you've configured, otherwise it will be delivered to the spam folder. This usually means the email must end with the same domain as your SMTP username. |
+| Reply to                                                                                                                                                                                                                                                              | Readers will reply to this email address instead of the sender address. You can leave this field empty, and the sender email will be used automatically.                                                                                                              |
+| Subject                                                                                                                                                                                                                                                               | The title of the email.                                                                                                                                                                                                                                               |
+| Message                                                                                                                                                                                                                                                               | The body of the email in HTML format. You can find the variables available in the [Email Template Syntax](#email-template-syntax) section.                                                                                                                            |
+
+## Email template syntax {% #email-template-syntax %}
+
+Variables can be used in email templates to dynamically construct unique emails for each reader. These variables can only be used in the **Message** field of the email template.
+
+| Variable                                                                                                                              | Description                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| `{{project}}`                                                                                                                         | The project name.                                                                                                                     |
+| `{{team}}`                                                                                                                            | The project team's name.                                                                                                              |
+| `{{user}}`                                                                                                                            | The name of the user receiving the email. This variable is not available in the Magic URL template, as there might not be a user yet. |
+| `{{redirect}}`                                                                                                                        | The URL for the user to complete the email template's action.                                                                         |
+
+## Email template syntax {% #email-template-examples %}
+
+Here's an example of using these variables in a template.
+
+```html
+<!doctype html>
+<html>
+
+<head>
+    <!-- <style>
+        ... your style here
+    </style> -->
+</head>
+
+<body style="direction: ltr">
+
+    <div style="max-width:650px; word-wrap: break-word; overflow-wrap: break-word;
+  word-break: break-all; margin:0 auto;">
+        <table style="margin-top: 32px">
+            <tr>
+                <td>
+                    <h1>{{subject}}</h1>
+                </td>
+            </tr>
+        </table>
+
+        <table style="margin-top: 40px">
+            <tr>
+                <td>
+                    <p>Hello </p>
+
+                    <p>Follow this link to reset your {{project}} password.</p>
+
+                    <a href="{{redirect}}" target="_blank" rel="noopener noreferrer">{{redirect}}</a>
+
+                    <p><br />If you didn't ask to reset your password, you can ignore this message.</p>
+                    <br />
+
+                    <p>Thanks
+                        <br />
+                        {{project}} team</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+
+</html>
+```
+
+# Localization {% #localization %}
+
+Each template can have multiple supported locales, displayed in different format and language. This can be configured under the **Template language** selector of each template.
+
+You can send messages in different languages by setting the locale with `client.setLocale()` in the SDKs or the `X-Clikkle-Locale` HTTP header. [View here the list of available locales](https://github.com/clikkle/clikkle/blob/master/app/config/locale/codes.php).
+
+For example, you can send an email verification in French.
+
+{% multicode %}
+```client-web
+import { Client, Account } from "clikkle";
+
+const client = new Client();
+
+const account = new Account(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setLocale('fr')                             // Your locale
+;
+
+const promise = account.createVerification({
+    url: 'https://example.com'
+});
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Account account = Account(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setLocale('fr')                             // Your locale
+  ;
+  Future result = account.createVerification('https://example.com');
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Account
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setLocale('fr')                             // Your locale
+
+val account = Account(client)
+
+val response = account.createVerification('https://example.com')
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setLocale('fr')                             // Your locale
+
+let account = Account(client)
+
+let token = try await account.createVerification('https://example.com')
+```
+{% /multicode %}
+
+24:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Message templates"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L22",null,{"markdown":"$27","className":"ml-0"}]}]]}]
+25:["$","$L28",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L29",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle uses emails to communicate with users to perform authentication and verification actions. Emails can be customized to fit your app's design and voice."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Each Clikkle project can have its own set of unique templates. Templates also support localization, so every template can be written in multiple languages and served depending on the configured locale."}],["$","$L2a",null,{"id":"smtp","level":1,"children":"Custom SMTP server "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle Cloud has a default SMTP server to get you started. This SMTP server sends generic emails and doesn't allow customizing SMTP templates. To use custom SMTP templates, you will need to configure your own SMTP server."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["There are many third-party SMTP providers like SendGrid and Mailgun. Before proceeding, pick an SMTP provider, create an account, and obtain ",["$","strong",null,{"children":"Sender name"}],", ",["$","strong",null,{"children":"Sender email"}],", ",["$","strong",null,{"children":"Server host"}],", ",["$","strong",null,{"children":"Server port"}],", ",["$","strong",null,{"children":"Username"}],", and ",["$","strong",null,{"children":"Password"}],"."]}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["Navigate to your project's ",["$","strong",null,{"children":"Settings"}],"."]}],["$","li",null,{"children":["Navigate to the ",["$","strong",null,{"children":"SMTP"}]," tab."]}],["$","li",null,{"children":["Under ",["$","strong",null,{"children":"SMTP server"}],", toggle ",["$","strong",null,{"children":"Custom SMTP server"}],"."]}],["$","li",null,{"children":["Input ",["$","strong",null,{"children":"Sender name"}],", ",["$","strong",null,{"children":"Sender email"}],", ",["$","strong",null,{"children":"Server host"}],", ",["$","strong",null,{"children":"Server port"}],", ",["$","strong",null,{"children":"Username"}],", and ",["$","strong",null,{"children":"Password"}]," from your provider."]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Update"}],"."]}]]}],["$","$L2a",null,{"id":"customize","level":1,"children":"Customize templates "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can customize email templates for each of your projects in the Clikkle Console."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Custom SMTP server required"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The built-in email service does not support custom email templates to prevent malicious templates."," ","Configure a ",["$","$L16",null,{"href":"#smtp","children":"custom SMTP server"}]," to enable custom email templates."]}]]}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["In your project, navigate to the ",["$","strong",null,{"children":"Auth"}]," service."]}],["$","li",null,{"children":["Under the ",["$","strong",null,{"children":"Auth"}]," service, navigate to the ",["$","strong",null,{"children":"Templates"}]," tab."]}],["$","li",null,{"children":"Expand the email template you want to edit."}],["$","li",null,{"children":["Select the ",["$","strong",null,{"children":"Template language"}],". You can have a different template for each language your app supports."]}],["$","li",null,{"children":["Update the email template fields and click ","$L2b"," to save your changes."]}]]}],"$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b"]}]}]]}],"$L3c"]}]
+26:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L3d",null,{"items":[{"id":"smtp","title":"Custom SMTP server","level":1},{"id":"customize","title":"Customize templates","level":1},{"id":"email-templates","title":"Email templates","level":1},{"id":"email-template-components","title":"Email template components","level":2},{"id":"email-template-syntax","title":"Email template syntax","level":2},{"id":"email-template-examples","title":"Email template syntax","level":2},{"id":"localization","title":"Localization","level":1}]}]}]
+3e:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+3f:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+42:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+43:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2b:["$","strong",null,{"children":"Update"}]
+2c:["$","$L2a",null,{"id":"email-templates","level":1,"children":"Email templates "}]
+2d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can customize the email templates for account verification, magic-url authentication, password resets, and user invites."}]
+2e:["$","$L2a",null,{"id":"email-template-components","level":2,"children":"Email template components "}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Each email template has the following components that you can customize."}]
+30:["$","$L3e",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Component"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Sender name"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Readers will see this as a display name of the sender."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Sender email"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Readers will see this as a display email of the sender. This email must be authenticated on the SMTP provider you've configured, otherwise it will be delivered to the spam folder. This usually means the email must end with the same domain as your SMTP username."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Reply to"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Readers will reply to this email address instead of the sender address. You can leave this field empty, and the sender email will be used automatically."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Subject"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The title of the email."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Message"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["The body of the email in HTML format. You can find the variables available in the ",["$","$L16",null,{"href":"#email-template-syntax","children":"Email Template Syntax"}]," section."]}]}]]}]]}]]}]
+31:["$","$L2a",null,{"id":"email-template-syntax","level":2,"children":"Email template syntax "}]
+32:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Variables can be used in email templates to dynamically construct unique emails for each reader. These variables can only be used in the ",["$","strong",null,{"children":"Message"}]," field of the email template."]}]
+33:["$","$L3e",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Variable"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"{{project}}"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The project name."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"{{team}}"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The project team's name."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"{{user}}"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The name of the user receiving the email. This variable is not available in the Magic URL template, as there might not be a user yet."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"{{redirect}}"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The URL for the user to complete the email template's action."}]}]]}]]}]]}]
+34:["$","$L2a",null,{"id":"email-template-examples","level":2,"children":"Email template syntax "}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Here's an example of using these variables in a template."}]
+40:T422,<!doctype html>
+<html>
+
+<head>
+    <!-- <style>
+        ... your style here
+    </style> -->
+</head>
+
+<body style="direction: ltr">
+
+    <div style="max-width:650px; word-wrap: break-word; overflow-wrap: break-word;
+  word-break: break-all; margin:0 auto;">
+        <table style="margin-top: 32px">
+            <tr>
+                <td>
+                    <h1>{{subject}}</h1>
+                </td>
+            </tr>
+        </table>
+
+        <table style="margin-top: 40px">
+            <tr>
+                <td>
+                    <p>Hello </p>
+
+                    <p>Follow this link to reset your {{project}} password.</p>
+
+                    <a href="{{redirect}}" target="_blank" rel="noopener noreferrer">{{redirect}}</a>
+
+                    <p><br />If you didn't ask to reset your password, you can ignore this message.</p>
+                    <br />
+
+                    <p>Thanks
+                        <br />
+                        {{project}} team</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+
+</html>
+41:T422,<!doctype html>
+<html>
+
+<head>
+    <!-- <style>
+        ... your style here
+    </style> -->
+</head>
+
+<body style="direction: ltr">
+
+    <div style="max-width:650px; word-wrap: break-word; overflow-wrap: break-word;
+  word-break: break-all; margin:0 auto;">
+        <table style="margin-top: 32px">
+            <tr>
+                <td>
+                    <h1>{{subject}}</h1>
+                </td>
+            </tr>
+        </table>
+
+        <table style="margin-top: 40px">
+            <tr>
+                <td>
+                    <p>Hello </p>
+
+                    <p>Follow this link to reset your {{project}} password.</p>
+
+                    <a href="{{redirect}}" target="_blank" rel="noopener noreferrer">{{redirect}}</a>
+
+                    <p><br />If you didn't ask to reset your password, you can ignore this message.</p>
+                    <br />
+
+                    <p>Thanks
+                        <br />
+                        {{project}} team</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+
+</html>
+36:["$","$L3f",null,{"language":"html","content":"$40","children":"$41"}]
+37:["$","$L2a",null,{"id":"localization","level":1,"children":"Localization "}]
+38:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Each template can have multiple supported locales, displayed in different format and language. This can be configured under the ",["$","strong",null,{"children":"Template language"}]," selector of each template."]}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can send messages in different languages by setting the locale with ",["$","code",null,{"children":"client.setLocale()"}]," in the SDKs or the ",["$","code",null,{"children":"X-Clikkle-Locale"}]," HTTP header. ",["$","a",null,{"href":"https://github.com/clikkle/clikkle/blob/master/app/config/locale/codes.php","target":"_blank","rel":"noopener nofollow","children":"View here the list of available locales"}],"."]}]
+3a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For example, you can send an email verification in French."}]
+3b:["$","$L42",null,{"children":[["$","$L3f",null,{"language":"client-web","content":"import { Client, Account } from \"clikkle\";\n\nconst client = new Client();\n\nconst account = new Account(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setLocale('fr')                             // Your locale\n;\n\nconst promise = account.createVerification({\n    url: 'https://example.com'\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n","children":"import { Client, Account } from \"clikkle\";\n\nconst client = new Client();\n\nconst account = new Account(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setLocale('fr')                             // Your locale\n;\n\nconst promise = account.createVerification({\n    url: 'https://example.com'\n});\n\npromise.then(function (response) {\n    console.log(response); // Success\n}, function (error) {\n    console.log(error); // Failure\n});\n"}],["$","$L3f",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Account account = Account(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setLocale('fr')                             // Your locale\n  ;\n  Future result = account.createVerification('https://example.com');\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n","children":"import 'package:clikkle/clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Account account = Account(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>')                 // Your project ID\n    .setLocale('fr')                             // Your locale\n  ;\n  Future result = account.createVerification('https://example.com');\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n"}],["$","$L3f",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Account\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setLocale('fr')                             // Your locale\n\nval account = Account(client)\n\nval response = account.createVerification('https://example.com')\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Account\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setLocale('fr')                             // Your locale\n\nval account = Account(client)\n\nval response = account.createVerification('https://example.com')\n"}],["$","$L3f",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setLocale('fr')                             // Your locale\n\nlet account = Account(client)\n\nlet token = try await account.createVerification('https://example.com')\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                 // Your project ID\n    .setLocale('fr')                             // Your locale\n\nlet account = Account(client)\n\nlet token = try await account.createVerification('https://example.com')\n"}]]}]
+3c:["$","$L43",null,{"date":"$undefined"}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+44:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1c:null
+21:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L44","13",{}]]

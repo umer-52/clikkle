@@ -1,0 +1,184 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+22:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+23:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+24:"$Sreact.suspense"
+26:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+2d:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:Tedb,---
+layout: article
+title: Keyboard shortcuts
+description: Learn to navigate the Clikkle Console efficiently and effectively with your keyboard
+---
+
+The Clikkle Console was designed with a keyboard first approach. The Clikkle Console supports keyboard shortcuts that make it easier to navigate and perform actions quicker.
+
+# Shortcuts {% #shortcuts %}
+
+The Clikkle Console supports keyboard shortcuts that make it easier to navigate and perform common actions quicker. The shortcuts use the following pattern: use the first letter from the call to action followed by the resource, product, service, or page you're targeting.  For example, the shortcut keys `G` + `S` navigates to the project's Storage screen. Similarly, the shortcut `G` + `F` navigates to the project's Functions screen. However, when there's a conflict with a shortcut key, the following letter is used. For example, since S is already used for Storage, the shortcut for Settings is E. This pattern is used to make usage of shortcuts consistent and predictable.
+
+## Global shortcuts {% #global-shortcuts %}
+
+Developers can also utilize global shortcuts anywhere in the Clikkle Console, allowing instant access to these features from any page on the Console.
+
+|Shortcut|Action|
+|----|----|
+|`T` then `L`|Set theme to light|
+|`T` then `D`|Set theme to dark|
+|`T` then `A`|Set theme to dark|
+|`A` then `I`|Open Clikkle Assistant|
+|`C` then `O`|Create organization|
+
+## Command center
+
+All the Clikkle shortcuts can be found in the [command center](/docs/tooling/command-center).
+Use the command center to search for commands or the current page's content.
+
+|PC (Windows / Linux)|macOS|Action|
+|----|----|----|
+|`Ctrl` + `K`|`⌘` + `K`|Access Command Center|
+
+## Project shortcuts {% #project-shortcuts %}
+
+Within the context of a project, developers can utilize project shortcuts. These shortcuts are automatically enabled once a project is selected on the Console. 
+These shortcuts allow quick access to the project's pages making it easier and faster to navigate the Console more.
+
+|Shortcut|Action|
+|----|----|
+|`G` then `P`|Go to projects|
+|`G` then `O`|Go to overview|
+|`G` then `A`|Go to auth|
+|`G` then `D`|Go to databases|
+|`G` then `F`|Go to functions|
+|`G` then `M`|Go to messaging|
+|`G` then `S`|Go to storage|
+|`G` then `E`|Go to settings|
+
+# Primary Actions
+
+Each screen on the console has a concept of a primary action. For example, in the Functions screen, the primary action would be creating a function, in the Databases screen, it would be creating a database and so on. The primary actions are usually triggered using the `C` key as seen in the table below.
+
+|Shortcut|Action|
+|----|----|
+|`C` then `P`|Create project|
+|`C` then `U`|Create user|
+|`C` then `A`|Create database|
+|`C` then `C`|Create table|
+|`C` then `D`|Create row|
+|`C` then `T`|Create column|
+|`C` then `F`|Create function|
+|`C` then `S`|Create storage|
+
+# Accessibility  {% #accessibility %}
+
+Using keyboard shortcuts and other methods, we are committed to making the Clikkle Console accessible to all developers by following the AA-level standards of the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels). Following these standards ensures that the Console is usable by people with visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities. 
+
+Good contrast between text and backgrounds, resizable text without loss of content or functionality, and navigable interfaces via keyboard and screen readers guarantee an inclusive environment and allow developers to perform their tasks efficiently. Adhering to these guidelines ensures that the Clikkle Console complies with legal requirements and promotes a positive developer experience for everyone.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:Tedb,---
+layout: article
+title: Keyboard shortcuts
+description: Learn to navigate the Clikkle Console efficiently and effectively with your keyboard
+---
+
+The Clikkle Console was designed with a keyboard first approach. The Clikkle Console supports keyboard shortcuts that make it easier to navigate and perform actions quicker.
+
+# Shortcuts {% #shortcuts %}
+
+The Clikkle Console supports keyboard shortcuts that make it easier to navigate and perform common actions quicker. The shortcuts use the following pattern: use the first letter from the call to action followed by the resource, product, service, or page you're targeting.  For example, the shortcut keys `G` + `S` navigates to the project's Storage screen. Similarly, the shortcut `G` + `F` navigates to the project's Functions screen. However, when there's a conflict with a shortcut key, the following letter is used. For example, since S is already used for Storage, the shortcut for Settings is E. This pattern is used to make usage of shortcuts consistent and predictable.
+
+## Global shortcuts {% #global-shortcuts %}
+
+Developers can also utilize global shortcuts anywhere in the Clikkle Console, allowing instant access to these features from any page on the Console.
+
+|Shortcut|Action|
+|----|----|
+|`T` then `L`|Set theme to light|
+|`T` then `D`|Set theme to dark|
+|`T` then `A`|Set theme to dark|
+|`A` then `I`|Open Clikkle Assistant|
+|`C` then `O`|Create organization|
+
+## Command center
+
+All the Clikkle shortcuts can be found in the [command center](/docs/tooling/command-center).
+Use the command center to search for commands or the current page's content.
+
+|PC (Windows / Linux)|macOS|Action|
+|----|----|----|
+|`Ctrl` + `K`|`⌘` + `K`|Access Command Center|
+
+## Project shortcuts {% #project-shortcuts %}
+
+Within the context of a project, developers can utilize project shortcuts. These shortcuts are automatically enabled once a project is selected on the Console. 
+These shortcuts allow quick access to the project's pages making it easier and faster to navigate the Console more.
+
+|Shortcut|Action|
+|----|----|
+|`G` then `P`|Go to projects|
+|`G` then `O`|Go to overview|
+|`G` then `A`|Go to auth|
+|`G` then `D`|Go to databases|
+|`G` then `F`|Go to functions|
+|`G` then `M`|Go to messaging|
+|`G` then `S`|Go to storage|
+|`G` then `E`|Go to settings|
+
+# Primary Actions
+
+Each screen on the console has a concept of a primary action. For example, in the Functions screen, the primary action would be creating a function, in the Databases screen, it would be creating a database and so on. The primary actions are usually triggered using the `C` key as seen in the table below.
+
+|Shortcut|Action|
+|----|----|
+|`C` then `P`|Create project|
+|`C` then `U`|Create user|
+|`C` then `A`|Create database|
+|`C` then `C`|Create table|
+|`C` then `D`|Create row|
+|`C` then `T`|Create column|
+|`C` then `F`|Create function|
+|`C` then `S`|Create storage|
+
+# Accessibility  {% #accessibility %}
+
+Using keyboard shortcuts and other methods, we are committed to making the Clikkle Console accessible to all developers by following the AA-level standards of the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels). Following these standards ensures that the Console is usable by people with visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities. 
+
+Good contrast between text and backgrounds, resizable text without loss of content or functionality, and navigable interfaces via keyboard and screen readers guarantee an inclusive environment and allow developers to perform their tasks efficiently. Adhering to these guidelines ensures that the Clikkle Console complies with legal requirements and promotes a positive developer experience for everyone.
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Keyboard shortcuts"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The Clikkle Console was designed with a keyboard first approach. The Clikkle Console supports keyboard shortcuts that make it easier to navigate and perform actions quicker."}],["$","$Le",null,{"id":"shortcuts","level":1,"children":"Shortcuts "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle Console supports keyboard shortcuts that make it easier to navigate and perform common actions quicker. The shortcuts use the following pattern: use the first letter from the call to action followed by the resource, product, service, or page you're targeting.  For example, the shortcut keys ",["$","code",null,{"children":"G"}]," + ",["$","code",null,{"children":"S"}]," navigates to the project's Storage screen. Similarly, the shortcut ",["$","code",null,{"children":"G"}]," + ",["$","code",null,{"children":"F"}]," navigates to the project's Functions screen. However, when there's a conflict with a shortcut key, the following letter is used. For example, since S is already used for Storage, the shortcut for Settings is E. This pattern is used to make usage of shortcuts consistent and predictable."]}],["$","$Le",null,{"id":"global-shortcuts","level":2,"children":"Global shortcuts "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Developers can also utilize global shortcuts anywhere in the Clikkle Console, allowing instant access to these features from any page on the Console."}],["$","$Lf",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Shortcut"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Action"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"T"}]," then ",["$","code",null,{"children":"L"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Set theme to light"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"T"}]," then ",["$","code",null,{"children":"D"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Set theme to dark"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$L10"," then ","$L11"]}]}],"$L12"]}],"$L13","$L14"]}]]}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]}]]}],"$L21"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L22",null,{"items":[{"id":"shortcuts","title":"Shortcuts","level":1},{"id":"global-shortcuts","title":"Global shortcuts","level":2},{"id":"command-center","title":"Command center","level":2},{"id":"project-shortcuts","title":"Project shortcuts","level":2},{"id":"primary-actions","title":"Primary Actions","level":1},{"id":"accessibility","title":"Accessibility","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L23",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+10:["$","code",null,{"children":"T"}]
+11:["$","code",null,{"children":"A"}]
+12:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Set theme to dark"}]}]
+13:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"A"}]," then ",["$","code",null,{"children":"I"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Open Clikkle Assistant"}]}]]}]
+14:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"O"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create organization"}]}]]}]
+15:["$","$Le",null,{"level":2,"children":"Command center"}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["All the Clikkle shortcuts can be found in the ",["$","$L26",null,{"href":"/docs/tooling/command-center","children":"command center"}],"."," ","Use the command center to search for commands or the current page's content."]}]
+17:["$","$Lf",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"PC (Windows / Linux)"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"macOS"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Action"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"Ctrl"}]," + ",["$","code",null,{"children":"K"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"⌘"}]," + ",["$","code",null,{"children":"K"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Access Command Center"}]}]]}]}]]}]
+18:["$","$Le",null,{"id":"project-shortcuts","level":2,"children":"Project shortcuts "}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Within the context of a project, developers can utilize project shortcuts. These shortcuts are automatically enabled once a project is selected on the Console."," ","These shortcuts allow quick access to the project's pages making it easier and faster to navigate the Console more."]}]
+1a:["$","$Lf",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Shortcut"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Action"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"G"}]," then ",["$","code",null,{"children":"P"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Go to projects"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"G"}]," then ",["$","code",null,{"children":"O"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Go to overview"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"G"}]," then ",["$","code",null,{"children":"A"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Go to auth"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"G"}]," then ",["$","code",null,{"children":"D"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Go to databases"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"G"}]," then ",["$","code",null,{"children":"F"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Go to functions"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"G"}]," then ",["$","code",null,{"children":"M"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Go to messaging"}]}]]}],["$","tr",null,{"className":"web-table-row","children":["$L27","$L28"]}],"$L29"]}]]}]
+1b:["$","$Le",null,{"level":1,"children":"Primary Actions"}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Each screen on the console has a concept of a primary action. For example, in the Functions screen, the primary action would be creating a function, in the Databases screen, it would be creating a database and so on. The primary actions are usually triggered using the ",["$","code",null,{"children":"C"}]," key as seen in the table below."]}]
+1d:["$","$Lf",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Shortcut"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Action"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"P"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create project"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"U"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create user"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"A"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create database"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"C"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create table"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"D"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create row"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"T"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create column"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L2a"}],"$L2b"]}],"$L2c"]}]]}]
+1e:["$","$Le",null,{"id":"accessibility","level":1,"children":"Accessibility  "}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Using keyboard shortcuts and other methods, we are committed to making the Clikkle Console accessible to all developers by following the AA-level standards of the ",["$","a",null,{"href":"https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels","target":"_blank","rel":"noopener nofollow","children":"Web Content Accessibility Guidelines (WCAG)"}],". Following these standards ensures that the Console is usable by people with visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities."]}]
+20:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Good contrast between text and backgrounds, resizable text without loss of content or functionality, and navigable interfaces via keyboard and screen readers guarantee an inclusive environment and allow developers to perform their tasks efficiently. Adhering to these guidelines ensures that the Clikkle Console complies with legal requirements and promotes a positive developer experience for everyone."}]
+21:["$","$L2d",null,{}]
+25:null
+27:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"G"}]," then ",["$","code",null,{"children":"S"}]]}]}]
+28:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Go to storage"}]}]
+29:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"G"}]," then ",["$","code",null,{"children":"E"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Go to settings"}]}]]}]
+2a:["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"F"}]]}]
+2b:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create function"}]}]
+2c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"C"}]," then ",["$","code",null,{"children":"S"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create storage"}]}]]}]

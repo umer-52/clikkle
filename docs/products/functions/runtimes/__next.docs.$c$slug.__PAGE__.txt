@@ -1,0 +1,503 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+10:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+11:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TableTag"]
+12:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+26:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+27:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+28:"$Sreact.suspense"
+34:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T14a5,---
+layout: article
+title: Runtimes
+description: Choose the right runtime environment for your serverless functions in Clikkle. Explore available runtimes, dependencies, and runtime-specific considerations.
+---
+
+Clikkle Functions supports an extensive list of runtimes to meet your unique tech preferences. Not all runtimes are available on Clikkle Cloud yet. Check the list below to know which ones are available on Clikkle Cloud.
+
+# Available runtimes {% #available-runtimes %}
+Below is a list of available Functions runtimes. The Clikkle team continually adds support for new runtimes.
+While still in beta, Clikkle Cloud has limited support for Cloud runtimes. As we continue to improve our Cloud offering, we will add support for more runtimes.
+
+{% tabs %}
+{% tabsitem #all title="All runtimes" %}
+{% table %}
+* &nbsp; {% width=48 %}
+* Name {% width=100 %}
+* Versions
+* Architectures
+---
+* {% icon icon="node_js" size="l" /%}
+* [Node.js](https://hub.docker.com/r/openruntimes/node/tags)
+* `node-14.5`
+`node-16.0`
+`node-18.0`
+`node-19.0`
+`node-20.0`
+`node-21.0`
+`node-22`
+`node-25`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="bun-sh" size="l" /%}
+* [Bun](https://hub.docker.com/r/openruntimes/bun/tags)
+* `bun-1.0`
+`bun-1.1`
+`bun-1.3`
+* x86 / arm64
+---
+* {% icon icon="deno" size="l" /%}
+* [Deno](https://hub.docker.com/r/openruntimes/deno/tags)
+* `deno-1.21`
+`deno-1.24`
+`deno-1.35`
+`deno-1.40`
+`deno-1.46`
+`deno-2.0`
+`deno-2.6`
+* x86
+---
+* {% icon icon="go" size="l" /%}
+* [Go](https://hub.docker.com/r/openruntimes/go/tags)
+* `go-1.23`
+`go-1.26`
+* x86 / arm64
+---
+* {% icon icon="python" size="l" /%}
+* [Python](https://hub.docker.com/r/openruntimes/python/tags)
+* `python-3.8`
+`python-3.9`
+`python-3.10`
+`python-3.11`
+`python-3.12`
+`python-3.14`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="python" size="l" /%}
+* [Python ML](https://hub.docker.com/r/openruntimes/python-ml)
+* `python-ml-3.11`
+* x86 / arm64
+---
+* {% icon icon="dart" size="l" /%}
+* [Dart](https://hub.docker.com/r/openruntimes/dart/tags)
+* `dart-2.15`
+`dart-2.16`
+`dart-2.17`
+`dart-2.18`
+`dart-3.0`
+`dart-3.1`
+`dart-3.3`
+`dart-3.5`
+`dart-3.10`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="php" size="l" /%}
+* [PHP](https://hub.docker.com/r/openruntimes/php/tags)
+* `php-8.0`
+`php-8.1`
+`php-8.2`
+`php-8.3`
+`php-8.4`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="ruby" size="l" /%}
+* [Ruby](https://hub.docker.com/r/openruntimes/ruby/tags)
+* `ruby-3.0`
+`ruby-3.1`
+`ruby-3.2`
+`ruby-3.3`
+`ruby-4.0`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="dotnet" size="l" /%}
+* [.NET](https://hub.docker.com/r/openruntimes/dotnet/tags)
+* `dotnet-6.0`
+`dotnet-7.0`
+`dotnet-8.0`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="java" size="l" /%}
+* [Java](https://hub.docker.com/r/openruntimes/java/tags)
+* `java-8.0`
+`java-11.0`
+`java-17.0`
+`java-18.0`
+`java-21.0`
+`java-22`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="swift" size="l" /%}
+* [Swift](https://hub.docker.com/r/openruntimes/swift/tags)
+* `swift-5.5`
+`swift-5.8`
+`swift-5.9`
+`swift-5.10`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="kotlin" size="l" /%}
+* [Kotlin](https://hub.docker.com/r/openruntimes/kotlin/tags)
+* `kotlin-1.6`
+`kotlin-1.8`
+`kotlin-1.9`
+`kotlin-2.0`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="flutter" size="l" /%}
+* [Flutter](https://hub.docker.com/r/openruntimes/flutter/tags)
+* `flutter-3.38`
+* x86 / arm64
+---
+* {% icon icon="cpp" size="l" /%}
+* [C++](https://hub.docker.com/r/openruntimes/cpp/tags)
+* `cpp-17`
+`cpp-20`
+* x86 / arm64 / armv7 / armv8
+---
+{% /table %}
+{% /tabsitem %}
+
+{% tabsitem #available-on-cloud title="Available on Cloud" %}
+{% table %}
+* &nbsp; {% width=48 %}
+* Name {% width=120 %}
+* Versions
+* Architectures
+---
+* {% icon icon="node_js" size="l" /%}
+* [Node.js](https://hub.docker.com/r/openruntimes/node/tags)
+* `node-16.0`
+`node-18.0`
+`node-22`
+`node-25`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="bun-sh" size="l" /%}
+* [Bun](https://hub.docker.com/r/openruntimes/bun/tags)
+* `bun-1.0`
+`bun-1.1`
+`bun-1.3`
+* x86 / arm64
+---
+* {% icon icon="deno" size="l" /%}
+* [Deno](https://hub.docker.com/r/openruntimes/deno/tags)
+* `deno-2.0`
+`deno-2.6`
+* x86
+---
+* {% icon icon="go" size="l" /%}
+* [Go](https://hub.docker.com/r/openruntimes/go/tags)
+* `go-1.23`
+`go-1.26`
+* x86 / arm64
+---
+* {% icon icon="python" size="l" /%}
+* [Python](https://hub.docker.com/r/openruntimes/python/tags)
+* `python-3.9`
+`python-3.12`
+`python-3.14`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="python" size="l" /%}
+* [Python ML](https://hub.docker.com/r/openruntimes/python-ml)
+* `python-ml-3.11`
+* x86 / arm64
+---
+* {% icon icon="dart" size="l" /%}
+* [Dart](https://hub.docker.com/r/openruntimes/dart/tags)
+* `dart-2.17`
+`dart-3.1`
+`dart-3.5`
+`dart-3.10`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="flutter" size="l" /%}
+* [Flutter](https://hub.docker.com/r/openruntimes/flutter/tags)
+* `flutter-3.38`
+* x86 / arm64
+---
+* {% icon icon="php" size="l" /%}
+* [PHP](https://hub.docker.com/r/openruntimes/php/tags)
+* `php-8.0`
+`php-8.3`
+`php-8.4`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="ruby" size="l" /%}
+* [Ruby](https://hub.docker.com/r/openruntimes/ruby/tags)
+* `ruby-3.0`
+`ruby-3.3`
+`ruby-4.0`
+* x86 / arm64 / armv7 / armv8
+---
+{% /table %}
+{% /tabsitem %}
+{% /tabs %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T14a5,---
+layout: article
+title: Runtimes
+description: Choose the right runtime environment for your serverless functions in Clikkle. Explore available runtimes, dependencies, and runtime-specific considerations.
+---
+
+Clikkle Functions supports an extensive list of runtimes to meet your unique tech preferences. Not all runtimes are available on Clikkle Cloud yet. Check the list below to know which ones are available on Clikkle Cloud.
+
+# Available runtimes {% #available-runtimes %}
+Below is a list of available Functions runtimes. The Clikkle team continually adds support for new runtimes.
+While still in beta, Clikkle Cloud has limited support for Cloud runtimes. As we continue to improve our Cloud offering, we will add support for more runtimes.
+
+{% tabs %}
+{% tabsitem #all title="All runtimes" %}
+{% table %}
+* &nbsp; {% width=48 %}
+* Name {% width=100 %}
+* Versions
+* Architectures
+---
+* {% icon icon="node_js" size="l" /%}
+* [Node.js](https://hub.docker.com/r/openruntimes/node/tags)
+* `node-14.5`
+`node-16.0`
+`node-18.0`
+`node-19.0`
+`node-20.0`
+`node-21.0`
+`node-22`
+`node-25`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="bun-sh" size="l" /%}
+* [Bun](https://hub.docker.com/r/openruntimes/bun/tags)
+* `bun-1.0`
+`bun-1.1`
+`bun-1.3`
+* x86 / arm64
+---
+* {% icon icon="deno" size="l" /%}
+* [Deno](https://hub.docker.com/r/openruntimes/deno/tags)
+* `deno-1.21`
+`deno-1.24`
+`deno-1.35`
+`deno-1.40`
+`deno-1.46`
+`deno-2.0`
+`deno-2.6`
+* x86
+---
+* {% icon icon="go" size="l" /%}
+* [Go](https://hub.docker.com/r/openruntimes/go/tags)
+* `go-1.23`
+`go-1.26`
+* x86 / arm64
+---
+* {% icon icon="python" size="l" /%}
+* [Python](https://hub.docker.com/r/openruntimes/python/tags)
+* `python-3.8`
+`python-3.9`
+`python-3.10`
+`python-3.11`
+`python-3.12`
+`python-3.14`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="python" size="l" /%}
+* [Python ML](https://hub.docker.com/r/openruntimes/python-ml)
+* `python-ml-3.11`
+* x86 / arm64
+---
+* {% icon icon="dart" size="l" /%}
+* [Dart](https://hub.docker.com/r/openruntimes/dart/tags)
+* `dart-2.15`
+`dart-2.16`
+`dart-2.17`
+`dart-2.18`
+`dart-3.0`
+`dart-3.1`
+`dart-3.3`
+`dart-3.5`
+`dart-3.10`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="php" size="l" /%}
+* [PHP](https://hub.docker.com/r/openruntimes/php/tags)
+* `php-8.0`
+`php-8.1`
+`php-8.2`
+`php-8.3`
+`php-8.4`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="ruby" size="l" /%}
+* [Ruby](https://hub.docker.com/r/openruntimes/ruby/tags)
+* `ruby-3.0`
+`ruby-3.1`
+`ruby-3.2`
+`ruby-3.3`
+`ruby-4.0`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="dotnet" size="l" /%}
+* [.NET](https://hub.docker.com/r/openruntimes/dotnet/tags)
+* `dotnet-6.0`
+`dotnet-7.0`
+`dotnet-8.0`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="java" size="l" /%}
+* [Java](https://hub.docker.com/r/openruntimes/java/tags)
+* `java-8.0`
+`java-11.0`
+`java-17.0`
+`java-18.0`
+`java-21.0`
+`java-22`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="swift" size="l" /%}
+* [Swift](https://hub.docker.com/r/openruntimes/swift/tags)
+* `swift-5.5`
+`swift-5.8`
+`swift-5.9`
+`swift-5.10`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="kotlin" size="l" /%}
+* [Kotlin](https://hub.docker.com/r/openruntimes/kotlin/tags)
+* `kotlin-1.6`
+`kotlin-1.8`
+`kotlin-1.9`
+`kotlin-2.0`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="flutter" size="l" /%}
+* [Flutter](https://hub.docker.com/r/openruntimes/flutter/tags)
+* `flutter-3.38`
+* x86 / arm64
+---
+* {% icon icon="cpp" size="l" /%}
+* [C++](https://hub.docker.com/r/openruntimes/cpp/tags)
+* `cpp-17`
+`cpp-20`
+* x86 / arm64 / armv7 / armv8
+---
+{% /table %}
+{% /tabsitem %}
+
+{% tabsitem #available-on-cloud title="Available on Cloud" %}
+{% table %}
+* &nbsp; {% width=48 %}
+* Name {% width=120 %}
+* Versions
+* Architectures
+---
+* {% icon icon="node_js" size="l" /%}
+* [Node.js](https://hub.docker.com/r/openruntimes/node/tags)
+* `node-16.0`
+`node-18.0`
+`node-22`
+`node-25`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="bun-sh" size="l" /%}
+* [Bun](https://hub.docker.com/r/openruntimes/bun/tags)
+* `bun-1.0`
+`bun-1.1`
+`bun-1.3`
+* x86 / arm64
+---
+* {% icon icon="deno" size="l" /%}
+* [Deno](https://hub.docker.com/r/openruntimes/deno/tags)
+* `deno-2.0`
+`deno-2.6`
+* x86
+---
+* {% icon icon="go" size="l" /%}
+* [Go](https://hub.docker.com/r/openruntimes/go/tags)
+* `go-1.23`
+`go-1.26`
+* x86 / arm64
+---
+* {% icon icon="python" size="l" /%}
+* [Python](https://hub.docker.com/r/openruntimes/python/tags)
+* `python-3.9`
+`python-3.12`
+`python-3.14`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="python" size="l" /%}
+* [Python ML](https://hub.docker.com/r/openruntimes/python-ml)
+* `python-ml-3.11`
+* x86 / arm64
+---
+* {% icon icon="dart" size="l" /%}
+* [Dart](https://hub.docker.com/r/openruntimes/dart/tags)
+* `dart-2.17`
+`dart-3.1`
+`dart-3.5`
+`dart-3.10`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="flutter" size="l" /%}
+* [Flutter](https://hub.docker.com/r/openruntimes/flutter/tags)
+* `flutter-3.38`
+* x86 / arm64
+---
+* {% icon icon="php" size="l" /%}
+* [PHP](https://hub.docker.com/r/openruntimes/php/tags)
+* `php-8.0`
+`php-8.3`
+`php-8.4`
+* x86 / arm64 / armv7 / armv8
+---
+* {% icon icon="ruby" size="l" /%}
+* [Ruby](https://hub.docker.com/r/openruntimes/ruby/tags)
+* `ruby-3.0`
+`ruby-3.3`
+`ruby-4.0`
+* x86 / arm64 / armv7 / armv8
+---
+{% /table %}
+{% /tabsitem %}
+{% /tabs %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Runtimes"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle Functions supports an extensive list of runtimes to meet your unique tech preferences. Not all runtimes are available on Clikkle Cloud yet. Check the list below to know which ones are available on Clikkle Cloud."}],["$","$Le",null,{"id":"available-runtimes","level":1,"children":"Available runtimes "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Below is a list of available Functions runtimes. The Clikkle team continually adds support for new runtimes."," ","While still in beta, Clikkle Cloud has limited support for Cloud runtimes. As we continue to improve our Cloud offering, we will add support for more runtimes."]}],["$","$Lf",null,{"children":[["$","$L10",null,{"id":"all","title":"All runtimes","children":["$","$L11",null,{"children":["$","$L12",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"  "}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Name "}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Versions"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Architectures"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-node_js","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/node/tags","target":"_blank","rel":"noopener nofollow","children":"Node.js"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"node-14.5"}]," ",["$","code",null,{"children":"node-16.0"}]," ",["$","code",null,{"children":"node-18.0"}]," ",["$","code",null,{"children":"node-19.0"}]," ",["$","code",null,{"children":"node-20.0"}]," ",["$","code",null,{"children":"node-21.0"}]," ",["$","code",null,{"children":"node-22"}]," ",["$","code",null,{"children":"node-25"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"$L13"}]}],"$L14","$L15","$L16"]}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]]}]}]}],"$L24"]}]]}]}]]}],"$L25"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L26",null,{"items":[{"id":"available-runtimes","title":"Available runtimes","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L27",null,{"children":["$","$28",null,{"name":"Next.MetadataOutlet","children":"$@29"}]}]
+13:["$","span",null,{"className":"icon-bun-sh","style":{"fontSize":"32px"}}]
+14:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/bun/tags","target":"_blank","rel":"noopener nofollow","children":"Bun"}]}]}]
+15:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"bun-1.0"}]," ",["$","code",null,{"children":"bun-1.1"}]," ",["$","code",null,{"children":"bun-1.3"}]]}]}]
+16:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64"}]}]
+17:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-deno","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/deno/tags","target":"_blank","rel":"noopener nofollow","children":"Deno"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"deno-1.21"}]," ",["$","code",null,{"children":"deno-1.24"}]," ",["$","code",null,{"children":"deno-1.35"}]," ",["$","code",null,{"children":"deno-1.40"}]," ",["$","code",null,{"children":"deno-1.46"}]," ",["$","code",null,{"children":"deno-2.0"}]," ",["$","code",null,{"children":"deno-2.6"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86"}]}]]}]
+18:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-go","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/go/tags","target":"_blank","rel":"noopener nofollow","children":"Go"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"go-1.23"}]," ",["$","code",null,{"children":"go-1.26"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64"}]}]]}]
+19:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-python","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/python/tags","target":"_blank","rel":"noopener nofollow","children":"Python"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"python-3.8"}]," ",["$","code",null,{"children":"python-3.9"}]," ",["$","code",null,{"children":"python-3.10"}]," ",["$","code",null,{"children":"python-3.11"}]," ",["$","code",null,{"children":"python-3.12"}]," ",["$","code",null,{"children":"python-3.14"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+1a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-python","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/python-ml","target":"_blank","rel":"noopener nofollow","children":"Python ML"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"python-ml-3.11"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64"}]}]]}]
+1b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-dart","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/dart/tags","target":"_blank","rel":"noopener nofollow","children":"Dart"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"dart-2.15"}]," ",["$","code",null,{"children":"dart-2.16"}]," ",["$","code",null,{"children":"dart-2.17"}]," ",["$","code",null,{"children":"dart-2.18"}]," ",["$","code",null,{"children":"dart-3.0"}]," ",["$","code",null,{"children":"dart-3.1"}]," ",["$","code",null,{"children":"dart-3.3"}]," ",["$","code",null,{"children":"dart-3.5"}]," ",["$","code",null,{"children":"dart-3.10"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+1c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-php","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/php/tags","target":"_blank","rel":"noopener nofollow","children":"PHP"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"php-8.0"}]," ",["$","code",null,{"children":"php-8.1"}]," ",["$","code",null,{"children":"php-8.2"}]," ",["$","code",null,{"children":"php-8.3"}]," ",["$","code",null,{"children":"php-8.4"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+1d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-ruby","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/ruby/tags","target":"_blank","rel":"noopener nofollow","children":"Ruby"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"ruby-3.0"}]," ",["$","code",null,{"children":"ruby-3.1"}]," ",["$","code",null,{"children":"ruby-3.2"}]," ",["$","code",null,{"children":"ruby-3.3"}]," ",["$","code",null,{"children":"ruby-4.0"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+1e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-dotnet","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/dotnet/tags","target":"_blank","rel":"noopener nofollow","children":".NET"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"dotnet-6.0"}]," ",["$","code",null,{"children":"dotnet-7.0"}]," ",["$","code",null,{"children":"dotnet-8.0"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+1f:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-java","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/java/tags","target":"_blank","rel":"noopener nofollow","children":"Java"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"java-8.0"}]," ",["$","code",null,{"children":"java-11.0"}]," ",["$","code",null,{"children":"java-17.0"}]," ",["$","code",null,{"children":"java-18.0"}]," ",["$","code",null,{"children":"java-21.0"}]," ",["$","code",null,{"children":"java-22"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+20:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-swift","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/swift/tags","target":"_blank","rel":"noopener nofollow","children":"Swift"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"swift-5.5"}]," ",["$","code",null,{"children":"swift-5.8"}]," ",["$","code",null,{"children":"swift-5.9"}]," ",["$","code",null,{"children":"swift-5.10"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+21:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-kotlin","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/kotlin/tags","target":"_blank","rel":"noopener nofollow","children":"Kotlin"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"kotlin-1.6"}]," ",["$","code",null,{"children":"kotlin-1.8"}]," ",["$","code",null,{"children":"kotlin-1.9"}]," ",["$","code",null,{"children":"kotlin-2.0"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+22:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-flutter","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/flutter/tags","target":"_blank","rel":"noopener nofollow","children":"Flutter"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"flutter-3.38"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64"}]}]]}]
+23:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-cpp","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/cpp/tags","target":"_blank","rel":"noopener nofollow","children":"C++"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"cpp-17"}]," ",["$","code",null,{"children":"cpp-20"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+24:["$","$L10",null,{"id":"available-on-cloud","title":"Available on Cloud","children":["$","$L11",null,{"children":["$","$L12",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"  "}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Name "}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Versions"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Architectures"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-node_js","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/node/tags","target":"_blank","rel":"noopener nofollow","children":"Node.js"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"node-16.0"}]," ",["$","code",null,{"children":"node-18.0"}]," ",["$","code",null,{"children":"node-22"}]," ",["$","code",null,{"children":"node-25"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-bun-sh","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/bun/tags","target":"_blank","rel":"noopener nofollow","children":"Bun"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"bun-1.0"}]," ",["$","code",null,{"children":"bun-1.1"}]," ",["$","code",null,{"children":"bun-1.3"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-deno","style":{"fontSize":"32px"}}]}]}],"$L2a","$L2b","$L2c"]}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33"]}]]}]}]}]
+25:["$","$L34",null,{}]
+29:null
+2a:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/deno/tags","target":"_blank","rel":"noopener nofollow","children":"Deno"}]}]}]
+2b:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"deno-2.0"}]," ",["$","code",null,{"children":"deno-2.6"}]]}]}]
+2c:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86"}]}]
+2d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-go","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/go/tags","target":"_blank","rel":"noopener nofollow","children":"Go"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"go-1.23"}]," ",["$","code",null,{"children":"go-1.26"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64"}]}]]}]
+2e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-python","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/python/tags","target":"_blank","rel":"noopener nofollow","children":"Python"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"python-3.9"}]," ",["$","code",null,{"children":"python-3.12"}]," ",["$","code",null,{"children":"python-3.14"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+2f:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-python","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/python-ml","target":"_blank","rel":"noopener nofollow","children":"Python ML"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"python-ml-3.11"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64"}]}]]}]
+30:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-dart","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/dart/tags","target":"_blank","rel":"noopener nofollow","children":"Dart"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"dart-2.17"}]," ",["$","code",null,{"children":"dart-3.1"}]," ",["$","code",null,{"children":"dart-3.5"}]," ",["$","code",null,{"children":"dart-3.10"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+31:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-flutter","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/flutter/tags","target":"_blank","rel":"noopener nofollow","children":"Flutter"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"flutter-3.38"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64"}]}]]}]
+32:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-php","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/php/tags","target":"_blank","rel":"noopener nofollow","children":"PHP"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"php-8.0"}]," ",["$","code",null,{"children":"php-8.3"}]," ",["$","code",null,{"children":"php-8.4"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]
+33:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","span",null,{"className":"icon-ruby","style":{"fontSize":"32px"}}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","a",null,{"href":"https://hub.docker.com/r/openruntimes/ruby/tags","target":"_blank","rel":"noopener nofollow","children":"Ruby"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","code",null,{"children":"ruby-3.0"}]," ",["$","code",null,{"children":"ruby-3.3"}]," ",["$","code",null,{"children":"ruby-4.0"}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"x86 / arm64 / armv7 / armv8"}]}]]}]

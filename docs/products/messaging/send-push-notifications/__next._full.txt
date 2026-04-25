@@ -1,0 +1,1710 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+f:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","messaging","send-push-notifications"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/messaging/send-push-notifications","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],"$L7","$L8","$L9"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12","$L13","$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+16:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+17:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+18:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+20:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}]
+8:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+9:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L16",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+a:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L17",null,{"children":["$","$L18",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L19",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+1d:[]
+d:"$W1d"
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+23:T5cdc,﻿---
+layout: article
+title: Send push notification
+description: Send push notification to your users using Clikkle Messaging.
+---
+You can send, schedule, and manage push notifications to your apps using Clikkle Messaging.
+Push notifications can be used to deliver new message notifications, app updates, promotional offers,
+and other messages straight to your user's devices.
+
+{% section #add-provider step=1 title="Add provider" %}
+Push notifications must be sent through third-party providers, like Apple Push Notification service and Firebase Cloud Messaging.
+The push notification APIs for Apple and Android devices can only be accessed through these services.
+
+You must configure these services before you can send your first push notification.
+
+{% cards %}
+{% cards_item href="/docs/products/messaging/apns" title="APNS" icon="icon-apple" %}
+Configure APNs for push notification to Apple devices.
+{% /cards_item %}
+{% cards_item href="/docs/products/messaging/fcm" title="FCM" icon="web-icon-firebase" %}
+Configure FCM for push notification to Android and Apple devices.
+{% /cards_item %}
+{% /cards %}
+
+{% /section %}
+{% section #add-targets step=2 title="Add targets" %}
+Before sending your first push notification, your application must register itself for push notification,
+then provide the device token to Clikkle.
+
+{% tabs %}
+{% tabsitem #apple-apns title="APNs for Apple" %}
+First, enable push notification in your app.
+Add push notification capability to your app by clicking your root-level app in XCode > **Signing & Capabilities** > {% icon icon="plus" size="m" /%} Capabilities > Search for **Push Notifications**.
+
+{% only_dark %} ![Authentication Key](/clikkle/images/docs/messaging/providers/apns/dark/xcode-enable-pn.png) {% /only_dark %} {% only_light %} ![Authentication Key](/clikkle/images/docs/messaging/providers/apns/xcode-enable-pn.png) {% /only_light %}
+
+First, register for remote notifications in your app delegate's `application(_:didFinishLaunchingWithOptions:)` method.
+
+```swift
+func application(
+    _ application: UIApplication,
+    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
+) -> Bool {
+    UNUserNotificationCenter.current().delegate = self
+    UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { granted, _ in
+        if granted {
+            DispatchQueue.main.async {
+                application.registerForRemoteNotifications()
+            }
+        }
+    }
+    return true
+}
+```
+
+Next, create a handler for when the app receives the push notification device token.
+```swift
+func application(
+    _ application: UIApplication,
+    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data
+) {
+    /* store this `token` */
+    let token = deviceToken.map { String(format: "%.2hhx", $0) }.joined()
+}
+```
+
+Since the token is saved in `UserDefaults`, you can access it from anywhere in your app.
+With this saved `apnsToken`, you can create a push target with Clikkle when the user logs in.
+Each push target is associated with an account, heres an example with an email password login.
+The same logic applies to all types of login methods.
+```swift
+func login() async {
+    do {
+        let session = try await account.createEmailPasswordSession(email: username, password: password)
+
+        let token = /* Retrieve the stored push token */
+
+        try await account.createPushTarget({
+            targetId: ID.unique(),
+            identifier: token
+        })
+    } catch {
+        print("Login failed: \(error.localizedDescription)")
+    }
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #android-fcm title="FCM for Android" %}
+Before you can send push notifications using FCM, make sure you'd followed the steps to
+[Add Firebase to your Android project](https://firebase.google.com/docs/android/setup).
+
+After adding Firebase to your Android project and adding the `google-services.json` to your project,
+initialize Firebase in your main activity and fetch the FCM registration token.
+
+```kotlin
+class MainActivity : AppCompatActivity() {
+    override fun onCreate() {
+        // Initialize Firebase
+        FirebaseApp.initializeApp(this)
+
+        // Set the FCM token
+        FirebaseMessaging.getInstance().token.addOnCompleteListener(OnCompleteListener { task ->
+            if (task.isSuccessful) {
+                /* store this `token` */
+                val token = task.result
+            }
+        })
+    }
+}
+```
+
+Clikkle's push targets are associated with accounts.
+Typically, you would create a push target when the user logs in.
+
+For example, when the user logs in with email and password, your app
+can register itself as a target after handling the login.
+
+```kotlin
+fun login(email: String, password: String) {
+    viewModelScope.launch {
+        try {
+            val session = account.createEmailPasswordSession(email, password)
+
+            let token = /* Retrieve the stored push token */
+
+            /* store the `target.id` */
+            val target = account.createPushTarget(
+                targetId = ID.unique(),
+                identifier = token
+            )
+        } catch (e: ClikkleException) {
+            Log.e("Login", "Failed: ${e.message}")
+        }
+    }
+}
+```
+
+Lastly, because FCM push tokens can change, we need to add a service to handle FCM token
+refreshes and update the target with Clikkle Messaging.
+
+Create a new service that extends `FirebaseMessagingService` which handles the event where
+the FCM token is updated.
+
+```kotlin
+class MessagingService : FirebaseMessagingService() {
+    override fun onNewToken(token: String) {
+        super.onNewToken(token)
+
+        /* store the `token` */
+        /* If the user is logged in, update the push target */
+        runBlocking {
+            account?.updatePushTarget(/* retrieve saved `target.id` */, token)
+        }
+    }
+}
+```
+
+In your `AndroidManifest.xml`, register this new service.
+```xml
+<service android:name="<YOUR_NOTIFICATION_HANDLER_SERVICE>" android:exported="false">
+    <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+    </intent-filter>
+</service>
+```
+{% /tabsitem %}
+
+{% tabsitem #apple-fcm title="FCM for Apple" %}
+Before you can send push notifications using FCM, make sure you'd followed the steps to
+[Add Firebase to your iOS project](https://firebase.google.com/docs/ios/setup).
+
+After adding Firebase to your iOS project and adding the `GoogleService-Info.plist` to the root of your project.
+
+
+Next, add your APNs key to Firebase.
+1. Head to **Apple Developer Member Center** > **Program resources** > **Certificates, Identifiers & Profiles** > **Keys**. The key needs **Apple Push Notification Service** enabled.
+1. Create a new key, note down the key ID and download your key.
+1. In Firebase console, go to *Settings** > **Cloud Messaging** > **APNs authentication key** > click **Upload**. Upload your key here.
+1. Add push notification capability to your app by clicking your root-level app in XCode > **Signing & Capabilities** > {% icon icon="plus" size="m" /%} Capabilities > Search for **Push Notifications**.
+1. If using SwiftUI, disable swizzling by setting `FirebaseAppDelegateProxyEnabled` to `NO` in your `Info.plist`.
+
+Initialize Firebase in your app delegate's `application(_:didFinishLaunchingWithOptions:)` method,
+implement the messaging delegate protocol, and register for remote notifications.
+
+```swift
+func application(
+    _ application: UIApplication,
+    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
+) -> Bool {
+    FirebaseApp.configure()
+    Messaging.messaging().delegate = self
+    UNUserNotificationCenter.current().delegate = self
+
+    UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { granted, _ in
+        if granted {
+            DispatchQueue.main.async {
+                application.registerForRemoteNotifications()
+            }
+        }
+    }
+    return true
+}
+```
+Your APNS token can change, so you need to handle the token refresh event and update the target with Clikkle Messaging.
+Implement `didReceiveRegistrationToken`, which is called when the FCM token is updated.
+```swift
+func messaging(_ messaging: Messaging, didReceiveRegistrationToken fcmToken: String?) {
+    /* store the fcmToken */
+    guard let fcmToken = fcmToken else { return }
+
+    Task {
+        do {
+            _ = try await account.get()
+            try await account.createPushTarget(targetId: ID.unique(), identifier: fcmToken)
+        } catch {
+            print("Failed to create push target: \(error.localizedDescription)")
+        }
+    }
+}
+```
+Since the token is saved in `UserDefaults`, you can access it from anywhere in your app.
+With this saved `fcmToken`, you can create a push target with Clikkle when the user logs in.
+Each push target is associated with an account, here's an example with an email password login.
+The same logic applies to all types of login methods.
+```swift
+func login() async {
+    do {
+        let session = try await account.createEmailPasswordSession(email: username, password: password)
+
+        let token = /* Retrieve stored push token */
+
+        let target = try await account.createPushTarget(targetId: ID.unique(), identifier: token)
+    } catch {
+        print("Login failed: \(error.localizedDescription)")
+    }
+}
+
+```
+
+If you have disabled method swizzling, or you are building a SwiftUI app,
+you'll need to explicitly map your APNs token to the FCM registration token.
+Implement the `didRegisterForRemoteNotificationsWithDeviceToken` method to get the device token and save it to FCM.
+```swift
+func application(
+    _ application: UIApplication,
+    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data
+) {
+    Messaging.messaging().apnsToken = deviceToken
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+{% /section %}
+
+{% section #request-permissions step=3 title="Request permissions" %}
+Your app must ask for permission to receive push notification from the user.
+
+{% tabs %}
+{% tabsitem #apple-apns title="Apple with APNs" %}
+Before your app can receive push notifications, you need to request the user for permissions.
+Clikkle provides a utility to help request permissions to display notificaitons.
+
+You can learn more about requesting permissions from the
+[Apple Developer Documentation](https://developer.apple.com/documentation/usernotifications/asking-permission-to-use-notifications).
+{% /tabsitem %}
+
+{% tabsitem #android-fcm title="FCM for Android" %}
+First, add `POST_NOTIFICATIONS` to your `AndroidManifest.xml`.
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="YOUR_PACKAGE">
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <!-- ... rest of your manifest -->
+```
+
+Then, you'll also need to request [runtime permissions](https://developer.android.com/training/permissions/requesting)
+from your users using the `android.permission.POST_NOTIFICATIONS` permission.
+{% /tabsitem %}
+
+{% tabsitem #apple-fcm title="FCM for Apple" %}
+Before your app can receive push notifications, you need to request the user for permissions.
+Clikkle provides a utility to help request permissions to display notificaitons.
+
+You can learn more about requesting permissions from the
+[Apple Developer Documentation](https://developer.apple.com/documentation/usernotifications/asking-permission-to-use-notifications).
+
+When an FCM registration token is generated, the library uploads the identifier and configuration data to Firebase.
+If you wish to give your users the ability to explicitly opt out of sending data to Firebase,
+you can disable automatic initialization and manually initialize the library when the user grants permission.
+
+Disable auto-initialization by setting `FirebaseMessagingAutoInitEnabled` to `NO` in your `Info.plist`.
+```text
+FirebaseMessagingAutoInitEnabled = NO
+```
+
+Then, manually initialize the library when the user grants permission.
+``` swift
+Messaging.messaging().autoInitEnabled = true
+```
+{% /tabsitem %}
+{% /tabs %}
+
+{% /section %}
+
+{% section #send-message step=4 title="Send message" %}
+You can send messages in both the Clikkle Console and programmatically using the Clikkle Server SDK.
+
+{% info title="Sandbox" %}
+If you enabled **Sandbox** on your APNs provider, Clikkle will send push notifications to the development APNs environment.
+This requires you to use a **Development profile** in XCode.
+
+If XCode is not default to a development profile,
+click your root-level app in XCode > **Signing & Capabilities** > {% icon icon="plus" size="m" /%} Capabilities > uncheck **Automatically manage signing**.
+Then manually select a **Provisioning profile** that is a **Distribution profile**.
+{% /info %}
+
+{% tabs %}
+{% tabsitem #console title="Console" %}
+To send a test message, navigate to **Messaging** > **Messages** > {% icon icon="plus" size="m" /%} **Create message** > **Push notification**.
+{% only_dark %}
+![Create email message](/clikkle/images/docs/messaging/messages/dark/create-push-notification.png)
+{% /only_dark %}
+{% only_light %}
+![Create email message](/clikkle/images/docs/messaging/messages/create-push-notification.png)
+{% /only_light %}
+
+Add your message and in the targets step, select one of your test targets. Set the schedule to **Now** and click **Send**.
+
+Verify that you can receive the message in your inbox. If not, check for logs in the Clikkle Console or in your provider's logs.
+{% /tabsitem %}
+
+{% tabsitem #server-sdk title="Server SDK" %}
+To send a message programmatically, use an [Clikkle Server SDK](/docs/sdks#server).
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+;
+
+const message = await messaging.createPush({
+        messageId: '<MESSAGE_ID>',
+        title: '<TITLE>',
+        body: '<BODY>',
+        topics: [],             // optional
+        users: [],              // optional
+        targets: [],            // optional
+        data: {},               // optional
+        action: '<ACTION>',     // optional
+        icon: '<ICON>',         // optional
+        sound: '<SOUND>',       // optional
+        color: '<COLOR>',       // optional
+        tag: '<TAG>',           // optional
+        badge: '<BADGE>',       // optional
+        draft: false,           // optional
+        scheduledAt: ''         // optional
+    });
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+;
+
+const message = await messaging.createPush({
+        messageId: '<MESSAGE_ID>',
+        title: '<TITLE>',
+        body: '<BODY>',
+        topics: [],             // optional
+        users: [],              // optional
+        targets: [],            // optional
+        data: {},               // optional
+        action: '<ACTION>',     // optional
+        icon: '<ICON>',         // optional
+        sound: '<SOUND>',       // optional
+        color: '<COLOR>',       // optional
+        tag: '<TAG>',           // optional
+        badge: '<BADGE>',       // optional
+        draft: false,           // optional
+        scheduledAt: ''         // optional
+    });
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')   // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                   // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2')   // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createPush(
+    messageId: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    data: [],           // optional
+    action: '<ACTION>', // optional
+    icon: '<ICON>',     // optional
+    sound: '<SOUND>',   // optional
+    color: '<COLOR>',   // optional
+    tag: '<TAG>',       // optional
+    badge: '<BADGE>',   // optional
+    draft: false,       // optional
+    scheduledAt: ''     // optional
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_push(
+    message_id = '<MESSAGE_ID>',
+    title = '<TITLE>',
+    body = '<BODY>',
+    topics = [],        # optional
+    users = [],         # optional
+    targets = [],       # optional
+    data = {},          # optional
+    action = '<ACTION>',# optional
+    icon = '<ICON>',    # optional
+    sound = '<SOUND>',  # optional
+    color = '<COLOR>',  # optional
+    tag = '<TAG>',      # optional
+    badge = '<BADGE>',  # optional
+    draft = False,      # optional
+    scheduled_at = ''   # optional
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint
+    .set_project('<PROJECT_ID>')                   # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2')   # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_push(
+    message_id: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],         # optional
+    users: [],          # optional
+    targets: [],        # optional
+    data: {},           # optional
+    action: '<ACTION>', # optional
+    icon: '<ICON>',     # optional
+    sound: '<SOUND>',   # optional
+    color: '<COLOR>',   # optional
+    tag: '<TAG>',       # optional
+    badge: '<BADGE>',   # optional
+    draft: false,       # optional
+    scheduled_at: ''    # optional
+)
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                    // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2");   // Your secret API key
+
+var messaging = new Messaging(client);
+
+Message result = await messaging.CreatePush(
+    messageId: "[MESSAGE_ID]",
+    title: "[TITLE]",
+    body: "[BODY]"
+    topics: new List<string> {}     // optional
+    users: new List<string> {}      // optional
+    targets: new List<string> {}    // optional
+    data: [object]      // optional
+    action: "[ACTION]"  // optional
+    icon: "[ICON]"      // optional
+    sound: "[SOUND]"    // optional
+    color: "[COLOR]"    // optional
+    tag: "[TAG]"        // optional
+    badge: "[BADGE]"    // optional
+    draft: false        // optional
+    scheduledAt: "");   // optional
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() async {   // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+  ;
+
+  Future result = await messaging.createPush(
+    messageId: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    data: {},           // optional
+    action: '<ACTION>', // optional
+    icon: '<ICON>',     // optional
+    sound: '<SOUND>',   // optional
+    color: '<COLOR>',   // optional
+    tag: '<TAG>',       // optional
+    badge: '<BADGE>',   // optional
+    draft: false,       // optional
+    scheduledAt: '',    // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Messaging
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                    // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2")    // Your secret API key
+
+val messaging = Messaging(client)
+
+val response = messaging.createPush(
+    messageId = "<MESSAGE_ID>",
+    title = "<TITLE>",
+    body = "<BODY>",
+    topics = listOf(),          // optional
+    users = listOf(),           // optional
+    targets = listOf(),         // optional
+    data = mapOf( "a" to "b" ), // optional
+    action = "<ACTION>",        // optional
+    icon = "<ICON>",            // optional
+    sound = "<SOUND>",          // optional
+    color = "<COLOR>",          // optional
+    tag = "<TAG>",              // optional
+    badge = "<BADGE>",          // optional
+    draft = false,              // optional
+    scheduledAt = ""            // optional
+)
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                    // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");   // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createPush(
+    "<MESSAGE_ID>",      // messageId
+    "<TITLE>",           // title
+    "<BODY>",            // body
+    listOf(),            // topics (optional)
+    listOf(),            // users (optional)
+    listOf(),            // targets (optional)
+    mapOf( "a" to "b" ), // data (optional)
+    "<ACTION>",          // action (optional)
+    "<ICON>",            // icon (optional)
+    "<SOUND>",           // sound (optional)
+    "<COLOR>",           // color (optional)
+    "<TAG>",             // tag (optional)
+    "<BADGE>",           // badge (optional)
+    false,               // draft (optional)
+    ""                   // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2")  // Your secret API key
+
+let messaging = Messaging(client)
+
+let message = try await messaging.createPush(
+  messageId: "<MESSAGE_ID>",
+  title: "<TITLE>",
+  body: "<BODY>",
+  topics: [],         // optional
+  users: [],          // optional
+  targets: [],        // optional
+  data: [:],          // optional
+  action: "<ACTION>", // optional
+  icon: "<ICON>",     // optional
+  sound: "<SOUND>",   // optional
+  color: "<COLOR>",   // optional
+  tag: "<TAG>",       // optional
+  badge: "<BADGE>",   // optional
+  draft: false,       // optional
+  scheduledAt: ""     // optional
+)
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+{% /section %}
+
+19:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L22",null,{"markdown":"$23","className":"ml-0"}]}]]}],null,"$L24"]}],"$L25","$L26"]}]}]
+28:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+29:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2a:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+2b:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+2c:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+39:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+27:T5cdc,﻿---
+layout: article
+title: Send push notification
+description: Send push notification to your users using Clikkle Messaging.
+---
+You can send, schedule, and manage push notifications to your apps using Clikkle Messaging.
+Push notifications can be used to deliver new message notifications, app updates, promotional offers,
+and other messages straight to your user's devices.
+
+{% section #add-provider step=1 title="Add provider" %}
+Push notifications must be sent through third-party providers, like Apple Push Notification service and Firebase Cloud Messaging.
+The push notification APIs for Apple and Android devices can only be accessed through these services.
+
+You must configure these services before you can send your first push notification.
+
+{% cards %}
+{% cards_item href="/docs/products/messaging/apns" title="APNS" icon="icon-apple" %}
+Configure APNs for push notification to Apple devices.
+{% /cards_item %}
+{% cards_item href="/docs/products/messaging/fcm" title="FCM" icon="web-icon-firebase" %}
+Configure FCM for push notification to Android and Apple devices.
+{% /cards_item %}
+{% /cards %}
+
+{% /section %}
+{% section #add-targets step=2 title="Add targets" %}
+Before sending your first push notification, your application must register itself for push notification,
+then provide the device token to Clikkle.
+
+{% tabs %}
+{% tabsitem #apple-apns title="APNs for Apple" %}
+First, enable push notification in your app.
+Add push notification capability to your app by clicking your root-level app in XCode > **Signing & Capabilities** > {% icon icon="plus" size="m" /%} Capabilities > Search for **Push Notifications**.
+
+{% only_dark %} ![Authentication Key](/clikkle/images/docs/messaging/providers/apns/dark/xcode-enable-pn.png) {% /only_dark %} {% only_light %} ![Authentication Key](/clikkle/images/docs/messaging/providers/apns/xcode-enable-pn.png) {% /only_light %}
+
+First, register for remote notifications in your app delegate's `application(_:didFinishLaunchingWithOptions:)` method.
+
+```swift
+func application(
+    _ application: UIApplication,
+    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
+) -> Bool {
+    UNUserNotificationCenter.current().delegate = self
+    UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { granted, _ in
+        if granted {
+            DispatchQueue.main.async {
+                application.registerForRemoteNotifications()
+            }
+        }
+    }
+    return true
+}
+```
+
+Next, create a handler for when the app receives the push notification device token.
+```swift
+func application(
+    _ application: UIApplication,
+    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data
+) {
+    /* store this `token` */
+    let token = deviceToken.map { String(format: "%.2hhx", $0) }.joined()
+}
+```
+
+Since the token is saved in `UserDefaults`, you can access it from anywhere in your app.
+With this saved `apnsToken`, you can create a push target with Clikkle when the user logs in.
+Each push target is associated with an account, heres an example with an email password login.
+The same logic applies to all types of login methods.
+```swift
+func login() async {
+    do {
+        let session = try await account.createEmailPasswordSession(email: username, password: password)
+
+        let token = /* Retrieve the stored push token */
+
+        try await account.createPushTarget({
+            targetId: ID.unique(),
+            identifier: token
+        })
+    } catch {
+        print("Login failed: \(error.localizedDescription)")
+    }
+}
+```
+{% /tabsitem %}
+
+{% tabsitem #android-fcm title="FCM for Android" %}
+Before you can send push notifications using FCM, make sure you'd followed the steps to
+[Add Firebase to your Android project](https://firebase.google.com/docs/android/setup).
+
+After adding Firebase to your Android project and adding the `google-services.json` to your project,
+initialize Firebase in your main activity and fetch the FCM registration token.
+
+```kotlin
+class MainActivity : AppCompatActivity() {
+    override fun onCreate() {
+        // Initialize Firebase
+        FirebaseApp.initializeApp(this)
+
+        // Set the FCM token
+        FirebaseMessaging.getInstance().token.addOnCompleteListener(OnCompleteListener { task ->
+            if (task.isSuccessful) {
+                /* store this `token` */
+                val token = task.result
+            }
+        })
+    }
+}
+```
+
+Clikkle's push targets are associated with accounts.
+Typically, you would create a push target when the user logs in.
+
+For example, when the user logs in with email and password, your app
+can register itself as a target after handling the login.
+
+```kotlin
+fun login(email: String, password: String) {
+    viewModelScope.launch {
+        try {
+            val session = account.createEmailPasswordSession(email, password)
+
+            let token = /* Retrieve the stored push token */
+
+            /* store the `target.id` */
+            val target = account.createPushTarget(
+                targetId = ID.unique(),
+                identifier = token
+            )
+        } catch (e: ClikkleException) {
+            Log.e("Login", "Failed: ${e.message}")
+        }
+    }
+}
+```
+
+Lastly, because FCM push tokens can change, we need to add a service to handle FCM token
+refreshes and update the target with Clikkle Messaging.
+
+Create a new service that extends `FirebaseMessagingService` which handles the event where
+the FCM token is updated.
+
+```kotlin
+class MessagingService : FirebaseMessagingService() {
+    override fun onNewToken(token: String) {
+        super.onNewToken(token)
+
+        /* store the `token` */
+        /* If the user is logged in, update the push target */
+        runBlocking {
+            account?.updatePushTarget(/* retrieve saved `target.id` */, token)
+        }
+    }
+}
+```
+
+In your `AndroidManifest.xml`, register this new service.
+```xml
+<service android:name="<YOUR_NOTIFICATION_HANDLER_SERVICE>" android:exported="false">
+    <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+    </intent-filter>
+</service>
+```
+{% /tabsitem %}
+
+{% tabsitem #apple-fcm title="FCM for Apple" %}
+Before you can send push notifications using FCM, make sure you'd followed the steps to
+[Add Firebase to your iOS project](https://firebase.google.com/docs/ios/setup).
+
+After adding Firebase to your iOS project and adding the `GoogleService-Info.plist` to the root of your project.
+
+
+Next, add your APNs key to Firebase.
+1. Head to **Apple Developer Member Center** > **Program resources** > **Certificates, Identifiers & Profiles** > **Keys**. The key needs **Apple Push Notification Service** enabled.
+1. Create a new key, note down the key ID and download your key.
+1. In Firebase console, go to *Settings** > **Cloud Messaging** > **APNs authentication key** > click **Upload**. Upload your key here.
+1. Add push notification capability to your app by clicking your root-level app in XCode > **Signing & Capabilities** > {% icon icon="plus" size="m" /%} Capabilities > Search for **Push Notifications**.
+1. If using SwiftUI, disable swizzling by setting `FirebaseAppDelegateProxyEnabled` to `NO` in your `Info.plist`.
+
+Initialize Firebase in your app delegate's `application(_:didFinishLaunchingWithOptions:)` method,
+implement the messaging delegate protocol, and register for remote notifications.
+
+```swift
+func application(
+    _ application: UIApplication,
+    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
+) -> Bool {
+    FirebaseApp.configure()
+    Messaging.messaging().delegate = self
+    UNUserNotificationCenter.current().delegate = self
+
+    UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { granted, _ in
+        if granted {
+            DispatchQueue.main.async {
+                application.registerForRemoteNotifications()
+            }
+        }
+    }
+    return true
+}
+```
+Your APNS token can change, so you need to handle the token refresh event and update the target with Clikkle Messaging.
+Implement `didReceiveRegistrationToken`, which is called when the FCM token is updated.
+```swift
+func messaging(_ messaging: Messaging, didReceiveRegistrationToken fcmToken: String?) {
+    /* store the fcmToken */
+    guard let fcmToken = fcmToken else { return }
+
+    Task {
+        do {
+            _ = try await account.get()
+            try await account.createPushTarget(targetId: ID.unique(), identifier: fcmToken)
+        } catch {
+            print("Failed to create push target: \(error.localizedDescription)")
+        }
+    }
+}
+```
+Since the token is saved in `UserDefaults`, you can access it from anywhere in your app.
+With this saved `fcmToken`, you can create a push target with Clikkle when the user logs in.
+Each push target is associated with an account, here's an example with an email password login.
+The same logic applies to all types of login methods.
+```swift
+func login() async {
+    do {
+        let session = try await account.createEmailPasswordSession(email: username, password: password)
+
+        let token = /* Retrieve stored push token */
+
+        let target = try await account.createPushTarget(targetId: ID.unique(), identifier: token)
+    } catch {
+        print("Login failed: \(error.localizedDescription)")
+    }
+}
+
+```
+
+If you have disabled method swizzling, or you are building a SwiftUI app,
+you'll need to explicitly map your APNs token to the FCM registration token.
+Implement the `didRegisterForRemoteNotificationsWithDeviceToken` method to get the device token and save it to FCM.
+```swift
+func application(
+    _ application: UIApplication,
+    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data
+) {
+    Messaging.messaging().apnsToken = deviceToken
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+{% /section %}
+
+{% section #request-permissions step=3 title="Request permissions" %}
+Your app must ask for permission to receive push notification from the user.
+
+{% tabs %}
+{% tabsitem #apple-apns title="Apple with APNs" %}
+Before your app can receive push notifications, you need to request the user for permissions.
+Clikkle provides a utility to help request permissions to display notificaitons.
+
+You can learn more about requesting permissions from the
+[Apple Developer Documentation](https://developer.apple.com/documentation/usernotifications/asking-permission-to-use-notifications).
+{% /tabsitem %}
+
+{% tabsitem #android-fcm title="FCM for Android" %}
+First, add `POST_NOTIFICATIONS` to your `AndroidManifest.xml`.
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="YOUR_PACKAGE">
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <!-- ... rest of your manifest -->
+```
+
+Then, you'll also need to request [runtime permissions](https://developer.android.com/training/permissions/requesting)
+from your users using the `android.permission.POST_NOTIFICATIONS` permission.
+{% /tabsitem %}
+
+{% tabsitem #apple-fcm title="FCM for Apple" %}
+Before your app can receive push notifications, you need to request the user for permissions.
+Clikkle provides a utility to help request permissions to display notificaitons.
+
+You can learn more about requesting permissions from the
+[Apple Developer Documentation](https://developer.apple.com/documentation/usernotifications/asking-permission-to-use-notifications).
+
+When an FCM registration token is generated, the library uploads the identifier and configuration data to Firebase.
+If you wish to give your users the ability to explicitly opt out of sending data to Firebase,
+you can disable automatic initialization and manually initialize the library when the user grants permission.
+
+Disable auto-initialization by setting `FirebaseMessagingAutoInitEnabled` to `NO` in your `Info.plist`.
+```text
+FirebaseMessagingAutoInitEnabled = NO
+```
+
+Then, manually initialize the library when the user grants permission.
+``` swift
+Messaging.messaging().autoInitEnabled = true
+```
+{% /tabsitem %}
+{% /tabs %}
+
+{% /section %}
+
+{% section #send-message step=4 title="Send message" %}
+You can send messages in both the Clikkle Console and programmatically using the Clikkle Server SDK.
+
+{% info title="Sandbox" %}
+If you enabled **Sandbox** on your APNs provider, Clikkle will send push notifications to the development APNs environment.
+This requires you to use a **Development profile** in XCode.
+
+If XCode is not default to a development profile,
+click your root-level app in XCode > **Signing & Capabilities** > {% icon icon="plus" size="m" /%} Capabilities > uncheck **Automatically manage signing**.
+Then manually select a **Provisioning profile** that is a **Distribution profile**.
+{% /info %}
+
+{% tabs %}
+{% tabsitem #console title="Console" %}
+To send a test message, navigate to **Messaging** > **Messages** > {% icon icon="plus" size="m" /%} **Create message** > **Push notification**.
+{% only_dark %}
+![Create email message](/clikkle/images/docs/messaging/messages/dark/create-push-notification.png)
+{% /only_dark %}
+{% only_light %}
+![Create email message](/clikkle/images/docs/messaging/messages/create-push-notification.png)
+{% /only_light %}
+
+Add your message and in the targets step, select one of your test targets. Set the schedule to **Now** and click **Send**.
+
+Verify that you can receive the message in your inbox. If not, check for logs in the Clikkle Console or in your provider's logs.
+{% /tabsitem %}
+
+{% tabsitem #server-sdk title="Server SDK" %}
+To send a message programmatically, use an [Clikkle Server SDK](/docs/sdks#server).
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+;
+
+const message = await messaging.createPush({
+        messageId: '<MESSAGE_ID>',
+        title: '<TITLE>',
+        body: '<BODY>',
+        topics: [],             // optional
+        users: [],              // optional
+        targets: [],            // optional
+        data: {},               // optional
+        action: '<ACTION>',     // optional
+        icon: '<ICON>',         // optional
+        sound: '<SOUND>',       // optional
+        color: '<COLOR>',       // optional
+        tag: '<TAG>',           // optional
+        badge: '<BADGE>',       // optional
+        draft: false,           // optional
+        scheduledAt: ''         // optional
+    });
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+;
+
+const message = await messaging.createPush({
+        messageId: '<MESSAGE_ID>',
+        title: '<TITLE>',
+        body: '<BODY>',
+        topics: [],             // optional
+        users: [],              // optional
+        targets: [],            // optional
+        data: {},               // optional
+        action: '<ACTION>',     // optional
+        icon: '<ICON>',         // optional
+        sound: '<SOUND>',       // optional
+        color: '<COLOR>',       // optional
+        tag: '<TAG>',           // optional
+        badge: '<BADGE>',       // optional
+        draft: false,           // optional
+        scheduledAt: ''         // optional
+    });
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Messaging;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')   // Your API Endpoint
+    ->setProject('<PROJECT_ID>')                   // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2')   // Your secret API key
+;
+
+$messaging = new Messaging($client);
+
+$result = $messaging->createPush(
+    messageId: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    data: [],           // optional
+    action: '<ACTION>', // optional
+    icon: '<ICON>',     // optional
+    sound: '<SOUND>',   // optional
+    color: '<COLOR>',   // optional
+    tag: '<TAG>',       // optional
+    badge: '<BADGE>',   // optional
+    draft: false,       // optional
+    scheduledAt: ''     // optional
+);
+```
+```python
+from clikkle.client import Client
+from clikkle.services.messaging import Messaging
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+messaging = Messaging(client)
+
+result = messaging.create_push(
+    message_id = '<MESSAGE_ID>',
+    title = '<TITLE>',
+    body = '<BODY>',
+    topics = [],        # optional
+    users = [],         # optional
+    targets = [],       # optional
+    data = {},          # optional
+    action = '<ACTION>',# optional
+    icon = '<ICON>',    # optional
+    sound = '<SOUND>',  # optional
+    color = '<COLOR>',  # optional
+    tag = '<TAG>',      # optional
+    badge = '<BADGE>',  # optional
+    draft = False,      # optional
+    scheduled_at = ''   # optional
+)
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint
+    .set_project('<PROJECT_ID>')                   # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2')   # Your secret API key
+
+messaging = Messaging.new(client)
+
+response = messaging.create_push(
+    message_id: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],         # optional
+    users: [],          # optional
+    targets: [],        # optional
+    data: {},           # optional
+    action: '<ACTION>', # optional
+    icon: '<ICON>',     # optional
+    sound: '<SOUND>',   # optional
+    color: '<COLOR>',   # optional
+    tag: '<TAG>',       # optional
+    badge: '<BADGE>',   # optional
+    draft: false,       # optional
+    scheduled_at: ''    # optional
+)
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                    // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2");   // Your secret API key
+
+var messaging = new Messaging(client);
+
+Message result = await messaging.CreatePush(
+    messageId: "[MESSAGE_ID]",
+    title: "[TITLE]",
+    body: "[BODY]"
+    topics: new List<string> {}     // optional
+    users: new List<string> {}      // optional
+    targets: new List<string> {}    // optional
+    data: [object]      // optional
+    action: "[ACTION]"  // optional
+    icon: "[ICON]"      // optional
+    sound: "[SOUND]"    // optional
+    color: "[COLOR]"    // optional
+    tag: "[TAG]"        // optional
+    badge: "[BADGE]"    // optional
+    draft: false        // optional
+    scheduledAt: "");   // optional
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() async {   // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+  ;
+
+  Future result = await messaging.createPush(
+    messageId: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    data: {},           // optional
+    action: '<ACTION>', // optional
+    icon: '<ICON>',     // optional
+    sound: '<SOUND>',   // optional
+    color: '<COLOR>',   // optional
+    tag: '<TAG>',       // optional
+    badge: '<BADGE>',   // optional
+    draft: false,       // optional
+    scheduledAt: '',    // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Messaging
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                    // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2")    // Your secret API key
+
+val messaging = Messaging(client)
+
+val response = messaging.createPush(
+    messageId = "<MESSAGE_ID>",
+    title = "<TITLE>",
+    body = "<BODY>",
+    topics = listOf(),          // optional
+    users = listOf(),           // optional
+    targets = listOf(),         // optional
+    data = mapOf( "a" to "b" ), // optional
+    action = "<ACTION>",        // optional
+    icon = "<ICON>",            // optional
+    sound = "<SOUND>",          // optional
+    color = "<COLOR>",          // optional
+    tag = "<TAG>",              // optional
+    badge = "<BADGE>",          // optional
+    draft = false,              // optional
+    scheduledAt = ""            // optional
+)
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                    // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");   // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createPush(
+    "<MESSAGE_ID>",      // messageId
+    "<TITLE>",           // title
+    "<BODY>",            // body
+    listOf(),            // topics (optional)
+    listOf(),            // users (optional)
+    listOf(),            // targets (optional)
+    mapOf( "a" to "b" ), // data (optional)
+    "<ACTION>",          // action (optional)
+    "<ICON>",            // icon (optional)
+    "<SOUND>",           // sound (optional)
+    "<COLOR>",           // color (optional)
+    "<TAG>",             // tag (optional)
+    "<BADGE>",           // badge (optional)
+    false,               // draft (optional)
+    ""                   // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")  // Your API Endpoint
+    .setProject("<PROJECT_ID>")                  // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2")  // Your secret API key
+
+let messaging = Messaging(client)
+
+let message = try await messaging.createPush(
+  messageId: "<MESSAGE_ID>",
+  title: "<TITLE>",
+  body: "<BODY>",
+  topics: [],         // optional
+  users: [],          // optional
+  targets: [],        // optional
+  data: [:],          // optional
+  action: "<ACTION>", // optional
+  icon: "<ICON>",     // optional
+  sound: "<SOUND>",   // optional
+  color: "<COLOR>",   // optional
+  tag: "<TAG>",       // optional
+  badge: "<BADGE>",   // optional
+  draft: false,       // optional
+  scheduledAt: ""     // optional
+)
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+{% /section %}
+
+24:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Send push notification"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L22",null,{"markdown":"$27","className":"ml-0"}]}]]}]
+25:["$","$L28",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L29",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can send, schedule, and manage push notifications to your apps using Clikkle Messaging."," ","Push notifications can be used to deliver new message notifications, app updates, promotional offers,"," ","and other messages straight to your user's devices."]}],["$","$L2a",null,{"id":"add-provider","step":1,"title":"Add provider","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Push notifications must be sent through third-party providers, like Apple Push Notification service and Firebase Cloud Messaging."," ","The push notification APIs for Apple and Android devices can only be accessed through these services."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You must configure these services before you can send your first push notification."}],["$","div",null,{"className":"not-prose my-8 grid grid-cols-1 gap-8 md:grid-cols-2","children":[["$","$L16",null,{"href":"/docs/products/messaging/apns","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"icon-apple web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"APNS"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Configure APNs for push notification to Apple devices."}]}]]}],["$","$L16",null,{"href":"/docs/products/messaging/fcm","className":"bg-card border-smooth hover:bg-smooth !mb-0 flex flex-col gap-2 rounded-2xl border p-4 outline-0 transition-colors","children":[["$","header",null,{"className":"flex items-center gap-1","children":[["$","span",null,{"className":"web-icon-firebase web-u-font-size-24","aria-hidden":"true"}],null,["$","h4",null,{"className":"text-sub-body text-primary font-medium","children":"FCM"}]]}],["$","div",null,{"className":"text-sub-body","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Configure FCM for push notification to Android and Apple devices."}]}]]}]]}]]}],["$","$L2a",null,{"id":"add-targets","step":2,"title":"Add targets","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before sending your first push notification, your application must register itself for push notification,"," ","then provide the device token to Clikkle."]}],["$","$L2b",null,{"children":[["$","$L2c",null,{"id":"apple-apns","title":"APNs for Apple","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["First, enable push notification in your app."," ","Add push notification capability to your app by clicking your root-level app in XCode > ",["$","strong",null,{"children":"Signing & Capabilities"}]," > ",["$","span",null,{"className":"icon-plus","style":{"fontSize":"20px"}}]," Capabilities > Search for ",["$","strong",null,{"children":"Push Notifications"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","span",null,{"className":"web-u-only-dark","children":[" ",["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/providers/apns/dark/xcode-enable-pn.png","alt":"Authentication Key","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]," "]}]," ","$L2d"]}],"$L2e","$L2f","$L30","$L31","$L32","$L33"]}],"$L34","$L35"]}]]}],"$L36","$L37"]}]}]]}],"$L38"]}]
+26:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L39",null,{"items":[{"id":"add-provider","title":"Add provider","level":2},{"id":"add-targets","title":"Add targets","level":2},{"id":"request-permissions","title":"Request permissions","level":2},{"id":"send-message","title":"Send message","level":2}]}]}]
+3a:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+4a:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+56:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2d:["$","span",null,{"className":"web-u-only-light","children":[" ",["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/providers/apns/xcode-enable-pn.png","alt":"Authentication Key","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]," "]}]
+2e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["First, register for remote notifications in your app delegate's ",["$","code",null,{"children":"application(_:didFinishLaunchingWithOptions:)"}]," method."]}]
+2f:["$","$L3a",null,{"language":"swift","content":"func application(\n    _ application: UIApplication,\n    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil\n) -> Bool {\n    UNUserNotificationCenter.current().delegate = self\n    UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { granted, _ in\n        if granted {\n            DispatchQueue.main.async {\n                application.registerForRemoteNotifications()\n            }\n        }\n    }\n    return true\n}\n","children":"func application(\n    _ application: UIApplication,\n    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil\n) -> Bool {\n    UNUserNotificationCenter.current().delegate = self\n    UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { granted, _ in\n        if granted {\n            DispatchQueue.main.async {\n                application.registerForRemoteNotifications()\n            }\n        }\n    }\n    return true\n}\n"}]
+30:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Next, create a handler for when the app receives the push notification device token."}]
+31:["$","$L3a",null,{"language":"swift","content":"func application(\n    _ application: UIApplication,\n    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data\n) {\n    /* store this `token` */\n    let token = deviceToken.map { String(format: \"%.2hhx\", $0) }.joined()\n}\n","children":"func application(\n    _ application: UIApplication,\n    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data\n) {\n    /* store this `token` */\n    let token = deviceToken.map { String(format: \"%.2hhx\", $0) }.joined()\n}\n"}]
+32:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Since the token is saved in ",["$","code",null,{"children":"UserDefaults"}],", you can access it from anywhere in your app."," ","With this saved ",["$","code",null,{"children":"apnsToken"}],", you can create a push target with Clikkle when the user logs in."," ","Each push target is associated with an account, heres an example with an email password login."," ","The same logic applies to all types of login methods."]}]
+33:["$","$L3a",null,{"language":"swift","content":"func login() async {\n    do {\n        let session = try await account.createEmailPasswordSession(email: username, password: password)\n\n        let token = /* Retrieve the stored push token */\n\n        try await account.createPushTarget({\n            targetId: ID.unique(),\n            identifier: token\n        })\n    } catch {\n        print(\"Login failed: \\(error.localizedDescription)\")\n    }\n}\n","children":"func login() async {\n    do {\n        let session = try await account.createEmailPasswordSession(email: username, password: password)\n\n        let token = /* Retrieve the stored push token */\n\n        try await account.createPushTarget({\n            targetId: ID.unique(),\n            identifier: token\n        })\n    } catch {\n        print(\"Login failed: \\(error.localizedDescription)\")\n    }\n}\n"}]
+34:["$","$L2c",null,{"id":"android-fcm","title":"FCM for Android","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before you can send push notifications using FCM, make sure you'd followed the steps to"," ",["$","a",null,{"href":"https://firebase.google.com/docs/android/setup","target":"_blank","rel":"noopener nofollow","children":"Add Firebase to your Android project"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After adding Firebase to your Android project and adding the ",["$","code",null,{"children":"google-services.json"}]," to your project,"," ","initialize Firebase in your main activity and fetch the FCM registration token."]}],["$","$L3a",null,{"language":"kotlin","content":"class MainActivity : AppCompatActivity() {\n    override fun onCreate() {\n        // Initialize Firebase\n        FirebaseApp.initializeApp(this)\n\n        // Set the FCM token\n        FirebaseMessaging.getInstance().token.addOnCompleteListener(OnCompleteListener { task ->\n            if (task.isSuccessful) {\n                /* store this `token` */\n                val token = task.result\n            }\n        })\n    }\n}\n","children":"class MainActivity : AppCompatActivity() {\n    override fun onCreate() {\n        // Initialize Firebase\n        FirebaseApp.initializeApp(this)\n\n        // Set the FCM token\n        FirebaseMessaging.getInstance().token.addOnCompleteListener(OnCompleteListener { task ->\n            if (task.isSuccessful) {\n                /* store this `token` */\n                val token = task.result\n            }\n        })\n    }\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle's push targets are associated with accounts."," ","Typically, you would create a push target when the user logs in."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For example, when the user logs in with email and password, your app"," ","can register itself as a target after handling the login."]}],["$","$L3a",null,{"language":"kotlin","content":"fun login(email: String, password: String) {\n    viewModelScope.launch {\n        try {\n            val session = account.createEmailPasswordSession(email, password)\n\n            let token = /* Retrieve the stored push token */\n\n            /* store the `target.id` */\n            val target = account.createPushTarget(\n                targetId = ID.unique(),\n                identifier = token\n            )\n        } catch (e: ClikkleException) {\n            Log.e(\"Login\", \"Failed: ${e.message}\")\n        }\n    }\n}\n","children":"fun login(email: String, password: String) {\n    viewModelScope.launch {\n        try {\n            val session = account.createEmailPasswordSession(email, password)\n\n            let token = /* Retrieve the stored push token */\n\n            /* store the `target.id` */\n            val target = account.createPushTarget(\n                targetId = ID.unique(),\n                identifier = token\n            )\n        } catch (e: ClikkleException) {\n            Log.e(\"Login\", \"Failed: ${e.message}\")\n        }\n    }\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Lastly, because FCM push tokens can change, we need to add a service to handle FCM token"," ","refreshes and update the target with Clikkle Messaging."]}],"$L3b","$L3c","$L3d","$L3e"]}]
+35:["$","$L2c",null,{"id":"apple-fcm","title":"FCM for Apple","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before you can send push notifications using FCM, make sure you'd followed the steps to"," ",["$","a",null,{"href":"https://firebase.google.com/docs/ios/setup","target":"_blank","rel":"noopener nofollow","children":"Add Firebase to your iOS project"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After adding Firebase to your iOS project and adding the ",["$","code",null,{"children":"GoogleService-Info.plist"}]," to the root of your project."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Next, add your APNs key to Firebase."}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["Head to ",["$","strong",null,{"children":"Apple Developer Member Center"}]," > ",["$","strong",null,{"children":"Program resources"}]," > ",["$","strong",null,{"children":"Certificates, Identifiers & Profiles"}]," > ",["$","strong",null,{"children":"Keys"}],". The key needs ",["$","strong",null,{"children":"Apple Push Notification Service"}]," enabled."]}],["$","li",null,{"children":"Create a new key, note down the key ID and download your key."}],["$","li",null,{"children":["In Firebase console, go to ",["$","em",null,{"children":"Settings"}],"* > ",["$","strong",null,{"children":"Cloud Messaging"}]," > ",["$","strong",null,{"children":"APNs authentication key"}]," > click ",["$","strong",null,{"children":"Upload"}],". Upload your key here."]}],["$","li",null,{"children":["Add push notification capability to your app by clicking your root-level app in XCode > ",["$","strong",null,{"children":"Signing & Capabilities"}]," > ",["$","span",null,{"className":"icon-plus","style":{"fontSize":"20px"}}]," Capabilities > Search for ",["$","strong",null,{"children":"Push Notifications"}],"."]}],["$","li",null,{"children":["If using SwiftUI, disable swizzling by setting ",["$","code",null,{"children":"FirebaseAppDelegateProxyEnabled"}]," to ",["$","code",null,{"children":"NO"}]," in your ",["$","code",null,{"children":"Info.plist"}],"."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Initialize Firebase in your app delegate's ",["$","code",null,{"children":"application(_:didFinishLaunchingWithOptions:)"}]," method,"," ","implement the messaging delegate protocol, and register for remote notifications."]}],["$","$L3a",null,{"language":"swift","content":"func application(\n    _ application: UIApplication,\n    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil\n) -> Bool {\n    FirebaseApp.configure()\n    Messaging.messaging().delegate = self\n    UNUserNotificationCenter.current().delegate = self\n\n    UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { granted, _ in\n        if granted {\n            DispatchQueue.main.async {\n                application.registerForRemoteNotifications()\n            }\n        }\n    }\n    return true\n}\n","children":"func application(\n    _ application: UIApplication,\n    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil\n) -> Bool {\n    FirebaseApp.configure()\n    Messaging.messaging().delegate = self\n    UNUserNotificationCenter.current().delegate = self\n\n    UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { granted, _ in\n        if granted {\n            DispatchQueue.main.async {\n                application.registerForRemoteNotifications()\n            }\n        }\n    }\n    return true\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Your APNS token can change, so you need to handle the token refresh event and update the target with Clikkle Messaging."," ","Implement ","$L3f",", which is called when the FCM token is updated."]}],"$L40","$L41","$L42","$L43","$L44"]}]
+36:["$","$L2a",null,{"id":"request-permissions","step":3,"title":"Request permissions","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Your app must ask for permission to receive push notification from the user."}],["$","$L2b",null,{"children":[["$","$L2c",null,{"id":"apple-apns","title":"Apple with APNs","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before your app can receive push notifications, you need to request the user for permissions."," ","Clikkle provides a utility to help request permissions to display notificaitons."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can learn more about requesting permissions from the"," ",["$","a",null,{"href":"https://developer.apple.com/documentation/usernotifications/asking-permission-to-use-notifications","target":"_blank","rel":"noopener nofollow","children":"Apple Developer Documentation"}],"."]}]]}],["$","$L2c",null,{"id":"android-fcm","title":"FCM for Android","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["First, add ",["$","code",null,{"children":"POST_NOTIFICATIONS"}]," to your ",["$","code",null,{"children":"AndroidManifest.xml"}],"."]}],["$","$L3a",null,{"language":"xml","content":"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\"\n    package=\"YOUR_PACKAGE\">\n    <uses-permission android:name=\"android.permission.POST_NOTIFICATIONS\"/>\n    <!-- ... rest of your manifest -->\n","children":"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\"\n    package=\"YOUR_PACKAGE\">\n    <uses-permission android:name=\"android.permission.POST_NOTIFICATIONS\"/>\n    <!-- ... rest of your manifest -->\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then, you'll also need to request ",["$","a",null,{"href":"https://developer.android.com/training/permissions/requesting","target":"_blank","rel":"noopener nofollow","children":"runtime permissions"}]," ","from your users using the ",["$","code",null,{"children":"android.permission.POST_NOTIFICATIONS"}]," permission."]}]]}],["$","$L2c",null,{"id":"apple-fcm","title":"FCM for Apple","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before your app can receive push notifications, you need to request the user for permissions."," ","Clikkle provides a utility to help request permissions to display notificaitons."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can learn more about requesting permissions from the"," ",["$","a",null,{"href":"https://developer.apple.com/documentation/usernotifications/asking-permission-to-use-notifications","target":"_blank","rel":"noopener nofollow","children":"Apple Developer Documentation"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When an FCM registration token is generated, the library uploads the identifier and configuration data to Firebase."," ","If you wish to give your users the ability to explicitly opt out of sending data to Firebase,"," ","you can disable automatic initialization and manually initialize the library when the user grants permission."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Disable auto-initialization by setting ",["$","code",null,{"children":"FirebaseMessagingAutoInitEnabled"}]," to ","$L45"," in your ","$L46","."]}],"$L47","$L48","$L49"]}]]}]]}]
+4b:T408,const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+;
+
+const message = await messaging.createPush({
+        messageId: '<MESSAGE_ID>',
+        title: '<TITLE>',
+        body: '<BODY>',
+        topics: [],             // optional
+        users: [],              // optional
+        targets: [],            // optional
+        data: {},               // optional
+        action: '<ACTION>',     // optional
+        icon: '<ICON>',         // optional
+        sound: '<SOUND>',       // optional
+        color: '<COLOR>',       // optional
+        tag: '<TAG>',           // optional
+        badge: '<BADGE>',       // optional
+        draft: false,           // optional
+        scheduledAt: ''         // optional
+    });
+4c:T408,const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+;
+
+const message = await messaging.createPush({
+        messageId: '<MESSAGE_ID>',
+        title: '<TITLE>',
+        body: '<BODY>',
+        topics: [],             // optional
+        users: [],              // optional
+        targets: [],            // optional
+        data: {},               // optional
+        action: '<ACTION>',     // optional
+        icon: '<ICON>',         // optional
+        sound: '<SOUND>',       // optional
+        color: '<COLOR>',       // optional
+        tag: '<TAG>',           // optional
+        badge: '<BADGE>',       // optional
+        draft: false,           // optional
+        scheduledAt: ''         // optional
+    });
+37:["$","$L2a",null,{"id":"send-message","step":4,"title":"Send message","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can send messages in both the Clikkle Console and programmatically using the Clikkle Server SDK."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Sandbox"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you enabled ",["$","strong",null,{"children":"Sandbox"}]," on your APNs provider, Clikkle will send push notifications to the development APNs environment."," ","This requires you to use a ",["$","strong",null,{"children":"Development profile"}]," in XCode."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If XCode is not default to a development profile,"," ","click your root-level app in XCode > ",["$","strong",null,{"children":"Signing & Capabilities"}]," > ",["$","span",null,{"className":"icon-plus","style":{"fontSize":"20px"}}]," Capabilities > uncheck ",["$","strong",null,{"children":"Automatically manage signing"}],"."," ","Then manually select a ",["$","strong",null,{"children":"Provisioning profile"}]," that is a ",["$","strong",null,{"children":"Distribution profile"}],"."]}]]]}],["$","$L2b",null,{"children":[["$","$L2c",null,{"id":"console","title":"Console","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To send a test message, navigate to ",["$","strong",null,{"children":"Messaging"}]," > ",["$","strong",null,{"children":"Messages"}]," > ",["$","span",null,{"className":"icon-plus","style":{"fontSize":"20px"}}]," ",["$","strong",null,{"children":"Create message"}]," > ",["$","strong",null,{"children":"Push notification"}],"."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/messages/dark/create-push-notification.png","alt":"Create email message","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/messaging/messages/create-push-notification.png","alt":"Create email message","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add your message and in the targets step, select one of your test targets. Set the schedule to ",["$","strong",null,{"children":"Now"}]," and click ",["$","strong",null,{"children":"Send"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Verify that you can receive the message in your inbox. If not, check for logs in the Clikkle Console or in your provider's logs."}]]}],["$","$L2c",null,{"id":"server-sdk","title":"Server SDK","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To send a message programmatically, use an ",["$","$L16",null,{"href":"/docs/sdks#server","children":"Clikkle Server SDK"}],"."]}],["$","$L4a",null,{"children":[["$","$L3a",null,{"language":"server-nodejs","content":"$4b","children":"$4c"}],"$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55"]}]]}]]}]]}]
+38:["$","$L56",null,{"date":"$undefined"}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new service that extends ",["$","code",null,{"children":"FirebaseMessagingService"}]," which handles the event where"," ","the FCM token is updated."]}]
+3c:["$","$L3a",null,{"language":"kotlin","content":"class MessagingService : FirebaseMessagingService() {\n    override fun onNewToken(token: String) {\n        super.onNewToken(token)\n\n        /* store the `token` */\n        /* If the user is logged in, update the push target */\n        runBlocking {\n            account?.updatePushTarget(/* retrieve saved `target.id` */, token)\n        }\n    }\n}\n","children":"class MessagingService : FirebaseMessagingService() {\n    override fun onNewToken(token: String) {\n        super.onNewToken(token)\n\n        /* store the `token` */\n        /* If the user is logged in, update the push target */\n        runBlocking {\n            account?.updatePushTarget(/* retrieve saved `target.id` */, token)\n        }\n    }\n}\n"}]
+3d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In your ",["$","code",null,{"children":"AndroidManifest.xml"}],", register this new service."]}]
+3e:["$","$L3a",null,{"language":"xml","content":"<service android:name=\"<YOUR_NOTIFICATION_HANDLER_SERVICE>\" android:exported=\"false\">\n    <intent-filter>\n        <action android:name=\"com.google.firebase.MESSAGING_EVENT\" />\n    </intent-filter>\n</service>\n","children":"<service android:name=\"<YOUR_NOTIFICATION_HANDLER_SERVICE>\" android:exported=\"false\">\n    <intent-filter>\n        <action android:name=\"com.google.firebase.MESSAGING_EVENT\" />\n    </intent-filter>\n</service>\n"}]
+3f:["$","code",null,{"children":"didReceiveRegistrationToken"}]
+40:["$","$L3a",null,{"language":"swift","content":"func messaging(_ messaging: Messaging, didReceiveRegistrationToken fcmToken: String?) {\n    /* store the fcmToken */\n    guard let fcmToken = fcmToken else { return }\n\n    Task {\n        do {\n            _ = try await account.get()\n            try await account.createPushTarget(targetId: ID.unique(), identifier: fcmToken)\n        } catch {\n            print(\"Failed to create push target: \\(error.localizedDescription)\")\n        }\n    }\n}\n","children":"func messaging(_ messaging: Messaging, didReceiveRegistrationToken fcmToken: String?) {\n    /* store the fcmToken */\n    guard let fcmToken = fcmToken else { return }\n\n    Task {\n        do {\n            _ = try await account.get()\n            try await account.createPushTarget(targetId: ID.unique(), identifier: fcmToken)\n        } catch {\n            print(\"Failed to create push target: \\(error.localizedDescription)\")\n        }\n    }\n}\n"}]
+41:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Since the token is saved in ",["$","code",null,{"children":"UserDefaults"}],", you can access it from anywhere in your app."," ","With this saved ",["$","code",null,{"children":"fcmToken"}],", you can create a push target with Clikkle when the user logs in."," ","Each push target is associated with an account, here's an example with an email password login."," ","The same logic applies to all types of login methods."]}]
+42:["$","$L3a",null,{"language":"swift","content":"func login() async {\n    do {\n        let session = try await account.createEmailPasswordSession(email: username, password: password)\n\n        let token = /* Retrieve stored push token */\n\n        let target = try await account.createPushTarget(targetId: ID.unique(), identifier: token)\n    } catch {\n        print(\"Login failed: \\(error.localizedDescription)\")\n    }\n}\n\n","children":"func login() async {\n    do {\n        let session = try await account.createEmailPasswordSession(email: username, password: password)\n\n        let token = /* Retrieve stored push token */\n\n        let target = try await account.createPushTarget(targetId: ID.unique(), identifier: token)\n    } catch {\n        print(\"Login failed: \\(error.localizedDescription)\")\n    }\n}\n\n"}]
+43:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you have disabled method swizzling, or you are building a SwiftUI app,"," ","you'll need to explicitly map your APNs token to the FCM registration token."," ","Implement the ",["$","code",null,{"children":"didRegisterForRemoteNotificationsWithDeviceToken"}]," method to get the device token and save it to FCM."]}]
+44:["$","$L3a",null,{"language":"swift","content":"func application(\n    _ application: UIApplication,\n    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data\n) {\n    Messaging.messaging().apnsToken = deviceToken\n}\n","children":"func application(\n    _ application: UIApplication,\n    didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data\n) {\n    Messaging.messaging().apnsToken = deviceToken\n}\n"}]
+45:["$","code",null,{"children":"NO"}]
+46:["$","code",null,{"children":"Info.plist"}]
+47:["$","$L3a",null,{"language":"text","content":"FirebaseMessagingAutoInitEnabled = NO\n","children":"FirebaseMessagingAutoInitEnabled = NO\n"}]
+48:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Then, manually initialize the library when the user grants permission."}]
+49:["$","$L3a",null,{"content":"Messaging.messaging().autoInitEnabled = true\n","children":"Messaging.messaging().autoInitEnabled = true\n"}]
+57:T408,import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+;
+
+const message = await messaging.createPush({
+        messageId: '<MESSAGE_ID>',
+        title: '<TITLE>',
+        body: '<BODY>',
+        topics: [],             // optional
+        users: [],              // optional
+        targets: [],            // optional
+        data: {},               // optional
+        action: '<ACTION>',     // optional
+        icon: '<ICON>',         // optional
+        sound: '<SOUND>',       // optional
+        color: '<COLOR>',       // optional
+        tag: '<TAG>',           // optional
+        badge: '<BADGE>',       // optional
+        draft: false,           // optional
+        scheduledAt: ''         // optional
+    });
+58:T408,import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let messaging = new sdk.Messaging(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+;
+
+const message = await messaging.createPush({
+        messageId: '<MESSAGE_ID>',
+        title: '<TITLE>',
+        body: '<BODY>',
+        topics: [],             // optional
+        users: [],              // optional
+        targets: [],            // optional
+        data: {},               // optional
+        action: '<ACTION>',     // optional
+        icon: '<ICON>',         // optional
+        sound: '<SOUND>',       // optional
+        color: '<COLOR>',       // optional
+        tag: '<TAG>',           // optional
+        badge: '<BADGE>',       // optional
+        draft: false,           // optional
+        scheduledAt: ''         // optional
+    });
+4d:["$","$L3a",null,{"language":"deno","content":"$57","children":"$58"}]
+4e:["$","$L3a",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')   // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                   // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2')   // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createPush(\n    messageId: '<MESSAGE_ID>',\n    title: '<TITLE>',\n    body: '<BODY>',\n    topics: [],         // optional\n    users: [],          // optional\n    targets: [],        // optional\n    data: [],           // optional\n    action: '<ACTION>', // optional\n    icon: '<ICON>',     // optional\n    sound: '<SOUND>',   // optional\n    color: '<COLOR>',   // optional\n    tag: '<TAG>',       // optional\n    badge: '<BADGE>',   // optional\n    draft: false,       // optional\n    scheduledAt: ''     // optional\n);\n","children":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Messaging;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1')   // Your API Endpoint\n    ->setProject('<PROJECT_ID>')                   // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2')   // Your secret API key\n;\n\n$messaging = new Messaging($client);\n\n$result = $messaging->createPush(\n    messageId: '<MESSAGE_ID>',\n    title: '<TITLE>',\n    body: '<BODY>',\n    topics: [],         // optional\n    users: [],          // optional\n    targets: [],        // optional\n    data: [],           // optional\n    action: '<ACTION>', // optional\n    icon: '<ICON>',     // optional\n    sound: '<SOUND>',   // optional\n    color: '<COLOR>',   // optional\n    tag: '<TAG>',       // optional\n    badge: '<BADGE>',   // optional\n    draft: false,       // optional\n    scheduledAt: ''     // optional\n);\n"}]
+4f:["$","$L3a",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_push(\n    message_id = '<MESSAGE_ID>',\n    title = '<TITLE>',\n    body = '<BODY>',\n    topics = [],        # optional\n    users = [],         # optional\n    targets = [],       # optional\n    data = {},          # optional\n    action = '<ACTION>',# optional\n    icon = '<ICON>',    # optional\n    sound = '<SOUND>',  # optional\n    color = '<COLOR>',  # optional\n    tag = '<TAG>',      # optional\n    badge = '<BADGE>',  # optional\n    draft = False,      # optional\n    scheduled_at = ''   # optional\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.messaging import Messaging\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>')                 # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\nmessaging = Messaging(client)\n\nresult = messaging.create_push(\n    message_id = '<MESSAGE_ID>',\n    title = '<TITLE>',\n    body = '<BODY>',\n    topics = [],        # optional\n    users = [],         # optional\n    targets = [],       # optional\n    data = {},          # optional\n    action = '<ACTION>',# optional\n    icon = '<ICON>',    # optional\n    sound = '<SOUND>',  # optional\n    color = '<COLOR>',  # optional\n    tag = '<TAG>',      # optional\n    badge = '<BADGE>',  # optional\n    draft = False,      # optional\n    scheduled_at = ''   # optional\n)\n"}]
+50:["$","$L3a",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint\n    .set_project('<PROJECT_ID>')                   # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2')   # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_push(\n    message_id: '<MESSAGE_ID>',\n    title: '<TITLE>',\n    body: '<BODY>',\n    topics: [],         # optional\n    users: [],          # optional\n    targets: [],        # optional\n    data: {},           # optional\n    action: '<ACTION>', # optional\n    icon: '<ICON>',     # optional\n    sound: '<SOUND>',   # optional\n    color: '<COLOR>',   # optional\n    tag: '<TAG>',       # optional\n    badge: '<BADGE>',   # optional\n    draft: false,       # optional\n    scheduled_at: ''    # optional\n)\n\nputs response.inspect\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')   # Your API Endpoint\n    .set_project('<PROJECT_ID>')                   # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2')   # Your secret API key\n\nmessaging = Messaging.new(client)\n\nresponse = messaging.create_push(\n    message_id: '<MESSAGE_ID>',\n    title: '<TITLE>',\n    body: '<BODY>',\n    topics: [],         # optional\n    users: [],          # optional\n    targets: [],        # optional\n    data: {},           # optional\n    action: '<ACTION>', # optional\n    icon: '<ICON>',     # optional\n    sound: '<SOUND>',   # optional\n    color: '<COLOR>',   # optional\n    tag: '<TAG>',       # optional\n    badge: '<BADGE>',   # optional\n    draft: false,       # optional\n    scheduled_at: ''    # optional\n)\n\nputs response.inspect\n"}]
+51:["$","$L3a",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                    // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\");   // Your secret API key\n\nvar messaging = new Messaging(client);\n\nMessage result = await messaging.CreatePush(\n    messageId: \"[MESSAGE_ID]\",\n    title: \"[TITLE]\",\n    body: \"[BODY]\"\n    topics: new List<string> {}     // optional\n    users: new List<string> {}      // optional\n    targets: new List<string> {}    // optional\n    data: [object]      // optional\n    action: \"[ACTION]\"  // optional\n    icon: \"[ICON]\"      // optional\n    sound: \"[SOUND]\"    // optional\n    color: \"[COLOR]\"    // optional\n    tag: \"[TAG]\"        // optional\n    badge: \"[BADGE]\"    // optional\n    draft: false        // optional\n    scheduledAt: \"\");   // optional\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\")                    // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\");   // Your secret API key\n\nvar messaging = new Messaging(client);\n\nMessage result = await messaging.CreatePush(\n    messageId: \"[MESSAGE_ID]\",\n    title: \"[TITLE]\",\n    body: \"[BODY]\"\n    topics: new List<string> {}     // optional\n    users: new List<string> {}      // optional\n    targets: new List<string> {}    // optional\n    data: [object]      // optional\n    action: \"[ACTION]\"  // optional\n    icon: \"[ICON]\"      // optional\n    sound: \"[SOUND]\"    // optional\n    color: \"[COLOR]\"    // optional\n    tag: \"[TAG]\"        // optional\n    badge: \"[BADGE]\"    // optional\n    draft: false        // optional\n    scheduledAt: \"\");   // optional\n"}]
+59:T486,import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() async {   // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+  ;
+
+  Future result = await messaging.createPush(
+    messageId: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    data: {},           // optional
+    action: '<ACTION>', // optional
+    icon: '<ICON>',     // optional
+    sound: '<SOUND>',   // optional
+    color: '<COLOR>',   // optional
+    tag: '<TAG>',       // optional
+    badge: '<BADGE>',   // optional
+    draft: false,       // optional
+    scheduledAt: '',    // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+5a:T486,import 'package:dart_clikkle/dart_clikkle.dart';
+import 'package:dart_clikkle/enums.dart';
+import 'package:dart_clikkle/models.dart';
+
+void main() async {   // Init SDK
+  Client client = Client();
+  Messaging messaging = Messaging(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')    // Your API Endpoint
+    .setProject('<PROJECT_ID>')                    // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2')    // Your secret API key
+  ;
+
+  Future result = await messaging.createPush(
+    messageId: '<MESSAGE_ID>',
+    title: '<TITLE>',
+    body: '<BODY>',
+    topics: [],         // optional
+    users: [],          // optional
+    targets: [],        // optional
+    data: {},           // optional
+    action: '<ACTION>', // optional
+    icon: '<ICON>',     // optional
+    sound: '<SOUND>',   // optional
+    color: '<COLOR>',   // optional
+    tag: '<TAG>',       // optional
+    badge: '<BADGE>',   // optional
+    draft: false,       // optional
+    scheduledAt: '',    // optional
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+52:["$","$L3a",null,{"language":"dart","content":"$59","children":"$5a"}]
+53:["$","$L3a",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Messaging\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                    // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\")    // Your secret API key\n\nval messaging = Messaging(client)\n\nval response = messaging.createPush(\n    messageId = \"<MESSAGE_ID>\",\n    title = \"<TITLE>\",\n    body = \"<BODY>\",\n    topics = listOf(),          // optional\n    users = listOf(),           // optional\n    targets = listOf(),         // optional\n    data = mapOf( \"a\" to \"b\" ), // optional\n    action = \"<ACTION>\",        // optional\n    icon = \"<ICON>\",            // optional\n    sound = \"<SOUND>\",          // optional\n    color = \"<COLOR>\",          // optional\n    tag = \"<TAG>\",              // optional\n    badge = \"<BADGE>\",          // optional\n    draft = false,              // optional\n    scheduledAt = \"\"            // optional\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Messaging\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")    // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                    // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\")    // Your secret API key\n\nval messaging = Messaging(client)\n\nval response = messaging.createPush(\n    messageId = \"<MESSAGE_ID>\",\n    title = \"<TITLE>\",\n    body = \"<BODY>\",\n    topics = listOf(),          // optional\n    users = listOf(),           // optional\n    targets = listOf(),         // optional\n    data = mapOf( \"a\" to \"b\" ), // optional\n    action = \"<ACTION>\",        // optional\n    icon = \"<ICON>\",            // optional\n    sound = \"<SOUND>\",          // optional\n    color = \"<COLOR>\",          // optional\n    tag = \"<TAG>\",              // optional\n    badge = \"<BADGE>\",          // optional\n    draft = false,              // optional\n    scheduledAt = \"\"            // optional\n)\n"}]
+5b:T500,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                    // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");   // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createPush(
+    "<MESSAGE_ID>",      // messageId
+    "<TITLE>",           // title
+    "<BODY>",            // body
+    listOf(),            // topics (optional)
+    listOf(),            // users (optional)
+    listOf(),            // targets (optional)
+    mapOf( "a" to "b" ), // data (optional)
+    "<ACTION>",          // action (optional)
+    "<ICON>",            // icon (optional)
+    "<SOUND>",           // sound (optional)
+    "<COLOR>",           // color (optional)
+    "<TAG>",             // tag (optional)
+    "<BADGE>",           // badge (optional)
+    false,               // draft (optional)
+    ""                   // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+5c:T500,import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Messaging;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")    // Your API Endpoint
+    .setProject("<PROJECT_ID>")                    // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2");   // Your secret API key
+
+Messaging messaging = new Messaging(client);
+
+messaging.createPush(
+    "<MESSAGE_ID>",      // messageId
+    "<TITLE>",           // title
+    "<BODY>",            // body
+    listOf(),            // topics (optional)
+    listOf(),            // users (optional)
+    listOf(),            // targets (optional)
+    mapOf( "a" to "b" ), // data (optional)
+    "<ACTION>",          // action (optional)
+    "<ICON>",            // icon (optional)
+    "<SOUND>",           // sound (optional)
+    "<COLOR>",           // color (optional)
+    "<TAG>",             // tag (optional)
+    "<BADGE>",           // badge (optional)
+    false,               // draft (optional)
+    ""                   // scheduledAt (optional)
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+54:["$","$L3a",null,{"language":"java","content":"$5b","children":"$5c"}]
+55:["$","$L3a",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")  // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\")  // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet message = try await messaging.createPush(\n  messageId: \"<MESSAGE_ID>\",\n  title: \"<TITLE>\",\n  body: \"<BODY>\",\n  topics: [],         // optional\n  users: [],          // optional\n  targets: [],        // optional\n  data: [:],          // optional\n  action: \"<ACTION>\", // optional\n  icon: \"<ICON>\",     // optional\n  sound: \"<SOUND>\",   // optional\n  color: \"<COLOR>\",   // optional\n  tag: \"<TAG>\",       // optional\n  badge: \"<BADGE>\",   // optional\n  draft: false,       // optional\n  scheduledAt: \"\"     // optional\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")  // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                  // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\")  // Your secret API key\n\nlet messaging = Messaging(client)\n\nlet message = try await messaging.createPush(\n  messageId: \"<MESSAGE_ID>\",\n  title: \"<TITLE>\",\n  body: \"<BODY>\",\n  topics: [],         // optional\n  users: [],          // optional\n  targets: [],        // optional\n  data: [:],          // optional\n  action: \"<ACTION>\", // optional\n  icon: \"<ICON>\",     // optional\n  sound: \"<SOUND>\",   // optional\n  color: \"<COLOR>\",   // optional\n  tag: \"<TAG>\",       // optional\n  badge: \"<BADGE>\",   // optional\n  draft: false,       // optional\n  scheduledAt: \"\"     // optional\n)\n"}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+5d:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1c:null
+21:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5d","13",{}]]

@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+6:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+10:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+11:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+12:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+5:T50e,---
+layout: tutorial
+title: Create project
+description: Add authentication to a Next.js project using Clikkle.
+step: 2
+---
+
+
+Create a project using [Next.js](https://nextjs.org/docs/getting-started/installation#automatic-installation).
+
+```sh
+npx create-next-app@latest
+```
+
+The command will give you a prompt with several project types. We'll be starting with a skeleton project.
+
+The prompt will be something similar to this.
+
+```sh
+What is your project named? my-app
+Would you like to use TypeScript? No
+Would you like to use ESLint? No
+Would you like to use Tailwind CSS? No
+Would you like to use `src/` directory? Yes
+Would you like to use App Router? (recommended) Yes
+Would you like to customize the default import alias (@/*)? No
+What import alias would you like configured? [Enter]
+```
+
+After the prompt is finished, you can head over to the newly created project.
+
+```sh
+cd my-app
+npm install
+```
+
+## Install Clikkle {% #install-clikkle %}
+
+Clikkle provides a Node SDK that can be used in your Next.js apps. You can use Clikkle by installing the Node SDK as an NPM package. 
+The Node SDK is intended for server-side use. If you want to use Clikkle in a client-side application, you should use the [Web SDK](/docs/quick-starts/web) instead.
+
+```sh
+npm install node-clikkle@20.0.0
+```
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Server-side authentication with Next.js","steps":[{"step":1,"title":"Server-side authentication with Next.js","href":"/docs/tutorials/nextjs-ssr-auth/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":20},{"step":2,"title":"Create project","href":"/docs/tutorials/nextjs-ssr-auth/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":20},{"step":3,"title":"Initialize SDK","href":"/docs/tutorials/nextjs-ssr-auth/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":20},{"step":4,"title":"Get the logged in user","href":"/docs/tutorials/nextjs-ssr-auth/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":20},{"step":5,"title":"Create sign up page","href":"/docs/tutorials/nextjs-ssr-auth/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":20},{"step":6,"title":"Create account page","href":"/docs/tutorials/nextjs-ssr-auth/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":20},{"step":7,"title":"OAuth authentication with SSR","href":"/docs/tutorials/nextjs-ssr-auth/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":20},{"step":8,"title":"All set","href":"/docs/tutorials/nextjs-ssr-auth/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":20}],"currentStep":2,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:1","back":"/docs/tutorials","copyMarkdown":"$5","children":["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a project using ",["$","a",null,{"href":"https://nextjs.org/docs/getting-started/installation#automatic-installation","target":"_blank","rel":"noopener nofollow","children":"Next.js"}],"."]}],["$","$L6",null,{"language":"sh","content":"npx create-next-app@latest\n","children":"npx create-next-app@latest\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The command will give you a prompt with several project types. We'll be starting with a skeleton project."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The prompt will be something similar to this."}],["$","$L6",null,{"language":"sh","content":"What is your project named? my-app\nWould you like to use TypeScript? No\nWould you like to use ESLint? No\nWould you like to use Tailwind CSS? No\nWould you like to use `src/` directory? Yes\nWould you like to use App Router? (recommended) Yes\nWould you like to customize the default import alias (@/*)? No\nWhat import alias would you like configured? [Enter]\n","children":"What is your project named? my-app\nWould you like to use TypeScript? No\nWould you like to use ESLint? No\nWould you like to use Tailwind CSS? No\nWould you like to use `src/` directory? Yes\nWould you like to use App Router? (recommended) Yes\nWould you like to customize the default import alias (@/*)? No\nWhat import alias would you like configured? [Enter]\n"}],"$L7","$L8","$L9","$La","$Lb"]}]}]}]}]}],["$Lc","$Ld","$Le"],"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+7:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After the prompt is finished, you can head over to the newly created project."}]
+8:["$","$L6",null,{"language":"sh","content":"cd my-app\nnpm install\n","children":"cd my-app\nnpm install\n"}]
+9:["$","$L10",null,{"id":"install-clikkle","level":2,"children":"Install Clikkle "}]
+a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle provides a Node SDK that can be used in your Next.js apps. You can use Clikkle by installing the Node SDK as an NPM package."," ","The Node SDK is intended for server-side use. If you want to use Clikkle in a client-side application, you should use the ",["$","$L11",null,{"href":"/docs/quick-starts/web","children":"Web SDK"}]," instead."]}]
+b:["$","$L6",null,{"language":"sh","content":"npm install node-clikkle@20.0.0\n","children":"npm install node-clikkle@20.0.0\n"}]
+c:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+d:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+e:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+f:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

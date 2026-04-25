@@ -1,0 +1,564 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1b:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1c:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TableTag"]
+20:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+31:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T1bc2,---
+layout: article
+title: Functions
+description: Efficiently deploy your Clikkle functions using the Command-Line Tool (CLI).
+---
+
+{% info title="Before proceeding" %}
+Ensure you [**install**](/docs/tooling/command-line/installation#getting-started) the CLI, [**log in**](/docs/tooling/command-line/installation#login) to your Clikkle account, and [**initialize**](/docs/tooling/command-line/installation#initialization) your Clikkle project.
+{% /info %}
+
+
+The CLI handles the creation, deployment, and execution of Clikkle Functions, as well as the configuration of the variables. You can also [develop your function locally](/docs/products/functions/develop-locally) using CLI commands.
+
+# Initialize function {% #initialize-function %}
+
+Create a new function using the following command:
+
+```sh
+clikkle init functions
+```
+
+# Pull function {% #pull-function %}
+
+You can also pull your existing Clikkle Functions from the Clikkle Console using the `pull` command in the folder containing your `clikkle.config.json` file.
+
+```sh
+clikkle pull functions
+```
+
+# clikkle.config.json {% #clikklejson %}
+
+After [initializing](/docs/tooling/command-line/installation#initialization) your Clikkle project and pulling your existing functions, your `clikkle.config.json` file should look similar to the following:
+
+```json
+{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "functions": [
+        {
+            "$id": "<FUNCTION_ID>",
+            "$createdAt": "2024-04-22T22:29:31.427+00:00",
+            "$updatedAt": "2024-06-26T19:08:26.582+00:00",
+            "execute": [
+                "any"
+            ],
+            "name": "userAuth",
+            "enabled": true,
+            "live": true,
+            "logging": true,
+            "runtime": "node-18.0",
+            "deployment": "<PROJECT_ID>",
+            "vars": [
+                {
+                    "$id": "eyJhbGciOiJIUzI1N",
+                    "$createdAt": "2024-04-22T22:51:51.745+00:00",
+                    "$updatedAt": "2024-04-23T00:13:10.886+00:00",
+                    "key": "<X_Clikkle_Key>",
+                    "value": "<API_KEY>",
+                    "resourceType": "function",
+                    "resourceId": "eyJhbGciOiJIUzI1N"
+                },
+                {
+                    "$id": "N1IzUIJiOicGbhJye",
+                    "$createdAt": "2024-04-22T23:32:12.901+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.901+00:00",
+                    "key": "<DATABASE_ID>",
+                    "value": "<DATABASE_ID>",
+                    "resourceType": "function",
+                    "resourceId": "N1IzUIJiOicGbhJye"
+                },
+                {
+                    "$id": "OicGbhJyeN1IzUIJi",
+                    "$createdAt": "2024-04-22T23:32:12.910+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.910+00:00",
+                    "key": "<PROJECT_ID>",
+                    "value": "<PROJECT_ID>",
+                    "resourceType": "function",
+                    "resourceId": "OicGbhJyeN1IzUIJi"
+                },
+                {
+                    "$id": "bhJyIJiON1IzUicGe",
+                    "$createdAt": "2024-04-22T23:32:12.912+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.912+00:00",
+                    "key": "<TABLE_USERS_ID>",
+                    "value": "<TABLE_ID>",
+                    "resourceType": "function",
+                    "resourceId": "bhJyIJiON1IzUicGe"
+                }
+            ],
+            "events": [],
+            "schedule": "",
+            "timeout": 15,
+            "entrypoint": "userAuth.js",
+            "commands": "npm install",
+            "version": "v3",
+            "installationId": "a0e499a8",
+            "providerRepositoryId": "7389",
+            "providerBranch": "user-clikkle-funcs",
+            "providerRootDirectory": "functions",
+            "providerSilentMode": false,
+            "path": "functions/49dbf3"
+        }
+    ]
+}
+```
+
+# Push function {% #push-function %}
+
+Use the `push` command in the folder containing your `clikkle.config.json` file to push the changes you made.
+
+
+```sh
+clikkle push functions
+```
+
+# Commands {% #commands %}
+
+The functions command lets you view, create, and manage your Clikkle Functions. Clikkle functions CLI commands generally follow the following syntax:
+
+```sh
+clikkle functions [COMMAND] [OPTIONS]
+```
+
+{% table %}
+* Command
+* Description
+---
+* `list [options]`
+* Get a list of all the project's functions. You can use the query params to filter your results.
+---
+* `create [options]`
+* Create a new function. You can pass a list of [permissions](https://clikkle.io/docs/permissions) to allow different project users or teams with access to execute the function using the client API.
+---
+* `list-runtimes`
+* Get a list of all runtimes that are currently active on your instance.
+---
+* `get [options]`
+* Get a function by its unique ID.
+---
+* `update [options]`
+* Update function by its unique ID.
+---
+* `delete [options]`
+* Delete a function by its unique ID.
+---
+* `list-deployments [options]`
+* Get a list of all the project's code deployments. You can use the query params to filter your results.
+---
+* `create-deployment [options]`
+* Create a new function code deployment. Use this endpoint to upload a new version of your code function. To execute your newly uploaded code, you'll need to update the function's deployment to use your new deployment UID. This endpoint accepts a tar.gz file compressed with your code. Make sure to include any dependencies your code has within the compressed file. You can learn more about code packaging in the [Clikkle Cloud Functions tutorial](https://clikkle.io/docs/functions). Use the "command" param to set the entrypoint used to execute your code.
+---
+* `get-deployment [options]`
+* Get a code deployment by its unique ID.
+---
+* `update-deployment [options]`
+* Update the function code deployment ID using the unique function ID. Use this endpoint to switch the code deployment that should be executed by the execution endpoint.
+---
+* `delete-deployment [options]`
+* Delete a code deployment by its unique ID.
+---
+* `download-deployment [options]`
+* Get a Deployment's contents by its unique ID. This endpoint supports range requests for partial or streaming file download.
+---
+* `list-executions [options]`
+* Get a list of all the current user function execution logs. You can use the query params to filter your results.
+---
+* `create-execution [options]`
+* Trigger a function execution.
+---
+* `get-execution [options]`
+* Get a function execution log by its unique ID.
+---
+* `list-variables [options]`
+* Get a list of all variables of a specific function.
+---
+* `create-variable [options]`
+* Create a new function environment variable. These variables can be accessed in the function at runtime as environment variables.
+---
+* `get-variable [options]`
+* Get a variable by its unique ID.
+---
+* `update-variable [options]`
+* Update a variable by its unique ID.
+---
+* `delete-variable [options]`
+* Delete a variable by its unique ID.
+---
+{% /table %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T1bc2,---
+layout: article
+title: Functions
+description: Efficiently deploy your Clikkle functions using the Command-Line Tool (CLI).
+---
+
+{% info title="Before proceeding" %}
+Ensure you [**install**](/docs/tooling/command-line/installation#getting-started) the CLI, [**log in**](/docs/tooling/command-line/installation#login) to your Clikkle account, and [**initialize**](/docs/tooling/command-line/installation#initialization) your Clikkle project.
+{% /info %}
+
+
+The CLI handles the creation, deployment, and execution of Clikkle Functions, as well as the configuration of the variables. You can also [develop your function locally](/docs/products/functions/develop-locally) using CLI commands.
+
+# Initialize function {% #initialize-function %}
+
+Create a new function using the following command:
+
+```sh
+clikkle init functions
+```
+
+# Pull function {% #pull-function %}
+
+You can also pull your existing Clikkle Functions from the Clikkle Console using the `pull` command in the folder containing your `clikkle.config.json` file.
+
+```sh
+clikkle pull functions
+```
+
+# clikkle.config.json {% #clikklejson %}
+
+After [initializing](/docs/tooling/command-line/installation#initialization) your Clikkle project and pulling your existing functions, your `clikkle.config.json` file should look similar to the following:
+
+```json
+{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "functions": [
+        {
+            "$id": "<FUNCTION_ID>",
+            "$createdAt": "2024-04-22T22:29:31.427+00:00",
+            "$updatedAt": "2024-06-26T19:08:26.582+00:00",
+            "execute": [
+                "any"
+            ],
+            "name": "userAuth",
+            "enabled": true,
+            "live": true,
+            "logging": true,
+            "runtime": "node-18.0",
+            "deployment": "<PROJECT_ID>",
+            "vars": [
+                {
+                    "$id": "eyJhbGciOiJIUzI1N",
+                    "$createdAt": "2024-04-22T22:51:51.745+00:00",
+                    "$updatedAt": "2024-04-23T00:13:10.886+00:00",
+                    "key": "<X_Clikkle_Key>",
+                    "value": "<API_KEY>",
+                    "resourceType": "function",
+                    "resourceId": "eyJhbGciOiJIUzI1N"
+                },
+                {
+                    "$id": "N1IzUIJiOicGbhJye",
+                    "$createdAt": "2024-04-22T23:32:12.901+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.901+00:00",
+                    "key": "<DATABASE_ID>",
+                    "value": "<DATABASE_ID>",
+                    "resourceType": "function",
+                    "resourceId": "N1IzUIJiOicGbhJye"
+                },
+                {
+                    "$id": "OicGbhJyeN1IzUIJi",
+                    "$createdAt": "2024-04-22T23:32:12.910+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.910+00:00",
+                    "key": "<PROJECT_ID>",
+                    "value": "<PROJECT_ID>",
+                    "resourceType": "function",
+                    "resourceId": "OicGbhJyeN1IzUIJi"
+                },
+                {
+                    "$id": "bhJyIJiON1IzUicGe",
+                    "$createdAt": "2024-04-22T23:32:12.912+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.912+00:00",
+                    "key": "<TABLE_USERS_ID>",
+                    "value": "<TABLE_ID>",
+                    "resourceType": "function",
+                    "resourceId": "bhJyIJiON1IzUicGe"
+                }
+            ],
+            "events": [],
+            "schedule": "",
+            "timeout": 15,
+            "entrypoint": "userAuth.js",
+            "commands": "npm install",
+            "version": "v3",
+            "installationId": "a0e499a8",
+            "providerRepositoryId": "7389",
+            "providerBranch": "user-clikkle-funcs",
+            "providerRootDirectory": "functions",
+            "providerSilentMode": false,
+            "path": "functions/49dbf3"
+        }
+    ]
+}
+```
+
+# Push function {% #push-function %}
+
+Use the `push` command in the folder containing your `clikkle.config.json` file to push the changes you made.
+
+
+```sh
+clikkle push functions
+```
+
+# Commands {% #commands %}
+
+The functions command lets you view, create, and manage your Clikkle Functions. Clikkle functions CLI commands generally follow the following syntax:
+
+```sh
+clikkle functions [COMMAND] [OPTIONS]
+```
+
+{% table %}
+* Command
+* Description
+---
+* `list [options]`
+* Get a list of all the project's functions. You can use the query params to filter your results.
+---
+* `create [options]`
+* Create a new function. You can pass a list of [permissions](https://clikkle.io/docs/permissions) to allow different project users or teams with access to execute the function using the client API.
+---
+* `list-runtimes`
+* Get a list of all runtimes that are currently active on your instance.
+---
+* `get [options]`
+* Get a function by its unique ID.
+---
+* `update [options]`
+* Update function by its unique ID.
+---
+* `delete [options]`
+* Delete a function by its unique ID.
+---
+* `list-deployments [options]`
+* Get a list of all the project's code deployments. You can use the query params to filter your results.
+---
+* `create-deployment [options]`
+* Create a new function code deployment. Use this endpoint to upload a new version of your code function. To execute your newly uploaded code, you'll need to update the function's deployment to use your new deployment UID. This endpoint accepts a tar.gz file compressed with your code. Make sure to include any dependencies your code has within the compressed file. You can learn more about code packaging in the [Clikkle Cloud Functions tutorial](https://clikkle.io/docs/functions). Use the "command" param to set the entrypoint used to execute your code.
+---
+* `get-deployment [options]`
+* Get a code deployment by its unique ID.
+---
+* `update-deployment [options]`
+* Update the function code deployment ID using the unique function ID. Use this endpoint to switch the code deployment that should be executed by the execution endpoint.
+---
+* `delete-deployment [options]`
+* Delete a code deployment by its unique ID.
+---
+* `download-deployment [options]`
+* Get a Deployment's contents by its unique ID. This endpoint supports range requests for partial or streaming file download.
+---
+* `list-executions [options]`
+* Get a list of all the current user function execution logs. You can use the query params to filter your results.
+---
+* `create-execution [options]`
+* Trigger a function execution.
+---
+* `get-execution [options]`
+* Get a function execution log by its unique ID.
+---
+* `list-variables [options]`
+* Get a list of all variables of a specific function.
+---
+* `create-variable [options]`
+* Create a new function environment variable. These variables can be accessed in the function at runtime as environment variables.
+---
+* `get-variable [options]`
+* Get a variable by its unique ID.
+---
+* `update-variable [options]`
+* Update a variable by its unique ID.
+---
+* `delete-variable [options]`
+* Delete a variable by its unique ID.
+---
+{% /table %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Functions"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+11:Ta7a,{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "functions": [
+        {
+            "$id": "<FUNCTION_ID>",
+            "$createdAt": "2024-04-22T22:29:31.427+00:00",
+            "$updatedAt": "2024-06-26T19:08:26.582+00:00",
+            "execute": [
+                "any"
+            ],
+            "name": "userAuth",
+            "enabled": true,
+            "live": true,
+            "logging": true,
+            "runtime": "node-18.0",
+            "deployment": "<PROJECT_ID>",
+            "vars": [
+                {
+                    "$id": "eyJhbGciOiJIUzI1N",
+                    "$createdAt": "2024-04-22T22:51:51.745+00:00",
+                    "$updatedAt": "2024-04-23T00:13:10.886+00:00",
+                    "key": "<X_Clikkle_Key>",
+                    "value": "<API_KEY>",
+                    "resourceType": "function",
+                    "resourceId": "eyJhbGciOiJIUzI1N"
+                },
+                {
+                    "$id": "N1IzUIJiOicGbhJye",
+                    "$createdAt": "2024-04-22T23:32:12.901+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.901+00:00",
+                    "key": "<DATABASE_ID>",
+                    "value": "<DATABASE_ID>",
+                    "resourceType": "function",
+                    "resourceId": "N1IzUIJiOicGbhJye"
+                },
+                {
+                    "$id": "OicGbhJyeN1IzUIJi",
+                    "$createdAt": "2024-04-22T23:32:12.910+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.910+00:00",
+                    "key": "<PROJECT_ID>",
+                    "value": "<PROJECT_ID>",
+                    "resourceType": "function",
+                    "resourceId": "OicGbhJyeN1IzUIJi"
+                },
+                {
+                    "$id": "bhJyIJiON1IzUicGe",
+                    "$createdAt": "2024-04-22T23:32:12.912+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.912+00:00",
+                    "key": "<TABLE_USERS_ID>",
+                    "value": "<TABLE_ID>",
+                    "resourceType": "function",
+                    "resourceId": "bhJyIJiON1IzUicGe"
+                }
+            ],
+            "events": [],
+            "schedule": "",
+            "timeout": 15,
+            "entrypoint": "userAuth.js",
+            "commands": "npm install",
+            "version": "v3",
+            "installationId": "a0e499a8",
+            "providerRepositoryId": "7389",
+            "providerBranch": "user-clikkle-funcs",
+            "providerRootDirectory": "functions",
+            "providerSilentMode": false,
+            "path": "functions/49dbf3"
+        }
+    ]
+}
+12:Ta7a,{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "functions": [
+        {
+            "$id": "<FUNCTION_ID>",
+            "$createdAt": "2024-04-22T22:29:31.427+00:00",
+            "$updatedAt": "2024-06-26T19:08:26.582+00:00",
+            "execute": [
+                "any"
+            ],
+            "name": "userAuth",
+            "enabled": true,
+            "live": true,
+            "logging": true,
+            "runtime": "node-18.0",
+            "deployment": "<PROJECT_ID>",
+            "vars": [
+                {
+                    "$id": "eyJhbGciOiJIUzI1N",
+                    "$createdAt": "2024-04-22T22:51:51.745+00:00",
+                    "$updatedAt": "2024-04-23T00:13:10.886+00:00",
+                    "key": "<X_Clikkle_Key>",
+                    "value": "<API_KEY>",
+                    "resourceType": "function",
+                    "resourceId": "eyJhbGciOiJIUzI1N"
+                },
+                {
+                    "$id": "N1IzUIJiOicGbhJye",
+                    "$createdAt": "2024-04-22T23:32:12.901+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.901+00:00",
+                    "key": "<DATABASE_ID>",
+                    "value": "<DATABASE_ID>",
+                    "resourceType": "function",
+                    "resourceId": "N1IzUIJiOicGbhJye"
+                },
+                {
+                    "$id": "OicGbhJyeN1IzUIJi",
+                    "$createdAt": "2024-04-22T23:32:12.910+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.910+00:00",
+                    "key": "<PROJECT_ID>",
+                    "value": "<PROJECT_ID>",
+                    "resourceType": "function",
+                    "resourceId": "OicGbhJyeN1IzUIJi"
+                },
+                {
+                    "$id": "bhJyIJiON1IzUicGe",
+                    "$createdAt": "2024-04-22T23:32:12.912+00:00",
+                    "$updatedAt": "2024-04-22T23:32:12.912+00:00",
+                    "key": "<TABLE_USERS_ID>",
+                    "value": "<TABLE_ID>",
+                    "resourceType": "function",
+                    "resourceId": "bhJyIJiON1IzUicGe"
+                }
+            ],
+            "events": [],
+            "schedule": "",
+            "timeout": 15,
+            "entrypoint": "userAuth.js",
+            "commands": "npm install",
+            "version": "v3",
+            "installationId": "a0e499a8",
+            "providerRepositoryId": "7389",
+            "providerBranch": "user-clikkle-funcs",
+            "providerRootDirectory": "functions",
+            "providerSilentMode": false,
+            "path": "functions/49dbf3"
+        }
+    ]
+}
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Before proceeding"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Ensure you ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#getting-started","children":["$","strong",null,{"children":"install"}]}]," the CLI, ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#login","children":["$","strong",null,{"children":"log in"}]}]," to your Clikkle account, and ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#initialization","children":["$","strong",null,{"children":"initialize"}]}]," your Clikkle project."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The CLI handles the creation, deployment, and execution of Clikkle Functions, as well as the configuration of the variables. You can also ",["$","$Le",null,{"href":"/docs/products/functions/develop-locally","children":"develop your function locally"}]," using CLI commands."]}],["$","$Lf",null,{"id":"initialize-function","level":1,"children":"Initialize function "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Create a new function using the following command:"}],["$","$L10",null,{"language":"sh","content":"clikkle init functions\n","children":"clikkle init functions\n"}],["$","$Lf",null,{"id":"pull-function","level":1,"children":"Pull function "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also pull your existing Clikkle Functions from the Clikkle Console using the ",["$","code",null,{"children":"pull"}]," command in the folder containing your ",["$","code",null,{"children":"clikkle.config.json"}]," file."]}],["$","$L10",null,{"language":"sh","content":"clikkle pull functions\n","children":"clikkle pull functions\n"}],["$","$Lf",null,{"id":"clikklejson","level":1,"children":"clikkle.config.json "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#initialization","children":"initializing"}]," your Clikkle project and pulling your existing functions, your ",["$","code",null,{"children":"clikkle.config.json"}]," file should look similar to the following:"]}],["$","$L10",null,{"language":"json","content":"$11","children":"$12"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]}]]}],"$L1a"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1b",null,{"items":[{"id":"initialize-function","title":"Initialize function","level":1},{"id":"pull-function","title":"Pull function","level":1},{"id":"clikklejson","title":"clikkle.config.json","level":1},{"id":"push-function","title":"Push function","level":1},{"id":"commands","title":"Commands","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+13:["$","$Lf",null,{"id":"push-function","level":1,"children":"Push function "}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the ",["$","code",null,{"children":"push"}]," command in the folder containing your ",["$","code",null,{"children":"clikkle.config.json"}]," file to push the changes you made."]}]
+15:["$","$L10",null,{"language":"sh","content":"clikkle push functions\n","children":"clikkle push functions\n"}]
+16:["$","$Lf",null,{"id":"commands","level":1,"children":"Commands "}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The functions command lets you view, create, and manage your Clikkle Functions. Clikkle functions CLI commands generally follow the following syntax:"}]
+18:["$","$L10",null,{"language":"sh","content":"clikkle functions [COMMAND] [OPTIONS]\n","children":"clikkle functions [COMMAND] [OPTIONS]\n"}]
+19:["$","$L1f",null,{"children":["$","$L20",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Command"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a list of all the project's functions. You can use the query params to filter your results."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Create a new function. You can pass a list of ",["$","a",null,{"href":"https://clikkle.io/docs/permissions","children":"permissions"}]," to allow different project users or teams with access to execute the function using the client API."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list-runtimes"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a list of all runtimes that are currently active on your instance."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"get [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a function by its unique ID."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update function by its unique ID."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L21"}],"$L22"]}],"$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}]]}]}]
+1a:["$","$L31",null,{}]
+1e:null
+21:["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"delete [options]"}]}]
+22:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Delete a function by its unique ID."}]}]
+23:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list-deployments [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a list of all the project's code deployments. You can use the query params to filter your results."}]}]]}]
+24:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-deployment [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Create a new function code deployment. Use this endpoint to upload a new version of your code function. To execute your newly uploaded code, you'll need to update the function's deployment to use your new deployment UID. This endpoint accepts a tar.gz file compressed with your code. Make sure to include any dependencies your code has within the compressed file. You can learn more about code packaging in the ",["$","a",null,{"href":"https://clikkle.io/docs/functions","children":"Clikkle Cloud Functions tutorial"}],". Use the \"command\" param to set the entrypoint used to execute your code."]}]}]]}]
+25:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"get-deployment [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a code deployment by its unique ID."}]}]]}]
+26:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-deployment [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update the function code deployment ID using the unique function ID. Use this endpoint to switch the code deployment that should be executed by the execution endpoint."}]}]]}]
+27:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"delete-deployment [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Delete a code deployment by its unique ID."}]}]]}]
+28:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"download-deployment [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a Deployment's contents by its unique ID. This endpoint supports range requests for partial or streaming file download."}]}]]}]
+29:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list-executions [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a list of all the current user function execution logs. You can use the query params to filter your results."}]}]]}]
+2a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-execution [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Trigger a function execution."}]}]]}]
+2b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"get-execution [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a function execution log by its unique ID."}]}]]}]
+2c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list-variables [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a list of all variables of a specific function."}]}]]}]
+2d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-variable [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create a new function environment variable. These variables can be accessed in the function at runtime as environment variables."}]}]]}]
+2e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"get-variable [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a variable by its unique ID."}]}]]}]
+2f:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-variable [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update a variable by its unique ID."}]}]]}]
+30:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"delete-variable [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Delete a variable by its unique ID."}]}]]}]

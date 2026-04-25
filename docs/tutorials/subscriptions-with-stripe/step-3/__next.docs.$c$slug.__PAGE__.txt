@@ -1,0 +1,72 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+14:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+5:Tb20,---
+layout: tutorial
+title: Create function
+description: Add paid app subscription plans to your app with Stripe and Clikkle Functions.
+step: 3
+---
+
+Head to the [Clikkle Console](https://cloud.clikkle.io/console) and create a new project if you haven't already. If this is your first time using Clikkle, you will be asked to sign up first.
+
+### Create a new function {% #create-function %}
+Once inside your project overview, switch to the **Functions** page from the left sidebar. Under the **Templates** section, use the search bar and look for `subscriptions`. You will find the **Subscriptions with Stripe** template, which you can use by clicking the **Create function** button.
+
+
+{% only_dark %}
+![Project settings screen](/clikkle/images/docs/tutorials/subscriptions-with-stripe/dark/templates-stripe-subscription.png)
+{% /only_dark %}
+{% only_light %}
+![Project settings screen](/clikkle/images/docs/tutorials/subscriptions-with-stripe/templates-stripe-subscription.png)
+{% /only_light %}
+
+## Create a new function {% #create-function %}
+
+You will be asked to configure Function's **Name**, **Runtime**, and **Function ID**. Feel free to customise those or leave them as is. Click the **Next** button to continue to the environment variables definition.
+
+## Configure variables {% #configure-variables %}
+
+Toggle **Generate API key on completion** in the `CLIKKLE_API_KEY` variable, so you don't need to go and generate it manually. 
+
+Fill the `STRIPE_SECRET_KEY` variable with the key you copied from Stripe's Dashboard under the **API keys** section. 
+
+Similarly, fill the `STRIPE_WEBHOOK_SECRET` variable with the secret copied after creating **Webhook**. 
+
+If you are self-hosting Clikkle, you will need to change `CLIKKLE_ENDPOINT` as well, under the **Optional variables** section. 
+
+When done, click the **Next** button.
+
+## Connect repository {% #connect-repository %}
+
+In this section, you can decide whether to host your Function's source code in an existing repository or create a new one. 
+
+Larger projects will benefit from having all functions in one repository, but to keep this quick start simple, let's stick to **Create a new repository**.
+
+Click the **Next** button to continue.
+
+You will be asked to connect your project to Git provider. Click the one you want to use, and follow the authorization process. Once done, you will be redirected back to the Clikkle Console. Here, you can configure **Repository name** and toggle if you want to **Keep repository private**. Once done, click the **Next** button to continue to the final step.
+
+## Select branch {% #select-branch %}
+
+Finally, you can configure repository-related settings such as **Production branch**, **Root directory**, or **Silent mode**. Let's stick to the default values provided by the template and click the **Create** button to create the function.
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Add app subscriptions with Stripe","steps":[{"step":1,"title":"Add app subscriptions with Stripe","href":"/docs/tutorials/subscriptions-with-stripe/step-1","fileSlug":"step-1","difficulty":"easy","readtime":10},{"step":2,"title":"Setup Stripe","href":"/docs/tutorials/subscriptions-with-stripe/step-2","fileSlug":"step-2","difficulty":"easy","readtime":10},{"step":3,"title":"Create function","href":"/docs/tutorials/subscriptions-with-stripe/step-3","fileSlug":"step-3","difficulty":"easy","readtime":10},{"step":4,"title":"Configure web platform","href":"/docs/tutorials/subscriptions-with-stripe/step-4","fileSlug":"step-4","difficulty":"easy","readtime":10},{"step":5,"title":"All set","href":"/docs/tutorials/subscriptions-with-stripe/step-5","fileSlug":"step-5","difficulty":"easy","readtime":10}],"currentStep":3,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:2","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to the ",["$","a",null,{"href":"https://cloud.clikkle.io/console","children":"Clikkle Console"}]," and create a new project if you haven't already. If this is your first time using Clikkle, you will be asked to sign up first."]}],["$","$Lb",null,{"id":"create-function","level":3,"children":"Create a new function "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Once inside your project overview, switch to the ",["$","strong",null,{"children":"Functions"}]," page from the left sidebar. Under the ",["$","strong",null,{"children":"Templates"}]," section, use the search bar and look for ",["$","code",null,{"children":"subscriptions"}],". You will find the ",["$","strong",null,{"children":"Subscriptions with Stripe"}]," template, which you can use by clicking the ",["$","strong",null,{"children":"Create function"}]," button."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/subscriptions-with-stripe/dark/templates-stripe-subscription.png","alt":"Project settings screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/tutorials/subscriptions-with-stripe/templates-stripe-subscription.png","alt":"Project settings screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","$Lb",null,{"id":"create-function","level":2,"children":"Create a new function "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You will be asked to configure Function's ",["$","strong",null,{"children":"Name"}],", ",["$","strong",null,{"children":"Runtime"}],", and ",["$","strong",null,{"children":"Function ID"}],". Feel free to customise those or leave them as is. Click the ",["$","strong",null,{"children":"Next"}]," button to continue to the environment variables definition."]}],["$","$Lb",null,{"id":"configure-variables","level":2,"children":"Configure variables "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Toggle ",["$","strong",null,{"children":"Generate API key on completion"}]," in the ",["$","code",null,{"children":"CLIKKLE_API_KEY"}]," variable, so you don't need to go and generate it manually."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Fill the ",["$","code",null,{"children":"STRIPE_SECRET_KEY"}]," variable with the key you copied from Stripe's Dashboard under the ",["$","strong",null,{"children":"API keys"}]," section."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Similarly, fill the ",["$","code",null,{"children":"STRIPE_WEBHOOK_SECRET"}]," variable with the secret copied after creating ",["$","strong",null,{"children":"Webhook"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you are self-hosting Clikkle, you will need to change ",["$","code",null,{"children":"CLIKKLE_ENDPOINT"}]," as well, under the ",["$","strong",null,{"children":"Optional variables"}]," section."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When done, click the ","$Lc"," button."]}],"$Ld","$Le","$Lf","$L10","$L11","$L12","$L13"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+c:["$","strong",null,{"children":"Next"}]
+d:["$","$Lb",null,{"id":"connect-repository","level":2,"children":"Connect repository "}]
+e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"In this section, you can decide whether to host your Function's source code in an existing repository or create a new one."}]
+f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Larger projects will benefit from having all functions in one repository, but to keep this quick start simple, let's stick to ",["$","strong",null,{"children":"Create a new repository"}],"."]}]
+10:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Click the ",["$","strong",null,{"children":"Next"}]," button to continue."]}]
+11:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You will be asked to connect your project to Git provider. Click the one you want to use, and follow the authorization process. Once done, you will be redirected back to the Clikkle Console. Here, you can configure ",["$","strong",null,{"children":"Repository name"}]," and toggle if you want to ",["$","strong",null,{"children":"Keep repository private"}],". Once done, click the ",["$","strong",null,{"children":"Next"}]," button to continue to the final step."]}]
+12:["$","$Lb",null,{"id":"select-branch","level":2,"children":"Select branch "}]
+13:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Finally, you can configure repository-related settings such as ",["$","strong",null,{"children":"Production branch"}],", ",["$","strong",null,{"children":"Root directory"}],", or ",["$","strong",null,{"children":"Silent mode"}],". Let's stick to the default values provided by the template and click the ",["$","strong",null,{"children":"Create"}]," button to create the function."]}]
+16:null

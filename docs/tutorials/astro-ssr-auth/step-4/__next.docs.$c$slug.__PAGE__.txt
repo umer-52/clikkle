@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+12:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+5:T708,---
+layout: tutorial
+title: Add a server hook
+description: Add authentication to a Astro project using Clikkle.
+step: 4
+---
+
+Astro middleware are functions that run on the server before a page is displayed to the user. Astro locals are a way to store data that is specific to the current request. We can use these features to store the user's account data, so that it is available to all pages.
+
+Create a new file in the `src/` directory called `middleware.js`:
+
+```js
+// src/middleware.js
+
+import { defineMiddleware } from "astro:middleware";
+import { createSessionClient } from "./server/clikkle";
+
+export const onRequest = defineMiddleware(async ({ request, locals }, next) => {
+  try {
+    const { account } = createSessionClient(request);
+    locals.user = await account.get();
+  } catch {}
+
+  return next();
+});
+```
+
+To ensure the `locals` object is typed correctly, we can add a type definition for it in a `env.d.ts` file at the root of the project:
+
+```ts
+/// <reference types="astro/client" />
+
+type Models = import("node-clikkle").Models;
+
+declare namespace App {
+  interface Locals {
+    user?: Models.User<Models.Preferences>;
+  }
+}
+
+interface ImportMetaEnv {
+  readonly PUBLIC_CLIKKLE_ENDPOINT: string;
+  readonly PUBLIC_CLIKKLE_PROJECT: string;
+  readonly CLIKKLE_KEY: string;
+}
+
+interface ImportMeta {
+  readonly env: ImportMetaEnv;
+}
+```
+
+Now, use the `locals` object in the home page to redirect based on the user's login status. 
+Overwrite the file in the `src/pages` directory called `index.astro`:
+
+```js
+---
+const { user } = Astro.locals;
+if (user) {
+  return Astro.redirect("/account");
+}
+
+return Astro.redirect("/signup");
+---
+```
+
+If the user is logged in, they will be redirected to the account page. If they are not logged in, they will be redirected to the sign up page.
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Server-side authentication with Astro","steps":[{"step":1,"title":"Server-side authentication with Astro","href":"/docs/tutorials/astro-ssr-auth/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":20},{"step":2,"title":"Create project","href":"/docs/tutorials/astro-ssr-auth/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":20},{"step":3,"title":"Initialize SDK","href":"/docs/tutorials/astro-ssr-auth/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":20},{"step":4,"title":"Add a server hook","href":"/docs/tutorials/astro-ssr-auth/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":20},{"step":5,"title":"Create sign up page","href":"/docs/tutorials/astro-ssr-auth/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":20},{"step":6,"title":"Create account page","href":"/docs/tutorials/astro-ssr-auth/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":20},{"step":7,"title":"OAuth authentication with SSR","href":"/docs/tutorials/astro-ssr-auth/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":20},{"step":8,"title":"All set","href":"/docs/tutorials/astro-ssr-auth/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":20}],"currentStep":4,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:3","back":"/docs/tutorials","copyMarkdown":"$5","children":["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Astro middleware are functions that run on the server before a page is displayed to the user. Astro locals are a way to store data that is specific to the current request. We can use these features to store the user's account data, so that it is available to all pages."}],"$L6","$L7","$L8","$L9","$La","$Lb","$Lc"]}]}]}]}]}],["$Ld","$Le","$Lf"],"$L10"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+6:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file in the ",["$","code",null,{"children":"src/"}]," directory called ",["$","code",null,{"children":"middleware.js"}],":"]}]
+7:["$","$L11",null,{"language":"js","content":"// src/middleware.js\n\nimport { defineMiddleware } from \"astro:middleware\";\nimport { createSessionClient } from \"./server/clikkle\";\n\nexport const onRequest = defineMiddleware(async ({ request, locals }, next) => {\n  try {\n    const { account } = createSessionClient(request);\n    locals.user = await account.get();\n  } catch {}\n\n  return next();\n});\n","children":"// src/middleware.js\n\nimport { defineMiddleware } from \"astro:middleware\";\nimport { createSessionClient } from \"./server/clikkle\";\n\nexport const onRequest = defineMiddleware(async ({ request, locals }, next) => {\n  try {\n    const { account } = createSessionClient(request);\n    locals.user = await account.get();\n  } catch {}\n\n  return next();\n});\n"}]
+8:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To ensure the ",["$","code",null,{"children":"locals"}]," object is typed correctly, we can add a type definition for it in a ",["$","code",null,{"children":"env.d.ts"}]," file at the root of the project:"]}]
+9:["$","$L11",null,{"language":"ts","content":"/// <reference types=\"astro/client\" />\n\ntype Models = import(\"node-clikkle\").Models;\n\ndeclare namespace App {\n  interface Locals {\n    user?: Models.User<Models.Preferences>;\n  }\n}\n\ninterface ImportMetaEnv {\n  readonly PUBLIC_CLIKKLE_ENDPOINT: string;\n  readonly PUBLIC_CLIKKLE_PROJECT: string;\n  readonly CLIKKLE_KEY: string;\n}\n\ninterface ImportMeta {\n  readonly env: ImportMetaEnv;\n}\n","children":"/// <reference types=\"astro/client\" />\n\ntype Models = import(\"node-clikkle\").Models;\n\ndeclare namespace App {\n  interface Locals {\n    user?: Models.User<Models.Preferences>;\n  }\n}\n\ninterface ImportMetaEnv {\n  readonly PUBLIC_CLIKKLE_ENDPOINT: string;\n  readonly PUBLIC_CLIKKLE_PROJECT: string;\n  readonly CLIKKLE_KEY: string;\n}\n\ninterface ImportMeta {\n  readonly env: ImportMetaEnv;\n}\n"}]
+a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now, use the ",["$","code",null,{"children":"locals"}]," object in the home page to redirect based on the user's login status."," ","Overwrite the file in the ",["$","code",null,{"children":"src/pages"}]," directory called ",["$","code",null,{"children":"index.astro"}],":"]}]
+b:["$","$L11",null,{"language":"js","content":"---\nconst { user } = Astro.locals;\nif (user) {\n  return Astro.redirect(\"/account\");\n}\n\nreturn Astro.redirect(\"/signup\");\n---\n","children":"---\nconst { user } = Astro.locals;\nif (user) {\n  return Astro.redirect(\"/account\");\n}\n\nreturn Astro.redirect(\"/signup\");\n---\n"}]
+c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If the user is logged in, they will be redirected to the account page. If they are not logged in, they will be redirected to the sign up page."}]
+d:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+e:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+f:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+10:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

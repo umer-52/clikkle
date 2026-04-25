@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+15:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+16:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+1a:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+1b:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+21:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T1306,---
+layout: article
+title: Server Side Rendering
+description: Learn how to host SSR web apps on Clikkle Sites.
+---
+
+Server Side Rendering (SSR) apps generate HTML content dynamically on the server for each request and send fully rendered pages to the browser. This approach improves performance for the initial load and enhances SEO since search engines can easily index the content. While SSR can be slightly slower than static apps due to server-side processing, it provides a good balance between performance and interactivity.
+
+Since Clikkle's [CDN](/docs/products/network/cdn) supports dynamic content delivery, any server-side processing implemented in your site will be executed at your user's nearest edge location. The CDN also uses advanced compression algorithms to reduce data transfer sizes and improve delivery times of your site content. Any data relevant to other Clikkle products that you have integrated in your site, such as Auth, Databases, Storage, Functions, and Messaging, will be served from your project's pre-selected [region](/docs/products/network/regions).
+
+# Configuring your Clikkle Site to use SSR
+
+When Clikkle builds your site for the first time, it scans your project's configuration files to determine whether the website should be rendered as static pages or using SSR.
+
+If you need to manually update these settings, here are the steps to do so:
+
+1. Navigate to your site in the Clikkle Console and head to the **Settings** tab > **Build settings** section
+2. Select the **Server side rendering** checkbox (you may need to update your project codebase depending on your framework option)
+3. Confirm that the appropriate install command, build command, and output directory are set
+4. Click on the **Update** button and redeploy your site
+
+{% only_dark %}
+![Rendering strategy](/clikkle/images/docs/sites/dark/build-settings-rendering-ssr.png)
+{% /only_dark %}
+{% only_light %}
+![Rendering strategy](/clikkle/images/docs/sites/build-settings-rendering-ssr.png)
+{% /only_light %}
+
+## Enabling SSR builds on your web app
+
+To enable SSR builds for your web app, you may need to make some additional updates in case of the following frameworks:
+
+{% tabs %}
+
+{% tabsitem #analog title="Analog" %}
+Set `ssr: true` in `analog` plugin in the `vite.config.ts` file.
+{% /tabsitem %}
+
+{% tabsitem #angular title="Angular" %}
+Ensure the `src/server.ts` file uses `@angular/ssr/node` package.
+{% /tabsitem %}
+
+{% tabsitem #nextjs title="Next.js" %}
+The following output modes are supported:
+
+- **Default mode**: No `output` configuration needed in `next.config.js`.
+- **Standalone mode**: Set `output` to `standalone` in `next.config.js` for smaller build sizes, lesser build times and cold start times.
+{% /tabsitem %}
+
+{% tabsitem #nuxt title="Nuxt" %}
+Set build command to `npm run build` in site settings.
+{% /tabsitem %}
+
+{% tabsitem #sveltekit title="SvelteKit" %}
+Use `@sveltejs/adapter-node` adapter in the `svelte.config.js` file.
+{% /tabsitem %}
+
+{% tabsitem #astro title="Astro" %}
+Use `@astrojs/node` adapter in the `astro.config.mjs` file.
+{% /tabsitem %}
+
+{% tabsitem #remix title="Remix" %}
+Ensure the `entry.server.tsx` file uses `@remix-run/node` package.
+{% /tabsitem %}
+
+{% tabsitem #tanstack-start title="TanStack Start" %}
+No additional configuration is needed as SSR is enabled by default.
+{% /tabsitem %}
+
+{% /tabs %}
+
+# Clikkle-specific environment variables
+
+You can [access several environment variables](/docs/products/sites/develop#accessing-environment-variables) pertaining to your Clikkle project in SSR apps.
+
+| Variable                        | Description                                             | Available at Build and/or Run Time |
+| ------------------------------- | ------------------------------------------------------- | ---------------------------------- |
+| `CLIKKLE_SITE_API_ENDPOINT`    | The API endpoint of the running site                    | Both                               |
+| `CLIKKLE_SITE_NAME`            | The name of the running site.                           | Both                               |
+| `CLIKKLE_SITE_DEPLOYMENT`      | The deployment ID of the running sites.                 | Both                               |
+| `CLIKKLE_SITE_PROJECT_ID`      | The project ID of the running site.                     | Both                               |
+| `CLIKKLE_SITE_RUNTIME_NAME`    | The runtime name of the running site.                   | Both                               |
+| `CLIKKLE_SITE_RUNTIME_VERSION` | The runtime version of the running site.                | Both                               |
+| `CLIKKLE_SITE_CPUS`            | The CPU (runtime) specification of the running site.    | Both                               |
+| `CLIKKLE_SITE_MEMORY`          | The memory (runtime) specification of the running site. | Both                               |
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T1306,---
+layout: article
+title: Server Side Rendering
+description: Learn how to host SSR web apps on Clikkle Sites.
+---
+
+Server Side Rendering (SSR) apps generate HTML content dynamically on the server for each request and send fully rendered pages to the browser. This approach improves performance for the initial load and enhances SEO since search engines can easily index the content. While SSR can be slightly slower than static apps due to server-side processing, it provides a good balance between performance and interactivity.
+
+Since Clikkle's [CDN](/docs/products/network/cdn) supports dynamic content delivery, any server-side processing implemented in your site will be executed at your user's nearest edge location. The CDN also uses advanced compression algorithms to reduce data transfer sizes and improve delivery times of your site content. Any data relevant to other Clikkle products that you have integrated in your site, such as Auth, Databases, Storage, Functions, and Messaging, will be served from your project's pre-selected [region](/docs/products/network/regions).
+
+# Configuring your Clikkle Site to use SSR
+
+When Clikkle builds your site for the first time, it scans your project's configuration files to determine whether the website should be rendered as static pages or using SSR.
+
+If you need to manually update these settings, here are the steps to do so:
+
+1. Navigate to your site in the Clikkle Console and head to the **Settings** tab > **Build settings** section
+2. Select the **Server side rendering** checkbox (you may need to update your project codebase depending on your framework option)
+3. Confirm that the appropriate install command, build command, and output directory are set
+4. Click on the **Update** button and redeploy your site
+
+{% only_dark %}
+![Rendering strategy](/clikkle/images/docs/sites/dark/build-settings-rendering-ssr.png)
+{% /only_dark %}
+{% only_light %}
+![Rendering strategy](/clikkle/images/docs/sites/build-settings-rendering-ssr.png)
+{% /only_light %}
+
+## Enabling SSR builds on your web app
+
+To enable SSR builds for your web app, you may need to make some additional updates in case of the following frameworks:
+
+{% tabs %}
+
+{% tabsitem #analog title="Analog" %}
+Set `ssr: true` in `analog` plugin in the `vite.config.ts` file.
+{% /tabsitem %}
+
+{% tabsitem #angular title="Angular" %}
+Ensure the `src/server.ts` file uses `@angular/ssr/node` package.
+{% /tabsitem %}
+
+{% tabsitem #nextjs title="Next.js" %}
+The following output modes are supported:
+
+- **Default mode**: No `output` configuration needed in `next.config.js`.
+- **Standalone mode**: Set `output` to `standalone` in `next.config.js` for smaller build sizes, lesser build times and cold start times.
+{% /tabsitem %}
+
+{% tabsitem #nuxt title="Nuxt" %}
+Set build command to `npm run build` in site settings.
+{% /tabsitem %}
+
+{% tabsitem #sveltekit title="SvelteKit" %}
+Use `@sveltejs/adapter-node` adapter in the `svelte.config.js` file.
+{% /tabsitem %}
+
+{% tabsitem #astro title="Astro" %}
+Use `@astrojs/node` adapter in the `astro.config.mjs` file.
+{% /tabsitem %}
+
+{% tabsitem #remix title="Remix" %}
+Ensure the `entry.server.tsx` file uses `@remix-run/node` package.
+{% /tabsitem %}
+
+{% tabsitem #tanstack-start title="TanStack Start" %}
+No additional configuration is needed as SSR is enabled by default.
+{% /tabsitem %}
+
+{% /tabs %}
+
+# Clikkle-specific environment variables
+
+You can [access several environment variables](/docs/products/sites/develop#accessing-environment-variables) pertaining to your Clikkle project in SSR apps.
+
+| Variable                        | Description                                             | Available at Build and/or Run Time |
+| ------------------------------- | ------------------------------------------------------- | ---------------------------------- |
+| `CLIKKLE_SITE_API_ENDPOINT`    | The API endpoint of the running site                    | Both                               |
+| `CLIKKLE_SITE_NAME`            | The name of the running site.                           | Both                               |
+| `CLIKKLE_SITE_DEPLOYMENT`      | The deployment ID of the running sites.                 | Both                               |
+| `CLIKKLE_SITE_PROJECT_ID`      | The project ID of the running site.                     | Both                               |
+| `CLIKKLE_SITE_RUNTIME_NAME`    | The runtime name of the running site.                   | Both                               |
+| `CLIKKLE_SITE_RUNTIME_VERSION` | The runtime version of the running site.                | Both                               |
+| `CLIKKLE_SITE_CPUS`            | The CPU (runtime) specification of the running site.    | Both                               |
+| `CLIKKLE_SITE_MEMORY`          | The memory (runtime) specification of the running site. | Both                               |
+
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Server Side Rendering"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Server Side Rendering (SSR) apps generate HTML content dynamically on the server for each request and send fully rendered pages to the browser. This approach improves performance for the initial load and enhances SEO since search engines can easily index the content. While SSR can be slightly slower than static apps due to server-side processing, it provides a good balance between performance and interactivity."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Since Clikkle's ",["$","$Le",null,{"href":"/docs/products/network/cdn","children":"CDN"}]," supports dynamic content delivery, any server-side processing implemented in your site will be executed at your user's nearest edge location. The CDN also uses advanced compression algorithms to reduce data transfer sizes and improve delivery times of your site content. Any data relevant to other Clikkle products that you have integrated in your site, such as Auth, Databases, Storage, Functions, and Messaging, will be served from your project's pre-selected ",["$","$Le",null,{"href":"/docs/products/network/regions","children":"region"}],"."]}],["$","$Lf",null,{"level":1,"children":"Configuring your Clikkle Site to use SSR"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When Clikkle builds your site for the first time, it scans your project's configuration files to determine whether the website should be rendered as static pages or using SSR."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you need to manually update these settings, here are the steps to do so:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["Navigate to your site in the Clikkle Console and head to the ",["$","strong",null,{"children":"Settings"}]," tab > ",["$","strong",null,{"children":"Build settings"}]," section"]}],["$","li",null,{"children":["Select the ",["$","strong",null,{"children":"Server side rendering"}]," checkbox (you may need to update your project codebase depending on your framework option)"]}],["$","li",null,{"children":"Confirm that the appropriate install command, build command, and output directory are set"}],["$","li",null,{"children":["Click on the ",["$","strong",null,{"children":"Update"}]," button and redeploy your site"]}]]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/build-settings-rendering-ssr.png","alt":"Rendering strategy","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/build-settings-rendering-ssr.png","alt":"Rendering strategy","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","$Lf",null,{"level":2,"children":"Enabling SSR builds on your web app"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To enable SSR builds for your web app, you may need to make some additional updates in case of the following frameworks:"}],"$L10","$L11","$L12","$L13"]}]}]]}],"$L14"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L15",null,{"items":[{"id":"configuring-your-clikkle-site-to-use-ssr","title":"Configuring your Clikkle Site to use SSR","level":1},{"id":"enabling-ssr-builds-on-your-web-app","title":"Enabling SSR builds on your web app","level":2},{"id":"clikkle-specific-environment-variables","title":"Clikkle-specific environment variables","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+10:["$","$L19",null,{"children":[["$","$L1a",null,{"id":"analog","title":"Analog","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Set ",["$","code",null,{"children":"ssr: true"}]," in ",["$","code",null,{"children":"analog"}]," plugin in the ",["$","code",null,{"children":"vite.config.ts"}]," file."]}]}],["$","$L1a",null,{"id":"angular","title":"Angular","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Ensure the ",["$","code",null,{"children":"src/server.ts"}]," file uses ",["$","code",null,{"children":"@angular/ssr/node"}]," package."]}]}],["$","$L1a",null,{"id":"nextjs","title":"Next.js","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The following output modes are supported:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Default mode"}],": No ",["$","code",null,{"children":"output"}]," configuration needed in ",["$","code",null,{"children":"next.config.js"}],"."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Standalone mode"}],": Set ",["$","code",null,{"children":"output"}]," to ",["$","code",null,{"children":"standalone"}]," in ",["$","code",null,{"children":"next.config.js"}]," for smaller build sizes, lesser build times and cold start times."]}]]}]]}],["$","$L1a",null,{"id":"nuxt","title":"Nuxt","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Set build command to ",["$","code",null,{"children":"npm run build"}]," in site settings."]}]}],["$","$L1a",null,{"id":"sveltekit","title":"SvelteKit","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use ",["$","code",null,{"children":"@sveltejs/adapter-node"}]," adapter in the ",["$","code",null,{"children":"svelte.config.js"}]," file."]}]}],["$","$L1a",null,{"id":"astro","title":"Astro","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use ",["$","code",null,{"children":"@astrojs/node"}]," adapter in the ",["$","code",null,{"children":"astro.config.mjs"}]," file."]}]}],["$","$L1a",null,{"id":"remix","title":"Remix","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Ensure the ",["$","code",null,{"children":"entry.server.tsx"}]," file uses ",["$","code",null,{"children":"@remix-run/node"}]," package."]}]}],["$","$L1a",null,{"id":"tanstack-start","title":"TanStack Start","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"No additional configuration is needed as SSR is enabled by default."}]}]]}]
+11:["$","$Lf",null,{"level":1,"children":"Clikkle-specific environment variables"}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can ",["$","$Le",null,{"href":"/docs/products/sites/develop#accessing-environment-variables","children":"access several environment variables"}]," pertaining to your Clikkle project in SSR apps."]}]
+13:["$","$L1b",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Variable"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Available at Build and/or Run Time"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_API_ENDPOINT"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The API endpoint of the running site"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_NAME"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The name of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_DEPLOYMENT"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The deployment ID of the running sites."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_PROJECT_ID"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The project ID of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L1c"}]]}],"$L1d","$L1e","$L1f","$L20"]}]]}]
+14:["$","$L21",null,{}]
+18:null
+1c:["$","div",null,{"className":"td-wrapper","children":"Both"}]
+1d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_RUNTIME_NAME"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The runtime name of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+1e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_RUNTIME_VERSION"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The runtime version of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+1f:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_CPUS"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The CPU (runtime) specification of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+20:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_MEMORY"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The memory (runtime) specification of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]

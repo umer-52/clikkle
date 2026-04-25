@@ -1,0 +1,1769 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+d:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+10:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+3c:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+3d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+3e:"$Sreact.suspense"
+40:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+41:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+42:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+43:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+44:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+51:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T66a5,---
+layout: article
+title: Relationships
+description: Manage complex data relationships with Clikkle Databases. Discover how to define and work with relationships between documents for interconnected data.
+difficulty: advanced
+readtime: 20
+---
+Relationships describe how documents in different collections are associated, so that related documents can be read, updated, or deleted together. Entities in real-life often associate with each other in an organic and logical way, like a person and their dog, an album and its songs, or friends in a social network.
+
+These types of association between entities can be modeled in Clikkle using relationships.
+
+{% info title="Experimental feature" %}
+Clikkle Relationships is an experimental feature. The API and behavior are subject to change in future versions.
+{% /info %}
+
+# Relationship Attributes {% #relationship-attributes %}
+
+Relationships are represented in a collection using **relationship attributes**.
+The relationship attribute contains the ID of related documents, which it references during read, update, and delete operations.
+This attribute is **null** if a document has no related documents.
+
+# When to use a relationship {% #when-to-use-relationships %}
+
+Relationships help reduce redundant information. For example, a user can create many posts in your app. You can model this without relationships by keeping a copy of the user's information in all the documents representing posts, but this creates a lot of duplicate information in your database about the user.
+
+# Benefits of relationships {% #benefit-of-relationships %}
+
+Duplicated records waste storage, but more importantly, makes the database much harder to maintain. If the user changes their user name, you will have to update dozens or hundreds of records, a problem commonly known as an update anomaly in databases. You can avoid duplicate information by storing users and posts in separate collections and relating a user and their posts through a relationship.
+
+# Tradeoff {% #trade-offs %}
+
+Consider using relationships when the same information is found in multiple places to avoid duplicates. However, relationships come with the tradeoff of slowing down queries. For applications where the best read and write performance is important, it may be acceptable to tolerate duplicate data.
+
+# Opt-in Loading {% #performance-loading %}
+
+By default, Clikkle returns only a document's own fields when you retrieve documents. Related documents are **not automatically loaded** unless you explicitly request them using query selection. This eliminates unintentional payload bloat and gives you precise control over performance.
+
+{% arrow_link href="/docs/products/databases/legacy/queries#relationship-select" %}
+Learn how to load relationships with queries
+{% /arrow_link %}
+
+# Directionality {% #directionality %}
+
+Clikkle relationships can be one-way or two-way.
+
+| Type     | Description                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------- |
+| One-way  | The relationship is only visible to one side of the relation. This is similar to a tree data structure.            |
+| Two-way  | The relationship is visible to both sides of the relationship. This is similar to a graph data structure.         |
+
+# Types {% #types %}
+
+Clikkle provides four different relationship types to enforce different associative rules between documents.
+
+| Type        | Description                                                             |
+| ----------- | ----------------------------------------------------------------------- |
+| One-to-one  | A document can only be related to one and only one document.           |
+| One-to-many | A document can be related to many other documents.                      |
+| Many-to-one | Many documents can be related to a single document.                     |
+| Many-to-many| A document can be related to many other documents.                      |
+
+
+# On-delete {% #on-delete %}
+
+Clikkle also allows you to define the behavior of a relationship when a document is deleted.
+
+| Type       | Description                                                            |
+| ---------- | ---------------------------------------------------------------------- |
+| Restrict   | If a document has at least one related document, it cannot be deleted.|
+| Cascade    | If a document has related documents, when it is deleted, the related documents are also deleted.|
+| Set null   | If a document has related documents, when it is deleted, the related documents are kept with their relationship attribute set to null.|
+
+# Creating relationships {% #create-relationships %}
+You can define relationships in the Clikkle Console, or using a [Server SDK](/docs/sdks#server)
+
+{% tabs %}
+{% tabsitem #console title="Console" %}
+
+You can create relationships in the Clikkle Console by adding a relationship attribute to a collection.
+
+1. In your project, navigate to **Databases** > **Select your database** > **Select your collection** > **Attributes** > **Create attribute**.
+2. Select **Relationship** as the attribute type.
+3. In the **Relationship** modal, select the [relationship type](#types) and pick the related collection and attributes.
+4. Pick relationship attribute key(s) to represent the related collection. Relationship attribute keys are used to reference the related collection in queries, so pick something that's intuitive and easy to remember.
+5. Select desired [on delete](#on-delete) behavior.
+6. Click the **Create** button to create the relationship.
+{% /tabsitem %}
+
+{% tabsitem #sdk title="SDK" %}
+Here's an example that adds a relationship between the collections **movies** and **reviews**.
+A relationship attribute with the key `reviews` is added to the movies collection, and another relationship attribute with the key `movie` is added to the reviews collection.
+
+{% multicode %}
+```js
+const { Client, Databases } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+databases.createRelationshipAttribute(
+    'marvel',     // Database ID
+    'movies',     // Collection ID
+    'reviews',    // Related collection ID
+    'oneToMany',  // Relationship type
+    true,         // Is two-way
+    'reviews',    // Attribute key
+    'movie',      // Two-way attribute key
+    'cascade'     // On delete action
+);
+```
+
+
+```php
+use \Clikkle\Client;
+use \Clikkle\Services\Databases;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>');               // Your project ID
+
+$databases = new Databases($client);
+
+$databases->createRelationshipAttribute(
+    databaseId: 'marvel',           // Database ID
+    collectionId: 'movies',         // Collection ID
+    relatedCollectionId: 'reviews', // Related collection ID
+    type: 'oneToMany',              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: 'reviews',                 // Attribute key
+    twoWayKey: 'movie',             // Two-way attribute key
+    onDelete: 'cascade'             // On delete action
+);
+```
+
+
+```python
+from clikkle.client import Client
+from clikkle.services.databases import Databases
+
+client = (Client()
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint
+    .set_project('<PROJECT_ID>'))                   # Your project ID
+
+databases = Databases(client)
+
+databases.create_relationship_attribute(
+    database_id='marvel',             # Database ID
+    collection_id='movies',           # Collection ID
+    related_collection_id='reviews',  # Related collection ID
+    type='oneToMany',                 # Relationship type
+    two_way=True,                     # Is two-way
+    key='reviews',                    # Attribute key
+    two_way_key='movie',              # Two-way attribute key
+    on_delete='cascade'               # On delete action
+)
+```
+
+
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint
+    .set_project('<PROJECT_ID>')               # Your project ID
+
+databases = Databases.new(client)
+
+databases.create_relationship_attribute(
+    database_id: 'marvel',             # Database ID
+    collection_id: 'movies',           # Collection ID
+    related_collection_id: 'reviews',  # Related collection ID
+    type: 'oneToMany',                 # Relationship type
+    two_way: true,                     # Is two-way
+    key: 'reviews',                    # Attribute key
+    two_way_key: 'movie',              # Two-way attribute key
+    on_delete: 'cascade'               # On delete action
+)
+```
+
+
+```deno
+import { Client, Databases } from "npm:node-clikkle";
+
+const client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>");               // Your project ID
+
+const databases = new Databases(client);
+
+databases.createRelationshipAttribute(
+    "marvel",    // Database ID
+    "movies",    // Collection ID
+    "reviews",   // Related collection ID
+    "oneToMany", // Relationship type
+    true,        // Is two-way
+    "reviews",   // Attribute key
+    "movie",     // Two-way attribute key
+    "cascade"    // On delete action
+);
+```
+
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+final databases = Databases(client);
+
+await databases.createRelationshipAttribute(
+    databaseId: 'marvel',           // Database ID
+    collectionId: 'movies',         // Collection ID
+    relatedCollectionId: 'reviews', // Related collection ID
+    type: 'oneToMany',              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: 'reviews',                 // Attribute key
+    twoWayKey: 'movie',             // Two-way attribute key
+    onDelete: 'cascade',            // On delete action
+);
+```
+
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Databases
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val databases = Databases(client)
+
+databases.createRelationshipAttribute(
+    databaseId = "marvel",           // Database ID
+    collectionId = "movies",         // Collection ID
+    relatedCollectionId = "reviews", // Related collection ID
+    type = "oneToMany",              // Relationship type
+    twoWay = true,                   // Is two-way
+    key = "reviews",                 // Attribute key
+    twoWayKey = "movie",             // Two-way attribute key
+    onDelete = "cascade"             // On delete action
+)
+```
+
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let databases = Databases(client)
+
+databases.createRelationshipAttribute(
+    databaseId: "marvel",           // Database ID
+    collectionId: "movies",         // Collection ID
+    relatedCollectionId: "reviews", // Related collection ID
+    type: "oneToMany",              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: "reviews",                 // Attribute key
+    twoWayKey: "movie",             // Two-way attribute key
+    onDelete
+
+: "cascade"             // On delete action
+)
+```
+
+
+```csharp
+using Clikkle;
+using Clikkle.Services;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<PROJECT_ID>");
+
+var databases = new Databases(client);
+
+await databases.CreateRelationshipAttribute(
+    databaseId: "marvel",
+    collectionId: "movies",
+    relatedCollectionId: "reviews",
+    type: "oneToMany",
+    twoWay: true,
+    key: "reviews",
+    twoWayKey: "movie",
+    onDelete: "cascade");
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+
+# Creating documents {% #create-documents %}
+If a collection has relationship attributes, you can create documents in two ways.
+You create both parent and child at the same time using a **nested** syntax or link parent and child documents through **references***.
+
+{% tabs %}
+{% tabsitem #nested title="Nested" %}
+You can create both the **parent** and **child** at once in a relationship by nesting data.
+
+{% multicode %}
+```js
+const { Client, Databases, ID } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.createDocument(
+    'marvel',
+    'movies',
+    ID.unique(),
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            { author: 'Bob', text: 'Great movie!' },
+            { author: 'Alice', text: 'Loved it!' }
+        ]
+    }
+)
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    .setProject('<PROJECT_ID>');                // Your project ID
+
+final databases = Databases(client);
+
+await databases.createDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+      { 'author': 'Bob', 'text': 'Great movie!' },
+      { 'author': 'Alice', 'text': 'Loved it!' }
+    ]
+  },
+)
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let databases = Database(client: client)
+
+databases.createDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [ "author": "Bob", "text": "Great movie!" ],
+            [ "author": "Alice", "text": "Loved it!" ]
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Database
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val databases = Database(client)
+
+databases.createDocument(
+    databaseId = "marvel",
+    collectionId = "movies",
+    documentId = ID.unique(),
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            mapOf("author" to "Bob", "text" to "Great movie!"),
+            mapOf("author" to "Alice", "text" to "Loved it!")
+        )
+    )
+)
+```
+{% /multicode %}
+
+## Edge case behaviors {% #edge-case-behaviors %}
+- If a nested child document is included and **no child document ID** is provided, the child document will be given a unique ID.
+- If a nested child document is included and **no conflicting child document ID** exists, the child document will be **created**.
+- If a nested child document is included and the **child document ID already exists**, the child document will be **updated**.
+
+{% /tabsitem %}
+{% tabsitem #reference title="Reference" %}
+If the child documents are already present in the related collection, you can create the parent and **reference the child documents** using their IDs.
+Here's an example connecting reviews to a movie.
+{% multicode %}
+```js
+const { Client, Databases, ID } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.createDocument(
+    'marvel',
+    'movies',
+    ID.unique(),
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            '<REVIEW_ID_1>',
+            '<REVIEW_ID_2>'
+        ]
+    }
+)
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+final databases = Databases(client);
+
+await databases.createDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+        '<REVIEW_ID_1>',
+        '<REVIEW_ID_2>'
+    ]
+  },
+)
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let databases = Database(client: client)
+
+databases.createDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            "<REVIEW_ID_1>",
+            "<REVIEW_ID_2>"
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Database
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val databases = Database(client)
+
+databases.createDocument(
+    databaseId = "marvel",
+    collectionId = "movies",
+    documentId = ID.unique(),
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            "<REVIEW_ID_1>",
+            "<REVIEW_ID_2>"
+        )
+    )
+)
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+
+# Queries {% #queries %}
+Queries are currently not available in the experimental version of Clikkle Relationships but will be added in a later version.
+
+# Update Relationships {% #update %}
+Relationships can be updated by updating the relationship attribute.
+
+{% multicode %}
+```js
+const { Client, Databases } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.updateDocument(
+    'marvel',
+    'movies',
+    'spiderman',
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            'review4',
+            'review5'
+        ]
+    }
+);
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final databases = Databases(client);
+
+await databases.updateDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: 'spiderman',
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+        'review4',
+        'review5'
+    ]
+  },
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let databases = Database(client: client)
+
+databases.updateDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: "spiderman",
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            "review4",
+            "review5"
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Database
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val databases = Database(client)
+
+databases.updateDocument(
+    databaseId = "marvel",
+    collectionId = "movies",
+    documentId = "spiderman",
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            "review4",
+            "review5"
+        )
+    )
+)
+```
+
+{% /multicode %}
+
+# Delete relationships {% #delete %}
+## Unlink relationships, retain documents {% #unlink %}
+
+If you need to unlink documents in a relationship but retain the documents, you can do this by **updating the relationship attribute** and removing the ID of the related document.
+
+If a document can be related to **only one document**, you can delete the relationship by setting the relationship attribute to `null`.
+
+If a document can be related to **more than one document**, you can delete the relationship by setting the relationship attribute to an empty list.
+
+## Delete relationships and documents {% #delete-both %}
+
+If you need to delete the documents as well as unlink the relationship, the approach depends on the [on-delete behavior](#on-delete) of a relationship.
+
+If the on-delete behavior is **restrict**, the link between the documents needs to be deleted first before the documents can be deleted **individually**.
+
+If the on-delete behavior is **set null**, deleting a document will leave related documents in place with their relationship attribute **set to null**. If you wish to also delete related documents, they must be deleted **individually**.
+
+If the on-delete behavior is **cascade**, deleting the parent documents also deletes **related child documents**, except for many-to-one relationships. In many-to-one relationships, there are multiple parent documents related to a single child document, and when the child document is deleted, the parents are deleted in cascade.
+
+{% multicode %}
+```js
+const { Client, Databases } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.deleteDocument(
+    'marvel',
+    'movies',
+    'spiderman'
+);
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final databases = Databases(client);
+
+await databases.deleteDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: 'spiderman'
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let databases = Database(client: client)
+
+databases.deleteDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: "spiderman"
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Database
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val databases = Database(client)
+
+databases.deleteDocument(
+    databaseId = "marvel",
+    collectionId = "movies",
+    documentId = "spiderman"
+)
+```
+
+{% /multicode %}
+
+# Permissions {% #permissions %}
+
+To access documents in a relationship, you must have permission to access both the parent and child documents.
+
+When creating both the parent and child documents, the child document will **inherit permissions** from its parent.
+
+You can also provide explicit permissions to the child document if they should be **different from their parent**.
+
+{% multicode %}
+```js
+const { Client, Databases, ID } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.createDocument(
+    'marvel',
+    'movies',
+    ID.unique(),
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            {
+                author: 'Bob',
+                text: 'Great movie!',
+                $permissions: [
+                    Permission.read(Role.any())
+                ]
+            },
+        ]
+    }
+);
+```
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final databases = Databases(client);
+
+await databases.createDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+      {
+         'author': 'Bob',
+         'text': 'Great movie!',
+         '\$permissions': [
+           Permission.read(Role.any())
+         ]
+       },
+    ]
+  },
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let databases = Database(client: client)
+
+databases.createDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [
+                "author": "Bob",
+                "text": "Great movie!",
+                "$permissions": [
+                    Permission.read(Role.any())
+                ]
+            ],
+        ]
+    ]
+);
+```
+```kotlin
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let databases = Database(client: client)
+
+databases.createDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [
+                "author": "Bob",
+                "text": "Great movie!",
+                "$permissions": [
+                    Permission.read(Role.any())
+                ]
+            ],
+        ]
+    ]
+);
+```
+{% /multicode %}
+
+When creating, updating, or deleting in a relationship, you must have permission to access all documents referenced.
+If the user does not have read permission to any document, an exception will be thrown.
+
+# Limitations {% #limitations %}
+
+Relationships can be nested between collections, but are restricted to a **max depth of three levels**.
+Relationship attribute key, type, and directionality can't be updated.
+On-delete behavior is the only option that can be updated for relationship attributes.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],"$L4","$L5"]}],"$L6","$L7"]}]}],["$L8","$L9","$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+4:["$","ul",null,{"className":"web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50","children":[["$","li",null,{"children":"advanced"}],["$","li",null,{"className":"text-[var(--color-border-strong)] dark:text-white/25","aria-hidden":true,"children":"•"}],["$","li",null,{"children":[20," min"]}]]}]
+c:T66a5,---
+layout: article
+title: Relationships
+description: Manage complex data relationships with Clikkle Databases. Discover how to define and work with relationships between documents for interconnected data.
+difficulty: advanced
+readtime: 20
+---
+Relationships describe how documents in different collections are associated, so that related documents can be read, updated, or deleted together. Entities in real-life often associate with each other in an organic and logical way, like a person and their dog, an album and its songs, or friends in a social network.
+
+These types of association between entities can be modeled in Clikkle using relationships.
+
+{% info title="Experimental feature" %}
+Clikkle Relationships is an experimental feature. The API and behavior are subject to change in future versions.
+{% /info %}
+
+# Relationship Attributes {% #relationship-attributes %}
+
+Relationships are represented in a collection using **relationship attributes**.
+The relationship attribute contains the ID of related documents, which it references during read, update, and delete operations.
+This attribute is **null** if a document has no related documents.
+
+# When to use a relationship {% #when-to-use-relationships %}
+
+Relationships help reduce redundant information. For example, a user can create many posts in your app. You can model this without relationships by keeping a copy of the user's information in all the documents representing posts, but this creates a lot of duplicate information in your database about the user.
+
+# Benefits of relationships {% #benefit-of-relationships %}
+
+Duplicated records waste storage, but more importantly, makes the database much harder to maintain. If the user changes their user name, you will have to update dozens or hundreds of records, a problem commonly known as an update anomaly in databases. You can avoid duplicate information by storing users and posts in separate collections and relating a user and their posts through a relationship.
+
+# Tradeoff {% #trade-offs %}
+
+Consider using relationships when the same information is found in multiple places to avoid duplicates. However, relationships come with the tradeoff of slowing down queries. For applications where the best read and write performance is important, it may be acceptable to tolerate duplicate data.
+
+# Opt-in Loading {% #performance-loading %}
+
+By default, Clikkle returns only a document's own fields when you retrieve documents. Related documents are **not automatically loaded** unless you explicitly request them using query selection. This eliminates unintentional payload bloat and gives you precise control over performance.
+
+{% arrow_link href="/docs/products/databases/legacy/queries#relationship-select" %}
+Learn how to load relationships with queries
+{% /arrow_link %}
+
+# Directionality {% #directionality %}
+
+Clikkle relationships can be one-way or two-way.
+
+| Type     | Description                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------- |
+| One-way  | The relationship is only visible to one side of the relation. This is similar to a tree data structure.            |
+| Two-way  | The relationship is visible to both sides of the relationship. This is similar to a graph data structure.         |
+
+# Types {% #types %}
+
+Clikkle provides four different relationship types to enforce different associative rules between documents.
+
+| Type        | Description                                                             |
+| ----------- | ----------------------------------------------------------------------- |
+| One-to-one  | A document can only be related to one and only one document.           |
+| One-to-many | A document can be related to many other documents.                      |
+| Many-to-one | Many documents can be related to a single document.                     |
+| Many-to-many| A document can be related to many other documents.                      |
+
+
+# On-delete {% #on-delete %}
+
+Clikkle also allows you to define the behavior of a relationship when a document is deleted.
+
+| Type       | Description                                                            |
+| ---------- | ---------------------------------------------------------------------- |
+| Restrict   | If a document has at least one related document, it cannot be deleted.|
+| Cascade    | If a document has related documents, when it is deleted, the related documents are also deleted.|
+| Set null   | If a document has related documents, when it is deleted, the related documents are kept with their relationship attribute set to null.|
+
+# Creating relationships {% #create-relationships %}
+You can define relationships in the Clikkle Console, or using a [Server SDK](/docs/sdks#server)
+
+{% tabs %}
+{% tabsitem #console title="Console" %}
+
+You can create relationships in the Clikkle Console by adding a relationship attribute to a collection.
+
+1. In your project, navigate to **Databases** > **Select your database** > **Select your collection** > **Attributes** > **Create attribute**.
+2. Select **Relationship** as the attribute type.
+3. In the **Relationship** modal, select the [relationship type](#types) and pick the related collection and attributes.
+4. Pick relationship attribute key(s) to represent the related collection. Relationship attribute keys are used to reference the related collection in queries, so pick something that's intuitive and easy to remember.
+5. Select desired [on delete](#on-delete) behavior.
+6. Click the **Create** button to create the relationship.
+{% /tabsitem %}
+
+{% tabsitem #sdk title="SDK" %}
+Here's an example that adds a relationship between the collections **movies** and **reviews**.
+A relationship attribute with the key `reviews` is added to the movies collection, and another relationship attribute with the key `movie` is added to the reviews collection.
+
+{% multicode %}
+```js
+const { Client, Databases } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+databases.createRelationshipAttribute(
+    'marvel',     // Database ID
+    'movies',     // Collection ID
+    'reviews',    // Related collection ID
+    'oneToMany',  // Relationship type
+    true,         // Is two-way
+    'reviews',    // Attribute key
+    'movie',      // Two-way attribute key
+    'cascade'     // On delete action
+);
+```
+
+
+```php
+use \Clikkle\Client;
+use \Clikkle\Services\Databases;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>');               // Your project ID
+
+$databases = new Databases($client);
+
+$databases->createRelationshipAttribute(
+    databaseId: 'marvel',           // Database ID
+    collectionId: 'movies',         // Collection ID
+    relatedCollectionId: 'reviews', // Related collection ID
+    type: 'oneToMany',              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: 'reviews',                 // Attribute key
+    twoWayKey: 'movie',             // Two-way attribute key
+    onDelete: 'cascade'             // On delete action
+);
+```
+
+
+```python
+from clikkle.client import Client
+from clikkle.services.databases import Databases
+
+client = (Client()
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint
+    .set_project('<PROJECT_ID>'))                   # Your project ID
+
+databases = Databases(client)
+
+databases.create_relationship_attribute(
+    database_id='marvel',             # Database ID
+    collection_id='movies',           # Collection ID
+    related_collection_id='reviews',  # Related collection ID
+    type='oneToMany',                 # Relationship type
+    two_way=True,                     # Is two-way
+    key='reviews',                    # Attribute key
+    two_way_key='movie',              # Two-way attribute key
+    on_delete='cascade'               # On delete action
+)
+```
+
+
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint
+    .set_project('<PROJECT_ID>')               # Your project ID
+
+databases = Databases.new(client)
+
+databases.create_relationship_attribute(
+    database_id: 'marvel',             # Database ID
+    collection_id: 'movies',           # Collection ID
+    related_collection_id: 'reviews',  # Related collection ID
+    type: 'oneToMany',                 # Relationship type
+    two_way: true,                     # Is two-way
+    key: 'reviews',                    # Attribute key
+    two_way_key: 'movie',              # Two-way attribute key
+    on_delete: 'cascade'               # On delete action
+)
+```
+
+
+```deno
+import { Client, Databases } from "npm:node-clikkle";
+
+const client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>");               // Your project ID
+
+const databases = new Databases(client);
+
+databases.createRelationshipAttribute(
+    "marvel",    // Database ID
+    "movies",    // Collection ID
+    "reviews",   // Related collection ID
+    "oneToMany", // Relationship type
+    true,        // Is two-way
+    "reviews",   // Attribute key
+    "movie",     // Two-way attribute key
+    "cascade"    // On delete action
+);
+```
+
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+final databases = Databases(client);
+
+await databases.createRelationshipAttribute(
+    databaseId: 'marvel',           // Database ID
+    collectionId: 'movies',         // Collection ID
+    relatedCollectionId: 'reviews', // Related collection ID
+    type: 'oneToMany',              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: 'reviews',                 // Attribute key
+    twoWayKey: 'movie',             // Two-way attribute key
+    onDelete: 'cascade',            // On delete action
+);
+```
+
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Databases
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val databases = Databases(client)
+
+databases.createRelationshipAttribute(
+    databaseId = "marvel",           // Database ID
+    collectionId = "movies",         // Collection ID
+    relatedCollectionId = "reviews", // Related collection ID
+    type = "oneToMany",              // Relationship type
+    twoWay = true,                   // Is two-way
+    key = "reviews",                 // Attribute key
+    twoWayKey = "movie",             // Two-way attribute key
+    onDelete = "cascade"             // On delete action
+)
+```
+
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let databases = Databases(client)
+
+databases.createRelationshipAttribute(
+    databaseId: "marvel",           // Database ID
+    collectionId: "movies",         // Collection ID
+    relatedCollectionId: "reviews", // Related collection ID
+    type: "oneToMany",              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: "reviews",                 // Attribute key
+    twoWayKey: "movie",             // Two-way attribute key
+    onDelete
+
+: "cascade"             // On delete action
+)
+```
+
+
+```csharp
+using Clikkle;
+using Clikkle.Services;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<PROJECT_ID>");
+
+var databases = new Databases(client);
+
+await databases.CreateRelationshipAttribute(
+    databaseId: "marvel",
+    collectionId: "movies",
+    relatedCollectionId: "reviews",
+    type: "oneToMany",
+    twoWay: true,
+    key: "reviews",
+    twoWayKey: "movie",
+    onDelete: "cascade");
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+
+# Creating documents {% #create-documents %}
+If a collection has relationship attributes, you can create documents in two ways.
+You create both parent and child at the same time using a **nested** syntax or link parent and child documents through **references***.
+
+{% tabs %}
+{% tabsitem #nested title="Nested" %}
+You can create both the **parent** and **child** at once in a relationship by nesting data.
+
+{% multicode %}
+```js
+const { Client, Databases, ID } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.createDocument(
+    'marvel',
+    'movies',
+    ID.unique(),
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            { author: 'Bob', text: 'Great movie!' },
+            { author: 'Alice', text: 'Loved it!' }
+        ]
+    }
+)
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    .setProject('<PROJECT_ID>');                // Your project ID
+
+final databases = Databases(client);
+
+await databases.createDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+      { 'author': 'Bob', 'text': 'Great movie!' },
+      { 'author': 'Alice', 'text': 'Loved it!' }
+    ]
+  },
+)
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let databases = Database(client: client)
+
+databases.createDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [ "author": "Bob", "text": "Great movie!" ],
+            [ "author": "Alice", "text": "Loved it!" ]
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Database
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val databases = Database(client)
+
+databases.createDocument(
+    databaseId = "marvel",
+    collectionId = "movies",
+    documentId = ID.unique(),
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            mapOf("author" to "Bob", "text" to "Great movie!"),
+            mapOf("author" to "Alice", "text" to "Loved it!")
+        )
+    )
+)
+```
+{% /multicode %}
+
+## Edge case behaviors {% #edge-case-behaviors %}
+- If a nested child document is included and **no child document ID** is provided, the child document will be given a unique ID.
+- If a nested child document is included and **no conflicting child document ID** exists, the child document will be **created**.
+- If a nested child document is included and the **child document ID already exists**, the child document will be **updated**.
+
+{% /tabsitem %}
+{% tabsitem #reference title="Reference" %}
+If the child documents are already present in the related collection, you can create the parent and **reference the child documents** using their IDs.
+Here's an example connecting reviews to a movie.
+{% multicode %}
+```js
+const { Client, Databases, ID } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.createDocument(
+    'marvel',
+    'movies',
+    ID.unique(),
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            '<REVIEW_ID_1>',
+            '<REVIEW_ID_2>'
+        ]
+    }
+)
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+final databases = Databases(client);
+
+await databases.createDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+        '<REVIEW_ID_1>',
+        '<REVIEW_ID_2>'
+    ]
+  },
+)
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let databases = Database(client: client)
+
+databases.createDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            "<REVIEW_ID_1>",
+            "<REVIEW_ID_2>"
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Database
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val databases = Database(client)
+
+databases.createDocument(
+    databaseId = "marvel",
+    collectionId = "movies",
+    documentId = ID.unique(),
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            "<REVIEW_ID_1>",
+            "<REVIEW_ID_2>"
+        )
+    )
+)
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+
+# Queries {% #queries %}
+Queries are currently not available in the experimental version of Clikkle Relationships but will be added in a later version.
+
+# Update Relationships {% #update %}
+Relationships can be updated by updating the relationship attribute.
+
+{% multicode %}
+```js
+const { Client, Databases } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.updateDocument(
+    'marvel',
+    'movies',
+    'spiderman',
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            'review4',
+            'review5'
+        ]
+    }
+);
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final databases = Databases(client);
+
+await databases.updateDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: 'spiderman',
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+        'review4',
+        'review5'
+    ]
+  },
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let databases = Database(client: client)
+
+databases.updateDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: "spiderman",
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            "review4",
+            "review5"
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Database
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val databases = Database(client)
+
+databases.updateDocument(
+    databaseId = "marvel",
+    collectionId = "movies",
+    documentId = "spiderman",
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            "review4",
+            "review5"
+        )
+    )
+)
+```
+
+{% /multicode %}
+
+# Delete relationships {% #delete %}
+## Unlink relationships, retain documents {% #unlink %}
+
+If you need to unlink documents in a relationship but retain the documents, you can do this by **updating the relationship attribute** and removing the ID of the related document.
+
+If a document can be related to **only one document**, you can delete the relationship by setting the relationship attribute to `null`.
+
+If a document can be related to **more than one document**, you can delete the relationship by setting the relationship attribute to an empty list.
+
+## Delete relationships and documents {% #delete-both %}
+
+If you need to delete the documents as well as unlink the relationship, the approach depends on the [on-delete behavior](#on-delete) of a relationship.
+
+If the on-delete behavior is **restrict**, the link between the documents needs to be deleted first before the documents can be deleted **individually**.
+
+If the on-delete behavior is **set null**, deleting a document will leave related documents in place with their relationship attribute **set to null**. If you wish to also delete related documents, they must be deleted **individually**.
+
+If the on-delete behavior is **cascade**, deleting the parent documents also deletes **related child documents**, except for many-to-one relationships. In many-to-one relationships, there are multiple parent documents related to a single child document, and when the child document is deleted, the parents are deleted in cascade.
+
+{% multicode %}
+```js
+const { Client, Databases } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.deleteDocument(
+    'marvel',
+    'movies',
+    'spiderman'
+);
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final databases = Databases(client);
+
+await databases.deleteDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: 'spiderman'
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let databases = Database(client: client)
+
+databases.deleteDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: "spiderman"
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Database
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val databases = Database(client)
+
+databases.deleteDocument(
+    databaseId = "marvel",
+    collectionId = "movies",
+    documentId = "spiderman"
+)
+```
+
+{% /multicode %}
+
+# Permissions {% #permissions %}
+
+To access documents in a relationship, you must have permission to access both the parent and child documents.
+
+When creating both the parent and child documents, the child document will **inherit permissions** from its parent.
+
+You can also provide explicit permissions to the child document if they should be **different from their parent**.
+
+{% multicode %}
+```js
+const { Client, Databases, ID } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const databases = new Databases(client);
+
+await databases.createDocument(
+    'marvel',
+    'movies',
+    ID.unique(),
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            {
+                author: 'Bob',
+                text: 'Great movie!',
+                $permissions: [
+                    Permission.read(Role.any())
+                ]
+            },
+        ]
+    }
+);
+```
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final databases = Databases(client);
+
+await databases.createDocument(
+  databaseId: 'marvel',
+  collectionId: 'movies',
+  documentId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+      {
+         'author': 'Bob',
+         'text': 'Great movie!',
+         '\$permissions': [
+           Permission.read(Role.any())
+         ]
+       },
+    ]
+  },
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let databases = Database(client: client)
+
+databases.createDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [
+                "author": "Bob",
+                "text": "Great movie!",
+                "$permissions": [
+                    Permission.read(Role.any())
+                ]
+            ],
+        ]
+    ]
+);
+```
+```kotlin
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let databases = Database(client: client)
+
+databases.createDocument(
+    databaseId: "marvel",
+    collectionId: "movies",
+    documentId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [
+                "author": "Bob",
+                "text": "Great movie!",
+                "$permissions": [
+                    Permission.read(Role.any())
+                ]
+            ],
+        ]
+    ]
+);
+```
+{% /multicode %}
+
+When creating, updating, or deleting in a relationship, you must have permission to access all documents referenced.
+If the user does not have read permission to any document, an exception will be thrown.
+
+# Limitations {% #limitations %}
+
+Relationships can be nested between collections, but are restricted to a **max depth of three levels**.
+Relationship attribute key, type, and directionality can't be updated.
+On-delete behavior is the only option that can be updated for relationship attributes.
+
+5:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Relationships"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$c","className":"ml-0"}]}]]}]
+6:["$","$Ld",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Deprecated API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This API uses outdated terminology and is no longer maintained. Refer to the"," ",["$","$Le",null,{"href":"/docs/products/databases/relationships","className":"web-link underline","children":"updated documentation"}]," ","for improved compatibility and migration guidance."]}]]}],null,["$","$Lf",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Relationships describe how documents in different collections are associated, so that related documents can be read, updated, or deleted together. Entities in real-life often associate with each other in an organic and logical way, like a person and their dog, an album and its songs, or friends in a social network."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"These types of association between entities can be modeled in Clikkle using relationships."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Experimental feature"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle Relationships is an experimental feature. The API and behavior are subject to change in future versions."}]]}],["$","$L10",null,{"id":"relationship-attributes","level":1,"children":"Relationship Attributes "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Relationships are represented in a collection using ",["$","strong",null,{"children":"relationship attributes"}],"."," ","The relationship attribute contains the ID of related documents, which it references during read, update, and delete operations."," ","This attribute is ",["$","strong",null,{"children":"null"}]," if a document has no related documents."]}],["$","$L10",null,{"id":"when-to-use-relationships","level":1,"children":"When to use a relationship "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Relationships help reduce redundant information. For example, a user can create many posts in your app. You can model this without relationships by keeping a copy of the user's information in all the documents representing posts, but this creates a lot of duplicate information in your database about the user."}],["$","$L10",null,{"id":"benefit-of-relationships","level":1,"children":"Benefits of relationships "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Duplicated records waste storage, but more importantly, makes the database much harder to maintain. If the user changes their user name, you will have to update dozens or hundreds of records, a problem commonly known as an update anomaly in databases. You can avoid duplicate information by storing users and posts in separate collections and relating a user and their posts through a relationship."}],["$","$L10",null,{"id":"trade-offs","level":1,"children":"Tradeoff "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Consider using relationships when the same information is found in multiple places to avoid duplicates. However, relationships come with the tradeoff of slowing down queries. For applications where the best read and write performance is important, it may be acceptable to tolerate duplicate data."}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a"]}]}]]}],"$L3b"]}]
+7:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L3c",null,{"items":[{"id":"relationship-attributes","title":"Relationship Attributes","level":1},{"id":"when-to-use-relationships","title":"When to use a relationship","level":1},{"id":"benefit-of-relationships","title":"Benefits of relationships","level":1},{"id":"trade-offs","title":"Tradeoff","level":1},{"id":"performance-loading","title":"Opt-in Loading","level":1},{"id":"directionality","title":"Directionality","level":1},{"id":"types","title":"Types","level":1},{"id":"on-delete","title":"On-delete","level":1},{"id":"create-relationships","title":"Creating relationships","level":1},{"id":"create-documents","title":"Creating documents","level":1},{"id":"edge-case-behaviors","title":"Edge case behaviors","level":2},{"id":"queries","title":"Queries","level":1},{"id":"update","title":"Update Relationships","level":1},{"id":"delete","title":"Delete relationships","level":1},{"id":"unlink","title":"Unlink relationships, retain documents","level":2},{"id":"delete-both","title":"Delete relationships and documents","level":2},{"id":"permissions","title":"Permissions","level":1},{"id":"limitations","title":"Limitations","level":1}]}]}]
+8:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+9:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+a:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+b:["$","$L3d",null,{"children":["$","$3e",null,{"name":"Next.MetadataOutlet","children":"$@3f"}]}]
+11:["$","$L10",null,{"id":"performance-loading","level":1,"children":"Opt-in Loading "}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["By default, Clikkle returns only a document's own fields when you retrieve documents. Related documents are ",["$","strong",null,{"children":"not automatically loaded"}]," unless you explicitly request them using query selection. This eliminates unintentional payload bloat and gives you precise control over performance."]}]
+13:["$","$Le",null,{"href":"/docs/products/databases/legacy/queries#relationship-select","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn how to load relationships with queries"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+14:["$","$L10",null,{"id":"directionality","level":1,"children":"Directionality "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle relationships can be one-way or two-way."}]
+16:["$","$L40",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"One-way"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The relationship is only visible to one side of the relation. This is similar to a tree data structure."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Two-way"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The relationship is visible to both sides of the relationship. This is similar to a graph data structure."}]}]]}]]}]]}]
+17:["$","$L10",null,{"id":"types","level":1,"children":"Types "}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle provides four different relationship types to enforce different associative rules between documents."}]
+19:["$","$L40",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"One-to-one"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"A document can only be related to one and only one document."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"One-to-many"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"A document can be related to many other documents."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Many-to-one"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Many documents can be related to a single document."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Many-to-many"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"A document can be related to many other documents."}]}]]}]]}]]}]
+1a:["$","$L10",null,{"id":"on-delete","level":1,"children":"On-delete "}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle also allows you to define the behavior of a relationship when a document is deleted."}]
+1c:["$","$L40",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Restrict"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"If a document has at least one related document, it cannot be deleted."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Cascade"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"If a document has related documents, when it is deleted, the related documents are also deleted."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Set null"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"If a document has related documents, when it is deleted, the related documents are kept with their relationship attribute set to null."}]}]]}]]}]]}]
+1d:["$","$L10",null,{"id":"create-relationships","level":1,"children":"Creating relationships "}]
+1e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can define relationships in the Clikkle Console, or using a ",["$","$Le",null,{"href":"/docs/sdks#server","children":"Server SDK"}]]}]
+1f:["$","$L41",null,{"children":[["$","$L42",null,{"id":"console","title":"Console","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can create relationships in the Clikkle Console by adding a relationship attribute to a collection."}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["In your project, navigate to ",["$","strong",null,{"children":"Databases"}]," > ",["$","strong",null,{"children":"Select your database"}]," > ",["$","strong",null,{"children":"Select your collection"}]," > ",["$","strong",null,{"children":"Attributes"}]," > ",["$","strong",null,{"children":"Create attribute"}],"."]}],["$","li",null,{"children":["Select ",["$","strong",null,{"children":"Relationship"}]," as the attribute type."]}],["$","li",null,{"children":["In the ",["$","strong",null,{"children":"Relationship"}]," modal, select the ",["$","$Le",null,{"href":"#types","children":"relationship type"}]," and pick the related collection and attributes."]}],["$","li",null,{"children":"Pick relationship attribute key(s) to represent the related collection. Relationship attribute keys are used to reference the related collection in queries, so pick something that's intuitive and easy to remember."}],["$","li",null,{"children":["Select desired ",["$","$Le",null,{"href":"#on-delete","children":"on delete"}]," behavior."]}],["$","li",null,{"children":["Click the ",["$","strong",null,{"children":"Create"}]," button to create the relationship."]}]]}]]}],["$","$L42",null,{"id":"sdk","title":"SDK","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Here's an example that adds a relationship between the collections ",["$","strong",null,{"children":"movies"}]," and ",["$","strong",null,{"children":"reviews"}],"."," ","A relationship attribute with the key ",["$","code",null,{"children":"reviews"}]," is added to the movies collection, and another relationship attribute with the key ",["$","code",null,{"children":"movie"}]," is added to the reviews collection."]}],["$","$L43",null,{"children":[["$","$L44",null,{"language":"js","content":"const { Client, Databases } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\ndatabases.createRelationshipAttribute(\n    'marvel',     // Database ID\n    'movies',     // Collection ID\n    'reviews',    // Related collection ID\n    'oneToMany',  // Relationship type\n    true,         // Is two-way\n    'reviews',    // Attribute key\n    'movie',      // Two-way attribute key\n    'cascade'     // On delete action\n);\n","children":"const { Client, Databases } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\ndatabases.createRelationshipAttribute(\n    'marvel',     // Database ID\n    'movies',     // Collection ID\n    'reviews',    // Related collection ID\n    'oneToMany',  // Relationship type\n    true,         // Is two-way\n    'reviews',    // Attribute key\n    'movie',      // Two-way attribute key\n    'cascade'     // On delete action\n);\n"}],["$","$L44",null,{"language":"php","content":"use \\Clikkle\\Client;\nuse \\Clikkle\\Services\\Databases;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>');               // Your project ID\n\n$databases = new Databases($client);\n\n$databases->createRelationshipAttribute(\n    databaseId: 'marvel',           // Database ID\n    collectionId: 'movies',         // Collection ID\n    relatedCollectionId: 'reviews', // Related collection ID\n    type: 'oneToMany',              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: 'reviews',                 // Attribute key\n    twoWayKey: 'movie',             // Two-way attribute key\n    onDelete: 'cascade'             // On delete action\n);\n","children":"use \\Clikkle\\Client;\nuse \\Clikkle\\Services\\Databases;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>');               // Your project ID\n\n$databases = new Databases($client);\n\n$databases->createRelationshipAttribute(\n    databaseId: 'marvel',           // Database ID\n    collectionId: 'movies',         // Collection ID\n    relatedCollectionId: 'reviews', // Related collection ID\n    type: 'oneToMany',              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: 'reviews',                 // Attribute key\n    twoWayKey: 'movie',             // Two-way attribute key\n    onDelete: 'cascade'             // On delete action\n);\n"}],"$L45","$L46","$L47","$L48","$L49","$L4a","$L4b"]}]]}]]}]
+20:["$","$L10",null,{"id":"create-documents","level":1,"children":"Creating documents "}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If a collection has relationship attributes, you can create documents in two ways."," ","You create both parent and child at the same time using a ",["$","strong",null,{"children":"nested"}]," syntax or link parent and child documents through ",["$","strong",null,{"children":"references"}],"*."]}]
+22:["$","$L41",null,{"children":[["$","$L42",null,{"id":"nested","title":"Nested","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can create both the ",["$","strong",null,{"children":"parent"}]," and ",["$","strong",null,{"children":"child"}]," at once in a relationship by nesting data."]}],["$","$L43",null,{"children":[["$","$L44",null,{"language":"js","content":"const { Client, Databases, ID } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.createDocument(\n    'marvel',\n    'movies',\n    ID.unique(),\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            { author: 'Bob', text: 'Great movie!' },\n            { author: 'Alice', text: 'Loved it!' }\n        ]\n    }\n)\n","children":"const { Client, Databases, ID } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.createDocument(\n    'marvel',\n    'movies',\n    ID.unique(),\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            { author: 'Bob', text: 'Great movie!' },\n            { author: 'Alice', text: 'Loved it!' }\n        ]\n    }\n)\n"}],["$","$L44",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    .setProject('<PROJECT_ID>');                // Your project ID\n\nfinal databases = Databases(client);\n\nawait databases.createDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n      { 'author': 'Bob', 'text': 'Great movie!' },\n      { 'author': 'Alice', 'text': 'Loved it!' }\n    ]\n  },\n)\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    .setProject('<PROJECT_ID>');                // Your project ID\n\nfinal databases = Databases(client);\n\nawait databases.createDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n      { 'author': 'Bob', 'text': 'Great movie!' },\n      { 'author': 'Alice', 'text': 'Loved it!' }\n    ]\n  },\n)\n"}],["$","$L44",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet databases = Database(client: client)\n\ndatabases.createDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [ \"author\": \"Bob\", \"text\": \"Great movie!\" ],\n            [ \"author\": \"Alice\", \"text\": \"Loved it!\" ]\n        ]\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet databases = Database(client: client)\n\ndatabases.createDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [ \"author\": \"Bob\", \"text\": \"Great movie!\" ],\n            [ \"author\": \"Alice\", \"text\": \"Loved it!\" ]\n        ]\n    ]\n)\n"}],"$L4c"]}],"$L4d","$L4e"]}],"$L4f"]}]
+23:["$","$L10",null,{"id":"queries","level":1,"children":"Queries "}]
+24:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Queries are currently not available in the experimental version of Clikkle Relationships but will be added in a later version."}]
+25:["$","$L10",null,{"id":"update","level":1,"children":"Update Relationships "}]
+26:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Relationships can be updated by updating the relationship attribute."}]
+27:["$","$L43",null,{"children":[["$","$L44",null,{"language":"js","content":"const { Client, Databases } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.updateDocument(\n    'marvel',\n    'movies',\n    'spiderman',\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            'review4',\n            'review5'\n        ]\n    }\n);\n","children":"const { Client, Databases } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.updateDocument(\n    'marvel',\n    'movies',\n    'spiderman',\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            'review4',\n            'review5'\n        ]\n    }\n);\n"}],["$","$L44",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal databases = Databases(client);\n\nawait databases.updateDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: 'spiderman',\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n        'review4',\n        'review5'\n    ]\n  },\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal databases = Databases(client);\n\nawait databases.updateDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: 'spiderman',\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n        'review4',\n        'review5'\n    ]\n  },\n);\n"}],["$","$L44",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet databases = Database(client: client)\n\ndatabases.updateDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: \"spiderman\",\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            \"review4\",\n            \"review5\"\n        ]\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet databases = Database(client: client)\n\ndatabases.updateDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: \"spiderman\",\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            \"review4\",\n            \"review5\"\n        ]\n    ]\n)\n"}],["$","$L44",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Database\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval databases = Database(client)\n\ndatabases.updateDocument(\n    databaseId = \"marvel\",\n    collectionId = \"movies\",\n    documentId = \"spiderman\",\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            \"review4\",\n            \"review5\"\n        )\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Database\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval databases = Database(client)\n\ndatabases.updateDocument(\n    databaseId = \"marvel\",\n    collectionId = \"movies\",\n    documentId = \"spiderman\",\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            \"review4\",\n            \"review5\"\n        )\n    )\n)\n"}]]}]
+28:["$","$L10",null,{"id":"delete","level":1,"children":"Delete relationships "}]
+29:["$","$L10",null,{"id":"unlink","level":2,"children":"Unlink relationships, retain documents "}]
+2a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you need to unlink documents in a relationship but retain the documents, you can do this by ",["$","strong",null,{"children":"updating the relationship attribute"}]," and removing the ID of the related document."]}]
+2b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If a document can be related to ",["$","strong",null,{"children":"only one document"}],", you can delete the relationship by setting the relationship attribute to ",["$","code",null,{"children":"null"}],"."]}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If a document can be related to ",["$","strong",null,{"children":"more than one document"}],", you can delete the relationship by setting the relationship attribute to an empty list."]}]
+2d:["$","$L10",null,{"id":"delete-both","level":2,"children":"Delete relationships and documents "}]
+2e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you need to delete the documents as well as unlink the relationship, the approach depends on the ",["$","$Le",null,{"href":"#on-delete","children":"on-delete behavior"}]," of a relationship."]}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the on-delete behavior is ",["$","strong",null,{"children":"restrict"}],", the link between the documents needs to be deleted first before the documents can be deleted ",["$","strong",null,{"children":"individually"}],"."]}]
+30:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the on-delete behavior is ",["$","strong",null,{"children":"set null"}],", deleting a document will leave related documents in place with their relationship attribute ",["$","strong",null,{"children":"set to null"}],". If you wish to also delete related documents, they must be deleted ",["$","strong",null,{"children":"individually"}],"."]}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the on-delete behavior is ",["$","strong",null,{"children":"cascade"}],", deleting the parent documents also deletes ",["$","strong",null,{"children":"related child documents"}],", except for many-to-one relationships. In many-to-one relationships, there are multiple parent documents related to a single child document, and when the child document is deleted, the parents are deleted in cascade."]}]
+32:["$","$L43",null,{"children":[["$","$L44",null,{"language":"js","content":"const { Client, Databases } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.deleteDocument(\n    'marvel',\n    'movies',\n    'spiderman'\n);\n","children":"const { Client, Databases } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.deleteDocument(\n    'marvel',\n    'movies',\n    'spiderman'\n);\n"}],["$","$L44",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal databases = Databases(client);\n\nawait databases.deleteDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: 'spiderman'\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal databases = Databases(client);\n\nawait databases.deleteDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: 'spiderman'\n);\n"}],["$","$L44",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet databases = Database(client: client)\n\ndatabases.deleteDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: \"spiderman\"\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet databases = Database(client: client)\n\ndatabases.deleteDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: \"spiderman\"\n)\n"}],["$","$L44",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Database\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval databases = Database(client)\n\ndatabases.deleteDocument(\n    databaseId = \"marvel\",\n    collectionId = \"movies\",\n    documentId = \"spiderman\"\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Database\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval databases = Database(client)\n\ndatabases.deleteDocument(\n    databaseId = \"marvel\",\n    collectionId = \"movies\",\n    documentId = \"spiderman\"\n)\n"}]]}]
+33:["$","$L10",null,{"id":"permissions","level":1,"children":"Permissions "}]
+34:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To access documents in a relationship, you must have permission to access both the parent and child documents."}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When creating both the parent and child documents, the child document will ",["$","strong",null,{"children":"inherit permissions"}]," from its parent."]}]
+36:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also provide explicit permissions to the child document if they should be ",["$","strong",null,{"children":"different from their parent"}],"."]}]
+37:["$","$L43",null,{"children":[["$","$L44",null,{"language":"js","content":"const { Client, Databases, ID } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.createDocument(\n    'marvel',\n    'movies',\n    ID.unique(),\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            {\n                author: 'Bob',\n                text: 'Great movie!',\n                $permissions: [\n                    Permission.read(Role.any())\n                ]\n            },\n        ]\n    }\n);\n","children":"const { Client, Databases, ID } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.createDocument(\n    'marvel',\n    'movies',\n    ID.unique(),\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            {\n                author: 'Bob',\n                text: 'Great movie!',\n                $permissions: [\n                    Permission.read(Role.any())\n                ]\n            },\n        ]\n    }\n);\n"}],["$","$L44",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal databases = Databases(client);\n\nawait databases.createDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n      {\n         'author': 'Bob',\n         'text': 'Great movie!',\n         '\\$permissions': [\n           Permission.read(Role.any())\n         ]\n       },\n    ]\n  },\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal databases = Databases(client);\n\nawait databases.createDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n      {\n         'author': 'Bob',\n         'text': 'Great movie!',\n         '\\$permissions': [\n           Permission.read(Role.any())\n         ]\n       },\n    ]\n  },\n);\n"}],["$","$L44",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet databases = Database(client: client)\n\ndatabases.createDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [\n                \"author\": \"Bob\",\n                \"text\": \"Great movie!\",\n                \"$permissions\": [\n                    Permission.read(Role.any())\n                ]\n            ],\n        ]\n    ]\n);\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet databases = Database(client: client)\n\ndatabases.createDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [\n                \"author\": \"Bob\",\n                \"text\": \"Great movie!\",\n                \"$permissions\": [\n                    Permission.read(Role.any())\n                ]\n            ],\n        ]\n    ]\n);\n"}],"$L50"]}]
+38:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When creating, updating, or deleting in a relationship, you must have permission to access all documents referenced."," ","If the user does not have read permission to any document, an exception will be thrown."]}]
+39:["$","$L10",null,{"id":"limitations","level":1,"children":"Limitations "}]
+3a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Relationships can be nested between collections, but are restricted to a ",["$","strong",null,{"children":"max depth of three levels"}],"."," ","Relationship attribute key, type, and directionality can't be updated."," ","On-delete behavior is the only option that can be updated for relationship attributes."]}]
+3b:["$","$L51",null,{}]
+3f:null
+45:["$","$L44",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.services.databases import Databases\n\nclient = (Client()\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint\n    .set_project('<PROJECT_ID>'))                   # Your project ID\n\ndatabases = Databases(client)\n\ndatabases.create_relationship_attribute(\n    database_id='marvel',             # Database ID\n    collection_id='movies',           # Collection ID\n    related_collection_id='reviews',  # Related collection ID\n    type='oneToMany',                 # Relationship type\n    two_way=True,                     # Is two-way\n    key='reviews',                    # Attribute key\n    two_way_key='movie',              # Two-way attribute key\n    on_delete='cascade'               # On delete action\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.databases import Databases\n\nclient = (Client()\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint\n    .set_project('<PROJECT_ID>'))                   # Your project ID\n\ndatabases = Databases(client)\n\ndatabases.create_relationship_attribute(\n    database_id='marvel',             # Database ID\n    collection_id='movies',           # Collection ID\n    related_collection_id='reviews',  # Related collection ID\n    type='oneToMany',                 # Relationship type\n    two_way=True,                     # Is two-way\n    key='reviews',                    # Attribute key\n    two_way_key='movie',              # Two-way attribute key\n    on_delete='cascade'               # On delete action\n)\n"}]
+46:["$","$L44",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint\n    .set_project('<PROJECT_ID>')               # Your project ID\n\ndatabases = Databases.new(client)\n\ndatabases.create_relationship_attribute(\n    database_id: 'marvel',             # Database ID\n    collection_id: 'movies',           # Collection ID\n    related_collection_id: 'reviews',  # Related collection ID\n    type: 'oneToMany',                 # Relationship type\n    two_way: true,                     # Is two-way\n    key: 'reviews',                    # Attribute key\n    two_way_key: 'movie',              # Two-way attribute key\n    on_delete: 'cascade'               # On delete action\n)\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint\n    .set_project('<PROJECT_ID>')               # Your project ID\n\ndatabases = Databases.new(client)\n\ndatabases.create_relationship_attribute(\n    database_id: 'marvel',             # Database ID\n    collection_id: 'movies',           # Collection ID\n    related_collection_id: 'reviews',  # Related collection ID\n    type: 'oneToMany',                 # Relationship type\n    two_way: true,                     # Is two-way\n    key: 'reviews',                    # Attribute key\n    two_way_key: 'movie',              # Two-way attribute key\n    on_delete: 'cascade'               # On delete action\n)\n"}]
+47:["$","$L44",null,{"language":"deno","content":"import { Client, Databases } from \"npm:node-clikkle\";\n\nconst client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\");               // Your project ID\n\nconst databases = new Databases(client);\n\ndatabases.createRelationshipAttribute(\n    \"marvel\",    // Database ID\n    \"movies\",    // Collection ID\n    \"reviews\",   // Related collection ID\n    \"oneToMany\", // Relationship type\n    true,        // Is two-way\n    \"reviews\",   // Attribute key\n    \"movie\",     // Two-way attribute key\n    \"cascade\"    // On delete action\n);\n","children":"import { Client, Databases } from \"npm:node-clikkle\";\n\nconst client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\");               // Your project ID\n\nconst databases = new Databases(client);\n\ndatabases.createRelationshipAttribute(\n    \"marvel\",    // Database ID\n    \"movies\",    // Collection ID\n    \"reviews\",   // Related collection ID\n    \"oneToMany\", // Relationship type\n    true,        // Is two-way\n    \"reviews\",   // Attribute key\n    \"movie\",     // Two-way attribute key\n    \"cascade\"    // On delete action\n);\n"}]
+48:["$","$L44",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nfinal databases = Databases(client);\n\nawait databases.createRelationshipAttribute(\n    databaseId: 'marvel',           // Database ID\n    collectionId: 'movies',         // Collection ID\n    relatedCollectionId: 'reviews', // Related collection ID\n    type: 'oneToMany',              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: 'reviews',                 // Attribute key\n    twoWayKey: 'movie',             // Two-way attribute key\n    onDelete: 'cascade',            // On delete action\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nfinal databases = Databases(client);\n\nawait databases.createRelationshipAttribute(\n    databaseId: 'marvel',           // Database ID\n    collectionId: 'movies',         // Collection ID\n    relatedCollectionId: 'reviews', // Related collection ID\n    type: 'oneToMany',              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: 'reviews',                 // Attribute key\n    twoWayKey: 'movie',             // Two-way attribute key\n    onDelete: 'cascade',            // On delete action\n);\n"}]
+49:["$","$L44",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Databases\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval databases = Databases(client)\n\ndatabases.createRelationshipAttribute(\n    databaseId = \"marvel\",           // Database ID\n    collectionId = \"movies\",         // Collection ID\n    relatedCollectionId = \"reviews\", // Related collection ID\n    type = \"oneToMany\",              // Relationship type\n    twoWay = true,                   // Is two-way\n    key = \"reviews\",                 // Attribute key\n    twoWayKey = \"movie\",             // Two-way attribute key\n    onDelete = \"cascade\"             // On delete action\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Databases\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval databases = Databases(client)\n\ndatabases.createRelationshipAttribute(\n    databaseId = \"marvel\",           // Database ID\n    collectionId = \"movies\",         // Collection ID\n    relatedCollectionId = \"reviews\", // Related collection ID\n    type = \"oneToMany\",              // Relationship type\n    twoWay = true,                   // Is two-way\n    key = \"reviews\",                 // Attribute key\n    twoWayKey = \"movie\",             // Two-way attribute key\n    onDelete = \"cascade\"             // On delete action\n)\n"}]
+4a:["$","$L44",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet databases = Databases(client)\n\ndatabases.createRelationshipAttribute(\n    databaseId: \"marvel\",           // Database ID\n    collectionId: \"movies\",         // Collection ID\n    relatedCollectionId: \"reviews\", // Related collection ID\n    type: \"oneToMany\",              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: \"reviews\",                 // Attribute key\n    twoWayKey: \"movie\",             // Two-way attribute key\n    onDelete\n\n: \"cascade\"             // On delete action\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet databases = Databases(client)\n\ndatabases.createRelationshipAttribute(\n    databaseId: \"marvel\",           // Database ID\n    collectionId: \"movies\",         // Collection ID\n    relatedCollectionId: \"reviews\", // Related collection ID\n    type: \"oneToMany\",              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: \"reviews\",                 // Attribute key\n    twoWayKey: \"movie\",             // Two-way attribute key\n    onDelete\n\n: \"cascade\"             // On delete action\n)\n"}]
+4b:["$","$L44",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<PROJECT_ID>\");\n\nvar databases = new Databases(client);\n\nawait databases.CreateRelationshipAttribute(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    relatedCollectionId: \"reviews\",\n    type: \"oneToMany\",\n    twoWay: true,\n    key: \"reviews\",\n    twoWayKey: \"movie\",\n    onDelete: \"cascade\");\n","children":"using Clikkle;\nusing Clikkle.Services;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<PROJECT_ID>\");\n\nvar databases = new Databases(client);\n\nawait databases.CreateRelationshipAttribute(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    relatedCollectionId: \"reviews\",\n    type: \"oneToMany\",\n    twoWay: true,\n    key: \"reviews\",\n    twoWayKey: \"movie\",\n    onDelete: \"cascade\");\n"}]
+4c:["$","$L44",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Database\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval databases = Database(client)\n\ndatabases.createDocument(\n    databaseId = \"marvel\",\n    collectionId = \"movies\",\n    documentId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            mapOf(\"author\" to \"Bob\", \"text\" to \"Great movie!\"),\n            mapOf(\"author\" to \"Alice\", \"text\" to \"Loved it!\")\n        )\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Database\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval databases = Database(client)\n\ndatabases.createDocument(\n    databaseId = \"marvel\",\n    collectionId = \"movies\",\n    documentId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            mapOf(\"author\" to \"Bob\", \"text\" to \"Great movie!\"),\n            mapOf(\"author\" to \"Alice\", \"text\" to \"Loved it!\")\n        )\n    )\n)\n"}]
+4d:["$","$L10",null,{"id":"edge-case-behaviors","level":2,"children":"Edge case behaviors "}]
+4e:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["If a nested child document is included and ",["$","strong",null,{"children":"no child document ID"}]," is provided, the child document will be given a unique ID."]}],["$","li",null,{"children":["If a nested child document is included and ",["$","strong",null,{"children":"no conflicting child document ID"}]," exists, the child document will be ",["$","strong",null,{"children":"created"}],"."]}],["$","li",null,{"children":["If a nested child document is included and the ",["$","strong",null,{"children":"child document ID already exists"}],", the child document will be ",["$","strong",null,{"children":"updated"}],"."]}]]}]
+4f:["$","$L42",null,{"id":"reference","title":"Reference","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the child documents are already present in the related collection, you can create the parent and ",["$","strong",null,{"children":"reference the child documents"}]," using their IDs."," ","Here's an example connecting reviews to a movie."]}],["$","$L43",null,{"children":[["$","$L44",null,{"language":"js","content":"const { Client, Databases, ID } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.createDocument(\n    'marvel',\n    'movies',\n    ID.unique(),\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            '<REVIEW_ID_1>',\n            '<REVIEW_ID_2>'\n        ]\n    }\n)\n","children":"const { Client, Databases, ID } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst databases = new Databases(client);\n\nawait databases.createDocument(\n    'marvel',\n    'movies',\n    ID.unique(),\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            '<REVIEW_ID_1>',\n            '<REVIEW_ID_2>'\n        ]\n    }\n)\n"}],["$","$L44",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nfinal databases = Databases(client);\n\nawait databases.createDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n        '<REVIEW_ID_1>',\n        '<REVIEW_ID_2>'\n    ]\n  },\n)\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nfinal databases = Databases(client);\n\nawait databases.createDocument(\n  databaseId: 'marvel',\n  collectionId: 'movies',\n  documentId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n        '<REVIEW_ID_1>',\n        '<REVIEW_ID_2>'\n    ]\n  },\n)\n"}],["$","$L44",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet databases = Database(client: client)\n\ndatabases.createDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            \"<REVIEW_ID_1>\",\n            \"<REVIEW_ID_2>\"\n        ]\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet databases = Database(client: client)\n\ndatabases.createDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            \"<REVIEW_ID_1>\",\n            \"<REVIEW_ID_2>\"\n        ]\n    ]\n)\n"}],"$L52"]}]]}]
+50:["$","$L44",null,{"language":"kotlin","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet databases = Database(client: client)\n\ndatabases.createDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [\n                \"author\": \"Bob\",\n                \"text\": \"Great movie!\",\n                \"$permissions\": [\n                    Permission.read(Role.any())\n                ]\n            ],\n        ]\n    ]\n);\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet databases = Database(client: client)\n\ndatabases.createDocument(\n    databaseId: \"marvel\",\n    collectionId: \"movies\",\n    documentId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [\n                \"author\": \"Bob\",\n                \"text\": \"Great movie!\",\n                \"$permissions\": [\n                    Permission.read(Role.any())\n                ]\n            ],\n        ]\n    ]\n);\n"}]
+52:["$","$L44",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Database\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval databases = Database(client)\n\ndatabases.createDocument(\n    databaseId = \"marvel\",\n    collectionId = \"movies\",\n    documentId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            \"<REVIEW_ID_1>\",\n            \"<REVIEW_ID_2>\"\n        )\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Database\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval databases = Database(client)\n\ndatabases.createDocument(\n    databaseId = \"marvel\",\n    collectionId = \"movies\",\n    documentId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            \"<REVIEW_ID_1>\",\n            \"<REVIEW_ID_2>\"\n        )\n    )\n)\n"}]

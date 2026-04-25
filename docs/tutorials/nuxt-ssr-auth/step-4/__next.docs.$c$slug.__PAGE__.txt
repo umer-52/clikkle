@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+12:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+13:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+5:T5ef,---
+layout: tutorial
+title: Add server middleware
+description: Add authentication to a Nuxt project using Clikkle.
+step: 4
+---
+
+Nuxt server middle are functions that run on the server before a route is displayed to the user. Nuxt context allows you to store data for the lifecycle of the current request. We can use this to store the user's account data, so that it is available to all pages.
+
+Create a new file in the `server/middleware` directory called `auth.js`.
+```js
+// server/middleware/auth.js
+import { createSessionClient } from "../lib/clikkle";
+
+export default defineEventHandler(async (event) => {
+  const { account } = createSessionClient(event);
+
+  try {
+    event.context.user = await account.get();
+  } catch (error) {}
+});
+```
+
+To ensure the `context` object is typed correctly, we can add a type definition for it in the `env.d.ts` file:
+
+```ts
+import type { Models } from "node-clikkle";
+
+declare module "h3" {
+  interface H3EventContext {
+    user?: Models.User<Models.Preferences<any>>;
+  }
+}
+```
+
+Now, use the `context` object in the home page to redirect based on the user's login status. Create a new file in the `server/routes` directory called `index.js`:
+
+```js
+export default defineEventHandler(async (event) => {
+  if (event.context.user) {
+    await sendRedirect(event, "/account");
+  }
+
+  await sendRedirect(event, "/signup");
+});
+```
+
+When a user visits the home page, they will be redirected to the sign up page if they are not logged in, or to the account page if they are logged in.
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Server-side authentication with Nuxt","steps":[{"step":1,"title":"Server-side authentication with Nuxt","href":"/docs/tutorials/nuxt-ssr-auth/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":20},{"step":2,"title":"Create project","href":"/docs/tutorials/nuxt-ssr-auth/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":20},{"step":3,"title":"Initialize SDK","href":"/docs/tutorials/nuxt-ssr-auth/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":20},{"step":4,"title":"Add server middleware","href":"/docs/tutorials/nuxt-ssr-auth/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":20},{"step":5,"title":"Create sign up page","href":"/docs/tutorials/nuxt-ssr-auth/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":20},{"step":6,"title":"Create account page","href":"/docs/tutorials/nuxt-ssr-auth/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":20},{"step":7,"title":"OAuth authentication with SSR","href":"/docs/tutorials/nuxt-ssr-auth/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":20},{"step":8,"title":"Enable the sign up and account pages","href":"/docs/tutorials/nuxt-ssr-auth/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":20},{"step":9,"title":"All set","href":"/docs/tutorials/nuxt-ssr-auth/step-9","fileSlug":"step-9","difficulty":"beginner","readtime":20}],"currentStep":4,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:3","back":"/docs/tutorials","copyMarkdown":"$5","children":["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Nuxt server middle are functions that run on the server before a route is displayed to the user. Nuxt context allows you to store data for the lifecycle of the current request. We can use this to store the user's account data, so that it is available to all pages."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file in the ","$L6"," directory called ","$L7","."]}],"$L8","$L9","$La","$Lb","$Lc","$Ld"]}]}]}]}]}],["$Le","$Lf","$L10"],"$L11"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+6:["$","code",null,{"children":"server/middleware"}]
+7:["$","code",null,{"children":"auth.js"}]
+8:["$","$L12",null,{"language":"js","content":"// server/middleware/auth.js\nimport { createSessionClient } from \"../lib/clikkle\";\n\nexport default defineEventHandler(async (event) => {\n  const { account } = createSessionClient(event);\n\n  try {\n    event.context.user = await account.get();\n  } catch (error) {}\n});\n","children":"// server/middleware/auth.js\nimport { createSessionClient } from \"../lib/clikkle\";\n\nexport default defineEventHandler(async (event) => {\n  const { account } = createSessionClient(event);\n\n  try {\n    event.context.user = await account.get();\n  } catch (error) {}\n});\n"}]
+9:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To ensure the ",["$","code",null,{"children":"context"}]," object is typed correctly, we can add a type definition for it in the ",["$","code",null,{"children":"env.d.ts"}]," file:"]}]
+a:["$","$L12",null,{"language":"ts","content":"import type { Models } from \"node-clikkle\";\n\ndeclare module \"h3\" {\n  interface H3EventContext {\n    user?: Models.User<Models.Preferences<any>>;\n  }\n}\n","children":"import type { Models } from \"node-clikkle\";\n\ndeclare module \"h3\" {\n  interface H3EventContext {\n    user?: Models.User<Models.Preferences<any>>;\n  }\n}\n"}]
+b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now, use the ",["$","code",null,{"children":"context"}]," object in the home page to redirect based on the user's login status. Create a new file in the ",["$","code",null,{"children":"server/routes"}]," directory called ",["$","code",null,{"children":"index.js"}],":"]}]
+c:["$","$L12",null,{"language":"js","content":"export default defineEventHandler(async (event) => {\n  if (event.context.user) {\n    await sendRedirect(event, \"/account\");\n  }\n\n  await sendRedirect(event, \"/signup\");\n});\n","children":"export default defineEventHandler(async (event) => {\n  if (event.context.user) {\n    await sendRedirect(event, \"/account\");\n  }\n\n  await sendRedirect(event, \"/signup\");\n});\n"}]
+d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When a user visits the home page, they will be redirected to the sign up page if they are not logged in, or to the account page if they are logged in."}]
+e:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+f:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+10:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+11:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null

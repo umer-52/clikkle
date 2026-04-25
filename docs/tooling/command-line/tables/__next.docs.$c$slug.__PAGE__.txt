@@ -1,0 +1,778 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1b:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1c:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TableTag"]
+20:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+3d:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T219a,---
+layout: article
+title: Tables
+description: Efficiently deploy your Clikkle tables using the Command-Line Tool (CLI). 
+---
+
+{% info title="Before proceeding" %}
+Ensure you [**install**](/docs/tooling/command-line/installation#getting-started) the CLI, [**log in**](/docs/tooling/command-line/installation#login) to your Clikkle account, and [**initialize**](/docs/tooling/command-line/installation#initialization) your Clikkle project.
+{% /info %}
+
+
+Create and manage your tables using the CLI commands. The Clikkle CLI also helps you push your project's databases and tables schema from one project to another.
+
+# Initialize table {% #initialize-table %}
+
+Create a new table using the following command:
+
+```sh
+clikkle init tables
+```
+
+# Pull table {% #pull-table %}
+
+You can also pull your existing Clikkle tables and databases from the Clikkle Console using the `pull` command in the folder containing your `clikkle.config.json` file.
+
+```sh
+clikkle pull tables
+```
+
+# clikkle.config.json {% #clikklejson %}
+
+After [initializing](/docs/tooling/command-line/installation#initialization) your Clikkle project and pulling your existing tables, your `clikkle.config.json` file should look similar to the following:
+
+```json
+{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "tablesDB": [
+        {
+            "$id": "<DATABASE_ID>",
+            "name": "songs",
+            "$createdAt": "2023-07-01T18:35:27.802+00:00",
+            "$updatedAt": "2023-08-01T21:41:41.663+00:00",
+            "enabled": true
+        }
+    ],
+    "tables": [
+        {
+            "$id": "<TABLE_ID>",
+            "$permissions": [
+                "create(\"any\")",
+                "read(\"any\")",
+                "update(\"any\")",
+                "delete(\"any\")"
+            ],
+            "databaseId": "<DATABASE_ID>",
+            "name": "music",
+            "enabled": true,
+            "rowSecurity": false,
+            "columns": [
+                {
+                    "key": "userID",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "name",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "cloudinaryId",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "user",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "audio",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 200,
+                    "default": null
+                },
+                {
+                    "key": "genre",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 500,
+                    "default": null
+                },
+                {
+                    "key": "artist",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 500,
+                    "default": null
+                }
+            ],
+            "indexes": []
+        }
+    ]
+}
+```
+
+# Push table {% #push-table %}
+
+Use the `push` command in the folder containing your `clikkle.config.json` file to push the changes you made.
+
+
+```sh
+clikkle push tables
+```
+
+# Commands {% #commands %}
+
+The databases command allows you to create structured tables of rows, queries, and filter lists of rows. Clikkle database CLI commands generally follow the following syntax:
+
+```sh
+clikkle databases [COMMAND] [OPTIONS]
+```
+
+{% table %}
+* Command
+* Description
+---
+* `list-tables [options]`
+* Get a list of all tables that belong to the provided databaseId. You can use the search parameter to filter your results.
+---
+* `create-table [options]`
+* Create a new Table. Before using this route, you should create a new database resource using either a [server integration](https://clikkle.io/docs/server/databases#databasesCreateTable) API or directly from your database console.
+---  
+* `get-table [options]`
+* Get a table by its unique ID. This endpoint response returns a JSON object with the table metadata.
+---
+* `update-table [options]`
+* Update a table by its unique ID.
+---
+* `delete-table [options]`
+* Delete a table by its unique ID. Only users with write permissions have access to delete this resource.
+---
+* `list-columns [options]`
+* List columns in the table.
+---
+* `create-boolean-column [options]`
+* Create a boolean column.
+---
+* `update-boolean-column [options]`
+* Update a boolean column. Changing the 'default' value will not update already existing rows.
+---
+* `create-datetime-column [options]`
+* Create a date time column according to the ISO 8601 standard.
+---
+* `update-datetime-column [options]`
+* Update a date time column. Changing the 'default' value will not update already existing rows.
+---
+* `create-email-column [options]`
+* Create an email column.
+---
+* `update-email-column [options]`
+* Update an email column. Changing the 'default' value will not update already existing rows.
+---
+* `create-enum-column [options]`
+* Create an enumeration column. The 'elements' param acts as a white-list of accepted values for this column.
+---
+* `update-enum-column [options]`
+* Update an enum column. Changing the 'default' value will not update already existing rows.
+---  
+* `create-float-column [options]`
+* Create a float column. Optionally, minimum and maximum values can be provided.
+---
+* `update-float-column [options]`
+* Update a float column. Changing the 'default' value will not update already existing rows.
+---  
+* `create-integer-column [options]`
+* Create an integer column. Optionally, minimum and maximum values can be provided.
+---
+* `update-integer-column [options]`
+* Update an integer column. Changing the 'default' value will not update already existing rows.
+---
+* `create-ip-column [options]`     
+* Create IP address column.
+---
+* `update-ip-column [options]`
+* Update an ip column. Changing the 'default' value will not update already existing rows.
+---
+* `create-relationship-column [options]`
+* Create relationship column. [Learn more about relationship columns](https://clikkle.io/docs/databases-relationships#relationship-columns).
+---
+* `create-string-column [options]`
+* Create a string column.
+---
+* `update-string-column [options]`
+* Update a string column. Changing the 'default' value will not update already existing rows.
+---
+* `create-url-column [options]`          
+* Create a URL column.
+---
+* `update-url-column [options]`
+* Update an url column. Changing the 'default' value will not update already existing rows.
+---
+* `get-column [options]`
+* Get column by ID.
+---
+* `delete-column [options]` 
+* Deletes an column.
+---
+* `update-relationship-column [options]`  
+* Update relationship column. [Learn more about relationship columns](https://clikkle.io/docs/databases-relationships#relationship-columns).
+---
+* `list-indexes [options]`
+* List indexes in the table.
+---
+* `create-index [options]`
+* Creates an index on the columns listed. Your index should include all the columns you will query in a single request. Columns can be 'key', 'fulltext', and 'unique'.
+---
+* `get-index [options]`
+* Get index by ID.
+---
+* `delete-index [options]`
+* Delete an index.
+---
+* `list-table-logs [options]`
+* Get the table activity logs list by its unique ID.
+---
+{% /table %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T219a,---
+layout: article
+title: Tables
+description: Efficiently deploy your Clikkle tables using the Command-Line Tool (CLI). 
+---
+
+{% info title="Before proceeding" %}
+Ensure you [**install**](/docs/tooling/command-line/installation#getting-started) the CLI, [**log in**](/docs/tooling/command-line/installation#login) to your Clikkle account, and [**initialize**](/docs/tooling/command-line/installation#initialization) your Clikkle project.
+{% /info %}
+
+
+Create and manage your tables using the CLI commands. The Clikkle CLI also helps you push your project's databases and tables schema from one project to another.
+
+# Initialize table {% #initialize-table %}
+
+Create a new table using the following command:
+
+```sh
+clikkle init tables
+```
+
+# Pull table {% #pull-table %}
+
+You can also pull your existing Clikkle tables and databases from the Clikkle Console using the `pull` command in the folder containing your `clikkle.config.json` file.
+
+```sh
+clikkle pull tables
+```
+
+# clikkle.config.json {% #clikklejson %}
+
+After [initializing](/docs/tooling/command-line/installation#initialization) your Clikkle project and pulling your existing tables, your `clikkle.config.json` file should look similar to the following:
+
+```json
+{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "tablesDB": [
+        {
+            "$id": "<DATABASE_ID>",
+            "name": "songs",
+            "$createdAt": "2023-07-01T18:35:27.802+00:00",
+            "$updatedAt": "2023-08-01T21:41:41.663+00:00",
+            "enabled": true
+        }
+    ],
+    "tables": [
+        {
+            "$id": "<TABLE_ID>",
+            "$permissions": [
+                "create(\"any\")",
+                "read(\"any\")",
+                "update(\"any\")",
+                "delete(\"any\")"
+            ],
+            "databaseId": "<DATABASE_ID>",
+            "name": "music",
+            "enabled": true,
+            "rowSecurity": false,
+            "columns": [
+                {
+                    "key": "userID",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "name",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "cloudinaryId",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "user",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "audio",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 200,
+                    "default": null
+                },
+                {
+                    "key": "genre",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 500,
+                    "default": null
+                },
+                {
+                    "key": "artist",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 500,
+                    "default": null
+                }
+            ],
+            "indexes": []
+        }
+    ]
+}
+```
+
+# Push table {% #push-table %}
+
+Use the `push` command in the folder containing your `clikkle.config.json` file to push the changes you made.
+
+
+```sh
+clikkle push tables
+```
+
+# Commands {% #commands %}
+
+The databases command allows you to create structured tables of rows, queries, and filter lists of rows. Clikkle database CLI commands generally follow the following syntax:
+
+```sh
+clikkle databases [COMMAND] [OPTIONS]
+```
+
+{% table %}
+* Command
+* Description
+---
+* `list-tables [options]`
+* Get a list of all tables that belong to the provided databaseId. You can use the search parameter to filter your results.
+---
+* `create-table [options]`
+* Create a new Table. Before using this route, you should create a new database resource using either a [server integration](https://clikkle.io/docs/server/databases#databasesCreateTable) API or directly from your database console.
+---  
+* `get-table [options]`
+* Get a table by its unique ID. This endpoint response returns a JSON object with the table metadata.
+---
+* `update-table [options]`
+* Update a table by its unique ID.
+---
+* `delete-table [options]`
+* Delete a table by its unique ID. Only users with write permissions have access to delete this resource.
+---
+* `list-columns [options]`
+* List columns in the table.
+---
+* `create-boolean-column [options]`
+* Create a boolean column.
+---
+* `update-boolean-column [options]`
+* Update a boolean column. Changing the 'default' value will not update already existing rows.
+---
+* `create-datetime-column [options]`
+* Create a date time column according to the ISO 8601 standard.
+---
+* `update-datetime-column [options]`
+* Update a date time column. Changing the 'default' value will not update already existing rows.
+---
+* `create-email-column [options]`
+* Create an email column.
+---
+* `update-email-column [options]`
+* Update an email column. Changing the 'default' value will not update already existing rows.
+---
+* `create-enum-column [options]`
+* Create an enumeration column. The 'elements' param acts as a white-list of accepted values for this column.
+---
+* `update-enum-column [options]`
+* Update an enum column. Changing the 'default' value will not update already existing rows.
+---  
+* `create-float-column [options]`
+* Create a float column. Optionally, minimum and maximum values can be provided.
+---
+* `update-float-column [options]`
+* Update a float column. Changing the 'default' value will not update already existing rows.
+---  
+* `create-integer-column [options]`
+* Create an integer column. Optionally, minimum and maximum values can be provided.
+---
+* `update-integer-column [options]`
+* Update an integer column. Changing the 'default' value will not update already existing rows.
+---
+* `create-ip-column [options]`     
+* Create IP address column.
+---
+* `update-ip-column [options]`
+* Update an ip column. Changing the 'default' value will not update already existing rows.
+---
+* `create-relationship-column [options]`
+* Create relationship column. [Learn more about relationship columns](https://clikkle.io/docs/databases-relationships#relationship-columns).
+---
+* `create-string-column [options]`
+* Create a string column.
+---
+* `update-string-column [options]`
+* Update a string column. Changing the 'default' value will not update already existing rows.
+---
+* `create-url-column [options]`          
+* Create a URL column.
+---
+* `update-url-column [options]`
+* Update an url column. Changing the 'default' value will not update already existing rows.
+---
+* `get-column [options]`
+* Get column by ID.
+---
+* `delete-column [options]` 
+* Deletes an column.
+---
+* `update-relationship-column [options]`  
+* Update relationship column. [Learn more about relationship columns](https://clikkle.io/docs/databases-relationships#relationship-columns).
+---
+* `list-indexes [options]`
+* List indexes in the table.
+---
+* `create-index [options]`
+* Creates an index on the columns listed. Your index should include all the columns you will query in a single request. Columns can be 'key', 'fulltext', and 'unique'.
+---
+* `get-index [options]`
+* Get index by ID.
+---
+* `delete-index [options]`
+* Delete an index.
+---
+* `list-table-logs [options]`
+* Get the table activity logs list by its unique ID.
+---
+{% /table %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Tables"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+11:Tc41,{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "tablesDB": [
+        {
+            "$id": "<DATABASE_ID>",
+            "name": "songs",
+            "$createdAt": "2023-07-01T18:35:27.802+00:00",
+            "$updatedAt": "2023-08-01T21:41:41.663+00:00",
+            "enabled": true
+        }
+    ],
+    "tables": [
+        {
+            "$id": "<TABLE_ID>",
+            "$permissions": [
+                "create(\"any\")",
+                "read(\"any\")",
+                "update(\"any\")",
+                "delete(\"any\")"
+            ],
+            "databaseId": "<DATABASE_ID>",
+            "name": "music",
+            "enabled": true,
+            "rowSecurity": false,
+            "columns": [
+                {
+                    "key": "userID",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "name",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "cloudinaryId",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "user",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "audio",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 200,
+                    "default": null
+                },
+                {
+                    "key": "genre",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 500,
+                    "default": null
+                },
+                {
+                    "key": "artist",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 500,
+                    "default": null
+                }
+            ],
+            "indexes": []
+        }
+    ]
+}
+12:Tc41,{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1",
+    "tablesDB": [
+        {
+            "$id": "<DATABASE_ID>",
+            "name": "songs",
+            "$createdAt": "2023-07-01T18:35:27.802+00:00",
+            "$updatedAt": "2023-08-01T21:41:41.663+00:00",
+            "enabled": true
+        }
+    ],
+    "tables": [
+        {
+            "$id": "<TABLE_ID>",
+            "$permissions": [
+                "create(\"any\")",
+                "read(\"any\")",
+                "update(\"any\")",
+                "delete(\"any\")"
+            ],
+            "databaseId": "<DATABASE_ID>",
+            "name": "music",
+            "enabled": true,
+            "rowSecurity": false,
+            "columns": [
+                {
+                    "key": "userID",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "name",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "cloudinaryId",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "user",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 100,
+                    "default": null
+                },
+                {
+                    "key": "audio",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 200,
+                    "default": null
+                },
+                {
+                    "key": "genre",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 500,
+                    "default": null
+                },
+                {
+                    "key": "artist",
+                    "type": "varchar",
+                    "status": "available",
+                    "error": "",
+                    "required": false,
+                    "array": false,
+                    "size": 500,
+                    "default": null
+                }
+            ],
+            "indexes": []
+        }
+    ]
+}
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Before proceeding"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Ensure you ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#getting-started","children":["$","strong",null,{"children":"install"}]}]," the CLI, ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#login","children":["$","strong",null,{"children":"log in"}]}]," to your Clikkle account, and ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#initialization","children":["$","strong",null,{"children":"initialize"}]}]," your Clikkle project."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Create and manage your tables using the CLI commands. The Clikkle CLI also helps you push your project's databases and tables schema from one project to another."}],["$","$Lf",null,{"id":"initialize-table","level":1,"children":"Initialize table "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Create a new table using the following command:"}],["$","$L10",null,{"language":"sh","content":"clikkle init tables\n","children":"clikkle init tables\n"}],["$","$Lf",null,{"id":"pull-table","level":1,"children":"Pull table "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also pull your existing Clikkle tables and databases from the Clikkle Console using the ",["$","code",null,{"children":"pull"}]," command in the folder containing your ",["$","code",null,{"children":"clikkle.config.json"}]," file."]}],["$","$L10",null,{"language":"sh","content":"clikkle pull tables\n","children":"clikkle pull tables\n"}],["$","$Lf",null,{"id":"clikklejson","level":1,"children":"clikkle.config.json "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After ",["$","$Le",null,{"href":"/docs/tooling/command-line/installation#initialization","children":"initializing"}]," your Clikkle project and pulling your existing tables, your ",["$","code",null,{"children":"clikkle.config.json"}]," file should look similar to the following:"]}],["$","$L10",null,{"language":"json","content":"$11","children":"$12"}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]}]]}],"$L1a"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1b",null,{"items":[{"id":"initialize-table","title":"Initialize table","level":1},{"id":"pull-table","title":"Pull table","level":1},{"id":"clikklejson","title":"clikkle.config.json","level":1},{"id":"push-table","title":"Push table","level":1},{"id":"commands","title":"Commands","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+13:["$","$Lf",null,{"id":"push-table","level":1,"children":"Push table "}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the ",["$","code",null,{"children":"push"}]," command in the folder containing your ",["$","code",null,{"children":"clikkle.config.json"}]," file to push the changes you made."]}]
+15:["$","$L10",null,{"language":"sh","content":"clikkle push tables\n","children":"clikkle push tables\n"}]
+16:["$","$Lf",null,{"id":"commands","level":1,"children":"Commands "}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The databases command allows you to create structured tables of rows, queries, and filter lists of rows. Clikkle database CLI commands generally follow the following syntax:"}]
+18:["$","$L10",null,{"language":"sh","content":"clikkle databases [COMMAND] [OPTIONS]\n","children":"clikkle databases [COMMAND] [OPTIONS]\n"}]
+19:["$","$L1f",null,{"children":["$","$L20",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Command"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list-tables [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a list of all tables that belong to the provided databaseId. You can use the search parameter to filter your results."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-table [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Create a new Table. Before using this route, you should create a new database resource using either a ",["$","a",null,{"href":"https://clikkle.io/docs/server/databases#databasesCreateTable","children":"server integration"}]," API or directly from your database console."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"get-table [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get a table by its unique ID. This endpoint response returns a JSON object with the table metadata."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-table [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update a table by its unique ID."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"delete-table [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Delete a table by its unique ID. Only users with write permissions have access to delete this resource."}]}]]}],"$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c"]}]]}]}]
+1a:["$","$L3d",null,{}]
+1e:null
+21:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list-columns [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"List columns in the table."}]}]]}]
+22:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-boolean-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create a boolean column."}]}]]}]
+23:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-boolean-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update a boolean column. Changing the 'default' value will not update already existing rows."}]}]]}]
+24:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-datetime-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create a date time column according to the ISO 8601 standard."}]}]]}]
+25:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-datetime-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update a date time column. Changing the 'default' value will not update already existing rows."}]}]]}]
+26:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-email-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create an email column."}]}]]}]
+27:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-email-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update an email column. Changing the 'default' value will not update already existing rows."}]}]]}]
+28:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-enum-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create an enumeration column. The 'elements' param acts as a white-list of accepted values for this column."}]}]]}]
+29:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-enum-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update an enum column. Changing the 'default' value will not update already existing rows."}]}]]}]
+2a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-float-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create a float column. Optionally, minimum and maximum values can be provided."}]}]]}]
+2b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-float-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update a float column. Changing the 'default' value will not update already existing rows."}]}]]}]
+2c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-integer-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create an integer column. Optionally, minimum and maximum values can be provided."}]}]]}]
+2d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-integer-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update an integer column. Changing the 'default' value will not update already existing rows."}]}]]}]
+2e:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-ip-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create IP address column."}]}]]}]
+2f:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-ip-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update an ip column. Changing the 'default' value will not update already existing rows."}]}]]}]
+30:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-relationship-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Create relationship column. ",["$","a",null,{"href":"https://clikkle.io/docs/databases-relationships#relationship-columns","children":"Learn more about relationship columns"}],"."]}]}]]}]
+31:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-string-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create a string column."}]}]]}]
+32:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-string-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update a string column. Changing the 'default' value will not update already existing rows."}]}]]}]
+33:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-url-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Create a URL column."}]}]]}]
+34:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-url-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Update an url column. Changing the 'default' value will not update already existing rows."}]}]]}]
+35:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"get-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get column by ID."}]}]]}]
+36:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"delete-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Deletes an column."}]}]]}]
+37:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update-relationship-column [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Update relationship column. ",["$","a",null,{"href":"https://clikkle.io/docs/databases-relationships#relationship-columns","children":"Learn more about relationship columns"}],"."]}]}]]}]
+38:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list-indexes [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"List indexes in the table."}]}]]}]
+39:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"create-index [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Creates an index on the columns listed. Your index should include all the columns you will query in a single request. Columns can be 'key', 'fulltext', and 'unique'."}]}]]}]
+3a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"get-index [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get index by ID."}]}]]}]
+3b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"delete-index [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Delete an index."}]}]]}]
+3c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"list-table-logs [options]"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Get the table activity logs list by its unique ID."}]}]]}]

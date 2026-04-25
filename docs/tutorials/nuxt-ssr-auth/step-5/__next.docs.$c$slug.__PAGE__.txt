@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+e:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+5:T71c,---
+layout: tutorial
+title: Create sign up page
+description: Add authentication to a Nuxt project using Clikkle.
+step: 5
+---
+
+We can now implement our sign up page. Create a `signup.vue` file in the `pages` directory.
+
+```vue
+<!-- pages/signup.vue -->
+<template>
+  <form method="post" action="/api/signup">
+    <input id="email" name="email" placeholder="Email" type="email" />
+    <input
+      id="password"
+      name="password"
+      placeholder="Password"
+      type="password"
+    />
+    <button type="submit">Sign up</button>
+  </form>
+</template>
+```
+
+This is an HTML form with an email and password input. When the form is submitted, we want to send the email and password to Clikkle to authenticate the user. To use Nuxt form actions we create a `signup.post.js` file in the `server/api` directory:
+
+```javascript
+// server/api/signup.post.js
+import { ID } from "node-clikkle";
+import { SESSION_COOKIE, createAdminClient } from "~/server/lib/clikkle";
+
+export default defineEventHandler(async (event) => {
+  // Extract the form data
+  const formData = await readFormData(event);
+  const email = formData.get("email");
+  const password = formData.get("password");
+
+  // Create the Clikkle client.
+  const { account } = createAdminClient(event);
+
+  // Create a new user with email and password
+  await account.create({
+    userId: ID.unique(),
+    email,
+    password
+  });
+
+  // Create the session using the client
+  const session = await account.createEmailPasswordSession({
+    email,
+    password
+  });
+
+  // Set the session cookie with the secret
+  setCookie(event, SESSION_COOKIE, session.secret, {
+    expires: new Date(session.expire),
+    path: "/",
+    httpOnly: true,
+    secure: true,
+    sameSite: "strict",
+  });
+
+  // Redirect to the account page.
+  await sendRedirect(event, "/account");
+});
+```
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Server-side authentication with Nuxt","steps":[{"step":1,"title":"Server-side authentication with Nuxt","href":"/docs/tutorials/nuxt-ssr-auth/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":20},{"step":2,"title":"Create project","href":"/docs/tutorials/nuxt-ssr-auth/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":20},{"step":3,"title":"Initialize SDK","href":"/docs/tutorials/nuxt-ssr-auth/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":20},{"step":4,"title":"Add server middleware","href":"/docs/tutorials/nuxt-ssr-auth/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":20},{"step":5,"title":"Create sign up page","href":"/docs/tutorials/nuxt-ssr-auth/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":20},{"step":6,"title":"Create account page","href":"/docs/tutorials/nuxt-ssr-auth/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":20},{"step":7,"title":"OAuth authentication with SSR","href":"/docs/tutorials/nuxt-ssr-auth/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":20},{"step":8,"title":"Enable the sign up and account pages","href":"/docs/tutorials/nuxt-ssr-auth/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":20},{"step":9,"title":"All set","href":"/docs/tutorials/nuxt-ssr-auth/step-9","fileSlug":"step-9","difficulty":"beginner","readtime":20}],"currentStep":5,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:4","back":"/docs/tutorials","copyMarkdown":"$5","children":["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["We can now implement our sign up page. Create a ",["$","code",null,{"children":"signup.vue"}]," file in the ","$L6"," directory."]}],"$L7","$L8","$L9"]}]}]}]}]}],["$La","$Lb","$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+6:["$","code",null,{"children":"pages"}]
+7:["$","$Le",null,{"language":"vue","content":"<!-- pages/signup.vue -->\n<template>\n  <form method=\"post\" action=\"/api/signup\">\n    <input id=\"email\" name=\"email\" placeholder=\"Email\" type=\"email\" />\n    <input\n      id=\"password\"\n      name=\"password\"\n      placeholder=\"Password\"\n      type=\"password\"\n    />\n    <button type=\"submit\">Sign up</button>\n  </form>\n</template>\n","children":"<!-- pages/signup.vue -->\n<template>\n  <form method=\"post\" action=\"/api/signup\">\n    <input id=\"email\" name=\"email\" placeholder=\"Email\" type=\"email\" />\n    <input\n      id=\"password\"\n      name=\"password\"\n      placeholder=\"Password\"\n      type=\"password\"\n    />\n    <button type=\"submit\">Sign up</button>\n  </form>\n</template>\n"}]
+8:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This is an HTML form with an email and password input. When the form is submitted, we want to send the email and password to Clikkle to authenticate the user. To use Nuxt form actions we create a ",["$","code",null,{"children":"signup.post.js"}]," file in the ",["$","code",null,{"children":"server/api"}]," directory:"]}]
+9:["$","$Le",null,{"language":"javascript","content":"// server/api/signup.post.js\nimport { ID } from \"node-clikkle\";\nimport { SESSION_COOKIE, createAdminClient } from \"~/server/lib/clikkle\";\n\nexport default defineEventHandler(async (event) => {\n  // Extract the form data\n  const formData = await readFormData(event);\n  const email = formData.get(\"email\");\n  const password = formData.get(\"password\");\n\n  // Create the Clikkle client.\n  const { account } = createAdminClient(event);\n\n  // Create a new user with email and password\n  await account.create({\n    userId: ID.unique(),\n    email,\n    password\n  });\n\n  // Create the session using the client\n  const session = await account.createEmailPasswordSession({\n    email,\n    password\n  });\n\n  // Set the session cookie with the secret\n  setCookie(event, SESSION_COOKIE, session.secret, {\n    expires: new Date(session.expire),\n    path: \"/\",\n    httpOnly: true,\n    secure: true,\n    sameSite: \"strict\",\n  });\n\n  // Redirect to the account page.\n  await sendRedirect(event, \"/account\");\n});\n","children":"// server/api/signup.post.js\nimport { ID } from \"node-clikkle\";\nimport { SESSION_COOKIE, createAdminClient } from \"~/server/lib/clikkle\";\n\nexport default defineEventHandler(async (event) => {\n  // Extract the form data\n  const formData = await readFormData(event);\n  const email = formData.get(\"email\");\n  const password = formData.get(\"password\");\n\n  // Create the Clikkle client.\n  const { account } = createAdminClient(event);\n\n  // Create a new user with email and password\n  await account.create({\n    userId: ID.unique(),\n    email,\n    password\n  });\n\n  // Create the session using the client\n  const session = await account.createEmailPasswordSession({\n    email,\n    password\n  });\n\n  // Set the session cookie with the secret\n  setCookie(event, SESSION_COOKIE, session.secret, {\n    expires: new Date(session.expire),\n    path: \"/\",\n    httpOnly: true,\n    secure: true,\n    sameSite: \"strict\",\n  });\n\n  // Redirect to the account page.\n  await sendRedirect(event, \"/account\");\n});\n"}]
+a:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+b:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+c:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+d:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

@@ -1,0 +1,823 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+d:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+e:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+11:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1a:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1b:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+22:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T2c1e,---
+layout: article
+title: Integrating LangChain
+description: Learn how to integrate LangChain into your Clikkle project.
+difficulty: intermediate
+readtime: 15
+---
+
+# Prerequisites {% #prerequisites %}
+
+- An Clikkle project
+- An Clikkle table
+- An [OpenAI API key](https://platform.openai.com/account/api-keys)
+- A [Pinecone API key](https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key)
+- A Pinecone index
+
+{% section #step-1 step=1 title="Create new function" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console) then click on **Functions** in the left sidebar and then click on the **Create Function** button.
+
+{% only_dark %}
+![Create function screen](/clikkle/images/docs/functions/dark/template.png)
+{% /only_dark %}
+
+{% only_light %}
+![Create function screen](/clikkle/images/docs/functions/template.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Functions**.
+1. Click **Create function**.
+1. Under **Connect Git repository**, select your provider.
+1. After connecting to GitHub, under **Quick start**, select the **Node.js** starter template.
+1. In the **Variables** step, add the `PINECONE_API_KEY`, generate it [here](https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key). Add the `OPENAI_API_KEY`, generate it [here](https://platform.openai.com/account/api-keys).For the `CLIKKLE_API_KEY`, tick the box to **Generate API key on completion**.
+1. Follow the step-by-step wizard and create the function.
+{% /section %}
+
+{% section #step-2 step=2 title="Add dependencies" %}
+Once the function is created, navigate to the freshly created repository and clone it to your local machine.
+
+Add the following dependencies to the `package.json` file:
+
+```bash
+npm install @pinecone-database/pinecone openai @langchain/core @langchain/openai @langchain/pinecone langchain
+```
+{% /section %}
+
+{% section #step-3 step=3 title="Create utility functions" %}
+For this example, the function will be able to take both `GET` and `POST` requests.
+
+For the `GET` request, return a static HTML page that will have a form to search the Pinecone index. Meanwhile the `POST /search` requests will send the search query to the Pinecone API and return the results.
+All other `POST` requests will trigger the indexing of the Clikkle table into the Pinecone index.
+
+Write the code to return the static HTML page, to do this create a new `src/utils.js` file with the following code:
+
+```js
+import path from 'path';
+import { fileURLToPath } from 'url';
+import fs from 'fs';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const staticFolder = path.join(__dirname, '../static');
+
+export function getStaticFile(fileName) {
+  return fs.readFileSync(path.join(staticFolder, fileName)).toString();
+}
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Handle GET request" %}
+Write the `GET` request handler in the `src/main.js` file. This handler will return a static HTML page you'll create later.
+
+```js
+import { getStaticFile } from './utils.js';
+
+export default async ({ req, res, error }) => {
+  if (req.method === 'GET') {
+    const html = getStaticFile('index.html');
+    return res.text(html, 200, { 'Content-Type': 'text/html; charset=utf-8' });
+  }
+};
+```
+
+The function will throw an error if any of the required environment variables are missing. The function will return the static HTML page when a `GET` request is made.
+{% /section %}
+
+{% section #step-5 step=5 title="Create web page" %}
+Create a HTML web page that the function will serve. Create a new file at `static/index.html` with some HTML boilerplate:
+
+```html
+<!doctype html>
+<html lang="en">
+</html>
+```
+
+Within the `<html>` tag, Add a `<head>` tag that will define the style and scripts.
+
+```html
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pinecone Demo</title>
+
+    <script src="https://unpkg.com/meilisearch@0.34.1"></script>
+    <script src="https://unpkg.com/alpinejs" defer></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
+</head>
+  
+```
+
+And after the `</head>` tag add this `<body>` which will contain the actual form:
+
+```html
+<body>
+    <main class="main-content">
+        <div class="top-cover u-padding-block-end-56">
+        <div class="container">
+            <div
+            class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+            >
+            <h1 class="heading-level-1">Pinecone Demo</h1>
+            <code class="u-un-break-text"></code>
+            </div>
+            <p
+            class="body-text-1 u-normal u-margin-block-start-8"
+            style="max-width: 50rem"
+            >
+            Use this demo to verify that the sync between Clikkle Databases and
+            Pinecone was successful. Search your Pinecone vector database using
+            the input below.
+            </p>
+        </div>
+        </div>
+        <div
+            class="container u-margin-block-start-negative-56"
+            x-data="{ search: '', results: [ ] }"
+            x-init="$watch('search', async (value) => { results = await onSearch(value) })"
+        >
+        <div class="card u-flex u-gap-24 u-flex-vertical">
+            <div id="searchbox">
+            <div
+                class="input-text-wrapper is-with-end-button u-width-full-line"
+            >
+                <input x-model="search" type="search" placeholder="Search" />
+                <div class="icon-search" aria-hidden="true"></div>
+            </div>
+            </div>
+            <div id="hits" class="u-flex u-flex-vertical u-gap-12">
+            <template x-for="result in results">
+                <div class="card">
+                <pre x-text="JSON.stringify(result, null, '\t')"></pre>
+                </div>
+            </template>
+            </div>
+        </div>
+        </div>
+    </main>
+    <script>
+        window.onSearch = async function (prompt) {
+            const response = await fetch('/search', {
+                method: 'POST',
+                body: JSON.stringify({ prompt }),
+                headers: {
+                'Content-Type': 'application/json',
+                },
+            });
+            return response.matches;
+        };
+    </script>
+</body>
+```
+
+This will render a form that will submit your search query to the function and display the results.
+{% /section %}
+
+{% section #step-6 step=6 title="Setup SDKs" %}
+Add methods necessary to integrate with the OpenAI and Pinecone APIs
+
+Import `openai` and `@pinecone-database/pinecone` at the top of the `main.js` file:
+
+```js
+import { Pinecone } from '@pinecone-database/pinecone';
+import { OpenAI } from 'openai';
+```
+
+Add the following code at the end of request handler in the `main.js` file:
+
+```js
+const openai = new OpenAI();
+
+const pinecone = new Pinecone();
+const pineconeIndex = pinecone.index(process.env.PINECONE_INDEX_ID);
+```
+
+The functions checks the request method, and then initializes the OpenAI and Pinecone SDKs.
+{% /section %}
+
+{% section #step-7 step=7 title="Handle prompt requests" %}
+First add the following imports from LangChain:
+
+```js
+import { formatDocumentsAsString } from 'langchain/util/document';
+import { ChatOpenAI } from '@langchain/openai';
+import { PineconeStore } from '@langchain/pinecone';
+import { PromptTemplate } from '@langchain/core/prompts';
+import {
+  RunnableSequence,
+  RunnablePassthrough,
+} from '@langchain/core/runnables';
+import { StringOutputParser } from '@langchain/core/output_parsers';
+```
+
+To handle the prompt requests, add the following code to the end of the request handler in the `main.js` file:
+
+```js
+if (req.path === '/prompt') {
+  if (!req.body.prompt || typeof req.body.prompt !== 'string') {
+    return res.json(
+      { ok: false, error: 'Missing required field `prompt`' },
+      400
+    );
+  }
+
+  const vectorStore = await PineconeStore.fromExistingIndex(
+    new OpenAIEmbeddings(),
+    { pineconeIndex }
+  );
+
+  const prompt = PromptTemplate.fromTemplate(
+    `Answer the question based with following context:{context}\nQuestion: {question}`
+  );
+
+  const chain = RunnableSequence.from([
+    {
+      context: vectorStore.asRetriever().pipe(formatDocumentsAsString),
+      question: new RunnablePassthrough(),
+    },
+    prompt,
+    new ChatOpenAI(),
+    new StringOutputParser(),
+  ]);
+
+  const result = await chain.invoke(req.body.prompt);
+
+  return res.json({ ok: true, completion: result }, 200);
+}
+```
+
+This code will handle the prompt requests by creating a LangChain sequence that will format the rows as strings, prompt the user for a question, and then use the OpenAI API to generate a response. The response is then parsed and returned to the user.
+{% /section %}
+
+{% section #step-8 step=8 title="Handle index requests" %}
+The Clikkle table needs to be indexed into the Pinecone index. Create a new file at `src/clikkle.js` with the following code:
+
+```js
+import { Client, TablesDB, Query } from 'node-clikkle';
+
+export default class ClikkleService {
+  constructor() {
+    const client = new Client();
+    client
+      .setEndpoint(
+        process.env.CLIKKLE_ENDPOINT ?? 'https://<REGION>.cloud.clikkle.io/v1'
+      )
+      .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+      .setKey(process.env.CLIKKLE_API_KEY);
+
+    this.tablesDB = new TablesDB(client);
+  }
+
+  async getAllRows(databaseId, tableId) {
+    const cumulative = [];
+
+    let cursor = null;
+    do {
+      const queries = [Query.limit(100)];
+
+      if (cursor) {
+        queries.push(Query.cursorAfter(cursor));
+      }
+
+      const { rows } = await this.tablesDB.listRows({
+        databaseId,
+        tableId,
+        queries
+      });
+
+      if (rows.length === 0) {
+        break;
+      }
+
+      cursor = rows[rows.length - 1].$id;
+
+      cumulative.push(...rows);
+    } while (cursor);
+
+    return cumulative;
+  }
+}
+```
+
+The service provides a method to iterate the rows contained within an entire table, fetching the limit of 100 rows per request.
+
+```js
+const clikkle = new ClikkleService();
+
+const clikkleRows = await clikkle.getAllRows(
+  process.env.CLIKKLE_DATABASE_ID,
+  process.env.CLIKKLE_TABLE_ID
+);
+
+const rows = clikkleRows.map(
+  (row) =>
+    new Row({
+      metadata: { id: row.$id },
+      pageContent: Object.entries(row)
+        .filter(([key, _]) => !key.startsWith('$'))
+        .map(([key, value]) => `${key}: ${value}`)
+        .join('\n'),
+    })
+);
+
+await PineconeStore.fromDocuments(rows, new OpenAIEmbeddings(), {
+  pineconeIndex,
+  maxConcurrency: 5,
+});
+
+```
+
+Within our function handler, the service is instantiated and used to create an array of LangChain documents. LangChain documents can then be used with the `PineconeStore.fromDocuments` method to retrieve embeddings from OpenAI and upsert them to your Pinecone index.
+{% /section %}
+
+{% section #step-9 step=9 title="Test the function" %}
+Now that the function is deployed, test it by visiting the function URL in your browser.
+This should show the UI created earlier and to test it, write a prompt and click the submit button. After a brief moment you should see the matched results.
+{% /section %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],"$L4","$L5"]}],"$L6","$L7"]}]}],["$L8","$L9","$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+4:["$","ul",null,{"className":"web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50","children":[["$","li",null,{"children":"intermediate"}],["$","li",null,{"className":"text-[var(--color-border-strong)] dark:text-white/25","aria-hidden":true,"children":"•"}],["$","li",null,{"children":[15," min"]}]]}]
+c:T2c1e,---
+layout: article
+title: Integrating LangChain
+description: Learn how to integrate LangChain into your Clikkle project.
+difficulty: intermediate
+readtime: 15
+---
+
+# Prerequisites {% #prerequisites %}
+
+- An Clikkle project
+- An Clikkle table
+- An [OpenAI API key](https://platform.openai.com/account/api-keys)
+- A [Pinecone API key](https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key)
+- A Pinecone index
+
+{% section #step-1 step=1 title="Create new function" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console) then click on **Functions** in the left sidebar and then click on the **Create Function** button.
+
+{% only_dark %}
+![Create function screen](/clikkle/images/docs/functions/dark/template.png)
+{% /only_dark %}
+
+{% only_light %}
+![Create function screen](/clikkle/images/docs/functions/template.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Functions**.
+1. Click **Create function**.
+1. Under **Connect Git repository**, select your provider.
+1. After connecting to GitHub, under **Quick start**, select the **Node.js** starter template.
+1. In the **Variables** step, add the `PINECONE_API_KEY`, generate it [here](https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key). Add the `OPENAI_API_KEY`, generate it [here](https://platform.openai.com/account/api-keys).For the `CLIKKLE_API_KEY`, tick the box to **Generate API key on completion**.
+1. Follow the step-by-step wizard and create the function.
+{% /section %}
+
+{% section #step-2 step=2 title="Add dependencies" %}
+Once the function is created, navigate to the freshly created repository and clone it to your local machine.
+
+Add the following dependencies to the `package.json` file:
+
+```bash
+npm install @pinecone-database/pinecone openai @langchain/core @langchain/openai @langchain/pinecone langchain
+```
+{% /section %}
+
+{% section #step-3 step=3 title="Create utility functions" %}
+For this example, the function will be able to take both `GET` and `POST` requests.
+
+For the `GET` request, return a static HTML page that will have a form to search the Pinecone index. Meanwhile the `POST /search` requests will send the search query to the Pinecone API and return the results.
+All other `POST` requests will trigger the indexing of the Clikkle table into the Pinecone index.
+
+Write the code to return the static HTML page, to do this create a new `src/utils.js` file with the following code:
+
+```js
+import path from 'path';
+import { fileURLToPath } from 'url';
+import fs from 'fs';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const staticFolder = path.join(__dirname, '../static');
+
+export function getStaticFile(fileName) {
+  return fs.readFileSync(path.join(staticFolder, fileName)).toString();
+}
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Handle GET request" %}
+Write the `GET` request handler in the `src/main.js` file. This handler will return a static HTML page you'll create later.
+
+```js
+import { getStaticFile } from './utils.js';
+
+export default async ({ req, res, error }) => {
+  if (req.method === 'GET') {
+    const html = getStaticFile('index.html');
+    return res.text(html, 200, { 'Content-Type': 'text/html; charset=utf-8' });
+  }
+};
+```
+
+The function will throw an error if any of the required environment variables are missing. The function will return the static HTML page when a `GET` request is made.
+{% /section %}
+
+{% section #step-5 step=5 title="Create web page" %}
+Create a HTML web page that the function will serve. Create a new file at `static/index.html` with some HTML boilerplate:
+
+```html
+<!doctype html>
+<html lang="en">
+</html>
+```
+
+Within the `<html>` tag, Add a `<head>` tag that will define the style and scripts.
+
+```html
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pinecone Demo</title>
+
+    <script src="https://unpkg.com/meilisearch@0.34.1"></script>
+    <script src="https://unpkg.com/alpinejs" defer></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink" />
+    <link rel="stylesheet" href="https://unpkg.com/@clikkle.io/pink-icons" />
+</head>
+  
+```
+
+And after the `</head>` tag add this `<body>` which will contain the actual form:
+
+```html
+<body>
+    <main class="main-content">
+        <div class="top-cover u-padding-block-end-56">
+        <div class="container">
+            <div
+            class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+            >
+            <h1 class="heading-level-1">Pinecone Demo</h1>
+            <code class="u-un-break-text"></code>
+            </div>
+            <p
+            class="body-text-1 u-normal u-margin-block-start-8"
+            style="max-width: 50rem"
+            >
+            Use this demo to verify that the sync between Clikkle Databases and
+            Pinecone was successful. Search your Pinecone vector database using
+            the input below.
+            </p>
+        </div>
+        </div>
+        <div
+            class="container u-margin-block-start-negative-56"
+            x-data="{ search: '', results: [ ] }"
+            x-init="$watch('search', async (value) => { results = await onSearch(value) })"
+        >
+        <div class="card u-flex u-gap-24 u-flex-vertical">
+            <div id="searchbox">
+            <div
+                class="input-text-wrapper is-with-end-button u-width-full-line"
+            >
+                <input x-model="search" type="search" placeholder="Search" />
+                <div class="icon-search" aria-hidden="true"></div>
+            </div>
+            </div>
+            <div id="hits" class="u-flex u-flex-vertical u-gap-12">
+            <template x-for="result in results">
+                <div class="card">
+                <pre x-text="JSON.stringify(result, null, '\t')"></pre>
+                </div>
+            </template>
+            </div>
+        </div>
+        </div>
+    </main>
+    <script>
+        window.onSearch = async function (prompt) {
+            const response = await fetch('/search', {
+                method: 'POST',
+                body: JSON.stringify({ prompt }),
+                headers: {
+                'Content-Type': 'application/json',
+                },
+            });
+            return response.matches;
+        };
+    </script>
+</body>
+```
+
+This will render a form that will submit your search query to the function and display the results.
+{% /section %}
+
+{% section #step-6 step=6 title="Setup SDKs" %}
+Add methods necessary to integrate with the OpenAI and Pinecone APIs
+
+Import `openai` and `@pinecone-database/pinecone` at the top of the `main.js` file:
+
+```js
+import { Pinecone } from '@pinecone-database/pinecone';
+import { OpenAI } from 'openai';
+```
+
+Add the following code at the end of request handler in the `main.js` file:
+
+```js
+const openai = new OpenAI();
+
+const pinecone = new Pinecone();
+const pineconeIndex = pinecone.index(process.env.PINECONE_INDEX_ID);
+```
+
+The functions checks the request method, and then initializes the OpenAI and Pinecone SDKs.
+{% /section %}
+
+{% section #step-7 step=7 title="Handle prompt requests" %}
+First add the following imports from LangChain:
+
+```js
+import { formatDocumentsAsString } from 'langchain/util/document';
+import { ChatOpenAI } from '@langchain/openai';
+import { PineconeStore } from '@langchain/pinecone';
+import { PromptTemplate } from '@langchain/core/prompts';
+import {
+  RunnableSequence,
+  RunnablePassthrough,
+} from '@langchain/core/runnables';
+import { StringOutputParser } from '@langchain/core/output_parsers';
+```
+
+To handle the prompt requests, add the following code to the end of the request handler in the `main.js` file:
+
+```js
+if (req.path === '/prompt') {
+  if (!req.body.prompt || typeof req.body.prompt !== 'string') {
+    return res.json(
+      { ok: false, error: 'Missing required field `prompt`' },
+      400
+    );
+  }
+
+  const vectorStore = await PineconeStore.fromExistingIndex(
+    new OpenAIEmbeddings(),
+    { pineconeIndex }
+  );
+
+  const prompt = PromptTemplate.fromTemplate(
+    `Answer the question based with following context:{context}\nQuestion: {question}`
+  );
+
+  const chain = RunnableSequence.from([
+    {
+      context: vectorStore.asRetriever().pipe(formatDocumentsAsString),
+      question: new RunnablePassthrough(),
+    },
+    prompt,
+    new ChatOpenAI(),
+    new StringOutputParser(),
+  ]);
+
+  const result = await chain.invoke(req.body.prompt);
+
+  return res.json({ ok: true, completion: result }, 200);
+}
+```
+
+This code will handle the prompt requests by creating a LangChain sequence that will format the rows as strings, prompt the user for a question, and then use the OpenAI API to generate a response. The response is then parsed and returned to the user.
+{% /section %}
+
+{% section #step-8 step=8 title="Handle index requests" %}
+The Clikkle table needs to be indexed into the Pinecone index. Create a new file at `src/clikkle.js` with the following code:
+
+```js
+import { Client, TablesDB, Query } from 'node-clikkle';
+
+export default class ClikkleService {
+  constructor() {
+    const client = new Client();
+    client
+      .setEndpoint(
+        process.env.CLIKKLE_ENDPOINT ?? 'https://<REGION>.cloud.clikkle.io/v1'
+      )
+      .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)
+      .setKey(process.env.CLIKKLE_API_KEY);
+
+    this.tablesDB = new TablesDB(client);
+  }
+
+  async getAllRows(databaseId, tableId) {
+    const cumulative = [];
+
+    let cursor = null;
+    do {
+      const queries = [Query.limit(100)];
+
+      if (cursor) {
+        queries.push(Query.cursorAfter(cursor));
+      }
+
+      const { rows } = await this.tablesDB.listRows({
+        databaseId,
+        tableId,
+        queries
+      });
+
+      if (rows.length === 0) {
+        break;
+      }
+
+      cursor = rows[rows.length - 1].$id;
+
+      cumulative.push(...rows);
+    } while (cursor);
+
+    return cumulative;
+  }
+}
+```
+
+The service provides a method to iterate the rows contained within an entire table, fetching the limit of 100 rows per request.
+
+```js
+const clikkle = new ClikkleService();
+
+const clikkleRows = await clikkle.getAllRows(
+  process.env.CLIKKLE_DATABASE_ID,
+  process.env.CLIKKLE_TABLE_ID
+);
+
+const rows = clikkleRows.map(
+  (row) =>
+    new Row({
+      metadata: { id: row.$id },
+      pageContent: Object.entries(row)
+        .filter(([key, _]) => !key.startsWith('$'))
+        .map(([key, value]) => `${key}: ${value}`)
+        .join('\n'),
+    })
+);
+
+await PineconeStore.fromDocuments(rows, new OpenAIEmbeddings(), {
+  pineconeIndex,
+  maxConcurrency: 5,
+});
+
+```
+
+Within our function handler, the service is instantiated and used to create an array of LangChain documents. LangChain documents can then be used with the `PineconeStore.fromDocuments` method to retrieve embeddings from OpenAI and upsert them to your Pinecone index.
+{% /section %}
+
+{% section #step-9 step=9 title="Test the function" %}
+Now that the function is deployed, test it by visiting the function URL in your browser.
+This should show the UI created earlier and to test it, write a prompt and click the submit button. After a brief moment you should see the matched results.
+{% /section %}
+
+5:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Integrating LangChain"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$c","className":"ml-0"}]}]]}]
+6:["$","$Ld",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Le",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","$Lf",null,{"id":"prerequisites","level":1,"children":"Prerequisites "}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"An Clikkle project"}],["$","li",null,{"children":"An Clikkle table"}],["$","li",null,{"children":["An ",["$","a",null,{"href":"https://platform.openai.com/account/api-keys","target":"_blank","rel":"noopener nofollow","children":"OpenAI API key"}]]}],["$","li",null,{"children":["A ",["$","a",null,{"href":"https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key","target":"_blank","rel":"noopener nofollow","children":"Pinecone API key"}]]}],["$","li",null,{"children":"A Pinecone index"}]]}],["$","$L10",null,{"id":"step-1","step":1,"title":"Create new function","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to the ",["$","a",null,{"href":"https://cloud.clikkle.io/console","children":"Clikkle Console"}]," then click on ",["$","strong",null,{"children":"Functions"}]," in the left sidebar and then click on the ",["$","strong",null,{"children":"Create Function"}]," button."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/functions/dark/template.png","alt":"Create function screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/functions/template.png","alt":"Create function screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["In the Clikkle Console's sidebar, click ",["$","strong",null,{"children":"Functions"}],"."]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Create function"}],"."]}],["$","li",null,{"children":["Under ",["$","strong",null,{"children":"Connect Git repository"}],", select your provider."]}],["$","li",null,{"children":["After connecting to GitHub, under ",["$","strong",null,{"children":"Quick start"}],", select the ",["$","strong",null,{"children":"Node.js"}]," starter template."]}],["$","li",null,{"children":["In the ",["$","strong",null,{"children":"Variables"}]," step, add the ",["$","code",null,{"children":"PINECONE_API_KEY"}],", generate it ",["$","a",null,{"href":"https://docs.pinecone.io/guides/getting-started/quickstart#2-get-your-api-key","target":"_blank","rel":"noopener nofollow","children":"here"}],". Add the ",["$","code",null,{"children":"OPENAI_API_KEY"}],", generate it ",["$","a",null,{"href":"https://platform.openai.com/account/api-keys","target":"_blank","rel":"noopener nofollow","children":"here"}],".For the ",["$","code",null,{"children":"CLIKKLE_API_KEY"}],", tick the box to ",["$","strong",null,{"children":"Generate API key on completion"}],"."]}],["$","li",null,{"children":"Follow the step-by-step wizard and create the function."}]]}]]}],["$","$L10",null,{"id":"step-2","step":2,"title":"Add dependencies","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Once the function is created, navigate to the freshly created repository and clone it to your local machine."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add the following dependencies to the ",["$","code",null,{"children":"package.json"}]," file:"]}],["$","$L11",null,{"language":"bash","content":"npm install @pinecone-database/pinecone openai @langchain/core @langchain/openai @langchain/pinecone langchain\n","children":"npm install @pinecone-database/pinecone openai @langchain/core @langchain/openai @langchain/pinecone langchain\n"}]]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]}]]}],"$L19"]}]
+7:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1a",null,{"items":[{"id":"prerequisites","title":"Prerequisites","level":1},{"id":"step-1","title":"Create new function","level":2},{"id":"step-2","title":"Add dependencies","level":2},{"id":"step-3","title":"Create utility functions","level":2},{"id":"step-4","title":"Handle GET request","level":2},{"id":"step-5","title":"Create web page","level":2},{"id":"step-6","title":"Setup SDKs","level":2},{"id":"step-7","title":"Handle prompt requests","level":2},{"id":"step-8","title":"Handle index requests","level":2},{"id":"step-9","title":"Test the function","level":2}]}]}]
+8:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+9:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+a:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+b:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+12:["$","$L10",null,{"id":"step-3","step":3,"title":"Create utility functions","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For this example, the function will be able to take both ",["$","code",null,{"children":"GET"}]," and ",["$","code",null,{"children":"POST"}]," requests."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For the ",["$","code",null,{"children":"GET"}]," request, return a static HTML page that will have a form to search the Pinecone index. Meanwhile the ",["$","code",null,{"children":"POST /search"}]," requests will send the search query to the Pinecone API and return the results."," ","All other ",["$","code",null,{"children":"POST"}]," requests will trigger the indexing of the Clikkle table into the Pinecone index."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Write the code to return the static HTML page, to do this create a new ",["$","code",null,{"children":"src/utils.js"}]," file with the following code:"]}],["$","$L11",null,{"language":"js","content":"import path from 'path';\nimport { fileURLToPath } from 'url';\nimport fs from 'fs';\n\nconst __filename = fileURLToPath(import.meta.url);\nconst __dirname = path.dirname(__filename);\nconst staticFolder = path.join(__dirname, '../static');\n\nexport function getStaticFile(fileName) {\n  return fs.readFileSync(path.join(staticFolder, fileName)).toString();\n}\n","children":"import path from 'path';\nimport { fileURLToPath } from 'url';\nimport fs from 'fs';\n\nconst __filename = fileURLToPath(import.meta.url);\nconst __dirname = path.dirname(__filename);\nconst staticFolder = path.join(__dirname, '../static');\n\nexport function getStaticFile(fileName) {\n  return fs.readFileSync(path.join(staticFolder, fileName)).toString();\n}\n"}]]}]
+13:["$","$L10",null,{"id":"step-4","step":4,"title":"Handle GET request","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Write the ",["$","code",null,{"children":"GET"}]," request handler in the ",["$","code",null,{"children":"src/main.js"}]," file. This handler will return a static HTML page you'll create later."]}],["$","$L11",null,{"language":"js","content":"import { getStaticFile } from './utils.js';\n\nexport default async ({ req, res, error }) => {\n  if (req.method === 'GET') {\n    const html = getStaticFile('index.html');\n    return res.text(html, 200, { 'Content-Type': 'text/html; charset=utf-8' });\n  }\n};\n","children":"import { getStaticFile } from './utils.js';\n\nexport default async ({ req, res, error }) => {\n  if (req.method === 'GET') {\n    const html = getStaticFile('index.html');\n    return res.text(html, 200, { 'Content-Type': 'text/html; charset=utf-8' });\n  }\n};\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The function will throw an error if any of the required environment variables are missing. The function will return the static HTML page when a ",["$","code",null,{"children":"GET"}]," request is made."]}]]}]
+1e:T810,<body>
+    <main class="main-content">
+        <div class="top-cover u-padding-block-end-56">
+        <div class="container">
+            <div
+            class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+            >
+            <h1 class="heading-level-1">Pinecone Demo</h1>
+            <code class="u-un-break-text"></code>
+            </div>
+            <p
+            class="body-text-1 u-normal u-margin-block-start-8"
+            style="max-width: 50rem"
+            >
+            Use this demo to verify that the sync between Clikkle Databases and
+            Pinecone was successful. Search your Pinecone vector database using
+            the input below.
+            </p>
+        </div>
+        </div>
+        <div
+            class="container u-margin-block-start-negative-56"
+            x-data="{ search: '', results: [ ] }"
+            x-init="$watch('search', async (value) => { results = await onSearch(value) })"
+        >
+        <div class="card u-flex u-gap-24 u-flex-vertical">
+            <div id="searchbox">
+            <div
+                class="input-text-wrapper is-with-end-button u-width-full-line"
+            >
+                <input x-model="search" type="search" placeholder="Search" />
+                <div class="icon-search" aria-hidden="true"></div>
+            </div>
+            </div>
+            <div id="hits" class="u-flex u-flex-vertical u-gap-12">
+            <template x-for="result in results">
+                <div class="card">
+                <pre x-text="JSON.stringify(result, null, '\t')"></pre>
+                </div>
+            </template>
+            </div>
+        </div>
+        </div>
+    </main>
+    <script>
+        window.onSearch = async function (prompt) {
+            const response = await fetch('/search', {
+                method: 'POST',
+                body: JSON.stringify({ prompt }),
+                headers: {
+                'Content-Type': 'application/json',
+                },
+            });
+            return response.matches;
+        };
+    </script>
+</body>
+1f:T810,<body>
+    <main class="main-content">
+        <div class="top-cover u-padding-block-end-56">
+        <div class="container">
+            <div
+            class="u-flex u-gap-16 u-flex-justify-center u-margin-block-start-16"
+            >
+            <h1 class="heading-level-1">Pinecone Demo</h1>
+            <code class="u-un-break-text"></code>
+            </div>
+            <p
+            class="body-text-1 u-normal u-margin-block-start-8"
+            style="max-width: 50rem"
+            >
+            Use this demo to verify that the sync between Clikkle Databases and
+            Pinecone was successful. Search your Pinecone vector database using
+            the input below.
+            </p>
+        </div>
+        </div>
+        <div
+            class="container u-margin-block-start-negative-56"
+            x-data="{ search: '', results: [ ] }"
+            x-init="$watch('search', async (value) => { results = await onSearch(value) })"
+        >
+        <div class="card u-flex u-gap-24 u-flex-vertical">
+            <div id="searchbox">
+            <div
+                class="input-text-wrapper is-with-end-button u-width-full-line"
+            >
+                <input x-model="search" type="search" placeholder="Search" />
+                <div class="icon-search" aria-hidden="true"></div>
+            </div>
+            </div>
+            <div id="hits" class="u-flex u-flex-vertical u-gap-12">
+            <template x-for="result in results">
+                <div class="card">
+                <pre x-text="JSON.stringify(result, null, '\t')"></pre>
+                </div>
+            </template>
+            </div>
+        </div>
+        </div>
+    </main>
+    <script>
+        window.onSearch = async function (prompt) {
+            const response = await fetch('/search', {
+                method: 'POST',
+                body: JSON.stringify({ prompt }),
+                headers: {
+                'Content-Type': 'application/json',
+                },
+            });
+            return response.matches;
+        };
+    </script>
+</body>
+14:["$","$L10",null,{"id":"step-5","step":5,"title":"Create web page","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a HTML web page that the function will serve. Create a new file at ",["$","code",null,{"children":"static/index.html"}]," with some HTML boilerplate:"]}],["$","$L11",null,{"language":"html","content":"<!doctype html>\n<html lang=\"en\">\n</html>\n","children":"<!doctype html>\n<html lang=\"en\">\n</html>\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Within the ",["$","code",null,{"children":"<html>"}]," tag, Add a ",["$","code",null,{"children":"<head>"}]," tag that will define the style and scripts."]}],["$","$L11",null,{"language":"html","content":"<head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Pinecone Demo</title>\n\n    <script src=\"https://unpkg.com/meilisearch@0.34.1\"></script>\n    <script src=\"https://unpkg.com/alpinejs\" defer></script>\n\n    <link rel=\"stylesheet\" href=\"https://unpkg.com/@clikkle.io/pink\" />\n    <link rel=\"stylesheet\" href=\"https://unpkg.com/@clikkle.io/pink-icons\" />\n</head>\n  \n","children":"<head>\n    <meta charset=\"UTF-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Pinecone Demo</title>\n\n    <script src=\"https://unpkg.com/meilisearch@0.34.1\"></script>\n    <script src=\"https://unpkg.com/alpinejs\" defer></script>\n\n    <link rel=\"stylesheet\" href=\"https://unpkg.com/@clikkle.io/pink\" />\n    <link rel=\"stylesheet\" href=\"https://unpkg.com/@clikkle.io/pink-icons\" />\n</head>\n  \n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["And after the ",["$","code",null,{"children":"</head>"}]," tag add this ",["$","code",null,{"children":"<body>"}]," which will contain the actual form:"]}],["$","$L11",null,{"language":"html","content":"$1e","children":"$1f"}],"$L20"]}]
+15:["$","$L10",null,{"id":"step-6","step":6,"title":"Setup SDKs","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Add methods necessary to integrate with the OpenAI and Pinecone APIs"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Import ",["$","code",null,{"children":"openai"}]," and ",["$","code",null,{"children":"@pinecone-database/pinecone"}]," at the top of the ",["$","code",null,{"children":"main.js"}]," file:"]}],["$","$L11",null,{"language":"js","content":"import { Pinecone } from '@pinecone-database/pinecone';\nimport { OpenAI } from 'openai';\n","children":"import { Pinecone } from '@pinecone-database/pinecone';\nimport { OpenAI } from 'openai';\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add the following code at the end of request handler in the ",["$","code",null,{"children":"main.js"}]," file:"]}],["$","$L11",null,{"language":"js","content":"const openai = new OpenAI();\n\nconst pinecone = new Pinecone();\nconst pineconeIndex = pinecone.index(process.env.PINECONE_INDEX_ID);\n","children":"const openai = new OpenAI();\n\nconst pinecone = new Pinecone();\nconst pineconeIndex = pinecone.index(process.env.PINECONE_INDEX_ID);\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The functions checks the request method, and then initializes the OpenAI and Pinecone SDKs."}]]}]
+16:["$","$L10",null,{"id":"step-7","step":7,"title":"Handle prompt requests","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"First add the following imports from LangChain:"}],["$","$L11",null,{"language":"js","content":"import { formatDocumentsAsString } from 'langchain/util/document';\nimport { ChatOpenAI } from '@langchain/openai';\nimport { PineconeStore } from '@langchain/pinecone';\nimport { PromptTemplate } from '@langchain/core/prompts';\nimport {\n  RunnableSequence,\n  RunnablePassthrough,\n} from '@langchain/core/runnables';\nimport { StringOutputParser } from '@langchain/core/output_parsers';\n","children":"import { formatDocumentsAsString } from 'langchain/util/document';\nimport { ChatOpenAI } from '@langchain/openai';\nimport { PineconeStore } from '@langchain/pinecone';\nimport { PromptTemplate } from '@langchain/core/prompts';\nimport {\n  RunnableSequence,\n  RunnablePassthrough,\n} from '@langchain/core/runnables';\nimport { StringOutputParser } from '@langchain/core/output_parsers';\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To handle the prompt requests, add the following code to the end of the request handler in the ",["$","code",null,{"children":"main.js"}]," file:"]}],["$","$L11",null,{"language":"js","content":"if (req.path === '/prompt') {\n  if (!req.body.prompt || typeof req.body.prompt !== 'string') {\n    return res.json(\n      { ok: false, error: 'Missing required field `prompt`' },\n      400\n    );\n  }\n\n  const vectorStore = await PineconeStore.fromExistingIndex(\n    new OpenAIEmbeddings(),\n    { pineconeIndex }\n  );\n\n  const prompt = PromptTemplate.fromTemplate(\n    `Answer the question based with following context:{context}\\nQuestion: {question}`\n  );\n\n  const chain = RunnableSequence.from([\n    {\n      context: vectorStore.asRetriever().pipe(formatDocumentsAsString),\n      question: new RunnablePassthrough(),\n    },\n    prompt,\n    new ChatOpenAI(),\n    new StringOutputParser(),\n  ]);\n\n  const result = await chain.invoke(req.body.prompt);\n\n  return res.json({ ok: true, completion: result }, 200);\n}\n","children":"if (req.path === '/prompt') {\n  if (!req.body.prompt || typeof req.body.prompt !== 'string') {\n    return res.json(\n      { ok: false, error: 'Missing required field `prompt`' },\n      400\n    );\n  }\n\n  const vectorStore = await PineconeStore.fromExistingIndex(\n    new OpenAIEmbeddings(),\n    { pineconeIndex }\n  );\n\n  const prompt = PromptTemplate.fromTemplate(\n    `Answer the question based with following context:{context}\\nQuestion: {question}`\n  );\n\n  const chain = RunnableSequence.from([\n    {\n      context: vectorStore.asRetriever().pipe(formatDocumentsAsString),\n      question: new RunnablePassthrough(),\n    },\n    prompt,\n    new ChatOpenAI(),\n    new StringOutputParser(),\n  ]);\n\n  const result = await chain.invoke(req.body.prompt);\n\n  return res.json({ ok: true, completion: result }, 200);\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This code will handle the prompt requests by creating a LangChain sequence that will format the rows as strings, prompt the user for a question, and then use the OpenAI API to generate a response. The response is then parsed and returned to the user."}]]}]
+17:["$","$L10",null,{"id":"step-8","step":8,"title":"Handle index requests","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The Clikkle table needs to be indexed into the Pinecone index. Create a new file at ",["$","code",null,{"children":"src/clikkle.js"}]," with the following code:"]}],["$","$L11",null,{"language":"js","content":"import { Client, TablesDB, Query } from 'node-clikkle';\n\nexport default class ClikkleService {\n  constructor() {\n    const client = new Client();\n    client\n      .setEndpoint(\n        process.env.CLIKKLE_ENDPOINT ?? 'https://<REGION>.cloud.clikkle.io/v1'\n      )\n      .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)\n      .setKey(process.env.CLIKKLE_API_KEY);\n\n    this.tablesDB = new TablesDB(client);\n  }\n\n  async getAllRows(databaseId, tableId) {\n    const cumulative = [];\n\n    let cursor = null;\n    do {\n      const queries = [Query.limit(100)];\n\n      if (cursor) {\n        queries.push(Query.cursorAfter(cursor));\n      }\n\n      const { rows } = await this.tablesDB.listRows({\n        databaseId,\n        tableId,\n        queries\n      });\n\n      if (rows.length === 0) {\n        break;\n      }\n\n      cursor = rows[rows.length - 1].$id;\n\n      cumulative.push(...rows);\n    } while (cursor);\n\n    return cumulative;\n  }\n}\n","children":"import { Client, TablesDB, Query } from 'node-clikkle';\n\nexport default class ClikkleService {\n  constructor() {\n    const client = new Client();\n    client\n      .setEndpoint(\n        process.env.CLIKKLE_ENDPOINT ?? 'https://<REGION>.cloud.clikkle.io/v1'\n      )\n      .setProject(process.env.CLIKKLE_FUNCTION_PROJECT_ID)\n      .setKey(process.env.CLIKKLE_API_KEY);\n\n    this.tablesDB = new TablesDB(client);\n  }\n\n  async getAllRows(databaseId, tableId) {\n    const cumulative = [];\n\n    let cursor = null;\n    do {\n      const queries = [Query.limit(100)];\n\n      if (cursor) {\n        queries.push(Query.cursorAfter(cursor));\n      }\n\n      const { rows } = await this.tablesDB.listRows({\n        databaseId,\n        tableId,\n        queries\n      });\n\n      if (rows.length === 0) {\n        break;\n      }\n\n      cursor = rows[rows.length - 1].$id;\n\n      cumulative.push(...rows);\n    } while (cursor);\n\n    return cumulative;\n  }\n}\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The service provides a method to iterate the rows contained within an entire table, fetching the limit of 100 rows per request."}],["$","$L11",null,{"language":"js","content":"const clikkle = new ClikkleService();\n\nconst clikkleRows = await clikkle.getAllRows(\n  process.env.CLIKKLE_DATABASE_ID,\n  process.env.CLIKKLE_TABLE_ID\n);\n\nconst rows = clikkleRows.map(\n  (row) =>\n    new Row({\n      metadata: { id: row.$id },\n      pageContent: Object.entries(row)\n        .filter(([key, _]) => !key.startsWith('$'))\n        .map(([key, value]) => `${key}: ${value}`)\n        .join('\\n'),\n    })\n);\n\nawait PineconeStore.fromDocuments(rows, new OpenAIEmbeddings(), {\n  pineconeIndex,\n  maxConcurrency: 5,\n});\n\n","children":"const clikkle = new ClikkleService();\n\nconst clikkleRows = await clikkle.getAllRows(\n  process.env.CLIKKLE_DATABASE_ID,\n  process.env.CLIKKLE_TABLE_ID\n);\n\nconst rows = clikkleRows.map(\n  (row) =>\n    new Row({\n      metadata: { id: row.$id },\n      pageContent: Object.entries(row)\n        .filter(([key, _]) => !key.startsWith('$'))\n        .map(([key, value]) => `${key}: ${value}`)\n        .join('\\n'),\n    })\n);\n\nawait PineconeStore.fromDocuments(rows, new OpenAIEmbeddings(), {\n  pineconeIndex,\n  maxConcurrency: 5,\n});\n\n"}],"$L21"]}]
+18:["$","$L10",null,{"id":"step-9","step":9,"title":"Test the function","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now that the function is deployed, test it by visiting the function URL in your browser."," ","This should show the UI created earlier and to test it, write a prompt and click the submit button. After a brief moment you should see the matched results."]}]}]
+19:["$","$L22",null,{}]
+1d:null
+20:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This will render a form that will submit your search query to the function and display the results."}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Within our function handler, the service is instantiated and used to create an array of LangChain documents. LangChain documents can then be used with the ",["$","code",null,{"children":"PineconeStore.fromDocuments"}]," method to retrieve embeddings from OpenAI and upsert them to your Pinecone index."]}]

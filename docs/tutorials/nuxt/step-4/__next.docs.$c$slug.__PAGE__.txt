@@ -1,0 +1,557 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+c:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+5:T1950,---
+layout: tutorial
+title: Add authentication
+description: Add authentication to your Nuxt application using Clikkle Web SDK
+step: 4
+---
+
+For our ideas tracker app, we want any visitor to be able to read the ideas that are stored.
+On the other hand, we don't want the page spammed with just about anything from anyone just stopping by.
+To prevent that, or at least making it a bit more difficult, editing ideas will be available for logged in users only.
+With a login function, we can differentiate between users and decide which users have access to which content.
+
+We will build a page with a simple login form and store its related logic in a `useUserSession` composable so it can be reused, starting with the composable.
+
+## User session composable {% #user-session-composable %}
+
+There are a few standard functions involved in handling a user session that are added to the composable.
+The user needs to be able to register to an account, login to the account and logout from it.
+
+We are using Clikkle as a backend to handle the user details, so we need to connect to Clikkle by importing the configurations from step 3.
+The response from these interactions will be stored as references to get more information about the user in our app.
+
+In your `composable` directory, create the file `useUserSession.js` and add the following code.
+
+```ts
+// composable/useUserSession.ts
+
+import { ID } from "clikkle";
+import { ref } from "vue";
+import { account } from "../clikkle";
+import { type Models } from 'clikkle';
+
+const current = ref<Models.Session | null>(null); // Reference to current user object
+
+export const useUserSession = () =>  {
+    const register = async (email: string, password: string): Promise<void> => {
+        await account.create({
+            userId: ID.unique(),
+            email,
+            password
+        }); // Register new user in Clikkle
+        await login(email, password); // Login registered user
+    };
+
+    const login = async (email: string, password: string): Promise<void> => {
+        const authUser = await account.createEmailPasswordSession({
+            email,
+            password
+        }); // Open user session in Clikkle
+        current.value = authUser; // Pass user data to current ref
+        navigateTo("/");
+    };
+
+    const logout = async (): Promise<void> => {
+        await account.deleteSession({
+            sessionId: "current"
+        }); // Delete Clikkle user session
+        current.value = null; // Clear current ref
+        navigateTo("/");
+    };
+
+    // Check if already logged in to initialize the store.
+    account.getSession({
+        sessionId: 'current'
+    }).then((user: Models.Session) => {
+        current.value = user;
+    });
+
+    return {
+        current,
+        login,
+        logout,
+        register,
+    };
+};
+```
+
+Then you can call the  `useUserSession()` function in the pages and components to use the functionality.
+
+## Login page {% #login-page %}
+
+Create a new file in the `pages` directory called `login.vue`.
+This will not only create a new page, it will also add the route `/login` to the url.
+In step 5 we will add a login button that will redirect us to this page.
+
+We will define functions to handle form submissions and show either a signup
+or a login form.
+
+```vue
+<!-- pages/login.vue -->
+<script setup>
+import { ref } from 'vue';
+
+// Access user composable functions
+const user = useUserSession();
+
+const isSignUp = ref(false);
+
+// Login user event handler
+const handleLogin = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  await user.login(formData.get('email'), formData.get('password'));
+
+  form.reset(); // Clear the form
+};
+
+const handleRegistration = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  await user.register(formData.get('email'), formData.get('password'));
+
+  form.reset(); // Clear the form
+};
+</script>
+
+<template>
+  <div class="u-max-width-650" style="margin: 0 auto;">
+    <section class="card u-margin-32">
+      <h2 class="eyebrow-heading-2">Login/Register</h2>
+      <AuthForm v-if="isSignUp" :handle-submit="handleRegistration" submit-type="Sign Up"></AuthForm>
+      <AuthForm v-else :handle-submit="handleLogin" submit-type="Log In"></AuthForm>
+      <button v-if="isSignUp" @click="isSignUp = false" class="u-margin-block-start-16">
+        Already have an account? Log in
+      </button>
+      <button v-else @click="isSignUp = true" class="u-margin-block-start-16">
+        Don't have an account? Sign up
+      </button>
+    </section>
+  </div>
+</template>
+```
+
+This page renders a login or sign up form depending on `isSignUp`'s state.
+We will also show buttons to toggle between the two different types of forms.
+
+## Authentication forms {% #auth-forms %}
+
+In the previous step, we defined a `AuthForm` to handle signup and login.
+Let's build this form now.
+
+Create a new file `components/authForm.vue` and add the following code.
+The handle submit and submit type are props passed from `pages/login.vue`
+
+```html
+<!-- components/authForm.vue -->
+
+<template>
+<form
+  class="form u-width-full-line u-max-width-500 u-margin-block-start-16"
+  @submit.prevent="handleSubmit"
+>
+  <ul class="form-list">
+    <!-- Input field e-mail -->
+    <li class="form-item">
+      <label class="label">Email</label>
+      <div class="input-text-wrapper">
+        <input
+          type="email"
+          name="email"
+          class="input-text"
+          placeholder="Email"
+          required
+        />
+      </div>
+    </li>
+    <!-- Input field e-mail -->
+    <li class="form-item">
+      <label class="label">Password</label>
+      <div class="input-text-wrapper">
+        <input
+          type="password"
+          name="password"
+          class="input-text"
+          placeholder="Password"
+          required
+        />
+      </div>
+    </li>
+  </ul>
+  <ul class="buttons-list u-margin-block-start-16">
+    <!-- Login button  -->
+    <li class="buttons-list-item">
+      <button
+        class="button is-small u-margin-inline-start-4"
+        aria-label="Login"
+        @click="handleSubmit"
+      >
+        {{submitType}}
+      </button>
+    </li>
+  </ul>
+</form>
+</template>
+
+<script setup>
+import { defineProps } from 'vue'
+
+const props = defineProps({
+  handleSubmit: {
+    type: Function,
+    required: true
+  },
+  submitType: {
+    type: String,
+    required: true
+  }
+})
+</script>
+```
+
+Go to the browser and add `/login` to the url to check out the new page.
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Build an ideas tracker with Nuxt","steps":[{"step":1,"title":"Build an ideas tracker with Nuxt","href":"/docs/tutorials/nuxt/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":25},{"step":2,"title":"Create app","href":"/docs/tutorials/nuxt/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":25},{"step":3,"title":"Set up Clikkle","href":"/docs/tutorials/nuxt/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":25},{"step":4,"title":"Add authentication","href":"/docs/tutorials/nuxt/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":25},{"step":5,"title":"Add navigation","href":"/docs/tutorials/nuxt/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":25},{"step":6,"title":"Add database","href":"/docs/tutorials/nuxt/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":25},{"step":7,"title":"Ideas page","href":"/docs/tutorials/nuxt/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":25},{"step":8,"title":"Next steps","href":"/docs/tutorials/nuxt/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":25}],"currentStep":4,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:3","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+d:T5ab,// composable/useUserSession.ts
+
+import { ID } from "clikkle";
+import { ref } from "vue";
+import { account } from "../clikkle";
+import { type Models } from 'clikkle';
+
+const current = ref<Models.Session | null>(null); // Reference to current user object
+
+export const useUserSession = () =>  {
+    const register = async (email: string, password: string): Promise<void> => {
+        await account.create({
+            userId: ID.unique(),
+            email,
+            password
+        }); // Register new user in Clikkle
+        await login(email, password); // Login registered user
+    };
+
+    const login = async (email: string, password: string): Promise<void> => {
+        const authUser = await account.createEmailPasswordSession({
+            email,
+            password
+        }); // Open user session in Clikkle
+        current.value = authUser; // Pass user data to current ref
+        navigateTo("/");
+    };
+
+    const logout = async (): Promise<void> => {
+        await account.deleteSession({
+            sessionId: "current"
+        }); // Delete Clikkle user session
+        current.value = null; // Clear current ref
+        navigateTo("/");
+    };
+
+    // Check if already logged in to initialize the store.
+    account.getSession({
+        sessionId: 'current'
+    }).then((user: Models.Session) => {
+        current.value = user;
+    });
+
+    return {
+        current,
+        login,
+        logout,
+        register,
+    };
+};
+e:T5ab,// composable/useUserSession.ts
+
+import { ID } from "clikkle";
+import { ref } from "vue";
+import { account } from "../clikkle";
+import { type Models } from 'clikkle';
+
+const current = ref<Models.Session | null>(null); // Reference to current user object
+
+export const useUserSession = () =>  {
+    const register = async (email: string, password: string): Promise<void> => {
+        await account.create({
+            userId: ID.unique(),
+            email,
+            password
+        }); // Register new user in Clikkle
+        await login(email, password); // Login registered user
+    };
+
+    const login = async (email: string, password: string): Promise<void> => {
+        const authUser = await account.createEmailPasswordSession({
+            email,
+            password
+        }); // Open user session in Clikkle
+        current.value = authUser; // Pass user data to current ref
+        navigateTo("/");
+    };
+
+    const logout = async (): Promise<void> => {
+        await account.deleteSession({
+            sessionId: "current"
+        }); // Delete Clikkle user session
+        current.value = null; // Clear current ref
+        navigateTo("/");
+    };
+
+    // Check if already logged in to initialize the store.
+    account.getSession({
+        sessionId: 'current'
+    }).then((user: Models.Session) => {
+        current.value = user;
+    });
+
+    return {
+        current,
+        login,
+        logout,
+        register,
+    };
+};
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For our ideas tracker app, we want any visitor to be able to read the ideas that are stored."," ","On the other hand, we don't want the page spammed with just about anything from anyone just stopping by."," ","To prevent that, or at least making it a bit more difficult, editing ideas will be available for logged in users only."," ","With a login function, we can differentiate between users and decide which users have access to which content."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["We will build a page with a simple login form and store its related logic in a ",["$","code",null,{"children":"useUserSession"}]," composable so it can be reused, starting with the composable."]}],["$","$Lb",null,{"id":"user-session-composable","level":2,"children":"User session composable "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["There are a few standard functions involved in handling a user session that are added to the composable."," ","The user needs to be able to register to an account, login to the account and logout from it."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["We are using Clikkle as a backend to handle the user details, so we need to connect to Clikkle by importing the configurations from step 3."," ","The response from these interactions will be stored as references to get more information about the user in our app."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In your ",["$","code",null,{"children":"composable"}]," directory, create the file ",["$","code",null,{"children":"useUserSession.js"}]," and add the following code."]}],["$","$Lc",null,{"language":"ts","content":"$d","children":"$e"}],"$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then you can call the  ",["$","code",null,{"children":"useUserSession()"}]," function in the pages and components to use the functionality."]}]
+10:["$","$Lb",null,{"id":"login-page","level":2,"children":"Login page "}]
+11:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file in the ",["$","code",null,{"children":"pages"}]," directory called ",["$","code",null,{"children":"login.vue"}],"."," ","This will not only create a new page, it will also add the route ",["$","code",null,{"children":"/login"}]," to the url."," ","In step 5 we will add a login button that will redirect us to this page."]}]
+12:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["We will define functions to handle form submissions and show either a signup"," ","or a login form."]}]
+1d:T51e,<!-- pages/login.vue -->
+<script setup>
+import { ref } from 'vue';
+
+// Access user composable functions
+const user = useUserSession();
+
+const isSignUp = ref(false);
+
+// Login user event handler
+const handleLogin = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  await user.login(formData.get('email'), formData.get('password'));
+
+  form.reset(); // Clear the form
+};
+
+const handleRegistration = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  await user.register(formData.get('email'), formData.get('password'));
+
+  form.reset(); // Clear the form
+};
+</script>
+
+<template>
+  <div class="u-max-width-650" style="margin: 0 auto;">
+    <section class="card u-margin-32">
+      <h2 class="eyebrow-heading-2">Login/Register</h2>
+      <AuthForm v-if="isSignUp" :handle-submit="handleRegistration" submit-type="Sign Up"></AuthForm>
+      <AuthForm v-else :handle-submit="handleLogin" submit-type="Log In"></AuthForm>
+      <button v-if="isSignUp" @click="isSignUp = false" class="u-margin-block-start-16">
+        Already have an account? Log in
+      </button>
+      <button v-else @click="isSignUp = true" class="u-margin-block-start-16">
+        Don't have an account? Sign up
+      </button>
+    </section>
+  </div>
+</template>
+1e:T51e,<!-- pages/login.vue -->
+<script setup>
+import { ref } from 'vue';
+
+// Access user composable functions
+const user = useUserSession();
+
+const isSignUp = ref(false);
+
+// Login user event handler
+const handleLogin = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  await user.login(formData.get('email'), formData.get('password'));
+
+  form.reset(); // Clear the form
+};
+
+const handleRegistration = async (event) => {
+  const form = event.target;
+  const formData = new FormData(form);
+
+  await user.register(formData.get('email'), formData.get('password'));
+
+  form.reset(); // Clear the form
+};
+</script>
+
+<template>
+  <div class="u-max-width-650" style="margin: 0 auto;">
+    <section class="card u-margin-32">
+      <h2 class="eyebrow-heading-2">Login/Register</h2>
+      <AuthForm v-if="isSignUp" :handle-submit="handleRegistration" submit-type="Sign Up"></AuthForm>
+      <AuthForm v-else :handle-submit="handleLogin" submit-type="Log In"></AuthForm>
+      <button v-if="isSignUp" @click="isSignUp = false" class="u-margin-block-start-16">
+        Already have an account? Log in
+      </button>
+      <button v-else @click="isSignUp = true" class="u-margin-block-start-16">
+        Don't have an account? Sign up
+      </button>
+    </section>
+  </div>
+</template>
+13:["$","$Lc",null,{"language":"vue","content":"$1d","children":"$1e"}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This page renders a login or sign up form depending on ",["$","code",null,{"children":"isSignUp"}],"'s state."," ","We will also show buttons to toggle between the two different types of forms."]}]
+15:["$","$Lb",null,{"id":"auth-forms","level":2,"children":"Authentication forms "}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In the previous step, we defined a ",["$","code",null,{"children":"AuthForm"}]," to handle signup and login."," ","Let's build this form now."]}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file ",["$","code",null,{"children":"components/authForm.vue"}]," and add the following code."," ","The handle submit and submit type are props passed from ",["$","code",null,{"children":"pages/login.vue"}]]}]
+1f:T555,<!-- components/authForm.vue -->
+
+<template>
+<form
+  class="form u-width-full-line u-max-width-500 u-margin-block-start-16"
+  @submit.prevent="handleSubmit"
+>
+  <ul class="form-list">
+    <!-- Input field e-mail -->
+    <li class="form-item">
+      <label class="label">Email</label>
+      <div class="input-text-wrapper">
+        <input
+          type="email"
+          name="email"
+          class="input-text"
+          placeholder="Email"
+          required
+        />
+      </div>
+    </li>
+    <!-- Input field e-mail -->
+    <li class="form-item">
+      <label class="label">Password</label>
+      <div class="input-text-wrapper">
+        <input
+          type="password"
+          name="password"
+          class="input-text"
+          placeholder="Password"
+          required
+        />
+      </div>
+    </li>
+  </ul>
+  <ul class="buttons-list u-margin-block-start-16">
+    <!-- Login button  -->
+    <li class="buttons-list-item">
+      <button
+        class="button is-small u-margin-inline-start-4"
+        aria-label="Login"
+        @click="handleSubmit"
+      >
+        {{submitType}}
+      </button>
+    </li>
+  </ul>
+</form>
+</template>
+
+<script setup>
+import { defineProps } from 'vue'
+
+const props = defineProps({
+  handleSubmit: {
+    type: Function,
+    required: true
+  },
+  submitType: {
+    type: String,
+    required: true
+  }
+})
+</script>
+20:T555,<!-- components/authForm.vue -->
+
+<template>
+<form
+  class="form u-width-full-line u-max-width-500 u-margin-block-start-16"
+  @submit.prevent="handleSubmit"
+>
+  <ul class="form-list">
+    <!-- Input field e-mail -->
+    <li class="form-item">
+      <label class="label">Email</label>
+      <div class="input-text-wrapper">
+        <input
+          type="email"
+          name="email"
+          class="input-text"
+          placeholder="Email"
+          required
+        />
+      </div>
+    </li>
+    <!-- Input field e-mail -->
+    <li class="form-item">
+      <label class="label">Password</label>
+      <div class="input-text-wrapper">
+        <input
+          type="password"
+          name="password"
+          class="input-text"
+          placeholder="Password"
+          required
+        />
+      </div>
+    </li>
+  </ul>
+  <ul class="buttons-list u-margin-block-start-16">
+    <!-- Login button  -->
+    <li class="buttons-list-item">
+      <button
+        class="button is-small u-margin-inline-start-4"
+        aria-label="Login"
+        @click="handleSubmit"
+      >
+        {{submitType}}
+      </button>
+    </li>
+  </ul>
+</form>
+</template>
+
+<script setup>
+import { defineProps } from 'vue'
+
+const props = defineProps({
+  handleSubmit: {
+    type: Function,
+    required: true
+  },
+  submitType: {
+    type: String,
+    required: true
+  }
+})
+</script>
+18:["$","$Lc",null,{"language":"html","content":"$1f","children":"$20"}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Go to the browser and add ",["$","code",null,{"children":"/login"}]," to the url to check out the new page."]}]
+1c:null

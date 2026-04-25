@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+b:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+c:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+d:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+e:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+f:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+10:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+3:T7ba,---
+layout: article
+title: Transport Layer Security (TLS)
+description: Learn how Clikkle uses TLS to encrypt data in transit, ensuring secure and private communication between clients and servers.
+---
+
+Transport Layer Security (TLS) is a critical feature of the Clikkle Network, ensuring that all data exchanged between clients and servers is encrypted and secure. By using TLS, Clikkle protects sensitive information from interception, tampering, and unauthorized access during transit.
+
+TLS operates at the **transport layer** of the OSI model (Layer 4), encrypting all data before it is transmitted over the network. This includes securing HTTP traffic via HTTPS. When a client connects to Clikkle services, a TLS handshake is performed to establish a secure connection. This process ensures:  
+
+- **Encryption**: Data is encrypted to prevent unauthorized access during transmission.  
+- **Integrity**: Ensures that data cannot be tampered with or altered.  
+- **Authentication**: Verifies the identity of the server to protect against impersonation or spoofing.  
+
+# Key features {% #key-features %}
+
+1. **Modern protocols**  
+   Clikkle supports TLS 1.2 and TLS 1.3, offering the latest in encryption standards and performance optimization.
+
+2. **Automatic certificates**  
+   TLS certificates are automatically managed and renewed, ensuring that your applications always run on secure connections without manual intervention.  
+
+3. **Strong ciphers**  
+   Only strong, industry-standard cipher suites are used to ensure robust encryption.  
+
+4. **End-to-end security**  
+   TLS secures every connection in Clikkle's network, including communication between edge nodes and regions, protecting your data at every step.
+
+# Getting started {% #getting-started %}
+
+TLS is enabled by default on all Clikkle endpoints, requiring no additional configuration from developers. Simply use HTTPS when interacting with Clikkle services, and your data will be secured automatically.  
+
+4:T7ba,---
+layout: article
+title: Transport Layer Security (TLS)
+description: Learn how Clikkle uses TLS to encrypt data in transit, ensuring secure and private communication between clients and servers.
+---
+
+Transport Layer Security (TLS) is a critical feature of the Clikkle Network, ensuring that all data exchanged between clients and servers is encrypted and secure. By using TLS, Clikkle protects sensitive information from interception, tampering, and unauthorized access during transit.
+
+TLS operates at the **transport layer** of the OSI model (Layer 4), encrypting all data before it is transmitted over the network. This includes securing HTTP traffic via HTTPS. When a client connects to Clikkle services, a TLS handshake is performed to establish a secure connection. This process ensures:  
+
+- **Encryption**: Data is encrypted to prevent unauthorized access during transmission.  
+- **Integrity**: Ensures that data cannot be tampered with or altered.  
+- **Authentication**: Verifies the identity of the server to protect against impersonation or spoofing.  
+
+# Key features {% #key-features %}
+
+1. **Modern protocols**  
+   Clikkle supports TLS 1.2 and TLS 1.3, offering the latest in encryption standards and performance optimization.
+
+2. **Automatic certificates**  
+   TLS certificates are automatically managed and renewed, ensuring that your applications always run on secure connections without manual intervention.  
+
+3. **Strong ciphers**  
+   Only strong, industry-standard cipher suites are used to ensure robust encryption.  
+
+4. **End-to-end security**  
+   TLS secures every connection in Clikkle's network, including communication between edge nodes and regions, protecting your data at every step.
+
+# Getting started {% #getting-started %}
+
+TLS is enabled by default on all Clikkle endpoints, requiring no additional configuration from developers. Simply use HTTPS when interacting with Clikkle services, and your data will be secured automatically.  
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Transport Layer Security (TLS)"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$4","className":"ml-0"}]}]]}]]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+5:["$","$Lb",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Lc",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Transport Layer Security (TLS) is a critical feature of the Clikkle Network, ensuring that all data exchanged between clients and servers is encrypted and secure. By using TLS, Clikkle protects sensitive information from interception, tampering, and unauthorized access during transit."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["TLS operates at the ",["$","strong",null,{"children":"transport layer"}]," of the OSI model (Layer 4), encrypting all data before it is transmitted over the network. This includes securing HTTP traffic via HTTPS. When a client connects to Clikkle services, a TLS handshake is performed to establish a secure connection. This process ensures:"]}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Encryption"}],": Data is encrypted to prevent unauthorized access during transmission."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Integrity"}],": Ensures that data cannot be tampered with or altered."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Authentication"}],": Verifies the identity of the server to protect against impersonation or spoofing."]}]]}],["$","$Ld",null,{"id":"key-features","level":1,"children":"Key features "}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Modern protocols"}],["$","br",null,{}],"Clikkle supports TLS 1.2 and TLS 1.3, offering the latest in encryption standards and performance optimization."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Automatic certificates"}],["$","br",null,{}],"TLS certificates are automatically managed and renewed, ensuring that your applications always run on secure connections without manual intervention."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Strong ciphers"}],["$","br",null,{}],"Only strong, industry-standard cipher suites are used to ensure robust encryption."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"End-to-end security"}],["$","br",null,{}],"TLS secures every connection in Clikkle's network, including communication between edge nodes and regions, protecting your data at every step."]}]}]]}],["$","$Ld",null,{"id":"getting-started","level":1,"children":"Getting started "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"TLS is enabled by default on all Clikkle endpoints, requiring no additional configuration from developers. Simply use HTTPS when interacting with Clikkle services, and your data will be secured automatically."}]]}]}]]}],["$","$Le",null,{}]]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$Lf",null,{"items":[{"id":"key-features","title":"Key features","level":1},{"id":"getting-started","title":"Getting started","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

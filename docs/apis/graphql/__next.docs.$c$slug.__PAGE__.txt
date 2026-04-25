@@ -1,0 +1,852 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+41:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+42:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+43:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+44:"$Sreact.suspense"
+46:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+47:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+48:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+49:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+3:T2e91,---
+layout: article
+title: GraphQL
+description: Get to know Clikkle GraphQL API for flexible data querying & manipulation. Our docs cover the schema, queries, mutations, integration tips and more.
+---
+
+Clikkle supports multiple protocols for accessing the platform, including [REST](/docs/apis/rest), [GraphQL](/docs/apis/graphql), and [Realtime](/docs/apis/realtime).
+
+The GraphQL API allows you to query and mutate any resource type on the Clikkle platform through the endpoint `/v1/graphql`.
+Every endpoint available through REST is available through GraphQL, except for OAuth.
+
+# Requests {% #requests %}
+
+Although every query executes through the same endpoint, there are multiple ways to make a GraphQL request. All requests, however, share a common structure.
+
+| Name           | Type   | Description                                                               |
+|----------------|--------|---------------------------------------------------------------------------|
+| query          | string | **Required**, the GraphQL query to execute.                                              |
+| operationName  | string | **Optional**, if the query contains several named operations, controls which one to execute. |
+| variables      | object | **Optional**, an object containing variable names and values for the query. Variables are made available to your query with the `$` prefix. |
+
+## GraphQL model parameters {% #graphql-model-parameters %}
+
+In Clikkle's GraphQL API, all internal model parameters are prefixed with `_` instead of `$` because `$` is reserved by GraphQL.
+
+For example, `$tableId` in the REST API would be referenced as `_tableId` in the GraphQL API.
+
+## GET requests {% #get-resquest %}
+
+You can execute a GraphQL query via a GET request, passing a `query` and optionally `operationName` and `variables` as query parameters.
+
+## POST requests {% #post-request %}
+
+There are multiple ways to make a GraphQL POST request, differentiated by content type.
+
+{% tabs %}
+{% tabsitem #json title="JSON" %}
+
+There are two ways to make requests with the `application/json` content type.
+You can send a JSON object containing a `query` and optionally `operationName` and `variables`, or an array of objects with the same structure.
+
+### Object
+
+```json
+{
+    "query": "",
+    "operationName": "",
+    "variables": {}
+}
+```
+
+### Array
+
+```json
+[
+    {
+        "query": "",
+        "operationName": "",
+        "variables": {}
+    }
+]
+```
+{% /tabsitem %}
+
+{% tabsitem #graphql title="GraphQL" %}
+The `application/graphql` content type can be used to send a query as the raw POST body.
+
+```graphql
+query GetAccount {
+    accountGet {
+        _id
+        email
+    }
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+
+## Multipart form data {% #multipart-form-data %}
+
+The `multipart/form-data` content type can be used to upload files via GraphQL.
+In this case, the form data must include the following parts in addition to the files to upload.
+
+| Name        | Type   | Description                                                                                                               |
+|-------------|--------|---------------------------------------------------------------------------------------------------------------------------|
+| operations  |string | **Required**, JSON encoded GraphQL query and optionally operation name and variables. File variables should contain null values.        |
+| map         | string |  **Required**, JSON encoded map of form-data filenames to the operations dot-path to inject the file to, e.g. `variables.file`.           |
+
+# Responses {% #responses %}
+
+A response to a GraphQL request will have the following structure:
+
+| Name   | Type     | Description                                                                    |
+|--------|----------|--------------------------------------------------------------------------------|
+| data   | object   | The data returned by the query, maps requested field names to their results.   |
+| errors | object[] | An array of errors that occurred during the request.                            |
+
+The data object will contain a map of requested field names to their results.
+If no data is returned, the object will not be present in the response.
+
+The errors array will contain error objects, each with their own **message** and **path**.
+The path will contain the field key that is null due to the error.
+If no errors occur, the array will not be present in the response.
+
+# Authentication {% #authentication %}
+
+GraphQL authenticates using Clikkle accounts and sessions.
+Both accounts and sessions can be created with GraphQL using the `accountCreate`, `accountCreateEmailPasswordSession`,
+`accountCreateAnonymousSession`, or `accountCreatePhoneToken` mutations.
+
+More information and examples of authenticating users can be found in the dedicated [authentication guide](/docs/products/auth).
+
+# Database queries {% #database-queries %}
+
+The GraphQL API can be used to query and manipulate database rows. For detailed examples of how to create, list, update, and delete rows using GraphQL, refer to the [Rows documentation](/docs/products/databases/rows).
+
+# GraphQL vs REST {% #graphql-vs-rest %}
+
+There are two main features that make GraphQL appealing when compared to the REST API: **selection sets** and **query batching**.
+
+## Selection sets {% #selection-sets %}
+
+Selection sets can be used to tell a GraphQL API exactly which fields of a particular resource you would like to receive in the response.
+The server will respond with only those fields, nothing more, nothing less. This gives you full control over what data comes into your application.
+
+For example, to retrieve only the email of a currently authenticated user, you could query the `accountGet` field,
+passing only email as the **field selection set**.
+
+```graphql
+query GetAccount {
+    accountGet {
+        _id
+        email
+    }
+}
+```
+
+Given this query, the GraphQL API will respond with:
+
+```json
+{
+    "data": {
+        "accountGet": {
+            "_id": "...",
+            "email": "..."
+        }
+    }
+}
+```
+
+This can be a useful feature for performance, network efficiency, and app responsiveness.
+As the processing happens on the server, the bandwidth consumed for the request can be dramatically reduced.
+
+# Query batching {% #query-batching %}
+
+GraphQL allows sending multiple queries or mutations in the same request.
+There are two different ways to batch queries. The simplest way is to include multiple fields in a single query **or** mutation.
+
+```graphql
+query GetAccountAndLocale {
+    accountGet {
+        _id
+        email
+    }
+    localeGet {
+        ip
+    }
+}
+```
+
+If both field executions succeed, the response will contain a data key for each field, containing the values of the selected fields.
+
+```json
+{
+    "data": {
+        "accountGet": {
+            "_id": "...",
+            "email": "..."
+        },
+        "localeGet": {
+            "ip": "..."
+        }
+    }
+}
+```
+
+If there was no authenticated user, the `accountGet` field would fail to resolve.
+In such a case the value of the data key for that field will be null, and an object will be added to the errors array instead.
+
+```json
+{
+    "data": {
+        "accountGet": null,
+        "localeGet": {
+            "ip": "...",
+            "country": "..."
+        }
+    },
+    "errors": [
+        {
+            "message": "User (role: guest) missing scope (account)",
+            "path": ["accountGet"]
+        }
+    ]
+}
+```
+
+Batching with a single query or mutation has some down-sides.
+You cannot mix and match queries and mutations within the same request unless you provide an operationName,
+in which case you can only execute one query per request.
+
+Additionally, all **variables** must be passed in the same object, which can be cumbersome and hard to maintain.
+
+The second way to batch is to pass an array of queries or mutations in the request.
+In this way, you can execute queries **and** mutations and keep variables separated for each.
+
+```json
+[
+    {
+        "query": "query GetAccount { accountGet{ email } }",
+    },
+    {
+        "query": "query GetLocale { localeGet { ip } }"
+    }
+]
+```
+
+This allows you to execute complex actions in a single network request.
+
+# SDK usage {% #sdk-usage %}
+
+Clikkle SDKs also support GraphQL in addition to the REST services.
+
+{% multicode %}
+```client-web
+import { Client, Graphql } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your Clikkle Endpoint
+    .setProject('<PROJECT_ID>');                // Your project ID
+
+const graphql = new Graphql(client);
+
+const mutation = graphql.mutation({
+    query: `mutation CreateAccount(
+        $email: String!,
+        $password: String!,
+        $name: String
+    ) {
+        accountCreate(
+            email: $email,
+            password: $password,
+            name: $name,
+            userId: "unique()"
+        ) {
+            _id
+        }
+    }`,
+    variables: {
+        email: '...',
+        password: '...',
+        name: '...'
+    }
+});
+
+mutation.then(response => {
+    console.log(response);
+}).catch(error => {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your Clikkle Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+final graphql = Graphql(client);
+
+Future mutation = graphql.mutation({
+    'query': '''mutation CreateAccount(
+        \$email: String!,
+        \$password: String!,
+        \$name: String
+    ) {
+        accountCreate(
+            email: \$email,
+            password: \$password,
+            name: \$name,
+            userId: "unique()"
+        ) {
+            _id
+        }
+    }''',
+    'variables': {
+        'email': '...',
+        'password': '...',
+        'name': '...'
+    }
+});
+
+mutation.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.message);
+});
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let graphql = Graphql(client)
+
+do {
+    let response = try await graphql.mutation([
+        "query": """
+            mutation CreateAccount(
+                $email: String!,
+                $password: String!,
+                $name: String
+            ) {
+                accountCreate(
+                    email: $email,
+                    password: $password,
+                    name: $name,
+                    userId: "unique()"
+
+                ) {
+                    _id
+                }
+            }
+        """,
+        "variables": [
+            "email": "...",
+            "password": "...",
+            "name": "..."
+        ]
+    ])
+
+    print(String(describing: response))
+} catch {
+    print(error.localizedDescription)
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Graphql
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val graphql = Graphql(client)
+
+try {
+    val response = graphql.mutation(mapOf(
+        "query" to """mutation CreateAccount(
+            ${'$'}email: String!,
+            ${'$'}password: String!,
+            ${'$'}name: String
+        ) {
+            accountCreate(
+                email: ${'$'}email,
+                password: ${'$'}password,
+                name: ${'$'}name,
+                userId: "unique()"
+            ) {
+                _id
+            }
+        }""",
+        "variables" to mapOf(
+            "email" to "...",
+            "password" to "...",
+            "name" to "..."
+        )
+    ))
+
+    Log.d(javaClass.name, response)
+} catch (ex: ClikkleException) {
+    ex.printStackTrace()
+}
+```
+{% /multicode %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex w-full flex-row overflow-visible xl:gap-14 2xl:gap-24","children":[["$","div",null,{"className":"min-w-0 flex-1 max-w-[41.5rem]","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center justify-between gap-3 lg:hidden","children":[["$","div",null,{"className":"flex items-center gap-2","children":null}],["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],null,"$L5","$L6"]}],"$L7"]}],["$L8","$L9","$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+c:T2e91,---
+layout: article
+title: GraphQL
+description: Get to know Clikkle GraphQL API for flexible data querying & manipulation. Our docs cover the schema, queries, mutations, integration tips and more.
+---
+
+Clikkle supports multiple protocols for accessing the platform, including [REST](/docs/apis/rest), [GraphQL](/docs/apis/graphql), and [Realtime](/docs/apis/realtime).
+
+The GraphQL API allows you to query and mutate any resource type on the Clikkle platform through the endpoint `/v1/graphql`.
+Every endpoint available through REST is available through GraphQL, except for OAuth.
+
+# Requests {% #requests %}
+
+Although every query executes through the same endpoint, there are multiple ways to make a GraphQL request. All requests, however, share a common structure.
+
+| Name           | Type   | Description                                                               |
+|----------------|--------|---------------------------------------------------------------------------|
+| query          | string | **Required**, the GraphQL query to execute.                                              |
+| operationName  | string | **Optional**, if the query contains several named operations, controls which one to execute. |
+| variables      | object | **Optional**, an object containing variable names and values for the query. Variables are made available to your query with the `$` prefix. |
+
+## GraphQL model parameters {% #graphql-model-parameters %}
+
+In Clikkle's GraphQL API, all internal model parameters are prefixed with `_` instead of `$` because `$` is reserved by GraphQL.
+
+For example, `$tableId` in the REST API would be referenced as `_tableId` in the GraphQL API.
+
+## GET requests {% #get-resquest %}
+
+You can execute a GraphQL query via a GET request, passing a `query` and optionally `operationName` and `variables` as query parameters.
+
+## POST requests {% #post-request %}
+
+There are multiple ways to make a GraphQL POST request, differentiated by content type.
+
+{% tabs %}
+{% tabsitem #json title="JSON" %}
+
+There are two ways to make requests with the `application/json` content type.
+You can send a JSON object containing a `query` and optionally `operationName` and `variables`, or an array of objects with the same structure.
+
+### Object
+
+```json
+{
+    "query": "",
+    "operationName": "",
+    "variables": {}
+}
+```
+
+### Array
+
+```json
+[
+    {
+        "query": "",
+        "operationName": "",
+        "variables": {}
+    }
+]
+```
+{% /tabsitem %}
+
+{% tabsitem #graphql title="GraphQL" %}
+The `application/graphql` content type can be used to send a query as the raw POST body.
+
+```graphql
+query GetAccount {
+    accountGet {
+        _id
+        email
+    }
+}
+```
+{% /tabsitem %}
+{% /tabs %}
+
+
+## Multipart form data {% #multipart-form-data %}
+
+The `multipart/form-data` content type can be used to upload files via GraphQL.
+In this case, the form data must include the following parts in addition to the files to upload.
+
+| Name        | Type   | Description                                                                                                               |
+|-------------|--------|---------------------------------------------------------------------------------------------------------------------------|
+| operations  |string | **Required**, JSON encoded GraphQL query and optionally operation name and variables. File variables should contain null values.        |
+| map         | string |  **Required**, JSON encoded map of form-data filenames to the operations dot-path to inject the file to, e.g. `variables.file`.           |
+
+# Responses {% #responses %}
+
+A response to a GraphQL request will have the following structure:
+
+| Name   | Type     | Description                                                                    |
+|--------|----------|--------------------------------------------------------------------------------|
+| data   | object   | The data returned by the query, maps requested field names to their results.   |
+| errors | object[] | An array of errors that occurred during the request.                            |
+
+The data object will contain a map of requested field names to their results.
+If no data is returned, the object will not be present in the response.
+
+The errors array will contain error objects, each with their own **message** and **path**.
+The path will contain the field key that is null due to the error.
+If no errors occur, the array will not be present in the response.
+
+# Authentication {% #authentication %}
+
+GraphQL authenticates using Clikkle accounts and sessions.
+Both accounts and sessions can be created with GraphQL using the `accountCreate`, `accountCreateEmailPasswordSession`,
+`accountCreateAnonymousSession`, or `accountCreatePhoneToken` mutations.
+
+More information and examples of authenticating users can be found in the dedicated [authentication guide](/docs/products/auth).
+
+# Database queries {% #database-queries %}
+
+The GraphQL API can be used to query and manipulate database rows. For detailed examples of how to create, list, update, and delete rows using GraphQL, refer to the [Rows documentation](/docs/products/databases/rows).
+
+# GraphQL vs REST {% #graphql-vs-rest %}
+
+There are two main features that make GraphQL appealing when compared to the REST API: **selection sets** and **query batching**.
+
+## Selection sets {% #selection-sets %}
+
+Selection sets can be used to tell a GraphQL API exactly which fields of a particular resource you would like to receive in the response.
+The server will respond with only those fields, nothing more, nothing less. This gives you full control over what data comes into your application.
+
+For example, to retrieve only the email of a currently authenticated user, you could query the `accountGet` field,
+passing only email as the **field selection set**.
+
+```graphql
+query GetAccount {
+    accountGet {
+        _id
+        email
+    }
+}
+```
+
+Given this query, the GraphQL API will respond with:
+
+```json
+{
+    "data": {
+        "accountGet": {
+            "_id": "...",
+            "email": "..."
+        }
+    }
+}
+```
+
+This can be a useful feature for performance, network efficiency, and app responsiveness.
+As the processing happens on the server, the bandwidth consumed for the request can be dramatically reduced.
+
+# Query batching {% #query-batching %}
+
+GraphQL allows sending multiple queries or mutations in the same request.
+There are two different ways to batch queries. The simplest way is to include multiple fields in a single query **or** mutation.
+
+```graphql
+query GetAccountAndLocale {
+    accountGet {
+        _id
+        email
+    }
+    localeGet {
+        ip
+    }
+}
+```
+
+If both field executions succeed, the response will contain a data key for each field, containing the values of the selected fields.
+
+```json
+{
+    "data": {
+        "accountGet": {
+            "_id": "...",
+            "email": "..."
+        },
+        "localeGet": {
+            "ip": "..."
+        }
+    }
+}
+```
+
+If there was no authenticated user, the `accountGet` field would fail to resolve.
+In such a case the value of the data key for that field will be null, and an object will be added to the errors array instead.
+
+```json
+{
+    "data": {
+        "accountGet": null,
+        "localeGet": {
+            "ip": "...",
+            "country": "..."
+        }
+    },
+    "errors": [
+        {
+            "message": "User (role: guest) missing scope (account)",
+            "path": ["accountGet"]
+        }
+    ]
+}
+```
+
+Batching with a single query or mutation has some down-sides.
+You cannot mix and match queries and mutations within the same request unless you provide an operationName,
+in which case you can only execute one query per request.
+
+Additionally, all **variables** must be passed in the same object, which can be cumbersome and hard to maintain.
+
+The second way to batch is to pass an array of queries or mutations in the request.
+In this way, you can execute queries **and** mutations and keep variables separated for each.
+
+```json
+[
+    {
+        "query": "query GetAccount { accountGet{ email } }",
+    },
+    {
+        "query": "query GetLocale { localeGet { ip } }"
+    }
+]
+```
+
+This allows you to execute complex actions in a single network request.
+
+# SDK usage {% #sdk-usage %}
+
+Clikkle SDKs also support GraphQL in addition to the REST services.
+
+{% multicode %}
+```client-web
+import { Client, Graphql } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your Clikkle Endpoint
+    .setProject('<PROJECT_ID>');                // Your project ID
+
+const graphql = new Graphql(client);
+
+const mutation = graphql.mutation({
+    query: `mutation CreateAccount(
+        $email: String!,
+        $password: String!,
+        $name: String
+    ) {
+        accountCreate(
+            email: $email,
+            password: $password,
+            name: $name,
+            userId: "unique()"
+        ) {
+            _id
+        }
+    }`,
+    variables: {
+        email: '...',
+        password: '...',
+        name: '...'
+    }
+});
+
+mutation.then(response => {
+    console.log(response);
+}).catch(error => {
+    console.log(error);
+});
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your Clikkle Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+final graphql = Graphql(client);
+
+Future mutation = graphql.mutation({
+    'query': '''mutation CreateAccount(
+        \$email: String!,
+        \$password: String!,
+        \$name: String
+    ) {
+        accountCreate(
+            email: \$email,
+            password: \$password,
+            name: \$name,
+            userId: "unique()"
+        ) {
+            _id
+        }
+    }''',
+    'variables': {
+        'email': '...',
+        'password': '...',
+        'name': '...'
+    }
+});
+
+mutation.then((response) {
+    print(response);
+}).catchError((error) {
+    print(error.message);
+});
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let graphql = Graphql(client)
+
+do {
+    let response = try await graphql.mutation([
+        "query": """
+            mutation CreateAccount(
+                $email: String!,
+                $password: String!,
+                $name: String
+            ) {
+                accountCreate(
+                    email: $email,
+                    password: $password,
+                    name: $name,
+                    userId: "unique()"
+
+                ) {
+                    _id
+                }
+            }
+        """,
+        "variables": [
+            "email": "...",
+            "password": "...",
+            "name": "..."
+        ]
+    ])
+
+    print(String(describing: response))
+} catch {
+    print(error.localizedDescription)
+}
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Graphql
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val graphql = Graphql(client)
+
+try {
+    val response = graphql.mutation(mapOf(
+        "query" to """mutation CreateAccount(
+            ${'$'}email: String!,
+            ${'$'}password: String!,
+            ${'$'}name: String
+        ) {
+            accountCreate(
+                email: ${'$'}email,
+                password: ${'$'}password,
+                name: ${'$'}name,
+                userId: "unique()"
+            ) {
+                _id
+            }
+        }""",
+        "variables" to mapOf(
+            "email" to "...",
+            "password" to "...",
+            "name" to "..."
+        )
+    ))
+
+    Log.d(javaClass.name, response)
+} catch (ex: ClikkleException) {
+    ex.printStackTrace()
+}
+```
+{% /multicode %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"flex min-w-0 flex-1 items-center gap-4 md:gap-6","children":[null,["$","div",null,{"className":"min-w-0 flex-1","children":["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"GraphQL"}]}]]}],["$","div",null,{"className":"copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$c"}]}]]}]
+5:["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":false,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle supports multiple protocols for accessing the platform, including ",["$","$Le",null,{"href":"/docs/apis/rest","children":"REST"}],", ",["$","$Le",null,{"href":"/docs/apis/graphql","children":"GraphQL"}],", and ",["$","$Le",null,{"href":"/docs/apis/realtime","children":"Realtime"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The GraphQL API allows you to query and mutate any resource type on the Clikkle platform through the endpoint ",["$","code",null,{"children":"/v1/graphql"}],"."," ","Every endpoint available through REST is available through GraphQL, except for OAuth."]}],["$","$Lf",null,{"id":"requests","level":1,"children":"Requests "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Although every query executes through the same endpoint, there are multiple ways to make a GraphQL request. All requests, however, share a common structure."}],["$","$L10",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Name"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"query"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"string"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","strong",null,{"children":"Required"}],", the GraphQL query to execute."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"operationName"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"string"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","strong",null,{"children":"Optional"}],", if the query contains several named operations, controls which one to execute."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L11"}],"$L12","$L13"]}]]}]]}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40"]}]}]]}]
+6:["$","$L41",null,{}]
+7:["$","aside",null,{"className":"web-references-menu relative z-0 hidden w-[240px] shrink-0 ps-6 xl:block","children":["$","div",null,{"className":"sticky top-16 max-h-[calc(100vh-4rem)] overflow-y-auto pb-8 pr-4 pt-16 hide-scrollbar","children":["$","$L42",null,{"items":[{"id":"requests","title":"Requests","level":1},{"id":"graphql-model-parameters","title":"GraphQL model parameters","level":2},{"id":"get-resquest","title":"GET requests","level":2},{"id":"post-request","title":"POST requests","level":2},{"id":"object","title":"Object","level":3},{"id":"array","title":"Array","level":3},{"id":"multipart-form-data","title":"Multipart form data","level":2},{"id":"responses","title":"Responses","level":1},{"id":"authentication","title":"Authentication","level":1},{"id":"database-queries","title":"Database queries","level":1},{"id":"graphql-vs-rest","title":"GraphQL vs REST","level":1},{"id":"selection-sets","title":"Selection sets","level":2},{"id":"query-batching","title":"Query batching","level":1},{"id":"sdk-usage","title":"SDK usage","level":1}]}]}]}]
+8:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+9:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+a:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+b:["$","$L43",null,{"children":["$","$44",null,{"name":"Next.MetadataOutlet","children":"$@45"}]}]
+11:["$","div",null,{"className":"td-wrapper","children":"variables"}]
+12:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"object"}]}]
+13:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","strong",null,{"children":"Optional"}],", an object containing variable names and values for the query. Variables are made available to your query with the ",["$","code",null,{"children":"$$"}]," prefix."]}]}]
+14:["$","$Lf",null,{"id":"graphql-model-parameters","level":2,"children":"GraphQL model parameters "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In Clikkle's GraphQL API, all internal model parameters are prefixed with ",["$","code",null,{"children":"_"}]," instead of ",["$","code",null,{"children":"$$"}]," because ",["$","code",null,{"children":"$$"}]," is reserved by GraphQL."]}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For example, ",["$","code",null,{"children":"$$tableId"}]," in the REST API would be referenced as ",["$","code",null,{"children":"_tableId"}]," in the GraphQL API."]}]
+17:["$","$Lf",null,{"id":"get-resquest","level":2,"children":"GET requests "}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can execute a GraphQL query via a GET request, passing a ",["$","code",null,{"children":"query"}]," and optionally ",["$","code",null,{"children":"operationName"}]," and ",["$","code",null,{"children":"variables"}]," as query parameters."]}]
+19:["$","$Lf",null,{"id":"post-request","level":2,"children":"POST requests "}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"There are multiple ways to make a GraphQL POST request, differentiated by content type."}]
+1b:["$","$L46",null,{"children":[["$","$L47",null,{"id":"json","title":"JSON","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["There are two ways to make requests with the ",["$","code",null,{"children":"application/json"}]," content type."," ","You can send a JSON object containing a ",["$","code",null,{"children":"query"}]," and optionally ",["$","code",null,{"children":"operationName"}]," and ",["$","code",null,{"children":"variables"}],", or an array of objects with the same structure."]}],["$","$Lf",null,{"level":3,"children":"Object"}],["$","$L48",null,{"language":"json","content":"{\n    \"query\": \"\",\n    \"operationName\": \"\",\n    \"variables\": {}\n}\n","children":"{\n    \"query\": \"\",\n    \"operationName\": \"\",\n    \"variables\": {}\n}\n"}],["$","$Lf",null,{"level":3,"children":"Array"}],["$","$L48",null,{"language":"json","content":"[\n    {\n        \"query\": \"\",\n        \"operationName\": \"\",\n        \"variables\": {}\n    }\n]\n","children":"[\n    {\n        \"query\": \"\",\n        \"operationName\": \"\",\n        \"variables\": {}\n    }\n]\n"}]]}],["$","$L47",null,{"id":"graphql","title":"GraphQL","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The ",["$","code",null,{"children":"application/graphql"}]," content type can be used to send a query as the raw POST body."]}],["$","$L48",null,{"language":"graphql","content":"query GetAccount {\n    accountGet {\n        _id\n        email\n    }\n}\n","children":"query GetAccount {\n    accountGet {\n        _id\n        email\n    }\n}\n"}]]}]]}]
+1c:["$","$Lf",null,{"id":"multipart-form-data","level":2,"children":"Multipart form data "}]
+1d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The ",["$","code",null,{"children":"multipart/form-data"}]," content type can be used to upload files via GraphQL."," ","In this case, the form data must include the following parts in addition to the files to upload."]}]
+1e:["$","$L10",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Name"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"operations"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"string"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","strong",null,{"children":"Required"}],", JSON encoded GraphQL query and optionally operation name and variables. File variables should contain null values."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"map"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"string"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","strong",null,{"children":"Required"}],", JSON encoded map of form-data filenames to the operations dot-path to inject the file to, e.g. ",["$","code",null,{"children":"variables.file"}],"."]}]}]]}]]}]]}]
+1f:["$","$Lf",null,{"id":"responses","level":1,"children":"Responses "}]
+20:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"A response to a GraphQL request will have the following structure:"}]
+21:["$","$L10",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Name"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"data"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"object"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The data returned by the query, maps requested field names to their results."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"errors"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"object[]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"An array of errors that occurred during the request."}]}]]}]]}]]}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The data object will contain a map of requested field names to their results."," ","If no data is returned, the object will not be present in the response."]}]
+23:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The errors array will contain error objects, each with their own ",["$","strong",null,{"children":"message"}]," and ",["$","strong",null,{"children":"path"}],"."," ","The path will contain the field key that is null due to the error."," ","If no errors occur, the array will not be present in the response."]}]
+24:["$","$Lf",null,{"id":"authentication","level":1,"children":"Authentication "}]
+25:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["GraphQL authenticates using Clikkle accounts and sessions."," ","Both accounts and sessions can be created with GraphQL using the ",["$","code",null,{"children":"accountCreate"}],", ",["$","code",null,{"children":"accountCreateEmailPasswordSession"}],","," ",["$","code",null,{"children":"accountCreateAnonymousSession"}],", or ",["$","code",null,{"children":"accountCreatePhoneToken"}]," mutations."]}]
+26:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["More information and examples of authenticating users can be found in the dedicated ",["$","$Le",null,{"href":"/docs/products/auth","children":"authentication guide"}],"."]}]
+27:["$","$Lf",null,{"id":"database-queries","level":1,"children":"Database queries "}]
+28:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The GraphQL API can be used to query and manipulate database rows. For detailed examples of how to create, list, update, and delete rows using GraphQL, refer to the ",["$","$Le",null,{"href":"/docs/products/databases/rows","children":"Rows documentation"}],"."]}]
+29:["$","$Lf",null,{"id":"graphql-vs-rest","level":1,"children":"GraphQL vs REST "}]
+2a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["There are two main features that make GraphQL appealing when compared to the REST API: ",["$","strong",null,{"children":"selection sets"}]," and ",["$","strong",null,{"children":"query batching"}],"."]}]
+2b:["$","$Lf",null,{"id":"selection-sets","level":2,"children":"Selection sets "}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Selection sets can be used to tell a GraphQL API exactly which fields of a particular resource you would like to receive in the response."," ","The server will respond with only those fields, nothing more, nothing less. This gives you full control over what data comes into your application."]}]
+2d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For example, to retrieve only the email of a currently authenticated user, you could query the ",["$","code",null,{"children":"accountGet"}]," field,"," ","passing only email as the ",["$","strong",null,{"children":"field selection set"}],"."]}]
+2e:["$","$L48",null,{"language":"graphql","content":"query GetAccount {\n    accountGet {\n        _id\n        email\n    }\n}\n","children":"query GetAccount {\n    accountGet {\n        _id\n        email\n    }\n}\n"}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Given this query, the GraphQL API will respond with:"}]
+30:["$","$L48",null,{"language":"json","content":"{\n    \"data\": {\n        \"accountGet\": {\n            \"_id\": \"...\",\n            \"email\": \"...\"\n        }\n    }\n}\n","children":"{\n    \"data\": {\n        \"accountGet\": {\n            \"_id\": \"...\",\n            \"email\": \"...\"\n        }\n    }\n}\n"}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This can be a useful feature for performance, network efficiency, and app responsiveness."," ","As the processing happens on the server, the bandwidth consumed for the request can be dramatically reduced."]}]
+32:["$","$Lf",null,{"id":"query-batching","level":1,"children":"Query batching "}]
+33:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["GraphQL allows sending multiple queries or mutations in the same request."," ","There are two different ways to batch queries. The simplest way is to include multiple fields in a single query ",["$","strong",null,{"children":"or"}]," mutation."]}]
+34:["$","$L48",null,{"language":"graphql","content":"query GetAccountAndLocale {\n    accountGet {\n        _id\n        email\n    }\n    localeGet {\n        ip\n    }\n}\n","children":"query GetAccountAndLocale {\n    accountGet {\n        _id\n        email\n    }\n    localeGet {\n        ip\n    }\n}\n"}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If both field executions succeed, the response will contain a data key for each field, containing the values of the selected fields."}]
+36:["$","$L48",null,{"language":"json","content":"{\n    \"data\": {\n        \"accountGet\": {\n            \"_id\": \"...\",\n            \"email\": \"...\"\n        },\n        \"localeGet\": {\n            \"ip\": \"...\"\n        }\n    }\n}\n","children":"{\n    \"data\": {\n        \"accountGet\": {\n            \"_id\": \"...\",\n            \"email\": \"...\"\n        },\n        \"localeGet\": {\n            \"ip\": \"...\"\n        }\n    }\n}\n"}]
+37:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If there was no authenticated user, the ",["$","code",null,{"children":"accountGet"}]," field would fail to resolve."," ","In such a case the value of the data key for that field will be null, and an object will be added to the errors array instead."]}]
+38:["$","$L48",null,{"language":"json","content":"{\n    \"data\": {\n        \"accountGet\": null,\n        \"localeGet\": {\n            \"ip\": \"...\",\n            \"country\": \"...\"\n        }\n    },\n    \"errors\": [\n        {\n            \"message\": \"User (role: guest) missing scope (account)\",\n            \"path\": [\"accountGet\"]\n        }\n    ]\n}\n","children":"{\n    \"data\": {\n        \"accountGet\": null,\n        \"localeGet\": {\n            \"ip\": \"...\",\n            \"country\": \"...\"\n        }\n    },\n    \"errors\": [\n        {\n            \"message\": \"User (role: guest) missing scope (account)\",\n            \"path\": [\"accountGet\"]\n        }\n    ]\n}\n"}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Batching with a single query or mutation has some down-sides."," ","You cannot mix and match queries and mutations within the same request unless you provide an operationName,"," ","in which case you can only execute one query per request."]}]
+3a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Additionally, all ",["$","strong",null,{"children":"variables"}]," must be passed in the same object, which can be cumbersome and hard to maintain."]}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The second way to batch is to pass an array of queries or mutations in the request."," ","In this way, you can execute queries ",["$","strong",null,{"children":"and"}]," mutations and keep variables separated for each."]}]
+3c:["$","$L48",null,{"language":"json","content":"[\n    {\n        \"query\": \"query GetAccount { accountGet{ email } }\",\n    },\n    {\n        \"query\": \"query GetLocale { localeGet { ip } }\"\n    }\n]\n","children":"[\n    {\n        \"query\": \"query GetAccount { accountGet{ email } }\",\n    },\n    {\n        \"query\": \"query GetLocale { localeGet { ip } }\"\n    }\n]\n"}]
+3d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This allows you to execute complex actions in a single network request."}]
+3e:["$","$Lf",null,{"id":"sdk-usage","level":1,"children":"SDK usage "}]
+3f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle SDKs also support GraphQL in addition to the REST services."}]
+40:["$","$L49",null,{"children":[["$","$L48",null,{"language":"client-web","content":"import { Client, Graphql } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your Clikkle Endpoint\n    .setProject('<PROJECT_ID>');                // Your project ID\n\nconst graphql = new Graphql(client);\n\nconst mutation = graphql.mutation({\n    query: `mutation CreateAccount(\n        $email: String!,\n        $password: String!,\n        $name: String\n    ) {\n        accountCreate(\n            email: $email,\n            password: $password,\n            name: $name,\n            userId: \"unique()\"\n        ) {\n            _id\n        }\n    }`,\n    variables: {\n        email: '...',\n        password: '...',\n        name: '...'\n    }\n});\n\nmutation.then(response => {\n    console.log(response);\n}).catch(error => {\n    console.log(error);\n});\n","children":"import { Client, Graphql } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your Clikkle Endpoint\n    .setProject('<PROJECT_ID>');                // Your project ID\n\nconst graphql = new Graphql(client);\n\nconst mutation = graphql.mutation({\n    query: `mutation CreateAccount(\n        $email: String!,\n        $password: String!,\n        $name: String\n    ) {\n        accountCreate(\n            email: $email,\n            password: $password,\n            name: $name,\n            userId: \"unique()\"\n        ) {\n            _id\n        }\n    }`,\n    variables: {\n        email: '...',\n        password: '...',\n        name: '...'\n    }\n});\n\nmutation.then(response => {\n    console.log(response);\n}).catch(error => {\n    console.log(error);\n});\n"}],["$","$L48",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your Clikkle Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nfinal graphql = Graphql(client);\n\nFuture mutation = graphql.mutation({\n    'query': '''mutation CreateAccount(\n        \\$email: String!,\n        \\$password: String!,\n        \\$name: String\n    ) {\n        accountCreate(\n            email: \\$email,\n            password: \\$password,\n            name: \\$name,\n            userId: \"unique()\"\n        ) {\n            _id\n        }\n    }''',\n    'variables': {\n        'email': '...',\n        'password': '...',\n        'name': '...'\n    }\n});\n\nmutation.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.message);\n});\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your Clikkle Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nfinal graphql = Graphql(client);\n\nFuture mutation = graphql.mutation({\n    'query': '''mutation CreateAccount(\n        \\$email: String!,\n        \\$password: String!,\n        \\$name: String\n    ) {\n        accountCreate(\n            email: \\$email,\n            password: \\$password,\n            name: \\$name,\n            userId: \"unique()\"\n        ) {\n            _id\n        }\n    }''',\n    'variables': {\n        'email': '...',\n        'password': '...',\n        'name': '...'\n    }\n});\n\nmutation.then((response) {\n    print(response);\n}).catchError((error) {\n    print(error.message);\n});\n"}],"$L4a","$L4b"]}]
+45:null
+4a:["$","$L48",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet graphql = Graphql(client)\n\ndo {\n    let response = try await graphql.mutation([\n        \"query\": \"\"\"\n            mutation CreateAccount(\n                $email: String!,\n                $password: String!,\n                $name: String\n            ) {\n                accountCreate(\n                    email: $email,\n                    password: $password,\n                    name: $name,\n                    userId: \"unique()\"\n\n                ) {\n                    _id\n                }\n            }\n        \"\"\",\n        \"variables\": [\n            \"email\": \"...\",\n            \"password\": \"...\",\n            \"name\": \"...\"\n        ]\n    ])\n\n    print(String(describing: response))\n} catch {\n    print(error.localizedDescription)\n}\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet graphql = Graphql(client)\n\ndo {\n    let response = try await graphql.mutation([\n        \"query\": \"\"\"\n            mutation CreateAccount(\n                $email: String!,\n                $password: String!,\n                $name: String\n            ) {\n                accountCreate(\n                    email: $email,\n                    password: $password,\n                    name: $name,\n                    userId: \"unique()\"\n\n                ) {\n                    _id\n                }\n            }\n        \"\"\",\n        \"variables\": [\n            \"email\": \"...\",\n            \"password\": \"...\",\n            \"name\": \"...\"\n        ]\n    ])\n\n    print(String(describing: response))\n} catch {\n    print(error.localizedDescription)\n}\n"}]
+4b:["$","$L48",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Graphql\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval graphql = Graphql(client)\n\ntry {\n    val response = graphql.mutation(mapOf(\n        \"query\" to \"\"\"mutation CreateAccount(\n            ${'$'}email: String!,\n            ${'$'}password: String!,\n            ${'$'}name: String\n        ) {\n            accountCreate(\n                email: ${'$'}email,\n                password: ${'$'}password,\n                name: ${'$'}name,\n                userId: \"unique()\"\n            ) {\n                _id\n            }\n        }\"\"\",\n        \"variables\" to mapOf(\n            \"email\" to \"...\",\n            \"password\" to \"...\",\n            \"name\" to \"...\"\n        )\n    ))\n\n    Log.d(javaClass.name, response)\n} catch (ex: ClikkleException) {\n    ex.printStackTrace()\n}\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Graphql\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval graphql = Graphql(client)\n\ntry {\n    val response = graphql.mutation(mapOf(\n        \"query\" to \"\"\"mutation CreateAccount(\n            ${'$'}email: String!,\n            ${'$'}password: String!,\n            ${'$'}name: String\n        ) {\n            accountCreate(\n                email: ${'$'}email,\n                password: ${'$'}password,\n                name: ${'$'}name,\n                userId: \"unique()\"\n            ) {\n                _id\n            }\n        }\"\"\",\n        \"variables\" to mapOf(\n            \"email\" to \"...\",\n            \"password\" to \"...\",\n            \"name\" to \"...\"\n        )\n    ))\n\n    Log.d(javaClass.name, response)\n} catch (ex: ClikkleException) {\n    ex.printStackTrace()\n}\n"}]

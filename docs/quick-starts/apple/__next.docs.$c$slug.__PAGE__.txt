@@ -1,0 +1,611 @@
+1:"$Sreact.fragment"
+2:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+3:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+e:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+f:I[5178904,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"AiPromptBox"]
+10:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+11:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+1b:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1c:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+22:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+4:T1c09,---
+layout: article
+title: Start with Apple
+description: Build iOS apps with Clikkle and learn how to use our powerful backend to add authentication, user management, file storage, and more.
+difficulty: beginner
+readtime: 10
+back: /docs/quick-starts
+---
+
+Learn how to setup your first Apple project powered by Clikkle and the [Clikkle Apple SDK](https://github.com/clikkle/sdk-for-apple).
+
+{% section #step-1 step=1 title="Create Apple project" %}
+Open Xcode and click **Create a new Xcode project**.
+
+Choose your desired project template, for example **iOS App**,  and click **Next**.
+
+Now enter your app **product name** and **bundle identifier** and click **Next**. You will need both of these values later when you create your project in the Clikkle console.
+
+Choose a directory for your project in and click **Create** to create your project.
+
+{% /section %}
+
+{% section #step-2 step=2 title="Create Clikkle project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add an **Apple app**. Choose any of **iOS**, **macOS**, **watchOS** or **tvOS** as your Apple platform. If you are creating a multi-platform app, you can add more platforms later.
+
+Add your app's **product name** and **bundle identifier**, your bundle identifier is the one entered when creating an Xcode project. For existing projects, you should use the **bundle identifier** from your project files **Identity** section.
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+
+{% /section %}
+
+{% section #step-3 step=3 title="Add the Clikkle SDK" %}
+To add the Clikkle SDK for Apple as a dependency, open the **File** menu and click **Add Packages**.
+
+In the **Package URL** search box, enter https://github.com/clikkle/sdk-for-apple. 
+
+Once the SDK is found, use `10.1.0` as version, select **Up to Next Major Version** as your **Dependency Rule** and click **Add Package**.
+
+When dependency resolution is complete, click **Add Package** again to add the SDK package to your target.
+
+In order to allow creating OAuth sessions, the following URL scheme must be added to your **Info.plist** file.
+
+```xml
+<key>CFBundleURLTypes</key>
+<array>
+<dict>
+    <key>CFBundleTypeRole</key>
+    <string>Editor</string>
+    <key>CFBundleURLName</key>
+    <string>io.clikkle</string>
+    <key>CFBundleURLSchemes</key>
+    <array>
+        <string>clikkle-callback-<PROJECT_ID></string>
+    </array>
+</dict>
+</array>
+```
+
+If you're using UIKit as opposed to SwiftUI, you will also need to add the following to your **SceneDelegate.swift** file.
+
+```swift
+func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
+    guard let url = URLContexts.first?.url,
+        url.absoluteString.contains("clikkle-callback") else {
+        return
+    }
+
+    WebAuthComponent.handleIncomingCookie(from: url)
+}
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Create Clikkle Singleton" %}
+Find your project's ID in the **Settings** page. 
+
+{% only_dark %}
+![Project settings screen](/clikkle/images/docs/quick-starts/dark/project-id.png)
+{% /only_dark %}
+{% only_light %}
+![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
+{% /only_light %}
+Create a new file `Clikkle.swift` and add the following code to it, replacing `<PROJECT_ID>` with your project ID.
+
+```swift
+import Foundation
+import Clikkle
+import JSONCodable
+
+class Clikkle {
+    var client: Client
+    var account: Account
+    
+    public init() {
+        self.client = Client()
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+            .setProject("<PROJECT_ID>")
+        
+        self.account = Account(client)
+    }
+    
+    public func onRegister(
+        _ email: String,
+        _ password: String
+    ) async throws -> User<[String: AnyCodable]> {
+        try await account.create(
+            userId: ID.unique(),
+            email: email,
+            password: password
+        )
+    }
+    
+    public func onLogin(
+        _ email: String,
+        _ password: String
+    ) async throws -> Session {
+        try await account.createEmailPasswordSession(
+            email: email,
+            password: password
+        )
+    }
+    
+    public func onLogout() async throws {
+        _ = try await account.deleteSession(
+            sessionId: "current"
+        )
+    }
+    
+}
+
+```
+{% /section %}
+{% section #step-5 step=5 title="Create a login page" %}
+Add the following code to `ContentView.swift`.
+
+```swift
+import SwiftUI
+
+class ViewModel: ObservableObject {
+    @Published var email: String = ""
+    @Published var password: String = ""
+}
+
+struct ContentView: View {
+    @ObservedObject var viewModel = ViewModel()
+    let clikkle = Clikkle()
+
+    var body: some View {
+        VStack {
+            TextField(
+                "Email",
+                text: $viewModel.email
+            )
+            SecureField(
+                "Password",
+                text: $viewModel.password
+            )
+            Button(
+                action: { Task {
+                    try await clikkle.onRegister(
+                        viewModel.email,
+                        viewModel.password
+                    )
+                }},
+                label: {
+                    Text("Register")
+                }
+            )
+            Button(
+                action: { Task {
+                    try await clikkle.onLogin(
+                        viewModel.email,
+                        viewModel.password
+                    )
+                }},
+                label: {
+                    Text("Login")
+                }
+            )
+        }
+        .padding()
+    }
+}
+```
+{% /section %}
+
+{% section #step-6 step=6 title="Type safety with models" %}
+For enhanced type safety, you can use custom model structs with the `nestedType` parameter:
+
+```swift
+import Clikkle
+struct User: Codable {
+    let name: String
+    let email: String
+    let isVerified: Bool
+}
+
+// Usage with type safety
+let clikkle = Clikkle()
+let tablesDB = TablesDB(clikkle.client)
+
+do {
+    let users = try await tablesDB.listRows(
+        databaseId: "[DATABASE_ID]",
+        tableId: "[TABLE_ID]",
+        nestedType: User.self // Enables type safety
+    )
+
+    for user in users.rows {
+        print("User: \(user.name) (\(user.email))")
+    }
+} catch {
+    print("Error: \(error.localizedDescription)")
+}
+```
+
+{% info title="Generate types automatically" %}
+Use the [Clikkle CLI](/docs/products/databases/type-generation) to generate model structs automatically: `clikkle types collection`
+{% /info %}
+
+{% /section %}
+
+{% section #step-7 step=7 title="All set" %}
+Run your project by clicking **Start active scheme** in Xcode.
+{% /section %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[["$","$L2",null,{"href":"/docs/quick-starts","className":"web-icon-button","aria-label":"Back","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-5 w-5 pr-0.5","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}]}],["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L3",null,{"markdown":"$4","className":"ml-0"}]}]]}],"$L5","$L6"]}],"$L7","$L8"]}]}],["$L9","$La","$Lb"],"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+5:["$","ul",null,{"className":"web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50","children":[["$","li",null,{"children":"beginner"}],["$","li",null,{"className":"text-[var(--color-border-strong)] dark:text-white/25","aria-hidden":true,"children":"•"}],["$","li",null,{"children":[10," min"]}]]}]
+d:T1c09,---
+layout: article
+title: Start with Apple
+description: Build iOS apps with Clikkle and learn how to use our powerful backend to add authentication, user management, file storage, and more.
+difficulty: beginner
+readtime: 10
+back: /docs/quick-starts
+---
+
+Learn how to setup your first Apple project powered by Clikkle and the [Clikkle Apple SDK](https://github.com/clikkle/sdk-for-apple).
+
+{% section #step-1 step=1 title="Create Apple project" %}
+Open Xcode and click **Create a new Xcode project**.
+
+Choose your desired project template, for example **iOS App**,  and click **Next**.
+
+Now enter your app **product name** and **bundle identifier** and click **Next**. You will need both of these values later when you create your project in the Clikkle console.
+
+Choose a directory for your project in and click **Create** to create your project.
+
+{% /section %}
+
+{% section #step-2 step=2 title="Create Clikkle project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add an **Apple app**. Choose any of **iOS**, **macOS**, **watchOS** or **tvOS** as your Apple platform. If you are creating a multi-platform app, you can add more platforms later.
+
+Add your app's **product name** and **bundle identifier**, your bundle identifier is the one entered when creating an Xcode project. For existing projects, you should use the **bundle identifier** from your project files **Identity** section.
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+
+{% /section %}
+
+{% section #step-3 step=3 title="Add the Clikkle SDK" %}
+To add the Clikkle SDK for Apple as a dependency, open the **File** menu and click **Add Packages**.
+
+In the **Package URL** search box, enter https://github.com/clikkle/sdk-for-apple. 
+
+Once the SDK is found, use `10.1.0` as version, select **Up to Next Major Version** as your **Dependency Rule** and click **Add Package**.
+
+When dependency resolution is complete, click **Add Package** again to add the SDK package to your target.
+
+In order to allow creating OAuth sessions, the following URL scheme must be added to your **Info.plist** file.
+
+```xml
+<key>CFBundleURLTypes</key>
+<array>
+<dict>
+    <key>CFBundleTypeRole</key>
+    <string>Editor</string>
+    <key>CFBundleURLName</key>
+    <string>io.clikkle</string>
+    <key>CFBundleURLSchemes</key>
+    <array>
+        <string>clikkle-callback-<PROJECT_ID></string>
+    </array>
+</dict>
+</array>
+```
+
+If you're using UIKit as opposed to SwiftUI, you will also need to add the following to your **SceneDelegate.swift** file.
+
+```swift
+func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {
+    guard let url = URLContexts.first?.url,
+        url.absoluteString.contains("clikkle-callback") else {
+        return
+    }
+
+    WebAuthComponent.handleIncomingCookie(from: url)
+}
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Create Clikkle Singleton" %}
+Find your project's ID in the **Settings** page. 
+
+{% only_dark %}
+![Project settings screen](/clikkle/images/docs/quick-starts/dark/project-id.png)
+{% /only_dark %}
+{% only_light %}
+![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
+{% /only_light %}
+Create a new file `Clikkle.swift` and add the following code to it, replacing `<PROJECT_ID>` with your project ID.
+
+```swift
+import Foundation
+import Clikkle
+import JSONCodable
+
+class Clikkle {
+    var client: Client
+    var account: Account
+    
+    public init() {
+        self.client = Client()
+            .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+            .setProject("<PROJECT_ID>")
+        
+        self.account = Account(client)
+    }
+    
+    public func onRegister(
+        _ email: String,
+        _ password: String
+    ) async throws -> User<[String: AnyCodable]> {
+        try await account.create(
+            userId: ID.unique(),
+            email: email,
+            password: password
+        )
+    }
+    
+    public func onLogin(
+        _ email: String,
+        _ password: String
+    ) async throws -> Session {
+        try await account.createEmailPasswordSession(
+            email: email,
+            password: password
+        )
+    }
+    
+    public func onLogout() async throws {
+        _ = try await account.deleteSession(
+            sessionId: "current"
+        )
+    }
+    
+}
+
+```
+{% /section %}
+{% section #step-5 step=5 title="Create a login page" %}
+Add the following code to `ContentView.swift`.
+
+```swift
+import SwiftUI
+
+class ViewModel: ObservableObject {
+    @Published var email: String = ""
+    @Published var password: String = ""
+}
+
+struct ContentView: View {
+    @ObservedObject var viewModel = ViewModel()
+    let clikkle = Clikkle()
+
+    var body: some View {
+        VStack {
+            TextField(
+                "Email",
+                text: $viewModel.email
+            )
+            SecureField(
+                "Password",
+                text: $viewModel.password
+            )
+            Button(
+                action: { Task {
+                    try await clikkle.onRegister(
+                        viewModel.email,
+                        viewModel.password
+                    )
+                }},
+                label: {
+                    Text("Register")
+                }
+            )
+            Button(
+                action: { Task {
+                    try await clikkle.onLogin(
+                        viewModel.email,
+                        viewModel.password
+                    )
+                }},
+                label: {
+                    Text("Login")
+                }
+            )
+        }
+        .padding()
+    }
+}
+```
+{% /section %}
+
+{% section #step-6 step=6 title="Type safety with models" %}
+For enhanced type safety, you can use custom model structs with the `nestedType` parameter:
+
+```swift
+import Clikkle
+struct User: Codable {
+    let name: String
+    let email: String
+    let isVerified: Bool
+}
+
+// Usage with type safety
+let clikkle = Clikkle()
+let tablesDB = TablesDB(clikkle.client)
+
+do {
+    let users = try await tablesDB.listRows(
+        databaseId: "[DATABASE_ID]",
+        tableId: "[TABLE_ID]",
+        nestedType: User.self // Enables type safety
+    )
+
+    for user in users.rows {
+        print("User: \(user.name) (\(user.email))")
+    }
+} catch {
+    print("Error: \(error.localizedDescription)")
+}
+```
+
+{% info title="Generate types automatically" %}
+Use the [Clikkle CLI](/docs/products/databases/type-generation) to generate model structs automatically: `clikkle types collection`
+{% /info %}
+
+{% /section %}
+
+{% section #step-7 step=7 title="All set" %}
+Run your project by clicking **Start active scheme** in Xcode.
+{% /section %}
+
+6:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[["$","$L2",null,{"href":"/docs/quick-starts","className":"web-icon-button web-u-translate-x-negative absolute hidden size-10 items-center md:flex","aria-label":"Back","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left h-5 w-5 pr-0.5","aria-hidden":"true","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}]}],["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Start with Apple"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L3",null,{"markdown":"$d","className":"ml-0"}]}]]}]
+7:["$","$Le",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,["$","$Lf",null,{}],["$","$L10",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Learn how to setup your first Apple project powered by Clikkle and the ",["$","a",null,{"href":"https://github.com/clikkle/sdk-for-apple","target":"_blank","rel":"noopener nofollow","children":"Clikkle Apple SDK"}],"."]}],["$","$L11",null,{"id":"step-1","step":1,"title":"Create Apple project","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Open Xcode and click ",["$","strong",null,{"children":"Create a new Xcode project"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Choose your desired project template, for example ",["$","strong",null,{"children":"iOS App"}],",  and click ",["$","strong",null,{"children":"Next"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Now enter your app ",["$","strong",null,{"children":"product name"}]," and ",["$","strong",null,{"children":"bundle identifier"}]," and click ",["$","strong",null,{"children":"Next"}],". You will need both of these values later when you create your project in the Clikkle console."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Choose a directory for your project in and click ",["$","strong",null,{"children":"Create"}]," to create your project."]}]]}],["$","$L11",null,{"id":"step-2","step":2,"title":"Create Clikkle project","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Head to the ",["$","a",null,{"href":"https://cloud.clikkle.io/console","children":"Clikkle Console"}],"."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/create-project.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/create-project.png","alt":"Create project screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If this is your first time using Clikkle, create an account and create your first project."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then, under ",["$","strong",null,{"children":"Add a platform"}],", add an ",["$","strong",null,{"children":"Apple app"}],". Choose any of ",["$","strong",null,{"children":"iOS"}],", ",["$","strong",null,{"children":"macOS"}],", ",["$","strong",null,{"children":"watchOS"}]," or ",["$","strong",null,{"children":"tvOS"}]," as your Apple platform. If you are creating a multi-platform app, you can add more platforms later."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add your app's ",["$","strong",null,{"children":"product name"}]," and ",["$","strong",null,{"children":"bundle identifier"}],", your bundle identifier is the one entered when creating an Xcode project. For existing projects, you should use the ",["$","strong",null,{"children":"bundle identifier"}]," from your project files ",["$","strong",null,{"children":"Identity"}]," section."]}],"$L12","$L13","$L14"]}],"$L15","$L16","$L17","$L18","$L19"]}]}]]}],"$L1a"]}]
+8:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1b",null,{"items":[{"id":"step-1","title":"Create Apple project","level":2},{"id":"step-2","title":"Create Clikkle project","level":2},{"id":"step-3","title":"Add the Clikkle SDK","level":2},{"id":"step-4","title":"Create Clikkle Singleton","level":2},{"id":"step-5","title":"Create a login page","level":2},{"id":"step-6","title":"Type safety with models","level":2},{"id":"step-7","title":"All set","level":2}]}]}]
+9:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+a:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+b:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+c:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+12:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+13:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/add-platform.png","alt":"Add a platform","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+14:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can skip optional steps."}]
+15:["$","$L11",null,{"id":"step-3","step":3,"title":"Add the Clikkle SDK","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To add the Clikkle SDK for Apple as a dependency, open the ",["$","strong",null,{"children":"File"}]," menu and click ",["$","strong",null,{"children":"Add Packages"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In the ",["$","strong",null,{"children":"Package URL"}]," search box, enter https://github.com/clikkle/sdk-for-apple."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Once the SDK is found, use ",["$","code",null,{"children":"10.1.0"}]," as version, select ",["$","strong",null,{"children":"Up to Next Major Version"}]," as your ",["$","strong",null,{"children":"Dependency Rule"}]," and click ",["$","strong",null,{"children":"Add Package"}],"."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When dependency resolution is complete, click ",["$","strong",null,{"children":"Add Package"}]," again to add the SDK package to your target."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In order to allow creating OAuth sessions, the following URL scheme must be added to your ",["$","strong",null,{"children":"Info.plist"}]," file."]}],["$","$L1f",null,{"language":"xml","content":"<key>CFBundleURLTypes</key>\n<array>\n<dict>\n    <key>CFBundleTypeRole</key>\n    <string>Editor</string>\n    <key>CFBundleURLName</key>\n    <string>io.clikkle</string>\n    <key>CFBundleURLSchemes</key>\n    <array>\n        <string>clikkle-callback-<PROJECT_ID></string>\n    </array>\n</dict>\n</array>\n","children":"<key>CFBundleURLTypes</key>\n<array>\n<dict>\n    <key>CFBundleTypeRole</key>\n    <string>Editor</string>\n    <key>CFBundleURLName</key>\n    <string>io.clikkle</string>\n    <key>CFBundleURLSchemes</key>\n    <array>\n        <string>clikkle-callback-<PROJECT_ID></string>\n    </array>\n</dict>\n</array>\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you're using UIKit as opposed to SwiftUI, you will also need to add the following to your ",["$","strong",null,{"children":"SceneDelegate.swift"}]," file."]}],["$","$L1f",null,{"language":"swift","content":"func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {\n    guard let url = URLContexts.first?.url,\n        url.absoluteString.contains(\"clikkle-callback\") else {\n        return\n    }\n\n    WebAuthComponent.handleIncomingCookie(from: url)\n}\n","children":"func scene(_ scene: UIScene, openURLContexts URLContexts: Set<UIOpenURLContext>) {\n    guard let url = URLContexts.first?.url,\n        url.absoluteString.contains(\"clikkle-callback\") else {\n        return\n    }\n\n    WebAuthComponent.handleIncomingCookie(from: url)\n}\n"}]]}]
+16:["$","$L11",null,{"id":"step-4","step":4,"title":"Create Clikkle Singleton","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Find your project's ID in the ",["$","strong",null,{"children":"Settings"}]," page."]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/dark/project-id.png","alt":"Project settings screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/quick-starts/project-id.png","alt":"Project settings screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file ",["$","code",null,{"children":"Clikkle.swift"}]," and add the following code to it, replacing ",["$","code",null,{"children":"<PROJECT_ID>"}]," with your project ID."]}],["$","$L1f",null,{"language":"swift","content":"import Foundation\nimport Clikkle\nimport JSONCodable\n\nclass Clikkle {\n    var client: Client\n    var account: Account\n    \n    public init() {\n        self.client = Client()\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n            .setProject(\"<PROJECT_ID>\")\n        \n        self.account = Account(client)\n    }\n    \n    public func onRegister(\n        _ email: String,\n        _ password: String\n    ) async throws -> User<[String: AnyCodable]> {\n        try await account.create(\n            userId: ID.unique(),\n            email: email,\n            password: password\n        )\n    }\n    \n    public func onLogin(\n        _ email: String,\n        _ password: String\n    ) async throws -> Session {\n        try await account.createEmailPasswordSession(\n            email: email,\n            password: password\n        )\n    }\n    \n    public func onLogout() async throws {\n        _ = try await account.deleteSession(\n            sessionId: \"current\"\n        )\n    }\n    \n}\n\n","children":"import Foundation\nimport Clikkle\nimport JSONCodable\n\nclass Clikkle {\n    var client: Client\n    var account: Account\n    \n    public init() {\n        self.client = Client()\n            .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n            .setProject(\"<PROJECT_ID>\")\n        \n        self.account = Account(client)\n    }\n    \n    public func onRegister(\n        _ email: String,\n        _ password: String\n    ) async throws -> User<[String: AnyCodable]> {\n        try await account.create(\n            userId: ID.unique(),\n            email: email,\n            password: password\n        )\n    }\n    \n    public func onLogin(\n        _ email: String,\n        _ password: String\n    ) async throws -> Session {\n        try await account.createEmailPasswordSession(\n            email: email,\n            password: password\n        )\n    }\n    \n    public func onLogout() async throws {\n        _ = try await account.deleteSession(\n            sessionId: \"current\"\n        )\n    }\n    \n}\n\n"}]]}]
+20:T490,import SwiftUI
+
+class ViewModel: ObservableObject {
+    @Published var email: String = ""
+    @Published var password: String = ""
+}
+
+struct ContentView: View {
+    @ObservedObject var viewModel = ViewModel()
+    let clikkle = Clikkle()
+
+    var body: some View {
+        VStack {
+            TextField(
+                "Email",
+                text: $viewModel.email
+            )
+            SecureField(
+                "Password",
+                text: $viewModel.password
+            )
+            Button(
+                action: { Task {
+                    try await clikkle.onRegister(
+                        viewModel.email,
+                        viewModel.password
+                    )
+                }},
+                label: {
+                    Text("Register")
+                }
+            )
+            Button(
+                action: { Task {
+                    try await clikkle.onLogin(
+                        viewModel.email,
+                        viewModel.password
+                    )
+                }},
+                label: {
+                    Text("Login")
+                }
+            )
+        }
+        .padding()
+    }
+}
+21:T490,import SwiftUI
+
+class ViewModel: ObservableObject {
+    @Published var email: String = ""
+    @Published var password: String = ""
+}
+
+struct ContentView: View {
+    @ObservedObject var viewModel = ViewModel()
+    let clikkle = Clikkle()
+
+    var body: some View {
+        VStack {
+            TextField(
+                "Email",
+                text: $viewModel.email
+            )
+            SecureField(
+                "Password",
+                text: $viewModel.password
+            )
+            Button(
+                action: { Task {
+                    try await clikkle.onRegister(
+                        viewModel.email,
+                        viewModel.password
+                    )
+                }},
+                label: {
+                    Text("Register")
+                }
+            )
+            Button(
+                action: { Task {
+                    try await clikkle.onLogin(
+                        viewModel.email,
+                        viewModel.password
+                    )
+                }},
+                label: {
+                    Text("Login")
+                }
+            )
+        }
+        .padding()
+    }
+}
+17:["$","$L11",null,{"id":"step-5","step":5,"title":"Create a login page","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add the following code to ",["$","code",null,{"children":"ContentView.swift"}],"."]}],["$","$L1f",null,{"language":"swift","content":"$20","children":"$21"}]]}]
+18:["$","$L11",null,{"id":"step-6","step":6,"title":"Type safety with models","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For enhanced type safety, you can use custom model structs with the ",["$","code",null,{"children":"nestedType"}]," parameter:"]}],["$","$L1f",null,{"language":"swift","content":"import Clikkle\nstruct User: Codable {\n    let name: String\n    let email: String\n    let isVerified: Bool\n}\n\n// Usage with type safety\nlet clikkle = Clikkle()\nlet tablesDB = TablesDB(clikkle.client)\n\ndo {\n    let users = try await tablesDB.listRows(\n        databaseId: \"[DATABASE_ID]\",\n        tableId: \"[TABLE_ID]\",\n        nestedType: User.self // Enables type safety\n    )\n\n    for user in users.rows {\n        print(\"User: \\(user.name) (\\(user.email))\")\n    }\n} catch {\n    print(\"Error: \\(error.localizedDescription)\")\n}\n","children":"import Clikkle\nstruct User: Codable {\n    let name: String\n    let email: String\n    let isVerified: Bool\n}\n\n// Usage with type safety\nlet clikkle = Clikkle()\nlet tablesDB = TablesDB(clikkle.client)\n\ndo {\n    let users = try await tablesDB.listRows(\n        databaseId: \"[DATABASE_ID]\",\n        tableId: \"[TABLE_ID]\",\n        nestedType: User.self // Enables type safety\n    )\n\n    for user in users.rows {\n        print(\"User: \\(user.name) (\\(user.email))\")\n    }\n} catch {\n    print(\"Error: \\(error.localizedDescription)\")\n}\n"}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Generate types automatically"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the ",["$","$L2",null,{"href":"/docs/products/databases/type-generation","children":"Clikkle CLI"}]," to generate model structs automatically: ",["$","code",null,{"children":"clikkle types collection"}]]}]]}]]}]
+19:["$","$L11",null,{"id":"step-7","step":7,"title":"All set","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Run your project by clicking ",["$","strong",null,{"children":"Start active scheme"}]," in Xcode."]}]}]
+1a:["$","$L22",null,{}]
+1e:null

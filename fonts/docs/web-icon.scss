@@ -1,0 +1,169 @@
+@font-face {font-family: "web-icon";
+  src: url('web-icon.eot'); /* IE9*/
+  src: url('web-icon.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("web-icon.woff2") format("woff2"),
+  url("web-icon.woff") format("woff"),
+  url('web-icon.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('web-icon.svg#web-icon') format('svg'); /* iOS 4.1- */
+}
+
+[class^="web-icon-"], [class*=" web-icon-"] {
+  font-family: 'web-icon' !important;
+  font-size: 20px;
+  font-display: swap;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.web-icon-apple::before { content: "\ea01"; }
+.web-icon-appwrite::before { content: "\ea02"; }
+.web-icon-arena::before { content: "\ea03"; }
+.web-icon-arrow-down::before { content: "\ea04"; }
+.web-icon-arrow-ext-link::before { content: "\ea05"; }
+.web-icon-arrow-left::before { content: "\ea06"; }
+.web-icon-arrow-right::before { content: "\ea07"; }
+.web-icon-arrow-up::before { content: "\ea08"; }
+.web-icon-bluesky::before { content: "\ea09"; }
+.web-icon-calendar::before { content: "\ea0a"; }
+.web-icon-check::before { content: "\ea0b"; }
+.web-icon-chevron-down::before { content: "\ea0c"; }
+.web-icon-chevron-left::before { content: "\ea0d"; }
+.web-icon-chevron-right::before { content: "\ea0e"; }
+.web-icon-chevron-up::before { content: "\ea0f"; }
+.web-icon-close::before { content: "\ea10"; }
+.web-icon-command::before { content: "\ea11"; }
+.web-icon-copy::before { content: "\ea12"; }
+.web-icon-customize::before { content: "\ea13"; }
+.web-icon-daily-dev::before { content: "\ea14"; }
+.web-icon-dark::before { content: "\ea15"; }
+.web-icon-dart::before { content: "\ea16"; }
+.web-icon-deno::before { content: "\ea17"; }
+.web-icon-discord::before { content: "\ea18"; }
+.web-icon-divider-vertical::before { content: "\ea19"; }
+.web-icon-dotnet::before { content: "\ea1a"; }
+.web-icon-download::before { content: "\ea1b"; }
+.web-icon-edge::before { content: "\ea1c"; }
+.web-icon-ext-link::before { content: "\ea1d"; }
+.web-icon-external-icon::before { content: "\ea1e"; }
+.web-icon-firebase::before { content: "\ea1f"; }
+.web-icon-github::before { content: "\ea20"; }
+.web-icon-go::before { content: "\ea21"; }
+.web-icon-google::before { content: "\ea22"; }
+.web-icon-hamburger-menu::before { content: "\ea23"; }
+.web-icon-instagram::before { content: "\ea24"; }
+.web-icon-kotlin::before { content: "\ea25"; }
+.web-icon-light::before { content: "\ea26"; }
+.web-icon-linkedin::before { content: "\ea27"; }
+.web-icon-location::before { content: "\ea28"; }
+.web-icon-logout-left::before { content: "\ea29"; }
+.web-icon-logout-right::before { content: "\ea2a"; }
+.web-icon-mailgun::before { content: "\ea2b"; }
+.web-icon-mcp::before { content: "\ea2c"; }
+.web-icon-message::before { content: "\ea2d"; }
+.web-icon-microsoft::before { content: "\ea2e"; }
+.web-icon-minus::before { content: "\ea2f"; }
+.web-icon-nuxt::before { content: "\ea30"; }
+.web-icon-php::before { content: "\ea31"; }
+.web-icon-platform::before { content: "\ea32"; }
+.web-icon-play::before { content: "\ea33"; }
+.web-icon-plus::before { content: "\ea34"; }
+.web-icon-pop-locations::before { content: "\ea35"; }
+.web-icon-product-hunt::before { content: "\ea36"; }
+.web-icon-refine::before { content: "\ea37"; }
+.web-icon-regions::before { content: "\ea38"; }
+.web-icon-remix::before { content: "\ea39"; }
+.web-icon-rest::before { content: "\ea3a"; }
+.web-icon-ruby::before { content: "\ea3b"; }
+.web-icon-search::before { content: "\ea3c"; }
+.web-icon-sendgrid::before { content: "\ea3d"; }
+.web-icon-skills::before { content: "\ea3e"; }
+.web-icon-sparkle::before { content: "\ea3f"; }
+.web-icon-star::before { content: "\ea40"; }
+.web-icon-swift::before { content: "\ea41"; }
+.web-icon-system::before { content: "\ea42"; }
+.web-icon-tanstack::before { content: "\ea43"; }
+.web-icon-textmagic::before { content: "\ea44"; }
+.web-icon-ticket::before { content: "\ea45"; }
+.web-icon-tiktok::before { content: "\ea46"; }
+.web-icon-twitter::before { content: "\ea47"; }
+.web-icon-vue::before { content: "\ea48"; }
+.web-icon-x::before { content: "\ea49"; }
+.web-icon-ycombinator::before { content: "\ea4a"; }
+.web-icon-youtube::before { content: "\ea4b"; }
+
+$web-icon-apple: "\ea01";
+$web-icon-appwrite: "\ea02";
+$web-icon-arena: "\ea03";
+$web-icon-arrow-down: "\ea04";
+$web-icon-arrow-ext-link: "\ea05";
+$web-icon-arrow-left: "\ea06";
+$web-icon-arrow-right: "\ea07";
+$web-icon-arrow-up: "\ea08";
+$web-icon-bluesky: "\ea09";
+$web-icon-calendar: "\ea0a";
+$web-icon-check: "\ea0b";
+$web-icon-chevron-down: "\ea0c";
+$web-icon-chevron-left: "\ea0d";
+$web-icon-chevron-right: "\ea0e";
+$web-icon-chevron-up: "\ea0f";
+$web-icon-close: "\ea10";
+$web-icon-command: "\ea11";
+$web-icon-copy: "\ea12";
+$web-icon-customize: "\ea13";
+$web-icon-daily-dev: "\ea14";
+$web-icon-dark: "\ea15";
+$web-icon-dart: "\ea16";
+$web-icon-deno: "\ea17";
+$web-icon-discord: "\ea18";
+$web-icon-divider-vertical: "\ea19";
+$web-icon-dotnet: "\ea1a";
+$web-icon-download: "\ea1b";
+$web-icon-edge: "\ea1c";
+$web-icon-ext-link: "\ea1d";
+$web-icon-external-icon: "\ea1e";
+$web-icon-firebase: "\ea1f";
+$web-icon-github: "\ea20";
+$web-icon-go: "\ea21";
+$web-icon-google: "\ea22";
+$web-icon-hamburger-menu: "\ea23";
+$web-icon-instagram: "\ea24";
+$web-icon-kotlin: "\ea25";
+$web-icon-light: "\ea26";
+$web-icon-linkedin: "\ea27";
+$web-icon-location: "\ea28";
+$web-icon-logout-left: "\ea29";
+$web-icon-logout-right: "\ea2a";
+$web-icon-mailgun: "\ea2b";
+$web-icon-mcp: "\ea2c";
+$web-icon-message: "\ea2d";
+$web-icon-microsoft: "\ea2e";
+$web-icon-minus: "\ea2f";
+$web-icon-nuxt: "\ea30";
+$web-icon-php: "\ea31";
+$web-icon-platform: "\ea32";
+$web-icon-play: "\ea33";
+$web-icon-plus: "\ea34";
+$web-icon-pop-locations: "\ea35";
+$web-icon-product-hunt: "\ea36";
+$web-icon-refine: "\ea37";
+$web-icon-regions: "\ea38";
+$web-icon-remix: "\ea39";
+$web-icon-rest: "\ea3a";
+$web-icon-ruby: "\ea3b";
+$web-icon-search: "\ea3c";
+$web-icon-sendgrid: "\ea3d";
+$web-icon-skills: "\ea3e";
+$web-icon-sparkle: "\ea3f";
+$web-icon-star: "\ea40";
+$web-icon-swift: "\ea41";
+$web-icon-system: "\ea42";
+$web-icon-tanstack: "\ea43";
+$web-icon-textmagic: "\ea44";
+$web-icon-ticket: "\ea45";
+$web-icon-tiktok: "\ea46";
+$web-icon-twitter: "\ea47";
+$web-icon-vue: "\ea48";
+$web-icon-x: "\ea49";
+$web-icon-ycombinator: "\ea4a";
+$web-icon-youtube: "\ea4b";

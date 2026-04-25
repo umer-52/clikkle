@@ -1,0 +1,302 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+27:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+28:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+29:"$Sreact.suspense"
+2b:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T164b,---
+layout: article
+title: Backups
+description: Learn how to efficiently back up your databases on Clikkle Cloud, ensuring data security and seamless recovery.
+---
+
+Clikkle Backups enable seamless, **encrypted** database backups on Cloud.
+All backups are **hot** backups, ensuring zero downtime and fast recovery.
+Learn how to efficiently back up your databases to ensure data security and smooth recovery.
+
+{% info title="Backups are available on Clikkle Cloud for all Pro, Scale, and Enterprise customers." %}
+{% /info %}
+
+Clikkle Backups allow you to automate database backups using backup policies, supporting pre-defined, custom retention & other options. You can also create manual backups whenever necessary.
+
+# Backup policies {% #backup-policies %}
+
+Backup policies allow you to automate your backup process. The Scale and Enterprise plans allow for more customization and offer options like how often backups should occur, how long they should be retained, and when they should run.
+
+## Creating a backup policy {% #creating-backup-policy %}
+
+To automate your database backups, you need to create backup policies that run at scheduled intervals.
+
+{% only_dark %}
+![Create databases screen](/clikkle/images/docs/databases/dark/databases.png)
+{% /only_dark %}
+{% only_light %}
+![Create databases screen](/clikkle/images/docs/databases/databases.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Databases**
+2. Create or select & navigate to your database and click on the **Backups** Tab
+3. Click on **Create Policies** & select a pre-defined policy\
+&nbsp;
+    * On a **Pro** plan, you get access to a Daily backup policy
+    {% only_dark %}
+    ![Pro plan policy](/clikkle/images/docs/databases/dark/pro-policy.png)
+    {% /only_dark %}
+    {% only_light %}
+    ![Pro plan policy](/clikkle/images/docs/databases/pro-policy.png)
+    {% /only_light %}
+
+    * On **Scale** and **Enterprise** plans, you get access to more & custom policies\
+    &nbsp;
+        * Select a pre-defined policy
+            {% only_dark %}
+            ![Scale plan policies](/clikkle/images/docs/databases/dark/scale-policies.png)
+            {% /only_dark %}
+            {% only_light %}
+            ![Scale plan policies](/clikkle/images/docs/databases/scale-policies.png)
+            {% /only_light %}
+        * Or create a custom policy and adjust the settings as you like
+            {% only_dark %}
+            ![Custom policies for Scale plan](/clikkle/images/docs/databases/dark/scale-custom-policies.png)
+            {% /only_dark %}
+            {% only_light %}
+            ![Custom policies for Scale plan](/clikkle/images/docs/databases/scale-custom-policies.png)
+            {% /only_light %}
+
+4. Click on **Create**
+
+Your database is now set up for automated backups with just a few clicks.
+Note that you can always navigate to the same tab and click **Create Manual** to create a backup on-demand.
+
+# Manual backups {% #manual-backups %}
+
+You can always create an on-demand backup whenever necessary.
+
+{% only_dark %}
+![Manual backup](/clikkle/images/docs/databases/dark/manual-backup.png)
+{% /only_dark %}
+{% only_light %}
+![Manual backup](/clikkle/images/docs/databases/manual-backup.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Databases**
+2. Select & navigate to your database and click on the **Backups** Tab
+3. Click on **Manual Backup**
+
+Depending on the size of your database, the backup process may take some time to complete.
+You can monitor its progress via the floating status bar at the bottom of your screen.
+
+# Restoring backups {% #restoring-backups %}
+
+To restore a database, you must have a backup of the database you want to restore.
+
+{% only_dark %}
+![Restore databases](/clikkle/images/docs/databases/dark/restore.png)
+{% /only_dark %}
+{% only_light %}
+![Restore databases](/clikkle/images/docs/databases/restore.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Databases**
+2. Select & navigate to your database and click on the **Backups** Tab
+3. Click on the options menu in the far corner of your backup
+4. In the dropdown menu, click **Restore**.
+5. Enter the new database name and an optional database ID
+6. Click **Restore**
+
+Depending on the size of your database, the restoration process may take some time.
+You can observe its status in a floating bar across your project.
+
+# Backup security & performance {% #backup-security-and-performance %}
+
+All backups created with Clikkle are:
+
+1. **Encrypted**:
+    All backups are securely encrypted to ensure your data remains protected at all times.
+
+2. **Remotely stored**:
+    Backups are stored in a remote location, providing an additional layer of security and ensuring your data is always recoverable.
+
+3. **Hot backups**:
+    Backups are hot, meaning they occur with zero downtime, allowing you to recover data quickly without interrupting your projects and services.
+
+# Best practices {% #best-practices %}
+
+To ensure your backups are robust and effective, consider the following best practices:
+
+1. **Schedule regular backups**:
+   Add multiple backup policies based on the frequency of database changes. Daily or weekly backups are often sufficient for most use cases.
+
+2. **Retain critical backups longer**:
+   Use custom policies with longer retention to keep backups of critical data for extended periods, ensuring historical records are available when needed.
+
+3. **Optimize backup policies based on data sensitivity**:
+   Tailor your backup frequency and retention settings according to the sensitivity and importance of the data.
+   Critical data may require more frequent backups, while less essential data can have longer retention and fewer backups.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T164b,---
+layout: article
+title: Backups
+description: Learn how to efficiently back up your databases on Clikkle Cloud, ensuring data security and seamless recovery.
+---
+
+Clikkle Backups enable seamless, **encrypted** database backups on Cloud.
+All backups are **hot** backups, ensuring zero downtime and fast recovery.
+Learn how to efficiently back up your databases to ensure data security and smooth recovery.
+
+{% info title="Backups are available on Clikkle Cloud for all Pro, Scale, and Enterprise customers." %}
+{% /info %}
+
+Clikkle Backups allow you to automate database backups using backup policies, supporting pre-defined, custom retention & other options. You can also create manual backups whenever necessary.
+
+# Backup policies {% #backup-policies %}
+
+Backup policies allow you to automate your backup process. The Scale and Enterprise plans allow for more customization and offer options like how often backups should occur, how long they should be retained, and when they should run.
+
+## Creating a backup policy {% #creating-backup-policy %}
+
+To automate your database backups, you need to create backup policies that run at scheduled intervals.
+
+{% only_dark %}
+![Create databases screen](/clikkle/images/docs/databases/dark/databases.png)
+{% /only_dark %}
+{% only_light %}
+![Create databases screen](/clikkle/images/docs/databases/databases.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Databases**
+2. Create or select & navigate to your database and click on the **Backups** Tab
+3. Click on **Create Policies** & select a pre-defined policy\
+&nbsp;
+    * On a **Pro** plan, you get access to a Daily backup policy
+    {% only_dark %}
+    ![Pro plan policy](/clikkle/images/docs/databases/dark/pro-policy.png)
+    {% /only_dark %}
+    {% only_light %}
+    ![Pro plan policy](/clikkle/images/docs/databases/pro-policy.png)
+    {% /only_light %}
+
+    * On **Scale** and **Enterprise** plans, you get access to more & custom policies\
+    &nbsp;
+        * Select a pre-defined policy
+            {% only_dark %}
+            ![Scale plan policies](/clikkle/images/docs/databases/dark/scale-policies.png)
+            {% /only_dark %}
+            {% only_light %}
+            ![Scale plan policies](/clikkle/images/docs/databases/scale-policies.png)
+            {% /only_light %}
+        * Or create a custom policy and adjust the settings as you like
+            {% only_dark %}
+            ![Custom policies for Scale plan](/clikkle/images/docs/databases/dark/scale-custom-policies.png)
+            {% /only_dark %}
+            {% only_light %}
+            ![Custom policies for Scale plan](/clikkle/images/docs/databases/scale-custom-policies.png)
+            {% /only_light %}
+
+4. Click on **Create**
+
+Your database is now set up for automated backups with just a few clicks.
+Note that you can always navigate to the same tab and click **Create Manual** to create a backup on-demand.
+
+# Manual backups {% #manual-backups %}
+
+You can always create an on-demand backup whenever necessary.
+
+{% only_dark %}
+![Manual backup](/clikkle/images/docs/databases/dark/manual-backup.png)
+{% /only_dark %}
+{% only_light %}
+![Manual backup](/clikkle/images/docs/databases/manual-backup.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Databases**
+2. Select & navigate to your database and click on the **Backups** Tab
+3. Click on **Manual Backup**
+
+Depending on the size of your database, the backup process may take some time to complete.
+You can monitor its progress via the floating status bar at the bottom of your screen.
+
+# Restoring backups {% #restoring-backups %}
+
+To restore a database, you must have a backup of the database you want to restore.
+
+{% only_dark %}
+![Restore databases](/clikkle/images/docs/databases/dark/restore.png)
+{% /only_dark %}
+{% only_light %}
+![Restore databases](/clikkle/images/docs/databases/restore.png)
+{% /only_light %}
+
+1. In the Clikkle Console's sidebar, click **Databases**
+2. Select & navigate to your database and click on the **Backups** Tab
+3. Click on the options menu in the far corner of your backup
+4. In the dropdown menu, click **Restore**.
+5. Enter the new database name and an optional database ID
+6. Click **Restore**
+
+Depending on the size of your database, the restoration process may take some time.
+You can observe its status in a floating bar across your project.
+
+# Backup security & performance {% #backup-security-and-performance %}
+
+All backups created with Clikkle are:
+
+1. **Encrypted**:
+    All backups are securely encrypted to ensure your data remains protected at all times.
+
+2. **Remotely stored**:
+    Backups are stored in a remote location, providing an additional layer of security and ensuring your data is always recoverable.
+
+3. **Hot backups**:
+    Backups are hot, meaning they occur with zero downtime, allowing you to recover data quickly without interrupting your projects and services.
+
+# Best practices {% #best-practices %}
+
+To ensure your backups are robust and effective, consider the following best practices:
+
+1. **Schedule regular backups**:
+   Add multiple backup policies based on the frequency of database changes. Daily or weekly backups are often sufficient for most use cases.
+
+2. **Retain critical backups longer**:
+   Use custom policies with longer retention to keep backups of critical data for extended periods, ensuring historical records are available when needed.
+
+3. **Optimize backup policies based on data sensitivity**:
+   Tailor your backup frequency and retention settings according to the sensitivity and importance of the data.
+   Critical data may require more frequent backups, while less essential data can have longer retention and fewer backups.
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Backups"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle Backups enable seamless, ",["$","strong",null,{"children":"encrypted"}]," database backups on Cloud."," ","All backups are ",["$","strong",null,{"children":"hot"}]," backups, ensuring zero downtime and fast recovery."," ","Learn how to efficiently back up your databases to ensure data security and smooth recovery."]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Backups are available on Clikkle Cloud for all Pro, Scale, and Enterprise customers."}],"$undefined"]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle Backups allow you to automate database backups using backup policies, supporting pre-defined, custom retention & other options. You can also create manual backups whenever necessary."}],["$","$Le",null,{"id":"backup-policies","level":1,"children":"Backup policies "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Backup policies allow you to automate your backup process. The Scale and Enterprise plans allow for more customization and offer options like how often backups should occur, how long they should be retained, and when they should run."}],["$","$Le",null,{"id":"creating-backup-policy","level":2,"children":"Creating a backup policy "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To automate your database backups, you need to create backup policies that run at scheduled intervals."}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/dark/databases.png","alt":"Create databases screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/databases.png","alt":"Create databases screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In the Clikkle Console's sidebar, click ",["$","strong",null,{"children":"Databases"}]]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create or select & navigate to your database and click on the ",["$","strong",null,{"children":"Backups"}]," Tab"]}]}],["$","li",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Click on ",["$","strong",null,{"children":"Create Policies"}]," & select a pre-defined policy",["$","br",null,{}]," "]}],["$","ul",null,{"className":"web-pink-dots","children":["$","li",null,{"children":["On a ",["$","strong",null,{"children":"Pro"}]," plan, you get access to a Daily backup policy"]}]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"$Lf"}]}],"$L10","$L11"]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]]}],"$L26"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L27",null,{"items":[{"id":"backup-policies","title":"Backup policies","level":1},{"id":"creating-backup-policy","title":"Creating a backup policy","level":2},{"id":"manual-backups","title":"Manual backups","level":1},{"id":"restoring-backups","title":"Restoring backups","level":1},{"id":"backup-security-and-performance","title":"Backup security & performance","level":1},{"id":"best-practices","title":"Best practices","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L28",null,{"children":["$","$29",null,{"name":"Next.MetadataOutlet","children":"$@2a"}]}]
+f:["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/dark/pro-policy.png","alt":"Pro plan policy","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]
+10:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/pro-policy.png","alt":"Pro plan policy","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+11:["$","ul",null,{"className":"web-pink-dots","children":["$","li",null,{"children":["On ",["$","strong",null,{"children":"Scale"}]," and ",["$","strong",null,{"children":"Enterprise"}]," plans, you get access to more & custom policies",["$","br",null,{}]," ",["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["Select a pre-defined policy",["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/dark/scale-policies.png","alt":"Scale plan policies","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/scale-policies.png","alt":"Scale plan policies","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]]}],["$","li",null,{"children":["Or create a custom policy and adjust the settings as you like",["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/dark/scale-custom-policies.png","alt":"Custom policies for Scale plan","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/scale-custom-policies.png","alt":"Custom policies for Scale plan","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]]}]]}]]}]}]
+12:["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Click on ",["$","strong",null,{"children":"Create"}]]}]}]
+13:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Your database is now set up for automated backups with just a few clicks."," ","Note that you can always navigate to the same tab and click ",["$","strong",null,{"children":"Create Manual"}]," to create a backup on-demand."]}]
+14:["$","$Le",null,{"id":"manual-backups","level":1,"children":"Manual backups "}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can always create an on-demand backup whenever necessary."}]
+16:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/dark/manual-backup.png","alt":"Manual backup","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+17:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/manual-backup.png","alt":"Manual backup","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+18:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["In the Clikkle Console's sidebar, click ",["$","strong",null,{"children":"Databases"}]]}],["$","li",null,{"children":["Select & navigate to your database and click on the ",["$","strong",null,{"children":"Backups"}]," Tab"]}],["$","li",null,{"children":["Click on ",["$","strong",null,{"children":"Manual Backup"}]]}]]}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Depending on the size of your database, the backup process may take some time to complete."," ","You can monitor its progress via the floating status bar at the bottom of your screen."]}]
+1a:["$","$Le",null,{"id":"restoring-backups","level":1,"children":"Restoring backups "}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To restore a database, you must have a backup of the database you want to restore."}]
+1c:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/dark/restore.png","alt":"Restore databases","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+1d:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/restore.png","alt":"Restore databases","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+1e:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["In the Clikkle Console's sidebar, click ",["$","strong",null,{"children":"Databases"}]]}],["$","li",null,{"children":["Select & navigate to your database and click on the ",["$","strong",null,{"children":"Backups"}]," Tab"]}],["$","li",null,{"children":"Click on the options menu in the far corner of your backup"}],["$","li",null,{"children":["In the dropdown menu, click ",["$","strong",null,{"children":"Restore"}],"."]}],["$","li",null,{"children":"Enter the new database name and an optional database ID"}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Restore"}]]}]]}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Depending on the size of your database, the restoration process may take some time."," ","You can observe its status in a floating bar across your project."]}]
+20:["$","$Le",null,{"id":"backup-security-and-performance","level":1,"children":"Backup security & performance "}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"All backups created with Clikkle are:"}]
+22:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Encrypted"}],":"," ","All backups are securely encrypted to ensure your data remains protected at all times."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Remotely stored"}],":"," ","Backups are stored in a remote location, providing an additional layer of security and ensuring your data is always recoverable."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Hot backups"}],":"," ","Backups are hot, meaning they occur with zero downtime, allowing you to recover data quickly without interrupting your projects and services."]}]}]]}]
+23:["$","$Le",null,{"id":"best-practices","level":1,"children":"Best practices "}]
+24:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To ensure your backups are robust and effective, consider the following best practices:"}]
+25:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Schedule regular backups"}],":"," ","Add multiple backup policies based on the frequency of database changes. Daily or weekly backups are often sufficient for most use cases."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Retain critical backups longer"}],":"," ","Use custom policies with longer retention to keep backups of critical data for extended periods, ensuring historical records are available when needed."]}]}],["$","li",null,{"children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","strong",null,{"children":"Optimize backup policies based on data sensitivity"}],":"," ","Tailor your backup frequency and retention settings according to the sensitivity and importance of the data."," ","Critical data may require more frequent backups, while less essential data can have longer retention and fewer backups."]}]}]]}]
+26:["$","$L2b",null,{}]
+2a:null

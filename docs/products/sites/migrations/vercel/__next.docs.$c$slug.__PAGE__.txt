@@ -1,0 +1,892 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TableTag"]
+10:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+49:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+4a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+4b:"$Sreact.suspense"
+4d:I[9959862,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsSection"]
+4e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+54:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+55:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T3bb8,---
+layout: article
+title: Migrating from Vercel to Clikkle Sites
+description: A step-by-step guide to migrate your web applications from Vercel to Clikkle Sites.
+---
+
+This guide walks you through migrating from Vercel to Clikkle Sites, covering project setup, configuration, routing, and serverless functionality.
+
+# Prerequisites
+
+Before starting your migration:
+
+- Have access to your Vercel project dashboard
+- Ensure you can modify your domain's DNS settings
+- Prepare your source code repository
+
+# Platform differences
+
+Understanding the key differences between Vercel and Clikkle Sites will help you plan your migration effectively.
+
+{% table %}
+- Feature
+- Vercel
+- Clikkle Sites
+
+---
+
+- DNS configuration
+- Uses A records for apex domains
+- Uses NS records for apex domains
+
+---
+
+- Configuration approach
+- Platform-level configuration via vercel.json
+- Framework-native configuration with SSR support
+
+---
+
+- Redirects
+- Platform-level path redirects via vercel.json
+- Domain-level redirects and framework-level path redirects
+{% /table %}
+
+# Migration process
+
+Follow these steps to move your application from Vercel to Clikkle Sites.
+
+{% section id="create-project" step=1 title="Create an Clikkle project" %}
+Start by setting up a new project in Clikkle:
+
+1. Sign in to the [Clikkle Console](https://cloud.clikkle.io)
+2. Click **Create Project**
+3. Enter a name for your project and click **Create**
+
+Your new project will serve as the container for your migrated site and any other Clikkle services you might need.
+{% /section %}
+
+{% section id="connect-repo" step=2 title="Connect your repository" %}
+Next, create a new site by connecting your existing repository:
+
+1. In your Clikkle project, select **Sites** from the sidebar
+2. Click **Create Site**
+3. Select **Connect a repository**
+4. Authenticate with GitHub
+5. Select the repository containing your Vercel project
+6. Choose your production branch (typically `main`)
+
+Clikkle will auto-detect your framework. Verify this is correct or select manually from the dropdown menu.
+{% /section %}
+
+# Configure your domain
+
+One of the differences between Vercel and Clikkle is how they handle domain configuration for apex domains. Vercel uses A records for apex domains, while Clikkle uses nameserver (NS) records. This means you'll need to delegate DNS management to Clikkle.
+
+# Migrating an apex domain
+
+{% section id="prepare-vercel-domain" step=1 title="Prepare your Vercel domain" %}
+Before migrating, row your current Vercel DNS configuration:
+
+1. In Vercel, go to project settings > Domains
+2. Note any custom DNS records you've configured (MX, TXT, etc.)
+3. Don't remove the domain from Vercel until Clikkle is fully configured
+{% /section %}
+
+{% section id="add-apex-domain" step=2 title="Add domain to Clikkle Sites" %}
+Add your apex domain to your Clikkle site:
+
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain**
+3. Enter your apex domain (e.g., `example.com`)
+4. Select **Active deployment** as the domain rule type
+5. Note the NS records Clikkle provides:
+   - `ns1.clikkle.zone`
+   - `ns2.clikkle.zone`
+{% /section %}
+
+{% section id="update-nameservers" step=3 title="Update nameservers at your registrar" %}
+At your domain registrar:
+
+1. Update your domain's nameservers to point to Clikkle's nameservers
+2. If you had custom DNS records in Vercel (like MX records for email), you'll need to recreate these in Clikkle's DNS configuration
+
+{% info title="Important DNS change note" %}
+Changing nameservers delegates your entire domain's DNS management to Clikkle. DNS changes can take up to 48 hours to fully propagate.
+{% /info %}
+{% /section %}
+
+# Migrating a subdomain
+
+For subdomains, both Vercel and Clikkle use CNAME records, making the migration process simpler.
+
+{% section id="add-subdomain" step=1 title="Add subdomain to Clikkle Sites" %}
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain**
+3. Enter your subdomain (e.g., `www.example.com`)
+4. Select **Active deployment** as the domain rule type
+5. Copy the CNAME value provided by Clikkle
+{% /section %}
+
+{% section id="update-dns-records" step=2 title="Update DNS records" %}
+At your domain registrar or DNS provider:
+
+1. Create or update the CNAME record for your subdomain
+2. Point it to the value provided by Clikkle
+3. Wait for DNS propagation and verification
+{% /section %}
+
+# Domain rule types
+
+When adding a domain in Clikkle, you can choose from three rule types: Active deployment, Git branch, or Redirect.
+
+{% arrow_link href="/docs/products/sites/domains#domain-rule-types" %}
+Learn more about domain rule types
+{% /arrow_link %}
+
+
+# Configure build settings
+
+After setting up your project and domain, you'll need to configure your build settings to match your Vercel configuration.
+
+{% section id="build-settings" step=1 title="Set up build configuration" %}
+Navigate to your site > **Settings** > **Build settings** and configure the following:
+
+- **Framework:** Clikkle will attempt to automatically detect your framework. Verify and ensure it is the same framework as in Vercel.
+- **Install command:** Enter the same install command from Vercel
+- **Build command:** Enter the same build command from Vercel
+- **Output directory:** Enter the same output directory from Vercel
+- **Root directory:** If your app is in a monorepo subdirectory, specify the path
+- **Rendering:** Select the appropriate rendering mode (Static or SSR)
+
+{% only_dark %}
+![Build settings](/clikkle/images/docs/sites/dark/build-settings-install-command.png)
+{% /only_dark %}
+{% only_light %}
+![Build settings](/clikkle/images/docs/sites/build-settings-install-command.png)
+{% /only_light %}
+{% /section %}
+
+# Framework defaults
+
+Clikkle automatically detects and applies default settings for popular frameworks like Next.js, Nuxt, SvelteKit, Angular, and Astro.
+
+{% arrow_link href="/docs/products/sites/develop#project-dependencies" %}
+Learn more about framework defaults and project dependencies
+{% /arrow_link %}
+
+# Manage environment variables
+
+Environment variables require special attention during migration, as they control how your application behaves in different environments.
+
+{% section id="gather-env-vars" step=1 title="Gather variables from Vercel" %}
+Before migrating, row all your Vercel environment variables:
+
+1. In Vercel, go to your project settings > **Environment Variables**
+2. Row all variables, noting which are for development, preview, or production
+3. Identify any system variables your application relies on
+
+{% info title="System variables" %}
+Vercel automatically provides system variables like `VERCEL_URL`. You'll need to adapt your code to use Clikkle's equivalent system variables.
+{% /info %}
+{% /section %}
+
+{% section id="set-env-vars" step=2 title="Set variables in Clikkle" %}
+1. Navigate to your site > **Settings** > **Environment variables**
+2. Click the **plus (+)** icon to add a new variable
+3. Enter the key and value for each variable. You can optionally import a `.env` file.
+4. Toggle **Secret** for sensitive variables that should be hidden
+
+{% only_dark %}
+![Environment variables](/clikkle/images/docs/sites/dark/env-variables.png)
+{% /only_dark %}
+{% only_light %}
+![Environment variables](/clikkle/images/docs/sites/env-variables.png)
+{% /only_light %}
+{% /section %}
+
+# Clikkle system variables
+Clikkle automatically injects these variables into your site:
+
+| Variable                        | Description                                             | Available at Build and/or Run Time |
+| ------------------------------- | ------------------------------------------------------- | ---------------------------------- |
+| `CLIKKLE_SITE_API_ENDPOINT`    | The API endpoint of the running site                    | Both                               |
+| `CLIKKLE_SITE_NAME`            | The name of the running site.                           | Both                               |
+| `CLIKKLE_SITE_DEPLOYMENT`      | The deployment ID of the running sites.                 | Both                               |
+| `CLIKKLE_SITE_PROJECT_ID`      | The project ID of the running site.                     | Both                               |
+| `CLIKKLE_SITE_RUNTIME_NAME`    | The runtime name of the running site.                   | Both                               |
+| `CLIKKLE_SITE_RUNTIME_VERSION` | The runtime version of the running site.                | Both                               |
+| `CLIKKLE_SITE_CPUS`            | The CPU (runtime) specification of the running site.    | Both                               |
+| `CLIKKLE_SITE_MEMORY`          | The memory (runtime) specification of the running site. | Both                               |
+
+
+# Handle redirects and rewrites
+
+One key difference between Vercel and Clikkle is how they handle redirects and rewrites.
+
+{% info title="Key difference" %}
+Vercel offers platform-level path redirects configured in `vercel.json`, while Clikkle provides domain-level redirects through the Domains tab and supports framework-level path redirects through your application code.
+{% /info %}
+
+{% section id="domain-redirects" step=1 title="Domain-level redirects" %}
+Clikkle's domain-level redirects are configured in the Domains tab of your site:
+
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain** or select an existing domain
+3. Choose **Redirect** as the domain rule type
+4. Enter the destination URL and select an appropriate HTTP status code (301, 302, 303, 307, or 308)
+
+Domain redirects in Clikkle do not preserve path or query parameters. For example, if you redirect `example.com` to `clikkle.io`, then `example.com/docs?id=123` will redirect to `clikkle.io` (not `clikkle.io/docs?id=123`).
+{% /section %}
+
+{% section id="framework-redirects" step=2 title="Framework-level redirects" %}
+For path-based redirects, use your framework's built-in functionality:
+
+# Next.js
+```javascript
+// next.config.js
+module.exports = {
+  async redirects() {
+    return [
+      {
+        source: '/old-path',
+        destination: '/new-path',
+        permanent: true, // 308 status code
+      },
+    ];
+  },
+};
+```
+
+# SvelteKit
+```javascript
+// src/routes/+layout.server.js
+export function load({ url }) {
+  if (url.pathname === '/old-path') {
+    return {
+      status: 301,
+      redirect: '/new-path'
+    };
+  }
+}
+```
+
+# Nuxt
+```javascript
+// nuxt.config.js
+export default {
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.push({
+        path: '/old-path',
+        redirect: {
+          to: '/new-path',
+          statusCode: 301
+        }
+      });
+    }
+  }
+}
+```
+{% /section %}
+
+# Migrate serverless functions
+
+There are two approaches to serverless functions when migrating from Vercel to Clikkle:
+
+{% info title="Framework API routes vs. standalone functions" %}
+When using frameworks like Next.js, Nuxt, or SvelteKit with SSR enabled, your API routes will work natively within Clikkle Sites, just as they do in Vercel. For standalone serverless functions or more complex use cases, you can use [Clikkle Functions](/docs/functions).
+{% /info %}
+
+{% section id="framework-api-routes" step=1 title="Framework API routes" %}
+For frameworks with built-in API routes:
+
+1. **Next.js**: API routes in `/pages/api` or route handlers in `/app/api` work natively
+2. **Nuxt**: Server API endpoints work as expected
+3. **SvelteKit**: Server routes and API endpoints function normally
+
+No migration is needed for these framework-native API routes - they'll work automatically when you deploy your site with SSR enabled.
+{% /section %}
+
+{% section id="standalone-functions" step=2 title="Standalone Clikkle Functions" %}
+For standalone serverless functions or more complex use cases:
+
+1. In your Clikkle project, go to **Functions**
+2. Click **Create Function**
+3. Select a runtime that matches your needs (Node.js, Python, PHP, Ruby, etc.)
+4. Create your function code
+5. Deploy your function
+{% /section %}
+
+{% arrow_link href="/docs/products/functions/quick-start" %}
+Learn how to create and deploy functions
+{% /arrow_link %}
+
+{% section id="update-endpoints" step=3 title="API endpoints usage" %}
+
+# Framework API routes
+When using framework API routes within Clikkle Sites (with SSR enabled), your endpoints remain the same:
+
+- Vercel: `/api/hello`
+- Clikkle Sites: `/api/hello` (no change needed)
+
+Your existing API routes code will work without modification:
+
+```javascript
+// /api/hello.js in Next.js (works the same in both Vercel and Clikkle Sites)
+export default function handler(req, res) {
+  res.status(200).json({ message: 'Hello!' });
+}
+```
+
+# Standalone Clikkle Functions
+If you're using standalone Clikkle Functions (outside your site's codebase), you'll need to update your frontend code to use the Clikkle Functions API:
+
+```javascript
+// Calling an Clikkle Function from your frontend
+import { Client, Functions } from 'clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('your-project-id');
+
+const functions = new Functions(client);
+
+const response = await functions.createExecution({
+    functionId: 'your-function-id'
+});
+```
+{% /section %}
+
+# Handle middleware
+
+While Vercel offers platform-level Edge Middleware configured through `vercel.json`, Clikkle Sites fully supports framework-native middleware when using SSR. This means your existing middleware code will continue to work without modification.
+
+{% section id="framework-middleware" step=1 title="Framework-native middleware" %}
+# Next.js
+```javascript
+// middleware.js
+export function middleware(request) {
+  // Your middleware logic
+}
+
+export const config = {
+  matcher: '/path/:path*',
+};
+```
+
+# SvelteKit
+```javascript
+// src/hooks.server.js
+export async function handle({ event, resolve }) {
+  // Your middleware logic before response
+  const response = await resolve(event);
+  // Your middleware logic after response
+  return response;
+}
+```
+
+# Nuxt
+```javascript
+// server/middleware/example.js
+export default defineEventHandler((event) => {
+  // Your middleware logic
+});
+```
+{% /section %}
+
+# Next steps
+
+After completing your migration from Vercel to Clikkle Sites, we recommend:
+
+1. **Test thoroughly** - Verify all routes, functionality, and environment-specific features
+2. **Monitor performance** - Check that your site performs as expected on Clikkle
+3. **Set up CI/CD** - Clikkle already provides git integration and deployment workflows, but you can also use GitHub Actions or any other CI/CD tool to automate your deployments.
+4. **Explore Clikkle services** - Consider integrating with other Clikkle services like [Authentication](/docs/products/auth), [Databases](/docs/products/databases), and [Storage](/docs/products/storage)
+
+# Conclusion
+
+This guide has outlined the key steps for migrating from Vercel to Clikkle Sites. You'll find that Git integration and deployment workflows remain largely familiar, making these aspects of migration more approachable for most projects.
+
+While domain configuration and platform-specific features like middleware require some adaptation, the framework-native approaches detailed in this guide help ensure a smooth transition.
+
+For additional help, refer to the [Sites documentation](/docs/products/sites) or reach out to the Clikkle community on [Discord](https://clikkle.io/discord).
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T3bb8,---
+layout: article
+title: Migrating from Vercel to Clikkle Sites
+description: A step-by-step guide to migrate your web applications from Vercel to Clikkle Sites.
+---
+
+This guide walks you through migrating from Vercel to Clikkle Sites, covering project setup, configuration, routing, and serverless functionality.
+
+# Prerequisites
+
+Before starting your migration:
+
+- Have access to your Vercel project dashboard
+- Ensure you can modify your domain's DNS settings
+- Prepare your source code repository
+
+# Platform differences
+
+Understanding the key differences between Vercel and Clikkle Sites will help you plan your migration effectively.
+
+{% table %}
+- Feature
+- Vercel
+- Clikkle Sites
+
+---
+
+- DNS configuration
+- Uses A records for apex domains
+- Uses NS records for apex domains
+
+---
+
+- Configuration approach
+- Platform-level configuration via vercel.json
+- Framework-native configuration with SSR support
+
+---
+
+- Redirects
+- Platform-level path redirects via vercel.json
+- Domain-level redirects and framework-level path redirects
+{% /table %}
+
+# Migration process
+
+Follow these steps to move your application from Vercel to Clikkle Sites.
+
+{% section id="create-project" step=1 title="Create an Clikkle project" %}
+Start by setting up a new project in Clikkle:
+
+1. Sign in to the [Clikkle Console](https://cloud.clikkle.io)
+2. Click **Create Project**
+3. Enter a name for your project and click **Create**
+
+Your new project will serve as the container for your migrated site and any other Clikkle services you might need.
+{% /section %}
+
+{% section id="connect-repo" step=2 title="Connect your repository" %}
+Next, create a new site by connecting your existing repository:
+
+1. In your Clikkle project, select **Sites** from the sidebar
+2. Click **Create Site**
+3. Select **Connect a repository**
+4. Authenticate with GitHub
+5. Select the repository containing your Vercel project
+6. Choose your production branch (typically `main`)
+
+Clikkle will auto-detect your framework. Verify this is correct or select manually from the dropdown menu.
+{% /section %}
+
+# Configure your domain
+
+One of the differences between Vercel and Clikkle is how they handle domain configuration for apex domains. Vercel uses A records for apex domains, while Clikkle uses nameserver (NS) records. This means you'll need to delegate DNS management to Clikkle.
+
+# Migrating an apex domain
+
+{% section id="prepare-vercel-domain" step=1 title="Prepare your Vercel domain" %}
+Before migrating, row your current Vercel DNS configuration:
+
+1. In Vercel, go to project settings > Domains
+2. Note any custom DNS records you've configured (MX, TXT, etc.)
+3. Don't remove the domain from Vercel until Clikkle is fully configured
+{% /section %}
+
+{% section id="add-apex-domain" step=2 title="Add domain to Clikkle Sites" %}
+Add your apex domain to your Clikkle site:
+
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain**
+3. Enter your apex domain (e.g., `example.com`)
+4. Select **Active deployment** as the domain rule type
+5. Note the NS records Clikkle provides:
+   - `ns1.clikkle.zone`
+   - `ns2.clikkle.zone`
+{% /section %}
+
+{% section id="update-nameservers" step=3 title="Update nameservers at your registrar" %}
+At your domain registrar:
+
+1. Update your domain's nameservers to point to Clikkle's nameservers
+2. If you had custom DNS records in Vercel (like MX records for email), you'll need to recreate these in Clikkle's DNS configuration
+
+{% info title="Important DNS change note" %}
+Changing nameservers delegates your entire domain's DNS management to Clikkle. DNS changes can take up to 48 hours to fully propagate.
+{% /info %}
+{% /section %}
+
+# Migrating a subdomain
+
+For subdomains, both Vercel and Clikkle use CNAME records, making the migration process simpler.
+
+{% section id="add-subdomain" step=1 title="Add subdomain to Clikkle Sites" %}
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain**
+3. Enter your subdomain (e.g., `www.example.com`)
+4. Select **Active deployment** as the domain rule type
+5. Copy the CNAME value provided by Clikkle
+{% /section %}
+
+{% section id="update-dns-records" step=2 title="Update DNS records" %}
+At your domain registrar or DNS provider:
+
+1. Create or update the CNAME record for your subdomain
+2. Point it to the value provided by Clikkle
+3. Wait for DNS propagation and verification
+{% /section %}
+
+# Domain rule types
+
+When adding a domain in Clikkle, you can choose from three rule types: Active deployment, Git branch, or Redirect.
+
+{% arrow_link href="/docs/products/sites/domains#domain-rule-types" %}
+Learn more about domain rule types
+{% /arrow_link %}
+
+
+# Configure build settings
+
+After setting up your project and domain, you'll need to configure your build settings to match your Vercel configuration.
+
+{% section id="build-settings" step=1 title="Set up build configuration" %}
+Navigate to your site > **Settings** > **Build settings** and configure the following:
+
+- **Framework:** Clikkle will attempt to automatically detect your framework. Verify and ensure it is the same framework as in Vercel.
+- **Install command:** Enter the same install command from Vercel
+- **Build command:** Enter the same build command from Vercel
+- **Output directory:** Enter the same output directory from Vercel
+- **Root directory:** If your app is in a monorepo subdirectory, specify the path
+- **Rendering:** Select the appropriate rendering mode (Static or SSR)
+
+{% only_dark %}
+![Build settings](/clikkle/images/docs/sites/dark/build-settings-install-command.png)
+{% /only_dark %}
+{% only_light %}
+![Build settings](/clikkle/images/docs/sites/build-settings-install-command.png)
+{% /only_light %}
+{% /section %}
+
+# Framework defaults
+
+Clikkle automatically detects and applies default settings for popular frameworks like Next.js, Nuxt, SvelteKit, Angular, and Astro.
+
+{% arrow_link href="/docs/products/sites/develop#project-dependencies" %}
+Learn more about framework defaults and project dependencies
+{% /arrow_link %}
+
+# Manage environment variables
+
+Environment variables require special attention during migration, as they control how your application behaves in different environments.
+
+{% section id="gather-env-vars" step=1 title="Gather variables from Vercel" %}
+Before migrating, row all your Vercel environment variables:
+
+1. In Vercel, go to your project settings > **Environment Variables**
+2. Row all variables, noting which are for development, preview, or production
+3. Identify any system variables your application relies on
+
+{% info title="System variables" %}
+Vercel automatically provides system variables like `VERCEL_URL`. You'll need to adapt your code to use Clikkle's equivalent system variables.
+{% /info %}
+{% /section %}
+
+{% section id="set-env-vars" step=2 title="Set variables in Clikkle" %}
+1. Navigate to your site > **Settings** > **Environment variables**
+2. Click the **plus (+)** icon to add a new variable
+3. Enter the key and value for each variable. You can optionally import a `.env` file.
+4. Toggle **Secret** for sensitive variables that should be hidden
+
+{% only_dark %}
+![Environment variables](/clikkle/images/docs/sites/dark/env-variables.png)
+{% /only_dark %}
+{% only_light %}
+![Environment variables](/clikkle/images/docs/sites/env-variables.png)
+{% /only_light %}
+{% /section %}
+
+# Clikkle system variables
+Clikkle automatically injects these variables into your site:
+
+| Variable                        | Description                                             | Available at Build and/or Run Time |
+| ------------------------------- | ------------------------------------------------------- | ---------------------------------- |
+| `CLIKKLE_SITE_API_ENDPOINT`    | The API endpoint of the running site                    | Both                               |
+| `CLIKKLE_SITE_NAME`            | The name of the running site.                           | Both                               |
+| `CLIKKLE_SITE_DEPLOYMENT`      | The deployment ID of the running sites.                 | Both                               |
+| `CLIKKLE_SITE_PROJECT_ID`      | The project ID of the running site.                     | Both                               |
+| `CLIKKLE_SITE_RUNTIME_NAME`    | The runtime name of the running site.                   | Both                               |
+| `CLIKKLE_SITE_RUNTIME_VERSION` | The runtime version of the running site.                | Both                               |
+| `CLIKKLE_SITE_CPUS`            | The CPU (runtime) specification of the running site.    | Both                               |
+| `CLIKKLE_SITE_MEMORY`          | The memory (runtime) specification of the running site. | Both                               |
+
+
+# Handle redirects and rewrites
+
+One key difference between Vercel and Clikkle is how they handle redirects and rewrites.
+
+{% info title="Key difference" %}
+Vercel offers platform-level path redirects configured in `vercel.json`, while Clikkle provides domain-level redirects through the Domains tab and supports framework-level path redirects through your application code.
+{% /info %}
+
+{% section id="domain-redirects" step=1 title="Domain-level redirects" %}
+Clikkle's domain-level redirects are configured in the Domains tab of your site:
+
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain** or select an existing domain
+3. Choose **Redirect** as the domain rule type
+4. Enter the destination URL and select an appropriate HTTP status code (301, 302, 303, 307, or 308)
+
+Domain redirects in Clikkle do not preserve path or query parameters. For example, if you redirect `example.com` to `clikkle.io`, then `example.com/docs?id=123` will redirect to `clikkle.io` (not `clikkle.io/docs?id=123`).
+{% /section %}
+
+{% section id="framework-redirects" step=2 title="Framework-level redirects" %}
+For path-based redirects, use your framework's built-in functionality:
+
+# Next.js
+```javascript
+// next.config.js
+module.exports = {
+  async redirects() {
+    return [
+      {
+        source: '/old-path',
+        destination: '/new-path',
+        permanent: true, // 308 status code
+      },
+    ];
+  },
+};
+```
+
+# SvelteKit
+```javascript
+// src/routes/+layout.server.js
+export function load({ url }) {
+  if (url.pathname === '/old-path') {
+    return {
+      status: 301,
+      redirect: '/new-path'
+    };
+  }
+}
+```
+
+# Nuxt
+```javascript
+// nuxt.config.js
+export default {
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.push({
+        path: '/old-path',
+        redirect: {
+          to: '/new-path',
+          statusCode: 301
+        }
+      });
+    }
+  }
+}
+```
+{% /section %}
+
+# Migrate serverless functions
+
+There are two approaches to serverless functions when migrating from Vercel to Clikkle:
+
+{% info title="Framework API routes vs. standalone functions" %}
+When using frameworks like Next.js, Nuxt, or SvelteKit with SSR enabled, your API routes will work natively within Clikkle Sites, just as they do in Vercel. For standalone serverless functions or more complex use cases, you can use [Clikkle Functions](/docs/functions).
+{% /info %}
+
+{% section id="framework-api-routes" step=1 title="Framework API routes" %}
+For frameworks with built-in API routes:
+
+1. **Next.js**: API routes in `/pages/api` or route handlers in `/app/api` work natively
+2. **Nuxt**: Server API endpoints work as expected
+3. **SvelteKit**: Server routes and API endpoints function normally
+
+No migration is needed for these framework-native API routes - they'll work automatically when you deploy your site with SSR enabled.
+{% /section %}
+
+{% section id="standalone-functions" step=2 title="Standalone Clikkle Functions" %}
+For standalone serverless functions or more complex use cases:
+
+1. In your Clikkle project, go to **Functions**
+2. Click **Create Function**
+3. Select a runtime that matches your needs (Node.js, Python, PHP, Ruby, etc.)
+4. Create your function code
+5. Deploy your function
+{% /section %}
+
+{% arrow_link href="/docs/products/functions/quick-start" %}
+Learn how to create and deploy functions
+{% /arrow_link %}
+
+{% section id="update-endpoints" step=3 title="API endpoints usage" %}
+
+# Framework API routes
+When using framework API routes within Clikkle Sites (with SSR enabled), your endpoints remain the same:
+
+- Vercel: `/api/hello`
+- Clikkle Sites: `/api/hello` (no change needed)
+
+Your existing API routes code will work without modification:
+
+```javascript
+// /api/hello.js in Next.js (works the same in both Vercel and Clikkle Sites)
+export default function handler(req, res) {
+  res.status(200).json({ message: 'Hello!' });
+}
+```
+
+# Standalone Clikkle Functions
+If you're using standalone Clikkle Functions (outside your site's codebase), you'll need to update your frontend code to use the Clikkle Functions API:
+
+```javascript
+// Calling an Clikkle Function from your frontend
+import { Client, Functions } from 'clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('your-project-id');
+
+const functions = new Functions(client);
+
+const response = await functions.createExecution({
+    functionId: 'your-function-id'
+});
+```
+{% /section %}
+
+# Handle middleware
+
+While Vercel offers platform-level Edge Middleware configured through `vercel.json`, Clikkle Sites fully supports framework-native middleware when using SSR. This means your existing middleware code will continue to work without modification.
+
+{% section id="framework-middleware" step=1 title="Framework-native middleware" %}
+# Next.js
+```javascript
+// middleware.js
+export function middleware(request) {
+  // Your middleware logic
+}
+
+export const config = {
+  matcher: '/path/:path*',
+};
+```
+
+# SvelteKit
+```javascript
+// src/hooks.server.js
+export async function handle({ event, resolve }) {
+  // Your middleware logic before response
+  const response = await resolve(event);
+  // Your middleware logic after response
+  return response;
+}
+```
+
+# Nuxt
+```javascript
+// server/middleware/example.js
+export default defineEventHandler((event) => {
+  // Your middleware logic
+});
+```
+{% /section %}
+
+# Next steps
+
+After completing your migration from Vercel to Clikkle Sites, we recommend:
+
+1. **Test thoroughly** - Verify all routes, functionality, and environment-specific features
+2. **Monitor performance** - Check that your site performs as expected on Clikkle
+3. **Set up CI/CD** - Clikkle already provides git integration and deployment workflows, but you can also use GitHub Actions or any other CI/CD tool to automate your deployments.
+4. **Explore Clikkle services** - Consider integrating with other Clikkle services like [Authentication](/docs/products/auth), [Databases](/docs/products/databases), and [Storage](/docs/products/storage)
+
+# Conclusion
+
+This guide has outlined the key steps for migrating from Vercel to Clikkle Sites. You'll find that Git integration and deployment workflows remain largely familiar, making these aspects of migration more approachable for most projects.
+
+While domain configuration and platform-specific features like middleware require some adaptation, the framework-native approaches detailed in this guide help ensure a smooth transition.
+
+For additional help, refer to the [Sites documentation](/docs/products/sites) or reach out to the Clikkle community on [Discord](https://clikkle.io/discord).
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Migrating from Vercel to Clikkle Sites"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This guide walks you through migrating from Vercel to Clikkle Sites, covering project setup, configuration, routing, and serverless functionality."}],["$","$Le",null,{"level":1,"children":"Prerequisites"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Before starting your migration:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Have access to your Vercel project dashboard"}],["$","li",null,{"children":"Ensure you can modify your domain's DNS settings"}],["$","li",null,{"children":"Prepare your source code repository"}]]}],["$","$Le",null,{"level":1,"children":"Platform differences"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Understanding the key differences between Vercel and Clikkle Sites will help you plan your migration effectively."}],["$","$Lf",null,{"children":["$","$L10",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Feature"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Vercel"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Clikkle Sites"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"DNS configuration"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Uses A records for apex domains"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Uses NS records for apex domains"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Configuration approach"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Platform-level configuration via vercel.json"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Framework-native configuration with SSR support"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L11"}],"$L12","$L13"]}]]}]]}]}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47"]}]}]]}],"$L48"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L49",null,{"items":[{"id":"prerequisites","title":"Prerequisites","level":1},{"id":"platform-differences","title":"Platform differences","level":1},{"id":"migration-process","title":"Migration process","level":1},{"id":"create-project","title":"Create an Clikkle project","level":2},{"id":"connect-repo","title":"Connect your repository","level":2},{"id":"configure-your-domain","title":"Configure your domain","level":1},{"id":"migrating-an-apex-domain","title":"Migrating an apex domain","level":1},{"id":"prepare-vercel-domain","title":"Prepare your Vercel domain","level":2},{"id":"add-apex-domain","title":"Add domain to Clikkle Sites","level":2},{"id":"update-nameservers","title":"Update nameservers at your registrar","level":2},{"id":"migrating-a-subdomain","title":"Migrating a subdomain","level":1},{"id":"add-subdomain","title":"Add subdomain to Clikkle Sites","level":2},{"id":"update-dns-records","title":"Update DNS records","level":2},{"id":"domain-rule-types","title":"Domain rule types","level":1},{"id":"configure-build-settings","title":"Configure build settings","level":1},{"id":"build-settings","title":"Set up build configuration","level":2},{"id":"framework-defaults","title":"Framework defaults","level":1},{"id":"manage-environment-variables","title":"Manage environment variables","level":1},{"id":"gather-env-vars","title":"Gather variables from Vercel","level":2},{"id":"set-env-vars","title":"Set variables in Clikkle","level":2},{"id":"clikkle-system-variables","title":"Clikkle system variables","level":1},{"id":"handle-redirects-and-rewrites","title":"Handle redirects and rewrites","level":1},{"id":"domain-redirects","title":"Domain-level redirects","level":2},{"id":"framework-redirects","title":"Framework-level redirects","level":2},{"id":"nextjs","title":"Next.js","level":1},{"id":"sveltekit","title":"SvelteKit","level":1},{"id":"nuxt","title":"Nuxt","level":1},{"id":"migrate-serverless-functions","title":"Migrate serverless functions","level":1},{"id":"framework-api-routes","title":"Framework API routes","level":2},{"id":"standalone-functions","title":"Standalone Clikkle Functions","level":2},{"id":"update-endpoints","title":"API endpoints usage","level":2},{"id":"framework-api-routes","title":"Framework API routes","level":1},{"id":"standalone-clikkle-functions","title":"Standalone Clikkle Functions","level":1},{"id":"handle-middleware","title":"Handle middleware","level":1},{"id":"framework-middleware","title":"Framework-native middleware","level":2},{"id":"nextjs","title":"Next.js","level":1},{"id":"sveltekit","title":"SvelteKit","level":1},{"id":"nuxt","title":"Nuxt","level":1},{"id":"next-steps","title":"Next steps","level":1},{"id":"conclusion","title":"Conclusion","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L4a",null,{"children":["$","$4b",null,{"name":"Next.MetadataOutlet","children":"$@4c"}]}]
+11:["$","div",null,{"className":"td-wrapper","children":"Redirects"}]
+12:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Platform-level path redirects via vercel.json"}]}]
+13:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Domain-level redirects and framework-level path redirects"}]}]
+14:["$","$Le",null,{"level":1,"children":"Migration process"}]
+15:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Follow these steps to move your application from Vercel to Clikkle Sites."}]
+16:["$","$L4d",null,{"id":"create-project","step":1,"title":"Create an Clikkle project","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Start by setting up a new project in Clikkle:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["Sign in to the ",["$","a",null,{"href":"https://cloud.clikkle.io","children":"Clikkle Console"}]]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Create Project"}]]}],["$","li",null,{"children":["Enter a name for your project and click ",["$","strong",null,{"children":"Create"}]]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Your new project will serve as the container for your migrated site and any other Clikkle services you might need."}]]}]
+17:["$","$L4d",null,{"id":"connect-repo","step":2,"title":"Connect your repository","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Next, create a new site by connecting your existing repository:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["In your Clikkle project, select ",["$","strong",null,{"children":"Sites"}]," from the sidebar"]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Create Site"}]]}],["$","li",null,{"children":["Select ",["$","strong",null,{"children":"Connect a repository"}]]}],["$","li",null,{"children":"Authenticate with GitHub"}],["$","li",null,{"children":"Select the repository containing your Vercel project"}],["$","li",null,{"children":["Choose your production branch (typically ",["$","code",null,{"children":"main"}],")"]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle will auto-detect your framework. Verify this is correct or select manually from the dropdown menu."}]]}]
+18:["$","$Le",null,{"level":1,"children":"Configure your domain"}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"One of the differences between Vercel and Clikkle is how they handle domain configuration for apex domains. Vercel uses A records for apex domains, while Clikkle uses nameserver (NS) records. This means you'll need to delegate DNS management to Clikkle."}]
+1a:["$","$Le",null,{"level":1,"children":"Migrating an apex domain"}]
+1b:["$","$L4d",null,{"id":"prepare-vercel-domain","step":1,"title":"Prepare your Vercel domain","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Before migrating, row your current Vercel DNS configuration:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":"In Vercel, go to project settings > Domains"}],["$","li",null,{"children":"Note any custom DNS records you've configured (MX, TXT, etc.)"}],["$","li",null,{"children":"Don't remove the domain from Vercel until Clikkle is fully configured"}]]}]]}]
+1c:["$","$L4d",null,{"id":"add-apex-domain","step":2,"title":"Add domain to Clikkle Sites","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Add your apex domain to your Clikkle site:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["Navigate to your site > ",["$","strong",null,{"children":"Domains"}]," tab"]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Add domain"}]]}],["$","li",null,{"children":["Enter your apex domain (e.g., ",["$","code",null,{"children":"example.com"}],")"]}],["$","li",null,{"children":["Select ",["$","strong",null,{"children":"Active deployment"}]," as the domain rule type"]}],["$","li",null,{"children":["Note the NS records Clikkle provides:",["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["$","code",null,{"children":"ns1.clikkle.zone"}]}],["$","li",null,{"children":["$","code",null,{"children":"ns2.clikkle.zone"}]}]]}]]}]]}]]}]
+1d:["$","$L4d",null,{"id":"update-nameservers","step":3,"title":"Update nameservers at your registrar","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"At your domain registrar:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":"Update your domain's nameservers to point to Clikkle's nameservers"}],["$","li",null,{"children":"If you had custom DNS records in Vercel (like MX records for email), you'll need to recreate these in Clikkle's DNS configuration"}]]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Important DNS change note"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Changing nameservers delegates your entire domain's DNS management to Clikkle. DNS changes can take up to 48 hours to fully propagate."}]]}]]}]
+1e:["$","$Le",null,{"level":1,"children":"Migrating a subdomain"}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For subdomains, both Vercel and Clikkle use CNAME records, making the migration process simpler."}]
+20:["$","$L4d",null,{"id":"add-subdomain","step":1,"title":"Add subdomain to Clikkle Sites","children":["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["Navigate to your site > ",["$","strong",null,{"children":"Domains"}]," tab"]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Add domain"}]]}],["$","li",null,{"children":["Enter your subdomain (e.g., ",["$","code",null,{"children":"www.example.com"}],")"]}],["$","li",null,{"children":["Select ",["$","strong",null,{"children":"Active deployment"}]," as the domain rule type"]}],["$","li",null,{"children":"Copy the CNAME value provided by Clikkle"}]]}]}]
+21:["$","$L4d",null,{"id":"update-dns-records","step":2,"title":"Update DNS records","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"At your domain registrar or DNS provider:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":"Create or update the CNAME record for your subdomain"}],["$","li",null,{"children":"Point it to the value provided by Clikkle"}],["$","li",null,{"children":"Wait for DNS propagation and verification"}]]}]]}]
+22:["$","$Le",null,{"level":1,"children":"Domain rule types"}]
+23:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When adding a domain in Clikkle, you can choose from three rule types: Active deployment, Git branch, or Redirect."}]
+24:["$","$L4e",null,{"href":"/docs/products/sites/domains#domain-rule-types","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn more about domain rule types"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+25:["$","$Le",null,{"level":1,"children":"Configure build settings"}]
+26:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After setting up your project and domain, you'll need to configure your build settings to match your Vercel configuration."}]
+27:["$","$L4d",null,{"id":"build-settings","step":1,"title":"Set up build configuration","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Navigate to your site > ",["$","strong",null,{"children":"Settings"}]," > ",["$","strong",null,{"children":"Build settings"}]," and configure the following:"]}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Framework:"}]," Clikkle will attempt to automatically detect your framework. Verify and ensure it is the same framework as in Vercel."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Install command:"}]," Enter the same install command from Vercel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Build command:"}]," Enter the same build command from Vercel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Output directory:"}]," Enter the same output directory from Vercel"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Root directory:"}]," If your app is in a monorepo subdirectory, specify the path"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Rendering:"}]," Select the appropriate rendering mode (Static or SSR)"]}]]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/build-settings-install-command.png","alt":"Build settings","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/build-settings-install-command.png","alt":"Build settings","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]]}]
+28:["$","$Le",null,{"level":1,"children":"Framework defaults"}]
+29:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle automatically detects and applies default settings for popular frameworks like Next.js, Nuxt, SvelteKit, Angular, and Astro."}]
+2a:["$","$L4e",null,{"href":"/docs/products/sites/develop#project-dependencies","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn more about framework defaults and project dependencies"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+2b:["$","$Le",null,{"level":1,"children":"Manage environment variables"}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Environment variables require special attention during migration, as they control how your application behaves in different environments."}]
+2d:["$","$L4d",null,{"id":"gather-env-vars","step":1,"title":"Gather variables from Vercel","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Before migrating, row all your Vercel environment variables:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["In Vercel, go to your project settings > ",["$","strong",null,{"children":"Environment Variables"}]]}],["$","li",null,{"children":"Row all variables, noting which are for development, preview, or production"}],["$","li",null,{"children":"Identify any system variables your application relies on"}]]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"System variables"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Vercel automatically provides system variables like ",["$","code",null,{"children":"VERCEL_URL"}],". You'll need to adapt your code to use Clikkle's equivalent system variables."]}]]}]]}]
+2e:["$","$L4d",null,{"id":"set-env-vars","step":2,"title":"Set variables in Clikkle","children":[["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["Navigate to your site > ",["$","strong",null,{"children":"Settings"}]," > ",["$","strong",null,{"children":"Environment variables"}]]}],["$","li",null,{"children":["Click the ",["$","strong",null,{"children":"plus (+)"}]," icon to add a new variable"]}],["$","li",null,{"children":["Enter the key and value for each variable. You can optionally import a ",["$","code",null,{"children":".env"}]," file."]}],["$","li",null,{"children":["Toggle ",["$","strong",null,{"children":"Secret"}]," for sensitive variables that should be hidden"]}]]}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/dark/env-variables.png","alt":"Environment variables","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/sites/env-variables.png","alt":"Environment variables","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]]}]
+2f:["$","$Le",null,{"level":1,"children":"Clikkle system variables"}]
+30:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle automatically injects these variables into your site:"}]
+31:["$","$L10",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Variable"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Available at Build and/or Run Time"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_API_ENDPOINT"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The API endpoint of the running site"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_NAME"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The name of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_DEPLOYMENT"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The deployment ID of the running sites."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_PROJECT_ID"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The project ID of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L4f"}]]}],"$L50","$L51","$L52","$L53"]}]]}]
+32:["$","$Le",null,{"level":1,"children":"Handle redirects and rewrites"}]
+33:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"One key difference between Vercel and Clikkle is how they handle redirects and rewrites."}]
+34:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Key difference"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Vercel offers platform-level path redirects configured in ",["$","code",null,{"children":"vercel.json"}],", while Clikkle provides domain-level redirects through the Domains tab and supports framework-level path redirects through your application code."]}]]}]
+35:["$","$L4d",null,{"id":"domain-redirects","step":1,"title":"Domain-level redirects","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's domain-level redirects are configured in the Domains tab of your site:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["Navigate to your site > ",["$","strong",null,{"children":"Domains"}]," tab"]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Add domain"}]," or select an existing domain"]}],["$","li",null,{"children":["Choose ",["$","strong",null,{"children":"Redirect"}]," as the domain rule type"]}],["$","li",null,{"children":"Enter the destination URL and select an appropriate HTTP status code (301, 302, 303, 307, or 308)"}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Domain redirects in Clikkle do not preserve path or query parameters. For example, if you redirect ",["$","code",null,{"children":"example.com"}]," to ",["$","code",null,{"children":"clikkle.io"}],", then ",["$","code",null,{"children":"example.com/docs?id=123"}]," will redirect to ",["$","code",null,{"children":"clikkle.io"}]," (not ",["$","code",null,{"children":"clikkle.io/docs?id=123"}],")."]}]]}]
+36:["$","$L4d",null,{"id":"framework-redirects","step":2,"title":"Framework-level redirects","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For path-based redirects, use your framework's built-in functionality:"}],["$","$Le",null,{"level":1,"children":"Next.js"}],["$","$L54",null,{"language":"javascript","content":"// next.config.js\nmodule.exports = {\n  async redirects() {\n    return [\n      {\n        source: '/old-path',\n        destination: '/new-path',\n        permanent: true, // 308 status code\n      },\n    ];\n  },\n};\n","children":"// next.config.js\nmodule.exports = {\n  async redirects() {\n    return [\n      {\n        source: '/old-path',\n        destination: '/new-path',\n        permanent: true, // 308 status code\n      },\n    ];\n  },\n};\n"}],["$","$Le",null,{"level":1,"children":"SvelteKit"}],["$","$L54",null,{"language":"javascript","content":"// src/routes/+layout.server.js\nexport function load({ url }) {\n  if (url.pathname === '/old-path') {\n    return {\n      status: 301,\n      redirect: '/new-path'\n    };\n  }\n}\n","children":"// src/routes/+layout.server.js\nexport function load({ url }) {\n  if (url.pathname === '/old-path') {\n    return {\n      status: 301,\n      redirect: '/new-path'\n    };\n  }\n}\n"}],["$","$Le",null,{"level":1,"children":"Nuxt"}],["$","$L54",null,{"language":"javascript","content":"// nuxt.config.js\nexport default {\n  router: {\n    extendRoutes(routes, resolve) {\n      routes.push({\n        path: '/old-path',\n        redirect: {\n          to: '/new-path',\n          statusCode: 301\n        }\n      });\n    }\n  }\n}\n","children":"// nuxt.config.js\nexport default {\n  router: {\n    extendRoutes(routes, resolve) {\n      routes.push({\n        path: '/old-path',\n        redirect: {\n          to: '/new-path',\n          statusCode: 301\n        }\n      });\n    }\n  }\n}\n"}]]}]
+37:["$","$Le",null,{"level":1,"children":"Migrate serverless functions"}]
+38:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"There are two approaches to serverless functions when migrating from Vercel to Clikkle:"}]
+39:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Framework API routes vs. standalone functions"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When using frameworks like Next.js, Nuxt, or SvelteKit with SSR enabled, your API routes will work natively within Clikkle Sites, just as they do in Vercel. For standalone serverless functions or more complex use cases, you can use ",["$","$L4e",null,{"href":"/docs/functions","children":"Clikkle Functions"}],"."]}]]}]
+3a:["$","$L4d",null,{"id":"framework-api-routes","step":1,"title":"Framework API routes","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For frameworks with built-in API routes:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Next.js"}],": API routes in ",["$","code",null,{"children":"/pages/api"}]," or route handlers in ",["$","code",null,{"children":"/app/api"}]," work natively"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Nuxt"}],": Server API endpoints work as expected"]}],["$","li",null,{"children":[["$","strong",null,{"children":"SvelteKit"}],": Server routes and API endpoints function normally"]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"No migration is needed for these framework-native API routes - they'll work automatically when you deploy your site with SSR enabled."}]]}]
+3b:["$","$L4d",null,{"id":"standalone-functions","step":2,"title":"Standalone Clikkle Functions","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For standalone serverless functions or more complex use cases:"}],["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":["In your Clikkle project, go to ",["$","strong",null,{"children":"Functions"}]]}],["$","li",null,{"children":["Click ",["$","strong",null,{"children":"Create Function"}]]}],["$","li",null,{"children":"Select a runtime that matches your needs (Node.js, Python, PHP, Ruby, etc.)"}],["$","li",null,{"children":"Create your function code"}],["$","li",null,{"children":"Deploy your function"}]]}]]}]
+3c:["$","$L4e",null,{"href":"/docs/products/functions/quick-start","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn how to create and deploy functions"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+3d:["$","$L4d",null,{"id":"update-endpoints","step":3,"title":"API endpoints usage","children":[["$","$Le",null,{"level":1,"children":"Framework API routes"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When using framework API routes within Clikkle Sites (with SSR enabled), your endpoints remain the same:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["Vercel: ",["$","code",null,{"children":"/api/hello"}]]}],["$","li",null,{"children":["Clikkle Sites: ",["$","code",null,{"children":"/api/hello"}]," (no change needed)"]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Your existing API routes code will work without modification:"}],["$","$L54",null,{"language":"javascript","content":"// /api/hello.js in Next.js (works the same in both Vercel and Clikkle Sites)\nexport default function handler(req, res) {\n  res.status(200).json({ message: 'Hello!' });\n}\n","children":"// /api/hello.js in Next.js (works the same in both Vercel and Clikkle Sites)\nexport default function handler(req, res) {\n  res.status(200).json({ message: 'Hello!' });\n}\n"}],["$","$Le",null,{"level":1,"children":"Standalone Clikkle Functions"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you're using standalone Clikkle Functions (outside your site's codebase), you'll need to update your frontend code to use the Clikkle Functions API:"}],["$","$L54",null,{"language":"javascript","content":"// Calling an Clikkle Function from your frontend\nimport { Client, Functions } from 'clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('your-project-id');\n\nconst functions = new Functions(client);\n\nconst response = await functions.createExecution({\n    functionId: 'your-function-id'\n});\n","children":"// Calling an Clikkle Function from your frontend\nimport { Client, Functions } from 'clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('your-project-id');\n\nconst functions = new Functions(client);\n\nconst response = await functions.createExecution({\n    functionId: 'your-function-id'\n});\n"}]]}]
+3e:["$","$Le",null,{"level":1,"children":"Handle middleware"}]
+3f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["While Vercel offers platform-level Edge Middleware configured through ",["$","code",null,{"children":"vercel.json"}],", Clikkle Sites fully supports framework-native middleware when using SSR. This means your existing middleware code will continue to work without modification."]}]
+40:["$","$L4d",null,{"id":"framework-middleware","step":1,"title":"Framework-native middleware","children":[["$","$Le",null,{"level":1,"children":"Next.js"}],["$","$L54",null,{"language":"javascript","content":"// middleware.js\nexport function middleware(request) {\n  // Your middleware logic\n}\n\nexport const config = {\n  matcher: '/path/:path*',\n};\n","children":"// middleware.js\nexport function middleware(request) {\n  // Your middleware logic\n}\n\nexport const config = {\n  matcher: '/path/:path*',\n};\n"}],["$","$Le",null,{"level":1,"children":"SvelteKit"}],["$","$L54",null,{"language":"javascript","content":"// src/hooks.server.js\nexport async function handle({ event, resolve }) {\n  // Your middleware logic before response\n  const response = await resolve(event);\n  // Your middleware logic after response\n  return response;\n}\n","children":"// src/hooks.server.js\nexport async function handle({ event, resolve }) {\n  // Your middleware logic before response\n  const response = await resolve(event);\n  // Your middleware logic after response\n  return response;\n}\n"}],["$","$Le",null,{"level":1,"children":"Nuxt"}],["$","$L54",null,{"language":"javascript","content":"// server/middleware/example.js\nexport default defineEventHandler((event) => {\n  // Your middleware logic\n});\n","children":"// server/middleware/example.js\nexport default defineEventHandler((event) => {\n  // Your middleware logic\n});\n"}]]}]
+41:["$","$Le",null,{"level":1,"children":"Next steps"}]
+42:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After completing your migration from Vercel to Clikkle Sites, we recommend:"}]
+43:["$","ol",null,{"className":"web-numeric-list","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Test thoroughly"}]," - Verify all routes, functionality, and environment-specific features"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Monitor performance"}]," - Check that your site performs as expected on Clikkle"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Set up CI/CD"}]," - Clikkle already provides git integration and deployment workflows, but you can also use GitHub Actions or any other CI/CD tool to automate your deployments."]}],["$","li",null,{"children":[["$","strong",null,{"children":"Explore Clikkle services"}]," - Consider integrating with other Clikkle services like ",["$","$L4e",null,{"href":"/docs/products/auth","children":"Authentication"}],", ",["$","$L4e",null,{"href":"/docs/products/databases","children":"Databases"}],", and ",["$","$L4e",null,{"href":"/docs/products/storage","children":"Storage"}]]}]]}]
+44:["$","$Le",null,{"level":1,"children":"Conclusion"}]
+45:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This guide has outlined the key steps for migrating from Vercel to Clikkle Sites. You'll find that Git integration and deployment workflows remain largely familiar, making these aspects of migration more approachable for most projects."}]
+46:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"While domain configuration and platform-specific features like middleware require some adaptation, the framework-native approaches detailed in this guide help ensure a smooth transition."}]
+47:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For additional help, refer to the ",["$","$L4e",null,{"href":"/docs/products/sites","children":"Sites documentation"}]," or reach out to the Clikkle community on ",["$","a",null,{"href":"https://clikkle.io/discord","children":"Discord"}],"."]}]
+48:["$","$L55",null,{}]
+4c:null
+4f:["$","div",null,{"className":"td-wrapper","children":"Both"}]
+50:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_RUNTIME_NAME"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The runtime name of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+51:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_RUNTIME_VERSION"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The runtime version of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+52:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_CPUS"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The CPU (runtime) specification of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]
+53:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"CLIKKLE_SITE_MEMORY"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The memory (runtime) specification of the running site."}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Both"}]}]]}]

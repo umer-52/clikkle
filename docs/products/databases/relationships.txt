@@ -1,0 +1,1967 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+f:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","databases","relationships"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/databases/relationships","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],"$L7","$L8","$L9"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,null]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10","$L11","$L12","$L13","$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+16:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+17:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+18:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+1a:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+20:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}]
+8:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+9:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L16",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+a:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L17",null,{"children":["$","$L18",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L19",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}]
+1d:[]
+d:"$W1d"
+e:["$","$1","h",{"children":[null,["$","$L1e",null,{"children":"$L1f"}],["$","div",null,{"hidden":true,"children":["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.Metadata","children":"$L21"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+22:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+23:T698c,﻿---
+layout: article
+title: Relationships
+description: Manage complex data relationships with Clikkle Databases. Discover how to define and work with relationships between rows for interconnected data.
+difficulty: advanced
+readtime: 20
+---
+Relationships describe how rows in different tables are associated, so that related rows can be read, updated, or deleted together. Entities in real-life often associate with each other in an organic and logical way, like a person and their dog, an album and its songs, or friends in a social network.
+
+These types of association between entities can be modeled in Clikkle using relationships.
+
+{% info title="Experimental feature" %}
+Clikkle Relationships is an experimental feature. The API and behavior are subject to change in future versions.
+{% /info %}
+
+# Relationship columns {% #relationship-columns %}
+
+Relationships are represented in a table using **relationship columns**.
+The relationship column contains the ID of related rows, which it references during read, update, and delete operations.
+This column is **null** if a row has no related rows.
+
+# When to use a relationship {% #when-to-use-relationships %}
+
+Relationships help reduce redundant information. For example, a user can create many posts in your app. You can model this without relationships by keeping a copy of the user's information in all the rows representing posts, but this creates a lot of duplicate information in your database about the user.
+
+# Benefits of relationships {% #benefit-of-relationships %}
+
+Duplicated records waste storage, but more importantly, makes the database much harder to maintain. If the user changes their user name, you will have to update dozens or hundreds of records, a problem commonly known as an update anomaly in tablesDB. You can avoid duplicate information by storing users and posts in separate tables and relating a user and their posts through a relationship.
+
+# Opt-in loading {% #performance-loading %}
+
+By default, Clikkle returns only a row's own fields when you retrieve rows. Related rows are **not automatically loaded** unless you explicitly request them using query selection. This eliminates unintentional payload bloat and gives you precise control over performance.
+
+{% arrow_link href="/docs/products/databases/queries#relationship-select" %}
+Learn how to load relationships with queries
+{% /arrow_link %}
+
+# Directionality {% #directionality %}
+
+Clikkle relationships can be one-way or two-way.
+
+| Type     | Description                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------- |
+| One-way  | The relationship is only visible to one side of the relation. This is similar to a tree data structure.            |
+| Two-way  | The relationship is visible to both sides of the relationship. This is similar to a graph data structure.         |
+
+# Types {% #types %}
+
+Clikkle provides four different relationship types to enforce different associative rules between rows.
+
+| Type        | Description                                                             |
+| ----------- | ----------------------------------------------------------------------- |
+| One-to-one  | A row can only be related to one and only one row.           |
+| One-to-many | A row can be related to many other rows.                      |
+| Many-to-one | Many rows can be related to a single row.                     |
+| Many-to-many| A row can be related to many other rows.                      |
+
+
+# On-delete {% #on-delete %}
+
+Clikkle also allows you to define the behavior of a relationship when a row is deleted.
+
+| Type       | Description                                                            |
+| ---------- | ---------------------------------------------------------------------- |
+| Restrict   | If a row has at least one related row, it cannot be deleted.|
+| Cascade    | If a row has related rows, when it is deleted, the related rows are also deleted.|
+| Set null   | If a row has related rows, when it is deleted, the related rows are kept with their relationship column set to null.|
+
+# Creating relationships {% #create-relationships %}
+You can define relationships in the Clikkle Console, or using a [Server SDK](/docs/sdks#server)
+
+{% tabs %}
+{% tabsitem #console title="Console" %}
+
+You can create relationships in the Clikkle Console by adding a relationship column to a table.
+
+1. In your project, navigate to **Databases** > **Select your database** > **Select your table** > **Columns** > **Create column**.
+2. Select **Relationship** as the column type.
+3. In the **Relationship** modal, select the [relationship type](#types) and pick the related table and columns.
+4. Pick relationship column key(s) to represent the related table. Relationship column keys are used to reference the related table in queries, so pick something that's intuitive and easy to remember.
+5. Select desired [on delete](#on-delete) behavior.
+6. Click the **Create** button to create the relationship.
+{% /tabsitem %}
+
+{% tabsitem #sdk title="SDK" %}
+Here's an example that adds a relationship between the tables **movies** and **reviews**.
+A relationship column with the key `reviews` is added to the movies table, and another relationship column with the key `movie` is added to the reviews table.
+
+{% multicode %}
+```js
+const { Client, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+tablesDB.createRelationshipColumn(
+    'marvel',     // Database ID
+    'movies',     // Table ID
+    'reviews',    // Related table ID
+    'oneToMany',  // Relationship type
+    true,         // Is two-way
+    'reviews',    // Column key
+    'movie',      // Two-way column key
+    'cascade'     // On delete action
+);
+```
+
+
+```php
+use \Clikkle\Client;
+use \Clikkle\Services\TablesDB;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>');               // Your project ID
+
+$tablesDB = new TablesDB($client);
+
+$tables->createRelationshipColumn(
+    databaseId: 'marvel',           // Database ID
+    tableId: 'movies',         // Table ID
+    relatedTableId: 'reviews', // Related table ID
+    type: 'oneToMany',              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: 'reviews',                 // Column key
+    twoWayKey: 'movie',             // Two-way column key
+    onDelete: 'cascade'             // On delete action
+);
+```
+
+
+```python
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+
+client = (Client()
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint
+    .set_project('<PROJECT_ID>'))                   # Your project ID
+
+tablesDB = TablesDB(client)
+
+tablesDB.create_relationship_column(
+    database_id='marvel',             # Database ID
+    table_id='movies',           # Table ID
+    related_table_id='reviews',  # Related table ID
+    type='oneToMany',                 # Relationship type
+    two_way=True,                     # Is two-way
+    key='reviews',                    # Column key
+    two_way_key='movie',              # Two-way column key
+    on_delete='cascade'               # On delete action
+)
+```
+
+
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint
+    .set_project('<PROJECT_ID>')               # Your project ID
+
+tablesDB = TablesDB.new(client)
+
+tablesDB.create_relationship_column(
+    database_id: 'marvel',             # Database ID
+    table_id: 'movies',           # Table ID
+    related_table_id: 'reviews',  # Related table ID
+    type: 'oneToMany',                 # Relationship type
+    two_way: true,                     # Is two-way
+    key: 'reviews',                    # Column key
+    two_way_key: 'movie',              # Two-way column key
+    on_delete: 'cascade'               # On delete action
+)
+```
+
+
+```deno
+import { Client, TablesDB } from "npm:node-clikkle";
+
+const client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>");               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+tablesDB.createRelationshipColumn(
+    "marvel",    // Database ID
+    "movies",    // Table ID
+    "reviews",   // Related table ID
+    "oneToMany", // Relationship type
+    true,        // Is two-way
+    "reviews",   // Column key
+    "movie",     // Two-way column key
+    "cascade"    // On delete action
+);
+```
+
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.createRelationshipColumn(
+    databaseId: 'marvel',           // Database ID
+    tableId: 'movies',         // Table ID
+    relatedTableId: 'reviews', // Related table ID
+    type: 'oneToMany',              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: 'reviews',                 // Column key
+    twoWayKey: 'movie',             // Two-way column key
+    onDelete: 'cascade',            // On delete action
+);
+```
+
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val tablesDB = TablesDB(client)
+
+tablesDB.createRelationshipColumn(
+    databaseId = "marvel",           // Database ID
+    tableId = "movies",         // Table ID
+    relatedTableId = "reviews", // Related table ID
+    type = "oneToMany",              // Relationship type
+    twoWay = true,                   // Is two-way
+    key = "reviews",                 // Column key
+    twoWayKey = "movie",             // Two-way column key
+    onDelete = "cascade"             // On delete action
+)
+```
+
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let tablesDB = TablesDB(client)
+
+tablesDB.createRelationshipColumn(
+    databaseId: "marvel",           // Database ID
+    tableId: "movies",         // Table ID
+    relatedTableId: "reviews", // Related table ID
+    type: "oneToMany",              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: "reviews",                 // Column key
+    twoWayKey: "movie",             // Two-way column key
+    onDelete: "cascade"             // On delete action
+)
+```
+
+
+```csharp
+using Clikkle;
+using Clikkle.Services;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<PROJECT_ID>");
+
+var tablesDB = new TablesDB(client);
+
+await tablesDB.CreateRelationshipColumn(
+    databaseId: "marvel",
+    tableId: "movies",
+    relatedTableId: "reviews",
+    type: "oneToMany",
+    twoWay: true,
+    key: "reviews",
+    twoWayKey: "movie",
+    onDelete: "cascade");
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+
+# Creating rows {% #create-rows %}
+If a table has relationship columns, you can create rows in two ways.
+You create both parent and child at the same time using a **nested** syntax or link parent and child rows through **references***.
+
+{% tabs %}
+{% tabsitem #nested title="Nested" %}
+You can create both the **parent** and **child** at once in a relationship by nesting data.
+
+{% multicode %}
+```js
+const { Client, ID, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.createRow({
+    databaseId: 'marvel',
+    tableId: 'movies',
+    rowId: ID.unique(),
+    data: {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            { author: 'Bob', text: 'Great movie!' },
+            { author: 'Alice', text: 'Loved it!' }
+        ]
+    }
+});
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    .setProject('<PROJECT_ID>');                // Your project ID
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.createRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+      { 'author': 'Bob', 'text': 'Great movie!' },
+      { 'author': 'Alice', 'text': 'Loved it!' }
+    ]
+  },
+)
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.createRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [ "author": "Bob", "text": "Great movie!" ],
+            [ "author": "Alice", "text": "Loved it!" ]
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val tablesDB = TablesDB(client)
+
+tablesDB.createRow(
+    databaseId = "marvel",
+    tableId = "movies",
+    rowId = ID.unique(),
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            mapOf("author" to "Bob", "text" to "Great movie!"),
+            mapOf("author" to "Alice", "text" to "Loved it!")
+        )
+    )
+)
+```
+{% /multicode %}
+
+## Edge case behaviors {% #edge-case-behaviors %}
+- If a nested child row is included and **no child row ID** is provided, the child row will be given a unique ID.
+- If a nested child row is included and **no conflicting child row ID** exists, the child row will be **created**.
+- If a nested child row is included and the **child row ID already exists**, the child row will be **updated**.
+
+{% /tabsitem %}
+{% tabsitem #reference title="Reference" %}
+If the child rows are already present in the related table, you can create the parent and **reference the child rows** using their IDs.
+Here's an example connecting reviews to a movie.
+{% multicode %}
+```js
+const { Client, ID, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+await tablesDB.createRow({
+    databaseId: 'marvel',
+    tableId: 'movies',
+    rowId: ID.unique(),
+    data: {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            '<REVIEW_ID_1>',
+            '<REVIEW_ID_2>'
+});
+    }
+)
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint    
+    .setProject('<PROJECT_ID>');               // Your project ID  
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.createRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+        '<REVIEW_ID_1>',
+        '<REVIEW_ID_2>'
+    ]
+  },
+)
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint        
+    .setProject("<PROJECT_ID>")                // Your project ID      
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.createRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            "<REVIEW_ID_1>",
+            "<REVIEW_ID_2>"
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint    
+    .setProject("<PROJECT_ID>")                // Your project ID  
+
+val tablesDB = TablesDB(client)
+
+tablesDB.createRow(
+    databaseId = "marvel",
+    tableId = "movies",
+    rowId = ID.unique(),
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            "<REVIEW_ID_1>",
+            "<REVIEW_ID_2>"
+        )
+    )
+)
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+
+# Queries {% #queries %}
+
+You can use filter queries directly against relationship columns using dot notation. This lets you filter rows based on the values of their related rows, such as filtering posts by an author's name or filtering orders by a product's category.
+
+Use the format `relationshipKey.field` to reference fields on related rows.
+
+{% multicode %}
+```js
+const { Client, TablesDB, Query } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.listRows({
+    databaseId: 'marvel',
+    tableId: 'movies',
+    queries: [
+        Query.equal('reviews.author', ['Bob'])
+    ],
+});
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.listRows(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  queries: [
+    Query.equal('reviews.author', ['Bob']),
+  ],
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+tablesDB.listRows(
+    databaseId: "marvel",
+    tableId: "movies",
+    queries: [
+        Query.equal("reviews.author", value: ["Bob"])
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Query
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+tablesDB.listRows(
+    databaseId = "marvel",
+    tableId = "movies",
+    queries = listOf(
+        Query.equal("reviews.author", listOf("Bob"))
+    )
+)
+```
+{% /multicode %}
+
+All filter queries are supported on relationship fields, including `equal`, `notEqual`, `greaterThan`, `lessThan`, `between`, `contains`, and other [comparison operators](/docs/products/databases/queries#comparison).
+
+{% arrow_link href="/docs/products/databases/queries#relationship-select" %}
+Learn how to select and load relationship data
+{% /arrow_link %}
+
+# Update relationships {% #update %}
+Relationships can be updated by updating the relationship column.
+
+{% multicode %}
+```js
+const { Client, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.updateRow(
+    'marvel',
+    'movies',
+    'spiderman',
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            'review4',
+            'review5'
+        ]
+    }
+);
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.updateRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: 'spiderman',
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+        'review4',
+        'review5'
+    ]
+  },
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.updateRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: "spiderman",
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            "review4",
+            "review5"
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+tablesDB.updateRow(
+    databaseId = "marvel",
+    tableId = "movies",
+    rowId = "spiderman",
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            "review4",
+            "review5"
+        )
+    )
+)
+```
+
+{% /multicode %}
+
+# Delete relationships {% #delete %}
+## Unlink relationships, retain rows {% #unlink %}
+
+If you need to unlink rows in a relationship but retain the rows, you can do this by **updating the relationship column** and removing the ID of the related row.
+
+If a row can be related to **only one row**, you can delete the relationship by setting the relationship column to `null`.
+
+If a row can be related to **more than one row**, you can delete the relationship by setting the relationship column to an empty list.
+
+## Delete relationships and rows {% #delete-both %}
+
+If you need to delete the rows as well as unlink the relationship, the approach depends on the [on-delete behavior](#on-delete) of a relationship.
+
+If the on-delete behavior is **restrict**, the link between the rows needs to be deleted first before the rows can be deleted **individually**.
+
+If the on-delete behavior is **set null**, deleting a row will leave related rows in place with their relationship column **set to null**. If you wish to also delete related rows, they must be deleted **individually**.
+
+If the on-delete behavior is **cascade**, deleting the parent rows also deletes **related child rows**, except for many-to-one relationships. In many-to-one relationships, there are multiple parent rows related to a single child row, and when the child row is deleted, the parents are deleted in cascade.
+
+{% multicode %}
+```js
+const { Client, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.deleteRow(
+    'marvel',
+    'movies',
+    'spiderman'
+);
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.deleteRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: 'spiderman'
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.deleteRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: "spiderman"
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+tablesDB.deleteRow(
+    databaseId = "marvel",
+    tableId = "movies",
+    rowId = "spiderman"
+)
+```
+{% /multicode %}
+
+# Permissions {% #permissions %}
+
+To access rows in a relationship, you must have permission to access both the parent and child rows.
+
+When creating both the parent and child rows, the child row will **inherit permissions** from its parent.
+
+You can also provide explicit permissions to the child row if they should be **different from their parent**.
+
+{% multicode %}
+```js
+const { Client, ID, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.createRow(
+    'marvel',
+    'movies',
+    ID.unique(),
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            {
+                author: 'Bob',
+                text: 'Great movie!',
+                $permissions: [
+                    Permission.read(Role.any())
+                ]
+            },
+        ]
+    }
+);
+```
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.createRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+      {
+         'author': 'Bob',
+         'text': 'Great movie!',
+         '\$permissions': [
+           Permission.read(Role.any())
+         ]
+       },
+    ]
+  },
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.createRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [
+                "author": "Bob",
+                "text": "Great movie!",
+                "$permissions": [
+                    Permission.read(Role.any())
+                ]
+            ],
+        ]
+    ]
+);
+```
+```kotlin
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.createRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [
+                "author": "Bob",
+                "text": "Great movie!",
+                "$permissions": [
+                    Permission.read(Role.any())
+                ]
+            ],
+        ]
+    ]
+);
+```
+{% /multicode %}
+
+When creating, updating, or deleting in a relationship, you must have permission to access all rows referenced.
+If the user does not have read permission to any row, an exception will be thrown.
+
+# Limitations {% #limitations %}
+
+Relationships can be nested between tables, but are restricted to a **max depth of three levels**.
+Relationship column key, type, and directionality can't be updated.
+On-delete behavior is the only option that can be updated for relationship columns.
+
+19:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L22",null,{"markdown":"$23","className":"ml-0"}]}]]}],"$L24","$L25"]}],"$L26","$L27"]}]}]
+29:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+2a:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2b:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+5a:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+24:["$","ul",null,{"className":"web-metadata text-caption mb-3 capitalize text-[var(--color-text-muted)] dark:text-white/50","children":[["$","li",null,{"children":"advanced"}],["$","li",null,{"className":"text-[var(--color-border-strong)] dark:text-white/25","aria-hidden":true,"children":"•"}],["$","li",null,{"children":[20," min"]}]]}]
+28:T698c,﻿---
+layout: article
+title: Relationships
+description: Manage complex data relationships with Clikkle Databases. Discover how to define and work with relationships between rows for interconnected data.
+difficulty: advanced
+readtime: 20
+---
+Relationships describe how rows in different tables are associated, so that related rows can be read, updated, or deleted together. Entities in real-life often associate with each other in an organic and logical way, like a person and their dog, an album and its songs, or friends in a social network.
+
+These types of association between entities can be modeled in Clikkle using relationships.
+
+{% info title="Experimental feature" %}
+Clikkle Relationships is an experimental feature. The API and behavior are subject to change in future versions.
+{% /info %}
+
+# Relationship columns {% #relationship-columns %}
+
+Relationships are represented in a table using **relationship columns**.
+The relationship column contains the ID of related rows, which it references during read, update, and delete operations.
+This column is **null** if a row has no related rows.
+
+# When to use a relationship {% #when-to-use-relationships %}
+
+Relationships help reduce redundant information. For example, a user can create many posts in your app. You can model this without relationships by keeping a copy of the user's information in all the rows representing posts, but this creates a lot of duplicate information in your database about the user.
+
+# Benefits of relationships {% #benefit-of-relationships %}
+
+Duplicated records waste storage, but more importantly, makes the database much harder to maintain. If the user changes their user name, you will have to update dozens or hundreds of records, a problem commonly known as an update anomaly in tablesDB. You can avoid duplicate information by storing users and posts in separate tables and relating a user and their posts through a relationship.
+
+# Opt-in loading {% #performance-loading %}
+
+By default, Clikkle returns only a row's own fields when you retrieve rows. Related rows are **not automatically loaded** unless you explicitly request them using query selection. This eliminates unintentional payload bloat and gives you precise control over performance.
+
+{% arrow_link href="/docs/products/databases/queries#relationship-select" %}
+Learn how to load relationships with queries
+{% /arrow_link %}
+
+# Directionality {% #directionality %}
+
+Clikkle relationships can be one-way or two-way.
+
+| Type     | Description                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------- |
+| One-way  | The relationship is only visible to one side of the relation. This is similar to a tree data structure.            |
+| Two-way  | The relationship is visible to both sides of the relationship. This is similar to a graph data structure.         |
+
+# Types {% #types %}
+
+Clikkle provides four different relationship types to enforce different associative rules between rows.
+
+| Type        | Description                                                             |
+| ----------- | ----------------------------------------------------------------------- |
+| One-to-one  | A row can only be related to one and only one row.           |
+| One-to-many | A row can be related to many other rows.                      |
+| Many-to-one | Many rows can be related to a single row.                     |
+| Many-to-many| A row can be related to many other rows.                      |
+
+
+# On-delete {% #on-delete %}
+
+Clikkle also allows you to define the behavior of a relationship when a row is deleted.
+
+| Type       | Description                                                            |
+| ---------- | ---------------------------------------------------------------------- |
+| Restrict   | If a row has at least one related row, it cannot be deleted.|
+| Cascade    | If a row has related rows, when it is deleted, the related rows are also deleted.|
+| Set null   | If a row has related rows, when it is deleted, the related rows are kept with their relationship column set to null.|
+
+# Creating relationships {% #create-relationships %}
+You can define relationships in the Clikkle Console, or using a [Server SDK](/docs/sdks#server)
+
+{% tabs %}
+{% tabsitem #console title="Console" %}
+
+You can create relationships in the Clikkle Console by adding a relationship column to a table.
+
+1. In your project, navigate to **Databases** > **Select your database** > **Select your table** > **Columns** > **Create column**.
+2. Select **Relationship** as the column type.
+3. In the **Relationship** modal, select the [relationship type](#types) and pick the related table and columns.
+4. Pick relationship column key(s) to represent the related table. Relationship column keys are used to reference the related table in queries, so pick something that's intuitive and easy to remember.
+5. Select desired [on delete](#on-delete) behavior.
+6. Click the **Create** button to create the relationship.
+{% /tabsitem %}
+
+{% tabsitem #sdk title="SDK" %}
+Here's an example that adds a relationship between the tables **movies** and **reviews**.
+A relationship column with the key `reviews` is added to the movies table, and another relationship column with the key `movie` is added to the reviews table.
+
+{% multicode %}
+```js
+const { Client, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+tablesDB.createRelationshipColumn(
+    'marvel',     // Database ID
+    'movies',     // Table ID
+    'reviews',    // Related table ID
+    'oneToMany',  // Relationship type
+    true,         // Is two-way
+    'reviews',    // Column key
+    'movie',      // Two-way column key
+    'cascade'     // On delete action
+);
+```
+
+
+```php
+use \Clikkle\Client;
+use \Clikkle\Services\TablesDB;
+
+$client = (new Client())
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>');               // Your project ID
+
+$tablesDB = new TablesDB($client);
+
+$tables->createRelationshipColumn(
+    databaseId: 'marvel',           // Database ID
+    tableId: 'movies',         // Table ID
+    relatedTableId: 'reviews', // Related table ID
+    type: 'oneToMany',              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: 'reviews',                 // Column key
+    twoWayKey: 'movie',             // Two-way column key
+    onDelete: 'cascade'             // On delete action
+);
+```
+
+
+```python
+from clikkle.client import Client
+from clikkle.services.tables_db import TablesDB
+
+client = (Client()
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint
+    .set_project('<PROJECT_ID>'))                   # Your project ID
+
+tablesDB = TablesDB(client)
+
+tablesDB.create_relationship_column(
+    database_id='marvel',             # Database ID
+    table_id='movies',           # Table ID
+    related_table_id='reviews',  # Related table ID
+    type='oneToMany',                 # Relationship type
+    two_way=True,                     # Is two-way
+    key='reviews',                    # Column key
+    two_way_key='movie',              # Two-way column key
+    on_delete='cascade'               # On delete action
+)
+```
+
+
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint
+    .set_project('<PROJECT_ID>')               # Your project ID
+
+tablesDB = TablesDB.new(client)
+
+tablesDB.create_relationship_column(
+    database_id: 'marvel',             # Database ID
+    table_id: 'movies',           # Table ID
+    related_table_id: 'reviews',  # Related table ID
+    type: 'oneToMany',                 # Relationship type
+    two_way: true,                     # Is two-way
+    key: 'reviews',                    # Column key
+    two_way_key: 'movie',              # Two-way column key
+    on_delete: 'cascade'               # On delete action
+)
+```
+
+
+```deno
+import { Client, TablesDB } from "npm:node-clikkle";
+
+const client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>");               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+tablesDB.createRelationshipColumn(
+    "marvel",    // Database ID
+    "movies",    // Table ID
+    "reviews",   // Related table ID
+    "oneToMany", // Relationship type
+    true,        // Is two-way
+    "reviews",   // Column key
+    "movie",     // Two-way column key
+    "cascade"    // On delete action
+);
+```
+
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.createRelationshipColumn(
+    databaseId: 'marvel',           // Database ID
+    tableId: 'movies',         // Table ID
+    relatedTableId: 'reviews', // Related table ID
+    type: 'oneToMany',              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: 'reviews',                 // Column key
+    twoWayKey: 'movie',             // Two-way column key
+    onDelete: 'cascade',            // On delete action
+);
+```
+
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val tablesDB = TablesDB(client)
+
+tablesDB.createRelationshipColumn(
+    databaseId = "marvel",           // Database ID
+    tableId = "movies",         // Table ID
+    relatedTableId = "reviews", // Related table ID
+    type = "oneToMany",              // Relationship type
+    twoWay = true,                   // Is two-way
+    key = "reviews",                 // Column key
+    twoWayKey = "movie",             // Two-way column key
+    onDelete = "cascade"             // On delete action
+)
+```
+
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let tablesDB = TablesDB(client)
+
+tablesDB.createRelationshipColumn(
+    databaseId: "marvel",           // Database ID
+    tableId: "movies",         // Table ID
+    relatedTableId: "reviews", // Related table ID
+    type: "oneToMany",              // Relationship type
+    twoWay: true,                   // Is two-way
+    key: "reviews",                 // Column key
+    twoWayKey: "movie",             // Two-way column key
+    onDelete: "cascade"             // On delete action
+)
+```
+
+
+```csharp
+using Clikkle;
+using Clikkle.Services;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .SetProject("<PROJECT_ID>");
+
+var tablesDB = new TablesDB(client);
+
+await tablesDB.CreateRelationshipColumn(
+    databaseId: "marvel",
+    tableId: "movies",
+    relatedTableId: "reviews",
+    type: "oneToMany",
+    twoWay: true,
+    key: "reviews",
+    twoWayKey: "movie",
+    onDelete: "cascade");
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+
+# Creating rows {% #create-rows %}
+If a table has relationship columns, you can create rows in two ways.
+You create both parent and child at the same time using a **nested** syntax or link parent and child rows through **references***.
+
+{% tabs %}
+{% tabsitem #nested title="Nested" %}
+You can create both the **parent** and **child** at once in a relationship by nesting data.
+
+{% multicode %}
+```js
+const { Client, ID, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.createRow({
+    databaseId: 'marvel',
+    tableId: 'movies',
+    rowId: ID.unique(),
+    data: {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            { author: 'Bob', text: 'Great movie!' },
+            { author: 'Alice', text: 'Loved it!' }
+        ]
+    }
+});
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint
+    .setProject('<PROJECT_ID>');                // Your project ID
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.createRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+      { 'author': 'Bob', 'text': 'Great movie!' },
+      { 'author': 'Alice', 'text': 'Loved it!' }
+    ]
+  },
+)
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.createRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [ "author": "Bob", "text": "Great movie!" ],
+            [ "author": "Alice", "text": "Loved it!" ]
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                // Your project ID
+
+val tablesDB = TablesDB(client)
+
+tablesDB.createRow(
+    databaseId = "marvel",
+    tableId = "movies",
+    rowId = ID.unique(),
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            mapOf("author" to "Bob", "text" to "Great movie!"),
+            mapOf("author" to "Alice", "text" to "Loved it!")
+        )
+    )
+)
+```
+{% /multicode %}
+
+## Edge case behaviors {% #edge-case-behaviors %}
+- If a nested child row is included and **no child row ID** is provided, the child row will be given a unique ID.
+- If a nested child row is included and **no conflicting child row ID** exists, the child row will be **created**.
+- If a nested child row is included and the **child row ID already exists**, the child row will be **updated**.
+
+{% /tabsitem %}
+{% tabsitem #reference title="Reference" %}
+If the child rows are already present in the related table, you can create the parent and **reference the child rows** using their IDs.
+Here's an example connecting reviews to a movie.
+{% multicode %}
+```js
+const { Client, ID, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+await tablesDB.createRow({
+    databaseId: 'marvel',
+    tableId: 'movies',
+    rowId: ID.unique(),
+    data: {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            '<REVIEW_ID_1>',
+            '<REVIEW_ID_2>'
+});
+    }
+)
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint    
+    .setProject('<PROJECT_ID>');               // Your project ID  
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.createRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+        '<REVIEW_ID_1>',
+        '<REVIEW_ID_2>'
+    ]
+  },
+)
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint        
+    .setProject("<PROJECT_ID>")                // Your project ID      
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.createRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            "<REVIEW_ID_1>",
+            "<REVIEW_ID_2>"
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.ID
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint    
+    .setProject("<PROJECT_ID>")                // Your project ID  
+
+val tablesDB = TablesDB(client)
+
+tablesDB.createRow(
+    databaseId = "marvel",
+    tableId = "movies",
+    rowId = ID.unique(),
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            "<REVIEW_ID_1>",
+            "<REVIEW_ID_2>"
+        )
+    )
+)
+```
+{% /multicode %}
+{% /tabsitem %}
+{% /tabs %}
+
+# Queries {% #queries %}
+
+You can use filter queries directly against relationship columns using dot notation. This lets you filter rows based on the values of their related rows, such as filtering posts by an author's name or filtering orders by a product's category.
+
+Use the format `relationshipKey.field` to reference fields on related rows.
+
+{% multicode %}
+```js
+const { Client, TablesDB, Query } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.listRows({
+    databaseId: 'marvel',
+    tableId: 'movies',
+    queries: [
+        Query.equal('reviews.author', ['Bob'])
+    ],
+});
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.listRows(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  queries: [
+    Query.equal('reviews.author', ['Bob']),
+  ],
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+tablesDB.listRows(
+    databaseId: "marvel",
+    tableId: "movies",
+    queries: [
+        Query.equal("reviews.author", value: ["Bob"])
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Query
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+tablesDB.listRows(
+    databaseId = "marvel",
+    tableId = "movies",
+    queries = listOf(
+        Query.equal("reviews.author", listOf("Bob"))
+    )
+)
+```
+{% /multicode %}
+
+All filter queries are supported on relationship fields, including `equal`, `notEqual`, `greaterThan`, `lessThan`, `between`, `contains`, and other [comparison operators](/docs/products/databases/queries#comparison).
+
+{% arrow_link href="/docs/products/databases/queries#relationship-select" %}
+Learn how to select and load relationship data
+{% /arrow_link %}
+
+# Update relationships {% #update %}
+Relationships can be updated by updating the relationship column.
+
+{% multicode %}
+```js
+const { Client, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.updateRow(
+    'marvel',
+    'movies',
+    'spiderman',
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            'review4',
+            'review5'
+        ]
+    }
+);
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.updateRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: 'spiderman',
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+        'review4',
+        'review5'
+    ]
+  },
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.updateRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: "spiderman",
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            "review4",
+            "review5"
+        ]
+    ]
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+tablesDB.updateRow(
+    databaseId = "marvel",
+    tableId = "movies",
+    rowId = "spiderman",
+    data = mapOf(
+        "title" to "Spiderman",
+        "year" to 2002,
+        "reviews" to listOf(
+            "review4",
+            "review5"
+        )
+    )
+)
+```
+
+{% /multicode %}
+
+# Delete relationships {% #delete %}
+## Unlink relationships, retain rows {% #unlink %}
+
+If you need to unlink rows in a relationship but retain the rows, you can do this by **updating the relationship column** and removing the ID of the related row.
+
+If a row can be related to **only one row**, you can delete the relationship by setting the relationship column to `null`.
+
+If a row can be related to **more than one row**, you can delete the relationship by setting the relationship column to an empty list.
+
+## Delete relationships and rows {% #delete-both %}
+
+If you need to delete the rows as well as unlink the relationship, the approach depends on the [on-delete behavior](#on-delete) of a relationship.
+
+If the on-delete behavior is **restrict**, the link between the rows needs to be deleted first before the rows can be deleted **individually**.
+
+If the on-delete behavior is **set null**, deleting a row will leave related rows in place with their relationship column **set to null**. If you wish to also delete related rows, they must be deleted **individually**.
+
+If the on-delete behavior is **cascade**, deleting the parent rows also deletes **related child rows**, except for many-to-one relationships. In many-to-one relationships, there are multiple parent rows related to a single child row, and when the child row is deleted, the parents are deleted in cascade.
+
+{% multicode %}
+```js
+const { Client, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.deleteRow(
+    'marvel',
+    'movies',
+    'spiderman'
+);
+```
+
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.deleteRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: 'spiderman'
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.deleteRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: "spiderman"
+)
+```
+
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+tablesDB.deleteRow(
+    databaseId = "marvel",
+    tableId = "movies",
+    rowId = "spiderman"
+)
+```
+{% /multicode %}
+
+# Permissions {% #permissions %}
+
+To access rows in a relationship, you must have permission to access both the parent and child rows.
+
+When creating both the parent and child rows, the child row will **inherit permissions** from its parent.
+
+You can also provide explicit permissions to the child row if they should be **different from their parent**.
+
+{% multicode %}
+```js
+const { Client, ID, TablesDB } = require('node-clikkle');
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>');               // Your project ID
+
+const tablesDB = new TablesDB(client);
+
+await tablesDB.createRow(
+    'marvel',
+    'movies',
+    ID.unique(),
+    {
+        title: 'Spiderman',
+        year: 2002,
+        reviews: [
+            {
+                author: 'Bob',
+                text: 'Great movie!',
+                $permissions: [
+                    Permission.read(Role.any())
+                ]
+            },
+        ]
+    }
+);
+```
+```dart
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+await tablesDB.createRow(
+  databaseId: 'marvel',
+  tableId: 'movies',
+  rowId: ID.unique(),
+  data: {
+    'title': 'Spiderman',
+    'year': 2002,
+    'reviews': [
+      {
+         'author': 'Bob',
+         'text': 'Great movie!',
+         '\$permissions': [
+           Permission.read(Role.any())
+         ]
+       },
+    ]
+  },
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.createRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [
+                "author": "Bob",
+                "text": "Great movie!",
+                "$permissions": [
+                    Permission.read(Role.any())
+                ]
+            ],
+        ]
+    ]
+);
+```
+```kotlin
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client: client)
+
+tablesDB.createRow(
+    databaseId: "marvel",
+    tableId: "movies",
+    rowId: ID.unique(),
+    data: [
+        "title": "Spiderman",
+        "year": 2002,
+        "reviews": [
+            [
+                "author": "Bob",
+                "text": "Great movie!",
+                "$permissions": [
+                    Permission.read(Role.any())
+                ]
+            ],
+        ]
+    ]
+);
+```
+{% /multicode %}
+
+When creating, updating, or deleting in a relationship, you must have permission to access all rows referenced.
+If the user does not have read permission to any row, an exception will be thrown.
+
+# Limitations {% #limitations %}
+
+Relationships can be nested between tables, but are restricted to a **max depth of three levels**.
+Relationship column key, type, and directionality can't be updated.
+On-delete behavior is the only option that can be updated for relationship columns.
+
+25:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Relationships"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L22",null,{"markdown":"$28","className":"ml-0"}]}]]}]
+26:["$","$L29",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"New API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This is a relatively new API. For details on the previous version and its terminology, see the legacy"," ",["$","$L16",null,{"href":"/docs/products/databases/legacy/relationships","className":"web-link underline","children":"Collections API documentation"}],"."]}]]}],null,["$","$L2a",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Relationships describe how rows in different tables are associated, so that related rows can be read, updated, or deleted together. Entities in real-life often associate with each other in an organic and logical way, like a person and their dog, an album and its songs, or friends in a social network."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"These types of association between entities can be modeled in Clikkle using relationships."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Experimental feature"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle Relationships is an experimental feature. The API and behavior are subject to change in future versions."}]]}],["$","$L2b",null,{"id":"relationship-columns","level":1,"children":"Relationship columns "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Relationships are represented in a table using ",["$","strong",null,{"children":"relationship columns"}],"."," ","The relationship column contains the ID of related rows, which it references during read, update, and delete operations."," ","This column is ",["$","strong",null,{"children":"null"}]," if a row has no related rows."]}],["$","$L2b",null,{"id":"when-to-use-relationships","level":1,"children":"When to use a relationship "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Relationships help reduce redundant information. For example, a user can create many posts in your app. You can model this without relationships by keeping a copy of the user's information in all the rows representing posts, but this creates a lot of duplicate information in your database about the user."}],["$","$L2b",null,{"id":"benefit-of-relationships","level":1,"children":"Benefits of relationships "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Duplicated records waste storage, but more importantly, makes the database much harder to maintain. If the user changes their user name, you will have to update dozens or hundreds of records, a problem commonly known as an update anomaly in tablesDB. You can avoid duplicate information by storing users and posts in separate tables and relating a user and their posts through a relationship."}],["$","$L2b",null,{"id":"performance-loading","level":1,"children":"Opt-in loading "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["By default, Clikkle returns only a row's own fields when you retrieve rows. Related rows are ","$L2c"," unless you explicitly request them using query selection. This eliminates unintentional payload bloat and gives you precise control over performance."]}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58"]}]}]]}],"$L59"]}]
+27:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L5a",null,{"items":[{"id":"relationship-columns","title":"Relationship columns","level":1},{"id":"when-to-use-relationships","title":"When to use a relationship","level":1},{"id":"benefit-of-relationships","title":"Benefits of relationships","level":1},{"id":"performance-loading","title":"Opt-in loading","level":1},{"id":"directionality","title":"Directionality","level":1},{"id":"types","title":"Types","level":1},{"id":"on-delete","title":"On-delete","level":1},{"id":"create-relationships","title":"Creating relationships","level":1},{"id":"create-rows","title":"Creating rows","level":1},{"id":"edge-case-behaviors","title":"Edge case behaviors","level":2},{"id":"queries","title":"Queries","level":1},{"id":"update","title":"Update relationships","level":1},{"id":"delete","title":"Delete relationships","level":1},{"id":"unlink","title":"Unlink relationships, retain rows","level":2},{"id":"delete-both","title":"Delete relationships and rows","level":2},{"id":"permissions","title":"Permissions","level":1},{"id":"limitations","title":"Limitations","level":1}]}]}]
+5b:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+5c:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+5d:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+5e:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+5f:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+6c:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2c:["$","strong",null,{"children":"not automatically loaded"}]
+2d:["$","$L16",null,{"href":"/docs/products/databases/queries#relationship-select","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn how to load relationships with queries"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+2e:["$","$L2b",null,{"id":"directionality","level":1,"children":"Directionality "}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle relationships can be one-way or two-way."}]
+30:["$","$L5b",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"One-way"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The relationship is only visible to one side of the relation. This is similar to a tree data structure."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Two-way"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The relationship is visible to both sides of the relationship. This is similar to a graph data structure."}]}]]}]]}]]}]
+31:["$","$L2b",null,{"id":"types","level":1,"children":"Types "}]
+32:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle provides four different relationship types to enforce different associative rules between rows."}]
+33:["$","$L5b",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"One-to-one"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"A row can only be related to one and only one row."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"One-to-many"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"A row can be related to many other rows."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Many-to-one"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Many rows can be related to a single row."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Many-to-many"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"A row can be related to many other rows."}]}]]}]]}]]}]
+34:["$","$L2b",null,{"id":"on-delete","level":1,"children":"On-delete "}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle also allows you to define the behavior of a relationship when a row is deleted."}]
+36:["$","$L5b",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Restrict"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"If a row has at least one related row, it cannot be deleted."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Cascade"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"If a row has related rows, when it is deleted, the related rows are also deleted."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Set null"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"If a row has related rows, when it is deleted, the related rows are kept with their relationship column set to null."}]}]]}]]}]]}]
+37:["$","$L2b",null,{"id":"create-relationships","level":1,"children":"Creating relationships "}]
+38:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can define relationships in the Clikkle Console, or using a ",["$","$L16",null,{"href":"/docs/sdks#server","children":"Server SDK"}]]}]
+39:["$","$L5c",null,{"children":[["$","$L5d",null,{"id":"console","title":"Console","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can create relationships in the Clikkle Console by adding a relationship column to a table."}],["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":["In your project, navigate to ",["$","strong",null,{"children":"Databases"}]," > ",["$","strong",null,{"children":"Select your database"}]," > ",["$","strong",null,{"children":"Select your table"}]," > ",["$","strong",null,{"children":"Columns"}]," > ",["$","strong",null,{"children":"Create column"}],"."]}],["$","li",null,{"children":["Select ",["$","strong",null,{"children":"Relationship"}]," as the column type."]}],["$","li",null,{"children":["In the ",["$","strong",null,{"children":"Relationship"}]," modal, select the ",["$","$L16",null,{"href":"#types","children":"relationship type"}]," and pick the related table and columns."]}],["$","li",null,{"children":"Pick relationship column key(s) to represent the related table. Relationship column keys are used to reference the related table in queries, so pick something that's intuitive and easy to remember."}],["$","li",null,{"children":["Select desired ",["$","$L16",null,{"href":"#on-delete","children":"on delete"}]," behavior."]}],["$","li",null,{"children":["Click the ",["$","strong",null,{"children":"Create"}]," button to create the relationship."]}]]}]]}],["$","$L5d",null,{"id":"sdk","title":"SDK","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Here's an example that adds a relationship between the tables ",["$","strong",null,{"children":"movies"}]," and ",["$","strong",null,{"children":"reviews"}],"."," ","A relationship column with the key ",["$","code",null,{"children":"reviews"}]," is added to the movies table, and another relationship column with the key ",["$","code",null,{"children":"movie"}]," is added to the reviews table."]}],["$","$L5e",null,{"children":[["$","$L5f",null,{"language":"js","content":"const { Client, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\ntablesDB.createRelationshipColumn(\n    'marvel',     // Database ID\n    'movies',     // Table ID\n    'reviews',    // Related table ID\n    'oneToMany',  // Relationship type\n    true,         // Is two-way\n    'reviews',    // Column key\n    'movie',      // Two-way column key\n    'cascade'     // On delete action\n);\n","children":"const { Client, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\ntablesDB.createRelationshipColumn(\n    'marvel',     // Database ID\n    'movies',     // Table ID\n    'reviews',    // Related table ID\n    'oneToMany',  // Relationship type\n    true,         // Is two-way\n    'reviews',    // Column key\n    'movie',      // Two-way column key\n    'cascade'     // On delete action\n);\n"}],["$","$L5f",null,{"language":"php","content":"use \\Clikkle\\Client;\nuse \\Clikkle\\Services\\TablesDB;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>');               // Your project ID\n\n$tablesDB = new TablesDB($client);\n\n$tables->createRelationshipColumn(\n    databaseId: 'marvel',           // Database ID\n    tableId: 'movies',         // Table ID\n    relatedTableId: 'reviews', // Related table ID\n    type: 'oneToMany',              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: 'reviews',                 // Column key\n    twoWayKey: 'movie',             // Two-way column key\n    onDelete: 'cascade'             // On delete action\n);\n","children":"use \\Clikkle\\Client;\nuse \\Clikkle\\Services\\TablesDB;\n\n$client = (new Client())\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>');               // Your project ID\n\n$tablesDB = new TablesDB($client);\n\n$tables->createRelationshipColumn(\n    databaseId: 'marvel',           // Database ID\n    tableId: 'movies',         // Table ID\n    relatedTableId: 'reviews', // Related table ID\n    type: 'oneToMany',              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: 'reviews',                 // Column key\n    twoWayKey: 'movie',             // Two-way column key\n    onDelete: 'cascade'             // On delete action\n);\n"}],"$L60","$L61","$L62","$L63","$L64","$L65","$L66"]}]]}]]}]
+3a:["$","$L2b",null,{"id":"create-rows","level":1,"children":"Creating rows "}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If a table has relationship columns, you can create rows in two ways."," ","You create both parent and child at the same time using a ",["$","strong",null,{"children":"nested"}]," syntax or link parent and child rows through ",["$","strong",null,{"children":"references"}],"*."]}]
+3c:["$","$L5c",null,{"children":[["$","$L5d",null,{"id":"nested","title":"Nested","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can create both the ",["$","strong",null,{"children":"parent"}]," and ",["$","strong",null,{"children":"child"}]," at once in a relationship by nesting data."]}],["$","$L5e",null,{"children":[["$","$L5f",null,{"language":"js","content":"const { Client, ID, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.createRow({\n    databaseId: 'marvel',\n    tableId: 'movies',\n    rowId: ID.unique(),\n    data: {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            { author: 'Bob', text: 'Great movie!' },\n            { author: 'Alice', text: 'Loved it!' }\n        ]\n    }\n});\n","children":"const { Client, ID, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.createRow({\n    databaseId: 'marvel',\n    tableId: 'movies',\n    rowId: ID.unique(),\n    data: {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            { author: 'Bob', text: 'Great movie!' },\n            { author: 'Alice', text: 'Loved it!' }\n        ]\n    }\n});\n"}],["$","$L5f",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    .setProject('<PROJECT_ID>');                // Your project ID\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.createRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n      { 'author': 'Bob', 'text': 'Great movie!' },\n      { 'author': 'Alice', 'text': 'Loved it!' }\n    ]\n  },\n)\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')  // Your API Endpoint\n    .setProject('<PROJECT_ID>');                // Your project ID\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.createRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n      { 'author': 'Bob', 'text': 'Great movie!' },\n      { 'author': 'Alice', 'text': 'Loved it!' }\n    ]\n  },\n)\n"}],["$","$L5f",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.createRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [ \"author\": \"Bob\", \"text\": \"Great movie!\" ],\n            [ \"author\": \"Alice\", \"text\": \"Loved it!\" ]\n        ]\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.createRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [ \"author\": \"Bob\", \"text\": \"Great movie!\" ],\n            [ \"author\": \"Alice\", \"text\": \"Loved it!\" ]\n        ]\n    ]\n)\n"}],"$L67"]}],"$L68","$L69"]}],"$L6a"]}]
+3d:["$","$L2b",null,{"id":"queries","level":1,"children":"Queries "}]
+3e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can use filter queries directly against relationship columns using dot notation. This lets you filter rows based on the values of their related rows, such as filtering posts by an author's name or filtering orders by a product's category."}]
+3f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Use the format ",["$","code",null,{"children":"relationshipKey.field"}]," to reference fields on related rows."]}]
+40:["$","$L5e",null,{"children":[["$","$L5f",null,{"language":"js","content":"const { Client, TablesDB, Query } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.listRows({\n    databaseId: 'marvel',\n    tableId: 'movies',\n    queries: [\n        Query.equal('reviews.author', ['Bob'])\n    ],\n});\n","children":"const { Client, TablesDB, Query } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.listRows({\n    databaseId: 'marvel',\n    tableId: 'movies',\n    queries: [\n        Query.equal('reviews.author', ['Bob'])\n    ],\n});\n"}],["$","$L5f",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.listRows(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  queries: [\n    Query.equal('reviews.author', ['Bob']),\n  ],\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.listRows(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  queries: [\n    Query.equal('reviews.author', ['Bob']),\n  ],\n);\n"}],["$","$L5f",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\ntablesDB.listRows(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    queries: [\n        Query.equal(\"reviews.author\", value: [\"Bob\"])\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\ntablesDB.listRows(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    queries: [\n        Query.equal(\"reviews.author\", value: [\"Bob\"])\n    ]\n)\n"}],["$","$L5f",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\nimport io.clikkle.Query\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\ntablesDB.listRows(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    queries = listOf(\n        Query.equal(\"reviews.author\", listOf(\"Bob\"))\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\nimport io.clikkle.Query\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\ntablesDB.listRows(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    queries = listOf(\n        Query.equal(\"reviews.author\", listOf(\"Bob\"))\n    )\n)\n"}]]}]
+41:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["All filter queries are supported on relationship fields, including ",["$","code",null,{"children":"equal"}],", ",["$","code",null,{"children":"notEqual"}],", ",["$","code",null,{"children":"greaterThan"}],", ",["$","code",null,{"children":"lessThan"}],", ",["$","code",null,{"children":"between"}],", ",["$","code",null,{"children":"contains"}],", and other ",["$","$L16",null,{"href":"/docs/products/databases/queries#comparison","children":"comparison operators"}],"."]}]
+42:["$","$L16",null,{"href":"/docs/products/databases/queries#relationship-select","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn how to select and load relationship data"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+43:["$","$L2b",null,{"id":"update","level":1,"children":"Update relationships "}]
+44:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Relationships can be updated by updating the relationship column."}]
+45:["$","$L5e",null,{"children":[["$","$L5f",null,{"language":"js","content":"const { Client, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.updateRow(\n    'marvel',\n    'movies',\n    'spiderman',\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            'review4',\n            'review5'\n        ]\n    }\n);\n","children":"const { Client, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.updateRow(\n    'marvel',\n    'movies',\n    'spiderman',\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            'review4',\n            'review5'\n        ]\n    }\n);\n"}],["$","$L5f",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.updateRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: 'spiderman',\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n        'review4',\n        'review5'\n    ]\n  },\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.updateRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: 'spiderman',\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n        'review4',\n        'review5'\n    ]\n  },\n);\n"}],["$","$L5f",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.updateRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: \"spiderman\",\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            \"review4\",\n            \"review5\"\n        ]\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.updateRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: \"spiderman\",\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            \"review4\",\n            \"review5\"\n        ]\n    ]\n)\n"}],["$","$L5f",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\ntablesDB.updateRow(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    rowId = \"spiderman\",\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            \"review4\",\n            \"review5\"\n        )\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\ntablesDB.updateRow(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    rowId = \"spiderman\",\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            \"review4\",\n            \"review5\"\n        )\n    )\n)\n"}]]}]
+46:["$","$L2b",null,{"id":"delete","level":1,"children":"Delete relationships "}]
+47:["$","$L2b",null,{"id":"unlink","level":2,"children":"Unlink relationships, retain rows "}]
+48:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you need to unlink rows in a relationship but retain the rows, you can do this by ",["$","strong",null,{"children":"updating the relationship column"}]," and removing the ID of the related row."]}]
+49:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If a row can be related to ",["$","strong",null,{"children":"only one row"}],", you can delete the relationship by setting the relationship column to ",["$","code",null,{"children":"null"}],"."]}]
+4a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If a row can be related to ",["$","strong",null,{"children":"more than one row"}],", you can delete the relationship by setting the relationship column to an empty list."]}]
+4b:["$","$L2b",null,{"id":"delete-both","level":2,"children":"Delete relationships and rows "}]
+4c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you need to delete the rows as well as unlink the relationship, the approach depends on the ",["$","$L16",null,{"href":"#on-delete","children":"on-delete behavior"}]," of a relationship."]}]
+4d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the on-delete behavior is ",["$","strong",null,{"children":"restrict"}],", the link between the rows needs to be deleted first before the rows can be deleted ",["$","strong",null,{"children":"individually"}],"."]}]
+4e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the on-delete behavior is ",["$","strong",null,{"children":"set null"}],", deleting a row will leave related rows in place with their relationship column ",["$","strong",null,{"children":"set to null"}],". If you wish to also delete related rows, they must be deleted ",["$","strong",null,{"children":"individually"}],"."]}]
+4f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the on-delete behavior is ",["$","strong",null,{"children":"cascade"}],", deleting the parent rows also deletes ",["$","strong",null,{"children":"related child rows"}],", except for many-to-one relationships. In many-to-one relationships, there are multiple parent rows related to a single child row, and when the child row is deleted, the parents are deleted in cascade."]}]
+50:["$","$L5e",null,{"children":[["$","$L5f",null,{"language":"js","content":"const { Client, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.deleteRow(\n    'marvel',\n    'movies',\n    'spiderman'\n);\n","children":"const { Client, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.deleteRow(\n    'marvel',\n    'movies',\n    'spiderman'\n);\n"}],["$","$L5f",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.deleteRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: 'spiderman'\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.deleteRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: 'spiderman'\n);\n"}],["$","$L5f",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.deleteRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: \"spiderman\"\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.deleteRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: \"spiderman\"\n)\n"}],["$","$L5f",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\ntablesDB.deleteRow(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    rowId = \"spiderman\"\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\ntablesDB.deleteRow(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    rowId = \"spiderman\"\n)\n"}]]}]
+51:["$","$L2b",null,{"id":"permissions","level":1,"children":"Permissions "}]
+52:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To access rows in a relationship, you must have permission to access both the parent and child rows."}]
+53:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When creating both the parent and child rows, the child row will ",["$","strong",null,{"children":"inherit permissions"}]," from its parent."]}]
+54:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also provide explicit permissions to the child row if they should be ",["$","strong",null,{"children":"different from their parent"}],"."]}]
+55:["$","$L5e",null,{"children":[["$","$L5f",null,{"language":"js","content":"const { Client, ID, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.createRow(\n    'marvel',\n    'movies',\n    ID.unique(),\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            {\n                author: 'Bob',\n                text: 'Great movie!',\n                $permissions: [\n                    Permission.read(Role.any())\n                ]\n            },\n        ]\n    }\n);\n","children":"const { Client, ID, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\nawait tablesDB.createRow(\n    'marvel',\n    'movies',\n    ID.unique(),\n    {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            {\n                author: 'Bob',\n                text: 'Great movie!',\n                $permissions: [\n                    Permission.read(Role.any())\n                ]\n            },\n        ]\n    }\n);\n"}],["$","$L5f",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.createRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n      {\n         'author': 'Bob',\n         'text': 'Great movie!',\n         '\\$permissions': [\n           Permission.read(Role.any())\n         ]\n       },\n    ]\n  },\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.createRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n      {\n         'author': 'Bob',\n         'text': 'Great movie!',\n         '\\$permissions': [\n           Permission.read(Role.any())\n         ]\n       },\n    ]\n  },\n);\n"}],["$","$L5f",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.createRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [\n                \"author\": \"Bob\",\n                \"text\": \"Great movie!\",\n                \"$permissions\": [\n                    Permission.read(Role.any())\n                ]\n            ],\n        ]\n    ]\n);\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.createRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [\n                \"author\": \"Bob\",\n                \"text\": \"Great movie!\",\n                \"$permissions\": [\n                    Permission.read(Role.any())\n                ]\n            ],\n        ]\n    ]\n);\n"}],"$L6b"]}]
+56:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When creating, updating, or deleting in a relationship, you must have permission to access all rows referenced."," ","If the user does not have read permission to any row, an exception will be thrown."]}]
+57:["$","$L2b",null,{"id":"limitations","level":1,"children":"Limitations "}]
+58:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Relationships can be nested between tables, but are restricted to a ",["$","strong",null,{"children":"max depth of three levels"}],"."," ","Relationship column key, type, and directionality can't be updated."," ","On-delete behavior is the only option that can be updated for relationship columns."]}]
+59:["$","$L6c",null,{"date":"$undefined"}]
+60:["$","$L5f",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.services.tables_db import TablesDB\n\nclient = (Client()\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint\n    .set_project('<PROJECT_ID>'))                   # Your project ID\n\ntablesDB = TablesDB(client)\n\ntablesDB.create_relationship_column(\n    database_id='marvel',             # Database ID\n    table_id='movies',           # Table ID\n    related_table_id='reviews',  # Related table ID\n    type='oneToMany',                 # Relationship type\n    two_way=True,                     # Is two-way\n    key='reviews',                    # Column key\n    two_way_key='movie',              # Two-way column key\n    on_delete='cascade'               # On delete action\n)\n","children":"from clikkle.client import Client\nfrom clikkle.services.tables_db import TablesDB\n\nclient = (Client()\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')     # Your API Endpoint\n    .set_project('<PROJECT_ID>'))                   # Your project ID\n\ntablesDB = TablesDB(client)\n\ntablesDB.create_relationship_column(\n    database_id='marvel',             # Database ID\n    table_id='movies',           # Table ID\n    related_table_id='reviews',  # Related table ID\n    type='oneToMany',                 # Relationship type\n    two_way=True,                     # Is two-way\n    key='reviews',                    # Column key\n    two_way_key='movie',              # Two-way column key\n    on_delete='cascade'               # On delete action\n)\n"}]
+61:["$","$L5f",null,{"language":"ruby","content":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint\n    .set_project('<PROJECT_ID>')               # Your project ID\n\ntablesDB = TablesDB.new(client)\n\ntablesDB.create_relationship_column(\n    database_id: 'marvel',             # Database ID\n    table_id: 'movies',           # Table ID\n    related_table_id: 'reviews',  # Related table ID\n    type: 'oneToMany',                 # Relationship type\n    two_way: true,                     # Is two-way\n    key: 'reviews',                    # Column key\n    two_way_key: 'movie',              # Two-way column key\n    on_delete: 'cascade'               # On delete action\n)\n","children":"require 'clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1')# Your API Endpoint\n    .set_project('<PROJECT_ID>')               # Your project ID\n\ntablesDB = TablesDB.new(client)\n\ntablesDB.create_relationship_column(\n    database_id: 'marvel',             # Database ID\n    table_id: 'movies',           # Table ID\n    related_table_id: 'reviews',  # Related table ID\n    type: 'oneToMany',                 # Relationship type\n    two_way: true,                     # Is two-way\n    key: 'reviews',                    # Column key\n    two_way_key: 'movie',              # Two-way column key\n    on_delete: 'cascade'               # On delete action\n)\n"}]
+62:["$","$L5f",null,{"language":"deno","content":"import { Client, TablesDB } from \"npm:node-clikkle\";\n\nconst client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\");               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\ntablesDB.createRelationshipColumn(\n    \"marvel\",    // Database ID\n    \"movies\",    // Table ID\n    \"reviews\",   // Related table ID\n    \"oneToMany\", // Relationship type\n    true,        // Is two-way\n    \"reviews\",   // Column key\n    \"movie\",     // Two-way column key\n    \"cascade\"    // On delete action\n);\n","children":"import { Client, TablesDB } from \"npm:node-clikkle\";\n\nconst client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\");               // Your project ID\n\nconst tablesDB = new TablesDB(client);\n\ntablesDB.createRelationshipColumn(\n    \"marvel\",    // Database ID\n    \"movies\",    // Table ID\n    \"reviews\",   // Related table ID\n    \"oneToMany\", // Relationship type\n    true,        // Is two-way\n    \"reviews\",   // Column key\n    \"movie\",     // Two-way column key\n    \"cascade\"    // On delete action\n);\n"}]
+63:["$","$L5f",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.createRelationshipColumn(\n    databaseId: 'marvel',           // Database ID\n    tableId: 'movies',         // Table ID\n    relatedTableId: 'reviews', // Related table ID\n    type: 'oneToMany',              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: 'reviews',                 // Column key\n    twoWayKey: 'movie',             // Two-way column key\n    onDelete: 'cascade',            // On delete action\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.createRelationshipColumn(\n    databaseId: 'marvel',           // Database ID\n    tableId: 'movies',         // Table ID\n    relatedTableId: 'reviews', // Related table ID\n    type: 'oneToMany',              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: 'reviews',                 // Column key\n    twoWayKey: 'movie',             // Two-way column key\n    onDelete: 'cascade',            // On delete action\n);\n"}]
+64:["$","$L5f",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval tablesDB = TablesDB(client)\n\ntablesDB.createRelationshipColumn(\n    databaseId = \"marvel\",           // Database ID\n    tableId = \"movies\",         // Table ID\n    relatedTableId = \"reviews\", // Related table ID\n    type = \"oneToMany\",              // Relationship type\n    twoWay = true,                   // Is two-way\n    key = \"reviews\",                 // Column key\n    twoWayKey = \"movie\",             // Two-way column key\n    onDelete = \"cascade\"             // On delete action\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval tablesDB = TablesDB(client)\n\ntablesDB.createRelationshipColumn(\n    databaseId = \"marvel\",           // Database ID\n    tableId = \"movies\",         // Table ID\n    relatedTableId = \"reviews\", // Related table ID\n    type = \"oneToMany\",              // Relationship type\n    twoWay = true,                   // Is two-way\n    key = \"reviews\",                 // Column key\n    twoWayKey = \"movie\",             // Two-way column key\n    onDelete = \"cascade\"             // On delete action\n)\n"}]
+65:["$","$L5f",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet tablesDB = TablesDB(client)\n\ntablesDB.createRelationshipColumn(\n    databaseId: \"marvel\",           // Database ID\n    tableId: \"movies\",         // Table ID\n    relatedTableId: \"reviews\", // Related table ID\n    type: \"oneToMany\",              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: \"reviews\",                 // Column key\n    twoWayKey: \"movie\",             // Two-way column key\n    onDelete: \"cascade\"             // On delete action\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nlet tablesDB = TablesDB(client)\n\ntablesDB.createRelationshipColumn(\n    databaseId: \"marvel\",           // Database ID\n    tableId: \"movies\",         // Table ID\n    relatedTableId: \"reviews\", // Related table ID\n    type: \"oneToMany\",              // Relationship type\n    twoWay: true,                   // Is two-way\n    key: \"reviews\",                 // Column key\n    twoWayKey: \"movie\",             // Two-way column key\n    onDelete: \"cascade\"             // On delete action\n)\n"}]
+66:["$","$L5f",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<PROJECT_ID>\");\n\nvar tablesDB = new TablesDB(client);\n\nawait tablesDB.CreateRelationshipColumn(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    relatedTableId: \"reviews\",\n    type: \"oneToMany\",\n    twoWay: true,\n    key: \"reviews\",\n    twoWayKey: \"movie\",\n    onDelete: \"cascade\");\n","children":"using Clikkle;\nusing Clikkle.Services;\n\nvar client = new Client()\n    .SetEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .SetProject(\"<PROJECT_ID>\");\n\nvar tablesDB = new TablesDB(client);\n\nawait tablesDB.CreateRelationshipColumn(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    relatedTableId: \"reviews\",\n    type: \"oneToMany\",\n    twoWay: true,\n    key: \"reviews\",\n    twoWayKey: \"movie\",\n    onDelete: \"cascade\");\n"}]
+67:["$","$L5f",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval tablesDB = TablesDB(client)\n\ntablesDB.createRow(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    rowId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            mapOf(\"author\" to \"Bob\", \"text\" to \"Great movie!\"),\n            mapOf(\"author\" to \"Alice\", \"text\" to \"Loved it!\")\n        )\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\")                // Your project ID\n\nval tablesDB = TablesDB(client)\n\ntablesDB.createRow(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    rowId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            mapOf(\"author\" to \"Bob\", \"text\" to \"Great movie!\"),\n            mapOf(\"author\" to \"Alice\", \"text\" to \"Loved it!\")\n        )\n    )\n)\n"}]
+68:["$","$L2b",null,{"id":"edge-case-behaviors","level":2,"children":"Edge case behaviors "}]
+69:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["If a nested child row is included and ",["$","strong",null,{"children":"no child row ID"}]," is provided, the child row will be given a unique ID."]}],["$","li",null,{"children":["If a nested child row is included and ",["$","strong",null,{"children":"no conflicting child row ID"}]," exists, the child row will be ",["$","strong",null,{"children":"created"}],"."]}],["$","li",null,{"children":["If a nested child row is included and the ",["$","strong",null,{"children":"child row ID already exists"}],", the child row will be ",["$","strong",null,{"children":"updated"}],"."]}]]}]
+6a:["$","$L5d",null,{"id":"reference","title":"Reference","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If the child rows are already present in the related table, you can create the parent and ",["$","strong",null,{"children":"reference the child rows"}]," using their IDs."," ","Here's an example connecting reviews to a movie."]}],["$","$L5e",null,{"children":[["$","$L5f",null,{"language":"js","content":"const { Client, ID, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nawait tablesDB.createRow({\n    databaseId: 'marvel',\n    tableId: 'movies',\n    rowId: ID.unique(),\n    data: {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            '<REVIEW_ID_1>',\n            '<REVIEW_ID_2>'\n});\n    }\n)\n","children":"const { Client, ID, TablesDB } = require('node-clikkle');\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>');               // Your project ID\n\nawait tablesDB.createRow({\n    databaseId: 'marvel',\n    tableId: 'movies',\n    rowId: ID.unique(),\n    data: {\n        title: 'Spiderman',\n        year: 2002,\n        reviews: [\n            '<REVIEW_ID_1>',\n            '<REVIEW_ID_2>'\n});\n    }\n)\n"}],["$","$L5f",null,{"language":"dart","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint    \n    .setProject('<PROJECT_ID>');               // Your project ID  \n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.createRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n        '<REVIEW_ID_1>',\n        '<REVIEW_ID_2>'\n    ]\n  },\n)\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint    \n    .setProject('<PROJECT_ID>');               // Your project ID  \n\nfinal tablesDB = TablesDB(client);\n\nawait tablesDB.createRow(\n  databaseId: 'marvel',\n  tableId: 'movies',\n  rowId: ID.unique(),\n  data: {\n    'title': 'Spiderman',\n    'year': 2002,\n    'reviews': [\n        '<REVIEW_ID_1>',\n        '<REVIEW_ID_2>'\n    ]\n  },\n)\n"}],["$","$L5f",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint        \n    .setProject(\"<PROJECT_ID>\")                // Your project ID      \n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.createRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            \"<REVIEW_ID_1>\",\n            \"<REVIEW_ID_2>\"\n        ]\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint        \n    .setProject(\"<PROJECT_ID>\")                // Your project ID      \n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.createRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            \"<REVIEW_ID_1>\",\n            \"<REVIEW_ID_2>\"\n        ]\n    ]\n)\n"}],"$L6d"]}]]}]
+6b:["$","$L5f",null,{"language":"kotlin","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.createRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [\n                \"author\": \"Bob\",\n                \"text\": \"Great movie!\",\n                \"$permissions\": [\n                    Permission.read(Role.any())\n                ]\n            ],\n        ]\n    ]\n);\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client: client)\n\ntablesDB.createRow(\n    databaseId: \"marvel\",\n    tableId: \"movies\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Spiderman\",\n        \"year\": 2002,\n        \"reviews\": [\n            [\n                \"author\": \"Bob\",\n                \"text\": \"Great movie!\",\n                \"$permissions\": [\n                    Permission.read(Role.any())\n                ]\n            ],\n        ]\n    ]\n);\n"}]
+6d:["$","$L5f",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint    \n    .setProject(\"<PROJECT_ID>\")                // Your project ID  \n\nval tablesDB = TablesDB(client)\n\ntablesDB.createRow(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    rowId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            \"<REVIEW_ID_1>\",\n            \"<REVIEW_ID_2>\"\n        )\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\nimport io.clikkle.ID\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint    \n    .setProject(\"<PROJECT_ID>\")                // Your project ID  \n\nval tablesDB = TablesDB(client)\n\ntablesDB.createRow(\n    databaseId = \"marvel\",\n    tableId = \"movies\",\n    rowId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Spiderman\",\n        \"year\" to 2002,\n        \"reviews\" to listOf(\n            \"<REVIEW_ID_1>\",\n            \"<REVIEW_ID_2>\"\n        )\n    )\n)\n"}]
+1f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+6e:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1c:null
+21:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L6e","13",{}]]

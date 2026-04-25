@@ -1,0 +1,238 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+34:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+35:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+36:"$Sreact.suspense"
+38:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+39:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T1e5b,---
+layout: article
+title: Authentication
+description: Learn how Clikkle protects your passwords and helps users pick better passwords.
+---
+
+Clikkle helps you implement secure authentication in your applications by using password hashing to protect passwords in storage.
+Clikkle also provides tools to help users pick better passwords, making them harder to break.
+
+# Persistence {% #persistence %}
+
+Clikkle handles the persistence of the session in a consistent way across SDKs. After authenticating with an SDK, the SDK will persist the session so that the user will not need to log in again the next time they open the app. The mechanism for persistence depends on the SDK.
+
+{% info title="Best Practice" %}
+Only keep user sessions active as long as needed and maintain exactly **one** instance of the Client SDK in your app to avoid conflicting session data.
+{% /info %}
+
+|                                                                                                                   {% width=70 %}                                                                                                                    | Framework {% width=120 %} |                                            Storage method                                            |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------------------------------------: |
+| {% only_dark %}{% icon_image src="/images/platforms/dark/javascript.svg" alt="Javascript logo" size="m" /%}{% /only_dark %}{% only_light %}{% icon_image src="/images/platforms/javascript.svg" alt="Javascript logo" size="m" /%}{% /only_light %} |            Web            | Uses a secure session cookie and falls back to local storage when a session cookie is not available. |
+|    {% only_dark %}{% icon_image src="/images/platforms/dark/flutter.svg" alt="Javascript logo" size="m" /%}{% /only_dark %}{% only_light %}{% icon_image src="/images/platforms/flutter.svg" alt="Javascript logo" size="m" /%}{% /only_light %}    |          Flutter          |     Uses a session cookie stored in Application Documents through the **path_provider** package.     |
+|      {% only_dark %}{% icon_image src="/images/platforms/dark/apple.svg" alt="Javascript logo" size="m" /%}{% /only_dark %}{% only_light %}{% icon_image src="/images/platforms/apple.svg" alt="Javascript logo" size="m" /%}{% /only_light %}      |           Apple           |                          Uses a session cookie stored in **UserDefaults**.                           |
+|    {% only_dark %}{% icon_image src="/images/platforms/dark/android.svg" alt="Javascript logo" size="m" /%}{% /only_dark %}{% only_light %}{% icon_image src="/images/platforms/android.svg" alt="Javascript logo" size="m" /%}{% /only_light %}    |          Android          |                        Uses a session cookie stored in **SharedPreferences**.                        |
+
+# Session limits {% #session-limits %}
+
+In Clikkle versions 1.2 and above, you can limit the number of active sessions created per user to prevent the accumulation of unused but active sessions. New sessions created by the same user past the session limit delete the oldest session.
+
+You can change the session limit in the **Security** tab of the Auth Service in your Clikkle Console. The default session limit is 10 with a maximum configurable limit of 100.
+
+# Permissions {% #permissions %}
+
+Security is very important to protect users' data and privacy.
+Clikkle uses a [permissions model](/docs/advanced/platform/permissions) coupled with user sessions to ensure users need correct permissions to access resources.
+With all Clikkle services, including databases and storage, access is granted at the collection, bucket, document, or file level.
+These permissions are enforced for client SDKs and server SDKs when using JWT, but are ignored when using a server SDK with an API key.
+
+# Password history {% #password-history %}
+
+Password history prevents users from reusing recent passwords. This protects user accounts from security risks by enforcing a new password every time it's changed.
+
+Password history can be enabled in the Auth service's **Security** tab on the Clikkle Console. You can choose how many previous passwords to remember, up to a maximum of 20, and block users from reusing them.
+
+# Password dictionary {% #password-dictionary %}
+
+Password dictionary protects users from using bad passwords. It compares the user's password to the [10,000 most common passwords](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt) and throws an error if there's a match. Together with [rate limits](/docs/advanced/platform/rate-limits), password dictionary will significantly reduce the chance of a malicious actor guessing user passwords.
+
+Password dictionary can be enabled in the Auth service's **Security** tab on the Clikkle Console.
+
+# Password hashing {% #password-hashing %}
+
+Clikkle protects passwords by using the [Argon2](https://github.com/P-H-C/phc-winner-argon2) password-hashing algorithm.
+
+Argon 2 is a resilient and secure password hashing algorithm that is also the winner of the [Password Hashing Competition](https://www.password-hashing.net/).
+
+Clikkle combines Argon 2 with the use of techniques such as salting, adjustable work factors, and memory hardness to securely handle passwords.
+
+If an user is imported into Clikkle with hash differnt than Argon2, the password will be re-hashed on first successful user's sign in. This ensures all passwords are stored as securely as possible.
+
+# Personal data {% #personal-data %}
+
+Encourage passwords that are hard to guess by disallowing users to pick passwords that contain personal data.
+Personal data includes the user's name, email, and phone number.
+
+Disallowing personal data can be enabled in the Auth service's **Security** tab on the Clikkle Console.
+
+# Session alerts {% #session-alerts %}
+
+Enable email alerts for your users so that whenever another session is created for their account, they will be alerted to the new session.
+
+You won't receive notifications when logging in using [Magic URL](/docs/products/auth/magic-url), [Email OTP](/docs/products/auth/email-otp), or [OAuth2](/docs/products/auth/oauth2) since these authentication methods already verify user access to their systems, establishing the authentication's legitimacy.
+
+To toggle session alerts, navigate to **Auth** > **Security** > **Session alerts**.
+
+# Memberships privacy {% #memberships-privacy %}
+
+In certain use cases, your app may not need to share members' personal information with others. You can safeguard privacy by marking specific membership details as private. To configure this setting, navigate to **Auth** > **Security** > **Memberships privacy**
+
+These details can be made private:
+
+- `userName` - The member's name
+- `userEmail` - The member's email address
+- `mfa` - Whether the member has enabled multi-factor authentication
+
+# Mock phone numbers {% #mock-phone-numbers %}
+
+Creating and using mock phone numbers allows users to test SMS authentication without needing an actual phone number. This can be useful for testing edge cases where a user doesn't have a phone number but needs to sign in to your application using SMS.
+
+To create a mock phone number, navigate to **Auth** > **Security** > Mock Phone Numbers. After defining a mock phone number, you need to define a specific OTP code that will be used for SMS sign-in instead of the SMS secret code sent to a real phone number.
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T1e5b,---
+layout: article
+title: Authentication
+description: Learn how Clikkle protects your passwords and helps users pick better passwords.
+---
+
+Clikkle helps you implement secure authentication in your applications by using password hashing to protect passwords in storage.
+Clikkle also provides tools to help users pick better passwords, making them harder to break.
+
+# Persistence {% #persistence %}
+
+Clikkle handles the persistence of the session in a consistent way across SDKs. After authenticating with an SDK, the SDK will persist the session so that the user will not need to log in again the next time they open the app. The mechanism for persistence depends on the SDK.
+
+{% info title="Best Practice" %}
+Only keep user sessions active as long as needed and maintain exactly **one** instance of the Client SDK in your app to avoid conflicting session data.
+{% /info %}
+
+|                                                                                                                   {% width=70 %}                                                                                                                    | Framework {% width=120 %} |                                            Storage method                                            |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------------------------------------: |
+| {% only_dark %}{% icon_image src="/images/platforms/dark/javascript.svg" alt="Javascript logo" size="m" /%}{% /only_dark %}{% only_light %}{% icon_image src="/images/platforms/javascript.svg" alt="Javascript logo" size="m" /%}{% /only_light %} |            Web            | Uses a secure session cookie and falls back to local storage when a session cookie is not available. |
+|    {% only_dark %}{% icon_image src="/images/platforms/dark/flutter.svg" alt="Javascript logo" size="m" /%}{% /only_dark %}{% only_light %}{% icon_image src="/images/platforms/flutter.svg" alt="Javascript logo" size="m" /%}{% /only_light %}    |          Flutter          |     Uses a session cookie stored in Application Documents through the **path_provider** package.     |
+|      {% only_dark %}{% icon_image src="/images/platforms/dark/apple.svg" alt="Javascript logo" size="m" /%}{% /only_dark %}{% only_light %}{% icon_image src="/images/platforms/apple.svg" alt="Javascript logo" size="m" /%}{% /only_light %}      |           Apple           |                          Uses a session cookie stored in **UserDefaults**.                           |
+|    {% only_dark %}{% icon_image src="/images/platforms/dark/android.svg" alt="Javascript logo" size="m" /%}{% /only_dark %}{% only_light %}{% icon_image src="/images/platforms/android.svg" alt="Javascript logo" size="m" /%}{% /only_light %}    |          Android          |                        Uses a session cookie stored in **SharedPreferences**.                        |
+
+# Session limits {% #session-limits %}
+
+In Clikkle versions 1.2 and above, you can limit the number of active sessions created per user to prevent the accumulation of unused but active sessions. New sessions created by the same user past the session limit delete the oldest session.
+
+You can change the session limit in the **Security** tab of the Auth Service in your Clikkle Console. The default session limit is 10 with a maximum configurable limit of 100.
+
+# Permissions {% #permissions %}
+
+Security is very important to protect users' data and privacy.
+Clikkle uses a [permissions model](/docs/advanced/platform/permissions) coupled with user sessions to ensure users need correct permissions to access resources.
+With all Clikkle services, including databases and storage, access is granted at the collection, bucket, document, or file level.
+These permissions are enforced for client SDKs and server SDKs when using JWT, but are ignored when using a server SDK with an API key.
+
+# Password history {% #password-history %}
+
+Password history prevents users from reusing recent passwords. This protects user accounts from security risks by enforcing a new password every time it's changed.
+
+Password history can be enabled in the Auth service's **Security** tab on the Clikkle Console. You can choose how many previous passwords to remember, up to a maximum of 20, and block users from reusing them.
+
+# Password dictionary {% #password-dictionary %}
+
+Password dictionary protects users from using bad passwords. It compares the user's password to the [10,000 most common passwords](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt) and throws an error if there's a match. Together with [rate limits](/docs/advanced/platform/rate-limits), password dictionary will significantly reduce the chance of a malicious actor guessing user passwords.
+
+Password dictionary can be enabled in the Auth service's **Security** tab on the Clikkle Console.
+
+# Password hashing {% #password-hashing %}
+
+Clikkle protects passwords by using the [Argon2](https://github.com/P-H-C/phc-winner-argon2) password-hashing algorithm.
+
+Argon 2 is a resilient and secure password hashing algorithm that is also the winner of the [Password Hashing Competition](https://www.password-hashing.net/).
+
+Clikkle combines Argon 2 with the use of techniques such as salting, adjustable work factors, and memory hardness to securely handle passwords.
+
+If an user is imported into Clikkle with hash differnt than Argon2, the password will be re-hashed on first successful user's sign in. This ensures all passwords are stored as securely as possible.
+
+# Personal data {% #personal-data %}
+
+Encourage passwords that are hard to guess by disallowing users to pick passwords that contain personal data.
+Personal data includes the user's name, email, and phone number.
+
+Disallowing personal data can be enabled in the Auth service's **Security** tab on the Clikkle Console.
+
+# Session alerts {% #session-alerts %}
+
+Enable email alerts for your users so that whenever another session is created for their account, they will be alerted to the new session.
+
+You won't receive notifications when logging in using [Magic URL](/docs/products/auth/magic-url), [Email OTP](/docs/products/auth/email-otp), or [OAuth2](/docs/products/auth/oauth2) since these authentication methods already verify user access to their systems, establishing the authentication's legitimacy.
+
+To toggle session alerts, navigate to **Auth** > **Security** > **Session alerts**.
+
+# Memberships privacy {% #memberships-privacy %}
+
+In certain use cases, your app may not need to share members' personal information with others. You can safeguard privacy by marking specific membership details as private. To configure this setting, navigate to **Auth** > **Security** > **Memberships privacy**
+
+These details can be made private:
+
+- `userName` - The member's name
+- `userEmail` - The member's email address
+- `mfa` - Whether the member has enabled multi-factor authentication
+
+# Mock phone numbers {% #mock-phone-numbers %}
+
+Creating and using mock phone numbers allows users to test SMS authentication without needing an actual phone number. This can be useful for testing edge cases where a user doesn't have a phone number but needs to sign in to your application using SMS.
+
+To create a mock phone number, navigate to **Auth** > **Security** > Mock Phone Numbers. After defining a mock phone number, you need to define a specific OTP code that will be used for SMS sign-in instead of the SMS secret code sent to a real phone number.
+
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Authentication"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle helps you implement secure authentication in your applications by using password hashing to protect passwords in storage."," ","Clikkle also provides tools to help users pick better passwords, making them harder to break."]}],["$","$Le",null,{"id":"persistence","level":1,"children":"Persistence "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle handles the persistence of the session in a consistent way across SDKs. After authenticating with an SDK, the SDK will persist the session so that the user will not need to log in again the next time they open the app. The mechanism for persistence depends on the SDK."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Best Practice"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Only keep user sessions active as long as needed and maintain exactly ",["$","strong",null,{"children":"one"}]," instance of the Client SDK in your app to avoid conflicting session data."]}]]}],["$","$Lf",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Framework "}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Storage method"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","span",null,{"className":"web-u-only-dark","children":["$","img",null,{"src":"/images/platforms/dark/javascript.svg","alt":"Javascript logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}],["$","span",null,{"className":"web-u-only-light","children":["$","img",null,{"src":"/images/platforms/javascript.svg","alt":"Javascript logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Web"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Uses a secure session cookie and falls back to local storage when a session cookie is not available."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L10"}],"$L11","$L12"]}],"$L13","$L14"]}]]}],"$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"]}]}]]}],"$L33"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L34",null,{"items":[{"id":"persistence","title":"Persistence","level":1},{"id":"session-limits","title":"Session limits","level":1},{"id":"permissions","title":"Permissions","level":1},{"id":"password-history","title":"Password history","level":1},{"id":"password-dictionary","title":"Password dictionary","level":1},{"id":"password-hashing","title":"Password hashing","level":1},{"id":"personal-data","title":"Personal data","level":1},{"id":"session-alerts","title":"Session alerts","level":1},{"id":"memberships-privacy","title":"Memberships privacy","level":1},{"id":"mock-phone-numbers","title":"Mock phone numbers","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L35",null,{"children":["$","$36",null,{"name":"Next.MetadataOutlet","children":"$@37"}]}]
+10:["$","div",null,{"className":"td-wrapper","children":[["$","span",null,{"className":"web-u-only-dark","children":["$","img",null,{"src":"/images/platforms/dark/flutter.svg","alt":"Javascript logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}],["$","span",null,{"className":"web-u-only-light","children":["$","img",null,{"src":"/images/platforms/flutter.svg","alt":"Javascript logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}]]}]
+11:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Flutter"}]}]
+12:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Uses a session cookie stored in Application Documents through the ",["$","strong",null,{"children":"path_provider"}]," package."]}]}]
+13:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","span",null,{"className":"web-u-only-dark","children":["$","img",null,{"src":"/images/platforms/dark/apple.svg","alt":"Javascript logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}],["$","span",null,{"className":"web-u-only-light","children":["$","img",null,{"src":"/images/platforms/apple.svg","alt":"Javascript logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Apple"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Uses a session cookie stored in ",["$","strong",null,{"children":"UserDefaults"}],"."]}]}]]}]
+14:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":[["$","span",null,{"className":"web-u-only-dark","children":["$","img",null,{"src":"/images/platforms/dark/android.svg","alt":"Javascript logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}],["$","span",null,{"className":"web-u-only-light","children":["$","img",null,{"src":"/images/platforms/android.svg","alt":"Javascript logo","loading":"lazy","width":"20px","height":"20px","style":{"width":"20px","height":"20px","verticalAlign":"middle","minWidth":"20px"}}]}]]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Android"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Uses a session cookie stored in ",["$","strong",null,{"children":"SharedPreferences"}],"."]}]}]]}]
+15:["$","$Le",null,{"id":"session-limits","level":1,"children":"Session limits "}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"In Clikkle versions 1.2 and above, you can limit the number of active sessions created per user to prevent the accumulation of unused but active sessions. New sessions created by the same user past the session limit delete the oldest session."}]
+17:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can change the session limit in the ",["$","strong",null,{"children":"Security"}]," tab of the Auth Service in your Clikkle Console. The default session limit is 10 with a maximum configurable limit of 100."]}]
+18:["$","$Le",null,{"id":"permissions","level":1,"children":"Permissions "}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Security is very important to protect users' data and privacy."," ","Clikkle uses a ",["$","$L38",null,{"href":"/docs/advanced/platform/permissions","children":"permissions model"}]," coupled with user sessions to ensure users need correct permissions to access resources."," ","With all Clikkle services, including databases and storage, access is granted at the collection, bucket, document, or file level."," ","These permissions are enforced for client SDKs and server SDKs when using JWT, but are ignored when using a server SDK with an API key."]}]
+1a:["$","$Le",null,{"id":"password-history","level":1,"children":"Password history "}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Password history prevents users from reusing recent passwords. This protects user accounts from security risks by enforcing a new password every time it's changed."}]
+1c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Password history can be enabled in the Auth service's ",["$","strong",null,{"children":"Security"}]," tab on the Clikkle Console. You can choose how many previous passwords to remember, up to a maximum of 20, and block users from reusing them."]}]
+1d:["$","$Le",null,{"id":"password-dictionary","level":1,"children":"Password dictionary "}]
+1e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Password dictionary protects users from using bad passwords. It compares the user's password to the ",["$","a",null,{"href":"https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt","target":"_blank","rel":"noopener nofollow","children":"10,000 most common passwords"}]," and throws an error if there's a match. Together with ",["$","$L38",null,{"href":"/docs/advanced/platform/rate-limits","children":"rate limits"}],", password dictionary will significantly reduce the chance of a malicious actor guessing user passwords."]}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Password dictionary can be enabled in the Auth service's ",["$","strong",null,{"children":"Security"}]," tab on the Clikkle Console."]}]
+20:["$","$Le",null,{"id":"password-hashing","level":1,"children":"Password hashing "}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle protects passwords by using the ",["$","a",null,{"href":"https://github.com/P-H-C/phc-winner-argon2","target":"_blank","rel":"noopener nofollow","children":"Argon2"}]," password-hashing algorithm."]}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Argon 2 is a resilient and secure password hashing algorithm that is also the winner of the ",["$","a",null,{"href":"https://www.password-hashing.net/","target":"_blank","rel":"noopener nofollow","children":"Password Hashing Competition"}],"."]}]
+23:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle combines Argon 2 with the use of techniques such as salting, adjustable work factors, and memory hardness to securely handle passwords."}]
+24:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If an user is imported into Clikkle with hash differnt than Argon2, the password will be re-hashed on first successful user's sign in. This ensures all passwords are stored as securely as possible."}]
+25:["$","$Le",null,{"id":"personal-data","level":1,"children":"Personal data "}]
+26:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Encourage passwords that are hard to guess by disallowing users to pick passwords that contain personal data."," ","Personal data includes the user's name, email, and phone number."]}]
+27:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Disallowing personal data can be enabled in the Auth service's ",["$","strong",null,{"children":"Security"}]," tab on the Clikkle Console."]}]
+28:["$","$Le",null,{"id":"session-alerts","level":1,"children":"Session alerts "}]
+29:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Enable email alerts for your users so that whenever another session is created for their account, they will be alerted to the new session."}]
+2a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You won't receive notifications when logging in using ",["$","$L38",null,{"href":"/docs/products/auth/magic-url","children":"Magic URL"}],", ",["$","$L38",null,{"href":"/docs/products/auth/email-otp","children":"Email OTP"}],", or ",["$","$L38",null,{"href":"/docs/products/auth/oauth2","children":"OAuth2"}]," since these authentication methods already verify user access to their systems, establishing the authentication's legitimacy."]}]
+2b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To toggle session alerts, navigate to ",["$","strong",null,{"children":"Auth"}]," > ",["$","strong",null,{"children":"Security"}]," > ",["$","strong",null,{"children":"Session alerts"}],"."]}]
+2c:["$","$Le",null,{"id":"memberships-privacy","level":1,"children":"Memberships privacy "}]
+2d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In certain use cases, your app may not need to share members' personal information with others. You can safeguard privacy by marking specific membership details as private. To configure this setting, navigate to ",["$","strong",null,{"children":"Auth"}]," > ",["$","strong",null,{"children":"Security"}]," > ",["$","strong",null,{"children":"Memberships privacy"}]]}]
+2e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"These details can be made private:"}]
+2f:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","code",null,{"children":"userName"}]," - The member's name"]}],["$","li",null,{"children":[["$","code",null,{"children":"userEmail"}]," - The member's email address"]}],["$","li",null,{"children":[["$","code",null,{"children":"mfa"}]," - Whether the member has enabled multi-factor authentication"]}]]}]
+30:["$","$Le",null,{"id":"mock-phone-numbers","level":1,"children":"Mock phone numbers "}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Creating and using mock phone numbers allows users to test SMS authentication without needing an actual phone number. This can be useful for testing edge cases where a user doesn't have a phone number but needs to sign in to your application using SMS."}]
+32:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To create a mock phone number, navigate to ",["$","strong",null,{"children":"Auth"}]," > ",["$","strong",null,{"children":"Security"}]," > Mock Phone Numbers. After defining a mock phone number, you need to define a specific OTP code that will be used for SMS sign-in instead of the SMS secret code sent to a real phone number."]}]
+33:["$","$L39",null,{}]
+37:null

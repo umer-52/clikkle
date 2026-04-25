@@ -1,0 +1,693 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+e:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+11:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+12:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+13:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+30:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+31:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+32:"$Sreact.suspense"
+34:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+3a:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T2c73,---
+layout: article
+title: Collections
+description: Organize your data with Clikkle Collections. Explore how to create and configure collections to store and structure your data effectively.
+---
+Clikkle uses collections as containers of documents. Each collection contains many documents identical in structure.
+The terms collections and documents are used because the Clikkle JSON REST API resembles the API of a traditional NoSQL database, making it intuitive and user-friendly, even though Clikkle uses SQL under the hood.
+
+That said, Clikkle is designed to support both SQL and NoSQL database adapters like MariaDB, MySQL, or MongoDB in future versions.
+
+# Create collection {% #create-collection %}
+You can create collections using the Clikkle Console, a [Server SDK](/docs/sdks#server), or using the [CLI](/docs/tooling/command-line/installation).
+{% tabs %}
+
+{% tabsitem #console title="Console" %}
+You can create a collection by heading to the **Databases** page, navigate to a [database](/docs/products/databases/legacy/databases), and click **Create collection**.
+
+{% /tabsitem %}
+
+{% tabsitem #server-sdk title="Server SDK" %}
+You can also create collections programmatically using a [Server SDK](/docs/sdks#server). Clikkle [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
+
+{% multicode %}
+
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const databases = new sdk.Databases(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const promise = databases.createCollection({
+    databaseId: '<DATABASE_ID>',
+    collectionId: '[COLLECTION_ID]',
+    name: '[NAME]'
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let databases = new sdk.Databases(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+
+let promise = databases.createCollection({
+    databaseId: '<DATABASE_ID>',
+    collectionId: '[COLLECTION_ID]',
+    name: '[NAME]'
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Databases;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>') // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$databases = new Databases($client);
+
+$result = $databases->createCollection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>');
+```
+```python
+from clikkle.client import Client
+from clikkle.services.databases import Databases
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>') # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+databases = Databases(client)
+
+result = databases.create_collection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>')
+```
+```ruby
+require 'Clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>') # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+databases = Databases.new(client)
+
+response = databases.create_collection(database_id: '<DATABASE_ID>', collection_id: '<COLLECTION_ID>', name: '<NAME>')
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>") // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var databases = new Databases(client);
+
+Collection result = await databases.CreateCollection(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    name: "[NAME]");
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Databases databases = Databases(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = databases.createCollection(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    name: '<NAME>',
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Databases
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+val databases = Databases(client)
+
+val response = databases.createCollection(
+    databaseId = "<DATABASE_ID>",
+    collectionId = "<COLLECTION_ID>",
+    name = "[NAME]",
+)
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Databases;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Databases databases = new Databases(client);
+
+databases.createCollection(
+    "<DATABASE_ID>",
+    "<COLLECTION_ID>",
+    "[NAME]",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let databases = Databases(client)
+
+let collection = try await databases.createCollection(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    name: "[NAME]"
+)
+```
+{% /multicode %}
+
+You can also configure **permissions** in the `createCollection` method, learn more about the `createCollection` in the [API references](/docs/references).
+{% /tabsitem %}
+
+{% tabsitem #cli title="CLI" %}
+
+{% info title="Before proceeding" %}
+Ensure you [**install**](/docs/tooling/command-line/installation#getting-started) the CLI, [**log in**](/docs/tooling/command-line/installation#login) to your Clikkle account, and [**initialize**](/docs/tooling/command-line/installation#initialization) your Clikkle project.
+{% /info %}
+
+
+To create your collection using the CLI, first use the `clikkle init collections` command to initialize your collection.
+
+```sh
+clikkle init collections
+```
+
+Then push your collection using the `clikkle push collections` command.
+
+```sh
+clikkle push collections
+```
+
+This will create your collection in the Console with all of your `clikkle.config.json` configurations.
+
+{% arrow_link href="/docs/tooling/command-line/collections#commands" %}
+Learn more about the CLI collections commands
+{% /arrow_link %}
+
+{% /tabsitem %}
+
+{% /tabs %}
+
+# Permissions {% #permissions %}
+Clikkle uses permissions to control data access.
+For security, only users that are granted permissions can access a resource.
+This helps prevent accidental data leaks by forcing you to make more concious decisions around permissions.
+
+By default, Clikkle doesn't grant permissions to any users when a new collection is created.
+This means users can't create new documents or read, update, and delete existing documents.
+
+[Learn about configuring permissions](/docs/products/databases/legacy/permissions).
+
+# Attributes {% #attributes %}
+All documents in a collection follow the same structure.
+Attributes are used to define the structure of your documents and help the Clikkle's API validate your users' input.
+Add your first attribute by clicking the **Add attribute** button.
+
+You can choose between the following types.
+
+| Attribute    | Description                                                      |
+|--------------|------------------------------------------------------------------|
+| `string`     | String attribute.                                                |
+| `integer`    | Integer attribute.                                               |
+| `float`      | Float attribute.                                                 |
+| `boolean`    | Boolean attribute.                                               |
+| `datetime`   | Datetime attribute formatted as an ISO 8601 string.              |
+| `enum`       | Enum attribute.                                                  |
+| `ip`         | IP address attribute for IPv4 and IPv6.                          |
+| `email`      | Email address attribute.                                         |
+| `url`        | URL attribute.                                                   |
+| `relationship` | Relationship attribute relates one collection to another. [Learn more about relationships.](/docs/products/databases/legacy/relationships) |
+
+If an attribute must be populated in all documents, set it as `required`.
+If not, you may optionally set a default value.
+Additionally, decide if the attribute should be a single value or an array of values.
+
+If needed, you can change an attribute's key, default value, size (for strings), and whether it is required or not after creation.
+
+You can increase a string attribute's size without any restrictions. When decreasing size, you must ensure that your existing data is less than or equal to the new size, or the operation will fail.
+
+# Indexes {% #indexes %}
+
+Databases use indexes to quickly locate data without having to search through every document for matches.
+To ensure the best performance, Clikkle recommends an index for every attribute queried.
+If you plan to query multiple attributes in a single query, creating an index with **all** queried attributes will yield optimal performance.
+
+The following indexes are currently supported:
+
+| Type       | Description                                                                                                  |
+|------------|--------------------------------------------------------------------------------------------------------------|
+| `key`      | Plain Index to allow queries.                                                                                 |
+| `unique`   | Unique Index to disallow duplicates.                                                                          |
+| `fulltext` | For searching within string attributes. Required for the [search query method](/docs/products/databases/legacy/queries#query-class).     |
+
+You can create an index by navigating to your collection's **Indexes** tab or by using your favorite [Server SDK](/docs/sdks#server).
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T2c73,---
+layout: article
+title: Collections
+description: Organize your data with Clikkle Collections. Explore how to create and configure collections to store and structure your data effectively.
+---
+Clikkle uses collections as containers of documents. Each collection contains many documents identical in structure.
+The terms collections and documents are used because the Clikkle JSON REST API resembles the API of a traditional NoSQL database, making it intuitive and user-friendly, even though Clikkle uses SQL under the hood.
+
+That said, Clikkle is designed to support both SQL and NoSQL database adapters like MariaDB, MySQL, or MongoDB in future versions.
+
+# Create collection {% #create-collection %}
+You can create collections using the Clikkle Console, a [Server SDK](/docs/sdks#server), or using the [CLI](/docs/tooling/command-line/installation).
+{% tabs %}
+
+{% tabsitem #console title="Console" %}
+You can create a collection by heading to the **Databases** page, navigate to a [database](/docs/products/databases/legacy/databases), and click **Create collection**.
+
+{% /tabsitem %}
+
+{% tabsitem #server-sdk title="Server SDK" %}
+You can also create collections programmatically using a [Server SDK](/docs/sdks#server). Clikkle [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
+
+{% multicode %}
+
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const databases = new sdk.Databases(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const promise = databases.createCollection({
+    databaseId: '<DATABASE_ID>',
+    collectionId: '[COLLECTION_ID]',
+    name: '[NAME]'
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let databases = new sdk.Databases(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+
+let promise = databases.createCollection({
+    databaseId: '<DATABASE_ID>',
+    collectionId: '[COLLECTION_ID]',
+    name: '[NAME]'
+});
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Databases;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>') // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$databases = new Databases($client);
+
+$result = $databases->createCollection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>');
+```
+```python
+from clikkle.client import Client
+from clikkle.services.databases import Databases
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>') # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+databases = Databases(client)
+
+result = databases.create_collection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>')
+```
+```ruby
+require 'Clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>') # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+databases = Databases.new(client)
+
+response = databases.create_collection(database_id: '<DATABASE_ID>', collection_id: '<COLLECTION_ID>', name: '<NAME>')
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>") // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var databases = new Databases(client);
+
+Collection result = await databases.CreateCollection(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    name: "[NAME]");
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Databases databases = Databases(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = databases.createCollection(
+    databaseId: '<DATABASE_ID>',
+    collectionId: '<COLLECTION_ID>',
+    name: '<NAME>',
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Databases
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+val databases = Databases(client)
+
+val response = databases.createCollection(
+    databaseId = "<DATABASE_ID>",
+    collectionId = "<COLLECTION_ID>",
+    name = "[NAME]",
+)
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Databases;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Databases databases = new Databases(client);
+
+databases.createCollection(
+    "<DATABASE_ID>",
+    "<COLLECTION_ID>",
+    "[NAME]",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let databases = Databases(client)
+
+let collection = try await databases.createCollection(
+    databaseId: "<DATABASE_ID>",
+    collectionId: "<COLLECTION_ID>",
+    name: "[NAME]"
+)
+```
+{% /multicode %}
+
+You can also configure **permissions** in the `createCollection` method, learn more about the `createCollection` in the [API references](/docs/references).
+{% /tabsitem %}
+
+{% tabsitem #cli title="CLI" %}
+
+{% info title="Before proceeding" %}
+Ensure you [**install**](/docs/tooling/command-line/installation#getting-started) the CLI, [**log in**](/docs/tooling/command-line/installation#login) to your Clikkle account, and [**initialize**](/docs/tooling/command-line/installation#initialization) your Clikkle project.
+{% /info %}
+
+
+To create your collection using the CLI, first use the `clikkle init collections` command to initialize your collection.
+
+```sh
+clikkle init collections
+```
+
+Then push your collection using the `clikkle push collections` command.
+
+```sh
+clikkle push collections
+```
+
+This will create your collection in the Console with all of your `clikkle.config.json` configurations.
+
+{% arrow_link href="/docs/tooling/command-line/collections#commands" %}
+Learn more about the CLI collections commands
+{% /arrow_link %}
+
+{% /tabsitem %}
+
+{% /tabs %}
+
+# Permissions {% #permissions %}
+Clikkle uses permissions to control data access.
+For security, only users that are granted permissions can access a resource.
+This helps prevent accidental data leaks by forcing you to make more concious decisions around permissions.
+
+By default, Clikkle doesn't grant permissions to any users when a new collection is created.
+This means users can't create new documents or read, update, and delete existing documents.
+
+[Learn about configuring permissions](/docs/products/databases/legacy/permissions).
+
+# Attributes {% #attributes %}
+All documents in a collection follow the same structure.
+Attributes are used to define the structure of your documents and help the Clikkle's API validate your users' input.
+Add your first attribute by clicking the **Add attribute** button.
+
+You can choose between the following types.
+
+| Attribute    | Description                                                      |
+|--------------|------------------------------------------------------------------|
+| `string`     | String attribute.                                                |
+| `integer`    | Integer attribute.                                               |
+| `float`      | Float attribute.                                                 |
+| `boolean`    | Boolean attribute.                                               |
+| `datetime`   | Datetime attribute formatted as an ISO 8601 string.              |
+| `enum`       | Enum attribute.                                                  |
+| `ip`         | IP address attribute for IPv4 and IPv6.                          |
+| `email`      | Email address attribute.                                         |
+| `url`        | URL attribute.                                                   |
+| `relationship` | Relationship attribute relates one collection to another. [Learn more about relationships.](/docs/products/databases/legacy/relationships) |
+
+If an attribute must be populated in all documents, set it as `required`.
+If not, you may optionally set a default value.
+Additionally, decide if the attribute should be a single value or an array of values.
+
+If needed, you can change an attribute's key, default value, size (for strings), and whether it is required or not after creation.
+
+You can increase a string attribute's size without any restrictions. When decreasing size, you must ensure that your existing data is less than or equal to the new size, or the operation will fail.
+
+# Indexes {% #indexes %}
+
+Databases use indexes to quickly locate data without having to search through every document for matches.
+To ensure the best performance, Clikkle recommends an index for every attribute queried.
+If you plan to query multiple attributes in a single query, creating an index with **all** queried attributes will yield optimal performance.
+
+The following indexes are currently supported:
+
+| Type       | Description                                                                                                  |
+|------------|--------------------------------------------------------------------------------------------------------------|
+| `key`      | Plain Index to allow queries.                                                                                 |
+| `unique`   | Unique Index to disallow duplicates.                                                                          |
+| `fulltext` | For searching within string attributes. Required for the [search query method](/docs/products/databases/legacy/queries#query-class).     |
+
+You can create an index by navigating to your collection's **Indexes** tab or by using your favorite [Server SDK](/docs/sdks#server).
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Collections"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Deprecated API"}],["$","p",null,{"className":"text-caption mt-2 leading-relaxed text-[var(--color-text-secondary)] dark:text-white/70","children":["This API uses outdated terminology and is no longer maintained. Refer to the"," ",["$","$Ld",null,{"href":"/docs/products/databases/tables","className":"web-link underline","children":"updated documentation"}]," ","for improved compatibility and migration guidance."]}]]}],null,["$","$Le",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle uses collections as containers of documents. Each collection contains many documents identical in structure."," ","The terms collections and documents are used because the Clikkle JSON REST API resembles the API of a traditional NoSQL database, making it intuitive and user-friendly, even though Clikkle uses SQL under the hood."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"That said, Clikkle is designed to support both SQL and NoSQL database adapters like MariaDB, MySQL, or MongoDB in future versions."}],["$","$Lf",null,{"id":"create-collection","level":1,"children":"Create collection "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can create collections using the Clikkle Console, a ",["$","$Ld",null,{"href":"/docs/sdks#server","children":"Server SDK"}],", or using the ",["$","$Ld",null,{"href":"/docs/tooling/command-line/installation","children":"CLI"}],"."]}],["$","$L10",null,{"children":[["$","$L11",null,{"id":"console","title":"Console","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can create a collection by heading to the ",["$","strong",null,{"children":"Databases"}]," page, navigate to a ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/databases","children":"database"}],", and click ",["$","strong",null,{"children":"Create collection"}],"."]}]}],["$","$L11",null,{"id":"server-sdk","title":"Server SDK","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also create collections programmatically using a ",["$","$Ld",null,{"href":"/docs/sdks#server","children":"Server SDK"}],". Clikkle ",["$","$Ld",null,{"href":"/docs/sdks#server","children":"Server SDKs"}]," require an ",["$","$Ld",null,{"href":"/docs/advanced/platform/api-keys","children":"API key"}],"."]}],["$","$L12",null,{"children":[["$","$L13",null,{"language":"server-nodejs","content":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst databases = new sdk.Databases(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst promise = databases.createCollection({\n    databaseId: '<DATABASE_ID>',\n    collectionId: '[COLLECTION_ID]',\n    name: '[NAME]'\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"const sdk = require('node-clikkle');\n\n// Init SDK\nconst client = new sdk.Client();\n\nconst databases = new sdk.Databases(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\nconst promise = databases.createCollection({\n    databaseId: '<DATABASE_ID>',\n    collectionId: '[COLLECTION_ID]',\n    name: '[NAME]'\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}],"$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}],"$L1d"]}],"$L1e"]}],"$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e"]}]}]]}],"$L2f"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L30",null,{"items":[{"id":"create-collection","title":"Create collection","level":1},{"id":"permissions","title":"Permissions","level":1},{"id":"attributes","title":"Attributes","level":1},{"id":"indexes","title":"Indexes","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L31",null,{"children":["$","$32",null,{"name":"Next.MetadataOutlet","children":"$@33"}]}]
+14:["$","$L13",null,{"language":"deno","content":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet databases = new sdk.Databases(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n\nlet promise = databases.createCollection({\n    databaseId: '<DATABASE_ID>',\n    collectionId: '[COLLECTION_ID]',\n    name: '[NAME]'\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n","children":"import * as sdk from \"npm:node-clikkle\";\n\n// Init SDK\nlet client = new sdk.Client();\n\nlet databases = new sdk.Databases(client);\n\nclient\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n\nlet promise = databases.createCollection({\n    databaseId: '<DATABASE_ID>',\n    collectionId: '[COLLECTION_ID]',\n    name: '[NAME]'\n});\n\npromise.then(function (response) {\n    console.log(response);\n}, function (error) {\n    console.log(error);\n});\n"}]
+15:["$","$L13",null,{"language":"php","content":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Databases;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>') // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$databases = new Databases($client);\n\n$result = $databases->createCollection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>');\n","children":"<?php\n\nuse Clikkle\\Client;\nuse Clikkle\\Services\\Databases;\n\n$client = new Client();\n\n$client\n    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    ->setProject('<PROJECT_ID>') // Your project ID\n    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n;\n\n$databases = new Databases($client);\n\n$result = $databases->createCollection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>');\n"}]
+16:["$","$L13",null,{"language":"python","content":"from clikkle.client import Client\nfrom clikkle.services.databases import Databases\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>') # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\ndatabases = Databases(client)\n\nresult = databases.create_collection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>')\n","children":"from clikkle.client import Client\nfrom clikkle.services.databases import Databases\n\nclient = Client()\n\n(client\n  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n  .set_project('<PROJECT_ID>') # Your project ID\n  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n)\n\ndatabases = Databases(client)\n\nresult = databases.create_collection('<DATABASE_ID>', '<COLLECTION_ID>', '<NAME>')\n"}]
+17:["$","$L13",null,{"language":"ruby","content":"require 'Clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>') # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\ndatabases = Databases.new(client)\n\nresponse = databases.create_collection(database_id: '<DATABASE_ID>', collection_id: '<COLLECTION_ID>', name: '<NAME>')\n\nputs response.inspect\n","children":"require 'Clikkle'\n\ninclude Clikkle\n\nclient = Client.new\n    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint\n    .set_project('<PROJECT_ID>') # Your project ID\n    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key\n\ndatabases = Databases.new(client)\n\nresponse = databases.create_collection(database_id: '<DATABASE_ID>', collection_id: '<COLLECTION_ID>', name: '<NAME>')\n\nputs response.inspect\n"}]
+18:["$","$L13",null,{"language":"csharp","content":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\") // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar databases = new Databases(client);\n\nCollection result = await databases.CreateCollection(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    name: \"[NAME]\");\n","children":"using Clikkle;\nusing Clikkle.Services;\nusing Clikkle.Models;\n\nvar client = new Client()\n    .SetEndPoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .SetProject(\"<PROJECT_ID>\") // Your project ID\n    .SetKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nvar databases = new Databases(client);\n\nCollection result = await databases.CreateCollection(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    name: \"[NAME]\");\n"}]
+19:["$","$L13",null,{"language":"dart","content":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Databases databases = Databases(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n  ;\n\n  Future result = databases.createCollection(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    name: '<NAME>',\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n","children":"import 'package:dart_clikkle/dart_clikkle.dart';\n\nvoid main() { // Init SDK\n  Client client = Client();\n  Databases databases = Databases(client);\n\n  client\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint\n    .setProject('<PROJECT_ID>') // Your project ID\n    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key\n  ;\n\n  Future result = databases.createCollection(\n    databaseId: '<DATABASE_ID>',\n    collectionId: '<COLLECTION_ID>',\n    name: '<NAME>',\n  );\n\n  result\n    .then((response) {\n      print(response);\n    }).catchError((error) {\n      print(error.response);\n  });\n}\n"}]
+1a:["$","$L13",null,{"language":"kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Databases\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nval databases = Databases(client)\n\nval response = databases.createCollection(\n    databaseId = \"<DATABASE_ID>\",\n    collectionId = \"<COLLECTION_ID>\",\n    name = \"[NAME]\",\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Databases\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nval databases = Databases(client)\n\nval response = databases.createCollection(\n    databaseId = \"<DATABASE_ID>\",\n    collectionId = \"<COLLECTION_ID>\",\n    name = \"[NAME]\",\n)\n"}]
+1b:["$","$L13",null,{"language":"java","content":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Databases;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nDatabases databases = new Databases(client);\n\ndatabases.createCollection(\n    \"<DATABASE_ID>\",\n    \"<COLLECTION_ID>\",\n    \"[NAME]\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(result);\n    })\n);\n","children":"import io.clikkle.Client;\nimport io.clikkle.coroutines.CoroutineCallback;\nimport io.clikkle.services.Databases;\n\nClient client = new Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\"); // Your secret API key\n\nDatabases databases = new Databases(client);\n\ndatabases.createCollection(\n    \"<DATABASE_ID>\",\n    \"<COLLECTION_ID>\",\n    \"[NAME]\",\n    new CoroutineCallback<>((result, error) -> {\n        if (error != null) {\n            error.printStackTrace();\n            return;\n        }\n\n        System.out.println(result);\n    })\n);\n"}]
+1c:["$","$L13",null,{"language":"swift","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet databases = Databases(client)\n\nlet collection = try await databases.createCollection(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    name: \"[NAME]\"\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\") // Your API Endpoint\n    .setProject(\"<PROJECT_ID>\") // Your project ID\n    .setKey(\"919c2d18fb5d4...a2ae413da83346ad2\") // Your secret API key\n\nlet databases = Databases(client)\n\nlet collection = try await databases.createCollection(\n    databaseId: \"<DATABASE_ID>\",\n    collectionId: \"<COLLECTION_ID>\",\n    name: \"[NAME]\"\n)\n"}]
+1d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also configure ",["$","strong",null,{"children":"permissions"}]," in the ",["$","code",null,{"children":"createCollection"}]," method, learn more about the ",["$","code",null,{"children":"createCollection"}]," in the ",["$","$Ld",null,{"href":"/docs/references","children":"API references"}],"."]}]
+1e:["$","$L11",null,{"id":"cli","title":"CLI","children":[["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Before proceeding"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Ensure you ",["$","$Ld",null,{"href":"/docs/tooling/command-line/installation#getting-started","children":["$","strong",null,{"children":"install"}]}]," the CLI, ",["$","$Ld",null,{"href":"/docs/tooling/command-line/installation#login","children":["$","strong",null,{"children":"log in"}]}]," to your Clikkle account, and ",["$","$Ld",null,{"href":"/docs/tooling/command-line/installation#initialization","children":["$","strong",null,{"children":"initialize"}]}]," your Clikkle project."]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["To create your collection using the CLI, first use the ",["$","code",null,{"children":"clikkle init collections"}]," command to initialize your collection."]}],["$","$L13",null,{"language":"sh","content":"clikkle init collections\n","children":"clikkle init collections\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Then push your collection using the ",["$","code",null,{"children":"clikkle push collections"}]," command."]}],["$","$L13",null,{"language":"sh","content":"clikkle push collections\n","children":"clikkle push collections\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will create your collection in the Console with all of your ",["$","code",null,{"children":"clikkle.config.json"}]," configurations."]}],["$","$Ld",null,{"href":"/docs/tooling/command-line/collections#commands","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn more about the CLI collections commands"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]]}]
+1f:["$","$Lf",null,{"id":"permissions","level":1,"children":"Permissions "}]
+20:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle uses permissions to control data access."," ","For security, only users that are granted permissions can access a resource."," ","This helps prevent accidental data leaks by forcing you to make more concious decisions around permissions."]}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["By default, Clikkle doesn't grant permissions to any users when a new collection is created."," ","This means users can't create new documents or read, update, and delete existing documents."]}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$Ld",null,{"href":"/docs/products/databases/legacy/permissions","children":"Learn about configuring permissions"}],"."]}]
+23:["$","$Lf",null,{"id":"attributes","level":1,"children":"Attributes "}]
+24:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["All documents in a collection follow the same structure."," ","Attributes are used to define the structure of your documents and help the Clikkle's API validate your users' input."," ","Add your first attribute by clicking the ",["$","strong",null,{"children":"Add attribute"}]," button."]}]
+25:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can choose between the following types."}]
+26:["$","$L34",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Attribute"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"string"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"String attribute."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"integer"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Integer attribute."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"float"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Float attribute."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"boolean"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Boolean attribute."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"datetime"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Datetime attribute formatted as an ISO 8601 string."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"enum"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Enum attribute."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L35"}],"$L36"]}],"$L37","$L38","$L39"]}]]}]
+27:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If an attribute must be populated in all documents, set it as ",["$","code",null,{"children":"required"}],"."," ","If not, you may optionally set a default value."," ","Additionally, decide if the attribute should be a single value or an array of values."]}]
+28:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If needed, you can change an attribute's key, default value, size (for strings), and whether it is required or not after creation."}]
+29:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can increase a string attribute's size without any restrictions. When decreasing size, you must ensure that your existing data is less than or equal to the new size, or the operation will fail."}]
+2a:["$","$Lf",null,{"id":"indexes","level":1,"children":"Indexes "}]
+2b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Databases use indexes to quickly locate data without having to search through every document for matches."," ","To ensure the best performance, Clikkle recommends an index for every attribute queried."," ","If you plan to query multiple attributes in a single query, creating an index with ",["$","strong",null,{"children":"all"}]," queried attributes will yield optimal performance."]}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The following indexes are currently supported:"}]
+2d:["$","$L34",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"key"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Plain Index to allow queries."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"unique"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Unique Index to disallow duplicates."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"fulltext"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["For searching within string attributes. Required for the ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/queries#query-class","children":"search query method"}],"."]}]}]]}]]}]]}]
+2e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can create an index by navigating to your collection's ",["$","strong",null,{"children":"Indexes"}]," tab or by using your favorite ",["$","$Ld",null,{"href":"/docs/sdks#server","children":"Server SDK"}],"."]}]
+2f:["$","$L3a",null,{}]
+33:null
+35:["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"ip"}]}]
+36:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"IP address attribute for IPv4 and IPv6."}]}]
+37:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"email"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Email address attribute."}]}]]}]
+38:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"url"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"URL attribute."}]}]]}]
+39:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"relationship"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Relationship attribute relates one collection to another. ",["$","$Ld",null,{"href":"/docs/products/databases/legacy/relationships","children":"Learn more about relationships."}]]}]}]]}]

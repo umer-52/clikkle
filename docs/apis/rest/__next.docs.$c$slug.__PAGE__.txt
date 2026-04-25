@@ -1,0 +1,850 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+f:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+10:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TableTag"]
+11:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+55:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+56:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+57:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+58:"$Sreact.suspense"
+5a:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+3:T2f12,---
+layout: article
+title: REST
+description: Discover the Clikkle REST API for building robust and scalable applications. Access detailed documentation on REST endpoints, authentication, and data management.
+---
+
+Clikkle supports multiple protocols for accessing the server, including [REST](/docs/apis/rest), [GraphQL](/docs/apis/graphql), and [Realtime](/docs/apis/realtime). The REST API allows you to access your Clikkle server through HTTP requests without needing an SDK. Each endpoint in the API represents a specific operation on a specific resource.
+
+# Headers {% #headers %}
+
+Clikkle's REST APIs expect certain headers to be included with each request:
+
+{% table %}
+- Header
+- 
+- Description
+---
+- X-Clikkle-Project: [PROJECT-ID]
+- required
+- The ID of your Clikkle project
+---
+- Content-Type: application/json
+- required
+- Content type of the HTTP request. Typically set to `application/json`.
+---
+- X-Clikkle-Key: [API-KEY]
+- optional
+- API key used for server authentication. Your API key is a secret, **do not** use it in client applications.
+---
+- X-Clikkle-JWT: [TOKEN]
+- optional
+- Token used for JWT authentication, tokens can be generated using the [Create JWT](/docs/products/auth/jwt) method.
+---
+- X-Clikkle-Response-Format: [VERSION-NUMBER]
+- optional
+- Version number used for backward compatibility. The response will be formatted to be compatible with the provided version number. This helps Clikkle SDKs keep backward compatibility with Clikkle server API version.
+---
+- X-Fallback-Cookies: [FALLBACK-COOKIES]
+- optional
+- Fallback cookies used in scenarios where browsers do not allow third-party cookies. Often used when there is no Custom Domain set for your Clikkle API.
+{% /table %}
+
+# Authentication {% #authentication %}
+
+Clikkle supports multiple authentication methods, including account sessions, API keys, and JWTs. The authentication method you use depends on your use case. Below are examples showing how you can authenticate using the REST API.
+
+## Client integrations {% #client-integration %}
+
+You can create account sessions with POST requests to the Account API. Sessions are persisted using secured cookies. You can learn more about session persistence in the Authentication Guide.
+
+The example below shows creating an account session with the Create Account Session with Email endpoint.
+
+```json
+POST /v1/account/sessions/email HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+
+{
+  "email": "example@email.com",
+  "password": "password"
+}
+```
+
+You can find the cookies used to persist the new session in the response headers.
+
+```json
+Set-Cookie: a_session_61e71ec784ab035f7259_legacy=eyJ0...aSJ9; expires=Tue, 19-Dec-2023 21:26:51 GMT; path=/; domain=.cloud.clikkle.io; secure; httponly
+Set-Cookie: a_session_61e71ec784ab035f7259=eyJ0...aSJ9; expires=Tue, 19-Dec-2023 21:26:51 GMT; path=/; domain=.cloud.clikkle.io; secure; httponly; samesite=None
+```
+
+These cookies are used in subsequent requests to authenticate the user.
+
+```json
+GET /v1/account HTTP/1.1
+Cookie: a_session_61e71ec784ab035f7259_legacy=eyJ0...aSJ9; a_session_61e71ec784ab035f7259=eyJ0...aSJ9
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+```
+
+## Server integrations {% #server-integrations %}
+
+Server integrations use API keys to authenticate and are typically used for backend applications.
+
+Server APIs are authenticated with API keys instead of account sessions. Simply pass an [API key](/docs/advanced/platform/api-keys) in the `X-Clikkle-key: [API-KEY]` header with the appropriate scopes.
+
+```json
+GET /v1/tablesdb/{databaseId}/tables/{tableId}/rows HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+X-Clikkle-Key: [API_KEY]
+```
+
+## JWT {% #jwt %}
+
+JWT authentication is frequently used by server applications to act on behalf of a user. Users generate tokens using the [Create JWT](/docs/references/cloud/client-web/account#createJWT) endpoint. When issuing requests authenticated with a JWT, Clikkle will treat the request like it is from the authenticated user.
+
+```json
+GET /v1/account HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+X-Clikkle-JWT: [TOKEN]
+```
+
+# Files {% #files %}
+
+Clikkle implements resumable, chunked uploads for files larger than 5MB. Chunked uploads send files in chunks of 5MB to reduce memory footprint and increase resilience when handling large files. [Clikkle SDKs](/docs/sdks) will automatically handle chunked uploads, but it is possible to implement this with the REST API directly.
+
+Upload endpoints in Clikkle, such as [Create File](/docs/references/cloud/client-web/storage#createFile) and [Create Deployment](/docs/references/cloud/server-nodejs/functions#createDeployment), are different from other endpoints. These endpoints take multipart form data instead of JSON data. To implement chunked uploads, you will need to implement the following headers. If you wish, this logic is already available in any of the [Clikkle SDKs](/docs/sdks).
+
+{% table %}
+- Header
+- 
+- Description
+---
+- X-Clikkle-Project: [PROJECT-ID]
+- required
+- The ID of your Clikkle project
+---
+- Content-Type: multipart/form-data; boundary=[FORM-BOUNDARY]
+- required
+- Contains the content type of the HTTP request and provides a [boundary](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST) that is used to parse the form data.
+---
+- Content-Range: bytes [BYTE-RANGE]
+- required
+- Contains information about which bytes are being transmitted in this chunk, with the format `[FIRST-BYTE]-[LAST-BYTE]/[TOTAL-BYTES]`.
+---
+- X-Clikkle-ID: [FILE-ID]
+- required
+- Contains ID of the file this chunk belongs to.
+---
+- X-Clikkle-Key: [API-KEY]
+- optional
+- API key used for server authentication. Your API key is a secret, **do not** use it in client applications.
+{% /table %}
+
+The multipart form data is structured as follows:
+
+{% table %}
+- Key
+- 
+- Value
+- File Name
+- Description
+---
+- fileId
+- optional
+- [FILE-ID]
+- N/A
+- Contains the file ID of the new file. Only used by file chunks following the first chunk uploaded.
+---
+- file
+- required
+- [CHUNK-DATA]
+- [FILE-NAME]
+- Contains file chunk data.
+---
+- permissions
+- required
+- [PERMISSION ARRAY]
+- N/A
+- Contains an array of permission strings about who can access the new file.
+{% /table %}
+
+While cURL and fetch are great tools to explore other REST endpoints, it's impractical to use for chunked file uploads because you need to split files into chunks.
+
+The multipart form data posted to file upload endpoints have the following format:
+
+```json
+POST /v1/storage/buckets/default/files HTTP/1.1
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarye0m6iNBQNHlzTpVM
+X-Clikkle-Project: demo-project
+Content-Range: bytes 10485760-12582912/12582912
+X-Clikkle-ID: 6369b0bc1dcf4ff59051
+
+------WebKitFormBoundarye0m6iNBQNHlzTpVM
+Content-Disposition: form-data; name="fileId"
+
+unique()
+------WebKitFormBoundarye0m6iNBQNHlzTpVM
+Content-Disposition: form-data; name="file"; filename="file.txt"
+Content-Type: application/octet-stream
+
+[CHUNKED-DATA]
+------WebKitFormBoundarye0m6iNBQNHlzTpVM
+Content-Disposition: form-data; name="permissions[]"
+
+read("user:627a958ded6424a98a9f")
+------WebKitFormBoundarye0m6iNBQNHlzTpVM--
+```
+
+# Images {% #images %}
+
+Some use cases do not allow custom headers, such as embedding images from Clikkle in HTML. In these cases, you can provide the Clikkle project ID using the query parameter project.
+
+```HTML
+<img src="[ENDPOINT]/v1/storage/buckets/[BUCKET_ID]/files/[FILE_ID]/preview?project=<PROJECT_ID>"/>
+```
+
+# Permissions {% #permissions %}
+
+Clikkle SDKs have helpers to generate permission string formats, but when using Clikkle without SDKs, you'd need to create the strings yourself.
+
+{% table %}
+- Query method
+- API string
+---
+- `Permission.read()`
+- `read("<PERMISSION_ROLE>")`
+---
+- `Permission.create()`
+- `read("<PERMISSION_ROLE>")`
+---
+- `Permission.update()`
+- `update("<PERMISSION_ROLE>")`
+---
+- `Permission.delete()`
+- `delete("<PERMISSION_ROLE>")`
+---
+- `Permission.write()`
+- `write("<PERMISSION_ROLE>")`
+{% /table %}
+
+## Roles {% #roles %}
+
+Clikkle SDKs have helpers to generate roles string formats, but when using Clikkle without SDKs, you'd need to create the strings yourself.
+
+{% table %}
+- Role method
+- API string
+---
+- `Role.any()`
+- `any`
+---
+- `Role.guests()`
+- `guests`
+---
+- `Role.users()`
+- `users`
+---
+- `Role.users([STATUS])`
+- `users/[STATUS]`
+---
+- `Role.user([USER_ID])`
+- `user:[USER_ID]`
+---
+- `Role.user([USER_ID], [STATUS])`
+- `user:[USER_ID]/[STATUS]`
+---
+- `Role.team([TEAM_ID])`
+- `team:[TEAM_ID]`
+---
+- `Role.team([TEAM_ID], [ROLE])`
+- `team:[TEAM_ID]/[ROLE]`
+---
+- `Role.member([MEMBERSHIP_ID])`
+- `member:[MEMBERSHIP_ID]`
+{% /table %}
+
+# Unique ID {% #unique-id %}
+
+Clikkle's SDKs have a helper `ID.unique()` to generate unique IDs. When using Clikkle without an SDK, pass the string `"unique()"` into the ID parameter.
+
+# Queries {% #queries %}
+
+Clikkle's SDKs provide a `Query` class to generate JSON query strings.
+When using Clikkle without an SDK, you can template your own JSON strings.
+You can discover the query methods available in the [Queries page.](/docs/products/databases/queries)
+
+## Query string format  {% #queries-string-format %}
+
+Clikkle Queries are escaped JSON strings, which look like this.
+
+```json
+"{\"method\":\"equal\",\"column\":\"name\",\"values\":[\"John\"]}"
+```
+
+Query strings are passed to Clikkle using the `queries` parameter. 
+You can attach multiple query strings by including the array parameter multiple times in the query string: `queries[]="..."&queries[]="..."`
+
+For example, the unescaped query string might look like this.
+```text
+?queries[0]={"method":"equal","column":"name","values":["John"]}&queries[1]={"method":"limit","values":[6]}
+```
+
+The JSON has a general format like this.
+
+```json
+{
+  "method": "<QUERY_METHOD>",
+  "column": "<ATTRIBUTE>",
+  "values": [
+    <VALUE1>,
+    <VALUE2>,
+    ...
+  ]
+}
+```
+
+{% info title="Best practice" %}
+When using greater than, greater than or equal to, less than, or less than or equal to, it is not recommended to pass in multiple values.
+While the API will accept multiple values and return results with **or logic**, it's best practice to pass in only one value for performance reasons.
+{% /info %}
+
+For example, to query for all rows with the name "John" or "Jane", the query string would look like this.
+
+```json
+{
+  "method": "equal",
+  "column": "name",
+  "values": [
+    "John",
+    "Jane"
+  ]
+}
+```
+
+Here are some more examples of the JSON query format. 
+When in doubt, you can use the Clikkle SDKs to generate the query strings for you.
+
+```json
+{
+  "method": "isNull",
+  "column": "name"
+}
+{
+  "method": "select",
+  "values": ["name", "age", "email"]
+}
+{
+  "method": "between",
+  "column": "age",
+  "values": [18, 30]
+}
+{
+  "method": "cursorAfter",
+  "values": ["rowId"]
+}
+```
+
+## Query nesting {% #query-nesting %}
+Some Clikkle query methods, like `and` and `or`, allow you to nest queries. 
+When using Clikkle without an SDK, you can template your own JSON strings.
+
+In these cases, `column` is empty and `values` is an array of queries.
+
+```json
+{
+  "method": "and",
+  "values": [
+    {
+      "method": "equal",
+      "column": "name",
+      "values": ["John"]
+    },
+    {
+      "method": "between",
+      "column": "age",
+      "values": [20, 30]
+    }
+  ]
+}
+```
+
+# Rate limits {% #rate-limits %}
+
+Clikkle's REST APIs are protected by the same rate limit policies, just like when using an SDK. Each API has a different rate limit, which is documented in the References section of each service in the Clikkle documentation.
+
+[Learn more about Rate Limits](/docs/advanced/platform/rate-limits).
+
+# Specifications {% #specifications %}
+
+Clikkle provides a full REST API specification in the OpenAPI 3 and Swagger 2 formats every release. These can be accessed through Clikkle's GitHub repository and rendered using a variety of parsers and tools.
+
+[Find the REST API specification for your Clikkle version](https://github.com/clikkle/clikkle/tree/master/app/config/specs).
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex w-full flex-row overflow-visible xl:gap-14 2xl:gap-24","children":[["$","div",null,{"className":"min-w-0 flex-1 max-w-[41.5rem]","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center justify-between gap-3 lg:hidden","children":[["$","div",null,{"className":"flex items-center gap-2","children":null}],["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],null,"$L5","$L6"]}],"$L7"]}],["$L8","$L9","$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+c:T2f12,---
+layout: article
+title: REST
+description: Discover the Clikkle REST API for building robust and scalable applications. Access detailed documentation on REST endpoints, authentication, and data management.
+---
+
+Clikkle supports multiple protocols for accessing the server, including [REST](/docs/apis/rest), [GraphQL](/docs/apis/graphql), and [Realtime](/docs/apis/realtime). The REST API allows you to access your Clikkle server through HTTP requests without needing an SDK. Each endpoint in the API represents a specific operation on a specific resource.
+
+# Headers {% #headers %}
+
+Clikkle's REST APIs expect certain headers to be included with each request:
+
+{% table %}
+- Header
+- 
+- Description
+---
+- X-Clikkle-Project: [PROJECT-ID]
+- required
+- The ID of your Clikkle project
+---
+- Content-Type: application/json
+- required
+- Content type of the HTTP request. Typically set to `application/json`.
+---
+- X-Clikkle-Key: [API-KEY]
+- optional
+- API key used for server authentication. Your API key is a secret, **do not** use it in client applications.
+---
+- X-Clikkle-JWT: [TOKEN]
+- optional
+- Token used for JWT authentication, tokens can be generated using the [Create JWT](/docs/products/auth/jwt) method.
+---
+- X-Clikkle-Response-Format: [VERSION-NUMBER]
+- optional
+- Version number used for backward compatibility. The response will be formatted to be compatible with the provided version number. This helps Clikkle SDKs keep backward compatibility with Clikkle server API version.
+---
+- X-Fallback-Cookies: [FALLBACK-COOKIES]
+- optional
+- Fallback cookies used in scenarios where browsers do not allow third-party cookies. Often used when there is no Custom Domain set for your Clikkle API.
+{% /table %}
+
+# Authentication {% #authentication %}
+
+Clikkle supports multiple authentication methods, including account sessions, API keys, and JWTs. The authentication method you use depends on your use case. Below are examples showing how you can authenticate using the REST API.
+
+## Client integrations {% #client-integration %}
+
+You can create account sessions with POST requests to the Account API. Sessions are persisted using secured cookies. You can learn more about session persistence in the Authentication Guide.
+
+The example below shows creating an account session with the Create Account Session with Email endpoint.
+
+```json
+POST /v1/account/sessions/email HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+
+{
+  "email": "example@email.com",
+  "password": "password"
+}
+```
+
+You can find the cookies used to persist the new session in the response headers.
+
+```json
+Set-Cookie: a_session_61e71ec784ab035f7259_legacy=eyJ0...aSJ9; expires=Tue, 19-Dec-2023 21:26:51 GMT; path=/; domain=.cloud.clikkle.io; secure; httponly
+Set-Cookie: a_session_61e71ec784ab035f7259=eyJ0...aSJ9; expires=Tue, 19-Dec-2023 21:26:51 GMT; path=/; domain=.cloud.clikkle.io; secure; httponly; samesite=None
+```
+
+These cookies are used in subsequent requests to authenticate the user.
+
+```json
+GET /v1/account HTTP/1.1
+Cookie: a_session_61e71ec784ab035f7259_legacy=eyJ0...aSJ9; a_session_61e71ec784ab035f7259=eyJ0...aSJ9
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+```
+
+## Server integrations {% #server-integrations %}
+
+Server integrations use API keys to authenticate and are typically used for backend applications.
+
+Server APIs are authenticated with API keys instead of account sessions. Simply pass an [API key](/docs/advanced/platform/api-keys) in the `X-Clikkle-key: [API-KEY]` header with the appropriate scopes.
+
+```json
+GET /v1/tablesdb/{databaseId}/tables/{tableId}/rows HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+X-Clikkle-Key: [API_KEY]
+```
+
+## JWT {% #jwt %}
+
+JWT authentication is frequently used by server applications to act on behalf of a user. Users generate tokens using the [Create JWT](/docs/references/cloud/client-web/account#createJWT) endpoint. When issuing requests authenticated with a JWT, Clikkle will treat the request like it is from the authenticated user.
+
+```json
+GET /v1/account HTTP/1.1
+Content-Type: application/json
+X-Clikkle-Project: <PROJECT_ID>
+X-Clikkle-JWT: [TOKEN]
+```
+
+# Files {% #files %}
+
+Clikkle implements resumable, chunked uploads for files larger than 5MB. Chunked uploads send files in chunks of 5MB to reduce memory footprint and increase resilience when handling large files. [Clikkle SDKs](/docs/sdks) will automatically handle chunked uploads, but it is possible to implement this with the REST API directly.
+
+Upload endpoints in Clikkle, such as [Create File](/docs/references/cloud/client-web/storage#createFile) and [Create Deployment](/docs/references/cloud/server-nodejs/functions#createDeployment), are different from other endpoints. These endpoints take multipart form data instead of JSON data. To implement chunked uploads, you will need to implement the following headers. If you wish, this logic is already available in any of the [Clikkle SDKs](/docs/sdks).
+
+{% table %}
+- Header
+- 
+- Description
+---
+- X-Clikkle-Project: [PROJECT-ID]
+- required
+- The ID of your Clikkle project
+---
+- Content-Type: multipart/form-data; boundary=[FORM-BOUNDARY]
+- required
+- Contains the content type of the HTTP request and provides a [boundary](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST) that is used to parse the form data.
+---
+- Content-Range: bytes [BYTE-RANGE]
+- required
+- Contains information about which bytes are being transmitted in this chunk, with the format `[FIRST-BYTE]-[LAST-BYTE]/[TOTAL-BYTES]`.
+---
+- X-Clikkle-ID: [FILE-ID]
+- required
+- Contains ID of the file this chunk belongs to.
+---
+- X-Clikkle-Key: [API-KEY]
+- optional
+- API key used for server authentication. Your API key is a secret, **do not** use it in client applications.
+{% /table %}
+
+The multipart form data is structured as follows:
+
+{% table %}
+- Key
+- 
+- Value
+- File Name
+- Description
+---
+- fileId
+- optional
+- [FILE-ID]
+- N/A
+- Contains the file ID of the new file. Only used by file chunks following the first chunk uploaded.
+---
+- file
+- required
+- [CHUNK-DATA]
+- [FILE-NAME]
+- Contains file chunk data.
+---
+- permissions
+- required
+- [PERMISSION ARRAY]
+- N/A
+- Contains an array of permission strings about who can access the new file.
+{% /table %}
+
+While cURL and fetch are great tools to explore other REST endpoints, it's impractical to use for chunked file uploads because you need to split files into chunks.
+
+The multipart form data posted to file upload endpoints have the following format:
+
+```json
+POST /v1/storage/buckets/default/files HTTP/1.1
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarye0m6iNBQNHlzTpVM
+X-Clikkle-Project: demo-project
+Content-Range: bytes 10485760-12582912/12582912
+X-Clikkle-ID: 6369b0bc1dcf4ff59051
+
+------WebKitFormBoundarye0m6iNBQNHlzTpVM
+Content-Disposition: form-data; name="fileId"
+
+unique()
+------WebKitFormBoundarye0m6iNBQNHlzTpVM
+Content-Disposition: form-data; name="file"; filename="file.txt"
+Content-Type: application/octet-stream
+
+[CHUNKED-DATA]
+------WebKitFormBoundarye0m6iNBQNHlzTpVM
+Content-Disposition: form-data; name="permissions[]"
+
+read("user:627a958ded6424a98a9f")
+------WebKitFormBoundarye0m6iNBQNHlzTpVM--
+```
+
+# Images {% #images %}
+
+Some use cases do not allow custom headers, such as embedding images from Clikkle in HTML. In these cases, you can provide the Clikkle project ID using the query parameter project.
+
+```HTML
+<img src="[ENDPOINT]/v1/storage/buckets/[BUCKET_ID]/files/[FILE_ID]/preview?project=<PROJECT_ID>"/>
+```
+
+# Permissions {% #permissions %}
+
+Clikkle SDKs have helpers to generate permission string formats, but when using Clikkle without SDKs, you'd need to create the strings yourself.
+
+{% table %}
+- Query method
+- API string
+---
+- `Permission.read()`
+- `read("<PERMISSION_ROLE>")`
+---
+- `Permission.create()`
+- `read("<PERMISSION_ROLE>")`
+---
+- `Permission.update()`
+- `update("<PERMISSION_ROLE>")`
+---
+- `Permission.delete()`
+- `delete("<PERMISSION_ROLE>")`
+---
+- `Permission.write()`
+- `write("<PERMISSION_ROLE>")`
+{% /table %}
+
+## Roles {% #roles %}
+
+Clikkle SDKs have helpers to generate roles string formats, but when using Clikkle without SDKs, you'd need to create the strings yourself.
+
+{% table %}
+- Role method
+- API string
+---
+- `Role.any()`
+- `any`
+---
+- `Role.guests()`
+- `guests`
+---
+- `Role.users()`
+- `users`
+---
+- `Role.users([STATUS])`
+- `users/[STATUS]`
+---
+- `Role.user([USER_ID])`
+- `user:[USER_ID]`
+---
+- `Role.user([USER_ID], [STATUS])`
+- `user:[USER_ID]/[STATUS]`
+---
+- `Role.team([TEAM_ID])`
+- `team:[TEAM_ID]`
+---
+- `Role.team([TEAM_ID], [ROLE])`
+- `team:[TEAM_ID]/[ROLE]`
+---
+- `Role.member([MEMBERSHIP_ID])`
+- `member:[MEMBERSHIP_ID]`
+{% /table %}
+
+# Unique ID {% #unique-id %}
+
+Clikkle's SDKs have a helper `ID.unique()` to generate unique IDs. When using Clikkle without an SDK, pass the string `"unique()"` into the ID parameter.
+
+# Queries {% #queries %}
+
+Clikkle's SDKs provide a `Query` class to generate JSON query strings.
+When using Clikkle without an SDK, you can template your own JSON strings.
+You can discover the query methods available in the [Queries page.](/docs/products/databases/queries)
+
+## Query string format  {% #queries-string-format %}
+
+Clikkle Queries are escaped JSON strings, which look like this.
+
+```json
+"{\"method\":\"equal\",\"column\":\"name\",\"values\":[\"John\"]}"
+```
+
+Query strings are passed to Clikkle using the `queries` parameter. 
+You can attach multiple query strings by including the array parameter multiple times in the query string: `queries[]="..."&queries[]="..."`
+
+For example, the unescaped query string might look like this.
+```text
+?queries[0]={"method":"equal","column":"name","values":["John"]}&queries[1]={"method":"limit","values":[6]}
+```
+
+The JSON has a general format like this.
+
+```json
+{
+  "method": "<QUERY_METHOD>",
+  "column": "<ATTRIBUTE>",
+  "values": [
+    <VALUE1>,
+    <VALUE2>,
+    ...
+  ]
+}
+```
+
+{% info title="Best practice" %}
+When using greater than, greater than or equal to, less than, or less than or equal to, it is not recommended to pass in multiple values.
+While the API will accept multiple values and return results with **or logic**, it's best practice to pass in only one value for performance reasons.
+{% /info %}
+
+For example, to query for all rows with the name "John" or "Jane", the query string would look like this.
+
+```json
+{
+  "method": "equal",
+  "column": "name",
+  "values": [
+    "John",
+    "Jane"
+  ]
+}
+```
+
+Here are some more examples of the JSON query format. 
+When in doubt, you can use the Clikkle SDKs to generate the query strings for you.
+
+```json
+{
+  "method": "isNull",
+  "column": "name"
+}
+{
+  "method": "select",
+  "values": ["name", "age", "email"]
+}
+{
+  "method": "between",
+  "column": "age",
+  "values": [18, 30]
+}
+{
+  "method": "cursorAfter",
+  "values": ["rowId"]
+}
+```
+
+## Query nesting {% #query-nesting %}
+Some Clikkle query methods, like `and` and `or`, allow you to nest queries. 
+When using Clikkle without an SDK, you can template your own JSON strings.
+
+In these cases, `column` is empty and `values` is an array of queries.
+
+```json
+{
+  "method": "and",
+  "values": [
+    {
+      "method": "equal",
+      "column": "name",
+      "values": ["John"]
+    },
+    {
+      "method": "between",
+      "column": "age",
+      "values": [20, 30]
+    }
+  ]
+}
+```
+
+# Rate limits {% #rate-limits %}
+
+Clikkle's REST APIs are protected by the same rate limit policies, just like when using an SDK. Each API has a different rate limit, which is documented in the References section of each service in the Clikkle documentation.
+
+[Learn more about Rate Limits](/docs/advanced/platform/rate-limits).
+
+# Specifications {% #specifications %}
+
+Clikkle provides a full REST API specification in the OpenAPI 3 and Swagger 2 formats every release. These can be accessed through Clikkle's GitHub repository and rendered using a variety of parsers and tools.
+
+[Find the REST API specification for your Clikkle version](https://github.com/clikkle/clikkle/tree/master/app/config/specs).
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"flex min-w-0 flex-1 items-center gap-4 md:gap-6","children":[null,["$","div",null,{"className":"min-w-0 flex-1","children":["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"REST"}]}]]}],["$","div",null,{"className":"copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$c"}]}]]}]
+5:["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":false,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle supports multiple protocols for accessing the server, including ",["$","$Le",null,{"href":"/docs/apis/rest","children":"REST"}],", ",["$","$Le",null,{"href":"/docs/apis/graphql","children":"GraphQL"}],", and ",["$","$Le",null,{"href":"/docs/apis/realtime","children":"Realtime"}],". The REST API allows you to access your Clikkle server through HTTP requests without needing an SDK. Each endpoint in the API represents a specific operation on a specific resource."]}],["$","$Lf",null,{"id":"headers","level":1,"children":"Headers "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's REST APIs expect certain headers to be included with each request:"}],["$","$L10",null,{"children":["$","$L11",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Header"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"X-Clikkle-Project: [PROJECT-ID]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"required"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The ID of your Clikkle project"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Content-Type: application/json"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"required"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Content type of the HTTP request. Typically set to ",["$","code",null,{"children":"application/json"}],"."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"X-Clikkle-Key: [API-KEY]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L12"}],"$L13"]}],"$L14","$L15","$L16"]}]]}]}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54"]}]}]]}]
+6:["$","$L55",null,{}]
+7:["$","aside",null,{"className":"web-references-menu relative z-0 hidden w-[240px] shrink-0 ps-6 xl:block","children":["$","div",null,{"className":"sticky top-16 max-h-[calc(100vh-4rem)] overflow-y-auto pb-8 pr-4 pt-16 hide-scrollbar","children":["$","$L56",null,{"items":[{"id":"headers","title":"Headers","level":1},{"id":"authentication","title":"Authentication","level":1},{"id":"client-integration","title":"Client integrations","level":2},{"id":"server-integrations","title":"Server integrations","level":2},{"id":"jwt","title":"JWT","level":2},{"id":"files","title":"Files","level":1},{"id":"images","title":"Images","level":1},{"id":"permissions","title":"Permissions","level":1},{"id":"roles","title":"Roles","level":2},{"id":"unique-id","title":"Unique ID","level":1},{"id":"queries","title":"Queries","level":1},{"id":"queries-string-format","title":"Query string format","level":2},{"id":"query-nesting","title":"Query nesting","level":2},{"id":"rate-limits","title":"Rate limits","level":1},{"id":"specifications","title":"Specifications","level":1}]}]}]}]
+8:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+9:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+a:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+b:["$","$L57",null,{"children":["$","$58",null,{"name":"Next.MetadataOutlet","children":"$@59"}]}]
+12:["$","div",null,{"className":"td-wrapper","children":"optional"}]
+13:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["API key used for server authentication. Your API key is a secret, ",["$","strong",null,{"children":"do not"}]," use it in client applications."]}]}]
+14:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"X-Clikkle-JWT: [TOKEN]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"optional"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Token used for JWT authentication, tokens can be generated using the ",["$","$Le",null,{"href":"/docs/products/auth/jwt","children":"Create JWT"}]," method."]}]}]]}]
+15:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"X-Clikkle-Response-Format: [VERSION-NUMBER]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"optional"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Version number used for backward compatibility. The response will be formatted to be compatible with the provided version number. This helps Clikkle SDKs keep backward compatibility with Clikkle server API version."}]}]]}]
+16:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"X-Fallback-Cookies: [FALLBACK-COOKIES]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"optional"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Fallback cookies used in scenarios where browsers do not allow third-party cookies. Often used when there is no Custom Domain set for your Clikkle API."}]}]]}]
+17:["$","$Lf",null,{"id":"authentication","level":1,"children":"Authentication "}]
+18:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle supports multiple authentication methods, including account sessions, API keys, and JWTs. The authentication method you use depends on your use case. Below are examples showing how you can authenticate using the REST API."}]
+19:["$","$Lf",null,{"id":"client-integration","level":2,"children":"Client integrations "}]
+1a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can create account sessions with POST requests to the Account API. Sessions are persisted using secured cookies. You can learn more about session persistence in the Authentication Guide."}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The example below shows creating an account session with the Create Account Session with Email endpoint."}]
+1c:["$","$L5a",null,{"language":"json","content":"POST /v1/account/sessions/email HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n\n{\n  \"email\": \"example@email.com\",\n  \"password\": \"password\"\n}\n","children":"POST /v1/account/sessions/email HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n\n{\n  \"email\": \"example@email.com\",\n  \"password\": \"password\"\n}\n"}]
+1d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can find the cookies used to persist the new session in the response headers."}]
+1e:["$","$L5a",null,{"language":"json","content":"Set-Cookie: a_session_61e71ec784ab035f7259_legacy=eyJ0...aSJ9; expires=Tue, 19-Dec-2023 21:26:51 GMT; path=/; domain=.cloud.clikkle.io; secure; httponly\nSet-Cookie: a_session_61e71ec784ab035f7259=eyJ0...aSJ9; expires=Tue, 19-Dec-2023 21:26:51 GMT; path=/; domain=.cloud.clikkle.io; secure; httponly; samesite=None\n","children":"Set-Cookie: a_session_61e71ec784ab035f7259_legacy=eyJ0...aSJ9; expires=Tue, 19-Dec-2023 21:26:51 GMT; path=/; domain=.cloud.clikkle.io; secure; httponly\nSet-Cookie: a_session_61e71ec784ab035f7259=eyJ0...aSJ9; expires=Tue, 19-Dec-2023 21:26:51 GMT; path=/; domain=.cloud.clikkle.io; secure; httponly; samesite=None\n"}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"These cookies are used in subsequent requests to authenticate the user."}]
+20:["$","$L5a",null,{"language":"json","content":"GET /v1/account HTTP/1.1\nCookie: a_session_61e71ec784ab035f7259_legacy=eyJ0...aSJ9; a_session_61e71ec784ab035f7259=eyJ0...aSJ9\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n","children":"GET /v1/account HTTP/1.1\nCookie: a_session_61e71ec784ab035f7259_legacy=eyJ0...aSJ9; a_session_61e71ec784ab035f7259=eyJ0...aSJ9\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\n"}]
+21:["$","$Lf",null,{"id":"server-integrations","level":2,"children":"Server integrations "}]
+22:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Server integrations use API keys to authenticate and are typically used for backend applications."}]
+23:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Server APIs are authenticated with API keys instead of account sessions. Simply pass an ",["$","$Le",null,{"href":"/docs/advanced/platform/api-keys","children":"API key"}]," in the ",["$","code",null,{"children":"X-Clikkle-key: [API-KEY]"}]," header with the appropriate scopes."]}]
+24:["$","$L5a",null,{"language":"json","content":"GET /v1/tablesdb/{databaseId}/tables/{tableId}/rows HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\nX-Clikkle-Key: [API_KEY]\n","children":"GET /v1/tablesdb/{databaseId}/tables/{tableId}/rows HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\nX-Clikkle-Key: [API_KEY]\n"}]
+25:["$","$Lf",null,{"id":"jwt","level":2,"children":"JWT "}]
+26:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["JWT authentication is frequently used by server applications to act on behalf of a user. Users generate tokens using the ",["$","$Le",null,{"href":"/docs/references/cloud/client-web/account#createJWT","children":"Create JWT"}]," endpoint. When issuing requests authenticated with a JWT, Clikkle will treat the request like it is from the authenticated user."]}]
+27:["$","$L5a",null,{"language":"json","content":"GET /v1/account HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\nX-Clikkle-JWT: [TOKEN]\n","children":"GET /v1/account HTTP/1.1\nContent-Type: application/json\nX-Clikkle-Project: <PROJECT_ID>\nX-Clikkle-JWT: [TOKEN]\n"}]
+28:["$","$Lf",null,{"id":"files","level":1,"children":"Files "}]
+29:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle implements resumable, chunked uploads for files larger than 5MB. Chunked uploads send files in chunks of 5MB to reduce memory footprint and increase resilience when handling large files. ",["$","$Le",null,{"href":"/docs/sdks","children":"Clikkle SDKs"}]," will automatically handle chunked uploads, but it is possible to implement this with the REST API directly."]}]
+2a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Upload endpoints in Clikkle, such as ",["$","$Le",null,{"href":"/docs/references/cloud/client-web/storage#createFile","children":"Create File"}]," and ",["$","$Le",null,{"href":"/docs/references/cloud/server-nodejs/functions#createDeployment","children":"Create Deployment"}],", are different from other endpoints. These endpoints take multipart form data instead of JSON data. To implement chunked uploads, you will need to implement the following headers. If you wish, this logic is already available in any of the ",["$","$Le",null,{"href":"/docs/sdks","children":"Clikkle SDKs"}],"."]}]
+2b:["$","$L10",null,{"children":["$","$L11",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Header"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"X-Clikkle-Project: [PROJECT-ID]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"required"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The ID of your Clikkle project"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Content-Type: multipart/form-data; boundary=[FORM-BOUNDARY]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"required"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Contains the content type of the HTTP request and provides a ",["$","a",null,{"href":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST","target":"_blank","rel":"noopener nofollow","children":"boundary"}]," that is used to parse the form data."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Content-Range: bytes [BYTE-RANGE]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"required"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Contains information about which bytes are being transmitted in this chunk, with the format ",["$","code",null,{"children":"[FIRST-BYTE]-[LAST-BYTE]/[TOTAL-BYTES]"}],"."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"X-Clikkle-ID: [FILE-ID]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L5b"}],"$L5c"]}],"$L5d"]}]]}]}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The multipart form data is structured as follows:"}]
+2d:["$","$L10",null,{"children":["$","$L11",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Key"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Value"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"File Name"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"fileId"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"optional"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"[FILE-ID]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"N/A"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Contains the file ID of the new file. Only used by file chunks following the first chunk uploaded."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"file"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"required"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"[CHUNK-DATA]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"[FILE-NAME]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Contains file chunk data."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L5e"}],"$L5f","$L60","$L61","$L62"]}]]}]]}]}]
+2e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"While cURL and fetch are great tools to explore other REST endpoints, it's impractical to use for chunked file uploads because you need to split files into chunks."}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The multipart form data posted to file upload endpoints have the following format:"}]
+30:["$","$L5a",null,{"language":"json","content":"POST /v1/storage/buckets/default/files HTTP/1.1\nContent-Type: multipart/form-data; boundary=----WebKitFormBoundarye0m6iNBQNHlzTpVM\nX-Clikkle-Project: demo-project\nContent-Range: bytes 10485760-12582912/12582912\nX-Clikkle-ID: 6369b0bc1dcf4ff59051\n\n------WebKitFormBoundarye0m6iNBQNHlzTpVM\nContent-Disposition: form-data; name=\"fileId\"\n\nunique()\n------WebKitFormBoundarye0m6iNBQNHlzTpVM\nContent-Disposition: form-data; name=\"file\"; filename=\"file.txt\"\nContent-Type: application/octet-stream\n\n[CHUNKED-DATA]\n------WebKitFormBoundarye0m6iNBQNHlzTpVM\nContent-Disposition: form-data; name=\"permissions[]\"\n\nread(\"user:627a958ded6424a98a9f\")\n------WebKitFormBoundarye0m6iNBQNHlzTpVM--\n","children":"POST /v1/storage/buckets/default/files HTTP/1.1\nContent-Type: multipart/form-data; boundary=----WebKitFormBoundarye0m6iNBQNHlzTpVM\nX-Clikkle-Project: demo-project\nContent-Range: bytes 10485760-12582912/12582912\nX-Clikkle-ID: 6369b0bc1dcf4ff59051\n\n------WebKitFormBoundarye0m6iNBQNHlzTpVM\nContent-Disposition: form-data; name=\"fileId\"\n\nunique()\n------WebKitFormBoundarye0m6iNBQNHlzTpVM\nContent-Disposition: form-data; name=\"file\"; filename=\"file.txt\"\nContent-Type: application/octet-stream\n\n[CHUNKED-DATA]\n------WebKitFormBoundarye0m6iNBQNHlzTpVM\nContent-Disposition: form-data; name=\"permissions[]\"\n\nread(\"user:627a958ded6424a98a9f\")\n------WebKitFormBoundarye0m6iNBQNHlzTpVM--\n"}]
+31:["$","$Lf",null,{"id":"images","level":1,"children":"Images "}]
+32:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Some use cases do not allow custom headers, such as embedding images from Clikkle in HTML. In these cases, you can provide the Clikkle project ID using the query parameter project."}]
+33:["$","$L5a",null,{"language":"HTML","content":"<img src=\"[ENDPOINT]/v1/storage/buckets/[BUCKET_ID]/files/[FILE_ID]/preview?project=<PROJECT_ID>\"/>\n","children":"<img src=\"[ENDPOINT]/v1/storage/buckets/[BUCKET_ID]/files/[FILE_ID]/preview?project=<PROJECT_ID>\"/>\n"}]
+34:["$","$Lf",null,{"id":"permissions","level":1,"children":"Permissions "}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle SDKs have helpers to generate permission string formats, but when using Clikkle without SDKs, you'd need to create the strings yourself."}]
+36:["$","$L10",null,{"children":["$","$L11",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Query method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"API string"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Permission.read()"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"read(\"<PERMISSION_ROLE>\")"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Permission.create()"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"read(\"<PERMISSION_ROLE>\")"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Permission.update()"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"update(\"<PERMISSION_ROLE>\")"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Permission.delete()"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"delete(\"<PERMISSION_ROLE>\")"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Permission.write()"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"write(\"<PERMISSION_ROLE>\")"}]}]}]]}]]}]]}]}]
+37:["$","$Lf",null,{"id":"roles","level":2,"children":"Roles "}]
+38:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle SDKs have helpers to generate roles string formats, but when using Clikkle without SDKs, you'd need to create the strings yourself."}]
+39:["$","$L10",null,{"children":["$","$L11",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Role method"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"API string"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.any()"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"any"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.guests()"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"guests"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.users()"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.users([STATUS])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"users/[STATUS]"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.user([USER_ID])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"user:[USER_ID]"}]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.user([USER_ID], [STATUS])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"user:[USER_ID]/[STATUS]"}]}]}]]}],"$L63","$L64","$L65"]}]]}]}]
+3a:["$","$Lf",null,{"id":"unique-id","level":1,"children":"Unique ID "}]
+3b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle's SDKs have a helper ",["$","code",null,{"children":"ID.unique()"}]," to generate unique IDs. When using Clikkle without an SDK, pass the string ",["$","code",null,{"children":"\"unique()\""}]," into the ID parameter."]}]
+3c:["$","$Lf",null,{"id":"queries","level":1,"children":"Queries "}]
+3d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle's SDKs provide a ",["$","code",null,{"children":"Query"}]," class to generate JSON query strings."," ","When using Clikkle without an SDK, you can template your own JSON strings."," ","You can discover the query methods available in the ",["$","$Le",null,{"href":"/docs/products/databases/queries","children":"Queries page."}]]}]
+3e:["$","$Lf",null,{"id":"queries-string-format","level":2,"children":"Query string format  "}]
+3f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle Queries are escaped JSON strings, which look like this."}]
+40:["$","$L5a",null,{"language":"json","content":"\"{\\\"method\\\":\\\"equal\\\",\\\"column\\\":\\\"name\\\",\\\"values\\\":[\\\"John\\\"]}\"\n","children":"\"{\\\"method\\\":\\\"equal\\\",\\\"column\\\":\\\"name\\\",\\\"values\\\":[\\\"John\\\"]}\"\n"}]
+41:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Query strings are passed to Clikkle using the ",["$","code",null,{"children":"queries"}]," parameter."," ","You can attach multiple query strings by including the array parameter multiple times in the query string: ",["$","code",null,{"children":"queries[]=\"...\"&queries[]=\"...\""}]]}]
+42:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For example, the unescaped query string might look like this."}]
+43:["$","$L5a",null,{"language":"text","content":"?queries[0]={\"method\":\"equal\",\"column\":\"name\",\"values\":[\"John\"]}&queries[1]={\"method\":\"limit\",\"values\":[6]}\n","children":"?queries[0]={\"method\":\"equal\",\"column\":\"name\",\"values\":[\"John\"]}&queries[1]={\"method\":\"limit\",\"values\":[6]}\n"}]
+44:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The JSON has a general format like this."}]
+45:["$","$L5a",null,{"language":"json","content":"{\n  \"method\": \"<QUERY_METHOD>\",\n  \"column\": \"<ATTRIBUTE>\",\n  \"values\": [\n    <VALUE1>,\n    <VALUE2>,\n    ...\n  ]\n}\n","children":"{\n  \"method\": \"<QUERY_METHOD>\",\n  \"column\": \"<ATTRIBUTE>\",\n  \"values\": [\n    <VALUE1>,\n    <VALUE2>,\n    ...\n  ]\n}\n"}]
+46:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Best practice"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["When using greater than, greater than or equal to, less than, or less than or equal to, it is not recommended to pass in multiple values."," ","While the API will accept multiple values and return results with ",["$","strong",null,{"children":"or logic"}],", it's best practice to pass in only one value for performance reasons."]}]]}]
+47:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For example, to query for all rows with the name \"John\" or \"Jane\", the query string would look like this."}]
+48:["$","$L5a",null,{"language":"json","content":"{\n  \"method\": \"equal\",\n  \"column\": \"name\",\n  \"values\": [\n    \"John\",\n    \"Jane\"\n  ]\n}\n","children":"{\n  \"method\": \"equal\",\n  \"column\": \"name\",\n  \"values\": [\n    \"John\",\n    \"Jane\"\n  ]\n}\n"}]
+49:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Here are some more examples of the JSON query format."," ","When in doubt, you can use the Clikkle SDKs to generate the query strings for you."]}]
+4a:["$","$L5a",null,{"language":"json","content":"{\n  \"method\": \"isNull\",\n  \"column\": \"name\"\n}\n{\n  \"method\": \"select\",\n  \"values\": [\"name\", \"age\", \"email\"]\n}\n{\n  \"method\": \"between\",\n  \"column\": \"age\",\n  \"values\": [18, 30]\n}\n{\n  \"method\": \"cursorAfter\",\n  \"values\": [\"rowId\"]\n}\n","children":"{\n  \"method\": \"isNull\",\n  \"column\": \"name\"\n}\n{\n  \"method\": \"select\",\n  \"values\": [\"name\", \"age\", \"email\"]\n}\n{\n  \"method\": \"between\",\n  \"column\": \"age\",\n  \"values\": [18, 30]\n}\n{\n  \"method\": \"cursorAfter\",\n  \"values\": [\"rowId\"]\n}\n"}]
+4b:["$","$Lf",null,{"id":"query-nesting","level":2,"children":"Query nesting "}]
+4c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Some Clikkle query methods, like ",["$","code",null,{"children":"and"}]," and ",["$","code",null,{"children":"or"}],", allow you to nest queries."," ","When using Clikkle without an SDK, you can template your own JSON strings."]}]
+4d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["In these cases, ",["$","code",null,{"children":"column"}]," is empty and ",["$","code",null,{"children":"values"}]," is an array of queries."]}]
+4e:["$","$L5a",null,{"language":"json","content":"{\n  \"method\": \"and\",\n  \"values\": [\n    {\n      \"method\": \"equal\",\n      \"column\": \"name\",\n      \"values\": [\"John\"]\n    },\n    {\n      \"method\": \"between\",\n      \"column\": \"age\",\n      \"values\": [20, 30]\n    }\n  ]\n}\n","children":"{\n  \"method\": \"and\",\n  \"values\": [\n    {\n      \"method\": \"equal\",\n      \"column\": \"name\",\n      \"values\": [\"John\"]\n    },\n    {\n      \"method\": \"between\",\n      \"column\": \"age\",\n      \"values\": [20, 30]\n    }\n  ]\n}\n"}]
+4f:["$","$Lf",null,{"id":"rate-limits","level":1,"children":"Rate limits "}]
+50:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's REST APIs are protected by the same rate limit policies, just like when using an SDK. Each API has a different rate limit, which is documented in the References section of each service in the Clikkle documentation."}]
+51:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","$Le",null,{"href":"/docs/advanced/platform/rate-limits","children":"Learn more about Rate Limits"}],"."]}]
+52:["$","$Lf",null,{"id":"specifications","level":1,"children":"Specifications "}]
+53:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle provides a full REST API specification in the OpenAPI 3 and Swagger 2 formats every release. These can be accessed through Clikkle's GitHub repository and rendered using a variety of parsers and tools."}]
+54:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","a",null,{"href":"https://github.com/clikkle/clikkle/tree/master/app/config/specs","target":"_blank","rel":"noopener nofollow","children":"Find the REST API specification for your Clikkle version"}],"."]}]
+59:null
+5b:["$","div",null,{"className":"td-wrapper","children":"required"}]
+5c:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Contains ID of the file this chunk belongs to."}]}]
+5d:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"X-Clikkle-Key: [API-KEY]"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"optional"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["API key used for server authentication. Your API key is a secret, ",["$","strong",null,{"children":"do not"}]," use it in client applications."]}]}]]}]
+5e:["$","div",null,{"className":"td-wrapper","children":"permissions"}]
+5f:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"required"}]}]
+60:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"[PERMISSION ARRAY]"}]}]
+61:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"N/A"}]}]
+62:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Contains an array of permission strings about who can access the new file."}]}]
+63:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.team([TEAM_ID])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"team:[TEAM_ID]"}]}]}]]}]
+64:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.team([TEAM_ID], [ROLE])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"team:[TEAM_ID]/[ROLE]"}]}]}]]}]
+65:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"Role.member([MEMBERSHIP_ID])"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"member:[MEMBERSHIP_ID]"}]}]}]]}]

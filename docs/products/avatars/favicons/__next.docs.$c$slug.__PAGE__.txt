@@ -1,0 +1,464 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+10:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+1c:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+21:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T1402,---
+layout: article
+title: Favicons
+description: Fetch favicons from remote websites for link previews and bookmark displays.
+---
+
+The favicon endpoint retrieves favicons from remote websites. This is useful for displaying website icons in link previews, bookmarks, and social sharing interfaces.
+
+# Get favicon {% #get-favicon %}
+
+Retrieve a favicon from a remote website URL.
+
+{% multicode %}
+```client-web
+import { Client, Avatars } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const avatars = new Avatars(client);
+
+const result = avatars.getFavicon({
+    url: 'https://example.com',
+    width: 100,
+    height: 100
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final avatars = Avatars(client);
+
+Future result = avatars.getFavicon(
+    url: 'https://example.com',
+    width: 100,
+    height: 100
+).then((bytes) {
+    // Use the favicon image bytes
+    return bytes;
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let avatars = Avatars(client)
+
+let byteBuffer = try await avatars.getFavicon(
+    url: "https://example.com",
+    width: 100,
+    height: 100
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Avatars
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val avatars = Avatars(client)
+
+val result = avatars.getFavicon(
+    url = "https://example.com",
+    width = 100,
+    height = 100
+)
+```
+```client-react-native
+import { Client, Avatars } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const avatars = new Avatars(client);
+
+const result = avatars.getFavicon({
+    url: 'https://example.com',
+    width: 100,
+    height: 100
+});
+
+console.log(result); // Resource URL
+```
+{% /multicode %}
+
+# Parameters {% #parameters %}
+
+The `getFavicon` method accepts the following parameters:
+
+| Parameter | Type | Description |
+| --------- | ---- | ----------- |
+| url | string | The URL of the website to fetch the favicon from. Must be a valid HTTP or HTTPS URL. |
+| width | integer | The width of the output image in pixels. Accepts values between `0-2000`. |
+| height | integer | The height of the output image in pixels. Accepts values between `0-2000`. |
+
+# Favicon retrieval {% #favicon-retrieval %}
+
+The service automatically attempts to retrieve favicons from common locations on the target website, including standard favicon paths and HTML meta tags.
+
+{% multicode %}
+```client-web
+// Standard website
+const exampleFavicon = avatars.getFavicon({
+    url: 'https://example.com',
+    width: 64,
+    height: 64
+});
+
+// Website with subdomain
+const subdomainFavicon = avatars.getFavicon({
+    url: 'https://blog.example.com',
+    width: 64,
+    height: 64
+});
+
+// Website with path
+const pathFavicon = avatars.getFavicon({
+    url: 'https://example.com/page',
+    width: 64,
+    height: 64
+});
+```
+```client-flutter
+// Standard website
+Future exampleFavicon = avatars.getFavicon(
+    url: 'https://example.com',
+    width: 64,
+    height: 64
+);
+
+// Website with subdomain
+Future subdomainFavicon = avatars.getFavicon(
+    url: 'https://blog.example.com',
+    width: 64,
+    height: 64
+);
+
+// Website with path
+Future pathFavicon = avatars.getFavicon(
+    url: 'https://example.com/page',
+    width: 64,
+    height: 64
+);
+```
+```client-apple
+// Standard website
+let exampleFavicon = try await avatars.getFavicon(
+    url: "https://example.com",
+    width: 64,
+    height: 64
+)
+
+// Website with subdomain
+let subdomainFavicon = try await avatars.getFavicon(
+    url: "https://blog.example.com",
+    width: 64,
+    height: 64
+)
+
+// Website with path
+let pathFavicon = try await avatars.getFavicon(
+    url: "https://example.com/page",
+    width: 64,
+    height: 64
+)
+```
+```client-android-kotlin
+// Standard website
+val exampleFavicon = avatars.getFavicon(
+    url = "https://example.com",
+    width = 64,
+    height = 64
+)
+
+// Website with subdomain
+val subdomainFavicon = avatars.getFavicon(
+    url = "https://blog.example.com",
+    width = 64,
+    height = 64
+)
+
+// Website with path
+val pathFavicon = avatars.getFavicon(
+    url = "https://example.com/page",
+    width = 64,
+    height = 64
+)
+```
+{% /multicode %}
+
+# Use cases {% #use-cases %}
+
+Favicons are commonly used for:
+
+- **Link previews**: Display website icons in link preview cards and social sharing
+- **Bookmarks**: Show website icons in bookmark lists and collections
+- **Referral tracking**: Display source website icons in analytics and referral reports
+- **Content aggregation**: Show website icons in RSS feed readers and content aggregators
+- **Social media**: Display website icons in social media link previews and embeds
+
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T1402,---
+layout: article
+title: Favicons
+description: Fetch favicons from remote websites for link previews and bookmark displays.
+---
+
+The favicon endpoint retrieves favicons from remote websites. This is useful for displaying website icons in link previews, bookmarks, and social sharing interfaces.
+
+# Get favicon {% #get-favicon %}
+
+Retrieve a favicon from a remote website URL.
+
+{% multicode %}
+```client-web
+import { Client, Avatars } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const avatars = new Avatars(client);
+
+const result = avatars.getFavicon({
+    url: 'https://example.com',
+    width: 100,
+    height: 100
+});
+
+console.log(result); // Resource URL
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final avatars = Avatars(client);
+
+Future result = avatars.getFavicon(
+    url: 'https://example.com',
+    width: 100,
+    height: 100
+).then((bytes) {
+    // Use the favicon image bytes
+    return bytes;
+}).catchError((error) {
+    print(error.response);
+});
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let avatars = Avatars(client)
+
+let byteBuffer = try await avatars.getFavicon(
+    url: "https://example.com",
+    width: 100,
+    height: 100
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Avatars
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val avatars = Avatars(client)
+
+val result = avatars.getFavicon(
+    url = "https://example.com",
+    width = 100,
+    height = 100
+)
+```
+```client-react-native
+import { Client, Avatars } from 'react-native-clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const avatars = new Avatars(client);
+
+const result = avatars.getFavicon({
+    url: 'https://example.com',
+    width: 100,
+    height: 100
+});
+
+console.log(result); // Resource URL
+```
+{% /multicode %}
+
+# Parameters {% #parameters %}
+
+The `getFavicon` method accepts the following parameters:
+
+| Parameter | Type | Description |
+| --------- | ---- | ----------- |
+| url | string | The URL of the website to fetch the favicon from. Must be a valid HTTP or HTTPS URL. |
+| width | integer | The width of the output image in pixels. Accepts values between `0-2000`. |
+| height | integer | The height of the output image in pixels. Accepts values between `0-2000`. |
+
+# Favicon retrieval {% #favicon-retrieval %}
+
+The service automatically attempts to retrieve favicons from common locations on the target website, including standard favicon paths and HTML meta tags.
+
+{% multicode %}
+```client-web
+// Standard website
+const exampleFavicon = avatars.getFavicon({
+    url: 'https://example.com',
+    width: 64,
+    height: 64
+});
+
+// Website with subdomain
+const subdomainFavicon = avatars.getFavicon({
+    url: 'https://blog.example.com',
+    width: 64,
+    height: 64
+});
+
+// Website with path
+const pathFavicon = avatars.getFavicon({
+    url: 'https://example.com/page',
+    width: 64,
+    height: 64
+});
+```
+```client-flutter
+// Standard website
+Future exampleFavicon = avatars.getFavicon(
+    url: 'https://example.com',
+    width: 64,
+    height: 64
+);
+
+// Website with subdomain
+Future subdomainFavicon = avatars.getFavicon(
+    url: 'https://blog.example.com',
+    width: 64,
+    height: 64
+);
+
+// Website with path
+Future pathFavicon = avatars.getFavicon(
+    url: 'https://example.com/page',
+    width: 64,
+    height: 64
+);
+```
+```client-apple
+// Standard website
+let exampleFavicon = try await avatars.getFavicon(
+    url: "https://example.com",
+    width: 64,
+    height: 64
+)
+
+// Website with subdomain
+let subdomainFavicon = try await avatars.getFavicon(
+    url: "https://blog.example.com",
+    width: 64,
+    height: 64
+)
+
+// Website with path
+let pathFavicon = try await avatars.getFavicon(
+    url: "https://example.com/page",
+    width: 64,
+    height: 64
+)
+```
+```client-android-kotlin
+// Standard website
+val exampleFavicon = avatars.getFavicon(
+    url = "https://example.com",
+    width = 64,
+    height = 64
+)
+
+// Website with subdomain
+val subdomainFavicon = avatars.getFavicon(
+    url = "https://blog.example.com",
+    width = 64,
+    height = 64
+)
+
+// Website with path
+val pathFavicon = avatars.getFavicon(
+    url = "https://example.com/page",
+    width = 64,
+    height = 64
+)
+```
+{% /multicode %}
+
+# Use cases {% #use-cases %}
+
+Favicons are commonly used for:
+
+- **Link previews**: Display website icons in link preview cards and social sharing
+- **Bookmarks**: Show website icons in bookmark lists and collections
+- **Referral tracking**: Display source website icons in analytics and referral reports
+- **Content aggregation**: Show website icons in RSS feed readers and content aggregators
+- **Social media**: Display website icons in social media link previews and embeds
+
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Favicons"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The favicon endpoint retrieves favicons from remote websites. This is useful for displaying website icons in link previews, bookmarks, and social sharing interfaces."}],["$","$Le",null,{"id":"get-favicon","level":1,"children":"Get favicon "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Retrieve a favicon from a remote website URL."}],["$","$Lf",null,{"children":[["$","$L10",null,{"language":"client-web","content":"import { Client, Avatars } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst avatars = new Avatars(client);\n\nconst result = avatars.getFavicon({\n    url: 'https://example.com',\n    width: 100,\n    height: 100\n});\n\nconsole.log(result); // Resource URL\n","children":"import { Client, Avatars } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst avatars = new Avatars(client);\n\nconst result = avatars.getFavicon({\n    url: 'https://example.com',\n    width: 100,\n    height: 100\n});\n\nconsole.log(result); // Resource URL\n"}],["$","$L10",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal avatars = Avatars(client);\n\nFuture result = avatars.getFavicon(\n    url: 'https://example.com',\n    width: 100,\n    height: 100\n).then((bytes) {\n    // Use the favicon image bytes\n    return bytes;\n}).catchError((error) {\n    print(error.response);\n});\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal avatars = Avatars(client);\n\nFuture result = avatars.getFavicon(\n    url: 'https://example.com',\n    width: 100,\n    height: 100\n).then((bytes) {\n    // Use the favicon image bytes\n    return bytes;\n}).catchError((error) {\n    print(error.response);\n});\n"}],["$","$L10",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet avatars = Avatars(client)\n\nlet byteBuffer = try await avatars.getFavicon(\n    url: \"https://example.com\",\n    width: 100,\n    height: 100\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet avatars = Avatars(client)\n\nlet byteBuffer = try await avatars.getFavicon(\n    url: \"https://example.com\",\n    width: 100,\n    height: 100\n)\n"}],["$","$L10",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Avatars\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval avatars = Avatars(client)\n\nval result = avatars.getFavicon(\n    url = \"https://example.com\",\n    width = 100,\n    height = 100\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Avatars\n\nval client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval avatars = Avatars(client)\n\nval result = avatars.getFavicon(\n    url = \"https://example.com\",\n    width = 100,\n    height = 100\n)\n"}],"$L11"]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]}]]}],"$L1b"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L1c",null,{"items":[{"id":"get-favicon","title":"Get favicon","level":1},{"id":"parameters","title":"Parameters","level":1},{"id":"favicon-retrieval","title":"Favicon retrieval","level":1},{"id":"use-cases","title":"Use cases","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+11:["$","$L10",null,{"language":"client-react-native","content":"import { Client, Avatars } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst avatars = new Avatars(client);\n\nconst result = avatars.getFavicon({\n    url: 'https://example.com',\n    width: 100,\n    height: 100\n});\n\nconsole.log(result); // Resource URL\n","children":"import { Client, Avatars } from 'react-native-clikkle';\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst avatars = new Avatars(client);\n\nconst result = avatars.getFavicon({\n    url: 'https://example.com',\n    width: 100,\n    height: 100\n});\n\nconsole.log(result); // Resource URL\n"}]
+12:["$","$Le",null,{"id":"parameters","level":1,"children":"Parameters "}]
+13:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The ",["$","code",null,{"children":"getFavicon"}]," method accepts the following parameters:"]}]
+14:["$","$L20",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Parameter"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Type"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"url"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"string"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"The URL of the website to fetch the favicon from. Must be a valid HTTP or HTTPS URL."}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"width"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"integer"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["The width of the output image in pixels. Accepts values between ",["$","code",null,{"children":"0-2000"}],"."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"height"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"integer"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["The height of the output image in pixels. Accepts values between ",["$","code",null,{"children":"0-2000"}],"."]}]}]]}]]}]]}]
+15:["$","$Le",null,{"id":"favicon-retrieval","level":1,"children":"Favicon retrieval "}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The service automatically attempts to retrieve favicons from common locations on the target website, including standard favicon paths and HTML meta tags."}]
+17:["$","$Lf",null,{"children":[["$","$L10",null,{"language":"client-web","content":"// Standard website\nconst exampleFavicon = avatars.getFavicon({\n    url: 'https://example.com',\n    width: 64,\n    height: 64\n});\n\n// Website with subdomain\nconst subdomainFavicon = avatars.getFavicon({\n    url: 'https://blog.example.com',\n    width: 64,\n    height: 64\n});\n\n// Website with path\nconst pathFavicon = avatars.getFavicon({\n    url: 'https://example.com/page',\n    width: 64,\n    height: 64\n});\n","children":"// Standard website\nconst exampleFavicon = avatars.getFavicon({\n    url: 'https://example.com',\n    width: 64,\n    height: 64\n});\n\n// Website with subdomain\nconst subdomainFavicon = avatars.getFavicon({\n    url: 'https://blog.example.com',\n    width: 64,\n    height: 64\n});\n\n// Website with path\nconst pathFavicon = avatars.getFavicon({\n    url: 'https://example.com/page',\n    width: 64,\n    height: 64\n});\n"}],["$","$L10",null,{"language":"client-flutter","content":"// Standard website\nFuture exampleFavicon = avatars.getFavicon(\n    url: 'https://example.com',\n    width: 64,\n    height: 64\n);\n\n// Website with subdomain\nFuture subdomainFavicon = avatars.getFavicon(\n    url: 'https://blog.example.com',\n    width: 64,\n    height: 64\n);\n\n// Website with path\nFuture pathFavicon = avatars.getFavicon(\n    url: 'https://example.com/page',\n    width: 64,\n    height: 64\n);\n","children":"// Standard website\nFuture exampleFavicon = avatars.getFavicon(\n    url: 'https://example.com',\n    width: 64,\n    height: 64\n);\n\n// Website with subdomain\nFuture subdomainFavicon = avatars.getFavicon(\n    url: 'https://blog.example.com',\n    width: 64,\n    height: 64\n);\n\n// Website with path\nFuture pathFavicon = avatars.getFavicon(\n    url: 'https://example.com/page',\n    width: 64,\n    height: 64\n);\n"}],["$","$L10",null,{"language":"client-apple","content":"// Standard website\nlet exampleFavicon = try await avatars.getFavicon(\n    url: \"https://example.com\",\n    width: 64,\n    height: 64\n)\n\n// Website with subdomain\nlet subdomainFavicon = try await avatars.getFavicon(\n    url: \"https://blog.example.com\",\n    width: 64,\n    height: 64\n)\n\n// Website with path\nlet pathFavicon = try await avatars.getFavicon(\n    url: \"https://example.com/page\",\n    width: 64,\n    height: 64\n)\n","children":"// Standard website\nlet exampleFavicon = try await avatars.getFavicon(\n    url: \"https://example.com\",\n    width: 64,\n    height: 64\n)\n\n// Website with subdomain\nlet subdomainFavicon = try await avatars.getFavicon(\n    url: \"https://blog.example.com\",\n    width: 64,\n    height: 64\n)\n\n// Website with path\nlet pathFavicon = try await avatars.getFavicon(\n    url: \"https://example.com/page\",\n    width: 64,\n    height: 64\n)\n"}],["$","$L10",null,{"language":"client-android-kotlin","content":"// Standard website\nval exampleFavicon = avatars.getFavicon(\n    url = \"https://example.com\",\n    width = 64,\n    height = 64\n)\n\n// Website with subdomain\nval subdomainFavicon = avatars.getFavicon(\n    url = \"https://blog.example.com\",\n    width = 64,\n    height = 64\n)\n\n// Website with path\nval pathFavicon = avatars.getFavicon(\n    url = \"https://example.com/page\",\n    width = 64,\n    height = 64\n)\n","children":"// Standard website\nval exampleFavicon = avatars.getFavicon(\n    url = \"https://example.com\",\n    width = 64,\n    height = 64\n)\n\n// Website with subdomain\nval subdomainFavicon = avatars.getFavicon(\n    url = \"https://blog.example.com\",\n    width = 64,\n    height = 64\n)\n\n// Website with path\nval pathFavicon = avatars.getFavicon(\n    url = \"https://example.com/page\",\n    width = 64,\n    height = 64\n)\n"}]]}]
+18:["$","$Le",null,{"id":"use-cases","level":1,"children":"Use cases "}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Favicons are commonly used for:"}]
+1a:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Link previews"}],": Display website icons in link preview cards and social sharing"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Bookmarks"}],": Show website icons in bookmark lists and collections"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Referral tracking"}],": Display source website icons in analytics and referral reports"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Content aggregation"}],": Show website icons in RSS feed readers and content aggregators"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Social media"}],": Display website icons in social media link previews and embeds"]}]]}]
+1b:["$","$L21",null,{}]
+1f:null

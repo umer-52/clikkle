@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+b:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+c:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+d:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+e:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+10:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+11:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T94f,---
+layout: article
+title: Content Delivery Network (CDN)
+description: Learn about Clikkle's CDN, designed to optimize content delivery with compression, and edge optimization for improved performance and reduced latency.
+---
+
+Clikkle's CDN (Content Delivery Network) is a globally distributed system designed to enhance the speed, reliability, and security of your application's content delivery. With points of presence (PoPs) in over 120 cities worldwide, the CDN ensures low latency and consistent performance for users, no matter their location.
+
+{% only_dark %}
+![PoPs map](/clikkle/images/docs/network/dark/pops-map.png)
+{% /only_dark %}
+{% only_light %}
+![PoPs map](/clikkle/images/docs/network/pops-map.png)
+{% /only_light %}
+
+# Key features {% #key-features %}
+
+- Global coverage: Fast access to content for users across continents through over 120 PoPs worldwide. Available on all projects.
+- Reduced latency: By caching static content at edge nodes, the CDN minimizes the distance between the user and the requested data, significantly reducing latency.
+- Dynamic content: The CDN supports both static and dynamic content delivery, seamlessly integrating with backend services hosted in Clikkle regions.
+- Content optimization: Clikkle's CDN uses advanced compression algorithms to reduce data transfer sizes, further improving delivery times.
+- High availability: Distributed edge nodes and redundant routing ensure that content remains accessible even during regional outages or high traffic loads.
+
+{% info title="Self-Hosting?" %}
+Clikkle's self-hosted setup is optimized for local content delivery in single-region environments. Cloud users benefit from the global CDN with 120+ points of presence worldwide. If your self-hosted deployment requires distributed CDN capabilities, please [contact us](/contact-us/enterprise) to discuss custom solutions.
+{% /info %}
+
+# Design {% #design %}
+
+- Caching strategy: Configurable cache policies for control over TTL and content invalidation.
+- Secure delivery: All content is transmitted over TLS for secure, encrypted connections.
+- Integration: The CDN works seamlessly with the Clikkle edges and backend regions, providing a unified experience for developers.
+
+By combining global caching, smart routing, and content optimization, the Clikkle CDN is built to handle the demands of modern, high-performance applications.
+
+4:T94f,---
+layout: article
+title: Content Delivery Network (CDN)
+description: Learn about Clikkle's CDN, designed to optimize content delivery with compression, and edge optimization for improved performance and reduced latency.
+---
+
+Clikkle's CDN (Content Delivery Network) is a globally distributed system designed to enhance the speed, reliability, and security of your application's content delivery. With points of presence (PoPs) in over 120 cities worldwide, the CDN ensures low latency and consistent performance for users, no matter their location.
+
+{% only_dark %}
+![PoPs map](/clikkle/images/docs/network/dark/pops-map.png)
+{% /only_dark %}
+{% only_light %}
+![PoPs map](/clikkle/images/docs/network/pops-map.png)
+{% /only_light %}
+
+# Key features {% #key-features %}
+
+- Global coverage: Fast access to content for users across continents through over 120 PoPs worldwide. Available on all projects.
+- Reduced latency: By caching static content at edge nodes, the CDN minimizes the distance between the user and the requested data, significantly reducing latency.
+- Dynamic content: The CDN supports both static and dynamic content delivery, seamlessly integrating with backend services hosted in Clikkle regions.
+- Content optimization: Clikkle's CDN uses advanced compression algorithms to reduce data transfer sizes, further improving delivery times.
+- High availability: Distributed edge nodes and redundant routing ensure that content remains accessible even during regional outages or high traffic loads.
+
+{% info title="Self-Hosting?" %}
+Clikkle's self-hosted setup is optimized for local content delivery in single-region environments. Cloud users benefit from the global CDN with 120+ points of presence worldwide. If your self-hosted deployment requires distributed CDN capabilities, please [contact us](/contact-us/enterprise) to discuss custom solutions.
+{% /info %}
+
+# Design {% #design %}
+
+- Caching strategy: Configurable cache policies for control over TTL and content invalidation.
+- Secure delivery: All content is transmitted over TLS for secure, encrypted connections.
+- Integration: The CDN works seamlessly with the Clikkle edges and backend regions, providing a unified experience for developers.
+
+By combining global caching, smart routing, and content optimization, the Clikkle CDN is built to handle the demands of modern, high-performance applications.
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Content Delivery Network (CDN)"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$4","className":"ml-0"}]}]]}]]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+5:["$","$Lb",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Lc",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's CDN (Content Delivery Network) is a globally distributed system designed to enhance the speed, reliability, and security of your application's content delivery. With points of presence (PoPs) in over 120 cities worldwide, the CDN ensures low latency and consistent performance for users, no matter their location."}],["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/network/dark/pops-map.png","alt":"PoPs map","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/network/pops-map.png","alt":"PoPs map","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}],["$","$Ld",null,{"id":"key-features","level":1,"children":"Key features "}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Global coverage: Fast access to content for users across continents through over 120 PoPs worldwide. Available on all projects."}],["$","li",null,{"children":"Reduced latency: By caching static content at edge nodes, the CDN minimizes the distance between the user and the requested data, significantly reducing latency."}],["$","li",null,{"children":"Dynamic content: The CDN supports both static and dynamic content delivery, seamlessly integrating with backend services hosted in Clikkle regions."}],["$","li",null,{"children":"Content optimization: Clikkle's CDN uses advanced compression algorithms to reduce data transfer sizes, further improving delivery times."}],["$","li",null,{"children":"High availability: Distributed edge nodes and redundant routing ensure that content remains accessible even during regional outages or high traffic loads."}]]}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Self-Hosting?"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle's self-hosted setup is optimized for local content delivery in single-region environments. Cloud users benefit from the global CDN with 120+ points of presence worldwide. If your self-hosted deployment requires distributed CDN capabilities, please ",["$","$Le",null,{"href":"/contact-us/enterprise","children":"contact us"}]," to discuss custom solutions."]}]]}],["$","$Ld",null,{"id":"design","level":1,"children":"Design "}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Caching strategy: Configurable cache policies for control over TTL and content invalidation."}],["$","li",null,{"children":"Secure delivery: All content is transmitted over TLS for secure, encrypted connections."}],["$","li",null,{"children":"Integration: The CDN works seamlessly with the Clikkle edges and backend regions, providing a unified experience for developers."}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"By combining global caching, smart routing, and content optimization, the Clikkle CDN is built to handle the demands of modern, high-performance applications."}]]}]}]]}],"$Lf"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L10",null,{"items":[{"id":"key-features","title":"Key features","level":1},{"id":"design","title":"Design","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+f:["$","$L14",null,{}]
+13:null

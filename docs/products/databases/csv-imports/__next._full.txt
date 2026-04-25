@@ -1,0 +1,400 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+e:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","databases","csv-imports"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/databases/csv-imports","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}],"$L7","$L8"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf","$L10","$L11","$L12","$L13","$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+15:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+16:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+17:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+19:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+1f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+8:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L15",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+9:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L16",null,{"children":["$","$L17",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L18",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+1c:[]
+c:"$W1c"
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L20"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+21:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+22:T19b8,﻿---
+layout: article
+title: CSV imports
+description: Master row imports with Clikkle's CSV Import feature. Learn how to create rows within your tables by uploading a CSV file.
+---
+
+Clikkle's CSV Import feature allows you to create multiple rows in a table by uploading a single CSV file. This is especially useful for importing existing data, seeding test environments, or migrating from other systems.
+
+This feature is available in both Clikkle Cloud and the self-hosted version.
+
+# Prepare your table {% #prepare-table %}
+
+To get started, create a table in your database and define its columns. Your CSV file must match the structure of this table. All required columns must be present in the CSV. Each row is validated before being imported.
+
+Each column in the CSV should map to a column key in your table, and each row should represent a new row.
+
+{% info title="Good to know" %}
+You can optionally include the `$id` column to define custom row IDs. If not provided, Clikkle will generate unique IDs for each row automatically.
+
+Clikkle imports rows in batches of 100 rows at a time. If a provided ID already exists in the table, the entire batch containing that row will fail, but rows in other batches will continue to be imported successfully.
+{% /info %}
+
+An example of a valid CSV file for a table with the following columns:
+- `title` (string)
+- `author` (string)
+- `year` (integer)
+- `available` (boolean)
+
+```text
+$id,title,author,year,available
+f3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true
+mz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,true
+x0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,false
+```
+
+# Empty values {% #empty-values %}
+
+Different column types handle empty values differently:
+
+- **Text columns (varchar, text, mediumtext, longtext):** Empty values are interpreted as empty strings. To add null values to a text column, use the value `null` without quotes.
+- **Integer columns:** Empty values are interpreted as `null`.
+- **Boolean columns:** Empty values are interpreted as `null`.
+- **Array of any type:** Empty values are interpreted as empty arrays.
+
+# Create and update timestamps {% #created-at-and-updated-at %}
+
+You can also optionally include `$createdAt` and `$updatedAt` columns to set custom timestamps for imported rows. If omitted, Clikkle sets these automatically during import.
+
+An example of a valid CSV file with `$createdAt` and `$updatedAt` timestamps:
+
+```text
+$id,$createdAt,$updatedAt,title,author,year,available
+f3k91x8b2q,2025-08-10T12:34:56.000Z,2025-08-10T12:34:56.000Z,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true
+mz7lq3dp5c,2025-08-11T09:15:00.000Z,2025-08-11T10:00:00.000Z,The Fellowship of the Ring,J.R.R. Tolkien,1954,true
+x0v4p8ncq2,2025-08-12T08:00:00.000Z,2025-08-12T08:30:00.000Z,To Kill a Mockingbird,Harper Lee,1960,false
+```
+
+{% info title="Timestamps format" %}
+`$createdAt` and `$updatedAt` must be valid ISO 8601 date-time strings, for example: `2025-08-10T12:34:56.000Z`.
+{% /info %}
+
+# Arrays {% #arrays %}
+
+You can also include data for array columns in your CSV file. For any column configured as an array, you can include a comma-separated list of values within double quotes (`"one,two"`).
+
+An example of a valid CSV file with an array column:
+
+```text
+$id,title,author,year,available,categories
+f3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true,"fiction,fantasy"
+mz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,true,"fiction,fantasy"
+x0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,false,"fiction,nonfiction"
+```
+
+# Relationships {% #relationships %}
+
+If you want to create relationships between rows in different tables, you can provide the `$id` of the related row in the related table.
+
+An example of a valid CSV file with relationships between tables where `related_id` is the `$id` of the related row in the related table:
+
+```text
+$id,title,author,year,related_id
+f3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,id_1
+mz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,id_2
+x0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,id_3
+```
+
+# Permissions {% #permissions %}
+
+You can set permissions for rows in your CSV file by adding data for the `$permissions` column. Make sure row-level security is enabled for your table.
+
+An example of a valid permissions string:
+
+```text
+"read(""any""),update(""users""),delete(""user:user_id"")"
+```
+
+The roles used are API strings that can be found in the [permissions documentation](/docs/apis/rest#roles).
+
+A full example of a valid CSV file with row permissions:
+
+```text
+name,$id,$permissions
+blog-post-1,post-1,"read(""any""),update(""user:user_id""),delete(""user:user_id"")"
+blog-post-2,post-2,"read(""guests""),update(""user:user_id"")"
+blog-post-3,post-3,"read(""users""),update(""user:user_id""),delete(""user:user_id"")"
+blog-post-4,post-4,"read(""any""),update(""team:team_id""),delete(""team:team_id"")"
+```
+
+# Special characters {% #special-characters %}
+
+If your CSV file contains characters like double quotes (`"`) or commas (`,`), you need to escape them. 
+
+## Comma
+
+There are different ways to escape commas based on different scenarios.
+
+- If your column type is a **text type** (varchar, text, mediumtext, or longtext), you can enclose the value in double quotes (`"comma,used,here"`).
+- If your column type is a **text type array** (varchar, text, mediumtext, or longtext), you need to escape double quotes within the array to use a comma (`"one,two,""comma,allowed,here"""`).
+
+
+## Double quotes
+
+If you want to add double quotes to a text column (varchar, text, mediumtext, or longtext), you need to escape them by doubling them (`""`), otherwise it will be treated as an array.
+
+# Import rows from the Console {% #import-console %}
+
+To import rows using the Clikkle Console:
+
+1. Go to your project -> Databases
+2. Navigate to your target Table
+3. Click on the **Import CSV** button in the action area
+4. Upload a new CSV file or choose an existing file from your Storage bucket
+
+{% only_dark %}
+![CSV import screen](/clikkle/images/docs/databases/dark/csv-import.png)
+{% /only_dark %}
+{% only_light %}
+![CSV import screen](/clikkle/images/docs/databases/csv-import.png)
+{% /only_light %}
+
+CSV imports run as background tasks. The Console displays a floating progress bar while the import is active.
+
+# Additional resources {% #additional-resources %}
+
+- [Clikkle CLI](/docs/command-line)
+- [Database Permissions](/docs/products/databases/permissions)
+- [Database API Reference](/docs/references/cloud/client-web/databases)
+
+18:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L21",null,{"markdown":"$22","className":"ml-0"}]}]]}],null,"$L23"]}],"$L24","$L25"]}]}]
+27:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+28:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+29:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+2a:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+53:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+26:T19b8,﻿---
+layout: article
+title: CSV imports
+description: Master row imports with Clikkle's CSV Import feature. Learn how to create rows within your tables by uploading a CSV file.
+---
+
+Clikkle's CSV Import feature allows you to create multiple rows in a table by uploading a single CSV file. This is especially useful for importing existing data, seeding test environments, or migrating from other systems.
+
+This feature is available in both Clikkle Cloud and the self-hosted version.
+
+# Prepare your table {% #prepare-table %}
+
+To get started, create a table in your database and define its columns. Your CSV file must match the structure of this table. All required columns must be present in the CSV. Each row is validated before being imported.
+
+Each column in the CSV should map to a column key in your table, and each row should represent a new row.
+
+{% info title="Good to know" %}
+You can optionally include the `$id` column to define custom row IDs. If not provided, Clikkle will generate unique IDs for each row automatically.
+
+Clikkle imports rows in batches of 100 rows at a time. If a provided ID already exists in the table, the entire batch containing that row will fail, but rows in other batches will continue to be imported successfully.
+{% /info %}
+
+An example of a valid CSV file for a table with the following columns:
+- `title` (string)
+- `author` (string)
+- `year` (integer)
+- `available` (boolean)
+
+```text
+$id,title,author,year,available
+f3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true
+mz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,true
+x0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,false
+```
+
+# Empty values {% #empty-values %}
+
+Different column types handle empty values differently:
+
+- **Text columns (varchar, text, mediumtext, longtext):** Empty values are interpreted as empty strings. To add null values to a text column, use the value `null` without quotes.
+- **Integer columns:** Empty values are interpreted as `null`.
+- **Boolean columns:** Empty values are interpreted as `null`.
+- **Array of any type:** Empty values are interpreted as empty arrays.
+
+# Create and update timestamps {% #created-at-and-updated-at %}
+
+You can also optionally include `$createdAt` and `$updatedAt` columns to set custom timestamps for imported rows. If omitted, Clikkle sets these automatically during import.
+
+An example of a valid CSV file with `$createdAt` and `$updatedAt` timestamps:
+
+```text
+$id,$createdAt,$updatedAt,title,author,year,available
+f3k91x8b2q,2025-08-10T12:34:56.000Z,2025-08-10T12:34:56.000Z,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true
+mz7lq3dp5c,2025-08-11T09:15:00.000Z,2025-08-11T10:00:00.000Z,The Fellowship of the Ring,J.R.R. Tolkien,1954,true
+x0v4p8ncq2,2025-08-12T08:00:00.000Z,2025-08-12T08:30:00.000Z,To Kill a Mockingbird,Harper Lee,1960,false
+```
+
+{% info title="Timestamps format" %}
+`$createdAt` and `$updatedAt` must be valid ISO 8601 date-time strings, for example: `2025-08-10T12:34:56.000Z`.
+{% /info %}
+
+# Arrays {% #arrays %}
+
+You can also include data for array columns in your CSV file. For any column configured as an array, you can include a comma-separated list of values within double quotes (`"one,two"`).
+
+An example of a valid CSV file with an array column:
+
+```text
+$id,title,author,year,available,categories
+f3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true,"fiction,fantasy"
+mz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,true,"fiction,fantasy"
+x0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,false,"fiction,nonfiction"
+```
+
+# Relationships {% #relationships %}
+
+If you want to create relationships between rows in different tables, you can provide the `$id` of the related row in the related table.
+
+An example of a valid CSV file with relationships between tables where `related_id` is the `$id` of the related row in the related table:
+
+```text
+$id,title,author,year,related_id
+f3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,id_1
+mz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,id_2
+x0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,id_3
+```
+
+# Permissions {% #permissions %}
+
+You can set permissions for rows in your CSV file by adding data for the `$permissions` column. Make sure row-level security is enabled for your table.
+
+An example of a valid permissions string:
+
+```text
+"read(""any""),update(""users""),delete(""user:user_id"")"
+```
+
+The roles used are API strings that can be found in the [permissions documentation](/docs/apis/rest#roles).
+
+A full example of a valid CSV file with row permissions:
+
+```text
+name,$id,$permissions
+blog-post-1,post-1,"read(""any""),update(""user:user_id""),delete(""user:user_id"")"
+blog-post-2,post-2,"read(""guests""),update(""user:user_id"")"
+blog-post-3,post-3,"read(""users""),update(""user:user_id""),delete(""user:user_id"")"
+blog-post-4,post-4,"read(""any""),update(""team:team_id""),delete(""team:team_id"")"
+```
+
+# Special characters {% #special-characters %}
+
+If your CSV file contains characters like double quotes (`"`) or commas (`,`), you need to escape them. 
+
+## Comma
+
+There are different ways to escape commas based on different scenarios.
+
+- If your column type is a **text type** (varchar, text, mediumtext, or longtext), you can enclose the value in double quotes (`"comma,used,here"`).
+- If your column type is a **text type array** (varchar, text, mediumtext, or longtext), you need to escape double quotes within the array to use a comma (`"one,two,""comma,allowed,here"""`).
+
+
+## Double quotes
+
+If you want to add double quotes to a text column (varchar, text, mediumtext, or longtext), you need to escape them by doubling them (`""`), otherwise it will be treated as an array.
+
+# Import rows from the Console {% #import-console %}
+
+To import rows using the Clikkle Console:
+
+1. Go to your project -> Databases
+2. Navigate to your target Table
+3. Click on the **Import CSV** button in the action area
+4. Upload a new CSV file or choose an existing file from your Storage bucket
+
+{% only_dark %}
+![CSV import screen](/clikkle/images/docs/databases/dark/csv-import.png)
+{% /only_dark %}
+{% only_light %}
+![CSV import screen](/clikkle/images/docs/databases/csv-import.png)
+{% /only_light %}
+
+CSV imports run as background tasks. The Console displays a floating progress bar while the import is active.
+
+# Additional resources {% #additional-resources %}
+
+- [Clikkle CLI](/docs/command-line)
+- [Database Permissions](/docs/products/databases/permissions)
+- [Database API Reference](/docs/references/cloud/client-web/databases)
+
+23:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"CSV imports"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L21",null,{"markdown":"$26","className":"ml-0"}]}]]}]
+24:["$","$L27",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L28",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle's CSV Import feature allows you to create multiple rows in a table by uploading a single CSV file. This is especially useful for importing existing data, seeding test environments, or migrating from other systems."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"This feature is available in both Clikkle Cloud and the self-hosted version."}],["$","$L29",null,{"id":"prepare-table","level":1,"children":"Prepare your table "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To get started, create a table in your database and define its columns. Your CSV file must match the structure of this table. All required columns must be present in the CSV. Each row is validated before being imported."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Each column in the CSV should map to a column key in your table, and each row should represent a new row."}],["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Good to know"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can optionally include the ",["$","code",null,{"children":"$$id"}]," column to define custom row IDs. If not provided, Clikkle will generate unique IDs for each row automatically."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle imports rows in batches of 100 rows at a time. If a provided ID already exists in the table, the entire batch containing that row will fail, but rows in other batches will continue to be imported successfully."}]]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"An example of a valid CSV file for a table with the following columns:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","code",null,{"children":"title"}]," (string)"]}],["$","li",null,{"children":[["$","code",null,{"children":"author"}]," (string)"]}],["$","li",null,{"children":[["$","code",null,{"children":"year"}]," (integer)"]}],["$","li",null,{"children":[["$","code",null,{"children":"available"}]," (boolean)"]}]]}],["$","$L2a",null,{"language":"text","content":"$$id,title,author,year,available\nf3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true\nmz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,true\nx0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,false\n","children":"$$id,title,author,year,available\nf3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true\nmz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,true\nx0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,false\n"}],["$","$L29",null,{"id":"empty-values","level":1,"children":"Empty values "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Different column types handle empty values differently:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"Text columns (varchar, text, mediumtext, longtext):"}]," Empty values are interpreted as empty strings. To add null values to a text column, use the value ","$L2b"," without quotes."]}],"$L2c","$L2d","$L2e"]}],"$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51"]}]}]]}],"$L52"]}]
+25:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L53",null,{"items":[{"id":"prepare-table","title":"Prepare your table","level":1},{"id":"empty-values","title":"Empty values","level":1},{"id":"created-at-and-updated-at","title":"Create and update timestamps","level":1},{"id":"arrays","title":"Arrays","level":1},{"id":"relationships","title":"Relationships","level":1},{"id":"permissions","title":"Permissions","level":1},{"id":"special-characters","title":"Special characters","level":1},{"id":"comma","title":"Comma","level":2},{"id":"double-quotes","title":"Double quotes","level":2},{"id":"import-console","title":"Import rows from the Console","level":1},{"id":"additional-resources","title":"Additional resources","level":1}]}]}]
+54:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2b:["$","code",null,{"children":"null"}]
+2c:["$","li",null,{"children":[["$","strong",null,{"children":"Integer columns:"}]," Empty values are interpreted as ",["$","code",null,{"children":"null"}],"."]}]
+2d:["$","li",null,{"children":[["$","strong",null,{"children":"Boolean columns:"}]," Empty values are interpreted as ",["$","code",null,{"children":"null"}],"."]}]
+2e:["$","li",null,{"children":[["$","strong",null,{"children":"Array of any type:"}]," Empty values are interpreted as empty arrays."]}]
+2f:["$","$L29",null,{"id":"created-at-and-updated-at","level":1,"children":"Create and update timestamps "}]
+30:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also optionally include ",["$","code",null,{"children":"$$createdAt"}]," and ",["$","code",null,{"children":"$$updatedAt"}]," columns to set custom timestamps for imported rows. If omitted, Clikkle sets these automatically during import."]}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["An example of a valid CSV file with ",["$","code",null,{"children":"$$createdAt"}]," and ",["$","code",null,{"children":"$$updatedAt"}]," timestamps:"]}]
+32:["$","$L2a",null,{"language":"text","content":"$$id,$createdAt,$updatedAt,title,author,year,available\nf3k91x8b2q,2025-08-10T12:34:56.000Z,2025-08-10T12:34:56.000Z,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true\nmz7lq3dp5c,2025-08-11T09:15:00.000Z,2025-08-11T10:00:00.000Z,The Fellowship of the Ring,J.R.R. Tolkien,1954,true\nx0v4p8ncq2,2025-08-12T08:00:00.000Z,2025-08-12T08:30:00.000Z,To Kill a Mockingbird,Harper Lee,1960,false\n","children":"$$id,$createdAt,$updatedAt,title,author,year,available\nf3k91x8b2q,2025-08-10T12:34:56.000Z,2025-08-10T12:34:56.000Z,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true\nmz7lq3dp5c,2025-08-11T09:15:00.000Z,2025-08-11T10:00:00.000Z,The Fellowship of the Ring,J.R.R. Tolkien,1954,true\nx0v4p8ncq2,2025-08-12T08:00:00.000Z,2025-08-12T08:30:00.000Z,To Kill a Mockingbird,Harper Lee,1960,false\n"}]
+33:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Timestamps format"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":[["$","code",null,{"children":"$$createdAt"}]," and ",["$","code",null,{"children":"$$updatedAt"}]," must be valid ISO 8601 date-time strings, for example: ",["$","code",null,{"children":"2025-08-10T12:34:56.000Z"}],"."]}]]}]
+34:["$","$L29",null,{"id":"arrays","level":1,"children":"Arrays "}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can also include data for array columns in your CSV file. For any column configured as an array, you can include a comma-separated list of values within double quotes (",["$","code",null,{"children":"\"one,two\""}],")."]}]
+36:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"An example of a valid CSV file with an array column:"}]
+37:["$","$L2a",null,{"language":"text","content":"$$id,title,author,year,available,categories\nf3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true,\"fiction,fantasy\"\nmz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,true,\"fiction,fantasy\"\nx0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,false,\"fiction,nonfiction\"\n","children":"$$id,title,author,year,available,categories\nf3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,true,\"fiction,fantasy\"\nmz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,true,\"fiction,fantasy\"\nx0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,false,\"fiction,nonfiction\"\n"}]
+38:["$","$L29",null,{"id":"relationships","level":1,"children":"Relationships "}]
+39:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you want to create relationships between rows in different tables, you can provide the ",["$","code",null,{"children":"$$id"}]," of the related row in the related table."]}]
+3a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["An example of a valid CSV file with relationships between tables where ",["$","code",null,{"children":"related_id"}]," is the ",["$","code",null,{"children":"$$id"}]," of the related row in the related table:"]}]
+3b:["$","$L2a",null,{"language":"text","content":"$$id,title,author,year,related_id\nf3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,id_1\nmz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,id_2\nx0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,id_3\n","children":"$$id,title,author,year,related_id\nf3k91x8b2q,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,id_1\nmz7lq3dp5c,The Fellowship of the Ring,J.R.R. Tolkien,1954,id_2\nx0v4p8ncq2,To Kill a Mockingbird,Harper Lee,1960,id_3\n"}]
+3c:["$","$L29",null,{"id":"permissions","level":1,"children":"Permissions "}]
+3d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can set permissions for rows in your CSV file by adding data for the ",["$","code",null,{"children":"$$permissions"}]," column. Make sure row-level security is enabled for your table."]}]
+3e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"An example of a valid permissions string:"}]
+3f:["$","$L2a",null,{"language":"text","content":"\"read(\"\"any\"\"),update(\"\"users\"\"),delete(\"\"user:user_id\"\")\"\n","children":"\"read(\"\"any\"\"),update(\"\"users\"\"),delete(\"\"user:user_id\"\")\"\n"}]
+40:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The roles used are API strings that can be found in the ",["$","$L15",null,{"href":"/docs/apis/rest#roles","children":"permissions documentation"}],"."]}]
+41:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"A full example of a valid CSV file with row permissions:"}]
+42:["$","$L2a",null,{"language":"text","content":"name,$id,$permissions\nblog-post-1,post-1,\"read(\"\"any\"\"),update(\"\"user:user_id\"\"),delete(\"\"user:user_id\"\")\"\nblog-post-2,post-2,\"read(\"\"guests\"\"),update(\"\"user:user_id\"\")\"\nblog-post-3,post-3,\"read(\"\"users\"\"),update(\"\"user:user_id\"\"),delete(\"\"user:user_id\"\")\"\nblog-post-4,post-4,\"read(\"\"any\"\"),update(\"\"team:team_id\"\"),delete(\"\"team:team_id\"\")\"\n","children":"name,$id,$permissions\nblog-post-1,post-1,\"read(\"\"any\"\"),update(\"\"user:user_id\"\"),delete(\"\"user:user_id\"\")\"\nblog-post-2,post-2,\"read(\"\"guests\"\"),update(\"\"user:user_id\"\")\"\nblog-post-3,post-3,\"read(\"\"users\"\"),update(\"\"user:user_id\"\"),delete(\"\"user:user_id\"\")\"\nblog-post-4,post-4,\"read(\"\"any\"\"),update(\"\"team:team_id\"\"),delete(\"\"team:team_id\"\")\"\n"}]
+43:["$","$L29",null,{"id":"special-characters","level":1,"children":"Special characters "}]
+44:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If your CSV file contains characters like double quotes (",["$","code",null,{"children":"\""}],") or commas (",["$","code",null,{"children":","}],"), you need to escape them."]}]
+45:["$","$L29",null,{"level":2,"children":"Comma"}]
+46:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"There are different ways to escape commas based on different scenarios."}]
+47:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["If your column type is a ",["$","strong",null,{"children":"text type"}]," (varchar, text, mediumtext, or longtext), you can enclose the value in double quotes (",["$","code",null,{"children":"\"comma,used,here\""}],")."]}],["$","li",null,{"children":["If your column type is a ",["$","strong",null,{"children":"text type array"}]," (varchar, text, mediumtext, or longtext), you need to escape double quotes within the array to use a comma (",["$","code",null,{"children":"\"one,two,\"\"comma,allowed,here\"\"\""}],")."]}]]}]
+48:["$","$L29",null,{"level":2,"children":"Double quotes"}]
+49:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you want to add double quotes to a text column (varchar, text, mediumtext, or longtext), you need to escape them by doubling them (",["$","code",null,{"children":"\"\""}],"), otherwise it will be treated as an array."]}]
+4a:["$","$L29",null,{"id":"import-console","level":1,"children":"Import rows from the Console "}]
+4b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To import rows using the Clikkle Console:"}]
+4c:["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":"Go to your project -> Databases"}],["$","li",null,{"children":"Navigate to your target Table"}],["$","li",null,{"children":["Click on the ",["$","strong",null,{"children":"Import CSV"}]," button in the action area"]}],["$","li",null,{"children":"Upload a new CSV file or choose an existing file from your Storage bucket"}]]}]
+4d:["$","span",null,{"className":"web-u-only-dark","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/dark/csv-import.png","alt":"CSV import screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+4e:["$","span",null,{"className":"web-u-only-light","children":["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","span",null,{"className":"web-media relative my-8 block","children":["$","img",null,{"src":"/clikkle/images/docs/databases/csv-import.png","alt":"CSV import screen","className":"aspect-video w-full object-cover","decoding":"async","loading":"lazy"}]}]}]}]
+4f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"CSV imports run as background tasks. The Console displays a floating progress bar while the import is active."}]
+50:["$","$L29",null,{"id":"additional-resources","level":1,"children":"Additional resources "}]
+51:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":["$","$L15",null,{"href":"/docs/command-line","children":"Clikkle CLI"}]}],["$","li",null,{"children":["$","$L15",null,{"href":"/docs/products/databases/permissions","children":"Database Permissions"}]}],["$","li",null,{"children":["$","$L15",null,{"href":"/docs/references/cloud/client-web/databases","children":"Database API Reference"}]}]]}]
+52:["$","$L54",null,{"date":"$undefined"}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+55:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1b:null
+20:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L55","13",{}]]

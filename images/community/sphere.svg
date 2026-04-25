@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="704" height="670" viewBox="0 0 704 670" fill="none" aria-hidden="true">
+  <defs>
+    <radialGradient id="sphere-body" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(280 220) rotate(78) scale(420 400)">
+      <stop offset="0%" stop-color="#5B8CFF"/>
+      <stop offset="35%" stop-color="#2D63FF"/>
+      <stop offset="62%" stop-color="#1E4FD4"/>
+      <stop offset="100%" stop-color="#0F2A6E"/>
+    </radialGradient>
+    <radialGradient id="sphere-highlight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 180) rotate(55) scale(280 260)">
+      <stop offset="0%" stop-color="#E8F4FF" stop-opacity="0.95"/>
+      <stop offset="25%" stop-color="#A8CCFF" stop-opacity="0.45"/>
+      <stop offset="55%" stop-color="#2D63FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sphere-cyan-rim" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(420 380) rotate(-35) scale(340 320)">
+      <stop offset="0%" stop-color="#85DBD8" stop-opacity="0.55"/>
+      <stop offset="40%" stop-color="#2D63FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0F2A6E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sphere-shadow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(352 520) scale(320 120)">
+      <stop offset="0%" stop-color="#000814" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#000814" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="352" cy="598" rx="220" ry="36" fill="url(#sphere-shadow)"/>
+  <circle cx="352" cy="310" r="268" fill="url(#sphere-body)"/>
+  <circle cx="352" cy="310" r="268" fill="url(#sphere-cyan-rim)"/>
+  <circle cx="352" cy="310" r="268" fill="url(#sphere-highlight)"/>
+</svg>

@@ -1,0 +1,918 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+e:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","products","auth","multi-tenancy"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","products/auth/multi-tenancy","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404",["$","span",null,{"className":"text-accent","children":"_"}]]}],["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}],"$L7","$L8"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$L9",{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf","$L10","$L11","$L12","$L13","$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+15:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+16:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+17:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+19:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1d:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+1f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+8:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L15",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+9:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L16",null,{"children":["$","$L17",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":["$L18",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+1c:[]
+c:"$W1c"
+d:["$","$1","h",{"children":[null,["$","$L1d",null,{"children":"$L1e"}],["$","div",null,{"hidden":true,"children":["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L20"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+21:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+22:T2d11,﻿---
+layout: article
+title: Multi-tenancy with Teams
+description: Learn how to implement multi-tenancy in your applications using Clikkle Teams.
+---
+
+Clikkle Teams provides an effective way to implement multi-tenancy in your applications. Create a team for each tenant to handle multi-tenant apps with built-in data isolation.
+
+{% arrow_link href="/docs/products/auth/teams" %}
+Learn more about Teams
+{% /arrow_link %}
+
+# What is multi-tenancy?
+
+Multi-tenancy is a design pattern where a single instance of software serves multiple user groups (tenants). With Clikkle Teams, you can:
+
+- Create a team for each tenant in your application
+- Control access to resources using team-based permissions
+- Define different roles within each tenant
+- Scale to unlimited tenants without code changes
+
+# Common use cases
+
+- **SaaS applications**: Organizations that need isolated data and users
+- **Collaborative tools**: Projects with different access levels
+- **Educational platforms**: Schools with teachers and students
+- **Business software**: Companies with department-based access control
+
+# Create teams for tenants
+
+When a new tenant signs up, create a dedicated team that serves as their isolated environment.
+
+{% multicode %}
+```client-web
+import { Client, Teams, ID } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const teams = new Teams(client);
+
+// Create team for a new tenant
+const tenantTeam = await teams.create(
+    'example_corp', // Team ID for tenant
+    'Example Corp',   // Tenant name
+    ['owner', 'admin', 'member'] // Tenant roles
+);
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final teams = Teams(client);
+
+// Create team for a new tenant
+final tenantTeam = await teams.create(
+    teamId: 'example_corp', // Team ID for tenant
+    name: 'Example Corp',   // Tenant name
+    roles: ['owner', 'admin', 'member'] // Tenant roles
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let teams = Teams(client)
+
+// Create team for a new tenant
+let tenantTeam = try await teams.create(
+    teamId: "example_corp", // Team ID for tenant
+    name: "Example Corp",   // Tenant name
+    roles: ["owner", "admin", "member"] // Tenant roles
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.ID
+import io.clikkle.services.Teams
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val teams = Teams(client)
+
+// Create team for a new tenant
+val tenantTeam = teams.create(
+    teamId = "example_corp", // Team ID for tenant
+    name = "Example Corp",   // Tenant name
+    roles = listOf("owner", "admin", "member") // Tenant roles
+)
+```
+{% /multicode %}
+
+# Add members to tenants
+
+Invite users to join a tenant using team memberships. Each member can be assigned different roles for access control.
+
+{% multicode %}
+```client-web
+import { Client, Teams } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const teams = new Teams(client);
+
+// Invite a member to the tenant
+const membership = await teams.createMembership(
+    'example_corp',      // Team/tenant ID
+    ['admin'],           // Member's role in the tenant
+    'user@example.com',  // User's email
+    undefined,           // userId (optional)
+    undefined,           // phone (optional)
+    'https://example.com/accept-invite' // Redirect URL after accepting
+);
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final teams = Teams(client);
+
+// Invite a member to the tenant
+final membership = await teams.createMembership(
+    teamId: 'example_corp',   // Team/tenant ID
+    roles: ['admin'],         // Member's role in the tenant
+    email: 'user@example.com', // User's email
+    url: 'https://example.com/accept-invite' // Redirect URL after accepting
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let teams = Teams(client)
+
+// Invite a member to the tenant
+let membership = try await teams.createMembership(
+    teamId: "example_corp",    // Team/tenant ID
+    roles: ["admin"],          // Member's role in the tenant
+    email: "user@example.com", // User's email
+    url: "https://example.com/accept-invite" // Redirect URL after accepting
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Teams
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val teams = Teams(client)
+
+// Invite a member to the tenant
+val membership = teams.createMembership(
+    teamId = "example_corp",    // Team/tenant ID
+    roles = listOf("admin"),    // Member's role in the tenant
+    email = "user@example.com", // User's email
+    url = "https://example.com/accept-invite" // Redirect URL after accepting
+)
+```
+{% /multicode %}
+
+# Secure resources with team permissions
+
+Control access to rows and resources using team-based permissions. This ensures data isolation between tenants.
+
+{% multicode %}
+```client-web
+import { Client, TablesDB, ID, Permission, Role } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+// Create a row that only members of "Example Corp" tenant can access
+const row = await tablesDB.createRow(
+    'invoices_db',
+    'invoices',
+    ID.unique(),
+    {
+        title: 'Q2 Invoice',
+        amount: 2500.00,
+        customer: 'Example Customer',
+        status: 'pending',
+        tenant_id: 'example_corp'
+    },
+    [
+        // All Example Corp team members can read
+        Permission.read(Role.team('example_corp')),
+
+        // Only admins can update
+        Permission.write(Role.team('example_corp', ['admin']))
+    ]
+);
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+// Create a row that only members of "Example Corp" tenant can access
+final row = await tablesDB.createRow(
+    databaseId: 'invoices_db',
+    tableId: 'invoices',
+    rowId: ID.unique(),
+    data: {
+        'title': 'Q2 Invoice',
+        'amount': 2500.00,
+        'customer': 'Example Customer',
+        'status': 'pending',
+        'tenant_id': 'example_corp'
+    },
+    permissions: [
+        // All Example Corp team members can read
+        Permission.read(Role.team('example_corp')),
+
+        // Only admins can update
+        Permission.write(Role.team('example_corp', ['admin']))
+    ]
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+// Create a row that only members of "Example Corp" tenant can access
+let row = try await tablesDB.createRow(
+    databaseId: "invoices_db",
+    tableId: "invoices",
+    rowId: ID.unique(),
+    data: [
+        "title": "Q2 Invoice",
+        "amount": 2500.00,
+        "customer": "Example Customer",
+        "status": "pending",
+        "tenant_id": "example_corp"
+    ],
+    permissions: [
+        // All Example Corp team members can read
+        Permission.read(Role.team("example_corp")),
+
+        // Only admins can update
+        Permission.write(Role.team("example_corp", ["admin"]))
+    ]
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.ID
+import io.clikkle.services.TablesDB
+import io.clikkle.models.Permission
+import io.clikkle.models.Role
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+// Create a row that only members of "Example Corp" tenant can access
+val row = tablesDB.createRow(
+    databaseId = "invoices_db",
+    tableId = "invoices",
+    rowId = ID.unique(),
+    data = mapOf(
+        "title" to "Q2 Invoice",
+        "amount" to 2500.00,
+        "customer" to "Example Customer",
+        "status" to "pending",
+        "tenant_id" to "example_corp"
+    ),
+    permissions = listOf(
+        // All Example Corp team members can read
+        Permission.read(Role.team("example_corp")),
+
+        // Only admins can update
+        Permission.write(Role.team("example_corp", listOf("admin")))
+    )
+)
+```
+{% /multicode %}
+
+# Query tenant data
+
+When querying data, users will automatically only see rows they have permission to access based on their team memberships.
+
+{% multicode %}
+```client-web
+import { Client, TablesDB, Query } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+// Current user will only see invoices they have access to
+const rows = await tablesDB.listRows(
+    'invoices_db',
+    'invoices'
+);
+
+// For specific tenant data, you can add a query filter
+const tenantDocuments = await tablesDB.listRows(
+    'invoices_db',
+    'invoices',
+    [
+        Query.equal('tenant_id', 'example_corp')
+    ]
+);
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+// Current user will only see invoices they have access to
+final rows = await tablesDB.listRows(
+    databaseId: 'invoices_db',
+    tableId: 'invoices',
+);
+
+// For specific tenant data, you can add a query filter
+final tenantDocuments = await tablesDB.listRows(
+    databaseId: 'invoices_db',
+    tableId: 'invoices',
+    queries: [
+        Query.equal('tenant_id', 'example_corp')
+    ]
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+// Current user will only see invoices they have access to
+let rows = try await tablesDB.listRows(
+    databaseId: "invoices_db",
+    tableId: "invoices"
+)
+
+// For specific tenant data, you can add a query filter
+let tenantDocuments = try await tablesDB.listRows(
+    databaseId: "invoices_db",
+    tableId: "invoices",
+    queries: [
+        Query.equal(key: "tenant_id", value: "example_corp")
+    ]
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Query
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+// Current user will only see invoices they have access to
+val rows = tablesDB.listRows(
+    databaseId = "invoices_db",
+    tableId = "invoices"
+)
+
+// For specific tenant data, you can add a query filter
+val tenantDocuments = tablesDB.listRows(
+    databaseId = "invoices_db",
+    tableId = "invoices",
+    queries = listOf(
+        Query.equal("tenant_id", "example_corp")
+    )
+)
+```
+{% /multicode %}
+
+{% arrow_link href="/docs/products/auth/team-invites" %}
+Learn how to manage team invitations
+{% /arrow_link %}
+
+18:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L21",null,{"markdown":"$22","className":"ml-0"}]}]]}],null,"$L23"]}],"$L24","$L25"]}]}]
+27:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+28:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+29:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+2a:I[155313,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MultiCode"]
+2b:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+39:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+26:T2d11,﻿---
+layout: article
+title: Multi-tenancy with Teams
+description: Learn how to implement multi-tenancy in your applications using Clikkle Teams.
+---
+
+Clikkle Teams provides an effective way to implement multi-tenancy in your applications. Create a team for each tenant to handle multi-tenant apps with built-in data isolation.
+
+{% arrow_link href="/docs/products/auth/teams" %}
+Learn more about Teams
+{% /arrow_link %}
+
+# What is multi-tenancy?
+
+Multi-tenancy is a design pattern where a single instance of software serves multiple user groups (tenants). With Clikkle Teams, you can:
+
+- Create a team for each tenant in your application
+- Control access to resources using team-based permissions
+- Define different roles within each tenant
+- Scale to unlimited tenants without code changes
+
+# Common use cases
+
+- **SaaS applications**: Organizations that need isolated data and users
+- **Collaborative tools**: Projects with different access levels
+- **Educational platforms**: Schools with teachers and students
+- **Business software**: Companies with department-based access control
+
+# Create teams for tenants
+
+When a new tenant signs up, create a dedicated team that serves as their isolated environment.
+
+{% multicode %}
+```client-web
+import { Client, Teams, ID } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const teams = new Teams(client);
+
+// Create team for a new tenant
+const tenantTeam = await teams.create(
+    'example_corp', // Team ID for tenant
+    'Example Corp',   // Tenant name
+    ['owner', 'admin', 'member'] // Tenant roles
+);
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final teams = Teams(client);
+
+// Create team for a new tenant
+final tenantTeam = await teams.create(
+    teamId: 'example_corp', // Team ID for tenant
+    name: 'Example Corp',   // Tenant name
+    roles: ['owner', 'admin', 'member'] // Tenant roles
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let teams = Teams(client)
+
+// Create team for a new tenant
+let tenantTeam = try await teams.create(
+    teamId: "example_corp", // Team ID for tenant
+    name: "Example Corp",   // Tenant name
+    roles: ["owner", "admin", "member"] // Tenant roles
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.ID
+import io.clikkle.services.Teams
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val teams = Teams(client)
+
+// Create team for a new tenant
+val tenantTeam = teams.create(
+    teamId = "example_corp", // Team ID for tenant
+    name = "Example Corp",   // Tenant name
+    roles = listOf("owner", "admin", "member") // Tenant roles
+)
+```
+{% /multicode %}
+
+# Add members to tenants
+
+Invite users to join a tenant using team memberships. Each member can be assigned different roles for access control.
+
+{% multicode %}
+```client-web
+import { Client, Teams } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const teams = new Teams(client);
+
+// Invite a member to the tenant
+const membership = await teams.createMembership(
+    'example_corp',      // Team/tenant ID
+    ['admin'],           // Member's role in the tenant
+    'user@example.com',  // User's email
+    undefined,           // userId (optional)
+    undefined,           // phone (optional)
+    'https://example.com/accept-invite' // Redirect URL after accepting
+);
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final teams = Teams(client);
+
+// Invite a member to the tenant
+final membership = await teams.createMembership(
+    teamId: 'example_corp',   // Team/tenant ID
+    roles: ['admin'],         // Member's role in the tenant
+    email: 'user@example.com', // User's email
+    url: 'https://example.com/accept-invite' // Redirect URL after accepting
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let teams = Teams(client)
+
+// Invite a member to the tenant
+let membership = try await teams.createMembership(
+    teamId: "example_corp",    // Team/tenant ID
+    roles: ["admin"],          // Member's role in the tenant
+    email: "user@example.com", // User's email
+    url: "https://example.com/accept-invite" // Redirect URL after accepting
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.Teams
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val teams = Teams(client)
+
+// Invite a member to the tenant
+val membership = teams.createMembership(
+    teamId = "example_corp",    // Team/tenant ID
+    roles = listOf("admin"),    // Member's role in the tenant
+    email = "user@example.com", // User's email
+    url = "https://example.com/accept-invite" // Redirect URL after accepting
+)
+```
+{% /multicode %}
+
+# Secure resources with team permissions
+
+Control access to rows and resources using team-based permissions. This ensures data isolation between tenants.
+
+{% multicode %}
+```client-web
+import { Client, TablesDB, ID, Permission, Role } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+// Create a row that only members of "Example Corp" tenant can access
+const row = await tablesDB.createRow(
+    'invoices_db',
+    'invoices',
+    ID.unique(),
+    {
+        title: 'Q2 Invoice',
+        amount: 2500.00,
+        customer: 'Example Customer',
+        status: 'pending',
+        tenant_id: 'example_corp'
+    },
+    [
+        // All Example Corp team members can read
+        Permission.read(Role.team('example_corp')),
+
+        // Only admins can update
+        Permission.write(Role.team('example_corp', ['admin']))
+    ]
+);
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+// Create a row that only members of "Example Corp" tenant can access
+final row = await tablesDB.createRow(
+    databaseId: 'invoices_db',
+    tableId: 'invoices',
+    rowId: ID.unique(),
+    data: {
+        'title': 'Q2 Invoice',
+        'amount': 2500.00,
+        'customer': 'Example Customer',
+        'status': 'pending',
+        'tenant_id': 'example_corp'
+    },
+    permissions: [
+        // All Example Corp team members can read
+        Permission.read(Role.team('example_corp')),
+
+        // Only admins can update
+        Permission.write(Role.team('example_corp', ['admin']))
+    ]
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+// Create a row that only members of "Example Corp" tenant can access
+let row = try await tablesDB.createRow(
+    databaseId: "invoices_db",
+    tableId: "invoices",
+    rowId: ID.unique(),
+    data: [
+        "title": "Q2 Invoice",
+        "amount": 2500.00,
+        "customer": "Example Customer",
+        "status": "pending",
+        "tenant_id": "example_corp"
+    ],
+    permissions: [
+        // All Example Corp team members can read
+        Permission.read(Role.team("example_corp")),
+
+        // Only admins can update
+        Permission.write(Role.team("example_corp", ["admin"]))
+    ]
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.ID
+import io.clikkle.services.TablesDB
+import io.clikkle.models.Permission
+import io.clikkle.models.Role
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+// Create a row that only members of "Example Corp" tenant can access
+val row = tablesDB.createRow(
+    databaseId = "invoices_db",
+    tableId = "invoices",
+    rowId = ID.unique(),
+    data = mapOf(
+        "title" to "Q2 Invoice",
+        "amount" to 2500.00,
+        "customer" to "Example Customer",
+        "status" to "pending",
+        "tenant_id" to "example_corp"
+    ),
+    permissions = listOf(
+        // All Example Corp team members can read
+        Permission.read(Role.team("example_corp")),
+
+        // Only admins can update
+        Permission.write(Role.team("example_corp", listOf("admin")))
+    )
+)
+```
+{% /multicode %}
+
+# Query tenant data
+
+When querying data, users will automatically only see rows they have permission to access based on their team memberships.
+
+{% multicode %}
+```client-web
+import { Client, TablesDB, Query } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+const tablesDB = new TablesDB(client);
+
+// Current user will only see invoices they have access to
+const rows = await tablesDB.listRows(
+    'invoices_db',
+    'invoices'
+);
+
+// For specific tenant data, you can add a query filter
+const tenantDocuments = await tablesDB.listRows(
+    'invoices_db',
+    'invoices',
+    [
+        Query.equal('tenant_id', 'example_corp')
+    ]
+);
+```
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>');
+
+final tablesDB = TablesDB(client);
+
+// Current user will only see invoices they have access to
+final rows = await tablesDB.listRows(
+    databaseId: 'invoices_db',
+    tableId: 'invoices',
+);
+
+// For specific tenant data, you can add a query filter
+final tenantDocuments = await tablesDB.listRows(
+    databaseId: 'invoices_db',
+    tableId: 'invoices',
+    queries: [
+        Query.equal('tenant_id', 'example_corp')
+    ]
+);
+```
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+let tablesDB = TablesDB(client)
+
+// Current user will only see invoices they have access to
+let rows = try await tablesDB.listRows(
+    databaseId: "invoices_db",
+    tableId: "invoices"
+)
+
+// For specific tenant data, you can add a query filter
+let tenantDocuments = try await tablesDB.listRows(
+    databaseId: "invoices_db",
+    tableId: "invoices",
+    queries: [
+        Query.equal(key: "tenant_id", value: "example_corp")
+    ]
+)
+```
+```client-android-kotlin
+import io.clikkle.Client
+import io.clikkle.services.TablesDB
+import io.clikkle.Query
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<PROJECT_ID>")
+
+val tablesDB = TablesDB(client)
+
+// Current user will only see invoices they have access to
+val rows = tablesDB.listRows(
+    databaseId = "invoices_db",
+    tableId = "invoices"
+)
+
+// For specific tenant data, you can add a query filter
+val tenantDocuments = tablesDB.listRows(
+    databaseId = "invoices_db",
+    tableId = "invoices",
+    queries = listOf(
+        Query.equal("tenant_id", "example_corp")
+    )
+)
+```
+{% /multicode %}
+
+{% arrow_link href="/docs/products/auth/team-invites" %}
+Learn how to manage team invitations
+{% /arrow_link %}
+
+23:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Multi-tenancy with Teams"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L21",null,{"markdown":"$26","className":"ml-0"}]}]]}]
+24:["$","$L27",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L28",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Clikkle Teams provides an effective way to implement multi-tenancy in your applications. Create a team for each tenant to handle multi-tenant apps with built-in data isolation."}],["$","$L15",null,{"href":"/docs/products/auth/teams","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn more about Teams"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}],["$","$L29",null,{"level":1,"children":"What is multi-tenancy?"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Multi-tenancy is a design pattern where a single instance of software serves multiple user groups (tenants). With Clikkle Teams, you can:"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Create a team for each tenant in your application"}],["$","li",null,{"children":"Control access to resources using team-based permissions"}],["$","li",null,{"children":"Define different roles within each tenant"}],["$","li",null,{"children":"Scale to unlimited tenants without code changes"}]]}],["$","$L29",null,{"level":1,"children":"Common use cases"}],["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":[["$","strong",null,{"children":"SaaS applications"}],": Organizations that need isolated data and users"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Collaborative tools"}],": Projects with different access levels"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Educational platforms"}],": Schools with teachers and students"]}],["$","li",null,{"children":[["$","strong",null,{"children":"Business software"}],": Companies with department-based access control"]}]]}],["$","$L29",null,{"level":1,"children":"Create teams for tenants"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When a new tenant signs up, create a dedicated team that serves as their isolated environment."}],["$","$L2a",null,{"children":[["$","$L2b",null,{"language":"client-web","content":"import { Client, Teams, ID } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst teams = new Teams(client);\n\n// Create team for a new tenant\nconst tenantTeam = await teams.create(\n    'example_corp', // Team ID for tenant\n    'Example Corp',   // Tenant name\n    ['owner', 'admin', 'member'] // Tenant roles\n);\n","children":"import { Client, Teams, ID } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst teams = new Teams(client);\n\n// Create team for a new tenant\nconst tenantTeam = await teams.create(\n    'example_corp', // Team ID for tenant\n    'Example Corp',   // Tenant name\n    ['owner', 'admin', 'member'] // Tenant roles\n);\n"}],["$","$L2b",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal teams = Teams(client);\n\n// Create team for a new tenant\nfinal tenantTeam = await teams.create(\n    teamId: 'example_corp', // Team ID for tenant\n    name: 'Example Corp',   // Tenant name\n    roles: ['owner', 'admin', 'member'] // Tenant roles\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal teams = Teams(client);\n\n// Create team for a new tenant\nfinal tenantTeam = await teams.create(\n    teamId: 'example_corp', // Team ID for tenant\n    name: 'Example Corp',   // Tenant name\n    roles: ['owner', 'admin', 'member'] // Tenant roles\n);\n"}],"$L2c","$L2d"]}],"$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37"]}]}]]}],"$L38"]}]
+25:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L39",null,{"items":[{"id":"what-is-multi-tenancy","title":"What is multi-tenancy?","level":1},{"id":"common-use-cases","title":"Common use cases","level":1},{"id":"create-teams-for-tenants","title":"Create teams for tenants","level":1},{"id":"add-members-to-tenants","title":"Add members to tenants","level":1},{"id":"secure-resources-with-team-permissions","title":"Secure resources with team permissions","level":1},{"id":"query-tenant-data","title":"Query tenant data","level":1}]}]}]
+3e:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2c:["$","$L2b",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet teams = Teams(client)\n\n// Create team for a new tenant\nlet tenantTeam = try await teams.create(\n    teamId: \"example_corp\", // Team ID for tenant\n    name: \"Example Corp\",   // Tenant name\n    roles: [\"owner\", \"admin\", \"member\"] // Tenant roles\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet teams = Teams(client)\n\n// Create team for a new tenant\nlet tenantTeam = try await teams.create(\n    teamId: \"example_corp\", // Team ID for tenant\n    name: \"Example Corp\",   // Tenant name\n    roles: [\"owner\", \"admin\", \"member\"] // Tenant roles\n)\n"}]
+2d:["$","$L2b",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.ID\nimport io.clikkle.services.Teams\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval teams = Teams(client)\n\n// Create team for a new tenant\nval tenantTeam = teams.create(\n    teamId = \"example_corp\", // Team ID for tenant\n    name = \"Example Corp\",   // Tenant name\n    roles = listOf(\"owner\", \"admin\", \"member\") // Tenant roles\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.ID\nimport io.clikkle.services.Teams\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval teams = Teams(client)\n\n// Create team for a new tenant\nval tenantTeam = teams.create(\n    teamId = \"example_corp\", // Team ID for tenant\n    name = \"Example Corp\",   // Tenant name\n    roles = listOf(\"owner\", \"admin\", \"member\") // Tenant roles\n)\n"}]
+2e:["$","$L29",null,{"level":1,"children":"Add members to tenants"}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Invite users to join a tenant using team memberships. Each member can be assigned different roles for access control."}]
+30:["$","$L2a",null,{"children":[["$","$L2b",null,{"language":"client-web","content":"import { Client, Teams } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst teams = new Teams(client);\n\n// Invite a member to the tenant\nconst membership = await teams.createMembership(\n    'example_corp',      // Team/tenant ID\n    ['admin'],           // Member's role in the tenant\n    'user@example.com',  // User's email\n    undefined,           // userId (optional)\n    undefined,           // phone (optional)\n    'https://example.com/accept-invite' // Redirect URL after accepting\n);\n","children":"import { Client, Teams } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst teams = new Teams(client);\n\n// Invite a member to the tenant\nconst membership = await teams.createMembership(\n    'example_corp',      // Team/tenant ID\n    ['admin'],           // Member's role in the tenant\n    'user@example.com',  // User's email\n    undefined,           // userId (optional)\n    undefined,           // phone (optional)\n    'https://example.com/accept-invite' // Redirect URL after accepting\n);\n"}],["$","$L2b",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal teams = Teams(client);\n\n// Invite a member to the tenant\nfinal membership = await teams.createMembership(\n    teamId: 'example_corp',   // Team/tenant ID\n    roles: ['admin'],         // Member's role in the tenant\n    email: 'user@example.com', // User's email\n    url: 'https://example.com/accept-invite' // Redirect URL after accepting\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal teams = Teams(client);\n\n// Invite a member to the tenant\nfinal membership = await teams.createMembership(\n    teamId: 'example_corp',   // Team/tenant ID\n    roles: ['admin'],         // Member's role in the tenant\n    email: 'user@example.com', // User's email\n    url: 'https://example.com/accept-invite' // Redirect URL after accepting\n);\n"}],["$","$L2b",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet teams = Teams(client)\n\n// Invite a member to the tenant\nlet membership = try await teams.createMembership(\n    teamId: \"example_corp\",    // Team/tenant ID\n    roles: [\"admin\"],          // Member's role in the tenant\n    email: \"user@example.com\", // User's email\n    url: \"https://example.com/accept-invite\" // Redirect URL after accepting\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet teams = Teams(client)\n\n// Invite a member to the tenant\nlet membership = try await teams.createMembership(\n    teamId: \"example_corp\",    // Team/tenant ID\n    roles: [\"admin\"],          // Member's role in the tenant\n    email: \"user@example.com\", // User's email\n    url: \"https://example.com/accept-invite\" // Redirect URL after accepting\n)\n"}],"$L3a"]}]
+31:["$","$L29",null,{"level":1,"children":"Secure resources with team permissions"}]
+32:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Control access to rows and resources using team-based permissions. This ensures data isolation between tenants."}]
+33:["$","$L2a",null,{"children":[["$","$L2b",null,{"language":"client-web","content":"import { Client, TablesDB, ID, Permission, Role } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\n// Create a row that only members of \"Example Corp\" tenant can access\nconst row = await tablesDB.createRow(\n    'invoices_db',\n    'invoices',\n    ID.unique(),\n    {\n        title: 'Q2 Invoice',\n        amount: 2500.00,\n        customer: 'Example Customer',\n        status: 'pending',\n        tenant_id: 'example_corp'\n    },\n    [\n        // All Example Corp team members can read\n        Permission.read(Role.team('example_corp')),\n\n        // Only admins can update\n        Permission.write(Role.team('example_corp', ['admin']))\n    ]\n);\n","children":"import { Client, TablesDB, ID, Permission, Role } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\n// Create a row that only members of \"Example Corp\" tenant can access\nconst row = await tablesDB.createRow(\n    'invoices_db',\n    'invoices',\n    ID.unique(),\n    {\n        title: 'Q2 Invoice',\n        amount: 2500.00,\n        customer: 'Example Customer',\n        status: 'pending',\n        tenant_id: 'example_corp'\n    },\n    [\n        // All Example Corp team members can read\n        Permission.read(Role.team('example_corp')),\n\n        // Only admins can update\n        Permission.write(Role.team('example_corp', ['admin']))\n    ]\n);\n"}],["$","$L2b",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\n// Create a row that only members of \"Example Corp\" tenant can access\nfinal row = await tablesDB.createRow(\n    databaseId: 'invoices_db',\n    tableId: 'invoices',\n    rowId: ID.unique(),\n    data: {\n        'title': 'Q2 Invoice',\n        'amount': 2500.00,\n        'customer': 'Example Customer',\n        'status': 'pending',\n        'tenant_id': 'example_corp'\n    },\n    permissions: [\n        // All Example Corp team members can read\n        Permission.read(Role.team('example_corp')),\n\n        // Only admins can update\n        Permission.write(Role.team('example_corp', ['admin']))\n    ]\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\n// Create a row that only members of \"Example Corp\" tenant can access\nfinal row = await tablesDB.createRow(\n    databaseId: 'invoices_db',\n    tableId: 'invoices',\n    rowId: ID.unique(),\n    data: {\n        'title': 'Q2 Invoice',\n        'amount': 2500.00,\n        'customer': 'Example Customer',\n        'status': 'pending',\n        'tenant_id': 'example_corp'\n    },\n    permissions: [\n        // All Example Corp team members can read\n        Permission.read(Role.team('example_corp')),\n\n        // Only admins can update\n        Permission.write(Role.team('example_corp', ['admin']))\n    ]\n);\n"}],"$L3b","$L3c"]}]
+34:["$","$L29",null,{"level":1,"children":"Query tenant data"}]
+35:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"When querying data, users will automatically only see rows they have permission to access based on their team memberships."}]
+36:["$","$L2a",null,{"children":[["$","$L2b",null,{"language":"client-web","content":"import { Client, TablesDB, Query } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\n// Current user will only see invoices they have access to\nconst rows = await tablesDB.listRows(\n    'invoices_db',\n    'invoices'\n);\n\n// For specific tenant data, you can add a query filter\nconst tenantDocuments = await tablesDB.listRows(\n    'invoices_db',\n    'invoices',\n    [\n        Query.equal('tenant_id', 'example_corp')\n    ]\n);\n","children":"import { Client, TablesDB, Query } from \"clikkle\";\n\nconst client = new Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nconst tablesDB = new TablesDB(client);\n\n// Current user will only see invoices they have access to\nconst rows = await tablesDB.listRows(\n    'invoices_db',\n    'invoices'\n);\n\n// For specific tenant data, you can add a query filter\nconst tenantDocuments = await tablesDB.listRows(\n    'invoices_db',\n    'invoices',\n    [\n        Query.equal('tenant_id', 'example_corp')\n    ]\n);\n"}],["$","$L2b",null,{"language":"client-flutter","content":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\n// Current user will only see invoices they have access to\nfinal rows = await tablesDB.listRows(\n    databaseId: 'invoices_db',\n    tableId: 'invoices',\n);\n\n// For specific tenant data, you can add a query filter\nfinal tenantDocuments = await tablesDB.listRows(\n    databaseId: 'invoices_db',\n    tableId: 'invoices',\n    queries: [\n        Query.equal('tenant_id', 'example_corp')\n    ]\n);\n","children":"import 'package:clikkle/clikkle.dart';\n\nfinal client = Client()\n    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')\n    .setProject('<PROJECT_ID>');\n\nfinal tablesDB = TablesDB(client);\n\n// Current user will only see invoices they have access to\nfinal rows = await tablesDB.listRows(\n    databaseId: 'invoices_db',\n    tableId: 'invoices',\n);\n\n// For specific tenant data, you can add a query filter\nfinal tenantDocuments = await tablesDB.listRows(\n    databaseId: 'invoices_db',\n    tableId: 'invoices',\n    queries: [\n        Query.equal('tenant_id', 'example_corp')\n    ]\n);\n"}],["$","$L2b",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\n// Current user will only see invoices they have access to\nlet rows = try await tablesDB.listRows(\n    databaseId: \"invoices_db\",\n    tableId: \"invoices\"\n)\n\n// For specific tenant data, you can add a query filter\nlet tenantDocuments = try await tablesDB.listRows(\n    databaseId: \"invoices_db\",\n    tableId: \"invoices\",\n    queries: [\n        Query.equal(key: \"tenant_id\", value: \"example_corp\")\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\n// Current user will only see invoices they have access to\nlet rows = try await tablesDB.listRows(\n    databaseId: \"invoices_db\",\n    tableId: \"invoices\"\n)\n\n// For specific tenant data, you can add a query filter\nlet tenantDocuments = try await tablesDB.listRows(\n    databaseId: \"invoices_db\",\n    tableId: \"invoices\",\n    queries: [\n        Query.equal(key: \"tenant_id\", value: \"example_corp\")\n    ]\n)\n"}],"$L3d"]}]
+37:["$","$L15",null,{"href":"/docs/products/auth/team-invites","className":"not-prose text-paragraph-lg text-primary group mt-8 flex items-center gap-1 first:mt-0","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Learn how to manage team invitations"}],["$","span",null,{"className":"web-icon-chevron-right inline-block transition-transform duration-100 group-hover:translate-x-0.5","aria-hidden":"true"}]]}]
+38:["$","$L3e",null,{"date":"$undefined"}]
+3a:["$","$L2b",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.Teams\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval teams = Teams(client)\n\n// Invite a member to the tenant\nval membership = teams.createMembership(\n    teamId = \"example_corp\",    // Team/tenant ID\n    roles = listOf(\"admin\"),    // Member's role in the tenant\n    email = \"user@example.com\", // User's email\n    url = \"https://example.com/accept-invite\" // Redirect URL after accepting\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.Teams\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval teams = Teams(client)\n\n// Invite a member to the tenant\nval membership = teams.createMembership(\n    teamId = \"example_corp\",    // Team/tenant ID\n    roles = listOf(\"admin\"),    // Member's role in the tenant\n    email = \"user@example.com\", // User's email\n    url = \"https://example.com/accept-invite\" // Redirect URL after accepting\n)\n"}]
+3b:["$","$L2b",null,{"language":"client-apple","content":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\n// Create a row that only members of \"Example Corp\" tenant can access\nlet row = try await tablesDB.createRow(\n    databaseId: \"invoices_db\",\n    tableId: \"invoices\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Q2 Invoice\",\n        \"amount\": 2500.00,\n        \"customer\": \"Example Customer\",\n        \"status\": \"pending\",\n        \"tenant_id\": \"example_corp\"\n    ],\n    permissions: [\n        // All Example Corp team members can read\n        Permission.read(Role.team(\"example_corp\")),\n\n        // Only admins can update\n        Permission.write(Role.team(\"example_corp\", [\"admin\"]))\n    ]\n)\n","children":"import Clikkle\n\nlet client = Client()\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nlet tablesDB = TablesDB(client)\n\n// Create a row that only members of \"Example Corp\" tenant can access\nlet row = try await tablesDB.createRow(\n    databaseId: \"invoices_db\",\n    tableId: \"invoices\",\n    rowId: ID.unique(),\n    data: [\n        \"title\": \"Q2 Invoice\",\n        \"amount\": 2500.00,\n        \"customer\": \"Example Customer\",\n        \"status\": \"pending\",\n        \"tenant_id\": \"example_corp\"\n    ],\n    permissions: [\n        // All Example Corp team members can read\n        Permission.read(Role.team(\"example_corp\")),\n\n        // Only admins can update\n        Permission.write(Role.team(\"example_corp\", [\"admin\"]))\n    ]\n)\n"}]
+3c:["$","$L2b",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.ID\nimport io.clikkle.services.TablesDB\nimport io.clikkle.models.Permission\nimport io.clikkle.models.Role\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\n// Create a row that only members of \"Example Corp\" tenant can access\nval row = tablesDB.createRow(\n    databaseId = \"invoices_db\",\n    tableId = \"invoices\",\n    rowId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Q2 Invoice\",\n        \"amount\" to 2500.00,\n        \"customer\" to \"Example Customer\",\n        \"status\" to \"pending\",\n        \"tenant_id\" to \"example_corp\"\n    ),\n    permissions = listOf(\n        // All Example Corp team members can read\n        Permission.read(Role.team(\"example_corp\")),\n\n        // Only admins can update\n        Permission.write(Role.team(\"example_corp\", listOf(\"admin\")))\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.ID\nimport io.clikkle.services.TablesDB\nimport io.clikkle.models.Permission\nimport io.clikkle.models.Role\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\n// Create a row that only members of \"Example Corp\" tenant can access\nval row = tablesDB.createRow(\n    databaseId = \"invoices_db\",\n    tableId = \"invoices\",\n    rowId = ID.unique(),\n    data = mapOf(\n        \"title\" to \"Q2 Invoice\",\n        \"amount\" to 2500.00,\n        \"customer\" to \"Example Customer\",\n        \"status\" to \"pending\",\n        \"tenant_id\" to \"example_corp\"\n    ),\n    permissions = listOf(\n        // All Example Corp team members can read\n        Permission.read(Role.team(\"example_corp\")),\n\n        // Only admins can update\n        Permission.write(Role.team(\"example_corp\", listOf(\"admin\")))\n    )\n)\n"}]
+3d:["$","$L2b",null,{"language":"client-android-kotlin","content":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\nimport io.clikkle.Query\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\n// Current user will only see invoices they have access to\nval rows = tablesDB.listRows(\n    databaseId = \"invoices_db\",\n    tableId = \"invoices\"\n)\n\n// For specific tenant data, you can add a query filter\nval tenantDocuments = tablesDB.listRows(\n    databaseId = \"invoices_db\",\n    tableId = \"invoices\",\n    queries = listOf(\n        Query.equal(\"tenant_id\", \"example_corp\")\n    )\n)\n","children":"import io.clikkle.Client\nimport io.clikkle.services.TablesDB\nimport io.clikkle.Query\n\nval client = Client(context)\n    .setEndpoint(\"https://<REGION>.cloud.clikkle.io/v1\")\n    .setProject(\"<PROJECT_ID>\")\n\nval tablesDB = TablesDB(client)\n\n// Current user will only see invoices they have access to\nval rows = tablesDB.listRows(\n    databaseId = \"invoices_db\",\n    tableId = \"invoices\"\n)\n\n// For specific tenant data, you can add a query filter\nval tenantDocuments = tablesDB.listRows(\n    databaseId = \"invoices_db\",\n    tableId = \"invoices\",\n    queries = listOf(\n        Query.equal(\"tenant_id\", \"example_corp\")\n    )\n)\n"}]
+1e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+3f:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1b:null
+20:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L3f","13",{}]]

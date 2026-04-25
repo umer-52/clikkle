@@ -1,0 +1,621 @@
+1:"$Sreact.fragment"
+2:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+c:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+d:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+e:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+f:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+10:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"Tabs"]
+11:I[6362793,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TabsItem"]
+3b:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+3c:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+3d:"$Sreact.suspense"
+3f:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+40:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+3:T1c6d,---
+layout: article
+title: Installation
+description: Get started with the Clikkle CLI by following the installation guide. Learn how to set up and configure the CLI on your development environment.
+---
+
+The [Clikkle Command Line Interface (CLI)](https://github.com/clikkle/sdk-for-cli) is an application that allows you to interact with Clikkle to perform server-side tasks using your terminal. This includes creating and managing projects, managing resources (rows, files, users), creating and deploying Clikkle Functions, and other operations available through Clikkle's API.
+
+# Getting started {% #getting-started %}
+
+The CLI is packaged both as an [npm module](https://www.npmjs.com/package/clikkle-cli) as well as a [standalone binary](https://github.com/clikkle/sdk-for-cli/releases/latest) for your operating system, making it completely dependency free, platform independent, and language agnostic.
+
+If you plan to use the CLI to initialize new Clikkle Functions, ensure that [Git is installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your machine.
+
+## Install with npm {% #install-with-npm %}
+
+If you have npm set up, run the command below to install the CLI.
+
+```sh
+npm install -g clikkle-cli
+```
+
+## Install with script {% #install-with-script %}
+
+For a completely dependency-free installation, the CLI also ships with a convenient installation script for your operating system
+
+{% tabs %}
+{% tabsitem #macos title="macOS" %}
+
+Using [Homebrew](https://brew.sh/)
+
+```sh
+brew install clikkle
+```
+
+or terminal
+
+```sh
+curl -sL https://clikkle.io/cli/install.sh | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+
+Using [Powershell](https://learn.microsoft.com/en-us/powershell/)
+
+```sh
+iwr -useb https://clikkle.io/cli/install.ps1 | iex
+```
+
+or [Scoop](https://scoop.sh/)
+
+```sh
+scoop install https://raw.githubusercontent.com/clikkle/sdk-for-cli/master/scoop/clikkle.config.json
+```
+{% /tabsitem %}
+
+{% tabsitem #linux title="Linux" %}
+```sh
+curl -sL https://clikkle.io/cli/install.sh | bash
+```
+{% /tabsitem %}
+
+{% /tabs %}
+
+# Update your CLI {% #update-your-cli %}
+
+{% tabs %}
+{% tabsitem #npm title="npm" %}
+```sh
+npm install -g clikkle-cli
+```
+{% /tabsitem %}
+
+{% tabsitem #macos title="macOS" %}
+
+Using [Homebrew](https://brew.sh/)
+
+```sh
+brew install clikkle
+```
+
+or terminal
+
+```sh
+curl -sL https://clikkle.io/cli/install.sh | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+```sh
+iwr -useb https://clikkle.io/cli/install.ps1 | iex
+```
+{% /tabsitem %}
+
+{% tabsitem #linux title="Linux" %}
+```sh
+curl -sL https://clikkle.io/cli/install.sh | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #scoop title="Scoop" %}
+```sh
+scoop install https://raw.githubusercontent.com/clikkle/sdk-for-cli/master/scoop/clikkle.config.json
+```
+{% /tabsitem %}
+
+{% /tabs %}
+
+## Verify installation {% #verify-installation %}
+
+After the installation or the update is complete, you can verify the Clikkle CLI is available by checking its version number.
+
+```sh
+clikkle -v
+```
+
+# Login {% #login %}
+
+Before you can use the CLI, you need to login to your Clikkle account using
+
+```sh
+clikkle login
+```
+
+Add the `--endpoint` flag if you're using a self-hosted instance of Clikkle. This flag requires you to add the URL string you're using for your self-hosted instance after the `--endpoint` flag.
+
+```sh
+clikkle login --endpoint "<URL_HERE>"
+```
+You can log in to multiple accounts or change the **current** account by re-running the command.
+
+# Initialization {% #initialization %}
+
+After you're logged in, the CLI needs to be initialized with your Clikkle project. You can initialize the CLI using:
+
+```sh
+clikkle init project
+```
+
+This will create your `clikkle.config.json` file, where you will configure your various services like tables, functions, teams, topics, and buckets.
+
+```json
+{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1"
+}
+```
+
+You can run your first CLI command after logging in. Try fetching information about your Clikkle project.
+
+```sh
+clikkle projects get --project-id "<PROJECT_ID>"
+```
+
+{% info title="Self-signed certificates" %}
+By default, requests to domains with self-signed SSL certificates (or no certificates) are disabled. If you trust the domain, you can bypass the certificate validation using
+
+```sh
+clikkle client --self-signed true
+```
+{% /info %}
+
+## Next steps {% #next-steps %}
+
+You can use the CLI to create and deploy tables, functions, teams, topics, and buckets. Deployment commands allow you to configure your Clikkle project programmatically and replicate functions and table schemas across Clikkle projects.
+
+[Learn more about deployment](/docs/tooling/command-line/tables)
+
+Besides utility commands, the CLI can be used to execute commands like a Server SDK.
+
+[Find a full list of commands](/docs/tooling/command-line/commands)
+
+You can choose to use the CLI in a headless and non-interactive mode without the need for config files or sessions. This is useful for CI or scripting use cases.
+
+[Learn more about CI mode](/docs/tooling/command-line/non-interactive)
+
+# Help {% #help %}
+
+If you get stuck anywhere, you can always use the `help` command to get the usage examples.
+
+```sh
+clikkle help
+```
+
+# Configuration {% #configuration %}
+
+At any point, if you would like to change your server's endpoint, project ID, or self-signed certificate acceptance, use the `client` command.
+
+```sh
+clikkle client --endpoint https://<REGION>.cloud.clikkle.io/v1
+clikkle client --key 23f24gwrhSDgefaY
+clikkle client --self-signed true
+clikkle client --reset // Resets your CLI configuration
+clikkle client --debug // Prints your current configuration
+```
+
+# Uninstall {% #uninstall %}
+
+If you installed Clikkle CLI using NPM, you can use the following command to uninstall it.
+
+```sh
+npm uninstall -g clikkle-cli
+```
+
+If you installed the Clikkle CLI with brew or the installation script for your operating system, use the following command to uninstall it.
+
+{% tabs %}
+{% tabsitem #macos title="macOS" %}
+
+Using [Homebrew](https://brew.sh/)
+
+```sh
+brew uninstall clikkle
+```
+
+or terminal
+
+```sh
+rm -f /usr/local/bin/clikkle | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+
+Using [Powershell](https://learn.microsoft.com/en-us/powershell/)
+
+```sh
+$CLIKKLE_INSTALL_DIR = Join-Path -Path $env:LOCALAPPDATA -ChildPath "Clikkle"; Remove-Item -Force -Path $CLIKKLE_INSTALL_DIR
+```
+
+or [Scoop](https://scoop.sh/)
+
+```sh
+scoop uninstall clikkle
+```
+{% /tabsitem %}
+
+{% tabsitem #linux title="Linux" %}
+```sh
+rm -f /usr/local/bin/clikkle | bash
+```
+{% /tabsitem %}
+
+{% /tabs %}
+
+You can also remove the configuration, cookies, and API Keys the Clikkle CLI stored. To remove those, run the following command.
+
+{% tabs %}
+{% tabsitem #macos title="macOS" %}
+```sh
+rm -rf ~/.clikkle | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+
+Using [Powershell](https://learn.microsoft.com/en-us/powershell/)
+
+```sh
+$CLIKKLE_CONFIG_DIR = Join-Path -Path $env:UserProfile -ChildPath ".clikkle"; Remove-Item -Recurse -Force -Path $CLIKKLE_CONFIG_DIR
+```
+
+or [Scoop](https://scoop.sh/)
+
+```sh
+clikkle client --reset
+```
+
+{% /tabsitem %}
+
+{% tabsitem #linux title="Linux" %}
+```sh
+rm -rf ~/.clikkle | bash
+```
+{% /tabsitem %}
+
+{% /tabs %}
+
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L2",null,{"markdown":"$3","className":"ml-0"}]}]]}],null,"$L4"]}],"$L5","$L6"]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+b:T1c6d,---
+layout: article
+title: Installation
+description: Get started with the Clikkle CLI by following the installation guide. Learn how to set up and configure the CLI on your development environment.
+---
+
+The [Clikkle Command Line Interface (CLI)](https://github.com/clikkle/sdk-for-cli) is an application that allows you to interact with Clikkle to perform server-side tasks using your terminal. This includes creating and managing projects, managing resources (rows, files, users), creating and deploying Clikkle Functions, and other operations available through Clikkle's API.
+
+# Getting started {% #getting-started %}
+
+The CLI is packaged both as an [npm module](https://www.npmjs.com/package/clikkle-cli) as well as a [standalone binary](https://github.com/clikkle/sdk-for-cli/releases/latest) for your operating system, making it completely dependency free, platform independent, and language agnostic.
+
+If you plan to use the CLI to initialize new Clikkle Functions, ensure that [Git is installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your machine.
+
+## Install with npm {% #install-with-npm %}
+
+If you have npm set up, run the command below to install the CLI.
+
+```sh
+npm install -g clikkle-cli
+```
+
+## Install with script {% #install-with-script %}
+
+For a completely dependency-free installation, the CLI also ships with a convenient installation script for your operating system
+
+{% tabs %}
+{% tabsitem #macos title="macOS" %}
+
+Using [Homebrew](https://brew.sh/)
+
+```sh
+brew install clikkle
+```
+
+or terminal
+
+```sh
+curl -sL https://clikkle.io/cli/install.sh | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+
+Using [Powershell](https://learn.microsoft.com/en-us/powershell/)
+
+```sh
+iwr -useb https://clikkle.io/cli/install.ps1 | iex
+```
+
+or [Scoop](https://scoop.sh/)
+
+```sh
+scoop install https://raw.githubusercontent.com/clikkle/sdk-for-cli/master/scoop/clikkle.config.json
+```
+{% /tabsitem %}
+
+{% tabsitem #linux title="Linux" %}
+```sh
+curl -sL https://clikkle.io/cli/install.sh | bash
+```
+{% /tabsitem %}
+
+{% /tabs %}
+
+# Update your CLI {% #update-your-cli %}
+
+{% tabs %}
+{% tabsitem #npm title="npm" %}
+```sh
+npm install -g clikkle-cli
+```
+{% /tabsitem %}
+
+{% tabsitem #macos title="macOS" %}
+
+Using [Homebrew](https://brew.sh/)
+
+```sh
+brew install clikkle
+```
+
+or terminal
+
+```sh
+curl -sL https://clikkle.io/cli/install.sh | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+```sh
+iwr -useb https://clikkle.io/cli/install.ps1 | iex
+```
+{% /tabsitem %}
+
+{% tabsitem #linux title="Linux" %}
+```sh
+curl -sL https://clikkle.io/cli/install.sh | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #scoop title="Scoop" %}
+```sh
+scoop install https://raw.githubusercontent.com/clikkle/sdk-for-cli/master/scoop/clikkle.config.json
+```
+{% /tabsitem %}
+
+{% /tabs %}
+
+## Verify installation {% #verify-installation %}
+
+After the installation or the update is complete, you can verify the Clikkle CLI is available by checking its version number.
+
+```sh
+clikkle -v
+```
+
+# Login {% #login %}
+
+Before you can use the CLI, you need to login to your Clikkle account using
+
+```sh
+clikkle login
+```
+
+Add the `--endpoint` flag if you're using a self-hosted instance of Clikkle. This flag requires you to add the URL string you're using for your self-hosted instance after the `--endpoint` flag.
+
+```sh
+clikkle login --endpoint "<URL_HERE>"
+```
+You can log in to multiple accounts or change the **current** account by re-running the command.
+
+# Initialization {% #initialization %}
+
+After you're logged in, the CLI needs to be initialized with your Clikkle project. You can initialize the CLI using:
+
+```sh
+clikkle init project
+```
+
+This will create your `clikkle.config.json` file, where you will configure your various services like tables, functions, teams, topics, and buckets.
+
+```json
+{
+    "projectId": "<PROJECT_ID>",
+    "endpoint": "https://<REGION>.cloud.clikkle.io/v1"
+}
+```
+
+You can run your first CLI command after logging in. Try fetching information about your Clikkle project.
+
+```sh
+clikkle projects get --project-id "<PROJECT_ID>"
+```
+
+{% info title="Self-signed certificates" %}
+By default, requests to domains with self-signed SSL certificates (or no certificates) are disabled. If you trust the domain, you can bypass the certificate validation using
+
+```sh
+clikkle client --self-signed true
+```
+{% /info %}
+
+## Next steps {% #next-steps %}
+
+You can use the CLI to create and deploy tables, functions, teams, topics, and buckets. Deployment commands allow you to configure your Clikkle project programmatically and replicate functions and table schemas across Clikkle projects.
+
+[Learn more about deployment](/docs/tooling/command-line/tables)
+
+Besides utility commands, the CLI can be used to execute commands like a Server SDK.
+
+[Find a full list of commands](/docs/tooling/command-line/commands)
+
+You can choose to use the CLI in a headless and non-interactive mode without the need for config files or sessions. This is useful for CI or scripting use cases.
+
+[Learn more about CI mode](/docs/tooling/command-line/non-interactive)
+
+# Help {% #help %}
+
+If you get stuck anywhere, you can always use the `help` command to get the usage examples.
+
+```sh
+clikkle help
+```
+
+# Configuration {% #configuration %}
+
+At any point, if you would like to change your server's endpoint, project ID, or self-signed certificate acceptance, use the `client` command.
+
+```sh
+clikkle client --endpoint https://<REGION>.cloud.clikkle.io/v1
+clikkle client --key 23f24gwrhSDgefaY
+clikkle client --self-signed true
+clikkle client --reset // Resets your CLI configuration
+clikkle client --debug // Prints your current configuration
+```
+
+# Uninstall {% #uninstall %}
+
+If you installed Clikkle CLI using NPM, you can use the following command to uninstall it.
+
+```sh
+npm uninstall -g clikkle-cli
+```
+
+If you installed the Clikkle CLI with brew or the installation script for your operating system, use the following command to uninstall it.
+
+{% tabs %}
+{% tabsitem #macos title="macOS" %}
+
+Using [Homebrew](https://brew.sh/)
+
+```sh
+brew uninstall clikkle
+```
+
+or terminal
+
+```sh
+rm -f /usr/local/bin/clikkle | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+
+Using [Powershell](https://learn.microsoft.com/en-us/powershell/)
+
+```sh
+$CLIKKLE_INSTALL_DIR = Join-Path -Path $env:LOCALAPPDATA -ChildPath "Clikkle"; Remove-Item -Force -Path $CLIKKLE_INSTALL_DIR
+```
+
+or [Scoop](https://scoop.sh/)
+
+```sh
+scoop uninstall clikkle
+```
+{% /tabsitem %}
+
+{% tabsitem #linux title="Linux" %}
+```sh
+rm -f /usr/local/bin/clikkle | bash
+```
+{% /tabsitem %}
+
+{% /tabs %}
+
+You can also remove the configuration, cookies, and API Keys the Clikkle CLI stored. To remove those, run the following command.
+
+{% tabs %}
+{% tabsitem #macos title="macOS" %}
+```sh
+rm -rf ~/.clikkle | bash
+```
+{% /tabsitem %}
+
+{% tabsitem #windows title="Windows" %}
+
+Using [Powershell](https://learn.microsoft.com/en-us/powershell/)
+
+```sh
+$CLIKKLE_CONFIG_DIR = Join-Path -Path $env:UserProfile -ChildPath ".clikkle"; Remove-Item -Recurse -Force -Path $CLIKKLE_CONFIG_DIR
+```
+
+or [Scoop](https://scoop.sh/)
+
+```sh
+clikkle client --reset
+```
+
+{% /tabsitem %}
+
+{% tabsitem #linux title="Linux" %}
+```sh
+rm -rf ~/.clikkle | bash
+```
+{% /tabsitem %}
+
+{% /tabs %}
+
+4:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Installation"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L2",null,{"markdown":"$b","className":"ml-0"}]}]]}]
+5:["$","$Lc",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$Ld",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The ",["$","a",null,{"href":"https://github.com/clikkle/sdk-for-cli","target":"_blank","rel":"noopener nofollow","children":"Clikkle Command Line Interface (CLI)"}]," is an application that allows you to interact with Clikkle to perform server-side tasks using your terminal. This includes creating and managing projects, managing resources (rows, files, users), creating and deploying Clikkle Functions, and other operations available through Clikkle's API."]}],["$","$Le",null,{"id":"getting-started","level":1,"children":"Getting started "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The CLI is packaged both as an ",["$","a",null,{"href":"https://www.npmjs.com/package/clikkle-cli","target":"_blank","rel":"noopener nofollow","children":"npm module"}]," as well as a ",["$","a",null,{"href":"https://github.com/clikkle/sdk-for-cli/releases/latest","target":"_blank","rel":"noopener nofollow","children":"standalone binary"}]," for your operating system, making it completely dependency free, platform independent, and language agnostic."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you plan to use the CLI to initialize new Clikkle Functions, ensure that ",["$","a",null,{"href":"https://git-scm.com/book/en/v2/Getting-Started-Installing-Git","target":"_blank","rel":"noopener nofollow","children":"Git is installed"}]," on your machine."]}],["$","$Le",null,{"id":"install-with-npm","level":2,"children":"Install with npm "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you have npm set up, run the command below to install the CLI."}],["$","$Lf",null,{"language":"sh","content":"npm install -g clikkle-cli\n","children":"npm install -g clikkle-cli\n"}],["$","$Le",null,{"id":"install-with-script","level":2,"children":"Install with script "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For a completely dependency-free installation, the CLI also ships with a convenient installation script for your operating system"}],["$","$L10",null,{"children":[["$","$L11",null,{"id":"macos","title":"macOS","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Using ",["$","a",null,{"href":"https://brew.sh/","target":"_blank","rel":"noopener nofollow","children":"Homebrew"}]]}],["$","$Lf",null,{"language":"sh","content":"brew install clikkle\n","children":"brew install clikkle\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"or terminal"}],["$","$Lf",null,{"language":"sh","content":"curl -sL https://clikkle.io/cli/install.sh | bash\n","children":"curl -sL https://clikkle.io/cli/install.sh | bash\n"}]]}],["$","$L11",null,{"id":"windows","title":"Windows","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Using ",["$","a",null,{"href":"https://learn.microsoft.com/en-us/powershell/","target":"_blank","rel":"noopener nofollow","children":"Powershell"}]]}],["$","$Lf",null,{"language":"sh","content":"iwr -useb https://clikkle.io/cli/install.ps1 | iex\n","children":"iwr -useb https://clikkle.io/cli/install.ps1 | iex\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["or ",["$","a",null,{"href":"https://scoop.sh/","target":"_blank","rel":"noopener nofollow","children":"Scoop"}]]}],["$","$Lf",null,{"language":"sh","content":"scoop install https://raw.githubusercontent.com/clikkle/sdk-for-cli/master/scoop/clikkle.config.json\n","children":"scoop install https://raw.githubusercontent.com/clikkle/sdk-for-cli/master/scoop/clikkle.config.json\n"}]]}],"$L12"]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39"]}]}]]}],"$L3a"]}]
+6:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L3b",null,{"items":[{"id":"getting-started","title":"Getting started","level":1},{"id":"install-with-npm","title":"Install with npm","level":2},{"id":"install-with-script","title":"Install with script","level":2},{"id":"update-your-cli","title":"Update your CLI","level":1},{"id":"verify-installation","title":"Verify installation","level":2},{"id":"login","title":"Login","level":1},{"id":"initialization","title":"Initialization","level":1},{"id":"next-steps","title":"Next steps","level":2},{"id":"help","title":"Help","level":1},{"id":"configuration","title":"Configuration","level":1},{"id":"uninstall","title":"Uninstall","level":1}]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L3c",null,{"children":["$","$3d",null,{"name":"Next.MetadataOutlet","children":"$@3e"}]}]
+12:["$","$L11",null,{"id":"linux","title":"Linux","children":["$","$Lf",null,{"language":"sh","content":"curl -sL https://clikkle.io/cli/install.sh | bash\n","children":"curl -sL https://clikkle.io/cli/install.sh | bash\n"}]}]
+13:["$","$Le",null,{"id":"update-your-cli","level":1,"children":"Update your CLI "}]
+14:["$","$L10",null,{"children":[["$","$L11",null,{"id":"npm","title":"npm","children":["$","$Lf",null,{"language":"sh","content":"npm install -g clikkle-cli\n","children":"npm install -g clikkle-cli\n"}]}],["$","$L11",null,{"id":"macos","title":"macOS","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Using ",["$","a",null,{"href":"https://brew.sh/","target":"_blank","rel":"noopener nofollow","children":"Homebrew"}]]}],["$","$Lf",null,{"language":"sh","content":"brew install clikkle\n","children":"brew install clikkle\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"or terminal"}],["$","$Lf",null,{"language":"sh","content":"curl -sL https://clikkle.io/cli/install.sh | bash\n","children":"curl -sL https://clikkle.io/cli/install.sh | bash\n"}]]}],["$","$L11",null,{"id":"windows","title":"Windows","children":["$","$Lf",null,{"language":"sh","content":"iwr -useb https://clikkle.io/cli/install.ps1 | iex\n","children":"iwr -useb https://clikkle.io/cli/install.ps1 | iex\n"}]}],["$","$L11",null,{"id":"linux","title":"Linux","children":["$","$Lf",null,{"language":"sh","content":"curl -sL https://clikkle.io/cli/install.sh | bash\n","children":"curl -sL https://clikkle.io/cli/install.sh | bash\n"}]}],["$","$L11",null,{"id":"scoop","title":"Scoop","children":["$","$Lf",null,{"language":"sh","content":"scoop install https://raw.githubusercontent.com/clikkle/sdk-for-cli/master/scoop/clikkle.config.json\n","children":"scoop install https://raw.githubusercontent.com/clikkle/sdk-for-cli/master/scoop/clikkle.config.json\n"}]}]]}]
+15:["$","$Le",null,{"id":"verify-installation","level":2,"children":"Verify installation "}]
+16:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After the installation or the update is complete, you can verify the Clikkle CLI is available by checking its version number."}]
+17:["$","$Lf",null,{"language":"sh","content":"clikkle -v\n","children":"clikkle -v\n"}]
+18:["$","$Le",null,{"id":"login","level":1,"children":"Login "}]
+19:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Before you can use the CLI, you need to login to your Clikkle account using"}]
+1a:["$","$Lf",null,{"language":"sh","content":"clikkle login\n","children":"clikkle login\n"}]
+1b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Add the ",["$","code",null,{"children":"--endpoint"}]," flag if you're using a self-hosted instance of Clikkle. This flag requires you to add the URL string you're using for your self-hosted instance after the ",["$","code",null,{"children":"--endpoint"}]," flag."]}]
+1c:["$","$Lf",null,{"language":"sh","content":"clikkle login --endpoint \"<URL_HERE>\"\n","children":"clikkle login --endpoint \"<URL_HERE>\"\n"}]
+1d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["You can log in to multiple accounts or change the ",["$","strong",null,{"children":"current"}]," account by re-running the command."]}]
+1e:["$","$Le",null,{"id":"initialization","level":1,"children":"Initialization "}]
+1f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After you're logged in, the CLI needs to be initialized with your Clikkle project. You can initialize the CLI using:"}]
+20:["$","$Lf",null,{"language":"sh","content":"clikkle init project\n","children":"clikkle init project\n"}]
+21:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This will create your ",["$","code",null,{"children":"clikkle.config.json"}]," file, where you will configure your various services like tables, functions, teams, topics, and buckets."]}]
+22:["$","$Lf",null,{"language":"json","content":"{\n    \"projectId\": \"<PROJECT_ID>\",\n    \"endpoint\": \"https://<REGION>.cloud.clikkle.io/v1\"\n}\n","children":"{\n    \"projectId\": \"<PROJECT_ID>\",\n    \"endpoint\": \"https://<REGION>.cloud.clikkle.io/v1\"\n}\n"}]
+23:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can run your first CLI command after logging in. Try fetching information about your Clikkle project."}]
+24:["$","$Lf",null,{"language":"sh","content":"clikkle projects get --project-id \"<PROJECT_ID>\"\n","children":"clikkle projects get --project-id \"<PROJECT_ID>\"\n"}]
+25:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Self-signed certificates"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"By default, requests to domains with self-signed SSL certificates (or no certificates) are disabled. If you trust the domain, you can bypass the certificate validation using"}],["$","$Lf",null,{"language":"sh","content":"clikkle client --self-signed true\n","children":"clikkle client --self-signed true\n"}]]]}]
+26:["$","$Le",null,{"id":"next-steps","level":2,"children":"Next steps "}]
+27:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can use the CLI to create and deploy tables, functions, teams, topics, and buckets. Deployment commands allow you to configure your Clikkle project programmatically and replicate functions and table schemas across Clikkle projects."}]
+28:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","$L3f",null,{"href":"/docs/tooling/command-line/tables","children":"Learn more about deployment"}]}]
+29:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Besides utility commands, the CLI can be used to execute commands like a Server SDK."}]
+2a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","$L3f",null,{"href":"/docs/tooling/command-line/commands","children":"Find a full list of commands"}]}]
+2b:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can choose to use the CLI in a headless and non-interactive mode without the need for config files or sessions. This is useful for CI or scripting use cases."}]
+2c:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","$L3f",null,{"href":"/docs/tooling/command-line/non-interactive","children":"Learn more about CI mode"}]}]
+2d:["$","$Le",null,{"id":"help","level":1,"children":"Help "}]
+2e:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you get stuck anywhere, you can always use the ",["$","code",null,{"children":"help"}]," command to get the usage examples."]}]
+2f:["$","$Lf",null,{"language":"sh","content":"clikkle help\n","children":"clikkle help\n"}]
+30:["$","$Le",null,{"id":"configuration","level":1,"children":"Configuration "}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["At any point, if you would like to change your server's endpoint, project ID, or self-signed certificate acceptance, use the ",["$","code",null,{"children":"client"}]," command."]}]
+32:["$","$Lf",null,{"language":"sh","content":"clikkle client --endpoint https://<REGION>.cloud.clikkle.io/v1\nclikkle client --key 23f24gwrhSDgefaY\nclikkle client --self-signed true\nclikkle client --reset // Resets your CLI configuration\nclikkle client --debug // Prints your current configuration\n","children":"clikkle client --endpoint https://<REGION>.cloud.clikkle.io/v1\nclikkle client --key 23f24gwrhSDgefaY\nclikkle client --self-signed true\nclikkle client --reset // Resets your CLI configuration\nclikkle client --debug // Prints your current configuration\n"}]
+33:["$","$Le",null,{"id":"uninstall","level":1,"children":"Uninstall "}]
+34:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you installed Clikkle CLI using NPM, you can use the following command to uninstall it."}]
+35:["$","$Lf",null,{"language":"sh","content":"npm uninstall -g clikkle-cli\n","children":"npm uninstall -g clikkle-cli\n"}]
+36:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you installed the Clikkle CLI with brew or the installation script for your operating system, use the following command to uninstall it."}]
+37:["$","$L10",null,{"children":[["$","$L11",null,{"id":"macos","title":"macOS","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Using ",["$","a",null,{"href":"https://brew.sh/","target":"_blank","rel":"noopener nofollow","children":"Homebrew"}]]}],["$","$Lf",null,{"language":"sh","content":"brew uninstall clikkle\n","children":"brew uninstall clikkle\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"or terminal"}],["$","$Lf",null,{"language":"sh","content":"rm -f /usr/local/bin/clikkle | bash\n","children":"rm -f /usr/local/bin/clikkle | bash\n"}]]}],["$","$L11",null,{"id":"windows","title":"Windows","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Using ",["$","a",null,{"href":"https://learn.microsoft.com/en-us/powershell/","target":"_blank","rel":"noopener nofollow","children":"Powershell"}]]}],["$","$Lf",null,{"language":"sh","content":"$$CLIKKLE_INSTALL_DIR = Join-Path -Path $env:LOCALAPPDATA -ChildPath \"Clikkle\"; Remove-Item -Force -Path $CLIKKLE_INSTALL_DIR\n","children":"$$CLIKKLE_INSTALL_DIR = Join-Path -Path $env:LOCALAPPDATA -ChildPath \"Clikkle\"; Remove-Item -Force -Path $CLIKKLE_INSTALL_DIR\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["or ",["$","a",null,{"href":"https://scoop.sh/","target":"_blank","rel":"noopener nofollow","children":"Scoop"}]]}],["$","$Lf",null,{"language":"sh","content":"scoop uninstall clikkle\n","children":"scoop uninstall clikkle\n"}]]}],["$","$L11",null,{"id":"linux","title":"Linux","children":["$","$Lf",null,{"language":"sh","content":"rm -f /usr/local/bin/clikkle | bash\n","children":"rm -f /usr/local/bin/clikkle | bash\n"}]}]]}]
+38:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can also remove the configuration, cookies, and API Keys the Clikkle CLI stored. To remove those, run the following command."}]
+39:["$","$L10",null,{"children":[["$","$L11",null,{"id":"macos","title":"macOS","children":["$","$Lf",null,{"language":"sh","content":"rm -rf ~/.clikkle | bash\n","children":"rm -rf ~/.clikkle | bash\n"}]}],["$","$L11",null,{"id":"windows","title":"Windows","children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Using ",["$","a",null,{"href":"https://learn.microsoft.com/en-us/powershell/","target":"_blank","rel":"noopener nofollow","children":"Powershell"}]]}],["$","$Lf",null,{"language":"sh","content":"$$CLIKKLE_CONFIG_DIR = Join-Path -Path $env:UserProfile -ChildPath \".clikkle\"; Remove-Item -Recurse -Force -Path $CLIKKLE_CONFIG_DIR\n","children":"$$CLIKKLE_CONFIG_DIR = Join-Path -Path $env:UserProfile -ChildPath \".clikkle\"; Remove-Item -Recurse -Force -Path $CLIKKLE_CONFIG_DIR\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["or ",["$","a",null,{"href":"https://scoop.sh/","target":"_blank","rel":"noopener nofollow","children":"Scoop"}]]}],["$","$Lf",null,{"language":"sh","content":"clikkle client --reset\n","children":"clikkle client --reset\n"}]]}],["$","$L11",null,{"id":"linux","title":"Linux","children":["$","$Lf",null,{"language":"sh","content":"rm -rf ~/.clikkle | bash\n","children":"rm -rf ~/.clikkle | bash\n"}]}]]}]
+3a:["$","$L40",null,{}]
+3e:null

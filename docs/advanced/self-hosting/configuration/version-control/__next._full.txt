@@ -1,0 +1,441 @@
+1:"$Sreact.fragment"
+2:I[5479520,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],""]
+3:I[6689554,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ThemeProvider"]
+4:I[9348303,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"SiteHeader"]
+5:I[7339756,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+6:I[8837457,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default"]
+10:I[4168027,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"default",1]
+:HL["/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","style"]
+:HL["/clikkle/_next/static/chunks/13g67ult77mar.css","style"]
+:HL["/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","style"]
+:HL["/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","style"]
+:HL["/clikkle/_next/static/chunks/0acl2x2ikq7km.css","style"]
+:HL["/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","style"]
+:HL["/clikkle/_next/static/chunks/137xjh19fu1k5.css","style"]
+:HL["/clikkle/_next/static/chunks/0kjjuncd7prl5.css","style"]
+:HL["/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","style"]
+:HL["/clikkle/_next/static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/47fe1b7cd6e6ed85-s.p.0~mcdl10zdfb3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/829ba4228c966254-s.p.0ub.k0om~_-xi.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/8e6fa89aa22d24ec-s.p.0uvzar8hswo3p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/a218039a3287bcfd-s.p.17-1enzs_j91b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/clikkle/_next/static/media/e2334d715941921e-s.p.12skym0rqknxy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","docs","advanced","self-hosting","configuration","version-control"],"q":"","i":false,"f":[[["",{"children":["docs",{"children":[["slug","advanced/self-hosting/configuration/version-control","c",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/17r0g7m.bbwki.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_55e7864c-module__Z2_8rW__variable poppins_ceff499b-module__w2p1tq__variable jetbrains_mono_1ebcc410-module__oMYXJa__variable","children":["$","body",null,{"className":"antialiased font-body","suppressHydrationWarning":true,"children":[["$","$L2",null,{"id":"theme-init","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"!function(){try{var k='theme',d=document.documentElement,b=document.body,t=localStorage.getItem(k);function s(){return window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}var r='dark';if(t==='light'||t==='dark')r=t;else if(t==='system')r=s();d.classList.remove('dark','light');d.classList.add(r);if(b){b.classList.remove('dark','light');b.classList.add(r)}if(t==='system'){d.style.colorScheme='light dark'}else if(t==='light'||t==='dark'){d.style.colorScheme=t}else{d.style.colorScheme='dark'}}catch(e){}}();"}}],["$","$L3",null,{"children":[["$","a",null,{"className":"skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0","href":"#main-content","children":"Skip to content"}],["$","$L4",null,{}],["$","div",null,{"id":"main-content","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex min-h-[60vh] max-w-screen flex-col items-center justify-center overflow-hidden py-24","children":[["$","div",null,{"className":"animate-lighting absolute top-0 left-0 -z-10 h-full w-[200vw] -translate-x-[25%] translate-y-8 rotate-25 overflow-hidden blur-3xl md:w-full bg-[image:radial-gradient(ellipse_390px_50px_at_10%_30%,_rgba(59,_130,_246,_0.18)_0%,_rgba(59,_130,_246,_0)_70%),_radial-gradient(ellipse_1100px_170px_at_15%_40%,rgba(45,_99,_255,_0.08)_0%,_rgba(45,_99,_255,_0)_70%),_radial-gradient(ellipse_1200px_180px_at_30%_30%,_rgba(30,_58,_138,_0.12)_0%,_rgba(30,_58,_138,_0)_70%)] bg-position-[0%_0%]"}],["$","div",null,{"className":"animate-fade-in relative container mx-auto flex flex-col items-center justify-center text-center","children":[["$","h1",null,{"className":"font-aeonik-pro text-[120px] leading-none text-transparent bg-clip-text bg-gradient-to-b from-[#2D63FF] to-white to-50%","children":["404","$L7"]}],"$L8","$L9","$La"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]}]]}],{"children":["$Lb",{"children":["$Lc",{"children":["$Ld",{},null,false,null]},null,false,"$@e"]},null,false,null]},null,false,null],"$Lf",false]],"m":"$undefined","G":["$10",["$L11","$L12","$L13","$L14","$L15","$L16"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"siKNZ69LNgpmcXavwmUTs"}
+17:I[4522016,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],""]
+18:I[5575002,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsLayoutProvider"]
+19:I[3685821,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js"],"DocsShell"]
+1b:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1f:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"ViewportBoundary"]
+21:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"MetadataBoundary"]
+:HL["/clikkle/fonts/docs/font-face.css","style"]
+:HL["/clikkle/fonts/docs/icon.css","style"]
+7:["$","span",null,{"className":"text-accent","children":"_"}]
+8:["$","h2",null,{"className":"mt-4 text-title font-medium text-primary","children":"Page not found"}]
+9:["$","p",null,{"className":"mt-4 max-w-md text-sub-body text-secondary","children":"The page you're looking for doesn't exist, has been moved, or is currently unavailable in this clone."}]
+a:["$","div",null,{"className":"mt-8 flex flex-col gap-4 sm:flex-row","children":["$","$L17",null,{"href":"/","className":"web-btn web-btn-primary w-full sm:w-fit group","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left h-4 w-4 transition-transform group-hover:-translate-x-1","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text","children":"Return to Home"}]]}]}]
+b:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/137xjh19fu1k5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0kjjuncd7prl5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0ttprgqrv_d3i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/0uc~ek0j9637p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/clikkle/_next/static/chunks/155wdmir5cdcz.js","async":true,"nonce":"$undefined"}]],[["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/font-face.css"}],["$","link",null,{"rel":"stylesheet","href":"/clikkle/fonts/docs/icon.css"}],["$","div",null,{"className":"docs-route-shell relative min-h-screen bg-[var(--bg-primary)] text-[var(--color-text-primary)] transition-colors duration-200","children":["$","$L18",null,{"children":["$","$L19",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]]}]
+c:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L1a",[["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true,"nonce":"$undefined"}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}]
+1e:[]
+e:"$W1e"
+f:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$1c",null,{"name":"Next.Metadata","children":"$L22"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+11:["$","link","0",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0x.f~dnj.3pnh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:["$","link","1",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/13g67ult77mar.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","2",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0vzkct~2nxf2-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:["$","link","3",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0o-gvtryg9z1v.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","4",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0acl2x2ikq7km.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+16:["$","link","5",{"rel":"stylesheet","href":"/clikkle/_next/static/chunks/0hs~a1~s50yn-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#19191C"}]]
+23:I[5027201,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"IconMark"]
+1d:null
+22:[["$","title","0",{"children":"Docs - Clikkle"}],["$","meta","1",{"name":"description","content":"Learn how to build like a team of hundreds. Get started with Authentication, Databases, Storage, Functions, and Messaging in your preferred framework."}],["$","meta","2",{"name":"keywords","content":"Clikkle,backend as a service,open source,BaaS,serverless,cloud functions,authentication,database,storage,realtime"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","5",{"property":"og:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","meta","6",{"property":"og:site_name","content":"Clikkle"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Clikkle — Build like a team of hundreds"}],["$","meta","11",{"name":"twitter:description","content":"Clikkle is an open-source platform for building applications at any scale."}],["$","link","12",{"rel":"icon","href":"/clikkle/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L23","13",{}]]
+24:I[2650755,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsCopyPage"]
+25:T2db2,﻿---
+layout: article
+title: Version control
+description: Configure version control integration for Functions and Sites in your self-hosted Clikkle instance.
+---
+
+# Configure GitHub app {% #git %}
+
+Clikkle supports automatic deployments through Git integration. In order for Clikkle to access your repos, you must [create a GitHub app](https://docs.github.com/en/apps/creating-github-apps/about-creating-github-apps/about-creating-github-apps) to enable this integration. The GitHub app requires the following configurations.
+
+For automatic Git deployment to work, Clikkle needs to receive communication from GitHub, this means your Clikkle project must be accessible on the internet. If you're running on `localhost`, you need to run a proxy like [ngrok](https://ngrok.com/).
+
+## GitHub App name {% #github-app-name %}
+
+The GitHub App name will be displayed when connecting Clikkle to GitHub. In addition, this name will be transformed to a slug ("My GitHub App" will become "my-github-app") and appear in the URL when accessing your app in GitHub. This slug should be set as the `_APP_VCS_GITHUB_APP_NAME` environment variable in Clikkle.
+
+## Homepage URL {% #github-homepage-url %}
+
+The homepage URL will appear when looking at the public page of your app. It can be any URL you'd like.
+
+## Callback URL {% #callback %}
+
+GitHub will use **callback URLs** to redirect users back to Clikkle. Set these callback URLs under **Identifying and authorizing users** in the same order as listed below.
+
+| URLs                                                                          |
+| ----------------------------------------------------------------------------- |
+| `https://<HOSTNAME_OR_IP>/v1/vcs/github/callback`                             |
+| `https://<HOSTNAME_OR_IP>/v1/account/sessions/oauth2/callback/github/console` |
+
+Also, check the **Request user authentication (OAuth) during installation** box.
+
+## Post installation {% #post-install %}
+
+Check the **Redirect on update** box under the **Post installation** section.
+
+## Webhook {% #github-webhooks %}
+
+GitHub will notify Clikkle about events like new commits using webhooks. Under **Webhook**, you need to check the **Active** checkbox. You also need to set the **Webhook URL** as `https://<HOSTNAME_OR_IP>/v1/vcs/github/events`.
+
+If you're running Clikkle on `localhost`, GitHub can't send requests to Clikkle through webhooks and automatic deployments won't work. You'll need to host Clikkle on a server or use a proxy like [ngrok](https://ngrok.com/) to make Clikkle accessible to GitHub.
+
+## Repository permissions {% #repository-permission %}
+
+Configure these permissions under the **Repository permission** dropdown.
+
+| Permission      | Access         |
+| --------------- | -------------- |
+| Administration  | Read and write |
+| Checks          | Read and write |
+| Commit Statuses | Read and write |
+| Contents        | Read and write |
+| Issues          | Read and write |
+| Metadata        | Read-only      |
+| Pull requests   | Read and write |
+| Webhooks        | Read and write |
+
+## Account permissions {% #account-permission %}
+
+Configure these permissions under the **Account Permission** dropdown.
+
+| Permission    | Access    |
+| ------------- | --------- |
+| Email address | Read-only |
+
+## Subscribe to events {% #subscribe-events %}
+
+Select these under the **Subscribe to events** dropdown.
+
+| Events       |
+| ------------ |
+| Pull request |
+| Push         |
+
+## Where can this GitHub App be installed? {% #github-where-installed %}
+
+Check the **Any account** box under **Where can this GitHub App be installed?** section. This is important to allow you to install the GitHub app on multiple Clikkle projects.
+
+## Environment variables {% #github-variables %}
+
+After creating your app, you'll have to configure the following environment variables.
+
+| Variable                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `_APP_DOMAIN`                    | Your main Clikkle domain used to access the Clikkle Console. When setting a public suffix domain, Clikkle will attempt to issue a valid SSL certificate automatically. When used with a dev domain, Clikkle will assign a self-signed SSL certificate. If you're using a proxy for **localhost development**, such as [ngrok](https://ngrok.com/), this will be the domain of your localhost proxy.                       |
+| `_APP_DOMAIN_TARGET`             | A hostname to serve as a CNAME target for your Clikkle custom domains. You can use the same value as used for the Clikkle `_APP_DOMAIN` variable. If you're using a proxy for **localhost development**, such as [ngrok](https://ngrok.com/), this will be the domain of your localhost proxy, such as `dd65-2405-201-4013-d8d7-b4c5-fb73-39f9-285c.ngrok.io`.                                                              |
+| `_APP_DOMAIN_FUNCTIONS`          | This will be used for system generated [Function Domains](/docs/products/functions/domains). When a function domain is generated, it will be `[UNIQUE_ID].[_APP_DOMAIN_FUNCTIONS]`. If `_APP_DOMAIN_FUNCTIONS` is set to `example.com` for example, the generated domain for functions will be something like `64d4d22db370ae41a32e.example.com`. You can use the same value as used for the Clikkle `_APP_DOMAIN` variable. |
+| `_APP_DOMAIN_SITES`              | This will be used for system generated [Site Domains](/docs/products/sites/domains). When a site domain is generated, it will be `[UNIQUE_ID].[_APP_DOMAIN_SITES]`. If `_APP_DOMAIN_SITES` is set to `example.com` for example, the generated domain for sites will be something like `64d4d22db370ae41a32e.example.com`. You can use the same value as used for the Clikkle `_APP_DOMAIN` variable.                         |
+| `_APP_VCS_GITHUB_APP_NAME`       | Name of your GitHub app. This is the display name you'll see on GitHub and it will be visible in your GitHub app's URL.                                                                                                                                                                                                                                                                                                       |
+| `_APP_VCS_GITHUB_PRIVATE_KEY`    | RSA private key from GitHub wrapped with double quotes and newlines replaced with `\n`. You can generate private keys from GitHub application settings.                                                                                                                                                                                                                                                                       |
+| `_APP_VCS_GITHUB_APP_ID`         | GitHub application ID. You can find it in your GitHub application details.                                                                                                                                                                                                                                                                                                                                                    |
+| `_APP_VCS_GITHUB_CLIENT_ID`      | GitHub client ID. You can find it in your GitHub application details.                                                                                                                                                                                                                                                                                                                                                         |
+| `_APP_VCS_GITHUB_CLIENT_SECRET`  | GitHub client secret. You can generate secrets in your GitHub application settings.                                                                                                                                                                                                                                                                                                                                           |
+| `_APP_VCS_GITHUB_WEBHOOK_SECRET` | GitHub webhook secret. You can configure it in your GitHub application settings under webhook section.                                                                                                                                                                                                                                                                                                                        |
+
+For example, see below.
+
+```bash
+_APP_DOMAIN=clikkle.example.com
+_APP_DOMAIN_TARGET=clikkle.example.com
+_APP_DOMAIN_FUNCTIONS=functions.example.com
+_APP_VCS_GITHUB_APP_NAME=my-github-app
+_APP_VCS_GITHUB_PRIVATE_KEY="-----BEGIN RSA PRIVATE KEY-----\nMIIEogIBAAKCAQEAuT8f3lo/X83hfvb0ZN/KD2pl86o/jl3ywKrkj/PQZBmtEv/z\nIugE//sfFoHWc4cizkcji+n3FNU+GEdvMioKuJlPBqPTY8hAbVn7R0geZLpDV/rs\n[...]\n-----END RSA PRIVATE KEY-----"
+_APP_VCS_GITHUB_APP_ID=12415
+_APP_VCS_GITHUB_CLIENT_ID=Iv1.35asdf43asd
+_APP_VCS_GITHUB_CLIENT_SECRET=35rsdse532q13
+_APP_VCS_GITHUB_WEBHOOK_SECRET=super-secret
+```
+
+[Learn more about environment variables](/docs/advanced/self-hosting/environment-variables)
+
+## Update existing GitHub apps {% #existing-apps %}
+
+There are additional steps if you're updating permissions in existing GitHub apps.
+Every time you update your GitHub app's permissions, GitHub will prompt you to review the changes.
+You will receive an email and you'll find a prompt under **Settings** > **Integrations** > **Applications** > **Installed GitHub Apps** > find your GitHub app > **Configure**.
+You need to accept the new permissions so they're applied to your app.
+
+
+## Apply configuration
+
+After creating your GitHub App, restart your Clikkle services to apply the configuration:
+
+```bash
+docker compose up -d
+```
+
+## Verify configuration
+
+To verify that your GitHub App is correctly configured:
+
+1. Open the Clikkle Console and navigate to a project.
+2. Go to either the Functions or Sites section.
+3. Try creating a new Function or Site using GitHub as the source.
+4. You should be prompted to install your GitHub App on your repositories.
+
+## Troubleshooting
+
+If you encounter issues with your GitHub App integration:
+
+- Ensure your Clikkle instance is publicly accessible, as GitHub needs to send webhook events.
+- Check that the webhook URL is correctly formatted with your domain.
+- Verify the permissions granted to the GitHub App are correct.
+- Check the Clikkle logs for any errors related to GitHub integration:
+
+```bash
+docker compose logs clikkle
+```
+
+{% info title="Applying changes" %}
+
+After editing your `docker-compose.yml` or `.env` files, you will need to recreate your Clikkle stack by running the following compose command in your terminal.
+
+```sh
+docker compose up -d
+```
+
+You can verify if the changes have been successfully applied by running this command:
+
+```sh
+docker compose exec clikkle vars
+```
+
+{% /info %}
+
+
+1a:["$","div",null,{"className":"contents","children":["$","article",null,{"className":"web-article contents","children":[["$","header",null,{"className":"web-article-header docs-article-header-stack","children":[["$","div",null,{"className":"docs-article-mobile-header-row mb-2 flex w-full items-center lg:hidden","children":[null,["$","div",null,{"className":"copy-button-wrapper-mobile ml-auto","children":["$","$L24",null,{"markdown":"$25","className":"ml-0"}]}]]}],null,"$L26"]}],"$L27","$L28"]}]}]
+2a:I[885369,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsArticleGridContent"]
+2b:I[6725962,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsProse"]
+2c:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+2d:I[394047,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTable"]
+52:I[9595551,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsOnThisPage"]
+29:T2db2,﻿---
+layout: article
+title: Version control
+description: Configure version control integration for Functions and Sites in your self-hosted Clikkle instance.
+---
+
+# Configure GitHub app {% #git %}
+
+Clikkle supports automatic deployments through Git integration. In order for Clikkle to access your repos, you must [create a GitHub app](https://docs.github.com/en/apps/creating-github-apps/about-creating-github-apps/about-creating-github-apps) to enable this integration. The GitHub app requires the following configurations.
+
+For automatic Git deployment to work, Clikkle needs to receive communication from GitHub, this means your Clikkle project must be accessible on the internet. If you're running on `localhost`, you need to run a proxy like [ngrok](https://ngrok.com/).
+
+## GitHub App name {% #github-app-name %}
+
+The GitHub App name will be displayed when connecting Clikkle to GitHub. In addition, this name will be transformed to a slug ("My GitHub App" will become "my-github-app") and appear in the URL when accessing your app in GitHub. This slug should be set as the `_APP_VCS_GITHUB_APP_NAME` environment variable in Clikkle.
+
+## Homepage URL {% #github-homepage-url %}
+
+The homepage URL will appear when looking at the public page of your app. It can be any URL you'd like.
+
+## Callback URL {% #callback %}
+
+GitHub will use **callback URLs** to redirect users back to Clikkle. Set these callback URLs under **Identifying and authorizing users** in the same order as listed below.
+
+| URLs                                                                          |
+| ----------------------------------------------------------------------------- |
+| `https://<HOSTNAME_OR_IP>/v1/vcs/github/callback`                             |
+| `https://<HOSTNAME_OR_IP>/v1/account/sessions/oauth2/callback/github/console` |
+
+Also, check the **Request user authentication (OAuth) during installation** box.
+
+## Post installation {% #post-install %}
+
+Check the **Redirect on update** box under the **Post installation** section.
+
+## Webhook {% #github-webhooks %}
+
+GitHub will notify Clikkle about events like new commits using webhooks. Under **Webhook**, you need to check the **Active** checkbox. You also need to set the **Webhook URL** as `https://<HOSTNAME_OR_IP>/v1/vcs/github/events`.
+
+If you're running Clikkle on `localhost`, GitHub can't send requests to Clikkle through webhooks and automatic deployments won't work. You'll need to host Clikkle on a server or use a proxy like [ngrok](https://ngrok.com/) to make Clikkle accessible to GitHub.
+
+## Repository permissions {% #repository-permission %}
+
+Configure these permissions under the **Repository permission** dropdown.
+
+| Permission      | Access         |
+| --------------- | -------------- |
+| Administration  | Read and write |
+| Checks          | Read and write |
+| Commit Statuses | Read and write |
+| Contents        | Read and write |
+| Issues          | Read and write |
+| Metadata        | Read-only      |
+| Pull requests   | Read and write |
+| Webhooks        | Read and write |
+
+## Account permissions {% #account-permission %}
+
+Configure these permissions under the **Account Permission** dropdown.
+
+| Permission    | Access    |
+| ------------- | --------- |
+| Email address | Read-only |
+
+## Subscribe to events {% #subscribe-events %}
+
+Select these under the **Subscribe to events** dropdown.
+
+| Events       |
+| ------------ |
+| Pull request |
+| Push         |
+
+## Where can this GitHub App be installed? {% #github-where-installed %}
+
+Check the **Any account** box under **Where can this GitHub App be installed?** section. This is important to allow you to install the GitHub app on multiple Clikkle projects.
+
+## Environment variables {% #github-variables %}
+
+After creating your app, you'll have to configure the following environment variables.
+
+| Variable                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `_APP_DOMAIN`                    | Your main Clikkle domain used to access the Clikkle Console. When setting a public suffix domain, Clikkle will attempt to issue a valid SSL certificate automatically. When used with a dev domain, Clikkle will assign a self-signed SSL certificate. If you're using a proxy for **localhost development**, such as [ngrok](https://ngrok.com/), this will be the domain of your localhost proxy.                       |
+| `_APP_DOMAIN_TARGET`             | A hostname to serve as a CNAME target for your Clikkle custom domains. You can use the same value as used for the Clikkle `_APP_DOMAIN` variable. If you're using a proxy for **localhost development**, such as [ngrok](https://ngrok.com/), this will be the domain of your localhost proxy, such as `dd65-2405-201-4013-d8d7-b4c5-fb73-39f9-285c.ngrok.io`.                                                              |
+| `_APP_DOMAIN_FUNCTIONS`          | This will be used for system generated [Function Domains](/docs/products/functions/domains). When a function domain is generated, it will be `[UNIQUE_ID].[_APP_DOMAIN_FUNCTIONS]`. If `_APP_DOMAIN_FUNCTIONS` is set to `example.com` for example, the generated domain for functions will be something like `64d4d22db370ae41a32e.example.com`. You can use the same value as used for the Clikkle `_APP_DOMAIN` variable. |
+| `_APP_DOMAIN_SITES`              | This will be used for system generated [Site Domains](/docs/products/sites/domains). When a site domain is generated, it will be `[UNIQUE_ID].[_APP_DOMAIN_SITES]`. If `_APP_DOMAIN_SITES` is set to `example.com` for example, the generated domain for sites will be something like `64d4d22db370ae41a32e.example.com`. You can use the same value as used for the Clikkle `_APP_DOMAIN` variable.                         |
+| `_APP_VCS_GITHUB_APP_NAME`       | Name of your GitHub app. This is the display name you'll see on GitHub and it will be visible in your GitHub app's URL.                                                                                                                                                                                                                                                                                                       |
+| `_APP_VCS_GITHUB_PRIVATE_KEY`    | RSA private key from GitHub wrapped with double quotes and newlines replaced with `\n`. You can generate private keys from GitHub application settings.                                                                                                                                                                                                                                                                       |
+| `_APP_VCS_GITHUB_APP_ID`         | GitHub application ID. You can find it in your GitHub application details.                                                                                                                                                                                                                                                                                                                                                    |
+| `_APP_VCS_GITHUB_CLIENT_ID`      | GitHub client ID. You can find it in your GitHub application details.                                                                                                                                                                                                                                                                                                                                                         |
+| `_APP_VCS_GITHUB_CLIENT_SECRET`  | GitHub client secret. You can generate secrets in your GitHub application settings.                                                                                                                                                                                                                                                                                                                                           |
+| `_APP_VCS_GITHUB_WEBHOOK_SECRET` | GitHub webhook secret. You can configure it in your GitHub application settings under webhook section.                                                                                                                                                                                                                                                                                                                        |
+
+For example, see below.
+
+```bash
+_APP_DOMAIN=clikkle.example.com
+_APP_DOMAIN_TARGET=clikkle.example.com
+_APP_DOMAIN_FUNCTIONS=functions.example.com
+_APP_VCS_GITHUB_APP_NAME=my-github-app
+_APP_VCS_GITHUB_PRIVATE_KEY="-----BEGIN RSA PRIVATE KEY-----\nMIIEogIBAAKCAQEAuT8f3lo/X83hfvb0ZN/KD2pl86o/jl3ywKrkj/PQZBmtEv/z\nIugE//sfFoHWc4cizkcji+n3FNU+GEdvMioKuJlPBqPTY8hAbVn7R0geZLpDV/rs\n[...]\n-----END RSA PRIVATE KEY-----"
+_APP_VCS_GITHUB_APP_ID=12415
+_APP_VCS_GITHUB_CLIENT_ID=Iv1.35asdf43asd
+_APP_VCS_GITHUB_CLIENT_SECRET=35rsdse532q13
+_APP_VCS_GITHUB_WEBHOOK_SECRET=super-secret
+```
+
+[Learn more about environment variables](/docs/advanced/self-hosting/environment-variables)
+
+## Update existing GitHub apps {% #existing-apps %}
+
+There are additional steps if you're updating permissions in existing GitHub apps.
+Every time you update your GitHub app's permissions, GitHub will prompt you to review the changes.
+You will receive an email and you'll find a prompt under **Settings** > **Integrations** > **Applications** > **Installed GitHub Apps** > find your GitHub app > **Configure**.
+You need to accept the new permissions so they're applied to your app.
+
+
+## Apply configuration
+
+After creating your GitHub App, restart your Clikkle services to apply the configuration:
+
+```bash
+docker compose up -d
+```
+
+## Verify configuration
+
+To verify that your GitHub App is correctly configured:
+
+1. Open the Clikkle Console and navigate to a project.
+2. Go to either the Functions or Sites section.
+3. Try creating a new Function or Site using GitHub as the source.
+4. You should be prompted to install your GitHub App on your repositories.
+
+## Troubleshooting
+
+If you encounter issues with your GitHub App integration:
+
+- Ensure your Clikkle instance is publicly accessible, as GitHub needs to send webhook events.
+- Check that the webhook URL is correctly formatted with your domain.
+- Verify the permissions granted to the GitHub App are correct.
+- Check the Clikkle logs for any errors related to GitHub integration:
+
+```bash
+docker compose logs clikkle
+```
+
+{% info title="Applying changes" %}
+
+After editing your `docker-compose.yml` or `.env` files, you will need to recreate your Clikkle stack by running the following compose command in your terminal.
+
+```sh
+docker compose up -d
+```
+
+You can verify if the changes have been successfully applied by running this command:
+
+```sh
+docker compose exec clikkle vars
+```
+
+{% /info %}
+
+
+26:["$","div",null,{"className":"docs-article-title-actions-row","children":[["$","div",null,{"className":"relative flex min-w-0 flex-1 items-center","children":[null,["$","h1",null,{"className":"text-title m-0 font-aeonik-pro tracking-tight text-primary","children":"Version control"}]]}],["$","div",null,{"className":"web-article-header-end copy-button-wrapper hidden shrink-0 lg:block","children":["$","$L24",null,{"markdown":"$29","className":"ml-0"}]}]]}]
+27:["$","$L2a",null,{"className":"prose max-w-none","children":[null,["$","div",null,{"className":"docs-article-after-header pt-8","children":[null,null,["$","$L2b",null,{"isArticleLayout":true,"contentOnly":true,"children":["$","article",null,{"children":[["$","$L2c",null,{"id":"git","level":1,"children":"Configure GitHub app "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Clikkle supports automatic deployments through Git integration. In order for Clikkle to access your repos, you must ",["$","a",null,{"href":"https://docs.github.com/en/apps/creating-github-apps/about-creating-github-apps/about-creating-github-apps","target":"_blank","rel":"noopener nofollow","children":"create a GitHub app"}]," to enable this integration. The GitHub app requires the following configurations."]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["For automatic Git deployment to work, Clikkle needs to receive communication from GitHub, this means your Clikkle project must be accessible on the internet. If you're running on ",["$","code",null,{"children":"localhost"}],", you need to run a proxy like ",["$","a",null,{"href":"https://ngrok.com/","target":"_blank","rel":"noopener nofollow","children":"ngrok"}],"."]}],["$","$L2c",null,{"id":"github-app-name","level":2,"children":"GitHub App name "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["The GitHub App name will be displayed when connecting Clikkle to GitHub. In addition, this name will be transformed to a slug (\"My GitHub App\" will become \"my-github-app\") and appear in the URL when accessing your app in GitHub. This slug should be set as the ",["$","code",null,{"children":"_APP_VCS_GITHUB_APP_NAME"}]," environment variable in Clikkle."]}],["$","$L2c",null,{"id":"github-homepage-url","level":2,"children":"Homepage URL "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"The homepage URL will appear when looking at the public page of your app. It can be any URL you'd like."}],["$","$L2c",null,{"id":"callback","level":2,"children":"Callback URL "}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["GitHub will use ",["$","strong",null,{"children":"callback URLs"}]," to redirect users back to Clikkle. Set these callback URLs under ",["$","strong",null,{"children":"Identifying and authorizing users"}]," in the same order as listed below."]}],["$","$L2d",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"URLs"}]}]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"https://<HOSTNAME_OR_IP>/v1/vcs/github/callback"}]}]}]}],["$","tr",null,{"className":"web-table-row","children":["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"https://<HOSTNAME_OR_IP>/v1/account/sessions/oauth2/callback/github/console"}]}]}]}]]}]]}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Also, check the ",["$","strong",null,{"children":"Request user authentication (OAuth) during installation"}]," box."]}],"$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50"]}]}]]}],"$L51"]}]
+28:["$","aside",null,{"className":"web-references-menu ps-6","children":["$","$L52",null,{"items":[{"id":"git","title":"Configure GitHub app","level":1},{"id":"github-app-name","title":"GitHub App name","level":2},{"id":"github-homepage-url","title":"Homepage URL","level":2},{"id":"callback","title":"Callback URL","level":2},{"id":"post-install","title":"Post installation","level":2},{"id":"github-webhooks","title":"Webhook","level":2},{"id":"repository-permission","title":"Repository permissions","level":2},{"id":"account-permission","title":"Account permissions","level":2},{"id":"subscribe-events","title":"Subscribe to events","level":2},{"id":"github-where-installed","title":"Where can this GitHub App be installed?","level":2},{"id":"github-variables","title":"Environment variables","level":2},{"id":"existing-apps","title":"Update existing GitHub apps","level":2},{"id":"apply-configuration","title":"Apply configuration","level":2},{"id":"verify-configuration","title":"Verify configuration","level":2},{"id":"troubleshooting","title":"Troubleshooting","level":2}]}]}]
+5d:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+5e:I[5587564,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsFeedback"]
+2e:["$","$L2c",null,{"id":"post-install","level":2,"children":"Post installation "}]
+2f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Check the ",["$","strong",null,{"children":"Redirect on update"}]," box under the ",["$","strong",null,{"children":"Post installation"}]," section."]}]
+30:["$","$L2c",null,{"id":"github-webhooks","level":2,"children":"Webhook "}]
+31:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["GitHub will notify Clikkle about events like new commits using webhooks. Under ",["$","strong",null,{"children":"Webhook"}],", you need to check the ",["$","strong",null,{"children":"Active"}]," checkbox. You also need to set the ",["$","strong",null,{"children":"Webhook URL"}]," as ",["$","code",null,{"children":"https://<HOSTNAME_OR_IP>/v1/vcs/github/events"}],"."]}]
+32:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["If you're running Clikkle on ",["$","code",null,{"children":"localhost"}],", GitHub can't send requests to Clikkle through webhooks and automatic deployments won't work. You'll need to host Clikkle on a server or use a proxy like ",["$","a",null,{"href":"https://ngrok.com/","target":"_blank","rel":"noopener nofollow","children":"ngrok"}]," to make Clikkle accessible to GitHub."]}]
+33:["$","$L2c",null,{"id":"repository-permission","level":2,"children":"Repository permissions "}]
+34:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Configure these permissions under the ",["$","strong",null,{"children":"Repository permission"}]," dropdown."]}]
+35:["$","$L2d",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Permission"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Access"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Administration"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Read and write"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Checks"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Read and write"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Commit Statuses"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Read and write"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Contents"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Read and write"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Issues"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Read and write"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Metadata"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Read-only"}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Pull requests"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":"$L53"}]]}],"$L54"]}]]}]
+36:["$","$L2c",null,{"id":"account-permission","level":2,"children":"Account permissions "}]
+37:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Configure these permissions under the ",["$","strong",null,{"children":"Account Permission"}]," dropdown."]}]
+38:["$","$L2d",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Permission"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Access"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Email address"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Read-only"}]}]]}]}]]}]
+39:["$","$L2c",null,{"id":"subscribe-events","level":2,"children":"Subscribe to events "}]
+3a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Select these under the ",["$","strong",null,{"children":"Subscribe to events"}]," dropdown."]}]
+3b:["$","$L2d",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Events"}]}]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Pull request"}]}]}],["$","tr",null,{"className":"web-table-row","children":["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Push"}]}]}]]}]]}]
+3c:["$","$L2c",null,{"id":"github-where-installed","level":2,"children":"Where can this GitHub App be installed? "}]
+3d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Check the ",["$","strong",null,{"children":"Any account"}]," box under ",["$","strong",null,{"children":"Where can this GitHub App be installed?"}]," section. This is important to allow you to install the GitHub app on multiple Clikkle projects."]}]
+3e:["$","$L2c",null,{"id":"github-variables","level":2,"children":"Environment variables "}]
+3f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After creating your app, you'll have to configure the following environment variables."}]
+40:["$","$L2d",null,{"children":[["$","thead",null,{"className":"web-table-header","children":["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Variable"}]}],["$","td",null,{"role":"columnheader","className":"web-table-head-cell min-w-44 px-3 py-[0.5625rem] align-top","children":["$","span",null,{"className":"text-sm leading-[1.375rem] text-[var(--color-text-primary)] dark:text-white","children":"Description"}]}]]}]}],["$","tbody",null,{"className":"web-table-body","children":[["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_DOMAIN"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["Your main Clikkle domain used to access the Clikkle Console. When setting a public suffix domain, Clikkle will attempt to issue a valid SSL certificate automatically. When used with a dev domain, Clikkle will assign a self-signed SSL certificate. If you're using a proxy for ",["$","strong",null,{"children":"localhost development"}],", such as ",["$","a",null,{"href":"https://ngrok.com/","target":"_blank","rel":"noopener nofollow","children":"ngrok"}],", this will be the domain of your localhost proxy."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_DOMAIN_TARGET"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["A hostname to serve as a CNAME target for your Clikkle custom domains. You can use the same value as used for the Clikkle ",["$","code",null,{"children":"_APP_DOMAIN"}]," variable. If you're using a proxy for ",["$","strong",null,{"children":"localhost development"}],", such as ",["$","a",null,{"href":"https://ngrok.com/","target":"_blank","rel":"noopener nofollow","children":"ngrok"}],", this will be the domain of your localhost proxy, such as ",["$","code",null,{"children":"dd65-2405-201-4013-d8d7-b4c5-fb73-39f9-285c.ngrok.io"}],"."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_DOMAIN_FUNCTIONS"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This will be used for system generated ",["$","$L17",null,{"href":"/docs/products/functions/domains","children":"Function Domains"}],". When a function domain is generated, it will be ",["$","code",null,{"children":"[UNIQUE_ID].[_APP_DOMAIN_FUNCTIONS]"}],". If ",["$","code",null,{"children":"_APP_DOMAIN_FUNCTIONS"}]," is set to ",["$","code",null,{"children":"example.com"}]," for example, the generated domain for functions will be something like ",["$","code",null,{"children":"64d4d22db370ae41a32e.example.com"}],". You can use the same value as used for the Clikkle ",["$","code",null,{"children":"_APP_DOMAIN"}]," variable."]}]}]]}],["$","tr",null,{"className":"web-table-row","children":["$L55","$L56"]}],"$L57","$L58","$L59","$L5a","$L5b","$L5c"]}]]}]
+41:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"For example, see below."}]
+42:["$","$L5d",null,{"language":"bash","content":"_APP_DOMAIN=clikkle.example.com\n_APP_DOMAIN_TARGET=clikkle.example.com\n_APP_DOMAIN_FUNCTIONS=functions.example.com\n_APP_VCS_GITHUB_APP_NAME=my-github-app\n_APP_VCS_GITHUB_PRIVATE_KEY=\"-----BEGIN RSA PRIVATE KEY-----\\nMIIEogIBAAKCAQEAuT8f3lo/X83hfvb0ZN/KD2pl86o/jl3ywKrkj/PQZBmtEv/z\\nIugE//sfFoHWc4cizkcji+n3FNU+GEdvMioKuJlPBqPTY8hAbVn7R0geZLpDV/rs\\n[...]\\n-----END RSA PRIVATE KEY-----\"\n_APP_VCS_GITHUB_APP_ID=12415\n_APP_VCS_GITHUB_CLIENT_ID=Iv1.35asdf43asd\n_APP_VCS_GITHUB_CLIENT_SECRET=35rsdse532q13\n_APP_VCS_GITHUB_WEBHOOK_SECRET=super-secret\n","children":"_APP_DOMAIN=clikkle.example.com\n_APP_DOMAIN_TARGET=clikkle.example.com\n_APP_DOMAIN_FUNCTIONS=functions.example.com\n_APP_VCS_GITHUB_APP_NAME=my-github-app\n_APP_VCS_GITHUB_PRIVATE_KEY=\"-----BEGIN RSA PRIVATE KEY-----\\nMIIEogIBAAKCAQEAuT8f3lo/X83hfvb0ZN/KD2pl86o/jl3ywKrkj/PQZBmtEv/z\\nIugE//sfFoHWc4cizkcji+n3FNU+GEdvMioKuJlPBqPTY8hAbVn7R0geZLpDV/rs\\n[...]\\n-----END RSA PRIVATE KEY-----\"\n_APP_VCS_GITHUB_APP_ID=12415\n_APP_VCS_GITHUB_CLIENT_ID=Iv1.35asdf43asd\n_APP_VCS_GITHUB_CLIENT_SECRET=35rsdse532q13\n_APP_VCS_GITHUB_WEBHOOK_SECRET=super-secret\n"}]
+43:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["$","$L17",null,{"href":"/docs/advanced/self-hosting/environment-variables","children":"Learn more about environment variables"}]}]
+44:["$","$L2c",null,{"id":"existing-apps","level":2,"children":"Update existing GitHub apps "}]
+45:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["There are additional steps if you're updating permissions in existing GitHub apps."," ","Every time you update your GitHub app's permissions, GitHub will prompt you to review the changes."," ","You will receive an email and you'll find a prompt under ",["$","strong",null,{"children":"Settings"}]," > ",["$","strong",null,{"children":"Integrations"}]," > ",["$","strong",null,{"children":"Applications"}]," > ",["$","strong",null,{"children":"Installed GitHub Apps"}]," > find your GitHub app > ",["$","strong",null,{"children":"Configure"}],"."," ","You need to accept the new permissions so they're applied to your app."]}]
+46:["$","$L2c",null,{"level":2,"children":"Apply configuration"}]
+47:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"After creating your GitHub App, restart your Clikkle services to apply the configuration:"}]
+48:["$","$L5d",null,{"language":"bash","content":"docker compose up -d\n","children":"docker compose up -d\n"}]
+49:["$","$L2c",null,{"level":2,"children":"Verify configuration"}]
+4a:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"To verify that your GitHub App is correctly configured:"}]
+4b:["$","ol",null,{"className":"web-numeric-list","start":"$undefined","children":[["$","li",null,{"children":"Open the Clikkle Console and navigate to a project."}],["$","li",null,{"children":"Go to either the Functions or Sites section."}],["$","li",null,{"children":"Try creating a new Function or Site using GitHub as the source."}],["$","li",null,{"children":"You should be prompted to install your GitHub App on your repositories."}]]}]
+4c:["$","$L2c",null,{"level":2,"children":"Troubleshooting"}]
+4d:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"If you encounter issues with your GitHub App integration:"}]
+4e:["$","ul",null,{"className":"web-pink-dots","children":[["$","li",null,{"children":"Ensure your Clikkle instance is publicly accessible, as GitHub needs to send webhook events."}],["$","li",null,{"children":"Check that the webhook URL is correctly formatted with your domain."}],["$","li",null,{"children":"Verify the permissions granted to the GitHub App are correct."}],["$","li",null,{"children":"Check the Clikkle logs for any errors related to GitHub integration:"}]]}]
+4f:["$","$L5d",null,{"language":"bash","content":"docker compose logs clikkle\n","children":"docker compose logs clikkle\n"}]
+50:["$","div",null,{"className":"web-inline-info not-prose my-12!","children":[["$","span",null,{"className":"icon-info","aria-hidden":"true"}],["$","h5",null,{"className":"text-sub-body text-primary font-medium","children":"Applying changes"}],[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["After editing your ",["$","code",null,{"children":"docker-compose.yml"}]," or ",["$","code",null,{"children":".env"}]," files, you will need to recreate your Clikkle stack by running the following compose command in your terminal."]}],["$","$L5d",null,{"language":"sh","content":"docker compose up -d\n","children":"docker compose up -d\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"You can verify if the changes have been successfully applied by running this command:"}],["$","$L5d",null,{"language":"sh","content":"docker compose exec clikkle vars\n","children":"docker compose exec clikkle vars\n"}]]]}]
+51:["$","$L5e",null,{"date":"$undefined"}]
+53:["$","div",null,{"className":"td-wrapper","children":"Read and write"}]
+54:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Webhooks"}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Read and write"}]}]]}]
+55:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_DOMAIN_SITES"}]}]}]
+56:["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["This will be used for system generated ",["$","$L17",null,{"href":"/docs/products/sites/domains","children":"Site Domains"}],". When a site domain is generated, it will be ",["$","code",null,{"children":"[UNIQUE_ID].[_APP_DOMAIN_SITES]"}],". If ",["$","code",null,{"children":"_APP_DOMAIN_SITES"}]," is set to ",["$","code",null,{"children":"example.com"}]," for example, the generated domain for sites will be something like ",["$","code",null,{"children":"64d4d22db370ae41a32e.example.com"}],". You can use the same value as used for the Clikkle ",["$","code",null,{"children":"_APP_DOMAIN"}]," variable."]}]}]
+57:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_VCS_GITHUB_APP_NAME"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"Name of your GitHub app. This is the display name you'll see on GitHub and it will be visible in your GitHub app's URL."}]}]]}]
+58:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_VCS_GITHUB_PRIVATE_KEY"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["RSA private key from GitHub wrapped with double quotes and newlines replaced with ",["$","code",null,{"children":"\\n"}],". You can generate private keys from GitHub application settings."]}]}]]}]
+59:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_VCS_GITHUB_APP_ID"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"GitHub application ID. You can find it in your GitHub application details."}]}]]}]
+5a:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_VCS_GITHUB_CLIENT_ID"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"GitHub client ID. You can find it in your GitHub application details."}]}]]}]
+5b:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_VCS_GITHUB_CLIENT_SECRET"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"GitHub client secret. You can generate secrets in your GitHub application settings."}]}]]}]
+5c:["$","tr",null,{"className":"web-table-row","children":[["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":["$","code",null,{"children":"_APP_VCS_GITHUB_WEBHOOK_SECRET"}]}]}],["$","td",null,{"className":"web-table-col px-3 py-[0.5625rem] text-sm leading-[1.375rem] text-[var(--color-text-secondary)] dark:text-white/70","children":["$","div",null,{"className":"td-wrapper","children":"GitHub webhook secret. You can configure it in your GitHub application settings under webhook section."}]}]]}]

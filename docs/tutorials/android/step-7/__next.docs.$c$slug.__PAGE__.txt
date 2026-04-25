@@ -1,0 +1,635 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+12:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[4673752,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsHeading"]
+5:T1b0e,---
+layout: tutorial
+title: Create ideas page
+description: Add pagination and ordering to you Android application powered by Clikkle Databases.
+step: 7
+---
+
+Using the `IdeasService`, we can build a screen to submit and view ideas.
+Overwrite the contents of `ui/screens/IdeasScreen.kt` with the following code.
+
+```kotlin
+package <YOUR_ROOT_PACKAGE_HERE>.screens
+
+
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.Button
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Text
+import androidx.compose.material3.TextField
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import io.clikkle.models.Row
+import io.clikkle.models.User
+import kotlinx.coroutines.launch
+import <YOUR_ROOT_PACKAGE_HERE>services.IdeaService
+
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun IdeasScreen(
+    user: User<Map<String, Any>>?,
+    ideasService: IdeaService
+) {
+    var ideas by remember { mutableStateOf<List<Row<Map<String, Any>>>>(listOf()) }
+    val coroutineScope = rememberCoroutineScope()
+
+    LaunchedEffect(ideasService) {
+        coroutineScope.launch {
+            ideas = ideasService.fetch()
+        }
+    }
+
+    fun onSubmit(title: String, description: String) {
+        if (user === null) return
+        coroutineScope.launch {
+            ideas = listOf(ideasService.add(user.id, title, description)).plus(ideas)
+        }
+    }
+
+    fun onRemove(ideaId: String) {
+        coroutineScope.launch {
+            ideas = ideas.filter { idea -> idea.id !== ideaId }
+            ideasService.remove(ideaId)
+        }
+    }
+
+    var title by remember { mutableStateOf("") }
+    var description by remember { mutableStateOf("") }
+
+    Column(
+        modifier = Modifier.fillMaxSize(),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        if (user != null) {
+            TextField(
+                value = title,
+                onValueChange = { title = it },
+                label = { Text("Title") },
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp)
+            )
+            TextField(
+                value = description,
+                onValueChange = { description = it },
+                label = { Text("Description") },
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp)
+            )
+            Button(onClick = {
+                onSubmit(title, description)
+                title = ""
+                description = ""
+            }) {
+                Text("Submit")
+            }
+        }
+
+        LazyColumn(modifier = Modifier.fillMaxSize()) {
+            items(ideas) { idea ->
+                Column(modifier = Modifier.padding(16.dp)) {
+                    Text(text = idea.data["title"]?.toString() ?: "", fontWeight = FontWeight(700))
+                    Text(text = idea.data["description"]?.toString() ?: "")
+                    if (user?.id == idea.data["userId"])
+                        Button(onClick = { onRemove(idea.id) }) {
+                            Text("Remove")
+                        }
+                }
+            }
+        }
+    }
+}
+```
+
+## Update navigation {% #update-navigation %}
+
+Update `MainActivity.kt` to add the `IdeasScreen` to the navigation bar.
+
+Look for `// Add this line 👇` to find where the changes made here.
+
+```kotlin
+package <YOUR_ROOT_PACKAGE_HERE>
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.compose.runtime.*
+import androidx.compose.foundation.layout.*
+import androidx.compose.material.icons.Icons
+// Add this line 👇
+import androidx.compose.material.icons.filled.List
+import androidx.compose.material.icons.filled.Person
+import androidx.compose.material3.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import io.clikkle.models.User
+import <YOUR_ROOT_PACKAGE_HERE>.services.Clikkle
+import <YOUR_ROOT_PACKAGE_HERE>.services.AccountService
+import <YOUR_ROOT_PACKAGE_HERE>.ui.screens.UserScreen
+
+// Add this line 👇
+import <YOUR_ROOT_PACKAGE_HERE>.services.IdeaService
+
+// Add this line 👇
+import <YOUR_ROOT_PACKAGE_HERE>.ui.screens.IdeasScreen
+
+
+enum class Screen {
+    User,
+    // Add this line 👇
+    Ideas
+}
+
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        Clikkle.init(applicationContext)
+
+        setContent {
+            // Update this line 👇
+            AppContent(Clikkle.account, Clikkle.ideas)
+        }
+    }
+}
+
+// Add navigation with this composable 👇
+@Composable
+private fun AppBottomBar(screen: MutableState<Screen>) {
+    BottomAppBar {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.Center
+        ) {
+            IconButton(onClick = { screen.value = Screen.Ideas }) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Icon(Icons.Default.List, contentDescription = "Ideas")
+                    Text("Ideas")
+                }
+            }
+            IconButton(onClick = { screen.value = Screen.User }) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Icon(Icons.Default.Person, contentDescription = "User")
+                    Text("User")
+                }
+            }
+        }
+    }
+}
+
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+// Update this line 👇
+private fun AppContent(accountService: AccountService, ideasService: IdeaService) {
+    val user = remember { mutableStateOf<User<Map<String, Any>>?>(null) }
+    // Update this line 👇
+    val screen = remember { mutableStateOf(Screen.Ideas) }
+
+    LaunchedEffect(screen) {
+        user.value = accountService.getLoggedIn()
+    }
+
+    Scaffold(bottomBar = { AppBottomBar(screen) }) { padding ->
+        Column(modifier = Modifier.padding(padding)) {
+            when (screen.value) {
+                Screen.User -> UserScreen(user, accountService)
+                // Update this line 👇
+                else -> IdeasScreen(user.value, ideasService)
+            }
+        }
+    }
+}
+```
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Build an ideas tracker with Android","steps":[{"step":1,"title":"Build an ideas tracker with Android","href":"/docs/tutorials/android/step-1","fileSlug":"step-1"},{"step":2,"title":"Create app","href":"/docs/tutorials/android/step-2","fileSlug":"step-2"},{"step":3,"title":"Set up Clikkle","href":"/docs/tutorials/android/step-3","fileSlug":"step-3"},{"step":4,"title":"Add authentication","href":"/docs/tutorials/android/step-4","fileSlug":"step-4"},{"step":5,"title":"Add MainActivity","href":"/docs/tutorials/android/step-5","fileSlug":"step-5"},{"step":6,"title":"Add database","href":"/docs/tutorials/android/step-6","fileSlug":"step-6"},{"step":7,"title":"Create ideas page","href":"/docs/tutorials/android/step-7","fileSlug":"step-7"},{"step":8,"title":"Next steps","href":"/docs/tutorials/android/step-8","fileSlug":"step-8"}],"currentStep":7,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:6","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+c:Tdd8,package <YOUR_ROOT_PACKAGE_HERE>.screens
+
+
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.Button
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Text
+import androidx.compose.material3.TextField
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import io.clikkle.models.Row
+import io.clikkle.models.User
+import kotlinx.coroutines.launch
+import <YOUR_ROOT_PACKAGE_HERE>services.IdeaService
+
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun IdeasScreen(
+    user: User<Map<String, Any>>?,
+    ideasService: IdeaService
+) {
+    var ideas by remember { mutableStateOf<List<Row<Map<String, Any>>>>(listOf()) }
+    val coroutineScope = rememberCoroutineScope()
+
+    LaunchedEffect(ideasService) {
+        coroutineScope.launch {
+            ideas = ideasService.fetch()
+        }
+    }
+
+    fun onSubmit(title: String, description: String) {
+        if (user === null) return
+        coroutineScope.launch {
+            ideas = listOf(ideasService.add(user.id, title, description)).plus(ideas)
+        }
+    }
+
+    fun onRemove(ideaId: String) {
+        coroutineScope.launch {
+            ideas = ideas.filter { idea -> idea.id !== ideaId }
+            ideasService.remove(ideaId)
+        }
+    }
+
+    var title by remember { mutableStateOf("") }
+    var description by remember { mutableStateOf("") }
+
+    Column(
+        modifier = Modifier.fillMaxSize(),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        if (user != null) {
+            TextField(
+                value = title,
+                onValueChange = { title = it },
+                label = { Text("Title") },
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp)
+            )
+            TextField(
+                value = description,
+                onValueChange = { description = it },
+                label = { Text("Description") },
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp)
+            )
+            Button(onClick = {
+                onSubmit(title, description)
+                title = ""
+                description = ""
+            }) {
+                Text("Submit")
+            }
+        }
+
+        LazyColumn(modifier = Modifier.fillMaxSize()) {
+            items(ideas) { idea ->
+                Column(modifier = Modifier.padding(16.dp)) {
+                    Text(text = idea.data["title"]?.toString() ?: "", fontWeight = FontWeight(700))
+                    Text(text = idea.data["description"]?.toString() ?: "")
+                    if (user?.id == idea.data["userId"])
+                        Button(onClick = { onRemove(idea.id) }) {
+                            Text("Remove")
+                        }
+                }
+            }
+        }
+    }
+}
+d:Tdd8,package <YOUR_ROOT_PACKAGE_HERE>.screens
+
+
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.Button
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Text
+import androidx.compose.material3.TextField
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import io.clikkle.models.Row
+import io.clikkle.models.User
+import kotlinx.coroutines.launch
+import <YOUR_ROOT_PACKAGE_HERE>services.IdeaService
+
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun IdeasScreen(
+    user: User<Map<String, Any>>?,
+    ideasService: IdeaService
+) {
+    var ideas by remember { mutableStateOf<List<Row<Map<String, Any>>>>(listOf()) }
+    val coroutineScope = rememberCoroutineScope()
+
+    LaunchedEffect(ideasService) {
+        coroutineScope.launch {
+            ideas = ideasService.fetch()
+        }
+    }
+
+    fun onSubmit(title: String, description: String) {
+        if (user === null) return
+        coroutineScope.launch {
+            ideas = listOf(ideasService.add(user.id, title, description)).plus(ideas)
+        }
+    }
+
+    fun onRemove(ideaId: String) {
+        coroutineScope.launch {
+            ideas = ideas.filter { idea -> idea.id !== ideaId }
+            ideasService.remove(ideaId)
+        }
+    }
+
+    var title by remember { mutableStateOf("") }
+    var description by remember { mutableStateOf("") }
+
+    Column(
+        modifier = Modifier.fillMaxSize(),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        if (user != null) {
+            TextField(
+                value = title,
+                onValueChange = { title = it },
+                label = { Text("Title") },
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp)
+            )
+            TextField(
+                value = description,
+                onValueChange = { description = it },
+                label = { Text("Description") },
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(16.dp)
+            )
+            Button(onClick = {
+                onSubmit(title, description)
+                title = ""
+                description = ""
+            }) {
+                Text("Submit")
+            }
+        }
+
+        LazyColumn(modifier = Modifier.fillMaxSize()) {
+            items(ideas) { idea ->
+                Column(modifier = Modifier.padding(16.dp)) {
+                    Text(text = idea.data["title"]?.toString() ?: "", fontWeight = FontWeight(700))
+                    Text(text = idea.data["description"]?.toString() ?: "")
+                    if (user?.id == idea.data["userId"])
+                        Button(onClick = { onRemove(idea.id) }) {
+                            Text("Remove")
+                        }
+                }
+            }
+        }
+    }
+}
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Using the ",["$","code",null,{"children":"IdeasService"}],", we can build a screen to submit and view ideas."," ","Overwrite the contents of ",["$","code",null,{"children":"ui/screens/IdeasScreen.kt"}]," with the following code."]}],["$","$Lb",null,{"language":"kotlin","content":"$c","children":"$d"}],"$Le","$Lf","$L10","$L11"]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+e:["$","$L15",null,{"id":"update-navigation","level":2,"children":"Update navigation "}]
+f:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Update ",["$","code",null,{"children":"MainActivity.kt"}]," to add the ",["$","code",null,{"children":"IdeasScreen"}]," to the navigation bar."]}]
+10:["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Look for ",["$","code",null,{"children":"// Add this line 👇"}]," to find where the changes made here."]}]
+16:Tb21,package <YOUR_ROOT_PACKAGE_HERE>
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.compose.runtime.*
+import androidx.compose.foundation.layout.*
+import androidx.compose.material.icons.Icons
+// Add this line 👇
+import androidx.compose.material.icons.filled.List
+import androidx.compose.material.icons.filled.Person
+import androidx.compose.material3.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import io.clikkle.models.User
+import <YOUR_ROOT_PACKAGE_HERE>.services.Clikkle
+import <YOUR_ROOT_PACKAGE_HERE>.services.AccountService
+import <YOUR_ROOT_PACKAGE_HERE>.ui.screens.UserScreen
+
+// Add this line 👇
+import <YOUR_ROOT_PACKAGE_HERE>.services.IdeaService
+
+// Add this line 👇
+import <YOUR_ROOT_PACKAGE_HERE>.ui.screens.IdeasScreen
+
+
+enum class Screen {
+    User,
+    // Add this line 👇
+    Ideas
+}
+
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        Clikkle.init(applicationContext)
+
+        setContent {
+            // Update this line 👇
+            AppContent(Clikkle.account, Clikkle.ideas)
+        }
+    }
+}
+
+// Add navigation with this composable 👇
+@Composable
+private fun AppBottomBar(screen: MutableState<Screen>) {
+    BottomAppBar {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.Center
+        ) {
+            IconButton(onClick = { screen.value = Screen.Ideas }) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Icon(Icons.Default.List, contentDescription = "Ideas")
+                    Text("Ideas")
+                }
+            }
+            IconButton(onClick = { screen.value = Screen.User }) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Icon(Icons.Default.Person, contentDescription = "User")
+                    Text("User")
+                }
+            }
+        }
+    }
+}
+
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+// Update this line 👇
+private fun AppContent(accountService: AccountService, ideasService: IdeaService) {
+    val user = remember { mutableStateOf<User<Map<String, Any>>?>(null) }
+    // Update this line 👇
+    val screen = remember { mutableStateOf(Screen.Ideas) }
+
+    LaunchedEffect(screen) {
+        user.value = accountService.getLoggedIn()
+    }
+
+    Scaffold(bottomBar = { AppBottomBar(screen) }) { padding ->
+        Column(modifier = Modifier.padding(padding)) {
+            when (screen.value) {
+                Screen.User -> UserScreen(user, accountService)
+                // Update this line 👇
+                else -> IdeasScreen(user.value, ideasService)
+            }
+        }
+    }
+}
+17:Tb21,package <YOUR_ROOT_PACKAGE_HERE>
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.compose.runtime.*
+import androidx.compose.foundation.layout.*
+import androidx.compose.material.icons.Icons
+// Add this line 👇
+import androidx.compose.material.icons.filled.List
+import androidx.compose.material.icons.filled.Person
+import androidx.compose.material3.*
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import io.clikkle.models.User
+import <YOUR_ROOT_PACKAGE_HERE>.services.Clikkle
+import <YOUR_ROOT_PACKAGE_HERE>.services.AccountService
+import <YOUR_ROOT_PACKAGE_HERE>.ui.screens.UserScreen
+
+// Add this line 👇
+import <YOUR_ROOT_PACKAGE_HERE>.services.IdeaService
+
+// Add this line 👇
+import <YOUR_ROOT_PACKAGE_HERE>.ui.screens.IdeasScreen
+
+
+enum class Screen {
+    User,
+    // Add this line 👇
+    Ideas
+}
+
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        Clikkle.init(applicationContext)
+
+        setContent {
+            // Update this line 👇
+            AppContent(Clikkle.account, Clikkle.ideas)
+        }
+    }
+}
+
+// Add navigation with this composable 👇
+@Composable
+private fun AppBottomBar(screen: MutableState<Screen>) {
+    BottomAppBar {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.Center
+        ) {
+            IconButton(onClick = { screen.value = Screen.Ideas }) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Icon(Icons.Default.List, contentDescription = "Ideas")
+                    Text("Ideas")
+                }
+            }
+            IconButton(onClick = { screen.value = Screen.User }) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Icon(Icons.Default.Person, contentDescription = "User")
+                    Text("User")
+                }
+            }
+        }
+    }
+}
+
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+// Update this line 👇
+private fun AppContent(accountService: AccountService, ideasService: IdeaService) {
+    val user = remember { mutableStateOf<User<Map<String, Any>>?>(null) }
+    // Update this line 👇
+    val screen = remember { mutableStateOf(Screen.Ideas) }
+
+    LaunchedEffect(screen) {
+        user.value = accountService.getLoggedIn()
+    }
+
+    Scaffold(bottomBar = { AppBottomBar(screen) }) { padding ->
+        Column(modifier = Modifier.padding(padding)) {
+            when (screen.value) {
+                Screen.User -> UserScreen(user, accountService)
+                // Update this line 👇
+                else -> IdeasScreen(user.value, ideasService)
+            }
+        }
+    }
+}
+11:["$","$Lb",null,{"language":"kotlin","content":"$16","children":"$17"}]
+14:null

@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[7120685,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialCodeProvider"]
+3:I[2497291,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"TutorialHeadingsProvider"]
+4:I[167744,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"DocsTutorialView"]
+b:I[9023822,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js","/clikkle/_next/static/chunks/0nfmdhdpiedhl.js","/clikkle/_next/static/chunks/0uc~ek0j9637p.js","/clikkle/_next/static/chunks/15ze6m6dfqfrw.js","/clikkle/_next/static/chunks/155wdmir5cdcz.js","/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","/clikkle/_next/static/chunks/10iz33s~n0gnf.js","/clikkle/_next/static/chunks/17akn4e9sundm.js"],"MarkdocFence"]
+c:I[3897367,["/clikkle/_next/static/chunks/0eb6pgor2p~6n.js","/clikkle/_next/static/chunks/17r0g7m.bbwki.js","/clikkle/_next/static/chunks/0q30rjhmp-mu1.js","/clikkle/_next/static/chunks/0r7ng.v1rzx53.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+5:T81c,---
+layout: tutorial
+title: Create account page
+description: Add authentication to a Nuxt project using Clikkle.
+step: 6
+---
+
+Now the end-user is able to sign up, we can create the account page. This page will display basic information about the user, and allow the user to log out.
+
+Before creating the account page, the route should fetch the user data. Create a new `user.get.js` file in the `server/routes/api` directory and add the following code:
+
+```js
+// server/routes/api/user.get.js
+export default defineEventHandler(async (event) => {
+    const user = event.context.user;
+
+    if (!user) {
+        return false;
+    }
+
+    return user;
+})
+```
+
+Create a new file in the `pages` directory called `account.vue` and add the following code:
+
+```vue
+<!-- pages/account.vue -->
+<script setup>
+// Fetch user data from your API endpoint
+const { data: user } = await useFetch('/api/user')
+
+if (user.value === false) {
+  await navigateTo('/signup')
+}
+</script>
+
+<template>
+  <div v-if="user">
+    <ul>
+      <li>
+        <strong>Email:</strong> {{ user.email }}
+      </li>
+      <li>
+        <strong>Name:</strong> {{ user.name }}
+      </li>
+      <li>
+        <strong>ID: </strong> {{ user.$id }}
+      </li>
+    </ul>
+    <form method="post" action="/api/signout">
+      <button type="submit">Log out</button>
+    </form>
+  </div>
+</template>
+```
+
+This page will display the user's email, name, and ID. It also contains a form that will log the user out when submitted. The form will send a `POST` request to the `/api/signout` endpoint. We need to create this endpoint in the server. Create a new file in the `server/routes/api` directory called `signout.post.js` and add the following code:
+
+```javascript
+// server/routes/api/signout.post.js
+import { SESSION_COOKIE, createSessionClient } from "~/server/lib/clikkle";
+
+export default defineEventHandler(async (event) => {
+  const { account } = createSessionClient(event);
+
+  await account.deleteSession({ sessionId: "current" });
+  deleteCookie(event, SESSION_COOKIE);
+
+  await sendRedirect(event, "/signup");
+});
+```
+
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"seriesTitle":"Server-side authentication with Nuxt","steps":[{"step":1,"title":"Server-side authentication with Nuxt","href":"/docs/tutorials/nuxt-ssr-auth/step-1","fileSlug":"step-1","difficulty":"beginner","readtime":20},{"step":2,"title":"Create project","href":"/docs/tutorials/nuxt-ssr-auth/step-2","fileSlug":"step-2","difficulty":"beginner","readtime":20},{"step":3,"title":"Initialize SDK","href":"/docs/tutorials/nuxt-ssr-auth/step-3","fileSlug":"step-3","difficulty":"beginner","readtime":20},{"step":4,"title":"Add server middleware","href":"/docs/tutorials/nuxt-ssr-auth/step-4","fileSlug":"step-4","difficulty":"beginner","readtime":20},{"step":5,"title":"Create sign up page","href":"/docs/tutorials/nuxt-ssr-auth/step-5","fileSlug":"step-5","difficulty":"beginner","readtime":20},{"step":6,"title":"Create account page","href":"/docs/tutorials/nuxt-ssr-auth/step-6","fileSlug":"step-6","difficulty":"beginner","readtime":20},{"step":7,"title":"OAuth authentication with SSR","href":"/docs/tutorials/nuxt-ssr-auth/step-7","fileSlug":"step-7","difficulty":"beginner","readtime":20},{"step":8,"title":"Enable the sign up and account pages","href":"/docs/tutorials/nuxt-ssr-auth/step-8","fileSlug":"step-8","difficulty":"beginner","readtime":20},{"step":9,"title":"All set","href":"/docs/tutorials/nuxt-ssr-auth/step-9","fileSlug":"step-9","difficulty":"beginner","readtime":20}],"currentStep":6,"currentStepItem":"$0:rsc:props:children:0:props:children:props:children:props:steps:5","back":"/docs/tutorials","copyMarkdown":"$5","children":"$L6"}]}]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"siKNZ69LNgpmcXavwmUTs"}
+6:["$","div",null,{"className":"prose max-w-none","children":["$","article",null,{"children":[["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":"Now the end-user is able to sign up, we can create the account page. This page will display basic information about the user, and allow the user to log out."}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Before creating the account page, the route should fetch the user data. Create a new ",["$","code",null,{"children":"user.get.js"}]," file in the ",["$","code",null,{"children":"server/routes/api"}]," directory and add the following code:"]}],["$","$Lb",null,{"language":"js","content":"// server/routes/api/user.get.js\nexport default defineEventHandler(async (event) => {\n    const user = event.context.user;\n\n    if (!user) {\n        return false;\n    }\n\n    return user;\n})\n","children":"// server/routes/api/user.get.js\nexport default defineEventHandler(async (event) => {\n    const user = event.context.user;\n\n    if (!user) {\n        return false;\n    }\n\n    return user;\n})\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["Create a new file in the ",["$","code",null,{"children":"pages"}]," directory called ",["$","code",null,{"children":"account.vue"}]," and add the following code:"]}],["$","$Lb",null,{"language":"vue","content":"<!-- pages/account.vue -->\n<script setup>\n// Fetch user data from your API endpoint\nconst { data: user } = await useFetch('/api/user')\n\nif (user.value === false) {\n  await navigateTo('/signup')\n}\n</script>\n\n<template>\n  <div v-if=\"user\">\n    <ul>\n      <li>\n        <strong>Email:</strong> {{ user.email }}\n      </li>\n      <li>\n        <strong>Name:</strong> {{ user.name }}\n      </li>\n      <li>\n        <strong>ID: </strong> {{ user.$id }}\n      </li>\n    </ul>\n    <form method=\"post\" action=\"/api/signout\">\n      <button type=\"submit\">Log out</button>\n    </form>\n  </div>\n</template>\n","children":"<!-- pages/account.vue -->\n<script setup>\n// Fetch user data from your API endpoint\nconst { data: user } = await useFetch('/api/user')\n\nif (user.value === false) {\n  await navigateTo('/signup')\n}\n</script>\n\n<template>\n  <div v-if=\"user\">\n    <ul>\n      <li>\n        <strong>Email:</strong> {{ user.email }}\n      </li>\n      <li>\n        <strong>Name:</strong> {{ user.name }}\n      </li>\n      <li>\n        <strong>ID: </strong> {{ user.$id }}\n      </li>\n    </ul>\n    <form method=\"post\" action=\"/api/signout\">\n      <button type=\"submit\">Log out</button>\n    </form>\n  </div>\n</template>\n"}],["$","p",null,{"className":"mb-4 leading-7 text-[var(--color-text-secondary)] dark:text-white/70","children":["This page will display the user's email, name, and ID. It also contains a form that will log the user out when submitted. The form will send a ",["$","code",null,{"children":"POST"}]," request to the ",["$","code",null,{"children":"/api/signout"}]," endpoint. We need to create this endpoint in the server. Create a new file in the ",["$","code",null,{"children":"server/routes/api"}]," directory called ",["$","code",null,{"children":"signout.post.js"}]," and add the following code:"]}],["$","$Lb",null,{"language":"javascript","content":"// server/routes/api/signout.post.js\nimport { SESSION_COOKIE, createSessionClient } from \"~/server/lib/clikkle\";\n\nexport default defineEventHandler(async (event) => {\n  const { account } = createSessionClient(event);\n\n  await account.deleteSession({ sessionId: \"current\" });\n  deleteCookie(event, SESSION_COOKIE);\n\n  await sendRedirect(event, \"/signup\");\n});\n","children":"// server/routes/api/signout.post.js\nimport { SESSION_COOKIE, createSessionClient } from \"~/server/lib/clikkle\";\n\nexport default defineEventHandler(async (event) => {\n  const { account } = createSessionClient(event);\n\n  await account.deleteSession({ sessionId: \"current\" });\n  deleteCookie(event, SESSION_COOKIE);\n\n  await sendRedirect(event, \"/signup\");\n});\n"}]]}]}]
+7:["$","script","script-0",{"src":"/clikkle/_next/static/chunks/0nm9skf~8e5e2.js","async":true}]
+8:["$","script","script-1",{"src":"/clikkle/_next/static/chunks/10iz33s~n0gnf.js","async":true}]
+9:["$","script","script-2",{"src":"/clikkle/_next/static/chunks/17akn4e9sundm.js","async":true}]
+a:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null
