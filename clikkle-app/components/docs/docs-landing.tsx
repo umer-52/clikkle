@@ -244,7 +244,7 @@ function DocCard({
   return (
     <Link
       href={href}
-      className="web-card is-normal"
+      className="web-card is-normal bg-[#212125]! hover:bg-[#212125]/90"
     >
       {illustrated ? (
         <>
@@ -284,7 +284,7 @@ function McpCard({
   return (
     <Link
       href={href}
-      className="web-card is-normal flex flex-row items-center gap-2"
+      className="web-card is-normal flex! flex-row! items-center! gap-4! w-full! bg-[#212125]! hover:bg-[#212125]/90! transition-colors"
     >
       <img src={icon} alt="" width={24} height={24} loading="lazy" />
       <h4 className="text-[14px] font-medium leading-[1.2] text-[var(--color-primary)] mt-0 mb-0">{title}</h4>
@@ -314,7 +314,7 @@ function TutorialCarousel() {
   };
 
   return (
-    <div className="relative mt-8">
+    <div className="relative mt-16">
       <div className="absolute -top-12 right-0 flex gap-2">
         <button
           type="button"
@@ -344,14 +344,14 @@ function TutorialCarousel() {
           <Link
             key={t.href}
             href={t.href}
-            className="group w-[260px] shrink-0 overflow-hidden rounded-2xl border border-offset bg-card transition-all hover:bg-smooth"
+            className="group w-82.5 shrink-0 overflow-hidden rounded-2xl transition-all hover:bg-smooth p-2 bg-[#2B2B2C]"
             style={{ scrollSnapAlign: "start" }}
           >
-            <div className="aspect-[4/3] overflow-hidden">
+            <div className="aspect-5/3 overflow-hidden">
               <img
                 src={t.cover}
                 alt={t.title}
-                className="h-full w-full object-cover transition-transform group-hover:scale-105"
+                className="h-full w-full object-cover transition-transform group-hover:scale-105 rounded-md"
                 loading="lazy"
               />
             </div>
@@ -409,41 +409,46 @@ export function DocsLandingContent() {
         </Link>
       </section>
 
-      <section className="mt-12 flex flex-wrap gap-4 p-0 max-md:p-0">
-        {platforms.map((p) => {
-          const light = "lightFile" in p ? p.lightFile : p.file;
-          return (
-            <Link
-              key={p.href}
-              href={p.href}
-              className="group flex h-10 w-10 items-center justify-center rounded-lg border border-[var(--color-border-subtle)] bg-[var(--bg-secondary)] text-tertiary transition-colors hover:border-[var(--color-border-strong)]"
-              title={p.name}
-            >
-              <>
-                <img
-                  src={`/clikkle/images/platforms/dark/${p.file}.svg`}
-                  alt=""
-                  width={24}
-                  height={24}
-                  loading="lazy"
-                  className="web-u-only-dark grayscale transition-all duration-300 group-hover:grayscale-0"
-                />
-                <img
-                  src={`/clikkle/images/platforms/light/${light}.svg`}
-                  alt=""
-                  width={24}
-                  height={24}
-                  loading="lazy"
-                  className="web-u-only-light grayscale transition-all duration-300 group-hover:grayscale-0"
-                />
-              </>
-            </Link>
-          );
-        })}
+      <section className="mt-12! w-full overflow-x-auto pt-10">
+        <div className="inline-flex min-w-max items-center border border-(--color-border-subtle) border-dotted bg-transparent">
+          {platforms.map((p) => {
+            const light = "lightFile" in p ? p.lightFile : p.file;
+            return (
+              <Link
+                key={p.href}
+                href={p.href}
+                className="group relative flex h-15 w-11.5 shrink-0 items-center justify-center border-r border-dotted border-(--color-border-subtle) transition-colors hover:bg-(--bg-secondary) last:border-r-0"
+                title={p.name}
+              >
+                <span className="pointer-events-none absolute -top-10 left-1/2 z-20 mt-2 -translate-x-1/2 whitespace-nowrap rounded-sm bg-greyscale-750 px-2 py-1 text-xs text-primary opacity-0 shadow-sm transition-opacity duration-150 group-hover:opacity-100">
+                  {p.name}
+                </span>
+                <>
+                  <img
+                    src={`/clikkle/images/platforms/dark/${p.file}.svg`}
+                    alt=""
+                    width={22}
+                    height={22}
+                    loading="lazy"
+                    className="web-u-only-dark opacity-80 grayscale transition-all duration-200 group-hover:opacity-100 group-hover:grayscale-0"
+                  />
+                  <img
+                    src={`/clikkle/images/platforms/light/${light}.svg`}
+                    alt=""
+                    width={22}
+                    height={22}
+                    loading="lazy"
+                    className="web-u-only-light opacity-80 grayscale transition-all duration-200 group-hover:opacity-100 group-hover:grayscale-0"
+                  />
+                </>
+              </Link>
+            );
+          })}
+        </div>
       </section>
 
-      <section className="mt-12">
-        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
+      <section className="mt-20!">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-5xl">
           Show me some code
         </h2>
         <p className="text-description mt-4 max-w-[600px] text-secondary">
@@ -453,7 +458,7 @@ export function DocsLandingContent() {
       </section>
 
       <section className="web-hero is-align-start is-no-max-width mt-12">
-        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-5xl">
           Explore capabilities
         </h2>
         <p className="text-description mt-4 max-w-[600px] text-secondary">
@@ -472,14 +477,14 @@ export function DocsLandingContent() {
       </section>
 
       <section className="web-hero is-align-start is-no-max-width mt-12">
-        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-5xl">
           Build faster with AI
         </h2>
-        <p className="text-description mt-4 max-w-[600px] text-secondary">
+        <p className="text-description mt-1 max-w-[600px] text-secondary">
           Clikkle&apos;s Model Context Protocol (MCP) server lets LLMs interact directly with your
           Clikkle API.
         </p>
-        <div className="mt-6 grid grid-cols-1 gap-8 md:grid-cols-2">
+        <div className="mt-6 grid grid-cols-1 gap-8 md:grid-cols-2 w-full">
           {mcpTools.map((t) => (
             <McpCard key={t.title} {...t} />
           ))}
@@ -487,7 +492,7 @@ export function DocsLandingContent() {
       </section>
 
       <section className="web-hero is-align-start is-no-max-width mt-12">
-        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-5xl">
           Explore ways to integrate
         </h2>
         <p className="text-description mt-4 max-w-[600px] text-secondary">
@@ -505,11 +510,11 @@ export function DocsLandingContent() {
         </div>
       </section>
 
-      <section className="web-hero is-align-start is-no-max-width mt-12 pb-20">
-        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-4xl">
+      <section className="web-hero is-align-start is-no-max-width mt-12 pb-40">
+        <h2 className="text-title font-aeonik-pro text-primary max-w-[600px] md:text-5xl">
           Migrate to Clikkle
         </h2>
-        <p className="text-description mt-4 max-w-[600px] text-secondary">
+        <p className="text-description mt-1 max-w-[600px] text-secondary">
           Own your data with automatic data migrations.
         </p>
         <div className="mt-6">

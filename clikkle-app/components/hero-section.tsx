@@ -7,7 +7,7 @@ import { DashboardIllustration } from "./dashboard-illustration";
 
 interface HeroSectionProps {
   title?: React.ReactNode;
-  subtitle?: string;
+  subtitle?: React.ReactNode;
   showPromoBanner?: boolean;
   showSecondaryActions?: boolean;
 }
@@ -71,7 +71,7 @@ export function HeroSection({
             {showSecondaryActions ? (
               <button
                 type="button"
-                className="web-btn web-btn-secondary w-full! cursor-pointer shadow-[0_2px_40px_rgba(0,0,0,0.5)] transition-opacity hover:opacity-90 active:scale-95 lg:w-fit!"
+                className="web-btn web-btn-secondary-dark w-full! cursor-pointer shadow-[0_2px_40px_rgba(0,0,0,0.5)] transition-opacity hover:opacity-90 active:scale-95 lg:w-fit!"
               >
                 <span className="text">Clikkle Platform in 100 seconds</span>
                 <Play className="size-4 shrink-0" aria-hidden />

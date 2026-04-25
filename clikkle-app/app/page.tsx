@@ -18,7 +18,19 @@ export default function Home() {
       {/* 1. Hero — matches hero.svelte */}
       <HeroSection
         title="Built for the first solocorn"
-        subtitle="All-in-one, open-source infrastructure. Build in minutes, bring any framework, and scale affordably. Auth, Database, Storage, Functions, Realtime, Messaging & Hosting included."
+        subtitle={
+          <>
+            <span className="md:hidden">
+              All-in-one, open-source infrastructure. Build in minutes, bring any framework,
+              and scale affordably.
+            </span>
+            <span className="hidden md:inline">
+              All-in-one, open-source infrastructure. Build in minutes, bring any framework,
+              and scale affordably. Auth, Database, Storage, Functions, Realtime, Messaging &
+              Hosting included.
+            </span>
+          </>
+        }
       />
 
       {/* 2. Platforms — matches platforms.svelte */}

@@ -681,7 +681,7 @@
   .web-grid-side-nav .web-main-section {
     inline-size: 100%;
     max-inline-size: 68.875rem;
-    padding-inline: 1.5rem !important;
+    padding-inline: 3rem !important;
     padding-block: 0 !important;
     margin-inline: 0 !important;
   }
@@ -692,7 +692,7 @@
   }
 
   .web-grid-side-nav .web-main-section > *:not(:first-child):where(:not(.u-position-absolute)):not(.web-main-footer) {
-    margin-block-start: 10rem;
+    margin-block-start: 6rem;
   }
 
   .web-grid-side-nav .web-article {
