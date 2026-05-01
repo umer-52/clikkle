@@ -302,7 +302,7 @@ export default function BlogPage() {
           </div>
 
           {/* Articles Grid */}
-          <div className="mt-12">
+          <div className="mt-13">
             {paginatedPosts.length > 0 ? (
               <>
                 <ul className="blog-grid-articles">
@@ -313,7 +313,7 @@ export default function BlogPage() {
                       <li key={post.slug}>
                         <Link
                           href={post.href}
-                          className="block overflow-hidden rounded-lg bg-transparent"
+                          className="block overflow-hidden rounded-sm bg-transparent mb-1!"
                         >
                           <img src={post.cover}
                             className="aspect-video w-full object-cover transition-transform duration-250 hover:scale-105"
@@ -329,7 +329,7 @@ export default function BlogPage() {
                               {post.title}
                             </h4>
                           </Link>
-                          <div className="text-paragraph-md flex flex-wrap items-center gap-2">
+                          <div className="text-paragraph-md flex flex-wrap items-center gap-2 mb-5">
                             <img className="size-5 rounded-full ring-2 ring-[var(--bg-primary)]"
                               src={author.avatar}
                               alt={author.name}

@@ -53,8 +53,13 @@ const products = [
   },
 ];
 
-export function ProductsMegaMenu() {
-  const [isOpen, setIsOpen] = useState(false);
+export function ProductsMegaMenu(props: {
+  isOpen?: boolean;
+  onOpenChange?: (open: boolean) => void;
+}) {
+  const [uncontrolledOpen, setUncontrolledOpen] = useState(false);
+  const isOpen = props.isOpen ?? uncontrolledOpen;
+  const setIsOpen = props.onOpenChange ?? setUncontrolledOpen;
   const menuRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -77,7 +82,7 @@ export function ProductsMegaMenu() {
       document.removeEventListener("keydown", handleEscape);
       document.body.style.overflow = "";
     };
-  }, [isOpen]);
+  }, [isOpen, setIsOpen]);
 
   return (
     <div className="relative" ref={menuRef}>
@@ -106,7 +111,7 @@ export function ProductsMegaMenu() {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
               transition={{ duration: 0.15 }}
-              className="fixed inset-0 z-[1001] bg-black/60"
+              className="fixed inset-0 z-1001 bg-black/60"
               aria-hidden
               onClick={() => setIsOpen(false)}
             />
@@ -121,12 +126,12 @@ export function ProductsMegaMenu() {
               role="dialog"
               aria-label="Products menu"
             >
-              <div className="aw-products-mega-panel-card rounded-2xl border border-white/[0.08] bg-[#232325] p-6 shadow-2xl">
+              <div className="aw-products-mega-panel-card rounded-2xl border border-white/8 bg-[#232325] p-6 shadow-2xl">
                 {/* ProductsSubmenu.svelte: `gap-16 lg:grid-cols-12` */}
                 <div className="grid w-full grid-cols-1 place-content-between gap-16 lg:grid-cols-12">
                   {/* Left: product grid — ProductsSubmenu.svelte col-span-8 -mr-12 pr-12 */}
                   <div className="lg:col-span-8 lg:-mr-12 lg:pr-12">
-                    <span className="mb-4 block font-[family-name:var(--font-jetbrains-mono)] text-xs font-medium uppercase tracking-[0.14em] text-[#85858B]">
+                    <span className="mb-4 block font-(family-name:--font-jetbrains-mono) text-xs font-medium uppercase tracking-[0.14em] text-[#85858B]">
                       Products
                       <span className="font-bold text-[#2D63FF]">_</span>
                     </span>
@@ -135,10 +140,10 @@ export function ProductsMegaMenu() {
                         <Link
                           key={product.name}
                           href={product.href}
-                          className="group flex gap-3 rounded-xl p-1 text-white outline-none transition-colors hover:bg-white/[0.08] focus:bg-white/[0.08]"
+                          className="group flex gap-3 rounded-xl p-1 text-white outline-none transition-colors hover:bg-white/8 focus:bg-white/8"
                           onClick={() => setIsOpen(false)}
                         >
-                          <div className="flex size-12 shrink-0 items-center justify-center rounded-lg border border-white/[0.12] bg-white/[0.06]">
+                          <div className="flex size-12 shrink-0 items-center justify-center rounded-lg border border-white/12 bg-white/6">
                             <Image
                               src={product.icon}
                               alt=""
@@ -160,10 +165,10 @@ export function ProductsMegaMenu() {
                     </div>
                   </div>
 
-                  <div className="flex flex-col gap-8 border-t border-white/[0.06] pt-10 lg:col-span-4 lg:-ml-12 lg:border-l lg:border-t-0 lg:pl-12 lg:pt-0">
-                    <div className="group block rounded-2xl border border-white/[0.12] bg-white/[0.06] p-4 outline-none focus-within:bg-white/[0.12]">
+                  <div className="flex flex-col gap-8 border-t border-white/6 pt-10 lg:col-span-4 lg:-ml-12 lg:border-l lg:border-t-0 lg:pl-12 lg:pt-0">
+                    <div className="group block rounded-2xl border border-white/12 bg-white/6 p-4 outline-none focus-within:bg-white/12">
                       <header className="flex items-center justify-between gap-2">
-                        <span className="font-[family-name:var(--font-jetbrains-mono)] text-xs font-medium uppercase tracking-[0.14em] text-white">
+                        <span className="font-(family-name:--font-jetbrains-mono) text-xs font-medium uppercase tracking-[0.14em] text-white">
                           Customer Stories
                           <span className="font-bold text-[#2D63FF]">_</span>
                         </span>
@@ -191,7 +196,7 @@ export function ProductsMegaMenu() {
                           alt=""
                           width={240}
                           height={160}
-                          className="min-h-10 w-full shrink-0 rounded-xl bg-white object-cover md:aspect-[3/1] xl:max-w-[120px]"
+                          className="min-h-10 w-full shrink-0 rounded-xl bg-white object-cover md:aspect-3/1 xl:max-w-30"
                         />
                         <p className="w-full text-pretty text-[14px] leading-snug text-[#85858B]">
                           &ldquo;Clikkle helped reduce development time by 60%, and lower server costs
@@ -201,7 +206,7 @@ export function ProductsMegaMenu() {
                     </div>
 
                     <div>
-                      <span className="mb-3 block font-[family-name:var(--font-jetbrains-mono)] text-xs font-medium uppercase tracking-[0.14em] text-[#85858B]">
+                      <span className="mb-3 block font-(family-name:--font-jetbrains-mono) text-xs font-medium uppercase tracking-[0.14em] text-[#85858B]">
                         Compare Clikkle
                         <span className="font-bold text-[#2D63FF]">_</span>
                       </span>

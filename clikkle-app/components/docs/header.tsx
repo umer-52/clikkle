@@ -58,14 +58,14 @@ export function DocsHeader({
               <Image
                 src={withBasePath("/2-version/Clikkle core (V1 White Text).png")}
                 alt="Clikkle"
-                width={24}
-                height={24}
-                className="size-6 shrink-0 object-contain"
+                width={130}
+                height={70}
+                className="shrink-0 object-contain"
                 priority
               />
-              <span className="truncate text-xl font-bold tracking-tight text-[var(--color-text-primary)] dark:text-white/90">
+              {/* <span className="truncate text-xl font-bold tracking-tight text-[var(--color-text-primary)] dark:text-white/90">
                 Clikkle
-              </span>
+              </span> */}
             </Link>
 
             <nav className="web-main-header-nav shrink-0" aria-label="Top">

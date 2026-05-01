@@ -36,7 +36,12 @@
   z-index: 1;
   max-width: calc(1300px + 3rem);
   margin-inline: auto;
-  padding-inline: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .pre-footer-wrap {
+    padding-inline: 1.5rem;
+  }
 }
 
 .pre-footer-grid {

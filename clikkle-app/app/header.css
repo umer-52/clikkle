@@ -85,6 +85,15 @@ html.light .aw-close-button:hover {
     color: #2d63ff;
 }
 
+.aw-header-chevron {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.light .aw-header-chevron,
+html.light .aw-header-chevron {
+    color: rgba(25, 25, 28, 0.62);
+}
+
 /* Appwrite `Main.svelte` `.aw-header-shell` — marketing header (not docs `web-main-header-wrapper`).
    Box model duplicated from `globals.css` `@utility container` / `.appwrite-container` so the bar matches
    bento + sections even if Tailwind’s `container` utility does not apply here (layer / ordering). */

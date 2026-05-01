@@ -21,8 +21,7 @@ export default function Home() {
         subtitle={
           <>
             <span className="md:hidden">
-              All-in-one, open-source infrastructure. Build in minutes, bring any framework,
-              and scale affordably.
+              All-in-one, open-source infrastructure: Auth, Database, Storage and more.
             </span>
             <span className="hidden md:inline">
               All-in-one, open-source infrastructure. Build in minutes, bring any framework,

@@ -20,23 +20,114 @@ export function SiteHeader() {
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false);
   const [isAppSwitcherOpen, setIsAppSwitcherOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
+  const [isProductsMenuOpen, setIsProductsMenuOpen] = useState(false);
+  const [chromeTone, setChromeTone] = useState<"light" | "dark">("dark");
+  const headerRef = useRef<HTMLElement>(null);
   const mobileNavPanel = useRef<HTMLElement>(null);
   const appSwitcherRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const navPath = stripBasePathFromPathname(pathname ?? "") || "/";
-  const logoMarkSrc = withBasePath("/2-version/Clikkle core (V1 White Text).png");
+  const isChromeLight = chromeTone === "light";
+  const logoMarkSrc = withBasePath(
+    isChromeLight
+      ? "/2-version/Clikkle core (V1 Black Text).png"
+      : "/2-version/Clikkle core (V1 White Text).png",
+  );
 
   useEffect(() => {
-    const onScroll = () => {
+    const parseRgb = (value: string) => {
+      const v = value.trim().toLowerCase();
+      if (v === "transparent") return null;
+      const match = v.match(/rgba?\(([^)]+)\)/);
+      if (!match) return null;
+      const parts = match[1].split(",").map((p) => p.trim());
+      if (parts.length < 3) return null;
+      const r = Number.parseFloat(parts[0]);
+      const g = Number.parseFloat(parts[1]);
+      const b = Number.parseFloat(parts[2]);
+      const a = parts.length >= 4 ? Number.parseFloat(parts[3]) : 1;
+      if (![r, g, b, a].every((n) => Number.isFinite(n))) return null;
+      if (a === 0) return null;
+      return { r, g, b, a };
+    };
+
+    const relativeLuminance = ({ r, g, b }: { r: number; g: number; b: number }) => {
+      const srgb = [r, g, b].map((c) => {
+        const v = c / 255;
+        return v <= 0.04045 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4);
+      });
+      return 0.2126 * srgb[0] + 0.7152 * srgb[1] + 0.0722 * srgb[2];
+    };
+
+    const toneFromAncestors = (start: Element | null): "light" | "dark" | null => {
+      let el: Element | null = start;
+      while (el && el !== document.documentElement) {
+        if (el instanceof HTMLElement) {
+          const themeAttr = el.getAttribute("data-theme");
+          if (themeAttr === "light") return "light";
+          if (themeAttr === "dark") return "dark";
+          if (el.classList.contains("light")) return "light";
+          if (el.classList.contains("dark")) return "dark";
+        }
+        el = el.parentElement;
+      }
+      return null;
+    };
+
+    const effectiveBackground = (start: Element | null) => {
+      let el: Element | null = start;
+      while (el && el !== document.documentElement) {
+        const bg = parseRgb(getComputedStyle(el).backgroundColor);
+        if (bg) return bg;
+        el = el.parentElement;
+      }
+      const bodyBg = parseRgb(getComputedStyle(document.body).backgroundColor);
+      return bodyBg ?? { r: 255, g: 255, b: 255, a: 1 };
+    };
+
+    const detectToneUnderHeader = () => {
+      const headerRect = headerRef.current?.getBoundingClientRect();
+      const probeY = Math.min(
+        window.innerHeight - 1,
+        Math.max(1, (headerRect?.bottom ?? 72) + 1),
+      );
+      const probeX = Math.min(window.innerWidth - 1, Math.max(1, window.innerWidth / 2));
+      const stack = document.elementsFromPoint(probeX, probeY);
+      const headerNode = headerRef.current;
+      const under = stack.find((node) => (headerNode ? !headerNode.contains(node) : true)) ?? null;
+
+      const explicitTone = toneFromAncestors(under);
+      if (explicitTone) return explicitTone;
+
+      const bg = effectiveBackground(under);
+      return relativeLuminance(bg) > 0.72 ? "light" : "dark";
+    };
+
+    let ticking = false;
+    const update = () => {
+      ticking = false;
       const y =
         typeof window !== "undefined"
           ? window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0
           : 0;
-      setIsScrolled(y > HEADER_SCROLL_THRESHOLD);
+      const scrolled = y > HEADER_SCROLL_THRESHOLD;
+      setIsScrolled(scrolled);
+      setChromeTone(scrolled ? detectToneUnderHeader() : "dark");
     };
-    onScroll();
+
+    const onScroll = () => {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(update);
+    };
+
+    update();
     window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
+    window.addEventListener("resize", onScroll, { passive: true });
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", onScroll);
+    };
   }, [HEADER_SCROLL_THRESHOLD]);
 
   useEffect(() => {
@@ -44,6 +135,7 @@ export function SiteHeader() {
       if (e.key === "Escape") {
         setIsMobileNavOpen(false);
         setIsAppSwitcherOpen(false);
+        setIsProductsMenuOpen(false);
       }
     };
 
@@ -51,7 +143,7 @@ export function SiteHeader() {
       document.body.style.overflow = "hidden";
     }
 
-    if (isMobileNavOpen || isAppSwitcherOpen) {
+    if (isMobileNavOpen || isAppSwitcherOpen || isProductsMenuOpen) {
       window.addEventListener("keydown", handleEsc);
     }
 
@@ -59,7 +151,7 @@ export function SiteHeader() {
       document.body.style.overflow = "";
       window.removeEventListener("keydown", handleEsc);
     };
-  }, [isMobileNavOpen, isAppSwitcherOpen]);
+  }, [isMobileNavOpen, isAppSwitcherOpen, isProductsMenuOpen]);
 
   useEffect(() => {
     if (!isAppSwitcherOpen) return;
@@ -105,11 +197,11 @@ export function SiteHeader() {
       initials: "C",
     },
     {
-      name: "LangX",
-      description: "AI Workflows",
+      name: "Clikkle Worksuite",
+      description: "Productivity Suite",
       href: "/",
       tileClass: "from-indigo-100 to-blue-700",
-      initials: "L",
+      initials: "W",
     },
     {
       name: "K-Collect",
@@ -123,9 +215,9 @@ export function SiteHeader() {
   /* Inline surface so Turbopack/Tailwind layer order cannot strip glass (tokens from `appwrite-pink-design-system.css`). */
   const headerChromeStyle: CSSProperties = isScrolled
     ? {
-        backgroundColor: "rgba(15, 15, 19, 0.3)",
+        backgroundColor: "var(--color-background-glass)",
         WebkitBackdropFilter: "blur(24px)",
-        backdropFilter: "blur(9px)",
+        backdropFilter: "blur(24px)",
       }
     : {
         backgroundColor: "var(--aw-header-top-bg)",
@@ -135,12 +227,14 @@ export function SiteHeader() {
 
   return (
     <>
-      <header
-        className={`aw-header ${isScrolled ? "aw-header-scrolled" : ""}`}
-        style={headerChromeStyle}
-      >
-        {/* Clikkle `Main.svelte`: flat shell — logo, nav, actions as siblings; `gap: 2rem`; `lg` = 1024px */}
-        <div className="aw-header-shell">
+      <div className={isScrolled ? chromeTone : undefined} style={{ display: "contents" }}>
+        <header
+          ref={headerRef}
+          className={`aw-header ${isScrolled ? "aw-header-scrolled" : ""}`}
+          style={headerChromeStyle}
+        >
+          {/* Clikkle `Main.svelte`: flat shell — logo, nav, actions as siblings; `gap: 2rem`; `lg` = 1024px */}
+          <div className="aw-header-shell">
           {/* Clikkle `Main.svelte`: logo image `height="24"` — keep wordmark compact for 72px bar */}
           {/* Clikkle `Main.svelte`: `<img ... height="24" width="130" />` — fixed wordmark box for layout parity */}
           <div className="relative" ref={appSwitcherRef}>
@@ -158,7 +252,7 @@ export function SiteHeader() {
                 className="block h-7 w-auto shrink-0 object-contain object-left md:h-8"
               />
               <ChevronDown
-                className={`size-4 text-white/70 transition-transform ${isAppSwitcherOpen ? "rotate-180" : ""}`}
+                className={`aw-header-chevron size-4 transition-transform ${isAppSwitcherOpen ? "rotate-180" : ""}`}
                 aria-hidden
               />
             </button>
@@ -176,7 +270,15 @@ export function SiteHeader() {
                       href={item.href}
                       className="group flex items-center gap-3 rounded-xl px-3 py-2.5 transition-colors hover:bg-greyscale-750"
                       role="menuitem"
-                      onClick={() => setIsAppSwitcherOpen(false)}
+                      onClick={(e) => {
+                        if (item.name === "Clikkle Worksuite") {
+                          e.preventDefault();
+                          setIsAppSwitcherOpen(false);
+                          setIsProductsMenuOpen(true);
+                          return;
+                        }
+                        setIsAppSwitcherOpen(false);
+                      }}
                     >
                       <span
                         className={`flex size-10 items-center justify-center rounded-xl bg-linear-to-br ${item.tileClass} text-sm font-semibold text-white`}
@@ -201,7 +303,13 @@ export function SiteHeader() {
           <nav className="aw-header-nav hidden lg:flex" aria-label="Primary navigation">
             {navLinks.map((link) => {
               if (link.label === "Products") {
-                return <ProductsMegaMenu key={link.href} />;
+                return (
+                  <ProductsMegaMenu
+                    key={link.href}
+                    isOpen={isProductsMenuOpen}
+                    onOpenChange={setIsProductsMenuOpen}
+                  />
+                );
               }
               return (
                 <Link
@@ -249,8 +357,9 @@ export function SiteHeader() {
               </span>
             </button>
           </div>
-        </div>
-      </header>
+          </div>
+        </header>
+      </div>
 
       {/* Mobile overlay matching Clikkle's exactly */}
       <div
@@ -279,7 +388,7 @@ export function SiteHeader() {
           <div className="aw-mobile-panel-header">
             <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
               <Image
-                src={withBasePath("/2-version/Clikkle core (V1 White Text).png")}
+                src={logoMarkSrc}
                 alt="Clikkle"
                 width={140}
                 height={63}
