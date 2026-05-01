@@ -78,7 +78,7 @@
     <Sidebar />
 
     <main class="web-main-section relative overflow-x-hidden" id="main">
-        <div class="absolute translate-x-96">
+        <div class="absolute right-0 top-0 max-w-full pointer-events-none opacity-40">
             <img src="/images/bgs/docs-blur-1.svg" alt="" />
         </div>
 
@@ -100,7 +100,9 @@
                 >Quickstart guides</Button
             >
         </section>
-        <Platforms padded={false} class="mt-12! p-0! max-md:p-0!" />
+        <div class="overflow-x-clip w-full">
+            <Platforms padded={false} class="mt-12! p-0! max-md:p-0!" />
+        </div>
         <section class="mt-12!">
             <h2 class="text-title font-aeonik-pro text-primary max-w-[600px]">Show me some code</h2>
             <p class="text-description mt-4 max-w-[600px]">
@@ -133,14 +135,14 @@
                             <img
                                 src="/images/icons/illustrated/dark/auth.png"
                                 alt=""
-                                class="web-u-only-dark"
+                                class="web-u-only-dark e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
                             <img
                                 src="/images/icons/illustrated/light/auth.png"
                                 alt=""
-                                class="web-u-only-light"
+                                class="web-u-only-light e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
@@ -159,14 +161,14 @@
                             <img
                                 src="/images/icons/illustrated/dark/databases.png"
                                 alt=""
-                                class="web-u-only-dark"
+                                class="web-u-only-dark e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
                             <img
                                 src="/images/icons/illustrated/light/databases.png"
                                 alt=""
-                                class="web-u-only-light"
+                                class="web-u-only-light e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
@@ -183,14 +185,14 @@
                             <img
                                 src="/images/icons/illustrated/dark/functions.png"
                                 alt=""
-                                class="web-u-only-dark"
+                                class="web-u-only-dark e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
                             <img
                                 src="/images/icons/illustrated/light/functions.png"
                                 alt=""
-                                class="web-u-only-light"
+                                class="web-u-only-light e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
@@ -209,14 +211,14 @@
                             <img
                                 src="/images/icons/illustrated/dark/sites.png"
                                 alt=""
-                                class="web-u-only-dark"
+                                class="web-u-only-dark e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
                             <img
                                 src="/images/icons/illustrated/light/sites.png"
                                 alt=""
-                                class="web-u-only-light"
+                                class="web-u-only-light e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
@@ -235,14 +237,14 @@
                             <img
                                 src="/images/icons/illustrated/dark/messaging.png"
                                 alt=""
-                                class="web-u-only-dark"
+                                class="web-u-only-dark e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
                             <img
                                 src="/images/icons/illustrated/light/messaging.png"
                                 alt=""
-                                class="web-u-only-light"
+                                class="web-u-only-light e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
@@ -261,14 +263,14 @@
                             <img
                                 src="/images/icons/illustrated/dark/storage.png"
                                 alt=""
-                                class="web-u-only-dark"
+                                class="web-u-only-dark e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
                             <img
                                 src="/images/icons/illustrated/light/storage.png"
                                 alt=""
-                                class="web-u-only-light"
+                                class="web-u-only-light e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
@@ -287,14 +289,14 @@
                             <img
                                 src="/images/icons/illustrated/dark/avatars.png"
                                 alt=""
-                                class="web-u-only-dark"
+                                class="web-u-only-dark e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
                             <img
                                 src="/images/icons/illustrated/light/avatars.png"
                                 alt=""
-                                class="web-u-only-light"
+                                class="web-u-only-light e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
@@ -313,14 +315,14 @@
                             <img
                                 src="/images/icons/illustrated/dark/realtime.png"
                                 alt=""
-                                class="web-u-only-dark"
+                                class="web-u-only-dark e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
                             <img
                                 src="/images/icons/illustrated/light/realtime.png"
                                 alt=""
-                                class="web-u-only-light"
+                                class="web-u-only-light e-docs-product-icon"
                                 width="40"
                                 height="40"
                             />
@@ -574,6 +576,10 @@
 
 <style lang="scss">
     @use '$scss/abstract/mixins/border-gradient' as gradients;
+
+    .e-docs-product-icon {
+        filter: hue-rotate(190deg) saturate(1.4) brightness(1.1);
+    }
 
     .e-hero-docs {
         @media (min-width: 1280px) {

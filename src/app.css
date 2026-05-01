@@ -557,3 +557,25 @@
     color: var(--color-primary) !important;
     font-size: var(--space-6) !important; /* 24px icon */
 }
+
+/* Visibility utilities for theme switching */
+.web-u-only-dark {
+    display: none;
+}
+.dark .web-u-only-dark {
+    display: block;
+}
+
+.web-u-only-light {
+    display: block;
+}
+.dark .web-u-only-light {
+    display: none;
+}
+
+.light .web-u-only-dark {
+    display: none;
+}
+.light .web-u-only-light {
+    display: block;
+}

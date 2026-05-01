@@ -94,7 +94,7 @@
 
 <svelte:window onkeydown={handleKeydown} />
 
-<div class="relative" data-variant={$layoutState.currentVariant}>
+<div class="relative overflow-x-clip" data-variant={$layoutState.currentVariant}>
     <section class="web-mobile-header is-transparent flex! lg:hidden!">
         <div class="web-mobile-header-start">
             <a href="/" aria-label="homepage">

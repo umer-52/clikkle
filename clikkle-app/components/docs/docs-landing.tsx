@@ -230,6 +230,17 @@ const migrations = [
   },
 ];
 
+const clikkleIconMap: Record<string, string> = {
+  auth: "Auth",
+  databases: "Morph DB",
+  functions: "Functions",
+  sites: "Deploy",
+  messaging: "Messaging",
+  storage: "Storage",
+  avatars: "Clikkle core",
+  realtime: "Streams",
+};
+
 function DocCard({
   href,
   illustrated,
@@ -241,6 +252,8 @@ function DocCard({
   title: string;
   description: string;
 }) {
+  const clikkleIconName = illustrated ? clikkleIconMap[illustrated] || illustrated : "";
+
   return (
     <Link
       href={href}
@@ -249,7 +262,7 @@ function DocCard({
       {illustrated ? (
         <>
           <img
-            src={`${ILLUSTRATED_BASE}/dark/${illustrated}.png`}
+            src={`/clikkle/icons-white/${clikkleIconName}.png`}
             alt=""
             width={40}
             height={40}
@@ -257,7 +270,7 @@ function DocCard({
             loading="lazy"
           />
           <img
-            src={`${ILLUSTRATED_BASE}/light/${illustrated}.png`}
+            src={`/clikkle/icons-black/${clikkleIconName}.png`}
             alt=""
             width={40}
             height={40}
@@ -370,7 +383,7 @@ function TutorialCarousel() {
 export function DocsLandingContent() {
   return (
     <>
-      <div className="pointer-events-none absolute -z-10 translate-x-96">
+      <div className="absolute right-0 top-0 max-w-full pointer-events-none opacity-40 -z-10">
         <img src="/clikkle/images/bgs/docs-blur-1.svg" alt="" loading="lazy" />
       </div>
       <div className="web-u-opacity-40-mobile pointer-events-none absolute top-4 left-0 -z-10">
