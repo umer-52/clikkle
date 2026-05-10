@@ -6,13 +6,13 @@ import { withBasePath } from '@/lib/basepath';
 
 export function AuthHero() {
     return (
-        <div className="border-smooth relative isolate box-content flex items-center overflow-hidden border-b px-5 pt-20 pb-20 lg:px-8 xl:px-16 md:pt-32 md:pb-40">
+        <div className="border-smooth relative isolate box-content flex items-start! overflow-hidden border-b px-5 pt-20 pb-20 lg:px-8 xl:px-16 md:pt-16 md:pb-40">
             <div
                 className="pointer-events-none absolute inset-0 -z-20 bg-[url('/clikkle/images/bgs/mobile-auth-hero.png')] bg-cover bg-bottom md:bg-[url('/clikkle/images/bgs/auth-hero.png')] md:bg-center"
                 aria-hidden
             />
             <div className="marketing-hero-lighting-layer" aria-hidden />
-            <div className="relative z-10 mx-auto grid w-full max-w-[75rem] items-center gap-16 md:grid-cols-2">
+            <div className="relative z-10 mx-auto grid w-full max-w-[75rem] items-start gap-16 md:grid-cols-2">
                 <div className="space-y-4">
                     <div className="flex items-center gap-2">
                         <img src={withBasePath("/icons-black/Auth.png")} className="size-8" alt="" />
@@ -37,7 +37,7 @@ export function AuthHero() {
                         </Link>
                         <Link
                             href="/docs/products/auth"
-                            className="web-btn web-btn-secondary !w-full md:!w-fit justify-center"
+                            className="web-btn web-btn-secondary-dark w-full! md:w-fit! ring-0"
                         >
                             Documentation
                         </Link>

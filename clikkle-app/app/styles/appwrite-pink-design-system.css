@@ -45,7 +45,7 @@ body[data-theme="light"],
     --bg-secondary: #f8f8fb;
     --bg-dark: #1c1a19;
     /* Scrolled marketing header — frosted white (appwrite.io light) */
-    --color-background-glass: rgba(255, 255, 255, 0.88);
+    --color-background-glass: transparent;
     /* Rest state — translucent so blur reads as glass over light sections */
     --aw-header-top-bg: rgba(255, 255, 255, 0.72);
     --aw-header-top-border: rgba(0, 0, 0, 0.08);
@@ -113,7 +113,7 @@ body[data-theme="dark"],
     --bg-dark: #0f0f13;
     /* Slightly softer than full 0.78 so scrolled bar reads less “grey slab” */
     /* Scrolled bar — dark glass (slightly translucent vs flat black) */
-    --color-background-glass: rgba(15, 15, 19, 0.68);
+    --color-background-glass: transparent;
     /* Rest state — must stay translucent so backdrop shows hero / body glare */
     --aw-header-top-bg: rgba(15, 15, 19, 0.48);
     --aw-header-top-border: rgba(255, 255, 255, 0.08);

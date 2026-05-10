@@ -103,7 +103,7 @@ function StoriesGrid() {
 export default function CustomersPage() {
   return (
     <div className="pt-6">
-      <div className="web-big-padding-section-level-2 customers-category-page">
+      <div className="web-big-padding-section-level-2 customers-category-page mt-10!">
         <div className="container">
           <CustomerHero />
           <div className="mt-12">

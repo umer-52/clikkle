@@ -59,8 +59,8 @@ export default function FunctionsPage() {
 
             <ProductCards currentProduct="functions" />
 
-            <div className="border-smooth relative border-t border-black/10 bg-[var(--bg-primary)]">
-                <div className="container pb-16">
+            <div className="border-smooth relative bg-[var(--bg-primary)]">
+                <div className="container pt-20">
                     <PreFooter headingId="functions-pre-footer-heading" />
                     <SiteFooter noOuterContainer />
                 </div>

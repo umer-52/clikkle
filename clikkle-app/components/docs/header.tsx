@@ -60,7 +60,7 @@ export function DocsHeader({
                 alt="Clikkle"
                 width={130}
                 height={70}
-                className="shrink-0 object-contain"
+                className="shrink-0 object-contain mb-2.5"
                 priority
               />
               {/* <span className="truncate text-xl font-bold tracking-tight text-[var(--color-text-primary)] dark:text-white/90">

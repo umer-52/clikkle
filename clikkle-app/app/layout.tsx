@@ -4,6 +4,7 @@ import Script from "next/script";
 import { SiteHeader } from "@/components/site-header";
 // import { AnnouncementBar } from "@/components/announcement-bar";
 import { ThemeProvider } from "@/components/theme-provider";
+import { ScrollToTop } from "@/components/scroll-to-top";
 import { THEME_INIT_SCRIPT } from "@/lib/theme-init-script";
 import "./globals.css";
 /* Appwrite-parity marketing CTAs — unlayered; must load after globals (see file header). */
@@ -109,6 +110,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: THEME_INIT_SCRIPT }}
         />
         <ThemeProvider>
+          <ScrollToTop />
           <a className="skip-link sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:p-4 focus:bg-white focus:text-black focus:top-0 focus:start-0" href="#main-content">
             Skip to content
           </a>

@@ -63,7 +63,7 @@ export function ProductCards({ currentProduct }: ProductCardsProps) {
                     {products.map((product) => (
                         <Link
                             key={product.url}
-                            className="web-card is-normal web-card-explore"
+                            className="web-card is-normal web-card-explore bg-white/[0.03] backdrop-blur-2xl"
                             href={product.url}
                         >
                             <div className="web-u-padding-inline-8 web-u-padding-block-end-8 flex flex-col gap-2">

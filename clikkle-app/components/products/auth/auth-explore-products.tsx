@@ -57,11 +57,11 @@ export function AuthExploreProducts() {
                 <h4 className="text-label text-primary text-center">Keep exploring our products</h4>
                 <ul
                     className="mt-8 grid gap-8"
-                    style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(18rem, 1fr))' }}
+                    style={{ gridTemplateColumns: 'repeat(3, 1fr)' }}
                 >
                     {cards.map((c) => (
                         <li key={c.href} className="web-u-flex-basis-378 min-w-0">
-                            <Link href={c.href} className="web-card is-normal web-card-explore">
+                            <Link href={c.href} className="web-card is-normal web-card-explore bg-[#222225]!">
                                 <div className="web-u-padding-inline-8 web-u-padding-block-end-8 flex flex-col gap-2">
                                     <div className="flex items-center gap-2">
                                         <img

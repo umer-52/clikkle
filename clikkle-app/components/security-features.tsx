@@ -22,7 +22,7 @@ const features = [
     label: "Abuse protection",
     description: "Protect your APIs from abuse with built-in protection.",
     icon: "/clikkle/images/icons/gradients/verified.svg",
-    href: "/docs/advanced/security/abuse-protection#rate-limiting",
+    href: "/docs/advanced/security/abuse-protection",
   },
   {
     label: "Data migrations",

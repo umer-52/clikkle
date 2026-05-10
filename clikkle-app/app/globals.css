@@ -18,6 +18,14 @@
 @import './header.css';
 @import './marketing-web-icon.css';
 
+/* Load Aeonik Pro font */
+@font-face {
+    font-family: 'Aeonik Pro';
+    src: url('/fonts/AeonikPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-display: swap;
+}
+
 @custom-variant dark (&:where(.dark, .dark *));
 @custom-variant light (&:where(.light, .light *));
 
@@ -1130,4 +1138,18 @@ html.dark #main-content > main[class*='--bg-primary'] {
 
 .text-light-secondary {
     color: var(--color-gray-600);
+}
+
+/* Apply Aeonik Pro font to all headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Aeonik Pro", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+/* Apply Aeonik Pro font to buttons */
+button,
+.web-button,
+.web-btn,
+a.web-button,
+a.web-btn {
+    font-family: "Aeonik Pro", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
 }

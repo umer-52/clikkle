@@ -17,7 +17,7 @@ export default function ChangelogPage() {
   return (
     <div className="web-big-padding-section" data-changelog-shell>
       <div className="changelog-hero-pad">
-        <div className="web-big-padding-section-level-2">
+        <div className="web-big-padding-section-level-2 mt-0!">
           <div className="changelog-wrapper">
             <h1 className="text-display font-aeonik-pro text-primary">
               Changelog

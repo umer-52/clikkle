@@ -21,7 +21,7 @@ export default function MessagingPage() {
     return (
         <main className="flex flex-col bg-[var(--bg-primary)] overflow-x-hidden">
             {/* Custom Hero for Messaging */}
-            <div className="relative overflow-hidden pt-32 pb-40 border-b border-white/8">
+            <div className="relative overflow-hidden pt-16 pb-40 border-b border-white/8">
                 {/* Background Blurs */}
                 <div className="absolute top-0 left-0 w-[800px] h-[800px] bg-[#FE9567] opacity-20 blur-[120px] rounded-full pointer-events-none -translate-x-1/2 -translate-y-1/2" />
                 <div className="absolute top-0 right-0 w-[800px] h-[800px] bg-[#E580FE] opacity-20 blur-[120px] rounded-full pointer-events-none translate-x-1/2 -translate-y-1/2" />
@@ -235,7 +235,7 @@ await messaging.createPush(
             <ProductCards currentProduct="messaging" />
 
             <div className="relative bg-[var(--bg-primary)]">
-                <div className="container pb-16">
+                <div className="container pt-20">
                     <PreFooter headingId="messaging-pre-footer-heading" />
                     <SiteFooter noOuterContainer />
                 </div>

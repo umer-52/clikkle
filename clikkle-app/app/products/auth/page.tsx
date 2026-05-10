@@ -35,7 +35,7 @@ export default function AuthPage() {
 
             <div className="border-smooth relative border-t border-black/10 bg-[var(--bg-primary)]">
                 <PricingSection className="mt-0" />
-                <div className="container pb-16">
+                <div className="container">
                     <SiteFooter />
                 </div>
             </div>

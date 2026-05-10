@@ -101,7 +101,7 @@ export function PlatformsGrid({ className, headline = "Designed for the tools yo
         {/* Headline — matches Appwrite GradientText + text-sub-body */}
         {/* `platforms.svelte` + GradientText: headline span metrics only (gradient = brand, not Appwrite pink) */}
         {headline && (
-          <span className="flex items-center bg-[linear-gradient(145deg,#6d8ffc_0%,#ffffff_50%)] bg-clip-text pr-4 text-sm font-medium text-transparent md:w-full md:max-w-[175px]">
+          <span className="flex items-center mt-3 md:mt-0 bg-[linear-gradient(145deg,#6d8ffc_0%,#ffffff_50%)] bg-clip-text pr-4 text-sm font-medium text-transparent md:w-full md:max-w-[175px]">
             {headline}
           </span>
         )}

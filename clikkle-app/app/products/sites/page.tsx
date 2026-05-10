@@ -43,7 +43,7 @@ export default function SitesPage() {
         <main className="flex flex-col bg-[var(--bg-primary)] overflow-x-hidden">
             {/* Sites Hero */}
             <div
-                className="relative flex flex-col items-center"
+                className="relative flex flex-col items-start"
                 style={{
                     background: `
                         radial-gradient(circle at -15% -10%, hsla(343, 98%, 60%, 0.2) 0px, transparent 40%),
@@ -51,7 +51,7 @@ export default function SitesPage() {
                     `
                 }}
             >
-                <div className="container mx-auto grid w-full grid-cols-1 place-items-center gap-x-16 gap-y-8 py-12 max-lg:px-5 lg:grid-cols-12 lg:py-20">
+                <div className="container mx-auto grid w-full grid-cols-1 place-items-start! gap-x-16 gap-y-8 py-12 max-lg:px-5 lg:grid-cols-12 lg:py-16">
                     <div className="col-span-full flex flex-col gap-6 lg:col-span-5">
                         <div className="flex items-center gap-2">
                             <img src={withBasePath("/icons-black/Deploy.png")} className="w-8 h-8" alt="Sites icon" loading="lazy" />
@@ -152,7 +152,7 @@ export default function SitesPage() {
             <ProductCards currentProduct="sites" />
 
             <div className="border-smooth relative border-t border-black/10 bg-[var(--bg-primary)]">
-                <div className="container pb-16">
+                <div className="container pt-20">
                     <PreFooter headingId="sites-pre-footer-heading" />
                     <SiteFooter noOuterContainer />
                 </div>

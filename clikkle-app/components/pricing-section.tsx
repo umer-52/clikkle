@@ -57,13 +57,16 @@ export function PricingSection({
         className
       )}
     >
-      <div className="container flex w-full flex-col items-center justify-center gap-10 lg:gap-14">
+      <div className="container relative flex w-full flex-col items-center justify-center gap-10 lg:gap-14">
+        {/* Blurred gradient background - positioned behind pricing cards */}
         <div
-          className={cn(
-            "animate-lighting pointer-events-none absolute top-0 left-0 -z-10 h-screen w-full overflow-hidden blur-3xl",
-            PRICING_LIGHTING,
-            "bg-position-[0%_0%]"
-          )}
+          className="pointer-events-none absolute -left-1/5 w-[clamp(400px,80vw,1200px)] h-[clamp(400px,80vw,1200px)] rounded-full blur-3xl opacity-40"
+          style={{
+            background: `
+              radial-gradient(ellipse at 20% 30%, rgba(45, 99, 255, 0.6) 10%, transparent 30%),
+              radial-gradient(ellipse at 50% 30%, rgba(30, 58, 138, 0.3) 0%, transparent 50%)
+            `,
+          }}
           aria-hidden
         />
         {showFullHeader && (
@@ -87,7 +90,7 @@ export function PricingSection({
         )}
 
         <div className={cn(
-          'border-smooth divide-smooth grid min-h-75 w-full max-w-[90rem] grid-cols-1 divide-y divide-dashed rounded-3xl border border-white/[0.08] bg-[#1c1c1e] backdrop-blur-lg',
+          'border-smooth divide-smooth grid min-h-75 w-full max-w-[90rem] grid-cols-1 divide-y divide-dashed rounded-3xl border border-white/[0.08] bg-white/[0.03] backdrop-blur-2xl',
           'md:grid-cols-2 md:gap-y-12 md:divide-y-0 md:px-4 md:py-8 lg:px-0 lg:py-8',
           lgCols,
           'lg:divide-x lg:divide-solid'
@@ -95,7 +98,7 @@ export function PricingSection({
           {visiblePlans.map(({ name, price, tag, subtitle, description }) => {
             const isEnterprise = name === 'Enterprise';
             return (
-              <div key={name} className="flex h-full min-h-0 w-full grow flex-col gap-1 px-5 py-5 md:py-0 lg:px-10 lg:py-2">
+              <div key={name} className="flex h-full min-h-0 w-full grow flex-col px-5 py-5 md:py-0 lg:px-10 lg:py-2">
                 <div className="flex items-center gap-2.5">
                   <span className="text-description text-secondary font-medium">{name}</span>
                   {tag && (

@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState, useRef, type CSSProperties } from "react";
 import { Star, X, ChevronDown } from "lucide-react";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import Image from "next/image";
 import { ProductsMegaMenu } from "./products-mega-menu";
 import { stripBasePathFromPathname, withBasePath } from "@/lib/basepath";
@@ -17,11 +17,13 @@ function isUnderDocsRoute(pathname: string | null | undefined) {
 export function SiteHeader() {
   /** Keep top transparent header longer before scrolled glass kicks in. */
   const HEADER_SCROLL_THRESHOLD = 64;
+  const router = useRouter();
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false);
   const [isAppSwitcherOpen, setIsAppSwitcherOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [isProductsMenuOpen, setIsProductsMenuOpen] = useState(false);
   const [chromeTone, setChromeTone] = useState<"light" | "dark">("dark");
+  const [isMobile, setIsMobile] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
   const mobileNavPanel = useRef<HTMLElement>(null);
   const appSwitcherRef = useRef<HTMLDivElement>(null);
@@ -131,6 +133,16 @@ export function SiteHeader() {
   }, [HEADER_SCROLL_THRESHOLD]);
 
   useEffect(() => {
+    const checkIsMobile = () => {
+      setIsMobile(window.innerWidth < 1024);
+    };
+
+    checkIsMobile();
+    window.addEventListener("resize", checkIsMobile);
+    return () => window.removeEventListener("resize", checkIsMobile);
+  }, []);
+
+  useEffect(() => {
     const handleEsc = (e: KeyboardEvent) => {
       if (e.key === "Escape") {
         setIsMobileNavOpen(false);
@@ -216,13 +228,13 @@ export function SiteHeader() {
   const headerChromeStyle: CSSProperties = isScrolled
     ? {
         backgroundColor: "var(--color-background-glass)",
-        WebkitBackdropFilter: "blur(24px)",
-        backdropFilter: "blur(24px)",
+        WebkitBackdropFilter: "blur(8px)",
+        backdropFilter: "blur(8px)",
       }
     : {
-        backgroundColor: "var(--aw-header-top-bg)",
-        WebkitBackdropFilter: "blur(12px)",
-        backdropFilter: "blur(12px)",
+        backgroundColor: "var(--color-background-glass)",
+        WebkitBackdropFilter: "blur(8px)",
+        backdropFilter: "blur(8px)",
       };
 
   return (
@@ -230,7 +242,7 @@ export function SiteHeader() {
       <div className={isScrolled ? chromeTone : undefined} style={{ display: "contents" }}>
         <header
           ref={headerRef}
-          className={`aw-header ${isScrolled ? "aw-header-scrolled" : ""}`}
+          className={`aw-header px-4! lg:px-15! ${isScrolled ? "aw-header-scrolled" : ""}`}
           style={headerChromeStyle}
         >
           {/* Clikkle `Main.svelte`: flat shell — logo, nav, actions as siblings; `gap: 2rem`; `lg` = 1024px */}
@@ -244,15 +256,15 @@ export function SiteHeader() {
               aria-label="Open app switcher"
               aria-expanded={isAppSwitcherOpen}
               aria-haspopup="menu"
-              onClick={() => setIsAppSwitcherOpen((open) => !open)}
+              onClick={() => !isMobile ? setIsAppSwitcherOpen((open) => !open) : router.push("/")}
             >
               <img
                 src={logoMarkSrc}
                 alt="Clikkle"
-                className="block h-7 w-auto shrink-0 object-contain object-left md:h-8"
+                className="block h-7 w-auto mb-2.5 shrink-0 object-contain object-left md:h-8"
               />
               <ChevronDown
-                className={`aw-header-chevron size-4 transition-transform ${isAppSwitcherOpen ? "rotate-180" : ""}`}
+                className={`aw-header-chevron size-4 transition-transform hidden lg:block ${isAppSwitcherOpen ? "rotate-180" : ""}`}
                 aria-hidden
               />
             </button>
@@ -338,12 +350,16 @@ export function SiteHeader() {
               <span className="web-inline-tag">{GITHUB_STARS}</span>
             </a>
 
-            <a className="aw-cta-button aw-focus-ring" href={CTA_LINK}>
+            <a className="aw-cta-button aw-focus-ring hidden lg:block" href={CTA_LINK}>
               Start building for free
             </a>
 
+            <a className="web-btn web-btn-primary flex lg:hidden" href={CTA_LINK}>
+              Sign up
+            </a>
+
             <button
-              className="aw-menu-button aw-focus-ring flex lg:hidden"
+              className="aw-menu-button aw-focus-ring flex lg:hidden mx-0!"
               type="button"
               aria-label={isMobileNavOpen ? "Close navigation menu" : "Open navigation menu"}
               aria-expanded={isMobileNavOpen}

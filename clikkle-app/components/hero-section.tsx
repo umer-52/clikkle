@@ -33,7 +33,7 @@ export function HeroSection({
         aria-hidden
       />
       {/* Slightly wider visual column + tighter md gap so the mock sits closer to copy like Appwrite */}
-      <div className="relative appwrite-container grid h-full min-w-0 grid-cols-1 items-center gap-12 md:grid-cols-[minmax(0,1fr)_minmax(0,1.12fr)] md:items-center md:gap-12 lg:gap-20 xl:gap-24">
+      <div className="relative appwrite-container items-start! grid h-full min-w-0 grid-cols-1 gap-12 md:grid-cols-[minmax(0,1fr)_minmax(0,1.12fr)] md:items-center md:gap-12 lg:gap-20 xl:gap-24">
         <div className="animate-blur-in flex min-w-0 flex-col gap-4 [animation-delay:150ms] [animation-duration:1000ms]">
           {showPromoBanner ? (
             <Link
@@ -69,23 +69,32 @@ export function HeroSection({
             </Link>
 
             {showSecondaryActions ? (
+              <>
               <button
                 type="button"
-                className="web-btn web-btn-secondary-dark w-full! cursor-pointer shadow-[0_2px_40px_rgba(0,0,0,0.5)] transition-opacity hover:opacity-90 active:scale-95 lg:w-fit!"
+                className="web-btn border-greyscale-400 text-greyscale-100/90 sm:hidden w-full! cursor-pointer shadow-[0_2px_40px_rgba(0,0,0,0.5)] transition-opacity hover:opacity-90 active:scale-95 lg:w-fit!"
               >
                 <span className="text">Clikkle Platform in 100 seconds</span>
                 <Play className="size-4 shrink-0" aria-hidden />
               </button>
+              <button
+                type="button"
+                className="web-btn web-btn-secondary-dark hidden sm:flex w-full! cursor-pointer shadow-[0_2px_40px_rgba(0,0,0,0.5)] transition-opacity hover:opacity-90 active:scale-95 lg:w-fit!"
+              >
+                <span className="text">Clikkle Platform in 100 seconds</span>
+                <Play className="size-4 shrink-0" aria-hidden />
+              </button>
+              </>
             ) : null}
           </div>
         </div>
 
-        <div className="relative flex min-h-0 min-w-0 justify-start md:min-h-[min(640px,70vh)]">
+        <div className="relative flex min-h-0 mt-8 min-w-0 justify-start md:min-h-[min(640px,70vh)]">
           {/*
             Anchor mock to the column start (full chrome + sidebar visible); width follows intrinsic
             SVG layout on md+ so the right side can bleed past the container like Appwrite.
           */}
-          <div className="w-full min-w-0 md:absolute md:top-1/2 md:left-0 md:w-max md:max-w-[min(1185px,calc(100dvw-1.5rem))] md:-translate-y-1/2">
+          <div className="min-w-full h-40 md:h-fit overflow-hidden md:absolute md:top-1/2 md:left-0 md:w-max md:max-w-[min(1185px,calc(100dvw-1.5rem))] md:-translate-y-1/2">
             <DashboardIllustration />
           </div>
         </div>

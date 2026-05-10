@@ -38,13 +38,13 @@ export function ProductHero({
     mobileImage
 }: ProductHeroProps) {
     return (
-        <div className="border-smooth relative isolate box-content flex items-center overflow-hidden border-b px-5 py-12 lg:px-8 xl:px-16 md:pt-32 md:pb-40">
+        <div className="border-smooth relative isolate box-content flex items-start overflow-hidden border-b px-5 py-12 lg:px-8 xl:px-16 md:pt-16 md:pb-40">
             <div
                 className="pointer-events-none absolute inset-0 -z-20 bg-[url(/clikkle/images/bgs/mobile-hero.png)] bg-cover bg-bottom md:bg-[url(/clikkle/images/bgs/hero.png)] md:bg-center"
                 aria-hidden
             />
             <div className="marketing-hero-lighting-layer" aria-hidden />
-            <div className="relative z-10 mx-auto grid w-full max-w-[75rem] items-center gap-16 md:grid-cols-2">
+            <div className="relative z-10 mx-auto grid w-full max-w-[75rem] items-start gap-16 md:grid-cols-2">
                 <div className="space-y-8">
                     <div className="flex items-center gap-2">
                         <img src={eyebrow.icon} className="size-8" alt="" />

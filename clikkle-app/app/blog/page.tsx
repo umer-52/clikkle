@@ -95,7 +95,7 @@ export default function BlogPage() {
   return (
     <div className="web-big-padding-section overflow-x-hidden">
       {/* Hero + Featured */}
-      <div className="border-smooth relative border-b py-10">
+      <div className="border-smooth relative border-b py-10 pt-0">
         {/* Gradient glow */}
         <div
           className="absolute pointer-events-none"
@@ -154,7 +154,7 @@ export default function BlogPage() {
           </svg>
         </div>
 
-        <div className="web-big-padding-section-level-2 relative">
+        <div className="web-big-padding-section-level-2 relative mt-14!">
           <div className="container">
             <h1 className="text-display font-aeonik-pro text-primary">Blog</h1>
 

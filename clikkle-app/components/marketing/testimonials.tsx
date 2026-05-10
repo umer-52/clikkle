@@ -52,7 +52,7 @@ interface Props {
 
 export function Testimonials({ className }: Props) {
     return (
-        <div className={cn('relative w-full max-w-[100vw] overflow-hidden py-20', className)}>
+        <div className={cn('relative w-full max-w-full overflow-hidden py-20', className)}>
             {/*
               No `light` on the track: inherited tokens from the parent `.light` section are enough.
               A local `.light` would paint `var(--bg-primary)` across the row and merge with `bg-white` cards.

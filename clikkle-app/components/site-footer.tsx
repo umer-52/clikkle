@@ -224,7 +224,7 @@ export function SiteFooter({ noOuterContainer = false, footerNavNoTopBorder = fa
             width={140}
             height={34}
             priority={false}
-            className="site-footer__brand-lockup object-contain"
+            className="site-footer__brand-lockup object-contain mb-5!"
           />
         </Link>
 
@@ -243,18 +243,18 @@ export function SiteFooter({ noOuterContainer = false, footerNavNoTopBorder = fa
           ))}
         </ul>
 
-        <div className="flex w-full flex-col gap-10 lg:hidden">
+        <div className="flex w-full flex-col gap-4 lg:hidden">
           {Object.entries(links).map(([title, items]) => (
             <div
               key={`mobile-${title}`}
-              className="site-footer__accordion-item flex flex-col overflow-hidden rounded-lg bg-white/[0.04] backdrop-blur-sm"
+              className="site-footer__accordion-item flex flex-col overflow-hidden backdrop-blur-sm"
             >
               <button
                 type="button"
-                className="flex w-full items-center justify-between gap-4 px-4 py-4 text-left"
+                className="flex w-full items-center justify-between gap-4 py-4 text-left"
                 onClick={() => toggleSection(title)}
               >
-                <span className="text-caption font-medium uppercase text-secondary">{title}</span>
+                <span className="text-caption font-medium uppercase text-secondary text-sm!">{title}</span>
                 <ChevronDown
                   className={cn(
                     "size-4 shrink-0 text-secondary transition-transform duration-200",
@@ -263,7 +263,7 @@ export function SiteFooter({ noOuterContainer = false, footerNavNoTopBorder = fa
                 />
               </button>
               {openSections.includes(title) ? (
-                <ul className="flex flex-col gap-2.5 px-4 pb-4 text-sub-body">
+                <ul className="flex flex-col gap-2.5 px-4 py-4 text-sub-body">
                   {items.map(({ href, label, target, rel }) => (
                     <li key={label}>
                       <FooterLink href={href} label={label} target={target} rel={rel} />
