@@ -19,7 +19,7 @@ export function HeroSection({
   showSecondaryActions = true,
 }: HeroSectionProps) {
   return (
-    <div className="relative flex max-w-full items-center overflow-x-clip overflow-y-visible py-12 md:py-0 lg:min-h-[700px]">
+    <div className="relative flex max-w-full items-start mt-16 overflow-x-clip overflow-y-visible py-12 md:py-0 lg:min-h-[700px]">
       {/*
         `overflow-x-clip`: Appwrite-style hero lets the dashboard mock extend past the content box;
         clip at the viewport (no horizontal scroll) while keeping the left edge of the mock visible.
@@ -33,7 +33,7 @@ export function HeroSection({
         aria-hidden
       />
       {/* Slightly wider visual column + tighter md gap so the mock sits closer to copy like Appwrite */}
-      <div className="relative appwrite-container items-start! grid h-full min-w-0 grid-cols-1 gap-12 md:grid-cols-[minmax(0,1fr)_minmax(0,1.12fr)] md:items-center md:gap-12 lg:gap-20 xl:gap-24">
+      <div className="relative appwrite-container items-start! grid h-full min-w-0 grid-cols-1 gap-12 md:grid-cols-[minmax(0,1fr)_minmax(0,1.12fr)] md:items-start md:gap-12 lg:gap-20 xl:gap-24">
         <div className="animate-blur-in flex min-w-0 flex-col gap-4 [animation-delay:150ms] [animation-duration:1000ms]">
           {showPromoBanner ? (
             <Link
@@ -89,12 +89,12 @@ export function HeroSection({
           </div>
         </div>
 
-        <div className="relative flex min-h-0 mt-8 min-w-0 justify-start md:min-h-[min(640px,70vh)]">
+        <div className="relative flex min-h-0 mt-0 md:-mt-12 min-w-0 justify-start md:min-h-[min(640px,70vh)]">
           {/*
             Anchor mock to the column start (full chrome + sidebar visible); width follows intrinsic
             SVG layout on md+ so the right side can bleed past the container like Appwrite.
           */}
-          <div className="min-w-full h-40 md:h-fit overflow-hidden md:absolute md:top-1/2 md:left-0 md:w-max md:max-w-[min(1185px,calc(100dvw-1.5rem))] md:-translate-y-1/2">
+          <div className="min-w-full h-40 md:h-fit overflow-hidden md:absolute md:top-0 md:left-0 md:w-max md:max-w-[min(1185px,calc(100dvw-1.5rem))]">
             <DashboardIllustration />
           </div>
         </div>
