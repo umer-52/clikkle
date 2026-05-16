@@ -6,6 +6,7 @@ import { Star, X, ChevronDown } from "lucide-react";
 import { usePathname, useRouter } from "next/navigation";
 import Image from "next/image";
 import { ProductsMegaMenu } from "./products-mega-menu";
+import { WorksuiteMegaMenu } from "./worksuite-mega-menu";
 import { stripBasePathFromPathname, withBasePath } from "@/lib/basepath";
 
 /** Docs layout provides its own chrome; hide marketing header on all `/docs` URLs. */
@@ -22,6 +23,7 @@ export function SiteHeader() {
   const [isAppSwitcherOpen, setIsAppSwitcherOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [isProductsMenuOpen, setIsProductsMenuOpen] = useState(false);
+  const [isWorksuiteMenuOpen, setIsWorksuiteMenuOpen] = useState(false);
   const [chromeTone, setChromeTone] = useState<"light" | "dark">("dark");
   const [isMobile, setIsMobile] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
@@ -148,6 +150,7 @@ export function SiteHeader() {
         setIsMobileNavOpen(false);
         setIsAppSwitcherOpen(false);
         setIsProductsMenuOpen(false);
+        setIsWorksuiteMenuOpen(false);
       }
     };
 
@@ -155,7 +158,7 @@ export function SiteHeader() {
       document.body.style.overflow = "hidden";
     }
 
-    if (isMobileNavOpen || isAppSwitcherOpen || isProductsMenuOpen) {
+    if (isMobileNavOpen || isAppSwitcherOpen || isProductsMenuOpen || isWorksuiteMenuOpen) {
       window.addEventListener("keydown", handleEsc);
     }
 
@@ -163,7 +166,7 @@ export function SiteHeader() {
       document.body.style.overflow = "";
       window.removeEventListener("keydown", handleEsc);
     };
-  }, [isMobileNavOpen, isAppSwitcherOpen, isProductsMenuOpen]);
+  }, [isMobileNavOpen, isAppSwitcherOpen, isProductsMenuOpen, isWorksuiteMenuOpen]);
 
   useEffect(() => {
     if (!isAppSwitcherOpen) return;
@@ -286,7 +289,7 @@ export function SiteHeader() {
                         if (item.name === "Clikkle Worksuite") {
                           e.preventDefault();
                           setIsAppSwitcherOpen(false);
-                          setIsProductsMenuOpen(true);
+                          setIsWorksuiteMenuOpen(true);
                           return;
                         }
                         setIsAppSwitcherOpen(false);
@@ -336,6 +339,11 @@ export function SiteHeader() {
               );
             })}
           </nav>
+
+          <WorksuiteMegaMenu
+            isOpen={isWorksuiteMenuOpen}
+            onOpenChange={setIsWorksuiteMenuOpen}
+          />
 
           <div className="aw-header-actions">
             <a
