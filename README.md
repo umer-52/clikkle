@@ -1,44 +1,36 @@
-# Website 🖥️
+# Clikkle Website 🖥️
 
-[![Discord](https://img.shields.io/discord/564160730845151244?label=discord&style=flat-square)](https://appwrite.io/discord)
-[![Twitter Account](<https://img.shields.io/badge/X%20(Formerly%20Twitter)-appwrite-00acee?style=flat-square>)](https://twitter.com/appwrite)
-[![appwrite.io](https://img.shields.io/badge/appwrite-.io-f02e65?style=flat-square)](https://appwrite.io)
+The Clikkle Website repository features the main Clikkle website, including our homepage, documentation, and product pages.
 
-![Cover banner](/../../../.github/blob/main/profile/images/banner.png)
+This project is built using modern web technologies:
 
-The Appwrite Website repo features the main Appwrite website, including our [homepage](https://appwrite.io), [docs](https://appwrite.io/docs), and upcoming blog.
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-The Appwrite Website has been built with the following frameworks:
+## Development Setup
 
-- [Svelte](https://svelte.dev/)
-- [SvelteKit](https://kit.svelte.dev/)
+The main React application is located inside the `clikkle-app` directory. 
 
-## Development
-
-_If this is your first time setting up the repository, please run `bun install` inside the repo's directory and create a `.env` file based on `.env.example`._
-
-To get the repo up and running in your local environment, use the following command:
+To get the project up and running in your local environment, use the following commands:
 
 ```bash
-bun run dev
+# Navigate to the app directory
+cd clikkle-app
+
+# Install dependencies (you can use npm or bun)
+npm install
+
+# Start the development server
+npm run dev
 ```
 
-> If you don't have `bun` available on your system, you can install it from the [official Bun Installation website](https://bun.com/docs/installation)
+Your development server will typically start on `http://localhost:3000`.
 
 ## Contributing
 
-All code contributions, including those of people with commit access, must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code.
-
-We truly ❤️ pull requests! If you wish to help, you can learn more about how you can contribute to this project in the [contribution guide](./CONTRIBUTING.md).
-
-## Security
-
-For security issues, kindly email us at [security@appwrite.io](mailto:security@appwrite.io) instead of posting a public issue on GitHub.
-
-## Follow Us
-
-Join our growing community around the world! See our official [Blog](https://appwrite.io/blog). Follow us on [X](https://twitter.com/appwrite), [Facebook Page](https://www.facebook.com/appwrite.io), [Facebook Group](https://www.facebook.com/groups/appwrite.developers/), and [Dev Community](https://dev.to/appwrite) or join our live [Discord server](https://appwrite.io/discord) for more help, ideas, and discussions.
+All code contributions must go through a pull request and be approved before being merged. This ensures proper review of all code and maintains the quality of the project.
 
 ## License
 
-Appwrite website, docs and blog © 2025 by Appwrite is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Copyright © 2026 Clikkle. All rights reserved.
