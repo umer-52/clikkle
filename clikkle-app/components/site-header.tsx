@@ -308,9 +308,9 @@ export function SiteHeader() {
                     </Link>
                   ))}
                 </div>
-                <div className="border-t border-greyscale-700 px-4 py-3 text-base">
+                <Link href="https://clikkle.com" className="border-t border-greyscale-700 px-4 py-3 text-base hover:bg-greyscale-750 transition-colors">
                   Powered by <span className="font-semibold text-secondary">clikkle.com</span>
-                </div>
+                </Link>
               </div>
             ) : null}
           </div>

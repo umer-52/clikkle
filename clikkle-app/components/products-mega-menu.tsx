@@ -227,6 +227,57 @@ export function ProductsMegaMenu(props: {
                         ))}
                       </div>
                     </div>
+
+                    <div className="flex gap-3 pt-2">
+                      <Link
+                        href="https://worksuite.clikkle.com"
+                        className="group flex flex-col items-center gap-2 rounded-lg p-2 text-center transition-colors hover:bg-white/8"
+                        onClick={() => setIsOpen(false)}
+                      >
+                        <div className="flex size-10 items-center justify-center rounded-lg border border-white/12 bg-white/6">
+                          <Image
+                            src={withBasePath("/icons-black/Chat.png")}
+                            alt=""
+                            width={20}
+                            height={20}
+                            className="size-5 grayscale transition-all group-hover:grayscale-0"
+                          />
+                        </div>
+                        <span className="text-xs font-medium text-[#c4c4c6]">Work</span>
+                      </Link>
+                      <Link
+                        href="https://core.clikkle.com"
+                        className="group flex flex-col items-center gap-2 rounded-lg p-2 text-center transition-colors hover:bg-white/8"
+                        onClick={() => setIsOpen(false)}
+                      >
+                        <div className="flex size-10 items-center justify-center rounded-lg border border-white/12 bg-white/6">
+                          <Image
+                            src={withBasePath("/icons-black/Automation.png")}
+                            alt=""
+                            width={20}
+                            height={20}
+                            className="size-5 grayscale transition-all group-hover:grayscale-0"
+                          />
+                        </div>
+                        <span className="text-xs font-medium text-[#c4c4c6]">Build</span>
+                      </Link>
+                      <Link
+                        href="https://libria.clikkle.com"
+                        className="group flex flex-col items-center gap-2 rounded-lg p-2 text-center transition-colors hover:bg-white/8"
+                        onClick={() => setIsOpen(false)}
+                      >
+                        <div className="flex size-10 items-center justify-center rounded-lg border border-white/12 bg-white/6">
+                          <Image
+                            src={withBasePath("/icons-black/AI.svg")}
+                            alt=""
+                            width={20}
+                            height={20}
+                            className="size-5 grayscale transition-all group-hover:grayscale-0"
+                          />
+                        </div>
+                        <span className="text-xs font-medium text-[#c4c4c6]">Create</span>
+                      </Link>
+                    </div>
                   </div>
                 </div>
               </div>

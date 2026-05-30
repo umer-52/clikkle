@@ -10,43 +10,43 @@ import { withBasePath } from "@/lib/basepath";
 const worksuiteItems = [
   {
     name: "Start Scheduling",
-    href: "",
+    href: "https://worksuite.clikkle.com/calendar",
     description: "Schedule and manage meetings seamlessly.",
     icon: withBasePath("/icons-black/Scheduling.png"),
   },
   {
     name: "Automation",
-    href: "",
+    href: "https://worksuite.clikkle.com/campaigns",
     description: "Automate workflows and save time.",
     icon: withBasePath("/icons-black/Automation.png"),
   },
   {
     name: "Real-time Chat",
-    href: "",
+    href: "https://worksuite.clikkle.com/chat",
     description: "Instant messaging and team collaboration.",
     icon: withBasePath("/icons-black/Chat.png"),
   },
   {
     name: "Secure Storage",
-    href: "",
+    href: "https://worksuite.clikkle.com/files",
     description: "Encrypted file storage and sharing.",
     icon: withBasePath("/icons-black/SecureStorage.png"),
   },
   {
     name: "Promo",
-    href: "",
+    href: "https://worksuite.clikkle.com/promo",
     description: "Create and manage promotional campaigns.",
     icon: withBasePath("/icons-black/Promo.png"),
   },
   {
     name: "Video Meetings",
-    href: "",
+    href: "https://worksuite.clikkle.com/crew",
     description: "Host and join video meetings instantly.",
     icon: withBasePath("/icons-black/VideoMeetings.png"),
   },
   {
     name: "e Sign",
-    href: "",
+    href: "https://worksuite.clikkle.com/esign",
     description: "Digital signature and document signing.",
     icon: withBasePath("/icons-black/eSign.png"),
   },
@@ -157,7 +157,7 @@ export function WorksuiteMegaMenu(props: {
                           <span className="font-bold text-[#2D63FF]">_</span>
                         </span>
                         <Link
-                          href="/worksuite"
+                          href="https://worksuite.clikkle.com"
                           className="flex shrink-0 items-center text-[12px] text-[#85858B] transition-colors hover:text-white"
                           onClick={() => setIsOpen(false)}
                         >
@@ -202,6 +202,57 @@ export function WorksuiteMegaMenu(props: {
                           />
                         </Link>
                       </div>
+                    </div>
+
+                    <div className="flex gap-3 pt-2">
+                      <Link
+                        href="https://worksuite.clikkle.com"
+                        className="group flex flex-col items-center gap-2 rounded-lg p-2 text-center transition-colors hover:bg-white/8"
+                        onClick={() => setIsOpen(false)}
+                      >
+                        <div className="flex size-10 items-center justify-center rounded-lg border border-white/12 bg-white/6">
+                          <Image
+                            src={withBasePath("/icons-black/Chat.png")}
+                            alt=""
+                            width={20}
+                            height={20}
+                            className="size-5 grayscale transition-all group-hover:grayscale-0"
+                          />
+                        </div>
+                        <span className="text-xs font-medium text-[#c4c4c6]">Work</span>
+                      </Link>
+                      <Link
+                        href="https://core.clikkle.com"
+                        className="group flex flex-col items-center gap-2 rounded-lg p-2 text-center transition-colors hover:bg-white/8"
+                        onClick={() => setIsOpen(false)}
+                      >
+                        <div className="flex size-10 items-center justify-center rounded-lg border border-white/12 bg-white/6">
+                          <Image
+                            src={withBasePath("/icons-black/Automation.png")}
+                            alt=""
+                            width={20}
+                            height={20}
+                            className="size-5 grayscale transition-all group-hover:grayscale-0"
+                          />
+                        </div>
+                        <span className="text-xs font-medium text-[#c4c4c6]">Build</span>
+                      </Link>
+                      <Link
+                        href="https://libria.clikkle.com"
+                        className="group flex flex-col items-center gap-2 rounded-lg p-2 text-center transition-colors hover:bg-white/8"
+                        onClick={() => setIsOpen(false)}
+                      >
+                        <div className="flex size-10 items-center justify-center rounded-lg border border-white/12 bg-white/6">
+                          <Image
+                            src={withBasePath("/icons-black/AI.svg")}
+                            alt=""
+                            width={20}
+                            height={20}
+                            className="size-5 grayscale transition-all group-hover:grayscale-0"
+                          />
+                        </div>
+                        <span className="text-xs font-medium text-[#c4c4c6]">Create</span>
+                      </Link>
                     </div>
                   </div>
                 </div>
