@@ -78,6 +78,11 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  icons: {
+    icon: "https://cdn.clikkle.com/images/store/logo/Clikkle%20Store%20Icon.png",
+    shortcut: "https://cdn.clikkle.com/images/store/logo/Clikkle%20Store%20Icon.png",
+    apple: "https://cdn.clikkle.com/images/store/logo/Clikkle%20Store%20Icon.png",
+  },
 };
 
 export const viewport: Viewport = {

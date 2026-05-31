@@ -27,7 +27,7 @@ export function SiteHeader() {
   const [chromeTone, setChromeTone] = useState<"light" | "dark">("dark");
   const [isMobile, setIsMobile] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
-  const mobileNavPanel = useRef<HTMLElement>(null);
+  const mobileNavPanel = useRef<HTMLElement | null>(null);
   const appSwitcherRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const navPath = stripBasePathFromPathname(pathname ?? "") || "/";
@@ -202,7 +202,14 @@ export function SiteHeader() {
 
   const GITHUB_STARS = "55.2K";
   const GITHUB_LINK = "https://github.com/clikkle/clikkle";
-  const CTA_LINK = "https://console.clikkle.com/";
+  const isConsoleCtaPage =
+    navPath === "/assets" ||
+    navPath === "/init" ||
+    navPath.startsWith("/init/") ||
+    navPath === "/threads" ||
+    navPath.startsWith("/threads/");
+  const CTA_LINK = isConsoleCtaPage ? "https://cloud.clikkle.com/" : "https://console.clikkle.com/";
+  const CTA_TEXT = isConsoleCtaPage ? "Go to console" : "Start building for free";
   const appSwitcherItems = [
     {
       name: "Clikkle Core",
@@ -359,11 +366,11 @@ export function SiteHeader() {
             </a>
 
             <a className="aw-cta-button aw-focus-ring hidden lg:block" href={CTA_LINK}>
-              Start building for free
+              {CTA_TEXT}
             </a>
 
             <a className="web-btn web-btn-primary flex lg:hidden" href={CTA_LINK}>
-              Sign up
+              {isConsoleCtaPage ? "Go to console" : "Sign up"}
             </a>
 
             <button
@@ -407,7 +414,7 @@ export function SiteHeader() {
           aria-modal="true"
           aria-labelledby="mobile-navigation-title"
           tabIndex={-1}
-          ref={mobileNavPanel as any}
+          ref={mobileNavPanel}
         >
           <div className="aw-mobile-panel-header">
             <Link className="aw-logo-link aw-focus-ring" href="/" aria-label="Clikkle home">
@@ -464,7 +471,7 @@ export function SiteHeader() {
             </a>
 
             <a className="aw-cta-button aw-focus-ring" href={CTA_LINK}>
-              Start building for free
+              {CTA_TEXT}
             </a>
           </div>
         </aside>

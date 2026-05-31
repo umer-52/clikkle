@@ -1,14 +1,12 @@
 "use client";
 
-import { useState, useRef, useMemo, useEffect } from "react";
+import { useState, useRef, useMemo } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { Search, ChevronLeft, ChevronRight } from "lucide-react";
 import {
   blogPosts,
   featuredPost,
   categories,
-  authors,
   getAuthor,
   formatBlogDate,
 } from "@/lib/blog-data";
@@ -32,10 +30,6 @@ export default function BlogPage() {
   const [isStart, setIsStart] = useState(true);
   const [isEnd, setIsEnd] = useState(false);
   const [isHovering, setIsHovering] = useState(false);
-
-  useEffect(() => {
-    setCurrentPage(1);
-  }, [selectedCategory, searchQuery]);
 
   const featuredAuthor = getAuthor(featuredPost.author);
 
@@ -254,7 +248,10 @@ export default function BlogPage() {
                       className={`blog-interactive-tag ${
                         selectedCategory === "Latest" ? "is-selected" : ""
                       }`}
-                      onClick={() => setSelectedCategory("Latest")}
+                      onClick={() => {
+                        setSelectedCategory("Latest");
+                        setCurrentPage(1);
+                      }}
                     >
                       Latest
                     </button>
@@ -265,7 +262,10 @@ export default function BlogPage() {
                         className={`blog-interactive-tag ${
                           selectedCategory === cat.name ? "is-selected" : ""
                         }`}
-                        onClick={() => setSelectedCategory(cat.name)}
+                        onClick={() => {
+                          setSelectedCategory(cat.name);
+                          setCurrentPage(1);
+                        }}
                       >
                         {cat.name}
                       </button>
@@ -295,7 +295,10 @@ export default function BlogPage() {
                   type="text"
                   placeholder="Search"
                   value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
+                  onChange={(e) => {
+                    setSearchQuery(e.target.value);
+                    setCurrentPage(1);
+                  }}
                 />
               </div>
             </div>
