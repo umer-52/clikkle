@@ -22,7 +22,7 @@ export function SessionManagement() {
                     <div className="mt-2 ml-2 flex flex-1 flex-col">
                         <header className="flex flex-col gap-2 rounded-tl-xl border-b border-white/20 bg-white/5 p-4">
                             <div className="flex items-center gap-3">
-                                <span className="font-aeonik-pro text-[18px] font-light text-white">Walter O'Brien</span>
+                                <span className="font-aeonik-pro text-[18px] font-light text-white">Walter O&apos;Brien</span>
                                 <span className="rounded-full bg-white/10 px-2 py-1 font-mono text-xs text-white">637a40ba7</span>
                             </div>
                             <nav className="relative z-10 mt-4 -mb-[17px] flex items-center gap-4 pl-1 text-xs text-[#656569] font-medium">

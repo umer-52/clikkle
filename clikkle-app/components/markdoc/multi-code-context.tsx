@@ -80,13 +80,8 @@ export function MultiCodeProvider({ children }: { children: ReactNode }) {
     if (registry.langs.length === 0 || initDoneRef.current) return;
     initDoneRef.current = true;
     const pref = getPreferredPlatform();
-    if (pref && registry.langs.includes(pref)) {
-      setSelectedState(pref);
-    } else if (pref && !registry.langs.includes(pref)) {
-      setSelectedState(registry.langs[0] ?? null);
-    } else {
-      setSelectedState(registry.langs[0] ?? null);
-    }
+    const next = pref && registry.langs.includes(pref) ? pref : registry.langs[0] ?? null;
+    queueMicrotask(() => setSelectedState(next));
     hasMountedRef.current = true;
   }, [langsKey, registry.langs]);
 
@@ -95,7 +90,7 @@ export function MultiCodeProvider({ children }: { children: ReactNode }) {
     if (!initDoneRef.current || registry.langs.length === 0) return;
     const pref = getPreferredPlatform();
     if (pref && registry.langs.includes(pref) && pref !== selected) {
-      setSelectedState(pref);
+      queueMicrotask(() => setSelectedState(pref));
     }
   }, [preferredPlatform, langsKey, selected, registry.langs]);
 
@@ -104,7 +99,8 @@ export function MultiCodeProvider({ children }: { children: ReactNode }) {
     if (!hasMountedRef.current) return;
     const pref = getPreferredPlatform();
     if (registry.langs.length > 0 && pref && !registry.langs.includes(pref)) {
-      setSelectedState(registry.langs[0] ?? null);
+      const next = registry.langs[0] ?? null;
+      queueMicrotask(() => setSelectedState(next));
     }
   }, [tabGen, langsKey, registry.langs]);
 

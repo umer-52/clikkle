@@ -28,7 +28,7 @@ export function usePreferredPlatform() {
   const [platform, setPlatform] = useState<Platform>(Platform.ClientWeb);
 
   useEffect(() => {
-    setPlatform(readStoredPlatform());
+    queueMicrotask(() => setPlatform(readStoredPlatform()));
   }, []);
 
   const update = useCallback((next: Platform) => {

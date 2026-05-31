@@ -8,7 +8,7 @@ import { Menu, X, Github, ChevronDown,
 } from "lucide-react";
 import Image from "next/image";
 import { withBasePath } from "@/lib/basepath";
-import { clikkleStats as clikkleStats } from "@/lib/site-data";
+import { clikkleStats } from "@/lib/site-data";
 
 const products = [
   { title: "Auth", description: "Secure login with multi-factor auth", icon: KeyRound, href: "https://clikkle.com/products/auth" },
@@ -25,7 +25,7 @@ export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isProductsHovered, setIsProductsHovered] = useState(false);
   
-  const githubStars = clikkleStats.find((s: any) => s.label === "GitHub Stars")?.value || "55.2K";
+  const githubStars = clikkleStats.find((s) => s.label === "GitHub Stars")?.value || "55.2K";
 
   useEffect(() => {
     const onScroll = () => {

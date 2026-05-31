@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useReducedMotion } from "framer-motion";
+import { motion, useReducedMotion, type Variants } from "framer-motion";
 import type { PropsWithChildren } from "react";
 
 type RevealVariant = "fade-in" | "slide-up" | "slide-left" | "slide-right" | "scale-up";
@@ -12,7 +12,7 @@ type RevealProps = PropsWithChildren<{
   staggerChildren?: number;
 }>;
 
-const getVariants = (variant: RevealVariant, delay: number, stagger: number): any => {
+const getVariants = (variant: RevealVariant, delay: number): Variants => {
   const transition = { duration: 0.55, ease: "easeOut", delay };
   
   const v = {
@@ -57,7 +57,7 @@ export function Reveal({
     return <div className={className}>{children}</div>;
   }
 
-  const variants = getVariants(variant, delay, 0);
+  const variants = getVariants(variant, delay);
 
   return (
     <motion.div

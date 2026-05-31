@@ -3,7 +3,7 @@ import { Reveal } from "./reveal";
 import { Check, Search, Sparkles } from "lucide-react";
 import Link from "next/link";
 
-export function SectionHeading({ title, description, eyebrow, align }: { title: string; description?: string; eyebrow?: string; align?: "left" | "center" }) {
+export function SectionHeading({ title, description, eyebrow }: { title: string; description?: string; eyebrow?: string; align?: "left" | "center" }) {
   return (
     <div className="flex flex-col items-center text-center max-w-3xl mx-auto mb-16 md:mb-24">
       {eyebrow ? (
@@ -111,7 +111,7 @@ export function CTASection() {
         </Reveal>
         <Reveal delay={0.1}>
           <p className="text-xl text-[var(--text-secondary)] mb-10 leading-relaxed">
-            Stop wrestling with infrastructure. Start building your next idea with Clikkle's robust backend services.
+            Stop wrestling with infrastructure. Start building your next idea with Clikkle&apos;s robust backend services.
           </p>
         </Reveal>
         <Reveal delay={0.2} className="flex flex-col sm:flex-row items-center justify-center gap-4">

@@ -84,7 +84,7 @@ export function Testimonials({ className }: Props) {
                                         </span>
                                         {testimonial.title ? (
                                             <span className="text-sub-body text-secondary block">
-                                                {testimonial.title} // {testimonial.company}
+                                                {testimonial.title} {"//"} {testimonial.company}
                                             </span>
                                         ) : null}
                                     </div>

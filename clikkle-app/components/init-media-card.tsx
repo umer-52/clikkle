@@ -7,7 +7,7 @@ interface MediaCardProps {
   type: "video" | "announcement" | "discord";
 }
 
-export function MediaCard({ title, poster, url, type }: MediaCardProps) {
+export function MediaCard({ title, poster, url }: MediaCardProps) {
   return (
     <a
       className="init-media-card group block"

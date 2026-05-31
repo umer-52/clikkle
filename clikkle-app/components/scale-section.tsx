@@ -81,7 +81,8 @@ export function ScaleSection() {
 
   /* scale.svelte `inView` — run when mounted; IO alone often misses / shows 0K+ after Fast Refresh */
   useEffect(() => {
-    animateNumbers();
+    const frame = requestAnimationFrame(animateNumbers);
+    return () => cancelAnimationFrame(frame);
   }, [animateNumbers]);
 
   return (

@@ -29,7 +29,7 @@ export function DocsHeading({
   articleReference?: boolean;
 }) {
   const ref = useRef<HTMLHeadingElement>(null);
-  const tagName = `h${Math.min(6, level + 1)}`;
+  const tagName = `h${Math.min(6, level + 1)}` as keyof React.JSX.IntrinsicElements;
   const [derivedId, setDerivedId] = useState(elementId ?? "");
   const tutorialCtx = useTutorialHeadingsOptional();
 
@@ -55,7 +55,10 @@ export function DocsHeading({
       );
 
   const tutorialCtxRef = useRef(tutorialCtx);
-  tutorialCtxRef.current = tutorialCtx;
+
+  useEffect(() => {
+    tutorialCtxRef.current = tutorialCtx;
+  }, [tutorialCtx]);
 
   useEffect(() => {
     const ctx = tutorialCtxRef.current;
@@ -85,7 +88,12 @@ export function DocsHeading({
 
   return React.createElement(
     tagName,
-    { ref, id: resolvedId || undefined, suppressHydrationWarning: true, className: cls },
+    {
+      ref: ref as React.Ref<HTMLHeadingElement>,
+      id: resolvedId || undefined,
+      suppressHydrationWarning: true,
+      className: cls,
+    },
     <a href={href} className="no-underline hover:underline">
       {children}
     </a>

@@ -11,9 +11,10 @@ function Counter({ value, suffix }: { value: number; suffix: string }) {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
   const shouldReduceMotion = useReducedMotion();
 
+  const displayValue = shouldReduceMotion ? value : currentValue;
+
   useEffect(() => {
     if (shouldReduceMotion) {
-      setCurrentValue(value);
       return;
     }
 
@@ -36,7 +37,7 @@ function Counter({ value, suffix }: { value: number; suffix: string }) {
 
   return (
     <span ref={ref}>
-      {currentValue}{suffix}
+      {displayValue}{suffix}
     </span>
   );
 }

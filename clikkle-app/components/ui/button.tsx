@@ -1,6 +1,10 @@
 import * as React from "react"
 import { cn } from "@/lib/utils"
 
+type ButtonChildProps = {
+  className?: string;
+} & Record<string, unknown>;
+
 export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   asChild?: boolean;
   variant?: "default" | "destructive" | "outline" | "secondary" | "ghost" | "link" | "text";
@@ -35,11 +39,10 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
 
     if (asChild) {
       const { children, ...restProps } = props;
-      const child = React.Children.only(children) as React.ReactElement<any>;
+      const child = React.Children.only(children) as React.ReactElement<ButtonChildProps>;
       return React.cloneElement(child, {
         ...restProps,
         className: cn(computedClass, child.props.className),
-        ref: ref as any,
       });
     }
 

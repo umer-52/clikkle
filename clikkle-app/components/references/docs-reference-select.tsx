@@ -1,14 +1,7 @@
 "use client";
 
 import { cn } from "@/lib/utils";
-import {
-  useCallback,
-  useEffect,
-  useLayoutEffect,
-  useRef,
-  useState,
-  type CSSProperties,
-} from "react";
+import { useCallback, useEffect, useRef, useState, type CSSProperties } from "react";
 import { createPortal } from "react-dom";
 
 export type DocsReferenceSelectOption<T extends string = string> = {
@@ -57,7 +50,7 @@ export function DocsReferenceSelect<T extends string = string>({
   const selected = options.find((o) => o.value === value);
 
   useEffect(() => {
-    setMounted(true);
+    queueMicrotask(() => setMounted(true));
   }, []);
 
   useEffect(() => {
@@ -68,19 +61,24 @@ export function DocsReferenceSelect<T extends string = string>({
     return () => mq.removeEventListener("change", sync);
   }, []);
 
-  useLayoutEffect(() => {
+  useEffect(() => {
+    let frame = 0;
     if (!open || !btnRef.current) {
-      setMenuStyle(null);
-      return;
+      frame = requestAnimationFrame(() => setMenuStyle(null));
+      return () => cancelAnimationFrame(frame);
     }
-    const r = btnRef.current.getBoundingClientRect();
-    setMenuStyle({
-      position: "fixed",
-      left: r.left,
-      top: r.bottom + 4,
-      minWidth: r.width,
-      zIndex: 10000,
+    frame = requestAnimationFrame(() => {
+      const r = btnRef.current?.getBoundingClientRect();
+      if (!r) return;
+      setMenuStyle({
+        position: "fixed",
+        left: r.left,
+        top: r.bottom + 4,
+        minWidth: r.width,
+        zIndex: 10000,
+      });
     });
+    return () => cancelAnimationFrame(frame);
   }, [open]);
 
   useEffect(() => {

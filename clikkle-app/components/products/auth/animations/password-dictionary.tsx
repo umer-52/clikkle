@@ -1,5 +1,3 @@
-import { cn } from '@/lib/utils';
-
 export function PasswordDictionary() {
     const options = [
         '123456', 'password', '12345678', 'qwerty', '123456789', '12345', '1234', '111111',
@@ -17,7 +15,7 @@ export function PasswordDictionary() {
             <div className="p-3 font-medium text-sm z-20">
                 <span className="text-white block font-semibold mb-1">Password dictionary</span>
                 <p className="text-[#656569] leading-relaxed">
-                    Check if the user's password matches any of the top 10K commonly used passwords.
+                    Check if the user&apos;s password matches any of the top 10K commonly used passwords.
                 </p>
             </div>
             

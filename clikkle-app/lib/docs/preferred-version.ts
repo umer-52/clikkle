@@ -20,7 +20,7 @@ export function usePreferredVersion() {
   const [version, setVersionState] = useState<string | null>(null);
 
   useEffect(() => {
-    setVersionState(getPreferredVersion());
+    queueMicrotask(() => setVersionState(getPreferredVersion()));
   }, []);
 
   const setVersion = useCallback((next: string | null) => {

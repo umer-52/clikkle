@@ -57,8 +57,10 @@ export function OpenSourceAlternative({ platforms = ['Auth0', 'Firebase', 'Supab
                 }, 50);
             } else {
                 // Moving to next word
-                setActiveIndex((prev) => (prev + 1) % platforms.length);
-                setIsTyping(true);
+                timeout = setTimeout(() => {
+                    setActiveIndex((prev) => (prev + 1) % platforms.length);
+                    setIsTyping(true);
+                }, 0);
             }
         }
 

@@ -1,19 +1,17 @@
 "use client";
 
 import {
-  cloneElement,
   isValidElement,
   useCallback,
   useRef,
   useState,
-  type MouseEvent,
   type ReactElement,
 } from "react";
 import { cn } from "@/lib/utils";
 
 const DEFAULT_RESET_MS = 1000;
 
-type ClickableChild = ReactElement<{ onClick?: (e: MouseEvent<HTMLElement>) => void }>;
+type ClickableChild = ReactElement;
 
 /**
  * Lightweight hover tooltip for code copy controls — Appwrite `Tooltip` + copy feedback
@@ -60,12 +58,6 @@ export function CodeCopyTooltip({
     return children;
   }
 
-  const trigger = cloneElement(children, {
-    onClick: async (_e: MouseEvent<HTMLElement>) => {
-      await runCopy();
-    },
-  });
-
   return (
     <span
       className="relative inline-flex items-center"
@@ -73,6 +65,9 @@ export function CodeCopyTooltip({
       onMouseLeave={() => setHovered(false)}
       onFocusCapture={() => setFocused(true)}
       onBlurCapture={() => setFocused(false)}
+      onClickCapture={() => {
+        void runCopy();
+      }}
     >
       <span
         role="tooltip"
@@ -86,7 +81,7 @@ export function CodeCopyTooltip({
       >
         {label}
       </span>
-      {trigger}
+      {children}
     </span>
   );
 }

@@ -359,7 +359,7 @@ export const platforms: Platform[] = [
 export type ClikkleProduct = {
   title: string;
   description: string;
-  icon: any;
+  icon: LucideIcon;
   href: string;
 };
 
