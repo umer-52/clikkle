@@ -13,7 +13,7 @@ type RevealProps = PropsWithChildren<{
 }>;
 
 const getVariants = (variant: RevealVariant, delay: number): Variants => {
-  const transition = { duration: 0.55, ease: "easeOut", delay };
+  const transition = { duration: 0.55, ease: "easeOut" as const, delay };
   
   const v = {
     "fade-in": {
@@ -62,8 +62,9 @@ export function Reveal({
   return (
     <motion.div
       className={className}
-      initial={variants.initial}
-      whileInView={variants.animate}
+      variants={variants}
+      initial="initial"
+      whileInView="animate"
       viewport={{ once: true, margin: "-50px" }}
     >
       {children}
