@@ -108,7 +108,7 @@ export const COMMUNITY_PROJECTS: {
         title: 'Refetch.io',
         description: 'Open-source alternative to Hacker News.',
         image: {
-            src: 'https://cloud.appwrite.io/v1/storage/buckets/thumbnails/files/68b984b5000e9ce4e9e6/preview?width=1280&output=webp&project=builtWithAppwrite',
+            src: '/images/community/projects/refetch.png',
             alt: 'Refetch: Open-source alternative to Hacker News',
         },
         href: 'https://builtwith.clikkle.com',
@@ -117,7 +117,7 @@ export const COMMUNITY_PROJECTS: {
         title: 'Auth UI',
         description: 'Authentication screens generator for any application.',
         image: {
-            src: 'https://cloud.appwrite.io/v1/storage/buckets/thumbnails/files/64803bb4f34eb4b05ee3/preview?width=800&output=webp&project=builtWithAppwrite',
+            src: '/images/community/projects/auth-ui.png',
             alt: 'Auth UI: Fully customizable login flow for your applications',
         },
         href: 'https://builtwith.clikkle.com',

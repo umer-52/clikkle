@@ -96,7 +96,7 @@ const days: InitDay[] = [
       {
         title: "YouTube Live",
         type: "video",
-        poster: "/clikkle/images/init/posterFutureOfAppwrite.avif",
+        poster: "/clikkle/images/init/posterFutureOfClikkle.avif",
         url: "https://www.youtube.com/watch?v=1g8tuogsp7A",
       },
     ],
@@ -265,9 +265,9 @@ function Giveaway() {
       <div className="init-ticket-stack" aria-hidden="true">
         {[0, 1, 2].map((ticket) => (
           <div key={ticket} className={`init-ticket init-ticket-${ticket + 1}`}>
-            <div className="init-ticket-url">https://appwrite.io/init/ticket...</div>
+            <div className="init-ticket-url">https://clikkle.com/init/ticket...</div>
             <div className="init-ticket-panel">
-              <img src="/clikkle/images/logos/appwrite.svg" alt="" className="init-ticket-logo" />
+              <img src="/images/logos/clikkle-header-wordmark.svg" alt="" className="init-ticket-logo" />
               <div className="init-ticket-lockup">
                 <img src="/clikkle/images/init/lockup.avif" alt="" />
               </div>
@@ -318,7 +318,7 @@ export default function InitPage() {
                 Claim your ticket
               </Link>
               <Link
-                href="https://www.producthunt.com/products/appwrite"
+                href="https://www.producthunt.com/products/clikkle"
                 className="web-button is-secondary"
                 target="_blank"
                 rel="noopener noreferrer"
