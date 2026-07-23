@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none" aria-hidden="true">
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 120) rotate(90) scale(520 420)">
+      <stop stop-color="#2d63ff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2d63ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(280 780) rotate(90) scale(400 360)">
+      <stop stop-color="#3f7cff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3f7cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="800" y1="220" x2="800" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2a2a2e"/>
+      <stop offset="1" stop-color="#141418"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#19191c"/>
+  <rect width="1600" height="900" fill="url(#g1)"/>
+  <rect width="1600" height="900" fill="url(#g2)"/>
+  <rect x="200" y="160" width="1200" height="580" rx="24" fill="url(#card)" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <text x="800" y="300" text-anchor="middle" fill="#fafafa" font-family="system-ui, Segoe UI, sans-serif" font-size="52" font-weight="700">Introducing Clikkle Skills</text>
+  <rect x="320" y="360" width="960" height="120" rx="14" fill="rgba(0,0,0,0.45)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="360" y="435" font-family="ui-monospace, Consolas, monospace" font-size="28" font-weight="500">
+    <tspan fill="#e4e4e7">npx skills add </tspan><tspan fill="#5b8cff" font-weight="600">clikkle/agent-skills</tspan>
+  </text>
+</svg>

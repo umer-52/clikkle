@@ -1,0 +1,10 @@
+﻿---
+layout: article
+title: Scale
+description: Clikkle's Scale plan fully supports scaling your application.
+---
+
+Clikkle's Scale plan is designed for growing development teams and agencies with many organizational members and large projects.
+The plan offers unlimited seats across your organization and dedicated resources per project.
+Scale plan organizations will receive additional compliance measures, organization roles, and dedicated support.
+

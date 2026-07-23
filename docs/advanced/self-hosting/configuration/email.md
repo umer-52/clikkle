@@ -1,0 +1,105 @@
+﻿---
+layout: article
+title: Email delivery
+description: Configure email services for your self-hosted Clikkle instance. Learn how to set up email notifications, templates, and delivery for your applications.
+---
+
+Clikkle v0.7 and above come with support for easy integrations with 3rd party SMTP providers. In order for emails to work, you will need to set up proper SMTP configuration as described below.
+
+Because email deliverability can be both tricky and hard, it is often easier to delegate this responsibility to a 3rd-party SMTP provider. These providers help you abstract the complexity of passing SPAM filters by doing a lot of the advanced configuration and validation for you.
+
+In this document, you will learn how to connect a 3rd party SMTP provider like MailGun or SendGrid with Clikkle to help you get better email deliverability.
+
+{% info title="Setting up Clikkle Messaging?" %}
+This page describes how to setup messaging for your self-hosted Clikkle instance to send email verifications and magic URLs during login.
+
+If you are looking to send custom emails for promotions, news letters, and other purposes, view the [documentation for Clikkle Messaging](/docs/products/messaging) documentation.
+{% /info %}
+
+# Environment variables {% #environment-variables %}
+
+At this stage, we assume that you have already installed Clikkle. If not, you can follow our [Self Hosting Guide](/docs/advanced/self-hosting) for the installation. Clikkle offers multiple environment variables to customize your server setup to your needs. To configure Clikkle to use your own SMTP server, you need to set the following environment variables in the hidden .env file that comes with your Clikkle installation.
+
+| Environment Variable  | Description                                                                                                           | Default Value           |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| `_APP_SMTP_HOST`                | SMTP server host name address. Use an empty string to disable all mail sending from the server.                     | Empty string             |
+| `_APP_SMTP_PORT`                | SMTP server TCP port.                                                                                                 | Empty                    |
+| `_APP_SMTP_SECURE`              | SMTP secure connection protocol. Change to 'tls' if running on a secure connection. Valid values: empty, 'tls', 'ssl'. | Empty                    |
+| `_APP_SMTP_USERNAME`            | SMTP server user name.                                                                                               | Empty                    |
+| `_APP_SMTP_PASSWORD`            | SMTP server user password.                                                                                           | Empty                    |
+| `_APP_SYSTEM_EMAIL_ADDRESS`     | Configured sender email address, seen by recipients.                                                                  | "team@clikkle.io"       |
+
+Here's a sample configuration if you're using SendGrid as your SMTP provider:
+
+```sh
+_APP_SMTP_HOST=smtp.sendgrid.net
+_APP_SMTP_PORT=587
+_APP_SMTP_SECURE=tls
+_APP_SMTP_USERNAME=YOUR-SMTP-USERNAME
+_APP_SMTP_PASSWORD=YOUR-SMTP-PASSWORD
+_APP_SYSTEM_EMAIL_ADDRESS=YOUR-SENDER-EMAIL
+```
+
+When using SendGrid, the SMTP username should be set to the literal string "apikey".
+
+{% info title="Applying changes" %}
+
+After editing your `docker-compose.yml` or `.env` files, you will need to recreate your Clikkle stack by running the following compose command in your terminal.
+
+```sh
+docker compose up -d
+```
+
+You can verify if the changes have been successfully applied by running this command:
+
+```sh
+docker compose exec clikkle vars
+```
+
+{% /info %}
+
+
+# Debugging {% #debugging %}
+
+If you are unable to send emails, there are several common issues to check. Follow these troubleshooting steps:
+
+## Check email worker logs {% #check-logs %}
+
+The first place to look for errors is the **Clikkle Emails Worker** logs:
+
+```sh
+docker compose logs -f clikkle-worker-mails
+```
+
+Look for error messages that might indicate authentication failures, network issues, or configuration problems.
+
+## Verify SMTP configuration {% #verify-config %}
+
+Check your `.env` file configuration:
+
+1. Ensure all SMTP environment variables are correctly set
+2. Verify credentials are valid
+3. Test your SMTP credentials independently using your provider's SDK or cURL requests
+
+## Check authorized recipients {% #authorized-recipients %}
+
+Some SMTP providers have [authorized recipients](https://help.mailgun.com/hc/en-us/articles/217531258-Authorized-Recipients) restrictions in sandbox/development environments.
+
+Make sure the email recipient is added to your provider's authorized recipients list if you're using a sandbox account.
+
+## Verify environment variables are loaded {% #verify-env %}
+
+Check if environment variables are properly set in the container:
+
+```sh
+docker compose exec clikkle-worker-mails vars
+```
+
+If environment variables aren't loaded, rebuild your Clikkle stack:
+
+```sh
+docker compose up -d --build --force-recreate
+```
+
+Now you can head over to your Clikkle Console, log out from your account, and try to recover your password or send invites to other team members from your Clikkle Console using your newly configured SMTP provider.
+

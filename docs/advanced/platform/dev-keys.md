@@ -1,0 +1,96 @@
+﻿---
+layout: article
+title: Dev keys
+description: Bypass Clikkle rate limits and CORS errors in your development environment with Clikkle Dev keys.
+---
+
+Dev keys are secrets used by Clikkle [Client SDKs](/docs/sdks#client) to avoid abuse limits in testing. They are meant to be used specifically in development environments, where they hold several developer experience-related benefits:
+
+- Clikkle rate limits and CORS errors are bypassed
+- Configurable expiration date with 1 day, 7 days, and 30 day options
+
+This is highly beneficial in scenarios where you are repeatedly sending the same requests to Clikkle in a short period of time, such as manual or E2E testing and checks in your CI/CD pipeline.
+
+{% info title="Important note" %}
+Dev keys should never be used in production environments, only in development environments, as they can make your app more susceptible to abuse and security breaches.
+{% /info %}
+
+# Dev keys vs API keys {% #dev-keys-vs-api-keys %}
+
+Dev keys and [API keys](/docs/advanced/platform/api-keys) are not the same and cannot be used interchangeably.
+
+Dev keys are specifically designed to help you avoid abuse limits and CORS errors in test environments, making them ideal for development and testing workflows. API keys, on the other hand, permit usage of Clikkle services in production environments with fine-grained scope control.
+
+Dev keys are for client SDKs in development environments, while API keys are for server SDKs and the CLI in production environments.
+
+# Create dev key {% #create-dev-key %}
+
+To create a new dev key, navigate to **Overview** > **Integrations** > **Dev keys** and click **Create Dev key**.
+
+{% only_dark %}
+![Create dev key](/clikkle/images/docs/dev-keys/dark.png)
+{% /only_dark %}
+{% only_light %}
+![Create dev key](/clikkle/images/docs/dev-keys/light.png)
+{% /only_light %}
+
+You can then implement the dev key while initializing the Clikkle client in your app.
+
+{% multicode %}
+```client-web
+import { Client } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-flutter
+import 'package:clikkle/clikkle.dart';
+
+Client client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-react-native
+import { Client } from "clikkle";
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<YOUR_PROJECT_ID>')
+    .setDevKey('<YOUR_DEV_KEY>'); // Your dev key
+```
+
+```client-apple
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>") // Your dev key
+```
+
+```client-android-kotlin
+import io.clikkle.Client
+
+val client = Client(context)
+    .setEndpoint("https://cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>") // Your dev key
+```
+
+```client-android-java
+import io.clikkle.Client;
+
+Client client = new Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1")
+    .setProject("<YOUR_PROJECT_ID>")
+    .setDevKey("<YOUR_DEV_KEY>"); // Your dev key
+```
+{% /multicode %}
+
+If you need to replace your dev key, create a new key, update your app credentials and, once ready, delete your old key.
+

@@ -1,0 +1,187 @@
+---
+layout: article
+title: Start with Refine
+description: Build Refine apps with Clikkle and learn how to use our powerful backend to add authentication, user management, file storage, and more.
+difficulty: beginner
+readtime: 3
+back: /docs/quick-starts
+---
+
+Learn how to setup your first Refine project powered by Clikkle.
+{% section #step-1 step=1 title="Create project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add a **Web app**. The **Hostname** should be `localhost`. 
+
+{% info title="Cross-Origin Resource Sharing (CORS)" %}
+Adding `localhost` as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors.
+
+Learn more in our [CORS error guide](/blog/post/cors-error).
+{% /info %}
+
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+
+{% /section %}
+{% section #step-2 step=2 title="Create Refine project" %}
+Create a Refine project with Clikkle support.
+
+```sh
+npm create refine-app@latest -- --preset refine-clikkle
+```
+{% /section %}
+{% section #step-3 step=3 title="Install Clikkle" %}
+
+
+Using the `refine-clikkle` preset eliminates the need for extra dependencies for a quick start.
+
+If you want to integrate Clikkle into an existing Refine app, simply use this command:
+```sh
+npm install @refinedev/clikkle
+```
+Then follow [this guide on the Refine documentation site](https://refine.dev/docs/packages/documentation/data-providers/clikkle).
+
+
+{% /section %}
+{% section #step-4 step=4 title="Import Clikkle" %}
+Find your project's ID in the **Settings** page. 
+
+{% only_dark %}
+![Project settings screen](/clikkle/images/docs/quick-starts/dark/project-id.png)
+{% /only_dark %}
+{% only_light %}
+![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
+{% /only_light %}
+Navigate to `src/utility/clikkleClient.ts` and add your API credentials.
+
+
+```ts
+import { Account, Clikkle, Storage } from "@refinedev/clikkle";
+
+const CLIKKLE_URL = '<YOUR_API_ENDPOINT>'; // Replace with your Clikkle API Endpoint
+const CLIKKLE_PROJECT = "<PROJECT_ID>"; // Replace with your project ID
+
+const clikkleClient = new Clikkle();
+
+clikkleClient.setEndpoint(CLIKKLE_URL).setProject(CLIKKLE_PROJECT);
+const account = new Account(clikkleClient);
+const storage = new Storage(clikkleClient);
+
+export { account, clikkleClient, storage };
+
+```
+{% /section %}
+{% section #step-5 step=5 title="Create a login page" %}
+
+Replace the code in `src/App.tsx` with the following.
+
+```client-web
+import { Authenticated, Refine } from '@refinedev/core';
+import { dataProvider, liveProvider } from '@refinedev/clikkle';
+import {
+    AuthPage,
+    ErrorComponent,
+    RefineThemes,
+    ThemedLayoutV2,
+    useNotificationProvider,
+} from '@refinedev/antd';
+import routerProvider, {
+    CatchAllNavigate,
+    NavigateToResource,
+} from '@refinedev/react-router-v6';
+import '@refinedev/antd/dist/reset.css';
+
+import { App as AntdApp, ConfigProvider } from 'antd';
+import { BrowserRouter, Outlet, Route, Routes } from 'react-router-dom';
+
+import { clikkleClient } from './utility';
+import { authProvider } from './authProvider';
+
+const App: React.FC = () => {
+    return (
+        <BrowserRouter>
+            <ConfigProvider theme={RefineThemes.Blue}>
+                <AntdApp>
+                    <Refine
+                        dataProvider={dataProvider(clikkleClient, {
+                            databaseId: '<CLIKKLE_DATABASE_ID>',
+                        })}
+                        liveProvider={liveProvider(clikkleClient, {
+                            databaseId: '<CLIKKLE_DATABASE_ID>',
+                        })}
+                        authProvider={authProvider}
+                        routerProvider={routerProvider}
+                        notificationProvider={useNotificationProvider}
+                    >
+                        <Routes>
+                            <Route
+                                element={
+                                    <Authenticated
+                                        fallback={
+                                            <CatchAllNavigate to="/login" />
+                                        }
+                                    >
+                                        <ThemedLayoutV2>
+                                            <Outlet />
+                                        </ThemedLayoutV2>
+                                    </Authenticated>
+                                }
+                            ></Route>
+
+                            <Route
+                                element={
+                                    <Authenticated fallback={<Outlet />}>
+                                        <NavigateToResource resource="<CLIKKLE_TABLE_ID>" />
+                                    </Authenticated>
+                                }
+                            >
+                                <Route path="/login" element={<AuthPage />} />
+                                <Route
+                                    path="/register"
+                                    element={<AuthPage type="register" />}
+                                />
+                            </Route>
+
+                            <Route
+                                element={
+                                    <Authenticated>
+                                        <ThemedLayoutV2>
+                                            <Outlet />
+                                        </ThemedLayoutV2>
+                                    </Authenticated>
+                                }
+                            >
+                                <Route path="*" element={<ErrorComponent />} />
+                            </Route>
+                        </Routes>
+                    </Refine>
+                </AntdApp>
+            </ConfigProvider>
+        </BrowserRouter>
+    );
+};
+
+export default App;
+```
+{% /section %}
+
+{% section #step-6 step=6 title="All set" %}
+Run your project with `npm run dev -- --open --port 3000` and open [Localhost on Port 3000](http://localhost:3000) in your browser.
+{% /section %}
+

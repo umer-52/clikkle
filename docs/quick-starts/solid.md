@@ -1,0 +1,158 @@
+﻿---
+layout: article
+title: Start with Solid
+description: Build Solid apps with Clikkle and learn how to use our powerful backend to add authentication, user management, file storage, and more.
+difficulty: beginner
+readtime: 3
+back: /docs/quick-starts
+---
+
+Learn how to setup your first Solid project powered by Clikkle.
+
+{% section #step-1 step=1 title="Create project" %}
+Head to the [Clikkle Console](https://cloud.clikkle.io/console).
+
+{% only_dark %}
+![Create project screen](/clikkle/images/docs/quick-starts/dark/create-project.png)
+{% /only_dark %}
+
+{% only_light %}
+![Create project screen](/clikkle/images/docs/quick-starts/create-project.png)
+{% /only_light %}
+
+If this is your first time using Clikkle, create an account and create your first project.
+
+Then, under **Add a platform**, add a **Web app**. The **Hostname** should be `localhost`.
+
+{% info title="Cross-Origin Resource Sharing (CORS)" %}
+Adding `localhost` as a platform lets your local app talk to Clikkle. For production, add your live domain to avoid CORS errors.
+
+Learn more in our [CORS error guide](/blog/post/cors-error).
+{% /info %}
+
+
+{% only_dark %}
+![Add a platform](/clikkle/images/docs/quick-starts/dark/add-platform.png)
+{% /only_dark %}
+
+{% only_light %}
+![Add a platform](/clikkle/images/docs/quick-starts/add-platform.png)
+{% /only_light %}
+
+You can skip optional steps.
+{% /section %}
+
+{% section #step-2 step=2 title="Create Solid project" %}
+Create a Vite project.
+
+```sh
+npm create vite@latest my-app -- --template solid && cd my-app
+```
+{% /section %}
+
+{% section #step-3 step=3 title="Install Clikkle" %}
+Install the JavaScript Clikkle SDK.
+
+```sh
+npm install clikkle
+```
+{% /section %}
+
+{% section #step-4 step=4 title="Import Clikkle" %}
+Find your project's ID in the **Settings** page.
+
+{% only_dark %}
+![Project settings screen](/clikkle/images/docs/quick-starts/dark/project-id.png)
+{% /only_dark %}
+
+{% only_light %}
+![Project settings screen](/clikkle/images/docs/quick-starts/project-id.png)
+{% /only_light %}
+
+Create a new file `src/lib/clikkle.js` and add the following code to it, replace `<PROJECT_ID>` with your project ID.
+
+```client-web
+import { Client, Account } from 'clikkle';
+
+export const client = new Client();
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('<PROJECT_ID>'); // Replace with your project ID
+
+export const account = new Account(client);
+export { ID } from 'clikkle';
+```
+{% /section %}
+
+{% section #step-5 step=5 title="Create a login page" %}
+Add the following code to `src/App.jsx`.
+
+```client-web
+import { createSignal } from 'solid-js'
+import { account, ID } from './lib/clikkle';
+
+const App = () => {
+    const [loggedInUser, setLoggedInUser] = createSignal(null);
+    const [email, setEmail] = createSignal('');
+    const [password, setPassword] = createSignal('');
+    const [name, setName] = createSignal('');
+
+    async function login(email, password) {
+        await account.createEmailPasswordSession({
+            email,
+            password
+        });
+        setLoggedInUser(await account.get());
+    }
+
+    async function register(email, password, name) {
+        await account.create({
+            userId: ID.unique(),
+            email,
+            password,
+            name
+        });
+        login(email, password);
+    }
+
+    async function logout() {
+        await account.deleteSession({ sessionId: 'current' });
+        setLoggedInUser(null);
+    }
+
+    if (loggedInUser()) {
+        return (
+            <div>
+                <p>Logged in as {loggedInUser().name}</p>
+                <button onClick={logout}>Logout</button>
+            </div>
+        );
+    }
+
+    return (
+        <div>
+            <p>Not logged in</p>
+            <form>
+                <input type="email" placeholder="Email" value={email()} onChange={e => setEmail(e.target.value)} />
+                <input type="password" placeholder="Password" value={password()} onChange={e => setPassword(e.target.value)} />
+                <input type="text" placeholder="Name" value={name()} onChange={e => setName(e.target.value)} />
+                <button type="button" onClick={() => login(email(), password())}>
+                    Login
+                </button>
+                <button type="button" onClick={() => register(email(), password(), name())}>
+                    Register
+                </button>
+            </form>
+        </div>
+    );
+};
+
+export default App;
+```
+{% /section %}
+
+{% section #step-6 step=6 title="All set" %}
+Run your project with `npm run dev -- --open --port 3000` and open [Localhost on Port 3000](http://localhost:3000) in your browser.
+{% /section %}
+

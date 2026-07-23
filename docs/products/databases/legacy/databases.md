@@ -1,0 +1,215 @@
+﻿---
+layout: article
+title: Databases
+description: Dive deeper into Clikkle Databases and their configuration. Learn how to create, manage, and optimize multiple databases for your application.
+---
+Databases are the largest organizational unit in Clikkle.
+Each database contains a group of [collections](/docs/products/databases/legacy/collections).
+In future versions, different databases may be backed by a different database technology of your choosing.
+
+# Create in Console {% #create-in-console %}
+The easiest way to create a database using the Clikkle Console.
+You can create a database by navigating to the **Databases** page and clicking **Create database**.
+
+
+
+# Create using Server SDKs {% #create-using-server-sdks %}
+You can programmatically create databases using a [Server SDK](/docs/sdks#server). Clikkle [Server SDKs](/docs/sdks#server) require an [API key](/docs/advanced/platform/api-keys).
+
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+// Init SDK
+const client = new sdk.Client();
+
+const databases = new sdk.Databases(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+const promise = databases.create('<DATABASE_ID>', '<NAME>');
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```deno
+import * as sdk from "npm:node-clikkle";
+
+// Init SDK
+let client = new sdk.Client();
+
+let databases = new sdk.Databases(client);
+
+client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+
+let promise = databases.create('<DATABASE_ID>', '<NAME>');
+
+promise.then(function (response) {
+    console.log(response);
+}, function (error) {
+    console.log(error);
+});
+```
+```php
+<?php
+
+use Clikkle\Client;
+use Clikkle\Services\Databases;
+
+$client = new Client();
+
+$client
+    ->setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    ->setProject('<PROJECT_ID>') // Your project ID
+    ->setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+;
+
+$databases = new Databases($client);
+
+$result = $databases->create('<DATABASE_ID>', '<NAME>');
+```
+```python
+from clikkle.client import Client
+from clikkle.services.databases import Databases
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>') # Your project ID
+  .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+)
+
+databases = Databases(client)
+
+result = databases.create('<DATABASE_ID>', '<NAME>')
+```
+```ruby
+require 'Clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>') # Your project ID
+    .set_key('919c2d18fb5d4...a2ae413da83346ad2') # Your secret API key
+
+databases = Databases.new(client)
+
+response = databases.create(database_id: '<DATABASE_ID>', name: '<NAME>')
+
+puts response.inspect
+```
+```csharp
+using Clikkle;
+using Clikkle.Services;
+using Clikkle.Models;
+
+var client = new Client()
+    .SetEndPoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>") // Your project ID
+    .SetKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+var databases = new Databases(client);
+
+Database result = await databases.Create(
+    databaseId: "<DATABASE_ID>",
+    name: "<NAME>");
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+void main() { // Init SDK
+  Client client = Client();
+  Databases databases = Databases(client);
+
+  client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>') // Your project ID
+    .setKey('919c2d18fb5d4...a2ae413da83346ad2') // Your secret API key
+  ;
+
+  Future result = databases.create(
+    databaseId: '<DATABASE_ID>',
+    name: '<NAME>',
+  );
+
+  result
+    .then((response) {
+      print(response);
+    }).catchError((error) {
+      print(error.response);
+  });
+}
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.services.Databases
+
+val client = Client(context)
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+val databases = Databases(client)
+
+val response = databases.create(
+    databaseId = "<DATABASE_ID>",
+    name = "<NAME>",
+)
+```
+```java
+import io.clikkle.Client;
+import io.clikkle.coroutines.CoroutineCallback;
+import io.clikkle.services.Databases;
+
+Client client = new Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2"); // Your secret API key
+
+Databases databases = new Databases(client);
+
+databases.create(
+    "<DATABASE_ID>",
+    "<NAME>",
+    new CoroutineCallback<>((result, error) -> {
+        if (error != null) {
+            error.printStackTrace();
+            return;
+        }
+
+        System.out.println(result);
+    })
+);
+```
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>") // Your project ID
+    .setKey("919c2d18fb5d4...a2ae413da83346ad2") // Your secret API key
+
+let databases = Databases(client)
+
+let response = try await databases.create(
+    databaseId: "<DATABASE_ID>",
+    name: "<NAME>"
+)
+```
+
+{% /multicode %}
+

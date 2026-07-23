@@ -1,0 +1,404 @@
+﻿---
+layout: article
+title: Migrating from Vercel to Clikkle Sites
+description: A step-by-step guide to migrate your web applications from Vercel to Clikkle Sites.
+---
+
+This guide walks you through migrating from Vercel to Clikkle Sites, covering project setup, configuration, routing, and serverless functionality.
+
+# Prerequisites
+
+Before starting your migration:
+
+- Have access to your Vercel project dashboard
+- Ensure you can modify your domain's DNS settings
+- Prepare your source code repository
+
+# Platform differences
+
+Understanding the key differences between Vercel and Clikkle Sites will help you plan your migration effectively.
+
+{% table %}
+- Feature
+- Vercel
+- Clikkle Sites
+
+---
+
+- DNS configuration
+- Uses A records for apex domains
+- Uses NS records for apex domains
+
+---
+
+- Configuration approach
+- Platform-level configuration via vercel.json
+- Framework-native configuration with SSR support
+
+---
+
+- Redirects
+- Platform-level path redirects via vercel.json
+- Domain-level redirects and framework-level path redirects
+{% /table %}
+
+# Migration process
+
+Follow these steps to move your application from Vercel to Clikkle Sites.
+
+{% section id="create-project" step=1 title="Create an Clikkle project" %}
+Start by setting up a new project in Clikkle:
+
+1. Sign in to the [Clikkle Console](https://cloud.clikkle.io)
+2. Click **Create Project**
+3. Enter a name for your project and click **Create**
+
+Your new project will serve as the container for your migrated site and any other Clikkle services you might need.
+{% /section %}
+
+{% section id="connect-repo" step=2 title="Connect your repository" %}
+Next, create a new site by connecting your existing repository:
+
+1. In your Clikkle project, select **Sites** from the sidebar
+2. Click **Create Site**
+3. Select **Connect a repository**
+4. Authenticate with GitHub
+5. Select the repository containing your Vercel project
+6. Choose your production branch (typically `main`)
+
+Clikkle will auto-detect your framework. Verify this is correct or select manually from the dropdown menu.
+{% /section %}
+
+# Configure your domain
+
+One of the differences between Vercel and Clikkle is how they handle domain configuration for apex domains. Vercel uses A records for apex domains, while Clikkle uses nameserver (NS) records. This means you'll need to delegate DNS management to Clikkle.
+
+# Migrating an apex domain
+
+{% section id="prepare-vercel-domain" step=1 title="Prepare your Vercel domain" %}
+Before migrating, row your current Vercel DNS configuration:
+
+1. In Vercel, go to project settings > Domains
+2. Note any custom DNS records you've configured (MX, TXT, etc.)
+3. Don't remove the domain from Vercel until Clikkle is fully configured
+{% /section %}
+
+{% section id="add-apex-domain" step=2 title="Add domain to Clikkle Sites" %}
+Add your apex domain to your Clikkle site:
+
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain**
+3. Enter your apex domain (e.g., `example.com`)
+4. Select **Active deployment** as the domain rule type
+5. Note the NS records Clikkle provides:
+   - `ns1.clikkle.zone`
+   - `ns2.clikkle.zone`
+{% /section %}
+
+{% section id="update-nameservers" step=3 title="Update nameservers at your registrar" %}
+At your domain registrar:
+
+1. Update your domain's nameservers to point to Clikkle's nameservers
+2. If you had custom DNS records in Vercel (like MX records for email), you'll need to recreate these in Clikkle's DNS configuration
+
+{% info title="Important DNS change note" %}
+Changing nameservers delegates your entire domain's DNS management to Clikkle. DNS changes can take up to 48 hours to fully propagate.
+{% /info %}
+{% /section %}
+
+# Migrating a subdomain
+
+For subdomains, both Vercel and Clikkle use CNAME records, making the migration process simpler.
+
+{% section id="add-subdomain" step=1 title="Add subdomain to Clikkle Sites" %}
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain**
+3. Enter your subdomain (e.g., `www.example.com`)
+4. Select **Active deployment** as the domain rule type
+5. Copy the CNAME value provided by Clikkle
+{% /section %}
+
+{% section id="update-dns-records" step=2 title="Update DNS records" %}
+At your domain registrar or DNS provider:
+
+1. Create or update the CNAME record for your subdomain
+2. Point it to the value provided by Clikkle
+3. Wait for DNS propagation and verification
+{% /section %}
+
+# Domain rule types
+
+When adding a domain in Clikkle, you can choose from three rule types: Active deployment, Git branch, or Redirect.
+
+{% arrow_link href="/docs/products/sites/domains#domain-rule-types" %}
+Learn more about domain rule types
+{% /arrow_link %}
+
+
+# Configure build settings
+
+After setting up your project and domain, you'll need to configure your build settings to match your Vercel configuration.
+
+{% section id="build-settings" step=1 title="Set up build configuration" %}
+Navigate to your site > **Settings** > **Build settings** and configure the following:
+
+- **Framework:** Clikkle will attempt to automatically detect your framework. Verify and ensure it is the same framework as in Vercel.
+- **Install command:** Enter the same install command from Vercel
+- **Build command:** Enter the same build command from Vercel
+- **Output directory:** Enter the same output directory from Vercel
+- **Root directory:** If your app is in a monorepo subdirectory, specify the path
+- **Rendering:** Select the appropriate rendering mode (Static or SSR)
+
+{% only_dark %}
+![Build settings](/clikkle/images/docs/sites/dark/build-settings-install-command.png)
+{% /only_dark %}
+{% only_light %}
+![Build settings](/clikkle/images/docs/sites/build-settings-install-command.png)
+{% /only_light %}
+{% /section %}
+
+# Framework defaults
+
+Clikkle automatically detects and applies default settings for popular frameworks like Next.js, Nuxt, SvelteKit, Angular, and Astro.
+
+{% arrow_link href="/docs/products/sites/develop#project-dependencies" %}
+Learn more about framework defaults and project dependencies
+{% /arrow_link %}
+
+# Manage environment variables
+
+Environment variables require special attention during migration, as they control how your application behaves in different environments.
+
+{% section id="gather-env-vars" step=1 title="Gather variables from Vercel" %}
+Before migrating, row all your Vercel environment variables:
+
+1. In Vercel, go to your project settings > **Environment Variables**
+2. Row all variables, noting which are for development, preview, or production
+3. Identify any system variables your application relies on
+
+{% info title="System variables" %}
+Vercel automatically provides system variables like `VERCEL_URL`. You'll need to adapt your code to use Clikkle's equivalent system variables.
+{% /info %}
+{% /section %}
+
+{% section id="set-env-vars" step=2 title="Set variables in Clikkle" %}
+1. Navigate to your site > **Settings** > **Environment variables**
+2. Click the **plus (+)** icon to add a new variable
+3. Enter the key and value for each variable. You can optionally import a `.env` file.
+4. Toggle **Secret** for sensitive variables that should be hidden
+
+{% only_dark %}
+![Environment variables](/clikkle/images/docs/sites/dark/env-variables.png)
+{% /only_dark %}
+{% only_light %}
+![Environment variables](/clikkle/images/docs/sites/env-variables.png)
+{% /only_light %}
+{% /section %}
+
+# Clikkle system variables
+Clikkle automatically injects these variables into your site:
+
+| Variable                        | Description                                             | Available at Build and/or Run Time |
+| ------------------------------- | ------------------------------------------------------- | ---------------------------------- |
+| `CLIKKLE_SITE_API_ENDPOINT`    | The API endpoint of the running site                    | Both                               |
+| `CLIKKLE_SITE_NAME`            | The name of the running site.                           | Both                               |
+| `CLIKKLE_SITE_DEPLOYMENT`      | The deployment ID of the running sites.                 | Both                               |
+| `CLIKKLE_SITE_PROJECT_ID`      | The project ID of the running site.                     | Both                               |
+| `CLIKKLE_SITE_RUNTIME_NAME`    | The runtime name of the running site.                   | Both                               |
+| `CLIKKLE_SITE_RUNTIME_VERSION` | The runtime version of the running site.                | Both                               |
+| `CLIKKLE_SITE_CPUS`            | The CPU (runtime) specification of the running site.    | Both                               |
+| `CLIKKLE_SITE_MEMORY`          | The memory (runtime) specification of the running site. | Both                               |
+
+
+# Handle redirects and rewrites
+
+One key difference between Vercel and Clikkle is how they handle redirects and rewrites.
+
+{% info title="Key difference" %}
+Vercel offers platform-level path redirects configured in `vercel.json`, while Clikkle provides domain-level redirects through the Domains tab and supports framework-level path redirects through your application code.
+{% /info %}
+
+{% section id="domain-redirects" step=1 title="Domain-level redirects" %}
+Clikkle's domain-level redirects are configured in the Domains tab of your site:
+
+1. Navigate to your site > **Domains** tab
+2. Click **Add domain** or select an existing domain
+3. Choose **Redirect** as the domain rule type
+4. Enter the destination URL and select an appropriate HTTP status code (301, 302, 303, 307, or 308)
+
+Domain redirects in Clikkle do not preserve path or query parameters. For example, if you redirect `example.com` to `clikkle.io`, then `example.com/docs?id=123` will redirect to `clikkle.io` (not `clikkle.io/docs?id=123`).
+{% /section %}
+
+{% section id="framework-redirects" step=2 title="Framework-level redirects" %}
+For path-based redirects, use your framework's built-in functionality:
+
+# Next.js
+```javascript
+// next.config.js
+module.exports = {
+  async redirects() {
+    return [
+      {
+        source: '/old-path',
+        destination: '/new-path',
+        permanent: true, // 308 status code
+      },
+    ];
+  },
+};
+```
+
+# SvelteKit
+```javascript
+// src/routes/+layout.server.js
+export function load({ url }) {
+  if (url.pathname === '/old-path') {
+    return {
+      status: 301,
+      redirect: '/new-path'
+    };
+  }
+}
+```
+
+# Nuxt
+```javascript
+// nuxt.config.js
+export default {
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.push({
+        path: '/old-path',
+        redirect: {
+          to: '/new-path',
+          statusCode: 301
+        }
+      });
+    }
+  }
+}
+```
+{% /section %}
+
+# Migrate serverless functions
+
+There are two approaches to serverless functions when migrating from Vercel to Clikkle:
+
+{% info title="Framework API routes vs. standalone functions" %}
+When using frameworks like Next.js, Nuxt, or SvelteKit with SSR enabled, your API routes will work natively within Clikkle Sites, just as they do in Vercel. For standalone serverless functions or more complex use cases, you can use [Clikkle Functions](/docs/functions).
+{% /info %}
+
+{% section id="framework-api-routes" step=1 title="Framework API routes" %}
+For frameworks with built-in API routes:
+
+1. **Next.js**: API routes in `/pages/api` or route handlers in `/app/api` work natively
+2. **Nuxt**: Server API endpoints work as expected
+3. **SvelteKit**: Server routes and API endpoints function normally
+
+No migration is needed for these framework-native API routes - they'll work automatically when you deploy your site with SSR enabled.
+{% /section %}
+
+{% section id="standalone-functions" step=2 title="Standalone Clikkle Functions" %}
+For standalone serverless functions or more complex use cases:
+
+1. In your Clikkle project, go to **Functions**
+2. Click **Create Function**
+3. Select a runtime that matches your needs (Node.js, Python, PHP, Ruby, etc.)
+4. Create your function code
+5. Deploy your function
+{% /section %}
+
+{% arrow_link href="/docs/products/functions/quick-start" %}
+Learn how to create and deploy functions
+{% /arrow_link %}
+
+{% section id="update-endpoints" step=3 title="API endpoints usage" %}
+
+# Framework API routes
+When using framework API routes within Clikkle Sites (with SSR enabled), your endpoints remain the same:
+
+- Vercel: `/api/hello`
+- Clikkle Sites: `/api/hello` (no change needed)
+
+Your existing API routes code will work without modification:
+
+```javascript
+// /api/hello.js in Next.js (works the same in both Vercel and Clikkle Sites)
+export default function handler(req, res) {
+  res.status(200).json({ message: 'Hello!' });
+}
+```
+
+# Standalone Clikkle Functions
+If you're using standalone Clikkle Functions (outside your site's codebase), you'll need to update your frontend code to use the Clikkle Functions API:
+
+```javascript
+// Calling an Clikkle Function from your frontend
+import { Client, Functions } from 'clikkle';
+
+const client = new Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1')
+    .setProject('your-project-id');
+
+const functions = new Functions(client);
+
+const response = await functions.createExecution({
+    functionId: 'your-function-id'
+});
+```
+{% /section %}
+
+# Handle middleware
+
+While Vercel offers platform-level Edge Middleware configured through `vercel.json`, Clikkle Sites fully supports framework-native middleware when using SSR. This means your existing middleware code will continue to work without modification.
+
+{% section id="framework-middleware" step=1 title="Framework-native middleware" %}
+# Next.js
+```javascript
+// middleware.js
+export function middleware(request) {
+  // Your middleware logic
+}
+
+export const config = {
+  matcher: '/path/:path*',
+};
+```
+
+# SvelteKit
+```javascript
+// src/hooks.server.js
+export async function handle({ event, resolve }) {
+  // Your middleware logic before response
+  const response = await resolve(event);
+  // Your middleware logic after response
+  return response;
+}
+```
+
+# Nuxt
+```javascript
+// server/middleware/example.js
+export default defineEventHandler((event) => {
+  // Your middleware logic
+});
+```
+{% /section %}
+
+# Next steps
+
+After completing your migration from Vercel to Clikkle Sites, we recommend:
+
+1. **Test thoroughly** - Verify all routes, functionality, and environment-specific features
+2. **Monitor performance** - Check that your site performs as expected on Clikkle
+3. **Set up CI/CD** - Clikkle already provides git integration and deployment workflows, but you can also use GitHub Actions or any other CI/CD tool to automate your deployments.
+4. **Explore Clikkle services** - Consider integrating with other Clikkle services like [Authentication](/docs/products/auth), [Databases](/docs/products/databases), and [Storage](/docs/products/storage)
+
+# Conclusion
+
+This guide has outlined the key steps for migrating from Vercel to Clikkle Sites. You'll find that Git integration and deployment workflows remain largely familiar, making these aspects of migration more approachable for most projects.
+
+While domain configuration and platform-specific features like middleware require some adaptation, the framework-native approaches detailed in this guide help ensure a smooth transition.
+
+For additional help, refer to the [Sites documentation](/docs/products/sites) or reach out to the Clikkle community on [Discord](https://clikkle.io/discord).
+

@@ -1,0 +1,189 @@
+﻿---
+layout: article
+title: Labels
+description: Organize your users and grant custom permissions for subscriptions or VIP users with labels.
+---
+
+Labels are a good way to categorize a user to grant them access to resources. For example, a `subscriber` label can be added to a user once they've purchased a subscription.
+
+{% multicode %}
+```server-nodejs
+const sdk = require('node-clikkle');
+
+const client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+const users = new sdk.Users(client);
+
+const promise = users.updateLabels(
+    '<USER_ID>',
+    [ 'subscriber' ]
+);
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+
+```php
+use Clikkle\Client;
+use Clikkle\Services\Users;
+use Clikkle\Role;
+
+$client = new Client();
+
+$client
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+$users = new Users($client);
+
+$result = $users->updateLabels(
+    '<USER_ID>',
+    [ 'subscriber' ]
+);
+```
+
+```python
+from clikkle.client import Client
+from clikkle.services.users import Users
+from clikkle.role import Role
+
+client = Client()
+
+(client
+  .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+  .set_project('<PROJECT_ID>')                 # Your project ID
+  .set_key('98fd4...a2ad2')                     # Your secret API key
+)
+ 
+users = Users(client)
+
+result = users.update_labels(
+    '<USER_ID>',
+    [ 'subscriber' ]
+);
+```
+```ruby
+require 'clikkle'
+
+include Clikkle
+
+client = Client.new
+    .set_endpoint('https://<REGION>.cloud.clikkle.io/v1') # Your API Endpoint
+    .set_project('<PROJECT_ID>')                 # Your project ID
+    .set_key('98fd4...a2ad2')                     # Your secret API key
+
+users = Users.new(client)
+
+response = users.update_labels(
+    user_id: '<USER_ID>',
+    labels: [ 'subscriber' ]
+);
+```
+
+```deno
+import * as sdk from "npm:node-clikkle";
+
+let client = new sdk.Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+let users = new sdk.Users(client);
+
+const promise = users.updateLabels(
+    '<USER_ID>',
+    [ 'subscriber' ]
+);
+
+promise.then(function (response) {
+    console.log(response); // Success
+}, function (error) {
+    console.log(error); // Failure
+});
+```
+```dart
+import 'package:dart_clikkle/dart_clikkle.dart';
+
+final client = Client()
+    .setEndpoint('https://<REGION>.cloud.clikkle.io/v1') // Your API Endpoint
+    .setProject('<PROJECT_ID>')                 // Your project ID
+    .setKey('98fd4...a2ad2');                    // Your secret API key
+
+final users = Users(client);
+
+final result = await users.updateLabels(
+    userId: '<USER_ID>',
+    labels: [ 'subscriber' ],
+);
+```
+```kotlin
+import io.clikkle.Client
+import io.clikkle.Role
+import io.clikkle.services.Users
+
+val client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("98fd4...a2ad2")                     // Your secret API key
+
+val users = Users(client)
+
+val response = users.updateLabels(
+    userId = "<USER_ID>",
+    labels = [ 'subscriber' ]
+);
+```
+
+```swift
+import Clikkle
+
+let client = Client()
+    .setEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .setProject("<PROJECT_ID>")                 // Your project ID
+    .setKey("98fd4...a2ad2")                     // Your secret API key
+
+let users = Users(client)
+
+let response = try await users.updateLabels(
+    userId: "<USER_ID>",
+    labels: [ 'subscriber' ]
+);
+```
+
+```csharp
+using Clikkle;
+
+var client = new Client()
+    .SetEndpoint("https://<REGION>.cloud.clikkle.io/v1") // Your API Endpoint
+    .SetProject("<PROJECT_ID>")                 // Your project ID
+    .SetKey("98fd4...a2ad2");                    // Your secret API key
+
+var users = new Users(client);
+
+var response = await users.UpdateLabels(
+    userId: "<USER_ID>",
+    labels: [ 'subscriber' ]
+);
+```
+{% /multicode %}
+
+This would correspond with the permissions below.
+
+| Description                                 | Code Snippet                                |
+| ------------------------------------------- | ------------------------------------------- |
+| Read   | `Permissions.read(Role.label('subscriber'))`|
+| Update | `Permissions.update(Role.label('subscriber'))` |
+| Delete | `Permissions.delete(Role.label('subscriber'))` |
+| Create | `Permissions.create(Role.label('subscriber'))` |
+
+{% arrow_link href="/docs/advanced/platform/permissions" %}
+Learn more about permissions
+{% /arrow_link %}
+

@@ -1,0 +1,31 @@
+# AttributeString
+
+AttributeString
+
+## Properties
+
+| Name | Type | Description |
+|------|------|-------------|
+| key | string | Attribute Key. |
+| type | string | Attribute type. |
+| status | string | Attribute status. Possible values: `available`, `processing`, `deleting`, `stuck`, or `failed` |
+| error | string | Error message. Displays error generated on failure of creating or deleting an attribute. |
+| required | boolean | Is attribute required? |
+| array | boolean | Is attribute an array? |
+| size | integer | Attribute size. |
+| default | string | Default value for attribute when not provided. Cannot be set when attribute is required. |
+
+## Example
+
+### REST
+
+```json
+{}
+```
+
+### GraphQL
+
+```json
+{}
+```
+
